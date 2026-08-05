@@ -34,6 +34,20 @@ export function PageClient({
   })
 
   React.useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setAreControlsVisible(false)
+      }
+    }
+
+    window.addEventListener("keydown", handleKeyDown)
+
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown)
+    }
+  }, [])
+
+  React.useEffect(() => {
     const updateScrollFade = () => {
       const scrollTop = window.scrollY
       const maxScrollTop = Math.max(

@@ -42,7 +42,7 @@ function parseFrontmatter(fileContent: string): {
   return { data, content }
 }
 
-export function getAllNovels(): NovelMeta[] {
+export function getAllNovels({ sort }: { sort: "asc" | "desc" }): NovelMeta[] {
   if (!fs.existsSync(contentDir)) {
     return []
   }
@@ -70,8 +70,10 @@ export function getAllNovels(): NovelMeta[] {
     const numA = parseInt(String(a.slug), 10)
     const numB = parseInt(String(b.slug), 10)
     if (!isNaN(numA) && !isNaN(numB)) {
-      return numA - numB
+      return sort === "asc" ? numA - numB : numB - numA
     }
-    return a.slug.localeCompare(b.slug)
+    return sort === "asc"
+      ? a.slug.localeCompare(b.slug)
+      : b.slug.localeCompare(a.slug)
   })
 }

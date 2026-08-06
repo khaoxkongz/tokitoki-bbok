@@ -50,7 +50,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="th"
       suppressHydrationWarning
       className={cn(
         cordiaSans.variable,

@@ -7,8 +7,8 @@ import { cn } from "@/lib/utils"
 import "./globals.css"
 
 const cordiaSans = localFont({
-  src: "./cordia.ttc",
-  variable: "--font-cordia-sans",
+  src: "./cordia.woff2",
+  variable: "--font-cordia",
 })
 
 const fontSans = Geist({

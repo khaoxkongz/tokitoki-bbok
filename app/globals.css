@@ -8,6 +8,7 @@
 @theme inline {
   --font-heading: var(--font-sans);
   --font-cordia: "--font-cordia-local";
+  --font-arundina-mono: "--font-arundina-mono-local";
   --font-sans: "Geist Variable", "Bai Jamjuree", sans-serif;
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
@@ -144,9 +145,13 @@
 }
 
 .typeset-docs {
-  --typeset-font-body: var(--font-cordia-local), var(--font-geist);
-  --typeset-font-heading: var(--font-cordia-local), var(--font-geist);
-  --typeset-font-mono: var(--font-cordia-local), var(--font-geist-mono);
+  --typeset-font-body:
+    var(--font-arundina-mono-local), var(--font-cordia-local), var(--font-geist);
+  --typeset-font-heading:
+    var(--font-arundina-mono-local), var(--font-cordia-local), var(--font-geist);
+  --typeset-font-mono:
+    var(--font-arundina-mono-local), var(--font-cordia-local),
+    var(--font-geist-mono);
   --typeset-size: 1.75rem;
   --typeset-leading: 1.25;
   --typeset-flow: 1.25em;

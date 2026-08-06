@@ -6,6 +6,28 @@ import { cn } from "@/lib/utils"
 
 import "./globals.css"
 
+export const arundinaMono = localFont({
+  src: [
+    {
+      path: "./fonts/Arundinamono.ttf",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Arundinamobi.ttf",
+      weight: "700",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Arundinamoit.ttf",
+      weight: "400",
+      style: "italic",
+    },
+  ],
+  variable: "--font-arundina-mono-local",
+  display: "swap",
+})
+
 export const cordiaSans = localFont({
   src: [
     {
@@ -54,6 +76,7 @@ export default function RootLayout({
       suppressHydrationWarning
       className={cn(
         cordiaSans.variable,
+        arundinaMono.variable,
         fontSans.variable,
         fontMono.variable,
         "antialiased",

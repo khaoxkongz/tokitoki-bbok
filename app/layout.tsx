@@ -29,7 +29,7 @@ export const cordiaSans = localFont({
       style: "italic",
     },
   ],
-  variable: "--font-cordia",
+  variable: "--font-cordia-local",
   display: "swap",
 })
 

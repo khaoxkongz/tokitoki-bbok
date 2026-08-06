@@ -1,79 +1,83 @@
+import "server-only"
+
 import fs from "node:fs"
 import path from "node:path"
+import matter from "gray-matter"
 
-export interface NovelMeta {
-  slug: string
-  title: string
-  description?: string
-  episode?: number | string
-  published?: string
+import {
+  sortNovels,
+  type NovelMeta,
+  type NovelSortOrder,
+} from "./novels.shared"
+
+export type { NovelMeta, NovelSortOrder } from "./novels.shared"
+
+const contentDirectory = path.join(process.cwd(), "content/novels")
+
+interface NovelNavigation {
+  current: NovelMeta
+  previous: NovelMeta | null
+  next: NovelMeta | null
 }
 
-const contentDir = path.join(process.cwd(), "content/novels")
+function getOptionalString(value: unknown): string | undefined {
+  return typeof value === "string" ? value : undefined
+}
 
-function parseFrontmatter(fileContent: string): {
-  data: Record<string, string>
-  content: string
-} {
-  const frontmatterRegex = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?/
-  const match = fileContent.match(frontmatterRegex)
+function readNovel(filename: string): NovelMeta {
+  const slug = filename.replace(/\.mdx?$/, "")
+  const filePath = path.join(contentDirectory, filename)
+  const fileContent = fs.readFileSync(filePath, "utf8")
 
-  const data: Record<string, string> = {}
-  let content = fileContent
+  const { data } = matter(fileContent)
 
-  if (match) {
-    content = fileContent.slice(match[0].length)
-    const lines = match[1].split("\n")
-    for (const line of lines) {
-      const colonIndex = line.indexOf(":")
-      if (colonIndex !== -1) {
-        const key = line.slice(0, colonIndex).trim()
-        const value = line
-          .slice(colonIndex + 1)
-          .trim()
-          .replace(/^["']|["']$/g, "")
-        if (key) {
-          data[key] = value
-        }
-      }
-    }
+  return {
+    slug,
+    title: getOptionalString(data.title) ?? `ตอนที่ ${slug}`,
+    description: getOptionalString(data.description),
+    episode: String(data.episode ?? slug),
+    published: getOptionalString(data.published),
   }
-
-  return { data, content }
 }
 
-export function getAllNovels({ sort }: { sort: "asc" | "desc" }): NovelMeta[] {
-  if (!fs.existsSync(contentDir)) {
+export function getAllNovels({
+  sort = "asc",
+}: {
+  sort?: NovelSortOrder
+} = {}): NovelMeta[] {
+  if (!fs.existsSync(contentDirectory)) {
     return []
   }
 
-  const files = fs
-    .readdirSync(contentDir)
-    .filter((file) => file.endsWith(".mdx") || file.endsWith(".md"))
+  const novels = fs
+    .readdirSync(contentDirectory)
+    .filter((filename) => filename.endsWith(".mdx") || filename.endsWith(".md"))
+    .map(readNovel)
 
-  const novels = files.map((filename) => {
-    const slug = filename.replace(/\.mdx?$/, "")
-    const filePath = path.join(contentDir, filename)
-    const fileContent = fs.readFileSync(filePath, "utf8")
-    const { data } = parseFrontmatter(fileContent)
+  return sortNovels(novels, sort)
+}
 
-    return {
-      slug,
-      title: data.title || `ตอนที่ ${slug}`,
-      description: data.description,
-      episode: data.episode || slug,
-      published: data.published,
-    }
-  })
+export function getNovelBySlug(
+  slug: string,
+  novels: readonly NovelMeta[] = getAllNovels()
+): NovelMeta | null {
+  return novels.find((novel) => novel.slug === slug) ?? null
+}
 
-  return novels.sort((a, b) => {
-    const numA = parseInt(String(a.slug), 10)
-    const numB = parseInt(String(b.slug), 10)
-    if (!isNaN(numA) && !isNaN(numB)) {
-      return sort === "asc" ? numA - numB : numB - numA
-    }
-    return sort === "asc"
-      ? a.slug.localeCompare(b.slug)
-      : b.slug.localeCompare(a.slug)
-  })
+export function getNovelNavigation(
+  slug: string,
+  novels: readonly NovelMeta[] = getAllNovels({ sort: "asc" })
+): NovelNavigation | null {
+  const orderedNovels = sortNovels(novels, "asc")
+  const currentIndex = orderedNovels.findIndex((novel) => novel.slug === slug)
+
+  if (currentIndex === -1) {
+    return null
+  }
+
+  return {
+    current: orderedNovels[currentIndex],
+    previous: orderedNovels[currentIndex - 1] ?? null,
+    next: orderedNovels[currentIndex + 1] ?? null,
+  }
 }

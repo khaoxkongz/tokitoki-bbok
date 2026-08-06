@@ -1,9 +1,15 @@
 import { Geist, Geist_Mono } from "next/font/google"
+import localFont from "next/font/local"
 
 import { ThemeProvider } from "@/components/theme-provider"
 import { cn } from "@/lib/utils"
 
 import "./globals.css"
+
+const cordiaSans = localFont({
+  src: "./cordia.ttc",
+  variable: "--font-cordia-sans",
+})
 
 const fontSans = Geist({
   subsets: ["latin"],
@@ -25,6 +31,7 @@ export default function RootLayout({
       lang="en"
       suppressHydrationWarning
       className={cn(
+        cordiaSans.variable,
         fontSans.variable,
         fontMono.variable,
         "antialiased",

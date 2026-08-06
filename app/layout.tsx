@@ -6,9 +6,31 @@ import { cn } from "@/lib/utils"
 
 import "./globals.css"
 
-const cordiaSans = localFont({
-  src: "./cordia.woff2",
+export const cordiaSans = localFont({
+  src: [
+    {
+      path: "./fonts/00-CordiaNew.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/01-CordiaNew-Bold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+    {
+      path: "./fonts/02-CordiaNew-BoldItalic.woff2",
+      weight: "700",
+      style: "italic",
+    },
+    {
+      path: "./fonts/03-CordiaNew-Italic.woff2",
+      weight: "400",
+      style: "italic",
+    },
+  ],
   variable: "--font-cordia",
+  display: "swap",
 })
 
 const fontSans = Geist({

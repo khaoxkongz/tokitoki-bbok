@@ -149,5 +149,5 @@
   --typeset-font-mono: var(--font-cordia-local), var(--font-geist-mono);
   --typeset-size: 1.75rem;
   --typeset-leading: 1.25;
-  --typeset-flow: 0.625em;
+  --typeset-flow: 1.25em;
 }

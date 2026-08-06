@@ -6,6 +6,7 @@ import { novelInfo } from "@/features/novel/config"
 import type { ChapterMeta } from "@/features/novel/types"
 import { cn } from "@/lib/utils"
 import { ReaderFontMenu } from "./reader-font-menu.client"
+import { ReaderSettingsMenu } from "./reader-settings-menu.client"
 
 interface ReaderToolbarProps {
   visible: boolean
@@ -65,7 +66,7 @@ export function ReaderToolbar({ visible, currentChapter }: ReaderToolbarProps) {
         </Link>
 
         <div className="ml-3 flex shrink-0 items-center justify-end gap-2">
-          <ReaderFontMenu />
+          <ReaderSettingsMenu />
           <Button
             type="button"
             size="icon-lg"

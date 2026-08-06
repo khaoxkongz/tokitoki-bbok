@@ -147,6 +147,12 @@
 }
 
 .typeset-docs {
+  --reader-font-size: 28px;
+  --reader-line-height: 1.55;
+  --reader-content-width: 75ch;
+  --reader-paragraph-spacing: 1.25em;
+  --reader-letter-spacing: 0em;
+
   --reader-font-body:
     var(--font-arundina-serif-local), var(--font-arundina-sans-local),
     sans-serif;
@@ -162,12 +168,21 @@
   --typeset-font-heading: var(--reader-font-heading);
   --typeset-font-mono: var(--reader-font-mono);
 
-  --typeset-size: 1.75rem;
-  --typeset-leading: 1.45;
-  --typeset-flow: 1.25em;
+  --typeset-size: var(--reader-font-size);
+  --typeset-leading: var(--reader-line-height);
+  --typeset-flow: var(--reader-paragraph-spacing);
+
+  max-width: var(--reader-content-width);
+  font-size: var(--reader-font-size);
+  line-height: var(--reader-line-height);
+  letter-spacing: var(--reader-letter-spacing);
+  transition:
+    max-width 160ms ease,
+    font-size 160ms ease,
+    line-height 160ms ease,
+    letter-spacing 160ms ease;
 }
 
-/* Arundina Serif */
 html[data-reader-font="arundina-serif"] .typeset-docs {
   --reader-font-body:
     var(--font-arundina-serif-local), var(--font-arundina-sans-local),
@@ -178,50 +193,34 @@ html[data-reader-font="arundina-serif"] .typeset-docs {
     sans-serif;
 }
 
-/* Arundina Sans */
 html[data-reader-font="arundina-sans"] .typeset-docs {
   --reader-font-body: var(--font-arundina-sans-local), sans-serif;
 
   --reader-font-heading: var(--font-arundina-sans-local), sans-serif;
 }
 
-/* Arundina Mono */
-html[data-reader-font="arundina-mono"] .typeset-docs {
-  --reader-font-body: var(--font-arundina-mono-local), monospace;
-
-  --reader-font-heading: var(--font-arundina-mono-local), monospace;
-
-  --reader-font-mono: var(--font-arundina-mono-local), monospace;
-
-  --typeset-leading: 1.55;
-}
-
-/* Cordia New */
 html[data-reader-font="cordia"] .typeset-docs {
   --reader-font-body:
     var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
 
   --reader-font-heading:
     var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
-
-  /*
-   * Cordia มีขนาดตัวอักษรเชิงสายตาเล็กกว่าฟอนต์อื่น
-   * จึงเพิ่มขนาดเล็กน้อย
-   */
-  --typeset-size: 2rem;
-  --typeset-leading: 1.35;
 }
 
-/* Geist */
+html[data-reader-font="arundina-mono"] .typeset-docs {
+  --reader-font-body: var(--font-arundina-mono-local), monospace;
+
+  --reader-font-heading: var(--font-arundina-mono-local), monospace;
+
+  --reader-font-mono: var(--font-arundina-mono-local), monospace;
+}
+
 html[data-reader-font="geist"] .typeset-docs {
   --reader-font-body:
     var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
 
   --reader-font-heading:
     var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
-
-  --reader-font-mono:
-    var(--font-geist-mono), var(--font-arundina-mono-local), monospace;
 }
 
 .typeset-docs :where(p, li, blockquote) {
@@ -231,6 +230,16 @@ html[data-reader-font="geist"] .typeset-docs {
   white-space: normal;
 }
 
+html[data-reader-align="left"] .typeset-docs :where(p, li, blockquote) {
+  text-align: left;
+}
+
+html[data-reader-align="justify"] .typeset-docs :where(p, li, blockquote) {
+  text-align: justify;
+  text-justify: inter-character;
+}
+
 .typeset-docs :where(h1, h2, h3, h4) {
   text-wrap: balance;
+  letter-spacing: normal;
 }

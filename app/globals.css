@@ -94,6 +94,18 @@
   --sidebar-ring: oklch(0.709 0.01 56.259);
   --font-geist: "Geist Variable", sans-serif;
   --font-geist-mono: "Geist Mono Variable", monospace;
+  --font-geist-sans: var(--font-sans), "Geist Variable", sans-serif;
+
+  /*
+   * ค่าเริ่มต้นของ reader preferences
+   * ต้องอยู่ที่ :root เพื่อให้ JS ตั้งค่าบน <html> ได้
+   * (อย่าใส่ค่าคงที่ซ้ำใน .typeset-docs จะทับค่าจาก applyReaderPreferences)
+   */
+  --reader-font-size: 28px;
+  --reader-line-height: 1.55;
+  --reader-content-width: 75ch;
+  --reader-paragraph-spacing: 1.25em;
+  --reader-letter-spacing: 0em;
 }
 
 .dark {
@@ -147,12 +159,6 @@
 }
 
 .typeset-docs {
-  --reader-font-size: 28px;
-  --reader-line-height: 1.55;
-  --reader-content-width: 75ch;
-  --reader-paragraph-spacing: 1.25em;
-  --reader-letter-spacing: 0em;
-
   --reader-font-body:
     var(--font-arundina-serif-local), var(--font-arundina-sans-local),
     sans-serif;

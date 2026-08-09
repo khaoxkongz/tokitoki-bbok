@@ -446,7 +446,6 @@ I ignored his question and increased the intensity of my questions.
 
 "You're so nosy. What about you?"
 
-Ads by Pubfuture
 "What? Me?"
 
 "Yeah. Do you have a girlfriend? You've been here for over ten years. You could even get married if you wanted to."

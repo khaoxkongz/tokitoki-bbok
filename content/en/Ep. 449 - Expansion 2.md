@@ -450,7 +450,6 @@ Thud, thud.
 
 I walked through the forest path I had taken with my fellow barbarians after the coming-of-age ceremony.
 
-Ads by Pubfuture
 “Bjorn, son of Yandel! Bjorn, son of Yandel!”
 
 “The strongest warrior, inheritor of the Giant’s name!”

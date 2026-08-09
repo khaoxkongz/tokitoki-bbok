@@ -314,7 +314,6 @@ He looked at us, his face hardening.
 
 He didn't say a word.
 
-Ads by Pubfuture
 So I spoke first.
 
 "Why are you so quiet? You were in such a hurry to get here."

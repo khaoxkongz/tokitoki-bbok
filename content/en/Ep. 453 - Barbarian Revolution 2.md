@@ -356,7 +356,6 @@ Hmm, I didn’t know about that.
 
 I felt a sense of dissonance, but I couldn’t ask any further questions because they were greeting me.
 
-Ads by Pubfuture
 “Ah, hello! Baron Yandel! I’m Rick Anderson, from the Civil Engineering Department of the administrative office.”
 
 “Mary Jayne… I worked in the Civilian Support Department with Emure.”

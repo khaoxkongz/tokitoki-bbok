@@ -380,7 +380,6 @@ Otherwise, why would he be backing away—
 
 He raised his hands defensively and took three steps back.
 
-Ads by Pubfuture
 “Ah! Come on, hyung! You can’t even take a joke?”
 
 His expression and tone had changed completely.

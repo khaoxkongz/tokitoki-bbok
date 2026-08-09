@@ -654,7 +654,6 @@ There's no answer.
 
 And there never will be.
 
-Ads by Pubfuture
 So...
 
 Swoosh.

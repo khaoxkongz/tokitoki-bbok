@@ -296,7 +296,6 @@ And...
 
 She even had the 4th-grade essence, which dealt 50% reduced damage after dealing fire damage to multiple targets in a short time.
 
-Ads by Pubfuture
 Kaboom! Kaboom! Kaboom!
 
 Every swing of her sword triggered a chain of explosions.

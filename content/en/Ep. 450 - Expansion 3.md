@@ -502,7 +502,6 @@ His axe started to glow red, as if it had just come out of a forge.
 
 Damn it, he finally reached full stacks.
 
-Pubfuture Ads
 I had tried to finish him off before that.
 
 「The stat increase from Heat is greatly amplified.」

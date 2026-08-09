@@ -376,8 +376,6 @@ Well, that was the official story.
 
 I had tried to sow discord between them, but I still didn’t know what the Marquis’s true intentions were.
 
-Ads by Pubfuture
-Pubfuture Ads
 Why did he summon Ragna? And why did he suggest the integration proposal to her—
 
 “Yandel, you seem to dislike the Marquis.”

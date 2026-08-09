@@ -450,7 +450,6 @@ I quickly asked Erwen,
 
 "Is he coming this way?"
 
-Ads by Pubfuture
 "...No."
 
 That was a relief.

@@ -296,7 +296,6 @@ He doesn’t mean it.
 
 The call ends.
 
-Ads by Pubfuture
 “We’ll escort you to your rooms.”
 
 Did our story work?

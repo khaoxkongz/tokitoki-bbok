@@ -284,7 +284,6 @@ Goblin glanced at Fox with concern, and…
 
 Stag Antlers, who seemed to be from the royal faction, was the most surprised.
 
-Ads by Pubfuture
 So they didn’t know anything about it.
 
 “Well, it’s a green light, but…”

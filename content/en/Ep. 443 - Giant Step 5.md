@@ -390,7 +390,6 @@ The royal family’s Intelligence Department was interpreting the situation as I
 
 I hadn’t seen him since the victory parade.
 
-Ads by Pubfuture
 This would be our first meeting since then.
 
 “Viscount Yandel.”

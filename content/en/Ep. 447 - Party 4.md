@@ -280,7 +280,6 @@ Some asked for help.
 
 “Miss Marone… what’s that on your nails?”
 
-Ads by Pubfuture
 “Ah, this? Pretty, right? It’s the latest trend among mages. Do you want to try it, Tersia?”
 
 And some just chatted idly.

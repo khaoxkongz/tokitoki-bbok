@@ -440,7 +440,6 @@ I’m going to give you a privilege that only nobles have.
 
 “But the land in the sanctuary is different! If I give you permission, you can buy it! And once you buy it, it’s yours! Forever!!”
 
-Ads by Pubfuture
 Of course, there would be property taxes…
 
 “You can carve your name on it, build a statue, anything you want! It’s your freedom!!”

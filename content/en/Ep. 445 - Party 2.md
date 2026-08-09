@@ -436,7 +436,6 @@ Her expression changed.
 
 “What has changed after all these years of enduring their insults? If we had taken even a single step forward… the outcome would have been different!”
 
-Ads by Pubfuture
 The naive herbivore was gone.
 
 Only a determined beast remained.

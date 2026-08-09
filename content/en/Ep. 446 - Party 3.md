@@ -358,7 +358,6 @@ Erwen, who had been disappointed, was now praising me.
 
 Amelia, on the other hand, was still blunt.
 
-Ads by Pubfuture
 But she added,
 
 “But… maybe this is better.”

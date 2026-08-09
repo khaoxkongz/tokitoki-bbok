@@ -516,7 +516,6 @@ The woman was Bersil Gowland. Sven Parab looked around nervously, but didn't ans
 
 Bersil tilted her head, confused, but I was impressed.
 
-Ads by Pubfuture
 'Could he have sensed that Amelia was watching him?'
 
 It was a mystery, but the video continued.

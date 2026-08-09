@@ -428,7 +428,6 @@ I look at the bald pugilist and ask.
 
 Regal Vagos might make a foolish decision out of revenge, but he's not the one in charge.
 
-Ads by Pubfuture
 "Don't you realize? You're next."
 
 My words are meant to sow discord between them.

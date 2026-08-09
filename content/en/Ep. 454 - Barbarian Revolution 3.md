@@ -272,7 +272,6 @@ And at that moment…
 
 The apprentice shaman entered the tent and looked at me, his eyes wide with fear.
 
-Ads by Pubfuture
 “N-no! I still have much to learn! Please don’t kill me! I’m working hard!”
 
 Uh…

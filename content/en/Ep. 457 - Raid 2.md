@@ -374,7 +374,6 @@ And that wasn't all.
 
 「The trajectory of the ranged attack has been altered.」
 
-Ads by Pubfuture
 They used Numbered Items.
 
 「The Orc Shaman has cast [Frenzy].」

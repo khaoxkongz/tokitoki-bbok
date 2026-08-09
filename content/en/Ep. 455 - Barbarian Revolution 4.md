@@ -350,7 +350,6 @@ The Crystal Cave, shimmering with a faint purple light.
 
 “The Goblin Forest.”
 
-Ads by Pubfuture
 We all spoke at the same time as soon as we entered.
 
 Me, the student of Lotmiller, Amelia, the Guide, and Erwen, who had received tracking training from her sister.

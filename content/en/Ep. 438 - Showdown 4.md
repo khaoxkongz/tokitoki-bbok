@@ -496,7 +496,6 @@ Even though I had only given her a taste, she was complaining of severe fatigue.
 
 “But I’m going to be angry next time. If you do something like this without my permission.”
 
-Ads by Pubfuture
 “Understood.”
 
 “…Oppa, are you mad at me?”

@@ -314,7 +314,6 @@ It’s reassuring and embarrassing at the same time.
 
 Amelia left the room, turning off the lights before closing the door.
 
-Ads by Pubfuture
 It was the perfect atmosphere for sleeping.
 
 ‘…I was going to organize my thoughts before going to bed…’

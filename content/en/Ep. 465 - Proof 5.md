@@ -318,7 +318,6 @@ But it wasn't enough.
 
 "Honestly, I'm not sure if this will happen again. Maybe we should just stick to our current strategy..."
 
-Ads by Pubfuture
 They were too stubborn.
 
 Even the Rabbit Baroness, who was trying to support me, couldn't convince them.

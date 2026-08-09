@@ -563,4 +563,3 @@ The frigid air of the chasm couldn't reach me.
 'It's warm...'
 
 I felt like I was going to cry.
-

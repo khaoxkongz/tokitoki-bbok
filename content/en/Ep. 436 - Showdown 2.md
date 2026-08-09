@@ -378,7 +378,6 @@ And come to think of it, he wasn't wrong.
 
 "I don't know... We can't read his mind."
 
-Ads by Pubfuture
 "That's... true."
 
 The discussion about Auril Gabis's answer ended there.

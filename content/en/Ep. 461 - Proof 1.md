@@ -398,7 +398,6 @@ So...
 
 I didn't have time to think.
 
-Ads by Pubfuture
 I grabbed the essence and ran.
 
 "Erwen!"

@@ -380,7 +380,6 @@ He sighed deeply and then spoke.
 
 “The day I heard you were alive… my wife asked me if I was going to see you. She was worried.”
 
-Ads by Pubfuture
 “I see…”
 
 “You know, Bjorn, two years and six months is a long time. Long enough to change an explorer’s mindset.”

@@ -545,7 +545,6 @@ But we couldn’t.
 
 It was the same.
 
-Ads by Pubfuture
 Fighting them would be a story to tell for the rest of our lives, but...
 
 “We never encountered them.”

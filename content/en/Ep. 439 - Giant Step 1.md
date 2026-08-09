@@ -462,7 +462,6 @@ He occasionally brought valuable information, but most of the time, the quality 
 
 But he received a green light, so the turn passed.
 
-Ads by Pubfuture
 ‘So the third one is also useless…’
 
 Something was strange today.

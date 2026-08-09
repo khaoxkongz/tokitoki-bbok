@@ -628,7 +628,6 @@ I'm not sure.
 
 The battle was too chaotic.
 
-Ads by Pubfuture
 Tadat.
 
 I seize the opportunity and check the backline while the woman is creating distance.

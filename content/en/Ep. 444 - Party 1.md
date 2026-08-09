@@ -406,7 +406,6 @@ But it was enough.
 
 “I’ve been analyzing you. The reason you’ve been getting pushed around is because you’re always getting pushed around.”
 
-Ads by Pubfuture
 “W-what do you—”
 
 What do I mean?

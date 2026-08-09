@@ -312,7 +312,6 @@ Hundreds?
 
 Where did they come from—?
 
-Ads by Pubfuture
 "I think it's the group we rescued."
 
 Ah, them.

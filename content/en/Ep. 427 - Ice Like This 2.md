@@ -634,7 +634,6 @@ Ignoring the pain, I extended my arm.
 
 It was the arm that had been holding the shield, the one that was now useless after being pierced by her dagger.
 
-Ads by Pubfuture
 Six's eyes narrowed.
 
 "······!"

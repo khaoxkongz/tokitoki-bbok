@@ -324,7 +324,6 @@ One small mistake could lead to disastrous consequences.
 
 'But they managed to reach his 4th phase, so they must have been prepared.'
 
-Ads by Pubfuture
 It had worked out for us in the end.
 
 The most difficult part of his 4th phase was that equipment bonuses were nullified, and we didn't have that penalty.

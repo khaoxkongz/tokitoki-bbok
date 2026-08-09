@@ -1,7 +1,5 @@
 # Of Men and Women 1
 
-
-
 After a moment of awkward silence, the Ancient Dragon burst into hearty laughter.
 
 "Haha! I've been waiting! I was so surprised to hear that you were alive! Do you have any idea how shocked I was?"
@@ -101,3 +99,229 @@ It increased the chances of him agreeing to my request.
 "Only what's been publicly announced. Raviyen told me not to say anything."
 
 "Then I'll start from there."
+
+I explained what had happened during the expedition. The Ancient Dragon listened intently.
+
+And when I was done...
+
+"You... killed the Rose Knights...?"
+
+That was the key point.
+
+Not the Noark pursuers, not the royal family's betrayal, not even the Dragonslayer's death.
+
+But the fact that we had killed the Rose Knights.
+
+We had defied the royal family.
+
+"Now I understand. Why you were so secretive. And why Raviyenuldn't tell me the truth."
+
+"Don't blame her. I asked her to keep it a secret. That's why I came to see you directly."
+
+"...I understand. And I'm grateful. But..."
+
+He sighed.
+
+"...I'm also afraid."
+
+He was a wise leader.
+
+"What do you want?"
+
+It was time for the main event.
+
+___________________
+
+If Iuld ask for one thing from the Ancient Dragon, what would it be?
+
+The answer would be different for everyone.
+
+After all, there wereuntless possibilities.
+
+The Dragonkin, with their long lifespans and small population, were a prosperous race. Theyuld provide me with almost anything I wanted.
+
+But...
+
+"The unditional support andoperation of the Dragonkin tribe."
+
+The Ancient Dragon flinched at my request.
+
+"That's impossible."
+
+"I didn't ask for money or treasures."
+
+"I would have preferred that. What you're asking for...uld lead to the destruction of our entire tribe."
+
+He said his gratitude was genuine, that he would grant me any other request...
+
+So I activated Barbarian Negotiation Mode.
+
+"Do it! You promised you would do anything!"
+
+"...You haven't changed at all, even after bming a Baron."
+
+"Do it! Or I won't give you the heart!"
+
+I started acting stubborn, and the Ancient Dragon, initially flustered, quickly adapted and changed his tactics.
+
+"You promised! You said you would do anything!"
+
+"I never promised you a reward! I gave you the Dragon's Blessing in advance, trusting you!"
+
+He was right.
+
+I had received the Dragon's Blessing in exchange for the Dragonslayer's sword. And I had promised to bring him the heart.
+
+"...So you're going back on your word? This is the only way to save your daughter!"
+
+"That's why I'm asking you for a different request! I can't grant you this one, so please ask for something else!"
+
+I finally gave up.
+
+He wouldn't change his mind.
+
+'He wouldn't risk his entire tribe for a single request, no matter how grateful he was.'
+
+It was time for a more reasonable approach.
+
+"Laphir."
+
+"...?"
+
+"You can't agree to my request because of the royal family, right?"
+
+"...I won't deny it. You might not understand yet, but the King is a terrifying figure."
+
+Everyone kept saying the same thing.
+
+I wanted to meet the King and see for myself.
+
+Then Iuld argue with them.
+
+The Ancient Dragon looked at me and said,
+
+"...If I limit your request to situations where the King isn't involved... I can agree to that. How does that sound?"
+
+It was a significantncession.
+
+It meant he would support me with all his might in anynflict with the Marquis, the Duke, or any other tribe. As long as the King wasn't involved.
+
+There were somenditions regarding militarynflict, but...
+
+"If you have a legitimate reason, any attack against you will bensidered an attack against me."
+
+I had to think about this.
+
+Negotiation was a delicate balancing act.
+
+But...
+
+'This is probably his final offer.'
+
+This negotiation was different.
+
+He had skipped the usual back-and-forth and offered me the best possible terms.
+
+It wasn't because he didn't know how to negotiate.
+
+It was a gesture of gratitude and goodwill.
+
+'Let's stop here.'
+
+Securing the Dragonkin's support in anynflict that didn't involve the King was already a huge gain.
+
+The original reward was just the Dragon's Blessing.
+
+"...I can't go any further—"
+
+I cut him off and handed him the box.
+
+"That's enough. Take it."
+
+I added,
+
+"And thank you. For listening to my unreasonable request."
+
+"...I didn't expect you to accept so easily."
+
+"I had my reasons. But I'll make sure it doesn't cause you any trouble."
+
+"Don't worry about me. My daughter is involved too."
+
+Ah, Raviyen was his daughter.
+
+That's why the offer was so generous.
+
+"Anyway, now that that's settled, tell me what you've been up to. Did you really work on secret missions for the Marquis, like they said?"
+
+We chatted for a while, catching up on each other's lives.
+
+And after a while...
+
+"Now that you'll be receiving our support, can you do me a favor?"
+
+"A favor...?"
+
+"Can you testify on my behalf at the trial with Count Alminus?"
+
+"Testify... at the trial...?"
+
+"You're the Dragonkin Chieftain, aren't you? It would help my case if you testified on my behalf."
+
+"...My case?"
+
+"Haha! Just kidding!"
+
+He was teasing me.
+
+"Ah, I've been enjoying ournversation, but I have to go now. There's an Elder Council meeting."
+
+"I see."
+
+"Let me know if you're leaving now. I can use Dragon Speech to send you back."
+
+"No, I'll meet with Pen and Raviyen while I'm here."
+
+"Haha, that's good. She'll be happy to see you. It won't take long. You can have tea with my daughters while you wait."
+
+The Ancient Dragon gave me directions to Pen and Raviyen's room, and I headed that way.
+
+Step, step.
+
+The marble floor wasld and smooth beneath my feet.
+
+I turned around before reaching therner.
+
+"Is there something else?"
+
+"I have one more question."
+
+The Ancient Dragon shrugged.
+
+I stopped and waited for his question.
+
+"If... and this is a hypothetical situation..."
+
+I maintained a respectful distance.
+
+"If you bme stronger, and your influence grows..."
+
+"..."
+
+"And if you think you have a chance... of succeeding..."
+
+I omitted the subject, but he understood what I was asking.
+
+"Will you help me?"
+
+The answer came after a long pause.
+
+"...If that happens, I'llnsider it."
+
+"I see."
+
+I turned around andntinued walking.
+
+Step, step.
+
+That was enough for today.

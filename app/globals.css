@@ -6,7 +6,8 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --font-heading: var(--font-sans);
+  --font-heading: var(--font-line-seed-sans-th);
+  --font-line-seed-sans-th: "--font-line-seed-sans-th-local";
   --font-cordia: "--font-cordia-local";
   --font-arundina-sans: "--font-arundina-sans-local";
   --font-arundina-mono: "--font-arundina-mono-local";

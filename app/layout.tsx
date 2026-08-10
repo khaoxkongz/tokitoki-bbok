@@ -11,6 +11,22 @@ import {
 
 import "./globals.css"
 
+const lineSeedSansTH = localFont({
+  src: [
+    {
+      path: "./fonts/LINESeedSansTH_W_Rg.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/LINESeedSansTH_W_Bd.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
+  variable: "--font-line-seed-sans-th-local",
+})
+
 const arundinaSans = localFont({
   src: [
     {
@@ -200,6 +216,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   const fontVariables = [
+    lineSeedSansTH.variable,
     arundinaSans.variable,
     arundinaMono.variable,
     arundinaSerif.variable,

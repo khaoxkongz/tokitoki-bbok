@@ -1,0 +1,59 @@
+{
+  "lsp": {
+    "markdownlint": {
+      "settings": {
+        "MD060": {
+          "style": "compact",
+        },
+        "MD013": {
+          "line_length": 999,
+        },
+        "MD024": {
+          "enabled": false,
+        },
+      },
+    },
+    "oxlint": {
+      "initialization_options": {
+        "settings": {
+          "run": "onType",
+          "fixKind": "safe_fix",
+          "typeAware": true,
+          "unusedDisableDirectives": "deny",
+        },
+      },
+    },
+    "oxfmt": {
+      "initialization_options": {
+        "settings": {
+          "fmt.configPath": "./vite.config.ts",
+          "run": "onSave",
+        },
+      },
+    },
+  },
+  "languages": {
+    "Markdown": {
+      "format_on_save": "off",
+      "prettier": { "allowed": false },
+      "formatter": [{ "language_server": { "name": "markdownlint" } }],
+    },
+    "JavaScript": {
+      "format_on_save": "off",
+      "prettier": { "allowed": false },
+      "formatter": [{ "language_server": { "name": "oxfmt" } }],
+    },
+    "TypeScript": {
+      "format_on_save": "off",
+      "prettier": { "allowed": false },
+      "formatter": [{ "language_server": { "name": "oxfmt" } }],
+      "language_servers": [
+        "typescript-ls",
+        "!vtsls",
+        "!typescript-language-server",
+        "!eslint",
+        "...",
+      ],
+    },
+  },
+}

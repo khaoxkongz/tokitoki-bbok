@@ -1,391 +1,386 @@
-# Opening 4
+# Opening the Door (4)
 
-A linear corridor.
+The structure resembled a straight hallway, though calling it that might be somewhat misleading. While their proportions were similar, the absolute size was huge.
 
-Although the structure was similar, calling it a corridor might be a bit misleading.
+It’s probably three times larger than the Hall of Glory, where knighthoods are conferred…….
 
-The length-to-width ratio might be comparable, but there was a huge difference in absolute width.
+Whoooooosh—
 
-This place seemed at least three times larger than the Hall of Glory where knighthood was bestowed...
+Even with the flare, the end was nowhere in sight. Instead, the bright light cast deep shadows along the rows of statues lining the walls, exuding an eerie atmosphere. CommissioningCustom Sculptures
 
-Swoooosh—
+‘Statues of the Guardians…’
 
-Even with the flare lighting the way, the end was nowhere in sight.
+Just what kind of place is this? I hoped it wasn’t a location that required solo play instead of party play.
 
-Dark shadows fell over the rows of statues standing in formation along the walls, creating an eerie atmosphere.
+Despite my concerns, I remained vigilant, preparing for any potential dangers. Just then, as the promised time passed, portals began floating in the air.
 
-‘Statues of the guardians...’
+Whoosh—
 
-What on earth was this place for?
+A portal just large enough for a single person to pass through.
 
-Surely, it wasn’t a place meant for solo play rather than party play?
+They opened only briefly, each one spitting out a single person before vanishing, as if their purpose had been fulfilled.
 
-While cautiously watching my surroundings for any hidden danger, the promised time passed and portals materialized in the air.
+“Glad you made it safely.”
 
-Whooosh—
+Amelia, who came in right after me.
 
-Portals just large enough for one person.
+“Ugh… This place is creepier than I expected.”
 
-Each portal opened briefly, expelled one person, then vanished as if its purpose was fulfilled.
+Next came Aynar, looking thoroughly demotivated. After that, more portals opened, bringing in the rest of our companions.
 
-“Fortunately, everyone came out safe.”
+“Everyone stay put! There could be traps around!”
 
-Amelia entered right after me.
+Even though all the members of Temporary Squad 4 had entered, I didn’t start exploring right away. Instead, I waited for the other squads to arrive.
 
-“Ugh... this place is creepier than I thought.”
+There was no need to rush, the search could begin once everyone was here.
 
-Next came Ainard, the warrior, showing no fighting spirit at all, looking completely unmotivated. After that, portals continued to open, letting our comrades inside.
+Squad 3, Squad 2, Squad 1…
 
-“There might be traps nearby, so stay put and wait!”
+As I waited in silence, over a hundred people entered, including the village chief.
 
-Though all temporary 4th Squad members had entered, I didn’t start the exploration immediately but waited for the rear guard.
+“Mages, secure visibility first! Everyone else, don’t act recklessly—wait for orders!”
 
-No harm in waiting until all preparations are complete before searching.
+The village chief shouted in Jerome Saintred’s voice. Watching him act so naturally was irritating, but at the same time, it was somewhat reassuring.
 
-3rd Squad, 2nd, 1st...
+Good—he actually came.
 
-Quietly waiting, over a hundred people entered in sequence, including the chief.
+I was secretly worried that he would just dump me here and not come in himself.
 
-“Mages, secure sight first, and the rest, don’t act rashly—await orders!”
+‘So everyone has arrived successfully’
 
-The chief shouted with Jerome Saintred’s face, his forced acting somehow unsettling, but at the same time, it brought a bit of relief.
+Either there was no limit to the number of entrants, or the limit was extremely lenient.
 
-Yeah, they really came in.
+Of course, that didn’t mean it was a cause for celebration.
 
-I had quietly worried if I’d be the only one thrown in.
+Given the nature of Dungeon & Stone, places like this have high difficulty settings.
 
-‘Anyway, all have entered successfully...’
+“Baron Jandel, what should we do now?”
 
-There seemed to be no limit or a very loose limit on the number of entrants here.
+The village chief asked me, and I pretended to offer my opinion while actually giving him instructions. ExploringTravel Maps
 
-Of course, that wasn’t cause for pure joy.
+“Hmmm… that makes sense.”
 
-Because in Dungeon & Stone, places like this usually had high difficulty.
+The village chief pretended to think for a moment to avoid looking like my puppet in this matter, and after a while issued orders to his vice commander.
 
-“Baron Yandel, what should be our next move?”
+The village chief pretended to think for a moment to avoid looking like my puppet in this matter and, after a while, issued orders to his vice commander.
 
-The chief approached and asked, and I pretended to consider before passing instructions.
+“First, we’ll assemble a reconnaissance team to survey the area!”
 
-“Hmm... sounds reasonable.”
+And so the exploration began.
 
-Trying not to reveal his figurehead status, the chief feigned hesitation briefly before ordering the deputy commander:
+Initially, knights scouted the surroundings, and if anything suspicious came up, they refrained from touching it and called in mages for examination.
 
-“We’ll first organize a search party and start investigating!”
+Before I realized it, we had already completed a map.
 
-The search began.
+“Having this many people really does make things convenient.”
 
-Initially, the knights scouted the area, calling mages to investigate anything suspicious instead of touching it carelessly.
+It almost felt like cheating.
 
-Before I knew it, the map was complete.
+If it had just been our clan, mapping alone would have taken forever.
 
-‘Having many people to delegate to sure makes things convenient.’
+“No monsters discovered within the area.”
 
-It really felt like cheating.
+“Do not touch the statues! We’re detecting a faint but unmistakable mana reaction from them!”
 
-If only our Anavada clan were here, making a map alone would have taken ages.
+“We’ve crossed through the portal, but this doesn’t seem to be inside the rift itself.”
 
-“No monsters detected within the radius.”
+“All terrain features exhibit restorative properties.”
 
-“Do not touch any statues! There is a faint but unknown magical reaction coming from inside!”
+What would normally take an entire day was completed in a fraction of the time thanks to the sheer manpower.
 
-“Though we passed through the portal, it seems this is not inside the rift.”
+Thanks to the sheer manpower, what would normally take an entire day was completed in a fraction of the time.
 
-“All terrain features here have restorative properties.”
+All I had to do was stand quietly next to the village chief, listen to the reports, and process the information.
 
-A task that would normally take all day was finished quickly thanks to the manpower.
+“Is this… the taste of power?”
 
-I simply stayed quiet, listening to reports with the chief, organizing and making judgments.
+The convenience made my past explorations feel barbaric in comparison.
 
-‘Is this... the taste of power?’
+Instead of a pen, I racked my brain, compiling the gathered information.
 
-The convenience was so great it made my past barbaric expeditions look crude.
+From my perspective, there were three key points:
 
-Instead of pen and paper, I racked my brain and summarized the collected info alone.
+1.The Guardian Statues
 
-Three main points stood out.
+If the mages’ speculations were correct, then these statues were more than just decorative. CommissioningCustom Sculptures
 
-The guardian statues.
+They undoubtedly served some purpose, and I had a rough idea of what that might be.
 
-If the mages’ guesses were right, these statues were no mere decorations.
+They clearly had a function—and I had a hunch about what that might be.
 
-They certainly had some role, and I had my suspicions—well, hopes, rather.
+Or rather, a hope.
 
-‘Not confirmed yet, so let’s skip for now...’
+2.The Possibility of New Guardians
 
-Possibility of new guardian types.
+All the stone statues here depicted Guardians from the 5th floor and below.
 
-All statues represented guardians of fifth floor or below.
+“However, what’s unusual is that even the Vampire Duke, Cambormere—who could be considered a kind of hidden boss—is among the statues…”
 
-But peculiarly, among the statues was the vampire duke Cambormier, a sort of hidden boss...
+But the real problem was something else.
 
-Yet the real problem was different.
+‘Why are these guys here?’
 
-‘Why are some guardians here that I’ve never seen?’
+There were statues of monsters I’d never seen as Guardians before.
 
-These were not unidentified entities.
+To be clear, they weren’t unidentified entities either.
 
-Even if guardians, just like Cambormier was essentially a Grade 5 vampire monster, most had finished their experience gain.
+Like how Cambormier’s true nature was that of a Level 5 Vampire monster, most of these statues were of creatures whose experience points I’d already maxed out.
 
-But here’s the issue...
+But the problem here was…
 
-‘Drakes shouldn’t appear as guardians, though...?’
+‘Drakes never appeared as Guardians, though…?’
 
-Among all rifts, drakes never show up as ‘guardians,’ yet one proudly stood among the statues.
+A monster that had never appeared as a Guardian in any Rift was now standing proudly among the Guardian statues.
 
-Were these statues only of guardian monsters? It didn’t seem so, but all others had guardian traits.
+Perhaps this statue collection wasn’t limited to Guardian monsters? But that didn’t make sense either, since all the other statues bore the hallmarks of Guardians.
 
-Look at the lycanthrope statue.
+Take the Lycanthrope statue, for example.
 
-Only the tyrant Tarunbas from the Glacier Cave used an ice club like that.
+The only Lycanthrope that wielded an ice club was Tarunbas, the Tyrant of the Glacier Cave.
 
-“If that’s really a guardian... it means new guardian essences have appeared!”
+“If they really are Guardians… then this means new Guardian Essences have appeared!”
 
-“But nothing has been confirmed yet.”
+“But we haven’t confirmed anything yet.”
 
-“No, I’m sure! Just as Baron Yandel defeated the vampire guardian before and acquired its essence, these must be undiscovered guardians of unknown rifts!”
+“No, I’m certain! Just like how Baron Yandel previously defeated the Vampire Guardian and obtained its essence, these must be Guardians from undiscovered rifts!”
 
-Maybe this was truly a case similar to the Blood Castle.
+Perhaps this was similar to the case of the Crimson Fortress.
 
-It’s hard to accept that so many rifts exist that I didn’t even know about.
+It wasn’t easy to accept that so many rifts existed beyond my knowledge.
 
-But the longer I stayed in this world, the more I quietly accepted it.
+But the longer I stayed in this world, the more I had to admit it.
 
 I just knew far more than others.
 
-Knowing everything about Dungeon & Stone is my arrogance.
+To claim I knew everything about Dungeon & Stone—that had been arrogance.
 
-The first basement alone was proof.
+This basement level was proof of that.
 
-I didn’t even know that a restrained wish could upgrade vampire essence into ogre essence.
+Not to mention, I had no idea you could use restrained desire to upgrade vampire essence into ogre essence. CollectingMythology Books
 
-Anyway, next.
+Anyway, moving on.
 
-The gigantic stone gate.
+3. The Massive Stone Door.
 
-At the end of the corridor, past the statues, stood a huge stone gate impervious even to first-rank magic.
+At the end of the corridor, past the statues, stood a giant stone door. Even a Tier 1 magic spell didn’t leave a scratch on it.
 
-And...
+And…
 
-That’s it.
+4. That’s it.
 
-Simply put, only by fulfilling certain conditions with what we’ve found can the gate be opened and the next stage accessed.
+In short, we’d have to meet some unknown conditions to open the door and proceed to the next stage.
 
-Therefore...
+Therefore…
 
-“Search is enough for now. Gather everyone. ❖ Nоvеl𝚒ght ❖ (Exclusive on Nоvеl𝚒ght) No, better to get them all together.”
+“That’s enough searching. Gather everyone. No, I think it’d be best to gather everyone now.”
 
-I told the figurehead chief to assemble the troops.
+I told the puppet Village Chief to assemble everyone.
 
-That much clue was sufficient, right?
+“I mean, it is pretty clear by now, right?”
 
-“Prepare for battle, all units...!”
+“All troops, prepare for battle…!”
 
-The deputy commander shouted, commanding the troops, and I slowly approached the statues amid the tense atmosphere.
+Following the orders of the Village Chief, the vice-commander rallied the troops with a shout. Amidst the tense atmosphere, I slowly approached one of the statues.
 
-Then...
+And then…
 
-Step, step.
+Thud, thud.
 
-I first laid my hand on the easiest King Slime statue.
+I reached out and touched the easiest target, the King Slime statue.
 
-Ziiiiiing—
+Zzzzt—
 
-For some reason, I felt an electric current run through my fingertips.
+A strange, electric sensation ran through my fingertips upon contact.
 
-I instinctively knew something had activated.
+Instinctively, I knew something had been activated.
 
-But...
+But…
 
-‘This I didn’t expect.’
+‘I didn’t expect this.’
 
-I only guessed the statues would come to life, so I was quite taken aback.
+At best, I had anticipated the statue coming to life, but what happened next left me momentarily stunned.
 
-“...A portal?”
+“…A portal?”
 
-A portal appeared around the statue.
+A portal had materialized around the statue.
 
-The portal opened.
+We arrived here by stepping through a mysterious stone door on Basement Floor 1, only to be met with yet another dimensional portal. However, guessing where this portal led wasn’t particularly difficult.
 
-The portal that appeared after opening the unknown stone gate in the first basement level.
+“Could it be connected to the Green Coal Mine…?”
 
-It wasn’t hard to guess where this portal led.
+“Isn’t that the most likely possibility?”
 
-“Is it a portal to the Green Mine...?”
+Judging by the murmurs, the other explorers seemed to share similar thoughts.
 
-“That seems highly likely.”
+But I wasn’t quick to jump to conclusions.
 
-Hearing the whispers, other explorers seemed to share my thoughts.
+“We should decide who’s going in first.”
 
-But I didn’t rush to conclusions.
+There was no guarantee that this portal led to the Green Coal Mine, nor was it clear how many of us could pass through it.
 
-“We need to decide who goes through first.”
+So, I proceeded with the selection process as cautiously as possible.
 
-There was no guarantee the portal connected to the Green Mine, nor how many could pass at once.
+That’s because there are three types of portals.
 
-So I began personnel selection with great care.
+1. Permanently Active Portals
 
-There were three portal types:
+The Dimensional Monument fell into this category.
 
-Permanently activated portals open until the labyrinth closes.
+However, given the circumstances, this seemed the least likely possibility, as we had never seen a portal of this type open within a rift before.
 
-This includes dimensional steles.
+2. Portals that remain until a set number of people pass through.
 
-Though in the rift, such portals haven’t opened yet, so unlikely here.
+This is typical for first-floor rifts.
 
-Non-single-use portals that remain until all designated people have passed.
+Multiple portals appear across the floor, and once five people pass through each one, they all disppear.
 
-Typical for first-floor rifts.
+3. One-Time Use Portals
 
-When a rift opens, dozens of portals appear, and when five pass, all vanish.
+The Doppleganger Forest on the 4th floor is a good example.
 
-One-time-use portals.
+Each portal can only be used once.
 
-The doppelganger forest on the 4th floor is this type.
+However, if you’re bound by a binding spell, all linked members transfer together.
 
-Portals can be used only once.
+(By the way, it’s already been proven that even a six-person party
+can be transported at once if they are bound.)
 
-If someone is bound nearby, they also move together.
+‘Okay, the lineup’s done…’
 
-This was proven long ago even for six-person bonds.
+As usual, we had five- and six-member teams, but also larger ones—ten, twelve, fifteen, eighteen members. We formed the teams in multiples of five and six and decided who would enter first.
 
-‘Okay, personnel selection is done...’
+It might all end up being pointless, but not doing everything you can in a labyrinth is a sin, at least according to my beliefs.
 
-For teams of 5, 6, 10, 12, 15, 18... arranged in multiples of 5 and 6, and order set.
+“Then I’ll go first.”
 
-Might all be useless, but I believed not preparing was a sin in the labyrinth.
+After casting a new binding spell, I cautiously stepped into the portal and couldn’t help my surprise.
 
-But...
+“……”
 
-“Then I’ll go in first.”
+Rail tracks on the ground.
 
-After freshly casting the bonding magic, I carefully stepped into the portal, soon to be surprised.
+Scattered mining debris.
 
-“...”
+A broken cart filled with coal.
 
-Iron rails covered the floor.
+Up to this point, there was no problem. The place I’d arrived at was indeed the Green Coal Mine.
 
-Scrap materials scattered around.
+But there was one major problem—
 
-A broken cart wheel and coal inside.
+“What the… Why is no one else coming?”
 
-So far, no problem.
+No matter how much time passed, no one else came through.
 
-The place I arrived was indeed the Green Mine.
+“……”
 
-But if there was a serious problem here...
+“What the hell? Why isn’t anyone else coming?”
 
-“What the hell is this? Why is no one coming?”
+No matter how much time passed, not a single person followed.
 
-No matter how much time passed, no one entered.
+“……”
 
-“...”
+Just in case, I searched the area and waited a while longer, but there was no sign of the portal reopening.
 
-I explored around just in case and waited longer, but the portal showed no sign of reopening.
-
-My thoughts grew more complicated.
+Which made my brain go into overdrive.
 
 ‘Why aren’t they coming?’
 
-Is there a problem outside?
+Did something happen outside?
 
-Could the chief be scheming again?
+Don’t tell me… did the village chief pull something again?
 
-Or maybe everyone entered but at different start points, so we haven’t met?
+Or maybe everyone did enter, but we just got placed at different start points and haven’t run into each other yet?
 
-“...I’ll proceed alone for now.”
+“…For now, I’ll handle this alone.”
 
-Waiting here seemed pointless, so I slowly started the攻略.
+Either way, waiting here seemed pointless, so I slowly began advancing.
 
-This was no ordinary Green Mine.
+This wasn’t an ordinary Green Coal Mine.
 
-Strong monsters could appear any moment.
+It wouldn’t be strange for a powerful monster to appear at any moment.
 
-Repeating caution in my mind, I moved carefully.
+As I reminded myself not to let my guard down and moved forward cautiously—
 
-“...Huh?”
+“…Huh?”
 
-After just a short walk, a sudden clearing appeared.
+[Squeeee—!]
 
-And then—
+The Guardian of the Green Coal Mine appeared out of nowhere.
 
-[Kyuuiiiit-!]
+Normally, I would’ve had to walk much farther, even after defeating the mid-boss, but…
 
-The Green Mine’s guardian appeared abruptly.
+Crash—!
 
-Normally, I’d have to walk much further after defeating the mid-boss...
+Since it charged at me the moment it saw me, I smashed it to death with my hammer.
 
-Crack!
+「You have defeated the King Slime.」
 
-As soon as it saw me, it charged, so I killed it with my hammer.
+[Guardian Kill Bonus. EXP +3]
 
-「King Slime defeated.」
+…Seems like I received the exp points properly.
 
-「Guardian defeat bonus. EXP +3」
+Might’ve just been my imagination, so I decided to set that thought aside for now.
 
-...Looks like I got proper experience.
+Whoooosh—!
 
-Maybe just my imagination, so I put it aside.
+As soon as the battle ended, a portal appeared. I stood there, staring at it in a daze.
 
-Swoooosh!
+“This is it…?”
 
-I stared blankly at the portal that appeared right after the kill.
+It felt a bit anticlimactic, but it really seemed like the end.
 
-‘Is this the end...?’
+Unless something else was waiting beyond that portal, of course.
 
-A little anticlimactic, but it really felt like the end.
+The portal didn’t look like it would disappear right away, so I regained my composure and checked the spot where the King Slime had fallen.
 
-Unless some other event awaited beyond the portal.
+“Tch, at least drop a Riftstone or something.”
 
-Since the portal wouldn’t disappear immediately, I gradually regained composure and checked the fallen King Slime’s spot.
+The loot was a single rainbow-colored essence, confirming it was a guardian’s essence.
 
-“Could at least have dropped a Rift Stone.”
+To me, it was trash.
 
-The loot was a rainbow-colored essence proving it was a guardian’s.
+Even if I put it in a testube and sold it, it wouldn’t fetch much profit…
 
-Trash to me.
+And besides, there wasn’t even a mage around to bottle it for me.
 
-Even if I put it in a test tube and sold it, it wouldn’t be worth much...
+It wasn’t like I could just consume it either.
 
-And no mage would bother putting it in a test tube anyway.
+Tsk.
 
-Not like I’d consume it.
+I took my eyes off the guardian essence and quickly stepped through the portal.
 
-Thud.
+“Bjorn…!!”
 
-Without any regrets, I tore my eyes away from the guardian essence and quickly exited through the portal.
+Fortunately, the portal led back to the same place I’d been before.
 
-“Ah, sir...!!”
+“Bjorn…!”
 
-Thankfully, I arrived back at the previous place through the portal.
+“T-Thank goodness! Chief!!”
 
-“Bjorn...!”
+“What happened in there?”
 
-“Thank goodness! Captain!!”
+The squad members rushed over, their eyes filled with concern. But before explaining anything, I first asked about what had happened after I entered the portal.
 
-My squad members rushed to me worriedly.
+Why had no one followed me in?
 
-Before telling my story, I first listened to theirs.
+The answer matched what I had suspected.
 
-Why hadn’t anyone followed?
+Unfortunately.
 
-The answer matched my expectation.
+“It’s not that we didn’t enter—we couldn’t. Jandel, the portal disappeared right after you went in.”
 
-Sadly indeed.
+…So it really was a one-person rift.
 
-“They didn’t not enter, they couldn’t enter. Bjorn, the portal disappeared right after you went in.”
+Still, it was better than them being unable to follow me because something had gone wrong out here.
 
-...So it really was a one-person rift.
+“Sigh…”
 
-Well, better than others being blocked by outside problems...
+I couldn’t help but let out a deep breath.
 
-“Phew...”
+I turned my gaze away from my companions and scanned the rows of statues lining the hallway. CommissioningCustom Sculptures
 
-I sighed.
+The Guardians from below the 5th floor—each with different types, difficulty levels, and strategies required to defeat them.
 
-Taking my eyes off my comrades, I scanned the statues in the corridor.
+‘I have to take all of these down alone…’
 
-Different types, difficulties, and ways to fight—guardians below the fifth floor.
-
-‘I have to kill all of these alone...’
-
-I could already see the hard road ahead.
+The road ahead was already looking painfully long.

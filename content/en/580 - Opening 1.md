@@ -1,549 +1,545 @@
-# Opening 1
+# Opening the Door (1)
 
-Not even once.
+Has there ever been—
 
-Is there really such a flawless person who has never made a single mistake in their entire life?
+Has there ever been anyone in this world who lived their entire life without making a single mistake? How-To,DIY & Expert Content
 
-Misha Kalstein thought there wasn’t.
+Misha Karlstein didn’t think so.
 
-Even the greatest saints must have made mistakes at least once while living. Even with good intentions, things could have gone wrong and produced bad outcomes.
+Even the greatest saints must have made mistakes at least once in their lives. Even with the best intentions, things could go awry and lead to terrible outcomes.
 
-Surely... they must have hurt someone too.
+Surely they must have hurt someone at some point, too.
 
-Yes, that’s why it can’t be helped.
+Yeah, that’s right. So it can’t be helped.
 
-Even such great people must have made mistakes once in a while, so it’s obvious that someone like me, a half-breed, would too—
+If even those incredible people made mistakes, then of course someone like me—a loser—would be no exception.
 
-“I...”
+“…Me.”
 
-Misha Kalstein quietly murmured to herself.
+Misha Kalstein muttered quietly to herself.
 
-“What on earth am I doing...”
+“What the hell am I even doing…?”
 
-It was a routine repeated for days.
+It had become her daily routine for the past few days.
 
-If only she had been fighting monsters and exchanging blows, it would have been different.
+If she had been out fighting monsters, it might have been different.
 
-But locked alone in her room, there was not much she could do in a day.
+But being cooped up alone in her room left her with little to do.
 
-She just wanted to live without thinking about anything, like a dead person, but that wasn’t something she could do just because she wanted to.
+She wanted to live like a corpse, devoid of thought, but that wasn’t something she could just choose to do.
 
-So, throughout the long day, she thought and thought again.
+So, throughout the long days, she thought. And thought.
 
-Her thoughts varied, but they were always similar.
+Her thoughts varied, but they always circled back to the same place.
 
-She would resent someone, then hate herself, and sometimes, like today, she would try to rationalize herself.
+Sometimes she resented others. Sometimes she loathed herself. And sometimes, like today, she tried to justify her actions.
 
-Ah, of course, the end of those thoughts was always the same.
+Ah, but of course, the conclusion was always the same.
 
-“Let’s leave.”
+“I should leave.”
 
 Leave Clan Anabada.
 
-No, she was never officially a member of the clan. That made leaving even easier.
+Has there ever been—
 
-So, after this expedition ended and she returned to the city, she would leave. Disappear from Bjorn Yandel’s side and never appear before him again.
+No, she wasn’t even an official member to begin with. That made it all the easier.
 
-He would... want that too.
+So, after this expedition was over and they returned to the city, she would leave. She would disappear from Bjorn Jandel’s side and never show herself again.
 
-After hundreds of worries, hundreds of times arriving at this conclusion.
+He would want that, too.
 
-The moment she reached that conclusion once more, Misha curled her body and grabbed her chest with both hands.
+After hundreds of deliberations, she had reached the same conclusion.
 
-“Ah...”
+The moment she made that decision, Misha Karlstein hunched over and clutched her chest with both hands. How-To,DIY & Expert Content
+
+He would… surely want that too.
+
+A conclusion she’d reached after hundreds of agonized reflections.
+
+And once again arriving at that same conclusion, Misha curled up and clutched her chest.
+
+“Ah…”
 
 It hurt.
 
-Her chest was tight and it was hard to breathe, but more than that, it really hurt.
+Her chest felt tight. She could barely breathe. It went beyond discomfort—it truly hurt.
 
-If she closed her eyes tightly and stabbed something sharp inside, maybe the pain would lessen — that much pain.
+She even thought that if she drove something sharp into her chest, maybe the pain would ease.
 
-But Misha Kalstein couldn’t bring that imagination into reality.
+But she couldn’t bring herself to act on that thought.
 
-Not because she lacked courage.
+It wasn’t because she lacked courage.
 
-She simply knew.
+It was because she knew.
 
-‘That’s not allowed....’
+‘That’s not okay…’
 
-That kind of ending was not what he wanted.
+He wouldn’t want that kind of ending.
 
-All the memories they shared would darken and fade into terrible recollections that would torment him.
+All their memories would turn into nightmares that would haunt him.
 
-‘Dwalke....’
+‘Dwalki…’
 
 Suddenly, he came to mind.
 
-The noble mage who saved everyone’s lives in the labyrinth but gave his own last breath. Misha knew the feelings that mage held toward her.
+The noble mage who had sacrificed himself to save everyone in the labyrinth. Misha knew how he had felt about her.
 
-Not from the start, but after Dwalke left her side and a long time passed, she heard it from the dwarf warrior Hikurod Murad.
+She hadn’t known at first. It was only after he had left her side that she learned the truth from the dwarf warrior Hikurod Murad.
 
-He had always adored me...
+He had secretly harbored feelings for her…
 
-At first, she couldn’t believe it. If he really felt that way, why had he hidden it from her?
+At first, she couldn’t believe it. If he had truly felt that way, why had he hidden it from her?
 
-Even until the last candle went out.
+Even until the very last moment?
 
-It was incomprehensible.
+She couldn’t understand.
 
-If it were her, she would never miss the last chance and would have confessed those hidden feelings.
+If it had been her, she wouldn’t have missed the last chance to confess.
 
-But Hikurod, when hearing her doubts, answered like it was obvious.
+But when she asked that question, Hikurod answered as if it were the most obvious thing in the world.
 
-[Isn’t it obvious what he was thinking? He didn’t want to remain a dark shadow.]
+[Isn’t it obvious what he was thinking? He didn’t want to be remembered as a dark shadow.]
 
-A guess, uncertain but plausible.
+She thought the explanation was too vague and confusing. If only because she believed it was what Dwalkie would have wanted.
 
-She accepted that explanation.
+But even at the time, she couldn’t make full sense of his logic. How-To,DIY & Expert Content
 
-Not because she truly empathized, but because she thought that might be how it was if it were him.
+At least… until today.
 
-At least until today.
+“So… this is how it feels…”
 
-“So... that’s how he must have felt...”
+Strictly speaking, she and Dwalki were different.
 
-Strictly speaking, she and Dwalke were different.
+He had given his life to save everyone. She was just struggling under the weight of her mistakes, trying to run away.
 
-He sacrificed his life to save everyone, and she was just struggling under the weight of her mistakes, trying to find a way to run away.
+If they weren’t still trapped in the labyrinth…
 
-If only this place weren’t inside the labyrinth.
+If she hadn’t held onto the faint hope that he might forgive her…
 
-If only she had no hope that he might forgive her—
-
-She would have run away long ago.
+She probably would have run already—
 
 Knock knock knock.
 
-At that moment, a voice came from beyond the firmly closed door.
+Just then, a voice came from beyond the firmly closed door.
 
 “It’s me, Misha. Can we talk for a moment?”
 
 It was Bjorn.
 
-Joy and fear surged together at his visit. But she forced herself to calm down and do what needed to be done.
+At the sound of his voice, conflicting emotions of joy and fear surged through her. But she forced herself to calm down and get to work.
 
-She couldn’t show him this state.
+She couldn’t let him see her like this.
 
-She washed her hair and quickly cleaned her face. Then swiftly tidied the messy room.
+She washed her face, ran her hands through her hair, and quickly tidied up her messy room.
 
-Luckily, since she hadn’t done anything inside the room, there wasn’t much to clean.
+Thankfully, since she hadn’t done much lately, there wasn’t much to clean.
 
-“May I come in for a moment?”
+“May I come in?”
 
-As soon as she opened the door, he stepped briskly inside.
+The door opened, and he stepped inside after a long time apart.
 
-Her heart somehow started pounding.
+Her heart fluttered.
 
-Thump—
+Thump.
 
-Why did Bjorn come?
+Why had Bjorn come?
 
-Was it just because he worried about her?
+Just to check on her?
 
-Would the room smell weird?
+Did her room smell strange?
 
-Though she had been withered like a wilted flower in this dark room until just moments ago, somehow, from the moment he came, vitality returned to her body.
+Until just a moment ago, she’d been withering like a dead flower in the dark. But somehow, the moment he appeared, her body felt alive again.
 
-“Before we start talking, I want to turn this on first. May I?”
+“Before we talk, I’d like to turn this on first. Will you allow it?”
 
-She wished he had come just to see her face and said something trivial like that, but Bjorn got straight to the point as soon as he entered the room.
+It would’ve been easier if he’d just come to check on her face, to say something trivial. But the moment he entered, Bjorn got straight to the point.
 
-In his thick hands was an object she knew well.
+In his thick hand was an object she knew well.
 
-Broken Trust.
+Misplaced Trust.
 
-The name on that object made her uncomfortable as if it was proving what was currently between them.
+The name itself seemed to mirror their relationship now, and it made her heart ache. How-To,DIY & Expert Content
 
-But also, it made her happy.
+But she also felt a sense of hope.
 
-This was an opportunity.
+This was a chance.
 
-That day when he turned away coldly, he gave her a chance.
+The man who had coldly turned away from her that day was giving her a chance.
 
-A precious chance to undo all mistakes and return to how things were.
+A golden chance to undo all her mistakes and return to how things were.
 
-...And maybe Bjorn secretly also wanted to go back to how things were.
+…And maybe Bjorn, too, deep down, wanted to go back.
 
-“Then... alright. Let’s start.”
+“Alright… Go ahead. Let’s start.”
 
-Because of that, Misha was determined not to miss the opportunity.
+Misha had no intention of missing this chance.
 
-After all, how had things come to this?
+How had things even come to this?
 
-She decided to honestly answer whatever Bjorn asked.
+Whatever Bjorn asked, she would answer truthfully.
 
-Clenching both fists tightly, Bjorn’s questions began.
+Clenching her fists with determination, his questions began.
 
-“After I disappeared from Parune Island, how did you end up following Ibaekho?”
+“After I disappeared on Farune Island, how did you end up going with Lee Baek-ho?”
 
-He started with a question she had already answered before, then fired off questions that could be answered only yes or no, and Misha answered all truthfully.
+He started with something he’d already asked before. Then followed it with yes-or-no questions. Misha answered them all honestly.
 
-Bjorn now was like the watchmaker she saw before.
+The current Bjorn reminded her of a watchmaker she had once seen.
 
-Like a watchmaker who took all the parts out to find the cause of a broken watch, Bjorn wanted to check everything, even trivial details.
+Like a watchmaker who disassembled every part of a broken clock to find the cause, Bjorn was checking every little detail.
 
-“Did Ibaekho... do anything bad to you?”
+“Lee Baek-ho… did he ever do anything bad to you?”
 
-“Bad things...?”
+“Bad…?”
 
-“Like, for example, touching your body without permission...”
+“Like… laying a hand on you or something…”
 
-“...No, never! I swear that’s not true!”
+“…N-No! Nothing like that! I swear!”
 
-Some questions made her feel unfair but also glad, but it didn’t matter.
+A question that made her feel both wronged and strangely happy—but that wasn’t the point.
 
-“Did you really not know that using the Resurrection Stone causes memory loss?”
+“Did you really not know that using the Stone of Resurrection would make you lose your memories?”
 
-“I didn’t know...”
+“I didn’t know…”
 
 “Then why did you hide it from me?”
 
-“As I said back then... I thought bad things would happen if you found out...”
+Like I said back then… he told me something bad would happen to you if you found out…
 
-That was the part when Bjorn’s emotions flared up.
+That was the part where Bjorn’s emotions had flared up that day.
 
-He had gotten angry like a storm, asking if she had trusted only Ibaekho and hidden it from him.
+He had been furious, asking if she had hidden it just because she believed Lee Baek-ho’s words.
 
-Remembering that suddenly, Misha quickly interrupted before he could say anything.
+The memory flashed in Misha’s mind, and before Bjorn could say anything else, she quickly blurted out:
 
-“I thought it was worth a try!”
+“I-I thought it was better to be safe than sorry!”
 
-“...Worth a try?”
+“…Better safe than sorry?”
 
-“I didn’t know it caused memory loss back then... No, even if I had known, it would have been the same...! It’s better than you dying...”
+“B-Back then, I didn’t know about the memory loss… No, even if I had known, it wouldn’t have changed anything! It was still better than you dying…!”
 
-“So that’s why you believed him?”
+“So you believed him just like that?”
 
-“...Ibaekho, he’s strong. And somewhere deeply broken.”
+“…Lee Baek-ho, he’s strong. And seriously messed up in the head.”
 
-That was the real reason she accepted Ibaekho’s proposal.
+That was the real reason she had accepted Lee Baek-ho’s offer.
 
-She didn’t know what he might do if she rejected it. Maybe that’s what he meant by “bad things” happening.
+If she refused, there was no telling what that bastard might do. Maybe the “something bad” he mentioned was referring to that.
 
-So she took the Resurrection Stone and came back to Bjorn. She thought having an item that could save her loved one wouldn’t be a loss.
+So she took the Stone of Resurrection and returned to Bjorn. After all, having an item that could revive someone she loved couldn’t be a bad thing.
 
-But...
+But…
 
-“Phew... so that’s all?”
+“Sigh… So that’s everything?”
 
-There was one thing left unsaid.
+There was still one more thing she hadn’t said.
 
-How could she say it?
+How was she supposed to bring it up?
 
-If she spoke it, would everything really end?
+Would saying it truly be the end of everything?
 
-Unsure, she closed her eyes tightly and opened her mouth.
+She didn’t know. Misha clenched her eyes shut and spoke.
 
-“I... agreed to give information in exchange for the Resurrection Stone.”
+“I agreed to give him information in exchange for the Stone of Resurrection.”
 
-“...Information?”
+“…Information?”
 
-“To watch over you...”
+“He told me to keep an eye on you…”
 
-Misha opened one eye slightly and looked at Bjorn’s expression. So far, ➤ NоvеⅠight ➤ (Read more on our source) his face showed more confusion than anger.
+Misha cracked one eye open slightly to check Bjorn’s expression. For now, he looked more bewildered than angry.
 
-“Oh, don’t misunderstand! I haven’t given any information yet. We haven’t met even once since we parted.”
+“D-Don’t get the wrong idea! I haven’t given him anything yet! We haven’t even met since that day!”
 
-“What if he had come looking for you? What would you have done then?”
+“If he had come to you, what would you have done?”
 
-“...I don’t know. I thought I’d just get through the situation first and think about it later.”
+“…I don’t know. I thought I’d just give him some basic info and figure things out later.”
 
-After answering, Misha felt her excuse sounded weak and hurriedly added.
+She felt like she was making excuses, so she quickly added,
 
-“But... I probably would have given something. Of course, just trivial things everyone knows...!”
+“But… I probably would’ve given him the information. But just meaningless stuff anyone could know…!”
 
-“Hmm...”
+“Hmm…”
 
-Bjorn listened to her weak excuse and exhaled deeply, stroking his chin.
+Bjorn sighed and rubbed his chin.
 
-Luckily, he didn’t seem very angry.
+Thankfully, he didn’t seem furious.
 
-He just nodded a few times as if he understood and moved on to the next question.
+He nodded a few times and continued.
 
-After some time passed,
+And after who knows how long—
 
 “This is the last question.”
 
-Bjorn looked into Misha’s eyes and said.
+Bjorn looked into her eyes.
 
 “Is there anything else you’re hiding from me?”
 
-A comprehensive question covering everything.
+A question that covered everything.
 
 No.
 
-She told the truth about everything.
+She had confessed everything.
 
-That’s how she should have answered, but somehow her lips twitched without making a sound.
+That’s what she should have said, but for some reason, her lips trembled without making a sound.
 
-“...”
+“…….”
 
-The atmosphere that seemed to slowly heal the broken relationship was soon replaced by a silence too uncomfortable for words.
+The atmosphere, which had been slowly healing, suddenly grew heavy with an indescribable silence.
 
 Bjorn muttered just two words.
 
-“Alright...”
+“I see…”
 
-“...”
+“So there is.”
 
-“So you have something.”
+It was a resigned murmur, as if he had braced himself for it.
 
-It sounded like a resigned murmur, as if he was mentally prepared.
-
-Misha, choking on her breath, hurried to speak.
+Panicking, Misha tried to speak.
 
 No.
 
-That’s all I have told you.
+I’ve told you everything.
 
 There’s nothing else I’m hiding.
 
-She tried to say that, but her mouth wouldn’t open.
+That’s what she wanted to say, but her lips wouldn’t part.
 
-Why?
+Why? Had Misplaced Trust been broken? Missha, who no longer had anything to hide, was completely confused—but then…
 
-Had that device broken?
+But then…
 
-Truly having nothing to hide, Misha was genuinely baffled.
-
-But...
-
-‘Ah...’
+‘Ah…’
 
 She realized.
 
-Broken Trust was normal. Not broken and still working properly right now.
+Misaplaced Trust was working perfectly. It wasn’t broken—it was functioning exactly as it should.
 
-The only reason she couldn’t speak was one.
+The reason she couldn’t speak was simple.
 
-She still had something she wanted to hide from him.
+There was still something she wanted to hide from him.
 
-“Words...”
+“Can’t… say it?”
 
-Amid the suffocating silence, Bjorn spoke again.
+In the suffocating silence, Bjorn spoke again.
 
-“Is it something you can’t say?”
+“Is it something you can’t tell me?”
 
-She instinctively felt it.
+She sensed it instinctively.
 
-If she stayed silent at this question, everything would end.
+If she stayed silent now, everything would be over.
 
-“...I... don’t have anything to hide related to Ibaekho.”
+“…I-I’m not hiding anything else about Lee Baek-ho.”
 
 “Then?”
 
-Seeing Bjorn’s gaze, still not giving up hope on her, Misha took a breath.
+Bjorn’s gaze still held a sliver of expectation, as if he wasn’t ready to give up on her yet. Misha took a deep breath.
 
-“Then you’re hiding something else, right?”
+“So you’re hiding something unrelated?”
 
-“Yeah...”
+“…Yeah.”
 
-Nodding like a trance but full of hesitation in her mind.
+She nodded, even though her head was full of hesitation.
 
-Could she really say this?
+Could she really say it?
 
-While she was gone, his side had become filled with much better people.
+So many better people had entered his life now.
 
-And there was also a promise with them...
+He’d made promises with them…
 
 Maybe it would be better for Bjorn if she just disappeared.
 
-“I...”
+“I…”
 
-Yet, her mouth moved on its own.
+But her mouth moved on its own.
 
-Her lips that had been frozen moments ago now opened, and she spilled her heart stained with long regret.
+The lips that had refused to budge just moments ago now parted, spilling out the regret-laden truth she had kept buried for so long.
 
-“I lied to you before, Bjorn.”
+“I lied to you before.”
 
-“...?”
+“…?”
 
-Bjorn’s eyebrows furrowed at the word ‘lied.’
+At the word lied, Bjorn’s eyebrows twitched.
 
-Come to think of it, Bjorn always hated being deceived.
+Now that she thought about it, he had always been like this.
 
-Besides, wasn’t this a situation where hiding something meant you had to speak?
+He hated being deceived more than anything.
 
-Yeah, so...
+Especially now—when everything had to be laid bare.
 
-‘This isn’t cowardice.’
+So…
 
-She wiped away the last lingering regrets and continued.
+This isn’t cowardice.
 
-Originally, she had planned to say this on Parune Island.
+Erasing even her last lingering attachment, she continued.
 
-She had tried to kill her feelings for him but thought she might confess in case he died.
+She had tried to kill her feelings back on Farune Island, but the thought that he might die at any moment made her want to confess.
 
-“I said it would be better if we just stayed as comrades.”
+“When I said it would be better if we just stayed as comrades…”
 
-Though it took such a long time to say it.
+Well, somehow, it had taken this long for her to finally say it.
 
 “That was a lie.”
 
-They say the best time is when you think it’s too late.
+They say the best time to do something is when you think it’s too late.
 
-Hadn’t she said something like that before?
+“Come to think of it… I never gave you a proper answer back then, did I?”
 
-“Come to think of it... I never gave you any answer back then, right?”
+Misha lifted her head, meeting his eyes, and spoke as clearly as she could.
 
-Misha lifted her head, met his eyes, and carefully pronounced.
+“Bjorn Jandel. I… like you too.”
 
-“Bjorn Yandel. I... like you too.”
+The words she hadn’t been able to say when she first realized his feelings.
 
-That day, when she first confirmed his feelings, she was too flustered to answer.
+No answer came.
 
-No reply came.
+But she kept speaking.
 
-But she kept going.
+“I felt that way when you first told me.”
 
-“That day you said it to me, it was like that.”
+“I felt that way even before you said anything.”
 
-“Even before you said it.”
+“And…”
 
-“And...”
+In a voice as quiet as an ant’s footsteps, but as clear as day, she finished.
 
-With a barely audible voice like an ant crawling, she clearly said.
+“I still do now…”
 
-“Even now...”
+That was the only thing she had been hiding from him.
 
-That was the only thing she had hidden from him.
+---
 
-Sometimes there are days when feelings are strangely peculiar.
+Sometimes, you wake up with a strange feeling in your chest.
 
-The day is bright and sunny, but somehow dark clouds gather and threaten a sudden downpour.
+It’s bright and sunny—but it feels like a storm might break out at any moment.
 
-For Elwen, today was such a day.
+For Erwin, today was one of those days.
 
-“Sir! You’re awake... huh?”
+“Mister! Are you… up—huh?”
 
-Early in the morning, excited, she ran to find him, but the room was empty.
+She had run over excitedly early in the morning, only to find his room empty.
 
-From then on, Elwen felt an inexplicable foreboding.
+From that moment on, a sense of dread settled in her.
 
-She searched everywhere in the mansion but Bjorn was nowhere to be found.
+She searched the building, but Bjorn was nowhere to be found.
 
-“Are you talking about the chief? Well... he didn’t say anything about going anywhere... He’s probably still inside the mansion.”
+“The captain? Hmm… He didn’t say anything. He should be in the buliding…”
 
-“...Really? I’ve checked all other rooms but couldn’t find him.”
+“Really? I’ve checked all the rooms…”
 
-“Hmm, then maybe he just went outside for a while on some errand...”
+“Maybe he stepped out for a bit?”
 
-Auyen Rockrove, Anabada’s navigator, tried to reassure her it was nothing.
+Auyen Rocklob, Anabada’s sailor, tried to reassure her, but Erwin’s lips felt parched.
 
-But Elwen’s lips kept drying.
+There was still one room she hadn’t checked.
 
-In fact, there was one room she hadn’t checked yet.
+Misha Karlstein.
 
-‘Misha Kalstein.’
+The reason she hadn’t checked was simple.
 
-The reason she hadn’t checked that room was simple.
+Because she didn’t think Bjorn would be there. Especially since something had felt off between them lately.
 
-She didn’t think Bjorn would be there. Lately, something seemed off between them.
+Misha had been isolating herself in her room, and during the rare clan meetings she attended, she always seemed upset.
 
-Since then, Misha had been sulking, locked alone in her room every day, as if protesting.
+But something felt inexplicably wrong.
 
-But it was a mystery.
+Thud, thud.
 
-Step, step.
+Even though she was certain Bjorn wouldn’t be there, her feet carried her there anyway.
 
-Though thinking Bjorn couldn’t be here, Elwen naturally headed there.
+Logically, it made more sense that he had stepped out for an errand, as Auen suggested.
 
-Even though it made more sense, as the navigator said, that he probably just went out for some errand.
+So why did this ominous feeling keep growing?
 
-Why did a terrible feeling keep rising that he was here?
+Thud.
 
-Step.
+Amid those uneasy thoughts, Erwin finally arrived at her destination, a room tucked into the far corner of the building’s third floor. The door was firmly shut.
 
-Among those unpleasant feelings, Elwen arrived at her destination. A room on the third floor of the large mansion in a corner. The door was firmly shut.
+She considered knocking, but if Björn wasn’t there, it would just be awkward.
 
-She thought about knocking, but stopped, feeling it would be awkward if Bjorn wasn’t inside.
+‘I can’t sense any mana.’
 
-‘There’s no magical power detected.’
+There were no voice isolation magic or barrier.
 
-No sound-blocking spells or barriers.
+Meaning, if she wanted, she could hear everything happening inside
 
-Meaning, if she wanted, she could hear every sound inside.
+Erwin typically held back her sharp sense of hearing, but now she let it take over.
 
-Elwen deliberately opened her hearing wide as she usually kept it closed during daily life.
+And in that instant—
 
-Then—
+“Bjorn Jandel. I… like you too.”
 
-“Bjorn Yandel. I... like you.”
+A familiar voice reached her ears.
 
-A familiar voice came to her ears.
+She instantly recognized who it was, but couldn’t make sense of the words.
 
-She instantly recognized the speaker, but the words were hard to understand.
+What… did she just say?
 
-What... was she saying?
+Thinking she might’ve misheard, she focused even more intently.
 
-Was she mistaken? She listened more carefully.
+“I felt that way when you first told me.”
 
-“That day you said it to me, it was like that.”
+“I felt that way even before you said anything.”
 
-“Even before you said it.”
+“And… I still do now…”
 
-“And... even now...”
+Her mind still refused to process it.
 
-Her mind still couldn’t comprehend.
+Because wasn’t this… a love confession?
 
-Because this was a confession of love.
+Something she herself had never done before…
 
-One she herself had never made in her life...
+‘Who does she think she is…?’
 
-‘Not knowing my place...’
+It was absurd. Infuriating.
 
-It was ridiculous. Anger welled up.
+Wasn’t this the same woman who had vanished without a trace the moment she heard Bjorn had died, instead of seeking revenge?
 
-The woman who vanished without any vengeance as soon as she heard he was dead.
+The ever-kind and naive Bjorn might have taken her back out of sentimentality, but Erwin hadn’t forgotten.
 
-The pure and kind Bjorn was taking care of her out of old feelings, but she still hadn’t forgotten.
+But…
 
-But...
+[Bjorn Jandel. I… like you too.]
 
-[Bjorn Yandel. I... like you.]
+That first sentence kept echoing in her mind.
 
-That one phrase she first heard kept ringing in her ears.
+It was only then that Erwin noticed something odd.
 
-Elwen finally noticed something strange.
+‘“Too”…?’
 
-‘“I... too?”’
+The beast woman from the Red Cat Tribe had said she liked him too.
 
-The catlike beast of the Akmyo tribe said “I too” liked her.
+And “me too” is something you say when you’re agreeing with what someone else just said.
 
-And “I too” is a phrase used to express agreement when the same words are heard.
+Which meant…
 
-Meaning that phrase implied—
+“…Mister said it first?”
 
-‘...The chief said it first?’
+Was it because the idea was so unbelievable?
 
-It was such an unbelievable story.
+The heat that had been boiling in her head instantly cooled.
 
-Her once heated mind suddenly went cold.
+And with that heat gone, she could finally see the situation more objectively.
 
-As the heat in her head cooled down, the situation became much clearer.
-
-She chuckled.
+For some reason, she let out a small laugh.
 
 Pfft.
 
-It was all that woman’s delusion.
+It was all just that woman’s delusion.
 
-She was trapped in a fantasy, talking to the chief.
+Caught up in fantasy, imagining a conversation with him.
 
-As proof, after that phrase, no conversation was heard from inside the room.
+The proof? Since that statement, not a single word had come from the room. LanguageResources
 
-‘Still... it’s a pity.’
+“Still… kind of pitiful, I guess.”
 
-It was a strange behavior hard to understand for most, but Elwen herself had done something similar when mentally troubled, so she could understand a little.
+It was the kind of behavior most people would struggle to understand, but Erwin had done something similar before when she was going through a hard time. So in a way, she could relate—just a little.
 
-‘Sigh... then where on earth did the chief go...’
+Sigh… So where did Mister go, then…?
 
-Elwen turned around as if she regretted having heard something she shouldn’t have.
+Feeling like she had overheard something she shouldn’t have, Erwin turned away. She was about to dial her heightened hearing back to normal—
 
-Then she tried to restore her hearing to normal from the wide-open state.
+No, more accurately, she was about to.
 
-Or rather, she tried to.
+“…I see.”
 
-“...I see.”
-
-A familiar voice was heard from inside the room.
+A familiar voice reached her ears from inside the room.

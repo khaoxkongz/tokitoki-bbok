@@ -1,475 +1,448 @@
-# Opening 3
+# Opening the Door (3)
 
 Where should we head next?
 
-I tried to test the chief by asking where would be best, but he just kept parroting back that I should decide as I please.
+I threw the question back at him, but he only repeated that I should do as I please.
 
-‘I really have no idea what’s on his mind.’
+‘I really can’t figure out what he’s thinking.’
 
-In the end, I sighed and set the destination myself. The chief said he would announce it at the upcoming leadership meeting.
+In the end, I sighed and chose a destination myself. The chief said he would announce it as the next destination at the upcoming leadership meeting.
 
-It seemed he truly had no intention to interfere with the expedition, sticking strictly to a figurehead role.
+He seemed determined not to get involved in the expedition, sticking strictly to his role as a figurehead.
 
-“So, how’s the research going?”
+“So how did the research go?” EducationalResources
 
-Before parting with the chief, I brought up the research again.
+Before parting ways with the village chief, I brought up the research again.
 
-The study that had lasted over ten days, started from the possibility that the mages might forcibly activate the dimensional stele.
+The same research that started over ten days ago on the possibility that the mages might be able to forcibly activate the dimensional monument.
 
-“Hmm, didn’t I say it failed?”
+“Hmph, didn’t I say it failed?”
 
-“We held on that long, so I was hoping there might be some result.”
+“You’ve been holding onto it that long. I thought maybe there was a result.”
 
-“A result, huh...”
+“Result, huh…”
 
-The chief trailed off but then spoke with a meaningful tone.
+Trailing off, the chief said something ambiguous.
 
-“Actually, it wasn’t completely fruitless.”
+“To be honest, there was something.”
 
-“Not completely?”
+“…There was?”
 
-“We gained certainty that we can escape this place through the [Heretic Cult].”
+“I gained certainity that I can escape this place using the [Heretic Altar]”
 
-How they arrived at that conclusion, I wasn’t told.
-
-Still, that statement had to be true. After all, that was probably why he gave the mages more than ten days to research.
+There were no detailed explanations, but his words were likely true. No, in fact, the reason he had given the mages over ten days to research was probably for that purpose.
 
 I asked bluntly.
 
-“When do you plan to return to the city?”
+“So, when do you plan to return to the city?”
 
-In my opinion, the chief’s real reason for staying in the labyrinth was ‘uncertainty.’
+In my opinion, the real reason the village chief was still lingering in the labyrinth was ‘uncertainty.’
 
-The first basement level was quite unusual.
+After all, Basement floor 1 was a very strange floor.
 
-For example, when the expedition first arrived, they tried to open the dimensional gate, but it wouldn’t open.
+For example, when the expedition first descended here, they tried to open a dimensional gate, but it wouldn’t open.
 
-That caused a lot of debate.
+This caused quite a stir.
 
-Could this be considered a normal labyrinth field?
+Could this place be considered a regular field within the labyrinth?
 
-There was fierce argument between mages and explorers, but eventually, the consensus leaned toward ‘yes.’
+There were endless debates among mages and explorers, and in the end, the consensus leaned toward ‘yes.’
 
-The decisive proof was the Honor Stone.
+The decisive evidence was the Stone of Honor.
 
-[The great barbarian warrior Bjorn Yandel and his comrades first discovered the first basement level.]
+[The great warrior of the Barbarian tribe, Bjorn Jandel, and his comrades were the first to discover the Basement floor 1.]
 
-Despite many peculiarities, this phrase left no doubt that it was inside the labyrinth.
+Though it was a strange place in many ways, this single inscription left no doubt that it was within the labyrinth.
 
-Why the gate wouldn’t open was unknown.
+Nonetheless, Why the dimensional gate wouldn’t open remained a mystery.
 
-Well, it wasn’t unheard of for special spaces to exist inside the labyrinth where gates couldn’t be opened.
+But it’s not like this is the only special space in the labyrinth where dimensional gates don’t work.
 
-“Now that you’re certain, shouldn’t you just return?”
+“Now that you’re certain, why don’t you just return?”
 
-I pressed, but the chief shook his head firmly.
+I pressed him, but the village chief shook his head firmly. GeographicReference
 
-“We’re not ready yet. I’m not confident we can return immediately without arousing suspicion.”
+“The preparations aren’t complete yet. I’m not confident I can return immediately without arousing suspicion.”
 
-Fair enough.
+Well, that made sense.
 
-If I were in his position, I’d also stay for a while to gather information about Jerome Saintred.
+If I were in the village chief’s position, I would have stayed in that body for a while longer to gather information about Jerome Saintred too.
 
-“So, you want me to leave quickly?”
+“You seem eager for me to leave quickly?” he said
 
-“Heh, do I have to say that?”
+“Hah, what made it obvious?”
 
-“Why? We’re supposed to be on the same boat.”
+“Why’s that? Aren’t we on the same boat here?”
 
-‘Why?’ Like I don’t know.
+Don’t play dumb. You know exactly why
 
-‘Same boat? You still haven’t told me how to activate the dimensional stele.’
+“Same boat? You haven’t told me anything about how to activate that portal stone yet.” I grumbled.
 
-“Well... it’s natural you don’t trust me.”
+“Ah… I suppose it’s natural for you not to trust me.”
 
-The chief grumbled but then nodded in understanding, lightly tapping my forearm like the upper-ups would.
+The village chief nodded as if he understood and lightly tapped my forearm like a superior.
 
-“Don’t be so anxious. I will definitely leave this place, and when that time comes, I’ll tell you everything.”
+“Don’t be so anxious. I will definitely leave this place, and when the time comes, I’ll tell you everything.”
 
-That was a bit funny.
+It was almost funny.
 
-Did the chief even realize that his cryptic words only increased my anxiety every time he spoke like that?
+Does this bastard even realize?
 
-‘...Maybe I should just take him out first?’
+That every time he says something cryptic like that, it just makes me more uneasy?
 
-That thought flared briefly, but I decided to watch the situation a bit longer.
+…Should I just kill him first?
 
-As I was about to leave.
+The thought flashed across my mind, but I decided to wait a little longer.
 
-“Oh, by the way, did that thing I gave you this morning work? The Broken Trust.”
+Just as I turned to leave—
 
-“...Ah, I forgot to return it—”
+“Ah, by the way, did you use that item I gave you this morning? The [Misplaced Trust].”
 
-“No need to return it. Seems you need it more than I do.”
+“……Ah, I forgot to return it—.”
 
-Damn, that felt like a backhanded curse.
+“No need to return it. It seems more necessary for you than for me.”
 
-I got annoyed for a moment but still took the Broken Trust with me when I left.
+Just curse me outright.
 
-When I returned to the mansion where I lived, neither Elwen nor Amelia were to be seen, and Misha was the same.
+His mocking tone irritated me, but I made sure to take the Misplaced Trust with me as I left.
 
-Instead, Versil Gowlund was waiting for me.
+---
+
+Instead, Versil Gowland was waiting for me.
 
 “You’re back?”
 
-“Oh, right, you said you had something to say.”
+“Now that I think about it, you said you had something to tell me.”
 
-I already knew what it would be but pretended not to and sat down. After casting a spell to block sound, we began our conversation in earnest.
+Though I already had a good idea of what it was, I pretended not to know and took a seat. After setting up a sound-blocking spell, we began talking in earnest.
 
-Just as I expected.
+“There’s a rumor that the Evil Spirits’ gathering has disbanded.”
 
-“There’s a rumor that the assembly of evil spirits has been disbanded.”
+Versil delivered the most crucial information upfront, disguising it under the label of ‘rumor.’ Reference
 
-Versil delivered the key information with the word ‘rumor.’
+I was slightly dumbfounded.
 
-I was a bit dumbfounded.
+“A rumor, you say?”
 
-“A rumor?”
+“Yes. Well… it’s not like there aren’t any evil spirits among us.”
 
-“Yes. After all, not all of us are free of evil spirits.”
+No, I mean, where did you hear that rumor from?
 
-But where did he hear that rumor?
+Most people would have asked, but I just nodded like I didn’t care.
 
-A normal person might press for details, but I nodded silently again.
+Perhaps because I never usually questioned the source of information, Versil seemed somewhat careless when dealing with me.
 
-Perhaps because I never asked about sources, Versil seemed a bit careless around me.
+I hope she shouldn’t act this way in other places.
 
-‘He shouldn’t do that elsewhere...’
+As a leader, that was a bit concerning.
 
-It made me worry a bit as the leader.
+In any case, after we discussed the “rumor,” the conversation naturally shifted to Misha.
 
-Anyway, after talking about the ‘rumor,’ naturally, Misha became the topic.
+“But about this morning…what was that about?”
 
-“What about that from this morning... what happened?”
+“You mean Misha?”
 
-“Misha, you mean?”
+“Yes. The information that Karlstein might be a traitor—it’s still valid. I just thought… maybe you’re getting too close.”
 
-“Yes. The info that Kalstein might be a traitor—is that still valid? It seems you two are a bit too close...”
+Versil voiced her concerns gently.
 
-Versil cautiously expressed concern.
+But because of that, I responded all the more firmly.
 
-That’s why I cut her off firmly.
+“You don’t need to worry about that. I confirmed something that proves it wasn’t betrayal.”
 
-“You don’t need to worry about that. I recently confirmed circumstances that could be considered betrayal myself.”
+“…Really? Then why didn’t you tell me—?”
 
-“...Really? Then why didn’t you tell me...”
+“It wasn’t a big deal. And after hearing her side, it wasn’t even meant to harm us.”
 
-“It was nothing serious. From what I heard, there was no intent to harm us.”
+“I understand you want to believe Karlstein, but how can you trust her?”
 
-“I understand wanting to trust Kalstein, but how can I believe that?”
+I knew she’d ask that.
 
-Ha, I knew that question was coming.
+“I used Misplaced Trust. Heard the whole story, and confirmed she’s not hiding anything.”
 
-“I used the Broken Trust. After hearing everything, I confirmed there’s nothing hidden.”
+At that, Versil clammed up. If she kept pressing after that, it’d just be nitpicking.
 
-Upon hearing that, Versil fell silent like a mute who’d just tasted honey. If she doubted any further, it would be unreasonable.
+Of course, she looked curious about what exactly had happened, but I had no intention of sharing that part.
 
-Of course, she was curious about what betrayal I was talking about, but I didn’t intend to explain that part.
+“Anyway, there’s no issue with Misha now. You don’t need to keep an eye on her—just treat her like a normal teammate.”
 
-“Anyway, there’s no problem with Misha now. No need to monitor her; treat her as a normal comrade from now on.”
+“…Alright. I will.”
 
-“...Okay, I will.”
+Okay, topic closed.
 
-Okay, that ends this topic.
+I then asked Versil to gather all of Squad 4. Once everyone was assembled, I informed them we’d be leaving the island today and told them to get ready.
 
-Afterward, I asked Versil to gather all the members of the temporary 4th Squad, and once everyone assembled, I told them to prepare to leave the island today.
+“Ah… so we’re starting exploration again?”
 
-“Ah...! We’re starting the expedition again?”
+“Then I guess the monument research failed…” EducationalResources
 
-“So the stele research failed...”
+“Sigh… my family will be worried.”
 
-“Sigh... my family must be worried.”
+Some were disappointed that they couldn’t return home immediately, but the overall mood wasn’t too bad.
 
-Some were disappointed they couldn’t return home immediately, but the mood wasn’t bad overall.
+“I was starting to get bored anyway, so this works out.”
 
-“I was getting bored anyway, so this works out.”
+“There are still plenty of places we haven’t explored.”
 
-“There are still many unexplored places.”
+After all, they were all explorers at heart.
 
-They were all explorers after all.
+---
 
-Swoooosh.
+Whoooosh—
 
 Four ships cut through the silver waves.
 
-By the way, our clan Anavada’s ship, infinitely smaller and more precious than warships, was at the rear.
+Anabada’s ship—infinitely smaller and precious to me was positioned at the very rear.
 
 Sitting at the bow, I stared blankly at the warships ahead.
 
-‘How much more money do I need to buy a ship like that...’
+‘How much more money do I need to earn to afford a ship like that…?’
 
-Actually, I could sell the Aegis barrier and the Evergreen Monument, but then I’d just become a pauper.
+Honestly, if I sold my Aegis’ Barrier and Milayel’s Spear, I could afford one.
 
-Unless I had enough wealth to buy such a ship comfortably, buying it would be pointless—
+But then I’d be broke again.
 
-“Yandel! What are you doing sitting there?”
+There’s no point in buying one unless I’m rich enough to afford it with spare funds.
 
-While I was lost in thought at the bow, a sharp voice called from behind.
+“Mr. Jandel! What are you doing up there?!”
 
-It was Raven, deputy captain of the 3rd Mage Corps.
+Just as I was leisurely organizing my thoughts at the bow, an angry voice called out from behind.
 
-“That’s dangerous! Come down now!”
+It was Raven, the vice-captain of the 3rd Magic Corps.
 
-Her tone sounded irritated, so I hurried onto the deck. Raven looked down at me with eyes smaller than my chest height, like looking at a child.
+“It’s dangerous! Get down here now!”
 
-It was funny how she looked up like that.
+Her voice sounded angry, so I quickly climbed back onto the deck. Raven, whose eyes barely reached my chest, looked up at me like I was a child.
 
-“What’s with that look...?”
+Man, it’s kind of funny when she stares up at me like that.
 
-“...Nothing.”
+“What’s that look for?”
 
-Stretching, I glanced around the deck. Besides Raven, I saw familiar faces here and there.
+“…Nothing.”
 
-Meland Kaislan, Sven Parab, and a few knights I’d noticed during the library island raid.
+I stretched and glanced around the deck, spotting other familiar faces:
 
-From now on, they were all members of the temporary 4th Squad.
+Meland Kaislan, Sven Parav, and a few knights I’d taken note of during the Library Island operation.
 
-Before departure, I asked the chief and he readily agreed.
+From now on, they were all members of Temporary Squad 4.
 
-“By the way, Raven, I have something to ask.”
+Before leaving, I’d asked the village chief about the rearrangement, and he’d readily agreed.
 
-“...What is it?”
+“By the way, Raven, I have a question.”
 
-“Did anything happen during the stele research in town? Weren’t you involved in it?”
+“…What is it?”
 
-“Oh, that?”
+“What happened during the stone research in the village? You were part of that, right? What happened?”
 
-Having time during the voyage, I asked out of curiosity, and Raven explained passionately, even using technical terms.
+Since we had time during the voyage, I asked about something I’d been curious about. Raven explained with great passion, using all kinds of technical terms.
 
-But the result was—
+‘And the result?’
 
-‘I don’t understand a single word.’
+No idea what she’s talking about.
 
-Dimensional disconnection, spatial coordinates, and all that—it was impossible for a modern man disguised as a barbarian to understand.
+Dimensional severance, spatial coordinates… There’s no way a modern man wearing barbarian skin could understand that.
 
-I mostly listened half-heartedly, but Raven noticed and awkwardly changed the subject.
+As I I just sat there, letting the words go in one ear and out the other, Raven, sensing my confusion, changed the subject.
 
-“Ahem! I think I spoke too complicatedly... But Yandel, can I ask you something?”
+“Hmmm, I guess I made that too difficult……. But, Mr Jandel, can I ask you a question?”
 
-“Anything.”
+“Go ahead.”
 
-“Where exactly are we going? I thought you’d know.”
+“Where are we heading now? I figured you’d know.”
 
-“Oh, you didn’t attend the last leadership meeting.”
+“Ah, right. You weren’t at the last leadership meeting.”
 
-“The mages were all exempt. We had to hurry to organize research materials.”
+“All the mages were excluded. We had to rush to organize the research data.”
 
-“We’re heading here.”
+“We’re going here.”
 
-I unfolded the map I’d stolen from Ham’s House and pointed at the destination.
+“Our destination is here.”
 
-An uncharted island about a week’s travel from Library Island. Unlike Rainbow Island, it was closer, so I planned to explore it first...
+I unfolded the map looted from Hamsiki’s House and pointed at the location.
 
-When I asked the chief if he knew anything about the island, he said:
+An uncharted island about a week’s journey from Library Island. Unlike Rainbow Island, it was relatively close, so we decided to start our exploration there.
 
-[It’s a very secretive island. Strange too.]
+When I asked the village chief if he knew anything about this island, he replied:
 
-[Strange?]
+[It’s a rather mysterious island. Quite Strange too.]
 
-[You’ll understand when you get there. I’ll tell you the rest upon arrival.]
+[Strange how?]
 
-I didn’t quite know what was strange, but it definitely sounded like a mysterious island.
+[You’ll understand when you see it. I’ll explain the rest when we arrive.]
 
-“Hmm... I’m curious about this place. I hope we find clues to the secrets of this layer...”
+I didn’t yet know what made it strange, but his words made it feel mysterious.
 
-Perhaps because it was uncharted, Raven didn’t ask what kind of place it was, and the conversation ended there.
+“Hmm… I wonder what it’s like. I hope there’s a clue to uncovering this floor’s secrets…”
 
-Time then passed endlessly.
+Maybe it was because it was an unexplored island.
 
-And—
+Raven didn’t press further. And that was the end of that conversation.
 
-“Captain! ◈ Nоvеlіgһт ◈ (Continue reading) The flagship has stopped!”
+Time passed endlessly after that.
 
-“We’ve received confirmation of arrival at the destination.”
+Then—
 
-After a week of sailing, I understood why the chief said it was a strange island.
+“Captain! The leadship has stopped!”
 
-“...Is that really an island?”
+“They’ve raised a signal—we’ve reached the destination.”
 
-No trees, no soil.
+After a week-long journey, I finally understood why the chief had called it a strange Island.
 
-Or rather, there was no ground for anything to stand on.
+“…That’s supposed to be an island?”
 
-Swoosh!
+No trees. No soil.
 
-Only a gigantic stele-like structure stood tall among the shimmering silver waves.
+Actually, there was no ground for such things to be on.
 
-After roughly mooring nearby, I boarded the flagship with the chief and had a private talk.
+Whoooosh—!
 
-“Now that we’ve arrived, tell me. What exactly is that stele floating on the sea?”
+Only a massive monolith rose out of the shimmering silver sea.
 
-As soon as I entered, I activated the Broken Trust and asked, and the chief gave me a baffled look.
+Splash!
 
-“Why? Didn’t you say you might need it?”
+---
 
-“That’s not what I meant...”
+After anchoring the ship near the island, I boarded the leadship to speak with the village chief privately.
 
-“Enough, answer. Time is precious.”
+“We’re here now, so start explaining. What is that monolith in the middle of the ocean?”
 
-I wasn’t letting this slip by again.
+The moment I stepped inside, I activated [Misplaced Trust] and asked.
+The village chief looked at me as if I were being ridiculous.
 
-Perhaps sensing my resolve, the chief finally told me.
+“Why? Didn’t you say it yourself? That I need it more than you.”
 
-“That’s not a stele, but a gate.”
+“That’s not what I meant…”
 
-“A gate...?”
+“Whatever. Just answer me. We don’t have time to waste.”
 
-“When you touch it, the gate opens, letting you enter an unknown space.”
+This time, I wasn’t going to let him brush it off.
+
+Perhaps sensing my resolve, the village chief readily answered.
+
+“That’s not a stone pillar—it’s a door.”
+
+“A door…?”
+
+“If you touch it, the door will open, allowing passage into an unknown space.”
 
 “What’s inside?”
 
-The chief paused for a moment.
+The village chief paused before answering.
 
 “I don’t know.”
 
-Not the answer I wanted.
+Not the answer I’d hoped for.
 
-“Don’t know?”
+“…You don’t know?”
 
-“Yes, my previous body couldn’t even open that gate.”
+“That’s right. My previous body couldn’t even open it, let alone enter.”
 
-“How did you know it’s a gate then?”
+“Then how do you know it’s a door?”
 
-“I experimented. Unlike you, I used a survivor who drifted here by chance. But I couldn’t enter it myself, so I have no idea what’s inside.”
+“I ran experiments. Unlike you, there were times when survivors happened to drift into this place. I used them. And before you ask, I couldn’t enter it myself—so I don’t know what’s inside.”
 
-“...”
+“…”
 
-“The one who entered never returned alive.”
+“The one who went inside never returned alive.”
 
-That sentence sounded chilling somehow.
+A chilling statement.
 
-Putting the ominous feeling aside, I quickly sought confirmation.
+But I pushed aside the ominous feeling and focused on confirming the facts.
 
-“What do you mean by survivor?”
+“What do you mean by survivors?”
 
-“Didn’t I say before there were humans who sometimes drift in here? Some survived.”
+“Didn’t I mention before that humans occasionally drift here? Some of them survived.”
 
-“I don’t understand. Then why didn’t you take their bodies away?”
+“That doesn’t make sense. Then why didn’t you take their bodies and leave?”
 
-The chief pulled a black stone from his pouch.
+In response, the village chief pulled out a black stone from his pocket.
 
-“At that time, this stone hadn’t collected enough sacrifices. Actually, only recently has it gathered enough. As you know... quite a few came in this time.”
+“Back then, I hadn’t gathered enough sacrifices to satisfy this stone. Truthfully, it’s only recently that I’ve collected the required amount. As you know… quite a few people arrived this time.”
 
-He meant the Silver Lion Clan, missing from the village and found dead in the basement.
+He was referring to the Silver Lion Clan members who had gone missing in the village and were later found dead in the basement.
 
-That cold look in his eyes that doesn’t see people as people really irritated me today, but I listened carefully without showing it.
+His gaze, devoid of any regard for human life, felt particularly annoying today, but I kept my composure and listened.
 
-“The explorer who entered alone was as strong as you. Still, they didn’t come back. That’s all I can tell you. I’m not even sure how many can enter.”
+“The explorer who went inside was as strong as you. But even he never returned. That’s all I can tell you. I’m not even sure how many people can enter.”
 
-“...”
+“…….”
 
-“And yet you still plan to explore inside as scheduled?”
+“Even so, do you still intend to explore inside as planned?”
 
-Maybe it was just my imagination, but his tone sounded like he was testing me. Whatever the tone, my answer was decided.
+His tone felt like a test. But regardless, my answer was already decided.
 
-“Of course, I’ll investigate inside.”
+“Of course I’ll explore it.”
 
-I resolved to uncover everything about this layer.
+I had resolved to uncover every last secret of this floor.
 
-Before the Broken Trust deactivated, I seized the moment to ask various questions.
+Before turning off the Misplaced Trust, I asked a few more questions.
 
-The chief simply remained silent, so I had to settle for satisfaction and returned to my ship.
+But the chief kept quiet, so I had no choice but to settle for what I’d gotten and return to my ship.
 
-After selecting who and in what order would enter, I informed the chief.
+Next, I selected who would enter first, how many would go, and in what order, then relayed the plan to the village chief.
 
-“I’ll arrange personnel as you said. But... is that okay?”
+“I’ll arrange the personnel as you suggested. But… are you sure about this?”
 
-“What do you mean ‘okay’?”
+“Sure about what?”
 
-“You’ll be the first to enter. A dangerous place with unknown threats.”
+“Won’t you be the first to enter? A dangerous place with who-knows-what lurking inside.”
 
-“That’s why. That’s why I want to go first.”
+“That’s exactly why I’m going in first.”
 
 “Hmm?”
 
-The chief only gave a curious look but said nothing else.
+The village chief merely gave me a curious look without saying anything. After finishing preparations, we boarded small boats and approached the massive stone door.
 
-Back on the ship, we finished preparations and took a small boat toward the massive stone gate.
+Whoooosh—
 
-Swoooosh!
-
-The stone gate, wide open thanks to the previously sent survey team.
-
-Inside, a dazzling mirage swirled.
+The stone door, already opened by the advance survey team, revealed a swirling, radiant maze inside.
 
 A portal.
 
-Any explorer would recognize it instantly.
+Any explorer could recognize it at a glance.
 
-But it was the first time I’d seen such a gigantic portal, so I was fascinated.
+But I’d never seen one this massive before, so I stared in fascination when—
 
-“Yandel, maybe you should reconsider?”
+Jandel, maybe you should reconsider.”
 
-Amelia, on the same ship, spoke to me.
+Amelia, who was in the same boat, spoke to me.
 
-“We don’t mind, but you going first seems reckless.”
+“It’s one thing for us to go in, but you entering first feels too reckless.”
 
-“What are you saying? Weak as you are.”
+“What are you talking about? You’re the weak one here.”
 
-Those who know would understand—the barbarian never listens to those weaker than himself.
+Anyone who knew me would understand—barbarians don’t listen to those weaker than themselves. History
 
-So in that spirit:
+So,—
 
 “I’ll go in first. Wait one minute before following, just in case.”
 
-After exchanging glances with my comrades, I prepared to leap in front of the boat.
+After exchanging looks with each comrade, I stepped to the edge of the boat and prepared to leap.
 
-What awaits inside?
+What’s waiting inside?
 
-Honestly, I was a little scared and tense too.
+I was nervous and scared too.
 
 But I trusted my experience.
 
-[Dungeon & Stone] is an unforgiving game, but monsters and traps rarely spring out immediately after a portal.
+Dungeon & Stone is an unforgiving game, but it almost never throws monsters or traps immediately after stepping through a portal.
 
-Yeah, so...
+Yeah, so—
 
 Thud.
 
-I leapt through the portal.
+I leapt into the portal.
 
-Whoooosh!
+Whoooosh—!
 
-Multicolored light wrapped my body.
+My body was engulfed in swirling lights.
 
-That peculiar sensation of floating.
+That weightless, floating sensation.
 
 Thump.
 
-When I opened my eyes again, darkness surrounded me.
+When I opened my eyes again—there was only darkness.
 
-No need to light a torch or turn on the barbarian candle mode after so long.
+But I didn’t need to pull out a torch.
 
-After all, what level am I now?
-
-Fwhoooosh!
-
-I fired the flare I had stuck on my waist anywhere in the room.
-
-At that moment—
-
-Flare!
-
-The area lit up, securing my vision.
-
-‘Looks like indoors.’
-
-The floor was smooth marble.
-
-Walls on both sides, ceiling above.
-
-And...
-
-“...”
-
-Monsters filled the surroundings.
-
-More precisely, statues crafted to resemble monsters.
-
-‘Death Knight, King Slime, Lycanthrope, Iron Cavalry...’
-
-I immediately realized what these statues represented.
-
-‘The Rift Guardians.’
-
-Statues of Rift Guardians stretched endlessly down the long corridor.
+No reason to turn on Barbarian Candle Mode just yet.

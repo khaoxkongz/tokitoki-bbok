@@ -1,433 +1,423 @@
 # Return 4
 
-The cider, filled with plenty of ice, enhanced the refreshing sensation.
+A perfectly chilled glass of soda with just the right balance of ice and liquid, bursting with freshness.
 
-After shaking the glass moderately to chill it well, I downed it in one gulp.
+I gave the glass a gentle swirl and downed it all in one go.
 
-Because if the ice melts, the taste becomes bland, after all.
+After all, it’ll just bland once the ice melts, right?
 
-“Ahh...”
+“Ahhh…”
 
 Yeah, this is it.
 
-How much I had longed for this flavor.
+This world is bearable in many things, but the lack of carbonated drinks is brutal.
 
-This world was bearable in everything except for the lack of carbonated drinks.
+I could catch a faint trace of that bubbly sensation in its beer, but it felt totally different from the stuff back home.
 
-At least I could find carbonation in beer, but even that felt very different from the modern kind.
+‘…Should I go back?’
 
-‘...Should I go back?’
+A flavor so good it almost rekindled my long-lost desire to return.
 
-A taste enough to sprout my almost lost will to return.
+Lee Baek-ho needs to know this.
 
-Ibaekho had to know this.
+Instead of wasting time with the stone of resurrection, he should’ve just made soda and let me have a few sips. Then, I might’ve seriously considered going back.
 
-If instead of fussing about the Resurrection Stone or whatever, he had just made cider and let me drink it a few times, I might have seriously considered returning.
+“Old man, one more glass, please.”
 
-“Sir, another glass please.”
+After finishing the first glass, I immediately asked for a refill.
 
-After finishing one glass, I asked for a refill.
+This time, though, I sipped slowly to savor the taste instead of chugging it.
 
-But this time, I didn’t shotgun it; I sipped it slowly, savoring the taste.
+“You… really do look happy, don’t you?”
 
-“You... really look happy.”
+Wow, talk about killing the vibe. I’m the kind of person who gets annoyed the moment someone says stuff like that to me.
 
-Damn, that made me feel embarrassed.
+“Now, why don’t you tell me? How did you meet her?”
 
-People like us tend to suddenly sour upon hearing such words, no matter how glad we were before.
+“Ah, you mean the Witch?”
 
-“Well then, tell me. How did you meet her?”
-
-“Ah, the witch, you mean?”
-
-“Yes. I just can’t understand it. No matter how I think, I don’t see how you could have met her...”
+“Yes. I just can’t wrap my head around it. No matter how I think about it, I don’t see how you could’ve crossed paths with her…”
 
 Hmm.
 
-“How can you be so sure, sir?”
+“How can you be so sure of that, sir?”
 
-I asked, narrowing my eyes, and Auril Gavis turned mute, rolling his eyes.
+When I narrowed my eyes and asked, Auril Gavis rolled his eyes and turned silent.
 
-“......”
+“……”
 
-Honestly, it gave me chills.
+Honestly, it was creepy.
 
-What, was he really watching my every move?
+What the hell? Was he really monitoring my every move?
 
-By what method?
+How, exactly?
 
-While pondering, the old man skillfully evaded.
+While I was lost in thought, the old man smoothly dodged the question.
 
-“Well, you didn’t meet on Basement Floor 1, did you? And at that time, you were very busy, I recall. Tribe affairs, the Magic Tower, and even catching the Hierarch twice at that time.”
+“First off, the timing rules out the Basement Floor 1. And I recall you were quite busy before then. Establishing your clan, the Mage Tower… didn’t you even take down two floor lords during that time?”
 
-Well, it was true I was busy.
+Well, yeah. I had been busy.
 
-I was swamped with work and even sued by Count Alminus, so my mind was scattered.
+On top of everything else, Count Alminas sued me.
 
-Still, his words didn’t sound like excuses.
+Still, it’s not like what the old man said sounded like an excuse either.
 
-“You’ve already finished it. Give me your glass. I’ll pour another.”
+That said, I wasn’t buying his weak excuses.
 
-As soon as the glass was empty, Auril Gavis quickly took it and refilled it.
+“You finished your drink already? Let me get you another one.”
 
-I hate to say it, but in some ways, he was a consistent old man.
+The moment my glass emptied, Auril Gavis quickly took it and refilled it.
 
-Like a ghost switching between master and servant depending on the situation.
+As much as I hate to admit it, the old man was consistent in his own way.
 
-“Sir, no matter what, I can’t just give you information for free. I need to get something in return.”
+Should I call him a master of switching between roles depending on the situation?
 
-I drew a clear line, and Auril Gavis, ✪ Nоvеlіgһt ✪ (Official version) now unmasked with only the two of us left, bristled.
+“Sir, no matter how much you do this, I can’t tell you for free. I need something in return too.”
 
-“For free! What do you mean? Didn’t I even give you cider?”
+When I drew the line, his face was lit with fury, unmistakable now that he’d shed his mask as soon as we were alone.
 
-“Yes, thank you for that.”
+“For free? What are you saying? Didn’t I just serve you soda?”
 
-“People really do appreciate kindness—”
+“Yes, and thank you for that.”
 
-Whoa, that’s crossing the line.
+“If you were truly grateful, then—”
 
-“If everything ended with just cider, why do money and magic stones even exist? Just pouring a glass of cider and it’s over?”
+There he goes again, crossing the line.
 
-When I openly mocked him, Auril Gavis’s expression stiffened.
+“If soda could solve everything, why does money exist? Why do magic stones exist? Why not just hand out soda and call it a day?”
 
-“You always have the talent to make people uncomfortable.”
+My sarcasm made Auril Gavis’s expression stiffen.
 
-Laughing like a neighborly old man one moment, then turning serious the next gave a heavy pressure.
+“I’ve always felt this way, but you have a real talent for pissing people off.”
+
+The way he went from laughing warmly to suddenly getting serious was disturbing.
 
 But so what?
 
-I’d experienced this situation more than once. I was getting a handle on this old man.
+It’s not like this is my first rodeo. I’ve got this old man figured out by now.
 
-“Don’t pretend to be angry. It won’t work anyway.”
+“Stop pretending to be mad. It won’t work on me anyway.”
 
-When I shrugged it off casually, Auril Gavis returned to his usual expression like nothing had happened.
+When I brushed it off casually, Auril Gavis reverted to his usual expression as if nothing had happened.
 
-“Heh, you’re really stubborn too. So tell me... what do you want from me?”
+“Heh, you’re really something..So, tell me… what is it you want from me?”
 
-You can only offer a wild horse a carrot, not a whip.
+Since the stick didn’t work on me, the only option he had left was the carrot.
 
-“You must want something, so you’re acting like this?”
+“You must want something from me.” he said, hesitant. “Isn’t that why you’re doing all this?”
 
-Honestly, I didn’t have a definite desire.
+Honestly, I didn’t know exactly what I wanted.
 
-More precisely, I had too many questions and didn’t know which to pick.
+No—I wanted to ask so many things that he didn’t know where to start.
 
-So I had to prioritize...
+So I had to prioritize…
 
-‘Asking what he’s scheming is too broad.’
+‘‘Asking what he’s scheming is too broad.’
 
-After thinking, I settled on a more specific question.
+After some deliberation, I settled on a more concrete question.
 
-“Why do you want to shut down Ghost Busters?”
+“Why are you trying to shut down Ghost Busters?”
 
-A question about his most recent action.
+A question about the old man’s most recent actions.
 
-“Hmm, can I just answer? There’s no gem here to hide the truth.”
+“Hmm, are you sure you want me to answer that? There’s no truth-revealing gem here.”
 
-It sounded like he’d make a gem if I wished right now, but I declined.
+His tone suggested he’d whip up a new gem on the spot if I asked, but I declined.
 
-“Just go ahead. Even if there was, it wouldn’t mean 100% trust anyway.”
+“It’s fine. Just answer. Even if there were a gem, I wouldn’t trust it 100% anyway.”
 
-“So you want me to judge truth or lie.”
+“So you’ll judge whether it’s the truth or not?”
 
-“Yes. So answer carefully. If you lie and get caught, it’s your loss.”
+“Yes. So answer carefully. If I catch you lying, it’ll be your loss in the end.”
 
-“Loss?”
+“My loss?”
 
-“You’ll never trust me again, whatever I say.”
+“Because from then on, no matter what you say, I’ll never believe you again.”
 
-It may sound childish, but this threat seemed effective this time. This old man wanted to control me like a puppet.
+It might sound childish, but for this situation, it was a pretty effective threat. After all, this old man wants to manipulate me like a puppet from the shadows.
 
-I had to maintain a good relationship somehow...
+He needs to maintain at least a decent relationship with me…
 
-“Hmm...”
+“Hmm…”
 
-But why was he staring at me with such a perverted look instead of answering?
+But why is this old man looking at me with such perverted eyes without answering me?
 
-“Why? Got something to say?”
+“What? Do you have something to say?”
 
-“No.”
+“Not really.”
 
-“Not really? You almost said something, didn’t you?”
+“Don’t ‘not really’ me. You were about to say something, weren’t you?”
 
-When I looked at him as if to say ‘stop messing around,’ Auril Gavis reluctantly spoke.
+When I glared at him, sensing his usual games, Auril Gavis reluctantly opened his mouth.
 
-“I just found your attitude toward trust... somewhat impressive.”
+“It’s just… I was a little impressed, that’s all.”
 
-“...?”
+“……?”
 
-“Really.”
+“By your attitude toward trust.”
 
-Like nonsense about chewing straw while hanging from a roof in your sleep.
+What kind of nonsense is this now?
 
-When I stared at him like that, the old man continued.
+Seeing my baffled expression, the old man continued.
 
-“If someone betrays you, there will be punishment. That’s what trust means to you.”
+“If someone betrays you, punishment will follow. That’s what trust means to you.”
 
 Isn’t that the same for everyone?
 
-If betrayed, do you just laugh it off?
+If you get betrayed, are you just supposed to laugh it off?
 
-Though I thought that secretly, I endured and listened.
+I kept that thought to myself and let him talk.
 
-“The stricter the law, the less people dare sin. Likewise, your trust requires means of punishment to be valid—”
+“When laws are strict, people are less likely to commit crimes. Likewise, your trust relies on punishment to—”
 
-Ah, I really can’t take this.
+Okay, that’s enough.
 
-He made it sound like I was a pathological doubter who can’t trust others unless he’s superior.
+The way he talked, it made it sound like he was some kind of paranoid control freak who couldn’t trust anyone unless he held the upper hand.
 
-I bluntly asked,
+So I asked directly.
 
-“Sir, is something wrong with your head? How on earth do you interpret what I said that way?”
+“Sir, do you have something wrong with your head? How the hell did you interpret my words like that?”
 
-“Hmm...”
+“Hmmm…”
 
-“Think about what you yourself did first. What do I have to see to believe?”
+“Sir, First of all, think about what you’ve done. What reason do I have to trust you?”
 
-“Then you think it’s different with your comrades?”
+“So you’re different with your comrades?”
 
-Of course.
+I was about to say, “Of course,” but for some reason, the words wouldn’t come out.
 
-...I was about to say that but suddenly couldn’t.
+The old man’s earlier remark echoed in my mind.
 
-I remembered what the old man just said.
-
-[If someone betrays you, there will be punishment.]
+[If someone betrays you, punishment will follow.]
 
 Punishment.
 
-Maybe one of the things I did to Misha was such a thing?
+Was what I did to Misha one of those punishments?
 
-I don’t know, but that’s enough on this topic.
+I’m not sure, but let’s end this topic here.
 
-“...Enough, just answer the question. Why do you want to close this place?”
+“……Whatever. Just answer the question. Why are you trying to close this place?”
 
-“If I answer, will you answer too?”
+“If I answer, will you answer me too?”
 
-At the old man’s question, I answered without hesitation.
+I replied without hesitation:
 
-“If I think it’s worth hearing first.”
+“I’ll decide after hearing it. If it’s valuable enough.”
 
-Which meant I was ready to run anytime.
+In other words, I’m ready to ditch him at anytime.
 
-An ambiguous answer instead of a firm one.
+A vague answer—not a clear yes or no.
 
-Auril Gavis must have clearly understood the meaning behind it.
+Auril Gavis undoubtedly understood the implication.
 
-But...
+But…
 
-“Good. Then listen and decide.”
+“Fine. Then listen and decide.”
 
-For some reason, the old man accepted my offer silently.
+Surprisingly, the old man accepted my proposal without protest.
 
-“As expected, sir, you’re straightforward today as well?”
+“As expected, sir—you’re as easygoing as ever.”
 
-“...Stop flipping attitudes so quickly. It makes you look like a spoiled child.”
+“……Could you stop switching attitudes so abruptly? It feels like you’re treating me like a child.”
 
-“Just my imagination. Just my imagination.”
+“Must be your imagination.”
 
-“...”
+“…….”
 
 “So, the answer?”
 
-Smiling softly, I asked, and Auril Gavis sighed deeply and answered.
+I smiled politely, and Auril Gavis sighed deeply before responding.
 
-“The reason to close Ghost Busters is simple. It’s not working well for players now. It’s different from my intention.”
+“The reason for shutting down Ghost Busters is simple. This place isn’t serving the players well anymore. It’s deviated from my original intention.”
 
-“Not working well?”
+“Not serving them well?”
 
-“This place is like a sanctuary for players. They share hometown stories, and ease loneliness with others in similar situations.”
+“This place was meant to be a sanctuary for players. A place to share stories of home they left behing, to ease loneliness among people in the same situation.”
 
-“Then why is it having a bad effect?”
+“Then why is it a bad thing?”
 
-“That’s the problem. People satisfied with the present eventually settle.”
+“That’s the problem. Humans who grow complacent inevitably choose stagnation.”
 
-“Ah...”
+“Ah…”
 
-I understood what he meant.
+I think I get what he means.
 
-You could see that atmosphere quickly just by looking at the free board.
+Honestly, you can sense that vibe just from browsing the free board.
 
-You could easily find posts about housing prices, marriages, even having children.
+Posts about housing prices, marriage, even having kids here—they’re everywhere.
 
-“The same with those friends earlier. A few years ago, they wouldn’t have missed such an opportunity.”
+“Those friends earlier were the same. A few years ago, they never would’ve let such an opportunity slip.”
 
-This old man thought the futile end of the OX quiz was rooted in that psychology.
+The old man seemed to believe that the OX quiz ending so anticlimactically was also due to that mentality.
 
-Not wrong.
+Well, he’s not wrong.
 
-“So you want to destroy it? Because if this runs, people won’t think of returning home?”
+“So you’re just going to get rid of it? Because if this place stays open, no one will think about returning home?”
 
-“You could say roughly that.”
+“Roughly speaking, yes.”
 
-Roughly, huh...
+Roughly speaking, huh…
 
-Clearly, he left much unsaid.
+Clearly, there’s a lot more he’s not saying.
 
-“Well, how about it? Is that enough?”
+“Well, what do you think? Is this enough?”
 
-“No. If there was some big secret, I’d understand, but I conclude that trading it for the witch’s info is too low value.”
+“No. If this were some big secret, maybe. But compared to the Witch’s information, this is too low-value for an exchange.”
 
-Simply put, he intended to run away with the loot.
+In other words, I’m backing out.
 
-Surprisingly, Auril Gavis’s expression was calm.
+Surprisingly, though, Auril Garvis’s expression was calm.
 
-As if he didn’t lose even if the conversation ended there.
+As if he had nothing to lose by ending the conversation now.
 
-Was he pretending calm to keep control?
+Is he pretending to be unbothered to keep the upper hand?
 
-I was the first to speak again.
+In the end, I was the one who spoke first.
 
-I couldn’t part without some gain from this meeting.
+This meeting didn’t happen easily—I couldn’t just walk away empty-handed.
 
-“So then...”
+“So, about that…”
 
-“...”
+“…….”
 
-“Can’t you just leave the community alone? Then I’ll give you the witch’s info.”
+“Can’t you just leave the community alone? If you do, I’ll tell you about the Witch.”
 
-I didn’t say it to protect the community.
+Honestly, I didn’t care much about saving the community.
 
-I was just curious about Auril Gavis’s reaction to the offer—
+I just wanted to see how Auril Gavis would react to the offer—
 
 “That’s impossible.”
 
-Yes, a refusal.
+Yeah, a rejection.
 
-Meaning shutting down the community had higher priority than hearing the witch’s info.
+Meaning shutting down the community takes priority over learning about the Witch.
 
-Why would that be?
+But why?
 
-It didn’t seem to be just because players had lost spirit.
+No matter how I look at it, players growing complacent doesn’t seem like the real reason.
 
-“Then today’s talk ends here.”
+“Then I suppose this conversation is over.” He was wrapping things up.
 
-“Yes. You wouldn’t answer even if I asked in detail anyway.”
+“Yeah. It’s not like you’d give me a straight answer even if I asked for details.”
 
-“Heh, you need to trust people a bit.”
+“Heh, you really should learn to trust people more.”
 
-“I do. People worth trusting.”
+“I do trust people. The ones who deserve it.”
 
-With that soulless reply, the conversation slowly wound down.
+With that hollow exchange, the conversation naturally wound down.
 
-“I should be going. One last thing to do before closure. See you next time.”
+“I should get going. There’s one last thing I need to do before the shutdown. Until next time.”
 
-“Yes. I don’t know when, but next time please tell everything honestly.”
+“Sure. Next time—whenever that is—please just be honest and tell me everything.”
 
-“That’s odd. I can tell you everything right now, if you’re ready to believe me.”
+“That’s an odd thing to say. I could tell you everything right now, if you’re prepared to believe me.”
 
-That was a big lie fully grown into his mouth.
+Wow, look at the lies rolling off his tongue.
 
-When I gave a dry laugh, Auril Gavis smiled like he expected it.
+I scoffed, and Auril Gavis smirked as if he’d expected that.
 
-And then...
+And then…
 
-“I don’t know if you’ll believe me, but one last piece of advice.”
+“Whether you believe me or not, I’ll leave you with one last piece of advice.”
 
-“Advice? I’ll listen. Go ahead.”
+“Advice? Fine, I’ll hear it.”
 
-“Ibaekho.”
+“Yi Baek-ho.”
 
-“Ibaekho...?”
+“Yi Baek-ho…?”
 
 “Don’t get too close to that friend.”
 
-It was a non sequitur, but I had no reply.
+A completely out-of-nowhere remark, I slowly gathered my thoughts.—
 
-“That’s all my advice. See you later.”
+“That’s all. Until next time.”
 
-With that, Auril Gavis left the round table, and I, who had been watching vacantly, slowly collected my thoughts.
+With those final words, Auril Gavis left the round table.
 
-A case suddenly occurred to me.
+I stared blankly at the spot where he had been standing.
 
-‘Ibaekho...’
+A sudden possibility had occurred to me.
 
-Maybe...
+‘Lee Baek-ho…’
 
-Not yet sure, but maybe.
+Maybe…
 
-Could Auril Gavis’s reason for shutting down the community be this guy?
+It’s not certain, but just maybe.
 
-Like burning the straw hut to catch fleas. If this community disappears, the way to communicate with Ibaekho would be blocked for me too.
+The real reason Auril Gavis wants to shut down the community is because of him?
 
-Well, in the end, it was just speculation.
+Like how burning down a hut guarantees you’ll kill the fleas inside. If this community disappears, my line of communication with Lee Baek-ho gets cut off.
 
-“Damn old man. Why the hell does he never say anything straightforward until the end?”
+Well, in the end, it’s just speculation. Probably meaningless.
 
-My sigh echoed hollowly in the hall.
+“Damn old man. Couldn’t give me one straight answer till the very end.”
 
-“......”
+My complaint echoed through the now empty hall.
 
-An inexplicable silence.
+The vacant chair, the round table now missing its symbolic gem.
 
-The empty seats, the round table’s symbol—the gem—were all gone.
+‘It really does feel like the end.’
 
-‘I really feel like it’s over.’
+Time to get up and get to work.
 
-I thought to leave and get to work but hesitated.
+But for some reason, my feet wouldn’t move.
 
-It didn’t feel real.
+It just doesn’t feel real.
 
-The Deer Antlers and Crescent Moon left in the first round; then Auril Gavis appeared and one by one people left the gathering.
+Deer Horns and Crescent Moon left in the first round. Then Auril Gavis showed up, and one by one, the assembly disbanded.
 
 Tap.
 
-I picked up the Seeker mask I’d taken off while drinking cider earlier and put it on my head. Probably the last time wearing this mask.
+I picked up the Lion Mask I’d taken off earlier while drinking soda and put it on. This would probably be the last time I wore it.
 
-I had some affection for it.
+I’d grown oddly attached to it.
 
-“Is this really the end...?”
+“Is this really the end…?”
 
-Hard to say, but somehow it felt hollow.
+It’s hard to put into words, but it feels hollow.
 
-I never imagined a friendly atmosphere like a graduation ceremony, but I never thought it would end like this.
+I didn’t expect some heartwarming farewell, but I never imagined it’d end like this.
 
-Maybe that’s why?
+Is that why?
 
-[Can’t say thank you.]
+[I can’t bring myself to thank you.]
 
-[Do you really think this kind of thing is fun? You?]
+[Do you really think this is fun? Do you?]
 
-For some reason, those two last words kept ringing in my ears.
+For some reason, the last words of those two kept echoing in my ears.
 
 But I shook my head and brushed off the thoughts.
 
-‘What a pity party. We never gathered here to make friends anyway.’
+‘What’s with the self-pity? It’s not like we gathered here to bond in the first place.’
 
-I chuckled and took off the mask, placing it on the round table, then glanced around the empty table.
+With a dry laugh, I took the mask off and placed it on the round table, then gave the empty space one last look.
 
-“...Boring.”
+“……This is boring.”
 
-And so the last gathering ended.
+And so, the final meeting came to an end.
 
-Back in Lee Hansu’s room after watching the round table’s end.
+Back in Lee Han-soo’s room after witnessing the last round table.
 
-After lying on the bed for a while, I snapped back to focus and sat in front of my computer to check my inbox.
+After flopping onto the bed for a while, I pulled myself together, sat at the computer, and first checked the message inbox.
 
-‘There is at least one message...’
+‘There’s one message, but…’
 
-Contrary to expectation, it wasn’t a message from the awaited GM.
+Contrary to expectations, it wasn’t from the GM I’d been waiting for.
 
 [Sender: HS123]
+In other words, a note from Hyeon-byeol.
+Well, we didn’t get to properly say goodbye earlier because of Lee Baek-ho.
 
-HS123.
+So, what did the note say?
+Click, click.
+As I opened it, the contents unfolded before me.
 
-That is, Hyunbyeol sent the message.
+[Back when we talked about revealing our identities, I know you were the one who drew the line first.But now, I’ve decided to do things my way.I can’t go into detail about who I am, since the admins might be secretly watching.]
 
-Well, we couldn’t properly say goodbye earlier because of Ibaekho.
+In the end, the real message was in the last line:
 
-So what was written in the message?
+[Let’s meet outside.]
 
-Click click.
+Outside, huh…
 
-I opened it, and the contents unfolded.
-
-[When we said to reveal our identities before, I know you drew the line first. But now I want to do what I want. The admins might secretly spy, so I can’t say much about my identity here.]
-
-The bottom line was one last sentence.
-
-[See you outside.]
-
-Outside, huh...
-
-First, I need to escape the labyrinth quickly.
+First things first—I need to get out of this labyrinth.

@@ -1,80 +1,80 @@
-# Return 5
+# Return (5)
 
 Ghost Busters.
 
-A space created over 20 years ago that became a refuge for countless users nostalgic for the past.
+A space created twenty years ago that became a sanctuary for countless homesick players.
 
-The end of that space came suddenly, even until the very last moment.
+It ended as suddenly as it began.
 
-[Urgent Notice] The server will be shut down soon.
+[Emergency Alert: The server will shut down shortly.]
 
-[If forcibly disconnected, unforeseen problems may occur, so all logged-in users are advised to log out promptly.]
+[If you’re forcibly disconnected, unexpected issues may arise, so we kindly ask all users currently logged in to log out as soon as possible.]
 
-About five minutes after receiving Hyunbyeol’s message, this notification popped up.
+The message popped up about five minutes after I received the DM from Hyeon-byeol.
 
-After pressing the refresh button, the bulletin board, already radiating an apocalyptic atmosphere, went into chaos.
+When I refreshed the page, the already apocalyptic atmosphere of the forum erupted into chaos.
 
-Posts ranged from “Why is this happening so soon when there’s still plenty of time before the community closes?” to messages searching for someone, and even mindless spam posts rarely seen during normal management.
+Posts questioning why the site was shutting down so early, people looking for reassurance from others, and even senseless spam messages you’d never see when the site was properly moderated.
 
-[Guys, urgent. Please respond.]
+[Guys urgent. Please reply.]
 
-[Guys, urgent. Please respond.]
+[Guys urgent. Please reply.]
 
-[Guys, urgent. Please respond.]
+[Guys urgent. Please reply.]
 
-[Guys, urgent. Please respond.]
+[Guys urgent. Please reply.]
 
-[Guys, urgent. Please respond.]
+I clicked on the post out of curiosity, but it turned out to be nothing interesting.
 
-[Guys, urgent. Please respond.]
+[What happens if I don’t log out and just stay?]
 
-Curious about what was so pressing, I clicked—and unsurprisingly, it was nothing significant.
+Ugh, of course.
 
-[What happens if you don’t log out and just wait?]
+Still, I was a little curious myself, so I checked the replies.
 
-Ugh, I figured as much.
+[these99: What happens? You’ll just get logged out automatically.]
 
-Still, since I was secretly curious myself, I checked the comments on the post.
+[OP: Oh? Then I’ll stay until I’m automatically logged out.]
 
-[these99: What do you think? You’ll just be logged out.]
+[└fliccolo: Did you not read the part about unexpected issues? Just log out properly. If something goes wrong, you might end up brain-dead for life.]
 
-[└Author: Really? Then I’ll just wait until it disconnects me automatically before logging out.]
+Chilling thought.
 
-[└fliccolo: Didn’t you see the part about “possible issues”? Just quietly log out yourself. If you mess up, you might end up an idiot for life.]
+Going brain-dead just because you didn’t log out in time…
 
-Quite a chilling statement.
+It sounded ridiculous, but considering how strange this space was, I couldn’t completely rule it out.
 
-That you’d become an idiot if you failed to log out on time...
+‘The wording “unexpected issues” left by the GM themselves is a bit unsettling too.’
 
-I wondered if it could really happen, but given the uniqueness of this place, I couldn’t completely rule out the possibility.
-
-“The wording ‘possible issues’ left by the GM himself also bothers me a bit.”
-
-Even without that, there was no reason to stick around till the end, so after reading through some posts on the bulletin board one last time, I clicked the logout button.
+Even if that weren’t the case, there was no reason to stay logged in. After skimming through the forum posts one last time, I hit the log-out button.
 
 [Are you sure you want to log out?]
 
-The choice window divided between “Yes” and “No” brought back memories of when I first entered this world.
+A choice between “Yes” and “No,” just like the first time I entered this world.
 
 Click, click.
 
-As I pressed “Yes,” my vision darkened to black, and a sensation as if being sucked into somewhere blossomed.
+The moment I pressed “Yes,” my vision darkened, and I felt myself being pulled somewhere.
 
-It was time to return.
+It was time to go back.
 
-No longer the mysterious absolute investigator Maske, nor the ordinary office worker Lee Hansu.
+Not as the mysterious Lion Mask, nor as the ordinary office worker Lee Han-soo.
 
-But Bjorn Yandel.
+But as—
 
-Come to think of it, since when had it started?
+“…You came out six seconds earlier than usual. Did something happen inside?”
 
-Every time I came back from the community, Amelia was always there.
+Bjorn Jandel.
 
-No matter how many times I told her it wasn’t necessary, she’d secretly come, so I gave up trying to stop her.
+Come to think of it, when did it start?
 
-Honestly, I wasn’t ungrateful...
+Every time I returned from the community, Amelia was always there.
 
-“You said you were just going to sleep earlier? Now you’re even lying?”
+No matter how many times I told her she didn’t need to do that, she’d always sneak in by the time I opened my eyes. Eventually, I just gave up.
+
+Honestly, I wasn’t ungrateful, but…
+
+“You said you were just going to bed? Are you lying to me now?” I asked
 
 “I was planning to.”
 
@@ -82,340 +82,345 @@ Honestly, I wasn’t ungrateful...
 
 “I couldn’t sleep.”
 
-Couldn’t sleep indeed.
+Couldn’t sleep, my foot.
 
-When I smirked, Amelia continued as if making an excuse.
+I stifled a laugh as I looked at her, and Amelia continued, as if making an excuse.
 
-“...And you never know what might happen inside the labyrinth.”
+“…And you never know what might happen inside the labyrinth.”
 
 Well, she wasn’t wrong.
 
-As I sat up, Amelia handed me a cup of water and asked again.
+As I sat up, Amelia handed me a glass of water and asked again.
 
-“So, what exactly happened inside?”
+“So, what happened inside?”
 
-I quenched my dry throat with cold water and told her the details of what happened.
+“The community shut down today.”
 
-The announcement that the community would be closed right after logging in.
+“Shut down…?”
 
-And the closure information obtained from the roundtable.
+After gulping down the water to soothe my dry throat, I explained in more detail.
 
-“Hmm, so Auril Gavis was involved in the closure...”
+The notice that appeared as soon as I entered the community.
 
-“The official reason is to prevent evil spirits from growing complacent, but that can’t be the real reason. What about you? Do you suspect something?”
+And the information about the shutdown I’d gathered from the round table.
 
-“Not really... If something comes to mind later, I’ll tell you immediately.”
+“Hmm, Auril Gavis was involved in the shutdown…”
 
-Hmm, I guess she didn’t suspect anything either.
+“The official reason was to prevent the evil spirits from becoming complacent, but that can’t be the real reason. What do you think? Does anything come to mind?”
 
-Well, she hadn’t met Auril Gavis properly anyway, so that was to be expected.
+“Well… If I think of something, I’ll tell you right away.”
 
-At that moment, Amelia changed her tone and stared at me.
+Tch. As expected, she didn’t have any leads either.
 
-“So, Yandel, what else happened inside?”
+Well, it’s not like she’s ever met Aurel Gavis in person.
 
-“...Huh?”
+Just as I was thinking that, Amelia’s tone shifted and she locked eyes with me.
 
-“You wouldn’t have that expression just because of that.”
+“So, Jandel. What else happened in there?”
 
-“What expression...?”
+“…Huh?”
 
-When I tilted my head, Amelia cautiously spoke.
+“You wouldn’t be making that face just because the community got shut down.”
 
-“I might be mistaken, but...”
+“What kind of face…?”
 
-“No need to beat around the bush, just say it plainly.”
+As I tilted my head, Amelia spoke carefully.
 
-“You look like you’re in pain.”
+“Maybe I’m wrong, but…”
 
-Ah...
+“Don’t beat around the bush. Just say it.”
 
-“Did something else happen inside?”
+“…You look like you’re in pain.”
 
-Ha, I really can’t hide anything in front of her.
+Ah…
 
-What should I do? Should I say it or not?
+“Did something else happen in there?”
 
-After a moment of hesitation, I finally told her everything honestly.
+Damn it. Can’t hide anything from her.
 
-It wasn’t something to hide anyway.
+What should I do? Should I tell her or not?
 
-...And it felt a bit awkward to lie in front of someone with such wide eyes.
+After a brief struggle, I decided to be honest and laid out everything that had happened.
 
-“I see... So that’s what happened inside.”
+It wasn’t like it was a secret anyway.
 
-It didn’t take long for her to finish listening.
+Besides, it felt wrong to lie to someone staring at me with such sincere eyes.
 
-I had excluded my personal views and strictly laid out the events in chronological order.
+“So… that’s what happened in there.”
 
-But Amelia seemed to immediately grasp what was bothering me.
+It didn’t take long to explain everything.
 
-No, maybe she knew better than I did.
+I recounted the events in chronological order, strictly without my personal perspective.
 
-She then said,
+But Amelia seemed to grasp instantly what was troubling me.
 
-“You’re struggling with whether you have the right to be angry at Misha Kalstein.”
+No, It almost felt like she understood it even better than I did.
 
-Amelia summed up my psychological state, which even I hadn’t fully understood, in one short sentence.
+At least, judging by what she said next.
 
-It felt like I was completely exposed and naked.
+“You’re agonizing over whether you have the right to be angry at Misha Karlstein.”
 
-Maybe that’s why I unwittingly defended myself.
+In just one line, Amelia summarized my emotional state—something even I hadn’t fully understood.
 
-“It’s not that simple. It’s not just Misha but a complex issue involving everyone—”
+I felt strangely exposed, as if I’d been stripped bare.
 
-“But the core of the problem is Misha Kalstein.”
+Maybe that’s why I reflexively argued back:
 
-“......”
+“It’s not that simple. It’s not just about Misha—it’s a complex issue involving everyone else—”
+
+“But the core of the problem is Misha Kalstein, isn’t it?”
+
+“……”
 
 “Am I wrong?”
 
-...I had no response.
+I had no response.
 
-So I just closed my mouth, and Amelia calmly asked,
+So I just pressed my lips together, and Amelia calmly asked another question.
 
 “Can you tell me what happened that day?”
 
-There was no need for clarifying which day she meant.
+No further clarification was needed.
 
-That was the day I said nothing happened.
+She meant the day I said nothing happened.
 
-Because that was when Misha started isolating herself, refusing to talk to anyone, hiding in a corner alone.
+It was the day Missha stopped talking to everyone and began sitting alone in the corner.
 
-‘...Where should I even begin?’
+‘…Where should I even start?’
 
-After a short pause, I started explaining from the beginning.
+After a brief hesitation, I decided to begin from the very beginning.
 
-“Do you know about the Resurrection Stone?”
+“Do you know about the Stone of Resurrection?”
 
-To explain what happened with Misha, I first had to explain this.
+Before I could explain my conflict with Misha, I had to explain this first—something I hadn’t shared with anyone yet.
 
-I hadn’t told anyone the full story yet.
+“Somewhat.”
 
-“To some extent.”
-
-“Misha Kalstein received the Resurrection Stone from Ibaekho before returning to our clan. When I found out, I questioned her about it.”
+“Before Misha Karlstein returned to our clan, she received the Stone of Resurrection from Lee Baek-ho. When I found out, I confronted her about it.”
 
 “And?”
 
-“I asked if she knew that using the Resurrection Stone causes the target to lose all memories of their previous life, and she said she didn’t know. So I told her I understood and told her to leave.”
+“I asked if she knew that using the Stone of Resurrection would erase all of the target’s memories from their past life. She said she didn’t know. So I said, ‘I see,’ and told her to leave.”
 
-“So... what happened after that?”
+“So… what happened after that?”
 
-I sighed as I answered.
+I answered with a sigh.
 
-“Misha didn’t leave. I asked her to say something, even if angry. So I just spoke honestly.”
+“Misha didn’t leave. She begged me to say something—even if it was just yelling at her. So I told her the truth.”
 
-“......”
+“……”
 
-“I can’t trust you... Even after hearing what you said today, my first thought was whether you’re hiding something.”
+‘I don’t… think I can trust you.’
 
-After those words, silence settled between us for a while.
+‘Even after hearing your explanation, my first thought was that you might still be hiding something.’
 
-“...And?”
+With those words, there was a brief moment of silence between us.
 
-“That’s all.”
+“…And then?”
 
-Misha left the room without a word, and since then, we haven’t had a proper conversation.
+“That was it.”
 
-That is the whole story.
+Misha left the room without another word, and we hadn’t had a proper conversation since.
+
+That was the full story.
 
 “I see.”
 
-After hearing everything, Amelia was silent for a long time, seemingly organizing her thoughts, then unexpectedly asked,
+After listening, Amelia stayed quiet for a long time, sorting through her thoughts. Then she asked something unexpected.
 
-“Why did you hide the story about Misha Kalstein from us?”
+“Why didn’t you tell us about Misha Kalstein?”
 
-Well... I don’t know. Why?
+Honestly… I don’t know. Why didn’t I?
 
-Why hadn’t I told Amelia about the Resurrection Stone either?
+Why hadn’t I told Amelia about the Stone of Resurrection?
 
-I wanted to dodge the question, but I actually knew the answer.
+Part of me wanted to dodge the question, but the truth was, I already knew why.
 
-“...Because Misha would become isolated.”
+“…Because Misha would be isolated.”
 
-Misha’s position in our clan was already precarious.
+Her position in our clan was already precarious.
 
-Elwen looked at Misha with disapproval, and Versil was openly watching her as a candidate for betrayal.
+Erwin viewed Misha with suspicion, and Versil outright treated her as a potential traitor.
 
-Even socially withdrawn for over two years, Misha couldn’t get along with Ainard, her former comrade, and was alienated.
+And after two years of isolation, she couldn’t even reconnect with Aynar, who used to be close to her.
 
-If the fact that she received orders from Ibaekho came out here, it was obvious what would happen.
+If it came out that she’d been acting on Lee Baek-ho’s orders, the outcome was obvious.
 
-‘She’d be even more isolated.’
+She’d be even more alienated.
 
-Maybe it would even end with her leaving on her own.
+Maybe to the point where she’d eventually leave on her own.
 
-But that made me feel even more foolish.
+But that only made me feel more pathetic.
 
-‘What exactly do I want?’
+‘What do I even want?’
 
-At the moment when it became increasingly difficult to understand my own state, Amelia finally nodded as if understanding.
+Just as I was struggling to understand my own feelings, Amelia finally nodded in understanding.
 
-“So that’s why you couldn’t use ‘Broken Trust’ on Misha Kalstein.”
+“So that’s why. You couldn’t use ‘Misplaced Trust’ on Misha Kalstein.”
 
-“......”
+“……”
 
-“You must have thought she was hiding more.”
+“You must have thought she was still hiding something.”
 
-That was the point.
+It hit the mark.
 
-It was a paradoxical story, but because I didn’t trust Misha, I couldn’t use that item.
+It was a paradox, but because I didn’t trust Misha, I couldn’t use the item on her.
 
 Like Schrödinger’s cat.
 
-Once you open the box, the result is already determined, and there’s no going back.
+The moment you open the box, the outcome is decided, and there’s no going back.
 
-So for now, I left the box unopened.
+So I left the box closed for now.
 
-Seeing my pathetic self, Amelia said,
+Looking at my pathetic self, Amelia said,
 
-“That’s so like you.”
+“Very much like you.”
 
-It sounded like a reproach, but Amelia’s gaze was gentle.
+It sounded like criticism, but her eyes were gentle.
 
-“Bjorn Yandel. At dawn, take the ‘Broken Trust’ and ask Kalstein if she’s hiding anything else. If she says no, treat her as a comrade like before.”
+“Bjorn Jandel. At dawn, take the ‘Misplaced Trust’ and ask Karlstein if she’s hiding anything. If she says no, treat her like a comrade again.”
 
-“And if she is hiding more from me?”
+“And if she is hiding something?”
 
-“Well, then you’ll have to reconsider.”
+“Well, then you’ll just have to figure it out again.”
 
-“That’s... a bit irresponsible advice, isn’t it?”
+“That’s… a little irresponsible, don’t you think?”
 
-“But you know you can’t keep postponing it forever.”
+“But you know you can’t put this off forever.”
 
-Well, she was right.
+Fair enough.
 
-Sighing in frustration, Amelia comforted me,
+As I let out a long sigh of frustration, Amelia spoke up comfortingly.
 
-“Even ◈ Nоvеlіgһт ◈ (Continue reading) if you don’t want to, do what you have to.”
+“Do what you have to do, no matter how much you don’t want to do it.”
 
-“......”
+‘…….’
 
-“Bjorn Yandel. Be yourself.”
+“Bjorn Jandel. Be yourself.”
 
-Be myself...
+Be yourself…….
 
-What kind of person did she think Bjorn Yandel was?
+I wonder what kind of person Amelia sees me as.
 
-That question suddenly came to mind, along with thoughts about how I saw her.
+And then I wondered how I saw her.
 
-“...Why do you see me that way?”
+“…Why are you looking at me like that?”
 
-“Just because you seem more mature than usual?”
+“Just… you seem more mature than usual?”
 
-A sincere answer without any filtering.
+An unfiltered, honest remark.
 
-“Ugh...?”
+“Ugh…?”
 
-For some reason, Amelia flinched as if struck in the solar plexus.
+For some reason, Amelia flinched as if she’d been punched in the gut.
 
-Then she looked at me for a moment and sighed.
+After staring at me for a moment, she sighed.
 
-“Take it as a compliment.”
+“I’ll take that as a compliment.”
 
-Huh... could that be interpreted otherwise?
+Uh… was there any other way to take it?
 
-The next morning, after a good night's sleep,
+---
 
-I immediately went to the chief and received the ‘Broken Trust’ to use on Misha.
+After a good night’s sleep, the next morning.
 
-But I hesitated.
+I went straight to the village chief to retrieve the “Distorted Trust” for Misha.
 
-‘Is this really the right thing to do...?’
+Even then, I hesitated.
 
-Not because I was worried about what Misha might be hiding, but because using such an item on a comrade felt very uncomfortable.
+‘Is it really okay to use this…?’
 
-If I get past this with this item, then what next?
+Not because I was afraid of what Misha might be hiding, but because it just felt wrong to use something like this on a comrade.
 
-Would I start relying on ‘Broken Trust’ every time I felt suspicious?
+Because what about next time?
 
-And would such a relationship still be called camaraderie?
+Would I start relying on “Distorted Trust” every time I had doubts?
 
-That was the fundamental doubt.
+And could I still call that a “comrade” relationship?
 
-But...
+It was a fundamental dilemma.
+
+But…
 
 ‘This is the last time I’ll use it.’
 
-No matter what happens later, once I decided that, my hesitation lessened a bit.
+I didn’t know what the future would bring, but after making that vow, I felt a little less hesitant.
 
-Yeah, so...
+Right. So now…
 
-Knock knock.
+Knock, knock, knock.
 
-After standing dazed for a long while, I knocked on the door.
+After standing blankly for a while, I knocked on her door.
 
-No response. She didn’t seem to be sleeping.
+No response. She didn’t seem to be asleep, though.
 
-“I’m here, Misha. Let’s talk for a moment.”
+“It’s me, Misha. I need to talk for a second.”
 
-Knocking again and calling out, soon I heard movement inside.
+I knocked again and called out. Soon, I heard movement inside.
 
-“Huh? B-Bjorn? W-Wait a moment...”
+“Eh? Oh? B-Bjorn? J-Just a minute…”
 
-The door finally opened nearly five minutes later.
+The door finally opened—after nearly five minutes.
 
-“What... is it...? So early...?”
+“What’s… going on…? At this early hour…”
 
-Unlike the stories about being a shut-in, she looked much cleaner than expected. She was probably in the middle of washing, water still lingering in her hair.
+Despite rumors of her living like a shut-in, she looked surprisingly neat. Her hair was still damp, as if she’d just washed it.
 
-“Can I come in for a moment?”
+“Can I come in for a minute?”
 
-“Um... it’s a little messy...”
+“Uh… It’s a bit messy, but…”
 
-“That’s fine.”
+“It’s fine.”
 
-I stepped inside through the slightly opened door.
+Without waiting, I stepped inside and immediately pulled out ‘Misplaced Trust.’
 
-Then I took out the Broken Trust right away.
+“That’s…”
+Misha recognized it right away, and a swirl of emotions crossed her face.
 
-“That is...”
+Relief. Happiness. Disappointment. Fear.
 
-Misha’s expression, recognizing the item instantly, was mixed with many emotions.
+Neither of us said anything for a moment.
 
-It looked like relief, happiness, disappointment, and fear all at once.
+Eventually, I forced the words out of my mouth.
 
-Because of that, she couldn’t easily speak.
+“Before we talk… I want to turn this on. Will you let me?”
 
-But I forced my voice out.
+After a pause, she finally replied—not with an answer, but with a question of her own:
 
-“Before we talk, I want to turn this on. Can you allow that?”
+“…If I answer everything after you turn that on…
 
-After a short pause, her answer came back.
+“……”
 
-Not exactly an answer, but a question in return.
+“…Then can we go back? To how things used to be?”
 
-“If I turn it on and answer everything...”
+Before answering, a question surfaced in my mind.
 
-“......”
+What exactly did she mean by “going back”?
 
-“...Then I can go back? Like before?”
-
-Before I could answer, that question arose.
-
-When did she want to go back?
-
-Was it the time when we understood each other’s hearts, or just a simple comrade relationship?
+Back to when it felt like we truly understood each other? Or just back to a simple comrade relationship?
 
 Well, it was probably the latter.
 
-Because it was clearly Misha who drew the line and pushed me away.
+After all, it was Misha who had clearly drawn the line and pushed me away.
 
 “Maybe.”
 
-I gave an ambiguous affirmative answer.
+I gave an ambiguous but affirmative answer.
 
-With one condition: that Misha truly had nothing more to hide.
+There was one condition, of course—if Misha truly wasn’t hiding anything else from me.
 
-Then maybe we could really go back.
+Then, maybe we really could go back.
 
-Back to a time without the headache of these worries.
+Back to a time when I didn’t have to agonize over things like this.
 
-“Then... okay.”
+“…Okay.”
 
-After Misha nodded tightly, clenching her fist, I began the real questions.
+Misha clenched her fists tightly and nodded.
 
-「The character has used [Broken Trust].」
+With that, I began the real questioning.
 
-I always feel the name is really well chosen.
+[The character has used [Misplaced Trust].]
+
+I always think this, but…
+
+What a perfectly fitting name for this thing.

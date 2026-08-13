@@ -1,377 +1,368 @@
 # Third record 2
 
-The fifth layer of the Labyrinth, Daemagyeong.
+The fifth floor of the labyrinth, the Great Demon Realm holds significant meaning for explorers.
 
-This layer holds quite a monumental meaning for explorers.
+After all, it’s where they begin operating in full-fledged clans.
 
-That’s because it’s from this point that explorers truly start operating in clans as groups...
+“That’s when how you’re treated changes.”
 
-“The treatment changes.”
+If you’re human, starting from the 5th floor, you practically don’t have to worry about taxes anymore.
 
-For humans starting out, taxes basically stop being a worry from the 5th floor onward.
+That’s why residents of Laphdonia consider 5th-layer explorers the best marriage partners.
 
-Because of that, the residents of Lapdonia consider 5th-floor explorers the best marriage candidates.
+It’s almost like getting hired by a major corporation.
 
-It’s like getting hired by a major corporation, you could say?
+In reality, most 5th floor explorers enter the labyrinth as if going to work. Upon arriving at the fifth floor, they head to their usual hunting grounds and mine mana stones nonstop until the labyrinth closes, then get paid according to their performance.
 
-In reality, most 5th-floor explorers enter the Labyrinth as if going to work. And once they reach the 5th floor, they always go to their usual hunting grounds and mine magic stones without rest until the Labyrinth closes, receiving rewards proportional to their results.
+Well, some dislike this lifestyle and choose to operate their own teams instead of joining a clan…
 
-Well, many dislike that and choose not to join clans, instead running their own teams...
+‘I suppose those people are more like successful small business owners.’
 
-“Those kinds are probably best seen as successful self-employed.”
+Regardless, they remain top-tier marriage candidates.
 
-Anyway, all things considered, the 5th floor remains the number one groom choice.
+But…
 
-But...
+“It is ironic.”
 
-“It’s quite ironic, really.”
+Marriage desirability peaks on the fifth floor and then steadily declines starting from the sixth floor.
 
-Preference for spouses is highest at the 5th floor, but from the 6th floor onward, preference actually gradually declines.
+Ah, and for reference, this is based on a book I found in the library.
 
-Ah, by the way, this information comes from a book in the library.
+Apparently, the data was compiled into a book after surveying over ten thousand residents… And the reason for their decreased favorability was pretty interesting.
 
-They surveyed over ten thousand residents directly and compiled it into a book...
+1st: It seems too dangerous.
+2nd: It seems unrealistic to meet someone like that.
+3rd: They seem like they’d have a nasty personality.
 
-The reasons for the decline in preference here are somewhat interesting.
+That third one might sound odd, but it’s not baseless prejudice.
 
-First, they think it’s too dangerous.
+Time flows differently for explorers than it does for regular people.
 
-Second, realistically, meeting would be difficult.
+Their mental wear and tear are different, and from the 6th floor onwards, the stress levels during exploration increase drastically.
 
-Third, they think they’re cranky.
+Because of this, many famous explorers are known to have eccentric personalities.
 
-Regarding the third place, you might wonder what that means, but it’s actually not an unfounded prejudice.
+“What are you thinking about so deeply?”
 
-The flow of time for explorers is different from ordinary people.
+At the village chief’s voice, I snapped out of my thoughts.
 
-Mental wear is different, and from the 6th floor and above, the stress index from exploration rises sharply.
+“Ah… I was just checking the surroundings.”
 
-Because of that, among famous explorers, many are known to have cranky personalities—
+It wasn’t a random excuse. I had actually been surveying the area, and my thoughts drifted from there.
 
-“Baron, what are you thinking about?”
+The fifth floor of the labyrinth, the Great Demon Realm.
 
-Hearing the village chief’s voice, I ended my reverie.
+Despite its fearsome name, this floor is actually quite safe.
 
-“Ah... I was just checking the surroundings for a moment.”
+But…….
 
-It wasn’t an excuse to brush off the question; it was true.
+“It’s a bit different from what I remember.”
 
-I really was looking around, and eventually my thoughts led there.
+The place where we opened our eyes looked slightly different from the fifth floor I was familiar with..
 
-The fifth layer of the Labyrinth, Daemagyeong.
+The terrain and overall atmosphere were the same, but there was one critical difference.
 
-Despite its terrifying name, this layer is relatively safe.
+“A Level 3 monster shouldn’t appear in the Great Demon Realm.”
 
-But...
+At one of the paths leading down, a Level 3 monster was standing in our way, staring at us.
 
-“This is a little different from the place I knew.”
+“Mister, that’s a Vandemon, right?”
 
-The place where we opened our eyes was slightly different from the usual 5th floor we often passed through.
+Vandemon.
 
-The terrain and overall atmosphere were the same, but there was one decisive difference.
+A rare monster that is difficult to encounter due to its specific spawning conditions.
 
-“There shouldn’t be any Grade 3 monsters in Daemagyeong.”
+I still haven’t received any experience points from it.
 
-One of the paths leading downward was completely blocked by a single Grade 3 monster glaring at us.
+‘It’s not like I need its essence, so there’s no point in the three of us going out of our way to hunt it…’
 
-“Sir, that’s a half-demon, right?”
+At first, I tensed up when I saw it, but for some reason, the creature just stared at us without approaching.
 
-Half-demon.
+“Gahyunn, do you have any intuition about which direction we should go?”
 
-A ‘rare species’ monster that’s hard to encounter due to some spawn conditions.
+“…None at all. No instincts are coming to me. It’s as if my ability itself has disappeared since we arrived here…”
 
-I haven’t gained any experience points from it yet.
+Hmm, is that so…
 
-‘Since essence isn’t required, there’s no need for the three of us to waste effort trying to take it down...’
+“Still, I can’t shake the feeling that this place is the final trial.”
 
-At first, I tensed up the moment I saw it, but for some reason, it only looked up at us from below and didn’t approach.
+“Uh…isn’t that just wishful thinking?”
 
-“Gahwin, do you have any idea which way we should go?”
+“Baron… That’s a bit… Well, I can’t deny it, but…”
 
-“...Not at all. I don’t have any intuition at all. Since the moment we arrived here, it’s as if my abilities have disappeared...”
+Gahyun let out a deep sigh and grumbled.
 
-Hmm, I see...
+“Isn’t it about time this ended? It’s already been over half a year since we entered this place!”
 
-“But still, I can’t shake the feeling that this might be the final trial.”
+Having just finished Chapter 2 and woken up in Chapter 11, I couldn’t find offer any comforting words.
 
-“Uh... isn’t that just your wishful thinking?”
+After all, I hadn’t been playing for even twenty-four hours here.
 
-“Baron... that sounds a little... well, I can’t deny it...”
+“Enough. Let’s put our heads together. To summarize, we need to find that evil god here, right? Which direction do you think we should go?”
 
-Gahwin sighed deeply and complained.
+Jerome cut through the awkward atmosphere and refocused the discussion.
 
-“It’s about time this ended. We’ve already been here for over half a year!”
+And then…
 
-I, who woke up in Chapter 11 right after finishing Chapter 2, couldn’t offer any consolation.
+“Isn’t it obvious?”
 
-After all, my playtime was less than 24 hours.
+“There’s no need to think about it.”
 
-“Enough. Let’s put our heads together. To summarize, it seems like we need to find that evil god here. Which direction do you think is best to go?”
+Gahyun and I answered Jerome simultaneously.
 
-Jerome cut through the chaotic atmosphere and organized the situation.
+What the hell?
 
-And then...
+“Gahyun, you go first—”
 
-“Of course.”
+“Baron, you speak—”
 
-“No need to think twice.”
+We both tried to give each other a chance to speak, but we ended up talking over each other again, which made us both feel awkward.
 
-Gahwin and I answered Jerome simultaneously.
+“……”
 
-What the hell now.
+“……”
 
-“Gahwin, you speak first—”
+Internally, though, I was thinking, “Can I just talk now? What if I talk at the same time as him again?”
 
-“Baron, you speak first—”
+‘Now.’
 
-We tried to yield, but our words overlapped again, making the situation awkward.
+I seized the moment and pointed toward the path blocked by the Vandemon.
 
-“......”
+And then—
 
-“......”
+“I think—”
 
-We were both trying to yield, but should I just speak? What if the other side thinks the same and we overlap again?
+“I believe—”
 
-While hesitating and watching the other,
+Seriously, why does this old man keep doing this?
 
-‘Alright, now.’
+Annoying.
 
-Seizing the timing, I pointed toward the route blocked by the half-demon and opened my mouth.
+“Gahyun, are you doing this on purpose?”
 
-But...
+“W-Why would I?!”
 
-“I—”
+When I glared at him, he looked at me with a wounded expression.
 
-“I—”
+The village chief stepped in with a neutral expression to resolve the situation.
 
-No, why does this old man keep doing this?
+“Stop acting immature over something like this. You both pointed to the same place earlier, so you’re probably thinking the same thing. Right?”
 
-So annoying.
-
-“Gahwin, are you doing this on purpose?”
-
-“N-No way!”
-
-When I glared, Gahwin looked back at me with an aggrieved expression.
-
-The village chief calmed us down with an expressionless face amid this ridiculous farce.
-
-“Don’t act childish over this. Since both of you just pointed to the same place, it seems you’re thinking the same, right?”
-
-“Well... it seems like that...”
+“Well… I guess so…”
 
 “I agree.”
 
-Again, Gahwin and I spoke simultaneously.
+Again, we spoke simultaneously.
 
-“Of course—”
+“Obviously—”
 
-“Of course—”
+“Obviously—”
 
-If our lines are the same, now it’s actually kind of irritating...
+Now this was getting irritating.
 
-Ah, whatever.
+Whatever.
 
-Deciding not to care, I spoke, and unfortunately, Gahwin did the same.
+I decided to ignore it and spoke up. Unfortunately, so did Gahyun.
 
-“We have to go there.”
+“We should go that way.”
 
-“Just avoiding that place should be enough, right?”
+“We should avoid that path.”
 
-After a brief silence, our gazes met once more in the empty air.
+Gahyun and I looked at each other and fell into awkward silence again.
 
-“......?”
+“……?”
 
-“......?”
+“……?”
 
-Man, I really don’t get along with this old man.
+Damn, I really don’t get along with this old man.
+***
 
-“There’s something dangerous over there, so wouldn’t it be wiser to go somewhere else?”
+“Wouldn’t it be wiser to go somewhere else since there’s danger over there?”
 
-Surprisingly, the point where Gahwin’s logic started was similar to mine, but the conclusions were completely different.
+Surprisingly, Gahyun started from a similar point of reasoning as I did, but came to a completely different conclusion.
 
-The reason was in the way we think.
+The difference lay in our thought processes.
 
-“No. Because it’s dangerous, that’s why we should go there first.”
+“No. Precisely because there’s danger, we should start there.”
 
-This chapter is about finding the evil god Karui.
+This chapter is about finding the evil god, Karui.
 
-And in my view, Karui was likely located in one of the four types of canyons.
+And in my view, Karui was most likely hiding in one of the four types of canyons.
 
-Treasure is usually hidden in such places.
+After all, treasures are usually hidden in such places.
 
-“There’s even a helpful signpost, so why would we waste effort going somewhere else?”
+“Why go through unnecessary trouble when there’s a clear signpost right there?” I retorted.
 
-“It’s too early to conclude it would be wasted effort. It might be a method where after searching the other three places, we find the object we need!”
+“It’s too early to assume it’s unnecessary trouble! What if we’re supposed to search the other three canyons for something important?”
 
-“What if the攻略 gets harder over time? A wrong choice might lead to irreversible consequences.”
+“And what if the difficulty increases over time? A wrong choice could lead to irreversible consequences.”
 
-“T-That’s a huge leap!”
+“T-That’s too much of a leap!”
 
-“Gahwin, you have to keep all possibilities open and be cautious in the fissures. Especially since this is the first time entering here. But hearing such careless words...”
+“Gahyun, in rifts, you must consider every possibility and stay cautious. Especially in a place you’ve never been. Judging by your careless words…”
 
-“......?”
+“……?”
 
-“You really are a mage, not an explorer.”
+“You are a mage. Not an explorer.”
 
 “W-What?!”
 
-Watching Gahwin’s face flush red, I recalled the time on the library island when we debated which Grade 1 monster to summon.
+Looking at Gahyun’s face, red with blood pressure, I remembered the time when we were debating which of the Level 1 monsters to summon on Library Island.
 
-Back then, we had the exact same kind of back-and-forth.
+We had argued just like this back then, too.
 
-“Anyway, no matter how much we talk, the decision is made by the Count, right? Count, you decide.”
+“Anyway, arguing between ourselves won’t settle anything. Chief, you decide.”
 
-Since there was no reason to waste time, I left the decision to the village chief, and naturally, the result was already set.
+Seeing no point in wasting time, I left the decision up to the village chief. Of course, the outcome was already set.
 
-“Hmm... I think it’s best to follow the Baron’s opinion.”
+“Hmm… I think I’ll side with the Baron on this one.”
 
-The chief pretended to ponder for a moment, then raised my hand, ending the discussion on this topic.
+The village chief pretended to think for a moment before raising my hand.
 
-“T-That...!”
+“W-What the…!”
 
-Gahwin didn’t seem happy with the decision but didn’t openly argue with the chief, the person in charge.
+Gahyun didn’t seem pleased, but he couldn’t argue directly against the chief.
 
-‘Okay, then the route is decided.’
+Alright. Route decided.
 
-Gahwin gave a wry smile and stepped back. This probably worsened my relationship with the old man, but that was probably for the better.
+Even though it may have worsened my relationship with the old man, I honestly didn’t care.
 
-No, it was rather satisfying, I’d say.
+If anything, it was kind of satisfying.
 
-I approached the archbishop, who had been on my mind.
+I approached the high priest, who had been unusually quiet.
 
-“Archbishop, why have you been staying /N_o_v_e_l_i_g_h_t/ apart alone since earlier?”
+“High Priest, why are you standing alone by yourself?”
 
-“Ah... ah! I was just thinking. About that evil god. I wondered if there’s a chance we might meet that evil god here.”
+“Oh… Ah! I was just deep in thought. About the evil god, that is. I was wondering if this might be where we finally meet him.”
 
-“Why would it be awkward to meet?”
+“Why? Nervous about it?”
 
-“Well... I don’t know.”
+“Well… I’m not sure.”
 
-The archbishop looked very troubled.
+The high priest’s expression was deeply troubled.
 
-Well, maybe that’s the kind of anguish only a devout religionist feels.
+Was this some kind of religious dilemma?
 
-As a non-religious person, I couldn’t understand, but that wasn’t something I needed to be concerned about.
+As a non-religious person, I couldn’t understand, but it wasn’t something I needed to dwell on.
 
-“No matter what you worry about, don’t let it trip you up by daydreaming. Understand?”
+“Whatever your concerns are, I don’t care. Just don’t let them slow us down. Understood?”
 
-“...I’ll manage it just fine.”
+“…I’ll manage on my own.”
 
-What a talker.
+Tch, the way he talks.
 
-Anyway, after checking on the archbishop’s condition, we briefly explained about the half-demon.
+Anyway, after checking on the high priest, we briefly discussed the Vandemon.
 
-By the way, it was Gahwin, not me, who took the role of teacher.
+By the way, the instructor wasn’t me, but Gahyun.
 
-He might lack an explorer’s mindset, but his knowledge was not lacking.
+Though he lacked the explorer’s mindset, his knowledge wasn’t lacking.
 
-‘He misses some details...’
+‘A few details were missing, but…’
 
-Well, it should be fine.
+Well, it didn’t matter.
 
-If I explained in detail, it’d only look strange.
+If I had explained, it would’ve just seemed odd.
 
-...Also, I was a bit lazy.
+…And it was annoying.
 
-“Half-demon defeated. EXP +7.”
+「You have defeated the Vandemon. EXP +7」
 
-The fight against the Grade 3 monster half-demon was not particularly difficult. That’s because we were all wrapped up in ridiculously strong buffs.
+The fight with Vandemon wasn’t difficult at all.
 
-The priest’s infinite holy power.
+That’s because we were stacked with broken buffs.
 
-The knight’s doubled stats.
+Unlimited divine power from the priest.
 
-The mage’s powerful ancient magic.
+Doubled stats for the knight.
 
-Even considering that I couldn’t reliably fulfill my tank role as before, this amount of bonuses made it easy to cut through a Grade 3 monster.
+Powerful ancient magic from the mage.
 
-‘Should’ve tried to take it down with all three of us...’
+Even though I couldn’t perform my usual tank role as well, with all those boosts, taking down a Level 3 monster was a breeze.
 
-The loot from the half-demon was only one magic stone, but I wasn’t too disappointed.
+Maybe we should have tried with only three people.
 
-Those trivial things don’t really matter much.
+The only loot we got from the Vandemon was a single magic stone, but I wasn’t too disappointed.
 
-What bothered me more was something else.
+That kind of thing didn’t matter much.
 
-“That’s not particularly hard. Why is someone at your age so scared?”
+Something else bothered me more.
 
-“...Baron, what did you say just now?”
+“It wasn’t even hard. What’s an old man like you so scared of?”
 
-“Nothing.”
+“…Baron, what did you just say?”
 
-“It wasn’t nothing! You just said that to me.”
+“Nothing?”
 
-“But you’re not exactly young either, right?”
+“That was definitely something! You were talking about me!”
 
-It might seem a little childish, but I held my ground against Gahwin.
+“But you’re not exactly young either, are you?”
 
-Because...
+It might’ve seemed childish, but I wasn’t about to let Gahyunn have the last word.
 
-‘Since when did you start getting so cocky? Even though you’re a noble without a title.’
+After all…
+
+‘Since when did he start acting so high and mighty? He’s a noble, sure, but he doesn’t even hold a title.’
 
 I needed to put him in his place at least once—
 
-“Sir...”
+“Mister…”
 
-Just as I was about to reprimand Gahwin further, Elwen called me.
+Just as I was about to press further, Erwin called out to me.
 
-“...Why all of a sudden?”
+“…What is it?”
 
-“J-Just...”
+“I-It’s nothing…”
 
-“Just what? Hurry up and say it.”
+“Nothing? Spit it out.”
 
-“Well... for some reason, you didn’t seem like yourself today...”
+“Well, today you seem a bit unlike yourself.”
 
-Her cautious words somehow made me chuckle.
+For some reason, a laugh escaped me at her careful words.
 
-“What do you mean by ‘not myself’?”
+“What do you mean, unlike myself?”
 
-Now that I think about it, everyone always expected things from me on their own terms.
+Now that I think about it, everyone always had their own expectations of me.
 
-Her, Amelia, Misha...
+Her, Amelia, even Misha…
 
-“Oh, why is this not the side you like?”
+“Oh, I see. This isn’t the version of me you like, huh?”
 
-As I took a step forward, Elwen stepped back, looking at me.
+As I stepped forward, Erwin took a step back.
 
-It was the first time I saw her expression filled with fear.
+She looked at me with fear.
 
-“What the hell... is this?”
+A look I’d never seen from her before.
 
-Seeing that expression, I instantly snapped out of it.
+“What… is this?”
 
-At the same time, the torrent of emotions that had been swirling without pause became clearly felt.
+That expression instantly brought me back to my senses.
 
-It was such a natural transition that I hadn’t realized it until just a moment ago...
+At the same time, I vividly felt the flood of emotions that had been surging through me.
+
+I hadn’t noticed the change until now because it had felt so natural…
 
 “Damn it.”
 
-Now fully aware of my condition, I put the hammer I was holding down on the ground.
+Realizing my condition, I dropped my hammer to the ground.
 
-And then...
+And then—
 
-KWAAAANG!
+BOOM!
 
-I bent over and struck the hammer with my forehead hard.
+I bent over and slammed my forehead hard against the hammer’s head.
 
-“Phew... now I’m coming to my senses.”
+“Hah… Now I’m finally coming to my senses.”
 
-The moment we entered Daemagyeong, something happened to my head.
+The moment we entered the Great Demon Realm, something had gone wrong with my head.
 
-Or perhaps...
+No, perhaps…
 
-“Barbaric...”
+“So barbaric…W-Why are you suddenly looking at me like that?”
 
-“......”
+Maybe I wasn’t the only one affected.
 
-“Why, why are you suddenly looking at me like that?”
+「A character has entered a special zone.」
 
-Maybe I’m not the only one with a problem.
+「Field Effect – Great Demon Realm has been applied.」
 
-[Character has entered a special area.]
-
-[Field effect – Daemagyeong is applied.]
-
-[Control steadily decreases.]
+「Self-control is continuously decreasing.」

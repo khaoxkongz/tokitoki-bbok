@@ -1,8 +1,6 @@
-export const READER_PREFERENCES_STORAGE_KEY =
-  "novelia:reader-preferences"
+export const READER_PREFERENCES_STORAGE_KEY = "novelia:reader-preferences"
 
-export const READER_PREFERENCES_EVENT =
-  "novelia:reader-preferences-change"
+export const READER_PREFERENCES_EVENT = "novelia:reader-preferences-change"
 
 export const READER_FONTS = [
   {
@@ -27,8 +25,7 @@ export const READER_FONTS = [
   },
 ] as const
 
-export type ReaderFontId =
-  (typeof READER_FONTS)[number]["id"]
+export type ReaderFontId = (typeof READER_FONTS)[number]["id"]
 
 export type ReaderTextAlign = "left" | "justify"
 
@@ -52,36 +49,22 @@ export const DEFAULT_READER_PREFERENCES: ReaderPreferences = {
   textAlign: "left",
 }
 
-const readerFontIds = new Set<string>(
-  READER_FONTS.map((font) => font.id)
-)
+const readerFontIds = new Set<string>(READER_FONTS.map((font) => font.id))
 
-export function isReaderFontId(
-  value: unknown
-): value is ReaderFontId {
-  return (
-    typeof value === "string" &&
-    readerFontIds.has(value)
-  )
+export function isReaderFontId(value: unknown): value is ReaderFontId {
+  return typeof value === "string" && readerFontIds.has(value)
 }
 
-function clamp(
-  value: number,
-  minimum: number,
-  maximum: number
-): number {
+function clamp(value: number, minimum: number, maximum: number): number {
   return Math.min(Math.max(value, minimum), maximum)
 }
 
-export function normalizeReaderPreferences(
-  value: unknown
-): ReaderPreferences {
+export function normalizeReaderPreferences(value: unknown): ReaderPreferences {
   if (!value || typeof value !== "object") {
     return DEFAULT_READER_PREFERENCES
   }
 
-  const preferences =
-    value as Partial<ReaderPreferences>
+  const preferences = value as Partial<ReaderPreferences>
 
   return {
     font: isReaderFontId(preferences.font)
@@ -113,10 +96,7 @@ export function normalizeReaderPreferences(
         ? clamp(preferences.letterSpacing, -0.03, 0.12)
         : DEFAULT_READER_PREFERENCES.letterSpacing,
 
-    textAlign:
-      preferences.textAlign === "justify"
-        ? "justify"
-        : "left",
+    textAlign: preferences.textAlign === "justify" ? "justify" : "left",
   }
 }
 
@@ -134,9 +114,7 @@ export function readReaderPreferences(): ReaderPreferences {
       return DEFAULT_READER_PREFERENCES
     }
 
-    return normalizeReaderPreferences(
-      JSON.parse(savedValue)
-    )
+    return normalizeReaderPreferences(JSON.parse(savedValue))
   } catch {
     return DEFAULT_READER_PREFERENCES
   }
@@ -148,23 +126,16 @@ export function applyReaderPreferences(
     persist?: boolean
   } = {}
 ): void {
-  const normalized =
-    normalizeReaderPreferences(preferences)
+  const normalized = normalizeReaderPreferences(preferences)
 
   const root = document.documentElement
 
   root.dataset.readerFont = normalized.font
   root.dataset.readerAlign = normalized.textAlign
 
-  root.style.setProperty(
-    "--reader-font-size",
-    `${normalized.fontSize}px`
-  )
+  root.style.setProperty("--reader-font-size", `${normalized.fontSize}px`)
 
-  root.style.setProperty(
-    "--reader-line-height",
-    String(normalized.lineHeight)
-  )
+  root.style.setProperty("--reader-line-height", String(normalized.lineHeight))
 
   root.style.setProperty(
     "--reader-content-width",
@@ -193,11 +164,8 @@ export function applyReaderPreferences(
   }
 
   window.dispatchEvent(
-    new CustomEvent<ReaderPreferences>(
-      READER_PREFERENCES_EVENT,
-      {
-        detail: normalized,
-      }
-    )
+    new CustomEvent<ReaderPreferences>(READER_PREFERENCES_EVENT, {
+      detail: normalized,
+    })
   )
 }

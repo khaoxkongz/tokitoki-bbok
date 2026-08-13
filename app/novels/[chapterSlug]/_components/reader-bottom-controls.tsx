@@ -39,13 +39,22 @@ export function ReaderBottomControls({
       aria-label="เมนูนำทางระหว่างตอน"
       aria-hidden={!visible}
     >
-      <div className="mx-auto flex w-full max-w-[1285px] items-center justify-between gap-2 px-3 pt-4 pb-6 md:w-[95%] md:px-0">
-        <ChapterLinkButton chapter={previousChapter} direction="previous" />
+      <div className="mx-auto flex w-full max-w-6xl items-center justify-between gap-2 px-3 pt-4 pb-6 md:w-[95%] md:px-0">
+        <ChapterLinkButton
+          chapter={previousChapter}
+          direction="previous"
+          className="h-12 [font-family:var(--font-arundina-sans-local)] text-2xl"
+        />
 
         <div className="relative max-w-xs flex-1">
           <Popover>
             <PopoverTrigger
-              render={<Button variant="outline" className="w-full" />}
+              render={
+                <Button
+                  variant="outline"
+                  className="h-12 w-full [font-family:var(--font-line-seed-sans-th-local)]"
+                />
+              }
             >
               <MenuIcon />
               <span>ตอนที่ {currentChapter.episode}</span>
@@ -68,8 +77,10 @@ export function ReaderBottomControls({
                         render={<Link href={`/novels/${chapter.slug}`} />}
                         aria-current={isCurrent ? "page" : undefined}
                       >
-                        <span>ตอนที่ {chapter.episode}</span>
-                        <span className="truncate text-zinc-500">
+                        <span className="[font-family:var(--font-line-seed-sans-th-local)]">
+                          ตอนที่ {chapter.episode}
+                        </span>
+                        <span className="truncate [font-family:var(--font-arundina-sans-local)] text-xl text-zinc-500">
                           {" - "}
                           {chapter.title}
                         </span>
@@ -82,7 +93,11 @@ export function ReaderBottomControls({
           </Popover>
         </div>
 
-        <ChapterLinkButton chapter={nextChapter} direction="next" />
+        <ChapterLinkButton
+          chapter={nextChapter}
+          direction="next"
+          className="h-12 [font-family:var(--font-arundina-sans-local)] text-2xl"
+        />
       </div>
     </nav>
   )

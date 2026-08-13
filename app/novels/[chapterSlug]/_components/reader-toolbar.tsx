@@ -5,7 +5,6 @@ import { Button } from "@/components/ui/button"
 import { novelInfo } from "@/features/novel/config"
 import type { ChapterMeta } from "@/features/novel/types"
 import { cn } from "@/lib/utils"
-import { ReaderFontMenu } from "./reader-font-menu.client"
 import { ReaderSettingsMenu } from "./reader-settings-menu.client"
 
 interface ReaderToolbarProps {
@@ -24,7 +23,7 @@ export function ReaderToolbar({ visible, currentChapter }: ReaderToolbarProps) {
       )}
       aria-hidden={!visible}
     >
-      <div className="mx-auto flex w-full max-w-[1285px] items-center justify-between px-3 py-4 md:w-[95%] md:px-0">
+      <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-3 py-4 md:w-[95%] md:px-0">
         <div className="mr-3 flex shrink-0 items-center justify-start">
           <Button
             type="button"
@@ -50,14 +49,14 @@ export function ReaderToolbar({ visible, currentChapter }: ReaderToolbarProps) {
             />
           </div>
           <div className="min-w-0">
-            <div className="truncate text-sm text-zinc-400">
+            <div className="truncate [font-family:var(--font-line-seed-sans-th-local)] text-sm text-zinc-400">
               {novelInfo.title}
             </div>
             <div className="truncate font-semibold text-zinc-400">
-              <span className="text-zinc-100">
+              <span className="[font-family:var(--font-line-seed-sans-th-local)] text-zinc-100">
                 ตอน {currentChapter.episode}
               </span>
-              <span className="text-sm font-normal">
+              <span className="[font-family:var(--font-arundina-sans-local)] text-2xl font-normal">
                 {" - "}
                 {currentChapter.title}
               </span>

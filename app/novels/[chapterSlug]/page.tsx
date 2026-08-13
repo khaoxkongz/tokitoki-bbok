@@ -68,7 +68,11 @@ export default async function Page({ params }: PageProps) {
   }
 
   const chapterPickerItems: ChapterPickerItem[] = chapters.map(
-    ({ slug, episode, title }) => ({ slug, episode, title })
+    ({ slug, episode, title }) => ({
+      slug,
+      episode,
+      title,
+    })
   )
 
   return (

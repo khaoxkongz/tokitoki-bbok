@@ -1,485 +1,485 @@
 # Original 1
 
-A single-person rift that opens when you touch a statue.
+When you touch the statue, it opens a one-person rift.
+Sculpture
 
-All officers, mages, and explorers unanimously agreed on this phenomenon.
 
-All statues—or activating a certain number of them—likely opens that firmly closed stone gate, allowing progress to the next stage.
+Given that phenomenon, the squad leaders, mages, and adventurers of the explorers all reached the same conclusion.
 
-Of course, I agreed with that view as well.
+All the statues.
 
-So after clearing the Green Mine, I spent quite some time experimenting.
+Or, more likely, when a certain number of statues are activated, the sealed stone gate will open, allowing us to proceed to the next stage.
 
-I tried reopening a cleared rift.
+I agreed with that theory as well, of course.
 
-Checked whether someone who had already cleared a rift could enter it again.
+So, after clearing the Green Mine, I spent a long time experimenting with various things.
 
-Observed when opened portals would disappear.
+Trying to reopen a rift I had already cleared.
 
-I paused the main攻略 and continued the research.
+Checking whether the person who had cleared the rift before could enter it again.
 
-Not a wasted moment.
+Observing how long the portal stays open before disappearing.
 
-After all, aren’t other games like that?
+We shifted our focus from clearing the hallway to starting our research.
 
-To excel, you need to know activation conditions, enemy traits, skill interactions perfectly.
+This was by no means a waste of time.
 
-‘Okay, I’m starting to get it.’
+After all, isn’t that how most games work?
 
-As the research progressed, lots of info gathered.
+To do well, you need to have a perfect grasp of activation conditions, enemy characteristics, and skill mechanics.
 
-If no one enters, the portal closes after 10 minutes; portals can’t open if someone is inside; and so on.
+“Okay, I’m starting to get it.”
 
-Among these, five key points stood out:
+As the research progressed, we gathered a lot of information.
 
-Statues activate at least seven times.
+For example, if no one enters, the portal disappears after ten minutes, or that you can’t open a portal if someone is already inside.
 
-I say at least seven because that’s the sample size.
+Aside from that, I’ve summarized the key points into a list of five.
 
-Including me, seven people cleared the Green Mine, and statues still created portals each time touched...
+1. The statues activate at least seven times.
 
-‘So there’s basically no usage limit.’
+The reason I say “at least seven” is because we only have seven samples so far.
 
-Next.
+Seven people, including myself, have cleared the Green Mine, but the statue still creates a portal every time it’s touched.
+Sculpture
 
-Guardians drop essences without fail.
 
-But nothing else drops besides essences.
+‘At this point, I can assume there’s no limit to the number of activations.’
 
-In seven attempts, no Rift Stones or Numbers items dropped once.
+Moving on.
 
-Though more samples needed for certainty, due to randomness.
+2. Guardians always drop an Essence.
+
+However, aside from the Essence, they drop nothing else.
+
+Across all seven attempts, not a single Riftstone or Numbers item dropped.
+
+Of course, since that involves probability, we’ll need more samples to be certain.
 
 Anyway.
 
-When a rift is cleared, a red light illuminates one carved spot on the closed stone gate.
+3. When a rift is cleared, a red light appears on one of the symbols engraved on the sealed stone door.
 
-This seems unique—only lit once when I first cleared it.
+Ah, and it seems this doesn’t stack.
 
-To light all lights, all statues must be cleared.
+The light only turned on when I first cleared it. Meaning, to light up all the remaining lights, every statue must be cleared.
 
-The highest difficulty statues on the 5th floor open two portals when activated.
+4. The 5th-floor Guardian statue, the highest difficulty, opens two portals when activated.
 
-No usage limits for statues; portals close 10 minutes after opening.
+After confirming that there’s no limit to statue activations and that open portals close after 10 minutes, we discovered this information.
 
-5th floor rifts have two portals.
+The 5th-floor rift has two portals.
 
 In other words, two people can enter.
 
-Below 4th floor, all are one-person-only, so you must clear solo.
+Conversely, this means that floors 1 through 4 are strictly solo—you must clear them alone.
 
-Finally...
+Regardless, the last point…
 
-Even if you buff up before entering, all buffs disappear upon entering.
+5. Even if you stack buffs before entering the portal, they’re all removed upon entry.
 
-No cheating here; only those truly strong enough can clear the rift.
+Because this loophole has been blocked, only those with good base stats can succeed in clearing the rift.
 
-For me, that was discouraging.
+For me, this was quite overwhelming.
 
-Dungeon & Stone isn’t a game where just leveling up and gathering good essences means winning.
+Dungeon & Stone isn’t the kind of game where you become unstoppable just by leveling up and consuming good Essences.
+Games
 
-I pride myself as among the strongest in the world, yet there are always tough counters.
 
-‘...But two can enter, so maybe it’s doable.’
+Though I take pride in being ranked among the world’s strongest, there were enemies that even I had trouble facing.
 
-Though the field concept was a single-person rift, there was no entry limit.
+‘Still, if two people can enter, it should be possible, right?’
 
-That let us bring in hundreds of elite members.
+Although the field was designed for multiple single-person rifts, the stone room had no such entry restriction.
 
-We could pick the best explorer matchup to send inside.
+Thanks to that, we were able to bring in hundreds of elite personnel.
 
-‘Alright... let’s start.’
+And since each of them is skilled, we could select the explorer with the best compatibility and send them in.
 
-It was time to begin real攻略.
+‘Well… let’s give it a try.’
 
-Unlike normal rifts, where the boss room appears after a short walk from the entrance, the early攻略 ended quickly.
+It was time to start clearing this place.
 
-The cursed knight Blatter of Blood Castle.
+***
 
-The tyrant Tarunbas of Glacier Cave.
+Unlike regular rifts, here the boss room appears just a short walk from the entrance, so the early phase of the raid didn’t take long at all.
 
-The iron man Ildium of Steel Tomb.
+The Cursed Knight of the Crimson Citadel, Blatter.
 
-All defeated in a flash, all dropping essences.
+The Tyrant of the Glacier Caves, Tarunbas.
 
-Though I had no use for those essences now.
+The Iron Giant of the Steel Tomb, Ildium.
 
-Still, it wasn’t a total loss.
+The raids ended almost instantly, and each dropped an Essence.
 
-「Guardian defeat bonus. EXP +3」
+Well, not that I needed any of them now.
 
-「Guardian defeat bonus. EXP +3」
+Still, it wasn’t a complete waste.
 
-「Guardian defeat bonus. EXP +3」
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus. EXP +3]
 
-After several kills, I was sure—the guardian bonus applied here.
+After a few kills, I was certain: Guardian bonuses apply here as well.
 
-But...
+But…
 
-‘Too bad.'
+“Too bad.”
 
-You can’t enter a cleared rift again.
+You can’t enter a rift you’ve already cleared again.
 
-Even if someone else opens the portal, you just pass through it to the front.
+Even if someone else opens the portal for you, you just go through the portal and come out the other side.
+Standardized& Admissions Tests
 
-‘If not for that, I’d have duplicated experience.’
 
-It was disappointing, but I decided to think positively.
+‘If it weren’t for that, I could’ve farmed EXP infinitely…’
 
-After all, killing all but the bosses I can’t yet get experience from is still plenty.
+It was disappointing, but I decided to look on the bright side. Setting aside the ones I couldn’t defeat, how much experience would I earn from those I could?
 
-Maybe that’s better than mediocre essences.
+Maybe this would be more helpful to me than the Essences.
 
-‘There are still many guardians I haven’t beaten.’
+‘And there are still plenty of Guardians I haven’t defeated yet.’
 
-Adding initial hunt experience here, I could theoretically get 200 experience points from this攻略 alone.
+Combined with the first-clear EXP, I could theoretically gain up to 200 EXP from this clear alone.
 
-Though, maybe other explorers thought the same.
+Apparently, other explorers had the same idea.
 
-As we moved to the 2nd floor guardians, someone approached.
+Just as we were about to move on to the second-floor Guardians, someone approached me.
 
-“May I try the challenge too?”
+“Um… May I try challenging too?”
 
-“Your name is...?”
+“Your name…?”
 
-“Miles Humbrake, Baron.”
+“Miles Humbreak, Baron.”
 
 Ah, right.
 
-I remembered him as an explorer recruited into the expedition after being called, not a knight.
+He wasn’t a knight but a recruited explorer, so I remembered him.
 
-Come to think of it, many such explorers were in the expedition...
+Now that I think about it, there were quite a few explorers like him in the expedition force…
 
-“Except for the Blood Castle, I haven’t yet earned any guardian merits in the 1st floor rift. If you allow me—”
+“I haven’t earned Guardian achievements for any of the first-floor rifts, except for the Crimson Fortress. If you would permit it—”
 
-“Get permission from the count, not me.”
+“Permission isn’t mine to give. Ask the Count.”
 
-“The count said it’s fine if the baron permits.”
+“The Count said that if the Baron permits it, he has no objections.”
 
-Looks like the chief was still playing figurehead here.
+So the village chief was going to play the role of a puppet leader here too.
 
-“Hmmm...”
+“Hmm…”
 
-What to do?
+What should I do?
 
-Sending him out and having him die only weakens our force.
+If I send him in carelessly and he dies, we’ll just lose manpower.
 
-While I pondered, the guy earnestly continued.
+As I hesitated, he spoke earnestly.
 
-“I understand your worry. You’re anxious about someone entering where there’s no real reason.”
+“I understand your concern, Baron. Of course you’d be wary of someone insisting to enter an already-cleared rift.”
 
-“...”
+“…”
 
-“But don’t worry. Though called a guardian, I’m not weak enough to lose to a Grade 7 monster.”
+“But don’t worry. Even if it’s a Guardian, I’m not weak enough to lose to a mere Rank 7 monster.”
 
-“There’s a condition before permission.”
+“I’ll allow it—but on one condition.”
 
-“A condition...?”
+“A condition, sir?”
 
-Seeing his serious face, I chuckled.
+I smirked at the serious-looking explorer.
 
-“What are you nervous about? Go to the mages, learn everything about the guardians perfectly. That’s my condition.”
+“No need to be so tense. Just go to the mages and study everything they know about the Guardian before entering. That’s my condition.”
 
-“...Yes? Understood! Thank you! Really, thank you!”
+“…Huh? Ah, understood! Thank you! Truly, thank you!”
 
-He left, apparently expecting more demands but touched by my words.
+The adventurer seemed to have expected something else, as he thanked me profusely .
 
-What I didn’t know then was why the judges hated precedents so much.
+I didn’t understand it back then.
 
-“Baron...?”
+Why judges always emphasized precedents in trials.
 
-“May I try too...?”
+“Um… Baron?”
 
-Starting with him, others shyly approached.
+“Would it be alright if I also attempted a challenge…?”
 
-‘Phew... I let him in, can’t refuse these guys now...’
+Following his lead, others who had been watching cautiously also approached me.
 
-Getting tired of answering one by one, I finally left it to Raven.
+‘Hah… I already allowed the first guy, so I can’t just refuse these ones…’
 
-“Ask Arua Raven whether you can challenge. If she permits, I will too.”
+Answering each one individually was too tedious, so I eventually delegated the task to Raven.
 
-“Me? Why me?”
+“Whether you can attempt a challenge or not, go ask… that one over there, Alluva Raven. If Raven permits it, so will I.”
 
-“You’re the most knowledgeable about rifts here.”
+“Huh? Why am I suddenly involved?”
 
-“Don’t lie. You think I don’t know just because I’m lazy—”
+“Aren’t you the most knowledgeable about the rifts?”
 
-Tsk, that’s why the sharp ones are so quick.
+“Don’t lie. You’re just too lazy. You think I wouldn’t notice?”
 
-I cut him off firmly.
+Tch. That’s the problem with sharp ones.
+
+I quickly cut him off with a firm tone.
 
 “It’s not laziness.”
 
-“...?”
+“…?”
 
-“It’s because I trust you.”
+“I trust you.”
 
-Not untrue.
+It wasn’t entirely a lie.
 
-Though there are many mages I could order, none are as thorough as Raven.
+There were plenty of other mages I could’ve assigned, but none were as meticulous as her.
 
-And she’s vulnerable to praise.
+Plus, she was weak to compliments.
 
-“Sigh...”
+“Haah…”
 
-Raven sighed but nodded resignedly.
+Raven sighed but nodded reluctantly.
 
-“I’ll only send those who can definitely return alive, only such people. Okay?”
+“…I’ll only send those who are absolutely certain to return alive. Is that acceptable?”
 
-Yeah, I expected that.
+Good, just as I expected.
 
-Though I dumped the annoying task, I saw responsibility in her eyes and knew I wouldn’t have to worry.
+Though I’d assigned her a tedious task, the determination in her eyes told me there was no need to worry.
 
-While thinking that...
+While I was thinking that—
 
-“Yandel.”
+“Jandel.”
 
 Amelia called me.
 
-I guessed she wanted to check if she could challenge alongside Raven.
+Was she going to ask if she could help Raven filter people as well? The timing made it seem likely.
 
-That seemed likely given the timing.
+But…
 
-But...
+“Could I… try the challenge as well?”
 
-“May I try too...?”
+Her unusually hesitant tone completely defied my expectations.
 
-Amelia’s uncharacteristically timid question surprised me.
+“…What?”
 
-“What...?”
+“Ahem.”
 
-“Ahem, if guardian defeat merits count, it’d be a shame to miss this chance. Actually, I think all members should try at least once.”
+As I stared at her, Amelia awkwardly cleared her throat and calmly explained her reasoning.
 
-Caught in her gaze, Amelia cleared her throat embarrassed but argued logically.
+“It would be a shame to miss the opportunity if the Guardian achievement is awarded. It’s not just about me—I believe everyone in our group should take part at least once.”
 
-Hard to just ignore.
+It wasn’t something I could dismiss.
 
-‘Hmm... she does have a point.’
+“Hmm… She does have a point.”
 
-I didn’t ponder long.
+I didn’t deliberate for long.
 
-“Fine. But only up to the 3rd floor.”
+“Fine. Do it, but only up to the third floor.”
 
-“Understood. Then I’ll prepare. Even if others don’t, Ainard Frenlin needs to be well prepared before entering.”
+“Understood. Then I’ll make preparations. Ignoring the others, I think I’ll need to spend some time preparing Aynar Pheneline if I plan to send her in.
 
-“I leave that to you.”
+“I’ll leave that to you.”
 
-It would be a lie to say I wasn’t worried about them entering without me, but I couldn’t care for them like baby birds forever.
+I’d be lying if I said I wasn’t worried about them going in alone. But I can’t protect them like baby birds forever.
 
-So I chose to trust.
+So I’ll trust them.
 
-Amelia, Ainard, Elwen, Misha.
+Amelia, Aynar, Erwin, Misha.
 
-The four would easily manage up to the 3rd floor.
+All four of them are more than capable of handling the third-floor guardians.
 
-‘Ended up taking a long break.’
+‘Funny how I ended up with more free time.’
 
-After watching explorers taking Raven’s rift guardian lecture, I glanced over the statues I hadn’t攻略ed yet.
+As I watched the explorers receive Raven’s lecture on guardians, I scanned the statues I hadn’t challenged yet.
 
-Eight 2nd floor guardians.
+Eight 2nd-floor Guardians.
 
-One End Knight of the White Temple on the 3rd.
+One “Doom Knight of the White Temple” of the 3rd floor.
 
-Two on the 4th floor...
+“Two of the 4th floor…”
 
-Twelve in total including unique rifts on the 5th floor.
+So, including the unique rift on the fifth floor, that brought the total to twelve.
 
-And...
+Then…
 
-‘Including Cambormier, fourteen unidentified guardians.’
+‘Including Cambormier, there are 14 unconfirmed Guardians.’
 
-Add four on the 1st floor, that’s forty-one total.
+Adding the four guardians from the first floor brought the total to forty-one.
 
-‘I’ve killed four, so...’
+‘Since I’ve already defeated four…’
 
-That meant 37 guardians left to defeat.
+That left thirty-seven Guardians to defeat.
 
-‘...Let’s start with the easy ones.’
+‘…Let’s start with the easier ones.’
 
-There was no time limit here, right?
+There’s no time limit here, right?
 
-No requirement to finish in a few days or anything...
+It’s not like I have to defeat them all within a few days or anything…
 
-「Guardian defeat bonus. EXP +3」
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus. EXP +3]
+[Guardian Slayer Bonus…]
 
-「Guardian defeat bonus. EXP +3」
+When I returned outside after defeating all eight Guardians of the second floor, the surroundings were quite chaotic.
 
-「Guardian defeat bonus. EXP +3」
+People were greeting me and praising my efforts, but something felt off.
 
-「Guardian defeat bonus. EXP +3」
+“What’s the record? What time did he get?”
 
-「Guardian defeat...」
+A few people checked their watches the moment they saw me and eagerly scribbled in their notebooks.
 
-After defeating all eight 2nd floor guardians and exiting, the area was quite chaotic.
+Come to think of it, they’d been doing that earlier too.
 
-They seemed to welcome me, saying I’d done well, but...
+“What are you writing?”
 
-“What’s the record? How much time?”
+“…W-Well, just recording the time it took for the Baron to defeat the Guardians and return.”
 
-“3 minutes 27 seconds!”
+For some reason, that answer sparked a sudden sense of irritation.
 
-Some immediately checked the time and furiously wrote in notebooks.
+Like I was a racehorse at a betting track.
 
-Now that I think about it, they did that before too.
+“Don’t tell me you’re betting on me?”
 
-“What are they writing?”
+I glared as I asked, and the mage frantically waved his hands.
 
-“...They were recording how long it took the baron to kill the guardians.”
+“N-No, of course not! Absolutely not! It’s just… out of curiosity… We’ve been recording everyone’s times, not just yours.”
 
-For some reason, that answer made me quite annoyed.
+Hmm, if that’s the case, getting angry would be unfair.
 
-I felt like a racehorse at the track.
+“It’s… important data, you see…”
 
-“Are you betting on me?”
+A mage who doesn’t keep a journal is not a mage.
 
-I asked sternly, and the mages freaked out, waving their hands.
+In a world where such things are said, and knowing how fond mages are of recording everything, I didn’t press him further and carried on.
 
-“N-No way! Absolutely not. Just... curiosity... Everyone’s keeping records, not just you.”
+‘Misha and Erwin are still raiding… Amelia must be in the middle of her lecture.’
 
-Hmm, then I couldn’t stay mad.
+As I sat down to rest and organize my thoughts, a portal opened and the explorer who had challenged the Ice Cave returned.
 
-“Because... the data is important...”
-
-A mage who doesn’t keep records isn’t a mage.
-
-Knowing how instinctive record-keeping is for mages, I let it go.
-
-‘Misha and Elwen are攻略ing... Amelia is attending class.’
-
-Sitting to rest and organize thoughts, a portal opened and an explorer who challenged the Glacier Cave returned.
-
-And...
+And then…
 
 “How long did it take?”
 
-Someone immediately asked.
+The moment he returned, he immediately asked someone.
 
-“1 minute 24 seconds.”
+“1 minute and 24 seconds.”
 
-The mage taking notes replied flatly; the explorer asked again with excited eyes.
+The mage responded in an objective tone, and the explorer followed up with another question, his eyes strangely intense.
 
-“So, what place is that?”
+“Then what’s my rank?”
 
-“Third.”
+“Third place.”
 
-The explorer looked around disappointed, then whispered something to the mage.
+Upon hearing that, the explorer looked a bit disappointed, glanced around, then whispered something to the mage.
 
-Sadly, I couldn’t hear...
+Unfortunately, I couldn’t make it out—
 
-“Bjorn Yandel is asking how long it took.”
+“He’s asking how many seconds it took you, Jandel.”
 
-I realized Amelia was beside me.
+Suddenly, Amelia was standing beside me.
 
-I had seen her listening to Raven’s lecture just moments ago...
+She must’ve left the lecture after seeing me return.
 
-Did she slip out when she saw me?
+Not that it mattered.
 
-Whatever, doesn’t matter.
+“Ah, I see. Thanks for letting me know.”
 
-“Ahem, I see. Thanks for telling me.”
+After receiving a whispered response from the mage, the explorer walked off toward Raven’s lecture, looking oddly proud.
 
-The explorer smiled proudly and moved toward Raven’s lecture room.
+“Want to know what the mage told him?”
 
-“Want to know what the mage said?”
+“Not really.”
 
-“No, not really.”
+“3 minutes and 27 seconds, apparently.”
 
-“3 minutes 27 seconds.”
+“…If you were going to tell me anyway, why ask?”
 
-“...If you’re going to say it anyway, why ask?”
+It was a bit ridiculous, but I didn’t feel any particular shame over the record.
 
-A little absurd, but I didn’t feel bad about the record.
+It wasn’t like I could’ve done better anyway.
 
-I can’t get a better time anyway.
+I took my time, strolling through the corridors and analyzing everything along the way.
 
-I took it slow, analyzing as I went through.
+‘Even if I’d tried my hardest, I doubt I’d have been faster than them.’
 
-‘Well... even at best, I probably wasn’t faster than them.’
+From the looks of it, they were competing among themselves, and I just got dragged into it.
 
-They seemed to be competing, and I felt it was unfair to be included.
+What’s so impressive about clearing it faster than a tank?
 
-What’s so great about killing faster than a tank?
+It’s just pathetic—
 
-Just pathetic—
+“For reference, my record was 47 seconds.”
 
-“By the way, I was 47 seconds.”
+“…Huh?”
 
-“...Huh?”
+“…And I’m also ranked first.”
 
-“...And I’m first.”
+“Ah…”
 
-“Ah...”
+Am I just deluded, or…?
 
-Maybe I’m blinded by love?
+With that extra context, it didn’t seem pathetic—it was actually kind of cute.
 
-Now it seems less pathetic and somewhat cute...
+“…Are you leaving already?”
 
-“Already leaving?”
+“I’ve rested enough.”
 
-“Rested enough.”
+As I stood up after my short break and headed toward a new Guardian statue,
 
-After a short break, standing before a new guardian statue, Amelia tilted her head.
+Amelia tilted her head.
 
-“Isn’t this the End Knight?”
+“Not the Knight of the End?”
 
-I stood before the vampire guardian Cambormier’s statue.
+I was standing before the statue of the vampire Guardian, Cambormere.
 
-Simple ★ 𝐍𝐨𝐯𝐞𝐥𝐢𝐠𝐡𝐭 ★ reason.
+The reason was simple.
 
-“It’s time to check the unidentified guardians.”
+“It’s about time I checked out the unidentified ones.”
 
-“Is that so...”
+“I see…”
 
-Amelia just nodded, saying nothing.
+Amelia simply nodded, saying nothing more.
 
-She knew well enough.
+Because she knew.
 
-A vampire posed no threat to me.
+That a mere vampire posed no threat to me.
 
-“Still, be careful, okay?”
+“Still, be careful. Understood?”
 
 “Got it. I’ll be back.”
 
-I entered the portal, seeing Amelia off.
+With Amelia seeing me off, I stepped into the portal.
 
-The sensation of floating lasted briefly, then—
+That floating sensation washed over me again, and the moment I sensed I’d been transferred—
 
-Thud.
+Tap!
 
-I recognized movement had ended and dashed forward.
+I dashed forward.
 
-I could scout terrain while running.
+I could assess the terrain while running, after all.
 
 Brick walls reminiscent of a medieval castle.
 
-Candleholders illuminating the walls.
+Wall-mounted candlesticks lighting the corridor.
 
-Old bloodstains stained the floor.
+Old bloodstains smeared across the floor.
 
-The place where I opened my eyes resembled, but differed from, the last chapter of the Blood Castle—The Demon Worship Room.
+The place where I opened my eyes resembled the final chapter of Blood Tinted Castle—the Demon Worship Chamber, but it was different.
 
-Not a ‘ㅁ’ shape but a straight line.
+Unlike the ‘□’-shaped structure, this was just a straight path.
 
-Tatatatat.
+Thud-thud-thud!
 
-Running full speed toward the boss room straight ahead.
+I sprinted down the hallway toward the boss chamber visible straight ahead.
 
-I’m human, after all.
+It couldn’t be helped—I was only human. And while I didn’t want to dwell on the records…
 
-I don’t care much about records...
+But I also didn’t want to become someone else’s joke or consolation prize. So, unless something unexpected happened, I planned to defeat the Guardian as quickly as possible this time and get out.
 
-But I didn’t want to be anyone’s consolation prize.
+However—
 
-So if nothing happened, I planned to kill the guardian quickly and leave.
+Boom!
 
-But...
+The sound of the door bursting open forced me to abandon my plan as the vampire rose to its feet.
 
-Kwahhng!
-
-The sound of the door being kicked open forced me to stop as I saw the vampire awakening.
-
-“How curious... very curious...”
+“How curious… truly curious…”
 
 The vampire looked at me with sleepy eyes and spoke.
 
-“...Have we met before?”
+“…Have we met before?”

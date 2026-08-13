@@ -1,427 +1,421 @@
 # Original 2
 
-Long ago in the past.
+Though it was an absurdly long time ago, I still clearly remember it.
 
-It’s a matter of time now long enough that it’s no longer unreasonable to speak of it as such, yet the memories remain vivid.
-
-The first time I opened my eyes in the body of a Barbarian and stepped into the first floor’s crack — the Blood-Red Fortress.
+After awakening in the body of a barbarian, I entered the rift on the first floor — the Blood Tinted Castle.
 
 There, I met Raven and Hikurod.
 
-The desperate battle against Cambermier, the Vampire Duke, a Grade 5 monster and guardian of that crack, even though I had no essence left in my body...
+And where I fought the Vampire Duke, Cambormier, a Level 5 monster and the guardian of that rift. At that time, my body lacked even a single essence.
 
-Of course, I still remember the conversation we had then.
+I still remember the conversation we had back then.
 
-“Myoha-gun, truly mysterious...”
+[How curious… truly curious…]
 
-Even back then, that guy said something similar while looking at us.
+Even then, he looked at us and muttered the same words he had just said.
 
-Well, the lines that followed were quite different, though.
+Though the lines that followed were quite different.
 
-“When I look at you, murderous intent boils up and I simply cannot contain it. Do you know why?”
+[“Looking at you makes my bloodlust boil uncontrollably. Do you happen to know why?”]
 
-He possessed intelligence and could speak.
+He was intelligent, capable of conversation.
 
-That was no strange thing.
+That wasn’t strange.
 
-Many of the higher mutants could talk.
+Among high-ranking mutants, there were quite a few that could speak.
 
-Though it was the first time I’d heard Cambermier say something like that...
+Of course, hearing such words from Cambormier was unprecedented at the time…
 
-“At the time, I just let it slide.”
+‘Back then, I just accepted it as it was.’
 
-Back then, the Blood-Red Fortress was the first crack.
+The Blood Tinted Castle was my first rift.
 
-Also, capturing Cambermier was my first time.
+And Cambormier was my first major hunt.
 
-So I didn’t ponder the matter deeply.
+So, I didn’t dwell too deeply on the issue.
 
-But...
+But…
 
-“I cannot lose. I must not lose...!”
+[“I cannot lose. I must not be defeated…!”]
 
-The Knight of the End I met at the White Temple hut.
+The Knight of the Apocalypse, whom I met in the White Temple.
 
-He was more desperate than any monster I had faced.
+He was more desperate than any other monster I had faced.
 
-“If it’s a lie no one knows... how different can it be from the truth?”
+[“If no one knows it’s a lie… then how is it any different from the truth?”]
 
-The doppelganger, guardian of the 4th floor crack.
+The guardian of the fourth-floor rift, the Doppelganger, was no different. His final words were filled with desperation.
 
-At the end, he muttered with deep regret.
+[“…Truly remarkable. To even faintly grasp the laws of this world.”]
 
-“Truly astonishing. To grasp even vaguely the laws of the world.”
+Even the mysterious being I met in the reward chamber after defeating Dreadfear said something ominous:
 
-The mysterious being I encountered in the reward chamber after clearing Dreadpier also uttered meaningful words.
+[“You must not open the Gate of the Abyss.”]
 
-“You must not open the Abyssal Gate.”
+And of course, there’s the Witch of the Earth, Elis Groundia. No need to even mention her.
 
-No need to say more about the Witch of the Land, Elise Groundia.
+The more floors I cleared, the more such beings I encountered, and the more questions I had.
 
-As the number of floors I could explore increased, I met more entities, and my questions only grew bigger.
+What exactly is the Labryinth?
 
-What exactly is the Labyrinth?
+What were the Guardians and the Floor Lords?
 
-What are guardians and tiered lords?
+And what lies beyond the Gate of the Abyss?
 
-What lies beyond the Abyssal Gate?
+‘…Maybe.’
 
-“...Maybe.”
+Maybe today, I could finally get closer to the answer.
 
-Today, that answer might finally come.
+The moment I faced the vampire, a sharp intuition struck the back of my mind.
 
-That intuition struck my mind the moment I met that vampire.
+“Hmm, do you not understand my words?”
 
-“Hmm, do you not understand what I’m saying?”
+His voice carried more curiosity than wariness.
 
-His voice sounded more curious than wary.
+Before that curiosity could fade, I cut off my thoughts and finally spoke.
 
-Before that curiosity faded, I ended my thoughts and spoke.
+“You’re right—we’ve met before. In the Blood Tinted Castle.”
 
-“As you said, we have met before. At the Blood-Red Fortress.”
+“Blood Tinted Castle…”
 
-“The Blood-Red Fortress...”
+The vampire quietly repeated the name before looking at me again and murmuring:
 
-The vampire quietly repeated the name, then looked at me again and muttered.
+“Then I suppose it makes sense that I have no memory of it. By that time, I had already become…this.”
 
-“So you have no memory, it seems. By then, I was already like this.”
+His response sent an inexplicable chill down my spine.
 
-That answer gave me goosebumps for some reason.
+That faint suspicion in me grew stronger—because we were really having a proper conversation.
 
-My suspicion grew — yet here we were having a normal conversation.
+‘No signs of him suddenly snapping either.’
 
-“No sudden signs of snapping out of it either.”
+But since I didn’t know how long this would last, I hurried to continue the conversation.
 
-But since I didn’t know how long this state would last, I hurried to continue the conversation.
+“What do you mean by ‘this’?”
 
-“What do you mean by ‘like this’?”
+“You can see for yourself. This monstrous body.”
 
-“You can see it for yourself. This monstrous body.”
+He probably just meant that he’d become a vampire. I was hoping for something more dramatic, like being trapped in a Labryinth or captured by a witch.
 
-It seemed he simply meant his vampire form. I had hoped for something like being trapped in the Labyrinth or brought by a witch.
+‘So… was this guy originally human too?’
 
-“Hmm, so this guy was originally human too?”
+I wanted to be sure about that, but unfortunately, the Mr. Vampire spoke first.
 
-I wanted to clarify this, but unfortunately the vampire was quicker with his question.
+“So… where exactly is this place? And why am I here?”
 
-“So... where is this place? Why am I here?”
+Honestly, I had no idea how to answer.
 
-Honestly, I had no clue what to answer.
+“The last thing I remember is the Cambormere Duchy burning under the Three Gods’ Church’s assault.”
 
-“Surely our Cambermier Duchy was burning under the assault of the Tri-God Church...”
+There was a wall between our conversation that couldn’t be explained by words alone.
 
-There was an inexplicable barrier between his words and mine.
+It was like a person from the past encountering someone from the future, each attempting to communicate without understanding the other’s situation.
 
-It felt like past and future humans meeting by chance, speaking without understanding each other’s situation.
+“…This is the labyrinth. I was exploring it when I found you.”
 
-“...This is the Labyrinth. I was exploring it when I met you.”
+“The labyrinth…? What is that?”
 
-“The Labyrinth... what is that?”
+Our common sense didn’t align, so the conversation kept skimming the surface.
 
-Our understanding clashed, so the conversation barely advanced.
+So, I cautiously asked:
 
-So I cautiously asked,
+“Before I explain… could you tell me your story first?”
 
-“Before I explain... can you tell me your story first?”
+“My story…?”
 
-“My story...?”
+“Anything is fine. I’m just curious about your last memories.”
 
-“Anything is fine. I just want to know your last memories.”
+“Hmm…”
 
-“Hmm...”
+The Mr. Vampire hesitated briefly before slowly speaking.
 
-The vampire seemed to ponder for a moment, then slowly spoke.
+“The Three God’s Church’s army came to kill me. I lost that battle, closed my eyes praying for peace… and now I’ve awakened here.”
 
-“The Tri-God Church’s army came to exterminate me. I lost in that battle, prayed for rest, and closed my eyes. And now, I have awakened.”
+“…”
 
-“...”
+“The moment I opened my eyes, I saw you… and felt like I’d met you somewhere before. Ah, and the madness that tormented me so terribly… it’s gone. I can’t remember the last time my mind was this clear…”
 
-“The moment I opened my eyes, I saw you... and memories came to me, as if I’d met you somewhere before. Oh, and by the way, the madness that tormented me so badly hasn’t flared up. It’s been ages since my mind was this clear...”
+“…I see.”
 
-“...I see.”
+“Now, will you tell me? Where is this place you call the labyrinth?”
 
-“Well then, will you tell me? Where exactly is this place — this Labyrinth you speak of?”
+“Can I take a moment to organize my thoughts before answering?”
 
-“May I gather my thoughts before answering?”
+“By all means.”
 
-“Take your time.”
+With his permission, I quickly pieced together the clues—not just what he had told me, but also what I already knew.
 
-With the vampire’s permission, I quickly assembled the clues I had.
+[“The Dark Continent is a real place.”]
 
-Not just what he said, but everything I had known originally.
+The information the clown had revealed at the Round Table after crossing the walls.
 
-[The Dark Continent is real.]
+[“The Three God’s Church army came to kill me.”]
 
-Information spat by the jester who left the castle walls at the Round Table.
+The Three God’s Church, which existed in our world and still thrived with influence…
 
-[The Tri-God Church’s army came to exterminate me.]
+It didn’t take long for me to reach a conclusion.
 
-The Tri-God Church still exists in our world and remains powerful...
+Well, it was still a speculation in the end.
 
-It didn’t take long to reach a rough conclusion.
+The labyrinth was constructed based on real events and locations from the past.
 
-Though it was only my guess, after all.
+And…
 
-The Labyrinth is based on actual events and place names.
-
-And...
-
-“Cambermier, don’t be shocked, listen.”
+“Cambormere, don’t be startled, but listen carefully.”
 
 “I’m listening.”
 
-“First, one thing is certain: thousands of years have passed since your death.”
+“First, the undeniable truth is that thousands of years have passed since your death.”
 
-“...What does that mean? I am clearly alive now!”
+“…What do you mean? I’m clearly alive right now!”
 
-From here on, everything was my speculation.
+From here on out, it was all my speculation.
 
-“No, you are already dead. And this current you... is likely a being created by someone.”
+“No, you’re already dead. And the you standing before me now… is likely a recreated existence.”
 
-“...I can’t understand this at all.”
+“…I can’t comprehend this at all.”
 
-For the first time, hostility flared in the vampire’s eyes.
+For the first time, hostility flickered in the vampire uncle’s eyes.
 
-It was a reaction I had expected.
+I had expected this reaction.
 
-After all, who ➤ NоvеⅠight ➤ (Read more on our source) would welcome a stranger suddenly telling them they’re dead?
+I mean, who wouldn’t react like that if a stranger suddenly told them, “You’re already dead”?
 
-“...Still, this method is difficult.”
+‘…Still, this method is tough.’
 
-There was an easier path.
+There had been an easier path.
 
-Ignoring the truth, deceiving him by telling what he wanted to hear, making it easier to extract information.
+I could have hidden the truth and fed him lies—things he might have wanted to hear. That way, I could have extracted information more smoothly.
 
-But even knowing that, I told my guess honestly.
+But even knowing that, I chose to lay out my speculations honestly.
 
-In a way, it was very Barbarian of me.
+In a way, it was a very Barbarian-like reason.
 
-Because I didn’t want to do otherwise.
+I just didn’t want to do it that way.
 
-It was time to graduate from such ways.
+It was time to move past such methods.
 
-If I wanted to be someone who could righteously get angry when wronged.
+If I wanted to be someone who could express anger fairly when treated unfairly…
 
-“Cambermier, calm down and listen. I will explain why I think this way.”
+“Cambormere, calm down and listen. I’ll explain why I think that.”
 
-Sometimes you have to take the hard path.
+Sometimes, you have to choose the harder path.
 
-Afterward, I spent a long time explaining to the vampire what the Labyrinth is.
+***
 
-What the current city is like, how the world has changed.
+After that, I spent a long time explaining things to the Mr. Vampire.
 
-What I have seen and experienced while exploring the Labyrinth.
+What the Labryinth was.
 
-And finally... the circumstances of our first meeting.
+What the modern world and cities looked like now, and how the world had changed.
 
-Explaining all that took far more time and effort than I imagined.
+What I’d seen and experienced while exploring the Labrinth. And finally… the circumstances of our first encounter.
 
-The vampire struggled to grasp the vast gap in common sense across thousands of years, sometimes even denying my words in anger.
+Explaining all of it took far more time and effort than I’d imagined.
 
-But...
+The Mr. Vampire struggled to understand the vast gap in common sense caused by thousands of years. At times, he outright rejected what I said in fury.
 
-“...Enough. I understand now why you said those things.”
+But…
 
-Eventually, the vampire surrendered.
+“…Enough. I understand now. Why you said those things.”
 
-Though he still had one question.
+Eventually, he raised the white flag.
 
-“But there is something I do not understand.”
+But there was one question he couldn’t seem to let go of.
 
-“...What? Speak. I will explain it as many times as you need until you understand—”
+“There’s something I don’t understand.”
 
-“Why do you tell me all this so earnestly? According to you, I am merely a created being. Perhaps even today’s events will be wiped from memory, just as I forgot meeting you that day.”
+“…What is it? Tell me. I’ll explain as many times as it takes—”
 
-That was not the question I expected, but again I answered honestly.
+“Why did you go to such lengths to tell me all this? If you’re right, then I’m nothing more than a created being. For all we know, today’s events may be erased from my memory—just as I forgot meeting you before.”
 
-“If I were you, I would want to know the truth anyway.”
+It wasn’t a question I expected—but I still answered honestly.
 
-“...”
+“…If I were you, I’d still want to know the truth.”
 
-“That’s why I said it. If I’m honest first, maybe I can get your help.”
+“……”
 
-“I see...”
+“That’s why I told you. I figured if I was honest with you first, maybe I could get your help in return.”
 
-The vampire thought deeply for a long while, then spoke.
+“I see…”
 
-“Then tell me. How do you want me to help you?”
+The Mr. Vampire seemed to think deeply for a while, and then finally spoke.
+
+“Then tell me—how can I help you?”
 
 The line I’d been waiting for.
 
-I took a breath and opened my mouth.
+I took a deep breath and replied,
 
-“Cambermier, I want to know about you.”
+“Cambormere, I want to know about you.”
 
-“About me...?”
+“About… me?”
 
-“Yes. How you lived, what your world was like, what happened to bring you here. Just as I told you everything about myself. Everything.”
+“Yeah. How you lived. What kind of world did you live in? What you went through to become like this. Just like I told you everything—I want to hear it all.”
 
-The vampire looked surprised, but then nodded gravely.
+The Mr. Vampire looked surprised at first, as if hearing something unexpected. But soon, he nodded solemnly.
 
-“I will. Though it is awkward to tell a stranger about my life, if you’re right, I’m nothing more than a puppet. Better to be remembered by someone, at least.”
+“I’ll tell you. Though it feels strange to speak of my life to a stranger… if what you said is true, then I’m just a puppet anyway, aren’t I? In that case… it might be better to be remembered by someone.”
 
-“...”
+“……”
 
-“It still feels strange to be suddenly asked about my life. Well, where shall I start... Ah, yes, from there.”
+“Still, it feels strange to suddenly talk about my life. Well, where should I begin… Ah, I suppose it’s best to start there.”
 
-“...”
+“…”
 
 “I had a daughter.”
 
-So began his story.
+And so, his story began.
 
-Presumably before the witch’s curse engulfed the world.
+The estimated time was before the Witch’s Curse had engulfed the world.
 
-“It was a turbulent time. The witch’s followers and the Empire’s army fought all day long, shedding blood.”
+“It was an age of chaos. The Witch’s followers and the Empire’s armies clashed endlessly, spilling blood day after day.”
 
-The story of witches opposing humans was familiar to me.
+The story of humans fighting the Witch was a part of history I knew well.
 
-But what he said next mattered a great deal.
+But the story that he told me held far greater significance.
 
-Because ancient records were nearly lost and rare.
+After all, records from that era were nearly lost to time.
 
-“Our Cambermier family, a ducal house of a border state, was relatively unaffected by the war. We stayed neutral to both witches and the Empire, quietly waiting for the war to end.”
+“Our Cambormere family, a duchy from a remote minor kingdom, remained relatively untouched by the war. We took no side—neither with the Witch nor the Empire—and waited quietly for the conflict to end.”
 
-Then one day...
+Until one day…
 
 “My only daughter fell ill.”
 
-A terrible disease that neither potions nor the sacred power of high priests could cure.
+It was a vicious disease—one that neither potions nor the divine power of high priests could cure. Day by day, her life force dwindled, and the Duke could not stand idly by.
 
-Day by day, the daughter’s life flame dimmed, and the duke couldn’t stand to watch.
+“I would have given my soul for her without hesitation.”
 
-“She was worth sacrificing my very soul.”
+After desperate searching, the Duke eventually reached out even to the Witch’s followers. And they proposed a way to save his daughter.
 
-The duke searched everywhere and finally reached the witches’ followers. They proposed a way to save his daughter.
+“Later, I learned they weren’t really the Witch’s followers. They served the evil god Karui and sought to plunge the world into chaos.”
 
-“I learned later that they were not really witches’ followers. They worshipped the evil god Karui and sought to throw the world into chaos.”
+But unaware of this, the Duke accepted their offer. He had heard countless stories of people cured after becoming the Witch’s followers, and the Empire had done more than enough evil to deserve such judgment.
 
-Unaware of this, the duke accepted their offer. The Empire had built many evils, and he had heard stories of people who gained salvation by becoming witches’ followers.
-
-The duke was neutral toward witches.
+The Duke viewed the Witch neutrally.
 
 “That was the beginning of all misfortune.”
 
-Karui’s priests treated the daughter in a bizarre way. Every day, screams echoed from her room.
+The priests of Karui healed the daughter using bizarre methods. Every day, screams came from her room.
 
-Once, the daughter begged them to stop treatment, but the duke ignored it for her sake.
+There were days she begged him to stop, but the Duke turned a blind eye, insisting it was for her sake.
 
-And so time passed...
+And so, time passed…
 
-“My daughter got up from her sickbed.”
+“My daughter rose from her sickbed.”
 
-She recovered, and the priests of the evil god left.
+She had regained her health, and the priests of the Evil God left.
 
-The duke was initially happy to have regained normal life, but that happiness did not last long.
+At first, the Duke was overjoyed that his life had returned to normal, but that happiness didn’t last long.
 
-He calmly said,
+The Duke spoke calmly.
 
-“She began to swell.”
+“She started to swell.”
 
-Literally, she swelled.
+His daughter began to swell, as though her entire body were filling with pus.
 
-Slowly, as if her whole body filled with pus.
-
-“When wounds opened and bled, everything around corroded and melted. She lost reason and became violent.”
+“When her wounds burst and bled, everything around her corroded and melted. She also lost her reason, becoming violent.”
 
 The duke locked her in an underground prison.
 
-There was no choice.
+There was no other choice.
 
-If news of the daughter’s transformation spread, neither the Cambermier family nor the daughter would survive.
+If word spread that his daughter had become like this, neither the Cambormere Ducal House nor his daughter would survive.
 
-He planned to hide her and find a cure.
+His plan was to hide her while searching for a cure.
 
-“But the problem was she wouldn’t eat.”
+“But the problem was… she refused to eat.”
 
-No matter what delicious food was offered, even forced down her throat, the changed daughter refused.
+No matter what delicacies were brought to her, no matter how forcefully she was fed, she rejected everything.
 
-“Day by day I felt her dying. She was too weak to even open her eyes properly. Her pulse showed her heart was dying.”
+“I could feel her dying day by day. She grew too weak to even open her eyes. Checking her pulse, I could tell her heart was failing.”
 
-The duke could do nothing.
+The Duke was powerless.
 
-One day, while a knight was bringing food to her, the daughter attacked and killed him.
+Then, one day, as he helplessly watched her wither away—
 
-“...Only then... did she eat.”
+“…One of the knights was killed while bringing her food. She attacked him.”
 
-There was no need to ask what she ate.
+“…”
 
-“The child who used to raise hell at even a single fly now ate. Very ravenously.”
+“And then… she ate.”
 
-The duke fainted at the sight, but the daughter regained strength from that day on.
+There was no need to ask what she had eaten.
 
-Needing time to find a way, the duke began bringing criminals to feed her.
+“That girl, who once recoiled at even a fly… was eating. Ravenously.”
 
-But as she ate more, she grew bigger.
+The Duke fainted at the sight, but from that day on, his daughter regained her strength.
 
-The underground prison couldn’t hold her anymore, so she was moved to a water reservoir.
+Desperate for time to find a solution, the duke began feeding her criminals.
 
-Her food intake increased so much that criminals alone couldn’t supply it, so innocent people were framed and brought in.
+But the more she ate, the larger she grew.
 
-“If I were still myself, I would never have made such a foolish choice. But... the evil god’s followers had done something to me.”
+The Underground Prison could no longer contain her, so he moved her to an underground reservoir.
 
-The duke could not think rationally then.
+Her appetite increased beyond what the criminals could satisfy, forcing the duke to frame innocents to feed her.
 
-Violence surged, guilt faded.
+“The man I once was would never have made such foolish choices. But… the followers of the Evil God had done something to me as well.”
 
-Occasional madness attacks happened.
+The Duke’s rational mind had eroded.
 
-The changes affected both mind and body.
+Violence stirred within him, and his sense of guilt faded.
 
-His fangs grew.
+Episodes of madness came and went.
+
+The change wasn’t just mental—it was physical.
+
+Fangs grew.
 
 His sense of smell sharpened.
 
-When he smelled blood, saliva dripped from his mouth.
+He drooled at the scent of blood.
 
-He learned black magic he never studied, and used his changed body as naturally as a butterfly flapping its wings.
+He could wield dark magic without ever having learned it, and his altered body moved as naturally as a butterfly fluttering its wings.
 
-It became easier to find food for the daughter.
+Procuring food for his daughter became easier.
 
-Disappearances increased, and when his retainers began to leave one by one under the duke’s brutal hand, his hometown came to be called the Blood-Red Fortress.
+After that, people began disappearing more frequently, and as his loyal servants abandoned him one by one due to his brutality, his home came to be known as the Blood Tinted Castle.
 
-Naturally, the news reached the Empire, the witches at war, and even the Tri-God Church.
+Naturally, word reached the Empire and the Three God’s Church, who were at war with the witch.
 
-“After that, it was as I told you. The army came, and I was defeated.”
+“What happened next is what I told you earlier. The army came and defeated me.”
 
-The duke’s cruel nature led him to a secret place deep under the fortress for his sinister hobby.
+Once consumed by cruelty, he constructed a secret chamber deep below his castle for his dark pursuits. There, a holy knight’s blade pierced his heart.
 
-There, a paladin’s sword pierced his heart.
+“It’s laughable, but… I prayed.”
 
-“It’s ridiculous, but I prayed.”
+Facing death, the Duke prayed.
 
-Facing death, he prayed.
+Not to the gods of the Three God’s Church, who would never forgive him.
 
-Knowing the Tri-God Church gods would not forgive him.
+“I called the Witch—the enemy of mankind—my goddess and begged for salvation. Not for myself, but for my daughter. I prayed over and over. When I opened my eyes, I was here.”
 
-“I begged the goddess who was called the enemy of mankind, the witch, to save my daughter, even if not me. And when I opened my eyes, I was here.”
+Then it struck me—maybe, from the Duke’s perspective, all of that had happened just moments ago.
 
-Looking back, that incident was like it had just happened from the duke’s perspective.
+But how could he speak about it all so calmly?
 
-How could he speak so calmly?
+When I carefully asked, the Duke shook his head, saying he didn’t know himself.
 
-When I asked cautiously, he shrugged and said he didn’t know.
+“I can’t say for sure… but it feels like an incredibly long time has passed. If what you say is true, then I suppose it really has been ages…”
 
-“I don’t know, but it feels like an incredibly long time has passed. If what you say is true, many years have really passed...”
+I had nothing to say in response, so I just listened in silence. Then the old man looked at me and asked,
 
-I had nothing to say, so I just listened until he asked me.
+“Do you realize? The truth you shared with me today was truly cruel.”
 
-“Do you know? What you told me today was a cruel truth.”
+I understand well enough.
 
-I understood well enough.
+I thought it—but didn’t say it aloud.
 
-I thought so, but didn’t say it aloud.
+Because, in truth, I couldn’t possibly understand enough. Hearing his story only deepened that feeling.
 
-I couldn’t truly understand it yet. Hearing his story only deepened those thoughts.
+“But…”
 
-“But...”
+The vampire spoke again.
 
-The vampire said.
+“Still, I thank you. For telling me honestly”
 
-“Still, thank you. For speaking honestly.”
+“…”
 
-“...”
+“Because of you, I won’t be chasing empty dreams.”
 
-“Thanks to you, I won’t have to dream vain dreams anymore.”
-
-It was a very strange feeling.
+It was an incredibly strange feeling.

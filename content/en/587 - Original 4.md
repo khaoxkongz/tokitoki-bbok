@@ -1,459 +1,418 @@
 # Original 4
 
-The space I entered through the portal next to the troll statue didn’t take long to identify.
+I stepped through the portal that had appeared beside the Troll statue and entered a new space.
+CollectingMythology Books
 
-The cold seeping through my shoe soles.
 
-Walls of ice reflecting a white light like transparent glass.
+It didn’t take long to figure out where I was.
 
-‘...It’s the glacier cave.’
+The cold seeping through the soles of my shoes.
 
-The place where I met Bear Uncle and killed Xensia, the player from Noir Ark.
+The icy walls reflected white light like transparent glass.
 
-But there was no nostalgia—those feelings had already come rushing when I entered to hunt the Tyrant Tarunbas earlier.
+‘…The glacier cave.’
 
-‘Anyway, this must be the first floor crack...’
+The place where I met Mr. Bear and killed Jencia, a player from Noark.
 
-Thanks to that, the sample size increased.
+However, I didn’t feel nostalgic.
 
-Just as the hidden boss Cambermier Duke appeared with an extremely rare chance in the Blood-Red Fortress crack,
+After all, I had already experienced those emotions when I came here earlier to hunt the Tyrant Tarunbas.
 
-some cracks might have hidden bosses.
+So, that means this must be a rift located on the first floor…
 
-The guardian troll I’m about to face now is likely one of those cases.
+Because of this, I now had another piece of supporting evidence.
 
-“Let’s see its face first, then think.”
+Just like how the hidden boss Duke Cambormere would occasionally spawn in the Blood Tinted Castle under extreme conditions, some rifts may have hidden bosses.
 
-After stopping quietly at the start point to gather my thoughts, I moved forward through the passage.
+The guardian troll I have to take down now likely falls into that category, too.
 
-Soon, the narrow path opened into a huge cavern.
+“Let’s face him first and then think.”
 
-No troll in sight yet.
+After standing at the entrance to gather my thoughts, I moved forward, passing through the corridor. Soon, the narrow path widened, revealing a massive cave.
 
-‘As expected... the boss rooms are a bit different.’
+Though for now, there was no troll in sight.
 
-Before the boss appears, I quickly scanned the surrounding terrain with my eyes.
+‘As expected… the boss room is a bit different too.’
 
-Like how the Blood-Red Fortress had a coffin instead of a death knight where Cambermier appeared.
+Before the boss appeared, I quickly surveyed the terrain.
 
-There were changes here, too.
+Just like how, instead of a death knight, there was a coffin in Cambormere’s fortress—
 
-Three ice orc brothers trapped in ice pillars.
+There were some changes here as well.
 
-The lack of these appetizer-like foes before the boss was also true for the Tyrant Tarunbas...
+The three Ice Orc brothers, who were usually frozen inside ice pillars before the boss battle, were nowhere to be seen.
 
-‘What happened here?’
+It was the same as when I fought in Tarunbas’s portal.
 
-The frozen cavern was filled with corpses.
+‘…What the hell happened here?’
 
-Bodies torn apart, crushed beyond recognition, stacked like mountains.
+The frozen chamber was filled with corpses.
+FindingGrief Counseling
 
-But it wasn’t hard to tell they were Empire soldiers.
 
-Thanks to the emblem on bloodstained, discolored flags.
+Bodies torn apart, limbs shredded, faces unrecognizable—piled up like a mountain.
 
-The same emblem I saw in the doppelganger’s forest and the cave where I fought Captain Dreadpier.
+However, it wasn’t hard to tell that these were “Imperial soldiers.”
 
-‘The Empire army gets everywhere.’
+The insignia on the bloodstained, discolored flags gave it away.
 
-Like England on Earth, maybe?
+The same emblem I had seen in the Doppelganger’s Forest and the cave where I fought the Captain Dreadfear.
 
-Besides Empire corpses, there were monster bodies.
+‘The Imperial Army really gets involved everywhere.’
 
-Ice orcs, frost wolves, yetis, and more.
+Are they like the British of this world or something?
 
-Monsters native to the glacier cave, and some unrelated specimens scattered about...
+Anyway, aside from the Imperial soldiers’ corpses, there were also monster carcasses in the cave.
 
-‘Isn’t that Tarunbas...?’
+Ice Orcs, Frost Wolves, Yetis—
 
-I found a corpse suspected to be Tyrant Tarunbas, original guardian of the glacier cave.
+Monsters that typically appear in the glacier cave, as well as completely unrelated creatures, were scattered around.
 
-His usual club was missing.
+‘Wait, is that Tarunbas…?’
 
-Creak, creak.
+I even spotted the corpse of Tyrant Tarunbas, the original guardian of the glacier cave.
 
-What’s that sound?
+But I couldn’t see the club he usually carried, though—
 
-After briefly looking around at the unnatural noise breaking the silence, I soon found the source.
+Crunch, crunch.
 
-Creak, creak.
+What the? Where’s it coming from?
 
-A particularly large corpse pile at the cavern’s center was shaking.
+Amid the silence, the strange noise made me glance around. Soon, I found the source.
 
-Listening carefully, I heard noises from within.
+Crunch, crunch.
 
-gulp—
+An unusually large pile of corpses at the center of the cave was wobbling.
 
-This time, a swallowing sound.
+Focusing on the sound, I realized it was coming from inside the pile.
 
-Curious, I approached.
+Gulp—
 
-[Aaaaaaargh—!]
+This time, it sounded like something being swallowed.
 
-Something buried beneath the corpse pile screamed and rose.
+Just as I cautiously approached, wondering what was happening—
 
-Over five meters tall.
+[Grrraaaaah—!]
 
-Fierce, protruding fangs.
+Something buried beneath the pile of corpses let out a furious roar and stood up.
+***
+FindingGrief Counseling
 
-Aside from being much bigger than a normal troll, it had all the troll traits.
 
-‘Well, the skin’s black, though...’
+A body over 5 meters tall.
 
-I’m a K-Barbarian who lived in modern times where saying anything about skin color can get you labeled racist.
+Fierce, oversized fangs protruding from its mouth.
 
-So I focused more on other things.
+Aside from its massive size, it had all the traits of a troll.
 
-‘It’s holding a club, too.’
+‘Well, the black skin is a bit different…’
 
-With one hand, it was crunching on a human arm like a snack.
+As a K-barbarian who lived in the modern era, where even mentioning skin color could get you labeled a racist—
 
-In the other hand was a club.
+I focused on its other features instead.
 
-Originally carried by Tyrant Tarunbas.
+‘It’s holding a club too.’
 
-Oh, and it has an official name.
+While munching on a human arm like a snack with one hand, the troll held a club in the other.
 
-No. 9712 ‘Snowfield Club.’
+The same club Tyrant Tarunbas used to wield.
 
-As a rather low-tier item, it’s a blunt weapon with a simple effect: adding cold damage to normal attacks.
+Oh, and by the way, it has an official name.
 
-Kuuung—!
+No. 9712, ‘Club of the Snowfield.’
 
-After gulping down its “snack,” the creature took a threatening step toward me.
+As a high-numbered blunt weapon, it simply added frost damage to its normal attacks.
 
-Still, I calmly tried to talk.
+Thud—!
 
-“I am Bjorn, son of Yandel.”
+After swallowing its ‘snack’ in one gulp, the troll took a threatening step toward me.
 
-Kuuung—!
+However, I calmly tried to communicate with it.
 
-When I spoke to show no hostile intent, it stopped.
+“I am Bjorn, son of Jandel.”
 
-It looked down at me, tilting its head.
+Thud—!
 
-[Grrr...?]
+Hearing my words, the troll stopped in its tracks.
 
-Could it be that this time it understands?
+It tilted its head and stared down at me.
 
-That hope was shattered within a second.
+[Grrr…?]
 
-[Aaaaaaargh—!]
+Wait—could it actually talk?
 
-Just naming myself made the troll roar and charge.
+But that hope was crushed in a second.
 
-The bigger the hope, ◆ Nоvеlіgһt ◆ (Only on Nоvеlіgһt) the bigger the disappointment.
+[Grrraaaaah—!]
 
-“Hah...”
+For some reason, upon hearing my name, it let out a vicious roar and charged at me.
 
-So it really doesn’t understand.
+I sighed in disappointment.
 
-I had suspected that after seeing it gnaw on human limbs...
+“Ha…”
 
-Well, it’s too early to give up.
+Guess talking was out of the question.
 
-Whooosh—!
+I had a feeling when I saw it chomping on human limbs…
 
-Dodging its swinging club nimbly, I tried to talk again.
+Still, I wasn’t ready to give up.
 
-Just in case, this time in the ancient tongue.
+Whoosh—!
+
+Dodging its swing, I tried again, this time in Ancient Tongue.
 
 [Calm down. I don’t want to fight you.]
 
-[...]
+[…]
 
-[My name is Bjorn, son of Yandel—.]
+[My name is Bjorn, son of Jandel—]
 
-[Aaaaaaargh—!]
+[GRAAAAAAAH!]
 
-Damn.
+Dammit.
 
 That didn’t work either?
 
-At this point, there weren’t many options left...
+I was running out of options…
 
-“Aaaaaaargh—!”
+“Grrraaaaah—!”
 
-I even tried speaking in its language, but still no communication.
+I even tried speaking in its own language, but communication still failed.
 
-So I pulled out my last resort.
+So, I resorted to my last resort.
 
-Since Lapdonia and the ancient tongue didn’t work, nor its own language,
+If neither Raphdonia’s language, Ancient Language, nor its own words worked, only one thing was left:
 
-I had no choice but to attempt a physical conversation.
+A conversation through force.
 
-Bam—!
+Wham—!
 
-I hammered the jaw of the charging beast with my hammer.
+I smashed my hammer into the troll’s jaw as it charged mindlessly at me.
 
-People with anger control issues are easy to find in modern times, after all.
+In the modern world, people with anger management issues were common. So I figured, if I showed the power difference between us maybe it would regain its senses.
 
-Like them, I hoped that showing a clear power difference would calm it down.
+But…
 
-But...
+‘Guess it’s not going to work either.’
 
-‘Not exactly a petitioner.’
+I didn’t even use [Swing], worried it might die in one hit, but the troll only grew angrier and attacked even more fiercely.
 
-I didn’t use [Swing] fearing a one-shot kill, but it only got angrier and charged again.
+Its behavior was no different from that of ordinary monsters, which remain aggressive until their life force is extinguished.
 
-Just like ordinary monsters showing aggression until their life flame extinguishes.
+‘Okay, forget the communication plan.’
 
-‘Okay, then I’ll give up on talking.’
+I gave up on my main goal and focused on my secondary objective—
 
-Judging the main goal impossible, I focused on a sub-goal.
+To gather information on this thing.
 
-Gathering information about this guy...
+Whoosh—!
 
-Whooosh—!
+Just then, the troll’s club tore through the air with a sharp sound.
 
-The club sliced through the air with a tearing sound.
+There were no flashy effects—no glowing weapons or lightning bursting forth.
 
-No flashy effects like glowing weapons or lightning bursts.
+But even so—
 
-But precisely because of that, I recognized instantly.
+No, precisely because of that, I recognized it instantly.
 
-‘...[Swing]?’
+‘…[Swing]?’
 
-The troll used [Swing].
+The troll had just used [Swing].
 
-Surprising, but my mind calmly deduced the cause.
+Though it was confusing, I calmly deduced the reason behind this phenomenon.
 
-‘A high-level mutant...’
+‘A Mutated variant…’
 
-Glacier cave trolls are high-level mutants.
+The troll in the glacier cave is a mutated variant.
 
-They use essence from other creatures.
+That’s why it can use the essence of other species.
 
-Just like Vampire Cambermier used Nightfla’s [Pain Sharing],
-
-this guy can use Ogre skills.
+Just like how Vampire Cambormerr could use Nightflayer’s [Pain Sharing], this guy can use an Ogre’s skill.
 
 But that’s not the important part.
 
-‘...Wow, it really exists.’
+‘…Wow, it really exists.’
 
-A curiosity I’d had for a long time.
+This was something I’d been curious about for a long time.
 
-What would a monster with both an ogre’s power and a troll’s regeneration be like?
+What would a monster with an Ogre’s strength and a Troll’s regeneration feel like?
 
-Now that imagined monster was real.
+Now, that imaginary monster had become reality.
 
-But...
+But…
 
-‘It’s underwhelming.’
+‘It’s not as impressive as I thought.’
 
-If the ogre possessed troll essence, that’d be different.
+If it were the other way around—an Ogre with a Troll’s essence—it might have been different.
 
-This opposite case was surprisingly bland.
+But right now, the Troll variant felt underwhelming.
 
-Well, maybe I’ve just gotten too strong?
+Well, to be precise, maybe I’ve just gotten too strong?
 
-If I had met this guy instead of Cambermier on the first crack, Bjorn Yandel’s journey would have ended that day.
+If I had encountered this guy instead of Cambormere in my first rift, Bjorn Jandel’s journey would have ended that very day.
 
-‘Now, let’s test things out.’
+‘Alright, time to gather some data.’
 
-I slowly dealt damage while studying its combat style.
+I began methodically dealing damage, observing the troll’s combat patterns.
 
-Collecting as much info as possible would make it easier for those who challenge later.
+The more I learned, the easier it would be for others in the future.
 
-Still, the fight ended quickly.
+Of course, the fight still ended quickly.
 
-About 30 minutes, maybe?
+About 30 minutes or so?
 
-Except the cave darkened at the end and the troll’s cooldown disappeared, there were no particular dangers.
+Aside from the chamber going dark and the troll losing its cooldowns at the end, nothing too concerning.
 
-[Corrupted Beast Kirdyu has been defeated.]
+“The character has slain the corrupted beast Kirdyu.”
 
-[High-level mutant defeat bonus. EXP +1]
+「Mutated Variant Defeat Bonus. EXP +1」
 
-[Guardian defeat bonus. EXP +3]
+「Guardian Defeat Bonus. EXP +3」
 
-Finally, when I smashed the troll’s head with my hammer, the portal opened.
+Finally after smashing the troll’s head with my hammer, a portal opened. As always, I ignored the Rainbow Essence and stepped outside.
 
-As always, I ignored the rainbow essence and went out.
+***
 
-After defeating the troll, I cleared all unidentified guardians of Grade 5 but found nothing special.
+After killing the troll, I proceeded to hunt down all the remaining unconfirmed guardians of the 5th floor, but there wasn’t much to gain.
 
-The only one who could talk was Duke Cambermier.
+Duke Cambormere was the only one I could communicate with.
 
-‘There must be... some reason...’
+‘There must be a reason for this…’
 
-No matter how much I thought, no plausible theory came.
+No matter how much I thought about it, I couldn’t come up with a plausible explanation.
 
-Why could that guy talk?
+Why was that guy the only one I could talk to?
 
-What made him different from the other guardians?
+What made him different from the other unconfirmed guardians?
 
 Just luck?
 
-I had no idea.
+No idea. But at this point, I decided to stop digging for secrets and resume the main quest.
 
-So I ended the secret digging and resumed the raid.
+I cleared the 3rd-floor rift, the White Temple.
 
-I cleared the third-floor crack, the White Temple.
+[…]
 
-[...]
+Oddly, the Knight of the Apocalypse that appeared there didn’t say a single line from the original game.
 
-Strangely, the Knight of the End who appeared in the White Temple didn’t even utter his usual in-game lines and just charged me.
+The same went for the 4th-floor rift.
 
-The same was true for the fourth-floor crack I challenged using borrowed gear.
+[You… Did you come to kill me…?]
 
-“You... Hyedo... came to kill me...?”
+The doppelganger, who should have spoken that line, said nothing and jumped straight into the boss fight.
 
-The doppelganger who should have said such a line started the boss fight without a word.
+Oh, and the battle structure was different from the original.
 
-Oh, by the way, the boss fight setup was different from the original.
+I was curious how I’d manage the trick of hitting it from inside and out while it disguised itself as one of my comrades.
 
-We had to fight inside and outside simultaneously, and I wondered how it would work solo when the doppelganger turned into a teammate.
+I was curious how that would work solo—
 
-‘Did they really make this to be beaten?’
+‘How is anyone even meant to clear this?’
 
-It fought disguised as me and used [Self Replication] to gain numbers.
+It transformed into me and used [Self-Replication] to create numerical superiority.
 
-But it wasn’t hopeless.
+Still, the situation wasn’t hopeless.
 
-The doppelganger couldn’t copy the Numbers items.
+Doppelgangers can’t copy Numbers items.
 
 Aegis Barrier.
 
-Crowl’s Demon Crusher.
+Kraul’s Demon Crusher.
 
-Two core items, plus ‘Wilderness Outlaw’—a counter to humanoid monsters.
+Along with these two core items, I also had the Outlaw of the Wilderness, which countered humanoid monsters, plus several other pieces of gear I’d borrowed before coming in.
 
-And many other borrowed gears outside.
+By utilizing them to their limits, I managed to defeat the Doppelgänger.
 
-Using all that to the extreme, I defeated the doppelganger.
+After about seven hours.
 
-About seven hours later.
+「The Character has defeated the Doppelgänger.」
 
-[Doppelganger defeated.]
+「Guardian Defeat Bonus. EXP +3」
 
-[Guardian defeat bonus. EXP +3]
+The Doppelganger’s seals, which were supposed to be locked at all costs, had been broken from the start, and I endured its [Crystallization] pattern a total of 13 times.
 
-The doppelganger’s seal that had to be broken was lifted earlier, and I saw the [Crystallize] pattern 13 times in that state.
+But with my full setup, none of them could deal real damage to me.
 
-No matter how many multiplied, my full build prevented damage from ever landing.
+‘God, I almost died.’
 
-‘Damn... I thought I was done for.’
+After escaping, I shared the full battle details with everyone. The fact that it took 7 hours left them speechless.
 
-I shared the battle details with everyone outside; they were speechless after hearing I fought for seven hours.
+Thankfully, no one was reckless enough to challenge it after hearing that.
 
-No one dared try the challenge, only gaped in awe.
+They simply gaped in awe.
 
-“The essence of the doppelganger... tempting, but I must give up.”
+“The Doppelgänger’s essence… It’s tempting, but I suppose I must give it up.”
 
-“This is the kind of monster no one can solo.”
+“This isn’t a monster you can take on alone.”
 
-“I’m amazed you could solo a guardian from floor 4 or higher.”
+“The fact that you soloed a fourth-floor rift guardian is incredible.
 
-“But... Baron, it seems you didn’t take the essence this time?”
+“But, Baron, it seems you didn’t take the essence this time either?”
 
-That last question was something I pondered too.
+Ah, that last question was something I had wondered about, too.
 
-Doppelganger essence is highly valuable.
+The Doppelganger’s essence had high value.
 
-Useful for almost any class.
+No matter the class, it could be quite useful.
 
-But...
+But…
 
-‘I don’t have enough slots.’
+‘I don’t have the slot.’
 
-How much stronger could I get with two bodies?
+How much stronger would I really get by becoming two of me?
 
-Plus, the clones don’t copy Numbers items.
+It’s not like my clones could replicate Numbers items.
 
-Also, [Self Replication] only synergizes if the clone has essence like Amelia’s [Dual Rule], so I gave up.
+Plus, [Self-Replication] only synergizes with essences like [Dual Reign], which Amelia had, so I decided to pass.
 
-‘I need to keep a slot free for whatever’s coming next.’
+‘I need to keep at least one slot open for whatever comes next.’
 
-Anyway, after the fierce fight with the doppelganger, I just relaxed and spent a day resting.
+Anyway, after the intense battle with the Doppelganger, I spent the rest of the day lazing around.
 
-The expedition team’s atmosphere was unusual.
+The expedition’s atmosphere was quite peculiar.
 
-“Oh! You’re back! Good to see you!”
+“Oh! You’re back! That’s a relief!”
 
-“Priest! Please look at this wound!”
+“P-Priest! Please take a look at my wounds!”
 
-The explorers chosen for the challenge went in and out of portals day and night, showing passion.
+The explorers constantly flowed in and out of portals, brimming with passion, while the knights, priests, and mages stayed back doing their own thing.
 
-Knights, priests, and mages stepped back to their tasks, killing time.
+They didn’t need EXP or essence, so it didn’t matter to them.
 
-They didn’t need experience or essence.
+The mages, with their academic curiosity, were the only ones still curious about the situation…
 
-Only mages with scholarly zeal seemed interested in the current situation.
+“The Baron will likely challenge the Golden Ruins tomorrow, yes?”
 
-“The Baron will challenge the Golden Ruins tomorrow, right?”
+“Yes, I believe so.”
 
-“Yes, that’s planned.”
+“I wonder… What lies beyond those sealed doors?”
 
-“I’m curious... what will the Golden Ruins be like? And what lies beyond that closed door?”
+The mages simply waited for my next move, paying no attention to the already cleared statues.
 
-Those mages only waited for my actions and paid no attention to the already cleared statues.
+The next day, after breakfast—
 
-The next day after rest.
+[The character has defeated the Golden Fang Kalfion.” EXP +6]
 
-[Golden Fang Calphion defeated. EXP +6.]
+「Guardian Kill Bonus: EXP +3」
 
-[Guardian defeat bonus. EXP +3.]
+I challenged the 4th-floor rift, Golden Ruins, and cleared it in about three hours.
 
-After breakfast, I challenged the 4th floor crack, the Golden Ruins, and cleared it in about three hours.
+It wasn’t as intense as the Doppelgänger.
 
-But unlike the doppelganger, it wasn’t as intense.
+That was the destiny of a tank.
 
-Just the tank’s fate.
+‘God… I need an attack skill.’
 
-‘Ah... I need some attack skills.’
+Thankfully, I had [Swing] and the Demon Crusher.
 
-[Swing] and Demon Crusher.
+Still, peeling Kalfion’s shell layer by layer took time.
 
-Thanks to these two, I managed to finish it.
+Since it wasn’t a humanoid monster, the Outlaw of the Wilderness couldn’t boost my damage either.
 
-Peeling Calphion’s shell off one by one inevitably took time.
+‘…Though I suppose I only won because I am a tank.’
 
-It wasn’t a humanoid monster, so I couldn’t boost damage with Wilderness Outlaw.
+It’s common in RPGs.
 
-‘...But I got it because I’m a tank.’
+A well-raised tank can solo bosses that others can’t.
 
-That’s common in RPGs.
-
-A well-grown tank can solo bosses others can’t, if the matchup is right.
-
-Assuming no time limit.
-
-‘So if I exclude unidentified guardians, only the 5th floor remains...’
-
-When I looked toward the 5th floor guardians, attention gathered.
-
-Mostly curious looks, but members of Anabada looked somewhat tense.
-
-“Surely... two portals opened starting from the 5th floor crack?”
-
-“That’s right. Everyone’s curious who Baron Yandel will enter with.”
-
-I looked around.
-
-“...”
-
-Expressionless Amelia and expectant Elwen.
-
-‘Does she think this is a picnic or something?’
-
-Misha looked tense, and Ainard avoided my gaze as soon as we made eye contact.
-
-He seemed more unmotivated than usual.
-
-Well, the person I’d bring was already decided.
-
-Step by step, I passed by the group and stopped before one person.
-
-“Arua Raven.”
-
-“...Yes?”
-
-She was completely surprised at being chosen, but no lengthy explanation was needed.
-
-“I need you.”
-
-Of course, the essence of a 5th floor guardian.
-
-It had to be collected in a vial.
+Ah, of course, assuming there’s no time limit.

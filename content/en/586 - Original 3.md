@@ -1,375 +1,379 @@
 # Original 3
 
-The vampire seemed just as awkward as I felt when he said thank you.
+Judging by how quickly he changed the subject, it was clear I wasn’t the only one who felt awkward after the duke’s thanks.
 
-Changing the subject like that.
+“Anyway, that’s the end of my story. But I suppose I didn’t explain much about the world back then, did I? You seemed more interested in that part anyway.”
 
-“Anyway, that’s the end of my story. Though, I don’t think I properly explained the world of that time. You seemed more interested in that side of things.”
+He wasn’t wrong.
 
-He was right.
+But as the story went on, I found myself so immersed in it that I didn’t have the time to think about other things.
 
-But as the story went on, I was too absorbed listening to his tale to pay attention to anything else.
+“If there’s anything you’re curious about, go ahead and ask. If I know the answer, I’ll tell you everything without holding back.”
 
-“If you have any questions, even now, ask away. I’ll tell you everything I know without holding back.”
+And so, a Q&A session began.
 
-So finally, question time began.
+While his story was fascinating in itself, what I was most curious about was the world of that era.
 
-His story was interesting, but what I was most curious about was the worldview of that era.
+“Duke, do you know the identity of the Witch?”
 
-“Duke, do you know who the witches really are?”
+“Not exactly. I know she’s a woman… but beyond that, she’s a figure shrouded in mystery. However, her followers believe that one day, upon death, they can reach the Land of Dawn.”
 
-“I don’t know much. I only know they’re women... everything else is shrouded in mystery. But the pilgrims who follow the witches believe that someday, after death, they will go to the Land of Dawn.”
+“…Land of Dawn?”
 
-“...The Land of Dawn?”
+“A land without suffering, anguish, or discrimination—where all are equal and free. A land where one can go wherever they desire.”
 
-“A place without worries, pain, or discrimination, where all are equal and free. A land where you can go anywhere you wish.”
+“……”
 
-“...”
+“That’s what her followers say. So before hearing your story, I half-expected this place to be it. I thought my prayers had been answered before death.”
 
-“The pilgrims say that. Before hearing your story, I hoped this place might be that land. I thought maybe my prayers had been answered before I died.”
+“I see…”
 
-“Is that so...”
+I didn’t bother mentioning that the 8th floor of the labyrinth was also called the “Land of Dawn. It was just the same name, but clearly a different place.
 
-I didn’t mention that the 8th floor of the Labyrinth is called the ‘Land of Dawn.’
+“Anyway, returning to the original topic… The Empire claimed that if the Witch wasn’t destroyed, the world would end… but I never believed that.”
 
-It’s just the same name for a completely different place.
+“Why not?”
 
-“Anyway, back to the original story... The Empire cried out that if the witches weren’t destroyed, the world would perish... but I didn’t believe it.”
+“Because the Empire had a similar history. You wouldn’t know this, but in ancient times, there were five gods. However, two religions were wiped out by the Empire for political reasons. I heard a great deal of blood was shed back then too.”
 
-“Why didn’t you believe that?”
+An ancient man speaking about ancient history.
 
-“The Empire has a history like that. You probably don’t know, but in ancient times, there were five gods. Two religions were erased from the world by the Empire for political reasons. I’ve heard a lot of blood was shed then.”
+But he didn’t seem to know much about the five gods either, so I moved on.
 
-From my perspective, hearing an ancient person talk about ancient history.
+“What kind of place was the Empire?”
 
-But since he didn’t seem to know much about the five gods, I moved on.
+“That’s hard to answer…”
 
-“What kind of place is the Empire?”
+“Anything is fine. Just tell me whatever comes to mind.”
 
-“That’s a hard question to answer.”
+After that, I learned about the ancient Empire’s influence, culture, and tendencies.
 
-“Anything is fine. Just tell me whatever you remember.”
+A massive nation that held a third of the continent, and even the remaining two-thirds were under its direct or indirect influence.
 
-Then I learned about the ancient Empire’s influence, culture, and nature.
+That much was enough to know, for now…
 
-It controlled one-third of the continent’s land and influenced another third directly or indirectly.
+“Do you know of a place called Raphdonia Castle or its domain?”
 
-That’s probably enough to know for now...
+“Raphdonia… You mean the city you live in? Unfortunately, this is the first time I’ve heard that name.”
 
-“Do you know of Lapdonia Castle or its territories?”
+So he doesn’t know.
 
-“Lapdonia? You mean the city where you live? Sadly, it’s the first time I’ve heard that name from you.”
+A bit disappointing, but I hid my feelings and moved on without hesitation.
 
-So he didn’t know that.
+“Did monsters exist in your time?”
 
-A bit disappointing, but I kept my composure and moved on.
+“Of course. Goblins, yetis, ogres… Countless monsters lived across the continent. Though, they seem a bit different from what you described.”
 
-“Did monsters exist in your era?”
+“Different…?
 
-“Of course. Goblins, Yetis, Ogres... many monsters lived across the continent. Though they differed somewhat from the ones you told me about.”
+“For starters, there were no ‘essences’ or ‘magic stones’ like you mentioned. And most of them were intelligent. Goblins and kobolds lived in villages in forests and mountains, and sometimes interacted with humans.”
 
-“Differed...?”
+He even said that orcs were seen as a powerful race.
 
-“For starters, neither the ‘essence’ nor the ‘magic stones’ you mentioned existed then. And most had intelligence. Goblins and kobolds formed villages in forests or mountains and sometimes interacted with humans.”
+“What about elves and dwarves? And Dragon Triber? What was their standing on the continent?”
 
-Apparently, orcs were considered a whole faction back then...
+At my sudden burst of curiosity, Mr. Vampire tilted his head as if confused.
 
-“What about elves and dwarves? And the dragonkin? What status did they have on this continent?”
+“…Fairies and dwarves? Aren’t they just the stuff of fiction?”
 
-Curious, I asked, but he looked puzzled as if I said something absurd.
+“…Huh?”
 
-“Elves and dwarves? Aren’t those creatures only in stories and myths?”
+What kind of nonsense was this?
 
-“...Huh?”
+For a moment, my mind went blank, but his face and voice were completely serious.
 
-What was that?
+“Duke… What race do you think I am?”
 
-My mind went blank for a moment, but there was no trace of jest in his expression or voice.
+I asked cautiously, and through his answer, I realized one thing.
 
-“Duke... what kind of race do you think I am?”
+In the ancient age before the world’s destruction…
 
-I cautiously asked, and through his answer, I realized something.
+Monsters existed back then too.
 
-In the ancient era before the world’s destruction,
+But…
 
-monsters did exist.
+“…Aren’t you obviously human?”
 
-But...
+Other races didn’t exist.
 
-“...Obviously, humans.”
+***
 
-There were no other races.
+Humans, Beast tribe, Elves, Dwarves, Dragon tribe, Barbarians.
 
-Humans, beastmen, elves, dwarves, dragonkin, barbarians.
+The six races that make up the final stronghold of Raphdonia.
 
-The six races making up the last fortress Lapdonia.
+But the Duke was now claiming…
 
-But the duke said now,
+“In that era, only humans existed?”
 
-“There were only humans in those days...?”
+Barbarians lived in the harsh northern and southern lands, fighting monsters to survive.
 
-Barbarians lived in the northern and southern wildlands fighting monsters.
+Dwarves built underground cities and maintained their own nations, while the forests inhabited by elves were protected from monsters by guardian trees.
 
-Dwarves built underground cities and had their own states.
+Beast Tribe had already been living mixed among humans since that time.
 
-The forests where elves lived were safe thanks to guardian trees protecting them from monsters.
+As for the Dragon Tribe, there were too few records to know much.
 
-Beastmen lived mixed with humans from that era.
+And just before the world’s destruction, these races headed to Raphdonia, the last stronghold.
 
-Records about dragonkin were scarce and hard to find.
+The lord, who needed their strength, granted them significant concessions and recognized their unique territories.
 
-Those other races, just before the world’s end, fled to Lapdonia, the last bastion.
+These became known as the Sanctuaries.
 
-The lord, needing their strength, gave them respect and recognized their own domains — the holy lands.
+‘…This doesn’t make sense.’
 
-‘...It doesn’t make sense.’
+Even now, remnants of their cultures and traditions were preserved and passed down in the sanctuaries.
 
-The holy lands still preserve culture and tradition from that era.
+Barbarians still practiced communal child-rearing, and daughters took their mother’s name as their surname, while sons took their father’s.
 
-Barbarians still follow communal child-rearing, using the mother’s name as surname for daughters and the father’s name for sons.
+‘Spirit Engraving’ was also an ancient secret art passed down through generations.
 
-The ‘Spirit Imprint’ is said to be an ancient secret technique passed down from then.
+But, there were no barbarians in ancient times.
 
-But no barbarians existed in the ancient times?
+‘Could it be that his world and ours were different?’
 
-‘Maybe our world and that world were different?’
+The possibility of parallel worlds suddenly crossed my mind.
 
-The thought crossed my mind — like parallel worlds you see in movies or comics.
+You know, like in movies or comics.
 
-Maybe that’s the case.
+Maybe this was one of those cases.
 
-Nothing is certain, though.
+Well, nothing was certain yet.
 
-“I was a bit surprised by your size. Are you not human?”
+“I did find your physique a bit unusual… Are you not human?”
 
-“...By our world’s classification, no.”
+“By our world’s classification, no.”
 
-I went on to explain the six races, then discussed the mystery with the duke.
+I went on to explain the six races of our world, and then I discussed the strange contradiction with the duke.
 
-Unfortunately, no significant breakthroughs were made.
+Unfortunately, we didn’t reach any clear conclusions.
 
-So I kept asking, trying to gather as much ancient information as possible.
+So I continued asking questions, gathering as much information as I could about the ancient era.
 
-I would have liked to talk all day, but as always, everything has an end.
+I would’ve loved to talk all day, but as always, everything has an end.
 
-“...It was enjoyable after a long time, but I think we should end the story here.”
+“…It’s been a long time since I enjoyed myself like this, but I think it’s time to wrap things up.”
 
-“...?”
+“…?”
 
-“Actually... my madness has flared up again.”
+“Actually… My madness has been creeping back for a while now.”
 
-Only then did I notice his eyes were unusual.
+Only then did I notice that Mr. Vampire’s eyes looked unusual.
 
-The whites were bloodshot, and veins bulged on his forehead and neck.
+The whites of his eyes were bloodshot, with veins bulging across his forehead and neck.
 
-In that state, the duke calmly said to me,
+Even in that state, the Duke calmly said to me:
 
-“This is the end.”
+“Put an end to me.”
 
-“...”
+“……”
 
-“While I still am myself.”
+“While I can still be myself.”
 
-“...”
+“Haaah…”
 
-I exhaled deeply, calming my breath.
+I took a deep breath.
 
 My heart felt heavy.
 
-Not because I couldn’t get more information.
+It wasn’t because I couldn’t gather more information, but for a different reason.
 
-But for a different reason.
-
-‘It would have been easier if he’d lost his mind and attacked...’
+‘If only he had gone mad from the beginning, it would’ve been easier…’
 
 Of course, I had no intention of refusing his request.
 
 I raised my hammer.
 
-“Just so you know, I don’t know how to kill nicely.”
+“Just so you know, I don’t know any ‘pretty’ ways to kill.”
 
-“You don’t have to. I can tell.”
+“That much is obvious.”
 
-He chuckled softly and quietly closed his eyes.
+He chuckled softly, then closed his eyes.
 
-Then, as if he suddenly remembered something,
+But as if remembering something, he spoke again.
 
-“Ah, one last thing I want to tell you.”
+“Ah, one last thing for you.”
 
 “Go ahead.”
 
-“Since you told me about meeting me in the Labyrinth, some faint memories have come back. It’s not only your memory.”
+“Ever since you mentioned meeting me in the labyrinth, vague memories have been surfacing. These aren’t just your memories.”
 
 His closed eyes opened again.
 
-“I don’t know well... but there, I was always losing control and fighting. Probably with the explorers you mentioned...”
+“I don’t know for sure… but in that place, I was always fighting in a frenzy. Likely against those you called ‘explorers’…”
 
-His bloodshot eyes gazed into empty space, as if seeing something invisible.
+His bloodshot eyes stared into empty space, as if seeing something invisible.
 
-“This is only a guess... but maybe I’ve been here all that time, summoned whenever there was a fight with them...”
+“This is just speculation… but perhaps I’ve been lingering here all this time, summoned whenever there was a need to fight them…”
 
-“That’s... quite plausible.”
+“That’s… a plausible theory.”
 
-“How about it? Is it helpful?”
+“Do you think that helps you in any way?”
 
-Without hesitation, I answered,
+I answered without hesitation.
 
-“Definitely.”
+“It helps a lot.”
 
-What he told me included information about the guardian statue hidden on basement level one and the secrets of the cracks.
+What he revealed was another step toward uncovering the secrets of the guardian statues hidden on Basement Floor 1, and it brought me closer to the truth behind the rift.
 
-That will help in the journey ahead.
+This would aid our future journey.
 
-“Good...”
+“Good… That’s good…”
 
-As if he had nothing more to say, he closed his eyes again and quietly muttered,
+As if he had nothing left to say, the uncle closed his eyes again and murmured quietly.
 
-“Am I real or fake...”
+“Am I real… or a fake?”
 
-A murmur as if talking to himself.
+A whisper, like talking to himself.
 
-“When this heart stops, where do I go?”
+“Once this heart stops… where will I go?”
 
-I did not answer.
+I didn’t answer.
 
-Only thought to myself.
+I just thought to myself.
 
-The place he goes after death is neither the afterlife described by the Tri-God Church nor the Land of Dawn spoken of by the pilgrims.
+The place he would go after death wouldn’t be the afterlife of the Three Gods Church or the Land of Dawn that the witch’s followers spoke of.
 
-He will be reborn again, forget today’s memories, and repeat the same things over endless ages.
+He would revive again, forgetting today’s memories, repeating the same things for countless ages.
 
-But...
+But…
 
-“Enough. Wherever it is doesn’t matter.”
+“It doesn’t matter. Anywhere is fine.”
 
-“...”
+“……”
 
-“If I can at least lessen my sins a little.”
+“As long as it lessens my sins even slightly.”
 
-Then, in a voice so calm it was eerie, he said,
+Then, he spoke.
 
-“This is the end.”
+In a voice that sounded eerily peaceful.
 
-The moment he announced his readiness, I brought down the hammer.
+“End it now.”
 
-Though crude, I poured all my strength into ensuring no pain.
+At his signal, I brought my hammer down.
 
-Fwoooosh!
+Crudely, but painlessly, with all my might.
 
-The hammer struck the heart I had barely reached before with the [Exploding Flesh] spell several hundred times.
+Whoooosh—!
 
-Crash!
+The hammer struck the heart I had once barely managed to reach, even after using dozens of Flesh Explosions.
 
-The eerie sound echoed through the empty chamber, scattering beams of light.
+CRACK—!
 
-A rainbow-colored essence rose as well.
+Though I had heard it countless times before, the sound of light dispersing in the stone room sent an unexpected chill down my spine.
 
-I had seen this countless times as an explorer, but could only watch silently.
+A rainbow-colored essence floated into the air.
 
-Whooaaaahhh!
+I had seen this countless times as an explorer, but now, I simply watched in silence.
 
-Until the light beams woven in the air vanished.
+SHWAAAAAAAA—!
 
-When I came out through the portal, the outside was complete chaos.
+Until the last beam of light in the air faded.
 
-After all, the vampire had taken so long that everyone was worried sick.
+***
 
-“Mister...!”
+When I stepped out through the portal, there was total chaos.
 
-“Yandel...! What happened inside? No, whatever happened doesn’t matter. You’re now excluded from the raid...”
+Of course I had gone to kill one vampire, and I didn’t return, no matter how long they waited.
 
-“Are you hurt? Are you hurt anywhere?”
+“Mister…!”
 
-Even Amelia spoke strangely about excluding me from the raid...
+“Jandel…! What happened in there? No, whatever happened, you’re now excluded from going in there—”
 
-But the lucky thing was no one reacted like I was some dead person returned.
+“Are you hurt? Are you hurt, nya?”
 
-They confirmed survival by seeing the portal wouldn’t open again?
+Amelia even said something weird about banning me from going in…
 
-“3 hours 21 minutes...”
+But thankfully, not everyone reacted like I had returned from the dead.
 
-Of course, even in that chaos, the record mage was diligently recording.
+Maybe they confirmed I was alive by checking the portal wasn’t reopening?
 
-“Everyone, move aside. Enough worrying. It wasn’t dangerous from the start.”
+“3 hours and 21 minutes…”
 
-“Then why were you so late coming out?”
+Ah, and even amidst the chaos, the record mage was dutifully keeping track.
 
-Raven, in charge of the guardian special training, approached with a sharp tone.
+“Everyone, stand back. That’s enough worrying. It wasn’t even that dangerous to begin with.”
 
-I was about to explain before she pushed.
+“Then why did it take you so long to come out?”
 
-“There was a guardian inside with intelligence. So I had a long conversation trying to understand it.”
+Raven, who was in charge of the Guardian rift’s special lecture, came forward and snapped at me.
 
-“...A guardian with intelligence?”
+Hey, I was going to explain anyway.
 
-“Yes. Though he went mad at the end, that was how it was at first.”
+“The guardian I met inside had intelligence. That’s why I spent so long talking and gathering information.”
 
-I didn’t go into details but openly told everyone about talking with the vampire.
+“…The guardian had intelligence?”
 
-I couldn’t keep that secret and conduct experiments.
+“Yeah. Though, in the end, the madness took over. Initially, though, yes.”
 
-“In that sense, I have a request for those who enter next...”
+I didn’t go into details, but I openly shared everything about my conversation Mr. Vampire.
 
-I instructed the newcomers to try talking as much as possible.
+There’s no point in keeping it a secret, we couldn’t experiment otherwise.
 
-But...
+“With that in mind, I have a request for those entering next…”
 
-“Yandel, none of that happened to me.”
+I instructed the next entrants to attempt communication, just in case.
 
-“Same here. The moment I entered, murderous intent rose and they attacked.”
+But…
 
-“I, I didn’t get to talk...!”
+“Jandel, nothing like that happened to me.”
 
-Amelia, Elwen, Misha.
+“…Me neither. He attacked the moment we stepped in, full of killing intent.”
 
-None of them, nor anyone else who entered later, experienced anything like I did.
+“I-I didn’t even get the chance to speak…!”
 
-So the question grew bigger.
+Amelia, Erwin, Misha.
+
+None of them, nor anyone else who went in afterward, experienced what I did.
+
+Which only raised more questions.
 
 ‘What was different?’
 
-Why could Duke Cambermier keep his sanity in front {N•o•v•e•l•i•g•h•t} of me?
+Why was the Duke of Cambormere able to stay sane in front of me?
 
-And why did the other guardians behave the same?
+And why were the other guardians all the same?
 
-Like his final guess.
+Like what he said in the end—
 
-[Maybe I’ve been here all that time, summoned whenever there was a fight with them.]
+[Perhaps I’ve been lingering here all this time, summoned whenever there was a need to fight them…]
 
-If these are the originals, and the space we found on basement level one is some sort of storage, why don’t similar phenomena happen with the other guardians?
+If these statues were originals, and this underground space was some kind of storage for them…
 
-I had no answers.
+Why didn’t the same phenomenon happen with the others?
 
-The more I thought, the more questions grew.
+I had no idea.
 
-So I decided to collect more samples.
+The more I thought about it, the more confused I became.
 
-“Yandel, are you going to catch that thing now?”
+So I decided to gather more data first.
 
-“I need to confirm something.”
+“Jandel, are you trying to go after that one now?”
 
-“...You can do it later.”
+“Yeah, there’s something I need to check.”
 
-Amelia worried when I said I’d clear the unknown statues that might be guardians of some crack, but I didn’t change my mind.
+“…You could save that for last.”
 
-“Don’t worry. After all, they’re just Grade 5 monsters. It won’t be dangerous.”
+When I set out to clear the unknown stone statues—monsters whose floor of origin we didn’t even know—Amelia expressed her concern for me. But I had no intention of backing down.
 
-With that, I reached out to the troll statue.
+“Don’t worry. It’s just a Level 5 monster, isn’t it? Nothing dangerous.”
 
-I felt strange somehow.
+With that, I reached out and touched the troll statue.
 
-‘Guardian troll, huh...’
+For some reason, I felt strangely unsettled.
 
-I would have been curious to see the rainbow-colored troll essence before.
+A guardian troll, huh…
 
-But now I wondered about something else first.
+Normally, I would’ve been burning with curiosity over whether I’d get to see a rainbow-colored troll essence.
 
-What story did this guy have?
+But now, my thoughts were drifting in a different direction.
 
-What would happen to him when I reach the Abyssal Gate?
+I was more curious about what kind of story this one might have.
 
-Would he find rest then?
+What would happen to him if he reached the Abyss Gate?
 
-“...”
+Would he finally find peace then?
 
-I couldn’t help but keep thinking.
+“……”
+
+Before I knew it, I was lost in thought again.

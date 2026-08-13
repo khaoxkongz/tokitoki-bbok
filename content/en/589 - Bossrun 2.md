@@ -1,461 +1,462 @@
 # Bossrun 2
 
-Amelia Rainwales.
+Amelia Rainwhales.
 
-An elite talent capable of using Aura and even possessing the ‘Guide’ aptitude.
+A highly talented individual who can use aura and is a competent guide.
 
-Her class is...
+Her class is…
 
-‘Probably something like a Clone Rogue.’
+“Probably something like a Clone Thief.”
 
-Anyway, her current level is 8, and she has one empty essence slot. Originally it was full, but she removed one just before descending to the basement first floor.
+Anyway, she is currently at level 8, and has one empty Essence slot. It was originally full, but she erased one right before coming down to the first basement floor.
 
 [Affinity]
 
-An essence of the grade 5 monster Caprabara, granting a passive that prevents monsters from attacking first.
+The Essence of the Rank-5 monster Kaprabara with a passive that prevents the monsters from initiating combat first.
 
-It was quite useful when she moved alone, but now that she travels with us, it was an unnecessary essence.
+It would have been quite useful when she was moving alone, but now that she’s with us, it’s an unnecessary Essence.
 
-Well, there was another essence with a similar effect.
+Well, there was another Essence with a similar effect, but…
 
-“Emily, when we return to the city, remove the Essence of Esgen as well.”
+“Emily, erase Esgen’s Essence too when we get back to the city.”
 
-“Essence of Esgen...?”
+“Esgen’s Essence…?”
 
-“Why the surprised look? Like I said before, the days of going solo are over.”
+“What’s with that surprised face? Like I said before, your solo days are over now.”
 
-“...I’ll think about it.”
+“…I’ll think about it.”
 
-Thinking about it...
+What do you mean, I’ll think about it.
 
-With the [Source of Immortality], even if you bring a priest, you won’t get a proper heal.
+With her [Source of Immortality], even if we bring a priest, she can’t receive a proper healing.
 
-‘Why is she so reluctant to remove it?’
+‘Why is she so reluctant to erase it?’
 
-If you have companions, the Essence of Esgen can easily be substituted with potions or other things.
+If you have companions, Esgen’s Essence can easily be replaced with potions or other items.
 
-But why is she so fixated on this essence?
+But why is she so fixated on this Essence?
 
-‘...Maybe she still doesn’t fully trust us?’
+‘…Does she still not fully trust us?’
 
-Hmm, that might be the case.
+Hmm, maybe that’s it.
 
-She must have overcome several near-death situations using that skill while alone.
+She probably survived several life-or-death situations using that skill when she was alone.
+CareerResources & Planning
 
-She probably needs more time to adapt.
 
-“...Fine, think about it. After all, we haven’t really accepted a priest into our clan yet.”
+She probably needs more time to adjust.
 
-We decided to persuade her ❖ Nоvеl𝚒ght ❖ (Exclusive on Nоvеl𝚒ght) gradually and ended the conversation.
+“Fine, think about it. It’s not like we have a priest in our clan yet anyway.”
 
-Just as we were about to shift the topic to the boss...
+I ended the conversation, deciding to persuade her gradually on this issue.
 
-“So... it seems things were resolved well?”
+Just as I was about to move on to talk about the boss—
 
-Amelia suddenly said.
+“Looks like… things worked out, huh?”
 
-When I gave her a questioning look, she cleared her throat and spoke quietly.
+Amelia suddenly threw out a random comment.
 
-“About Misha Kalstein.”
+When I looked at her, asking what she meant, she coughed awkwardly and continued in a small voice,
 
-Ah, that was what she meant.
+“With Misha Karlstein, I mean.”
 
-Well, since I hadn’t explained properly afterwards, she must have been curious about my situation.
+Ah, so that’s what she was talking about.
 
-“Thanks to that, it was resolved well. We confirmed there’s nothing left to hide—”
+Come to think of it, I hadn’t really updated her since then. She must’ve been curious about what happened.
 
-“...A confession.”
+“Thanks to you, it was resolved well. I confirmed that she’s hiding nothing—”
 
-“...Huh?”
+“…You got confessed to.”
 
-“There’s talk she confessed to Kalstein.”
+“…Huh?”
 
-Uh...
+“I heard… Kalstein confessed to you.”
 
-I couldn’t help but be genuinely flustered.
+Uhhh…
 
-“Judging by your expression, it must be true.”
+I couldn’t help but feel genuinely flustered.
 
-“True or not, how do you even know about that?”
+“Judging by your face, it’s true.”
 
-“I heard it from Tersia.”
+“True or not, how the hell do you even know about that?”
 
-“From Elwen...?”
+“I heard it from Tercia.”
 
-“She overheard the conversation when she was looking for you that day.”
+“From Erwin…?”
 
-“Ah...”
+“She said she was looking for you that day and overheard your conversation inside the room.”
 
-I was dumbfounded, mouth agape, when Amelia cautiously asked.
+“Ah…”
 
-“So... what did you say in reply?”
+As I stood there dumbfounded, Amelia cautiously asked,
 
-Was it right to talk about that without Misha’s permission? Despite such doubts, I honestly recounted the events of that day.
+“So… what did you say in response?”
 
-Besides, Amelia had helped me with this matter.
+I considered whether it was okay to talk about it without Misha’s permission, While I hesitated, I decided to honestly recount the events of that day.
 
-“We’re friends...”
+After all, I did receive Amelia’s help in this matter.
 
-“Yeah, it was wrapped up neatly like that. So you don’t need to worry—”
+“We agreed to stay friends.”
 
-“It’ll turn into a mud fight.”
+“I see. So, it wrapped up cleanly.”
 
-“...Huh?”
+“Yeah, so you don’t have to worry—”
 
-“Nothing, just talking to myself.”
+“Sounds like a mud fight waiting to happen.”
 
-Her words were so meaningful that when I asked what she meant, she wouldn’t answer.
+“…Huh?”
 
-Avoiding the topic, Amelia changed the subject.
+“No, just talking to myself.”
 
-“Yandel, I’m asking just in case.”
+It was so ominous that I asked what she meant, but she refused to elaborate and changed the subject.
 
-Her voice became serious, and I already felt uneasy about what she was going to say—
+“Jandel, just to check…”
 
-“Do you like men by any chance?”
+Her voice grew serious, and I already felt uneasy about what she was going to say—
 
-“...What?”
+“Do you, perhaps… like men?”
 
-“Don’t worry. I have no prejudice. I’ve met people like that several times in Noark—”
+“…What?”
 
-What is she saying now?
+“Don’t worry. I don’t have any prejudice about that. I’ve met people in Noarc who—”
 
-“Watch your words, Amelia Rainwales.”
+What is she even talking about?
 
-I barely restrained the boiling sensation in my dantian and spoke.
+“Watch your mouth, Amelia Rainwales.”
+Books& Literature
 
-“I like women. Very much.”
 
-“...Oh, I see? Though I didn’t realize it was that much—”
+Suppressing something boiling deep inside me, I barely managed to speak.
 
-“So never say that in front of me again. It was more humiliating than when you mistakenly called me ‘Hans.’”
+“I like women. A lot.”
 
-“...Sorry. I’ll be careful. It won’t happen again. I swear on my older sister.”
+“…Oh, is that so? Ah… well, I didn’t know it was a lot—”
 
-Amelia’s prompt and sincere apology made me sigh and calm down.
+“So don’t ever say something like that to me again. It was even more humiliating than when you called me ‘Hans’ by mistake.”
 
-“Hoo...”
+“…Sorry. I’ll be careful. It won’t happen again. Really. I swear on my sister.”
 
-It’s strange.
+Her swift and sincere apology made me sigh and swallow my anger.
 
-I’m not particularly against homosexuality, so why am I this angry?
+“Sigh…”
 
-I don’t know, but Amelia, glancing at me nervously, continued.
+It’s really strange.
 
-“Anyway... that’s a relief.”
+It’s not like I particularly hate homosexuals or anything, so why did that make me so angry?
 
-“Relief?”
+I don’t know, but Amelia, while watching my reaction, continued what she wanted to say.
 
-“You’re a noble in this world, right?”
+“Anyway… if that’s the case, then it’s a relief.”
+
+“A relief?”
+
+“You’re a noble in this world, aren’t you?”
 
 “Huh?”
 
-When I tilted my head, Amelia averted her gaze for some reason.
+I tilted my head, and Amelia averted her gaze.
 
-“Well... no matter what your original world is like... it means it’s okay here.”
+“I mean… I don’t know about your original world… but in this one, it’s okay.”
 
-“...”
+“…?”
 
-“Even if you like women very much.”
+“No one will mind, even if you like women… a lot.”
 
-How on earth did the conversation come to this?
+How the heck did the conversation get here?
 
-I couldn’t understand, but I gathered my voice from the dantian.
+I couldn’t understand it at all, but I drew strength from my core.
 
-Even for dear companions, it had to be said.
+Even if she’s a precious comrade, there are times when I must reprimand her.
 
-You must scold when it’s necessary.
+I had inherited both humanitarianism and a Confucianist mentality.
 
-The spirit of Hongik Ingan and Confucianism.
+I was also a pure-blooded Korean, who had inherited the surname Lee of the Joseon royal family. Korean through and through. In short, I was a Triple-K Barbarian.
 
-A person who inherits both.
+“GAL—!!!!”
 
-Also, a pureblood Korean born into the Joseon royal family’s Lee clan.
+This is an absolutely unacceptable topic.
 
-Korea, Korea, and nothing but Korea.
+“Gal…?”
 
-In other words, a KKK-Barbarian.
+A Confucian war cry Amelia had never heard before.
 
-“That’s—!!!!”
+As someone with the duty to benefit the world, I quickly explained the meaning behind that shout.
 
-This is something unacceptable.
+“It’s a common phrase in my world when scolding someone.”
 
-“That—...?”
+“…Did I say something worthy of scolding?”
 
-It was probably the first Confucian shout Amelia had ever heard.
+Hoho, you still don’t understand the principle?
 
-I hastened to explain the meaning of the cry, which is a duty to widely benefit mankind.
+I had every reason to be even harsher with her, but since she’s a precious comrade, I decided to calmly explain.
 
-“It’s what we say when scolding someone.”
+“Of course. Our royal family doesn’t tolerate such promiscuous cultures.”
 
-“...So, I said something worthy of being scolded?”
+At my words, Amelia seemed confused.
 
-Haha, still not realizing it?
+“Your royal family…?”
 
-I could have yelled a threefold curse, but since she’s a companion, I spoke calmly.
+“I didn’t tell you because I thought it might burden you, but my surname ‘Lee’ signifies the bloodline of the Joseon royal family.”
 
-“Of course. Our royal family doesn’t have such decadent culture.”
+“Are you saying… you’re royalty right now?”
 
-Amelia feigned surprise at my words.
+“………………Well, a collateral branch.”
 
-“Our royal family...?”
+I felt a bit guilty, but technically it wasn’t a lie. I could interpret my lineage like that.
 
-“I didn’t tell you to avoid burdening you, but my surname ‘Lee’ means I’m descended from the Joseon royal family.”
+Given my monoethnic background, there was a chance that my lineage included some royal blood.
 
-“You’re saying you’re royalty?”
+“…Royalty. I’m surprised.”
 
-“...Yes, a collateral branch.”
+Amelia accepted it more easily than I expected.
 
-I felt guilty but it wasn’t a lie.
+However, one thing seemed to puzzle her.
 
-There’s room to interpret it that way in documents.
+“But didn’t you say the country you lived in was called Korea?”
 
-Due to single-ethnicity traits, some blood mixing is highly likely.
+“Joseon is… an ancient kingdom that has already fallen.”
 
-“...Royalty. That’s surprising.”
+“I see… So you were the descendant of a fallen ancient kingdom.”
 
-Surprisingly, Amelia accepted it readily.
+Uh…
 
-But maybe she had one question.
+“Yeah.”
 
-“Didn't you say your country was Korea?”
+There’s room for that interpretation too.
 
-“Joseon is already a fallen ancient kingdom.”
+It’s a cooler identity than just being some commoner with the surname Lee.
 
-“Indeed... So you’re a descendant of a fallen ancient kingdom.”
+“Now it makes sense. Why you were so obsessed with survival… You must have grown up in an environment where you had no choice. And you must have felt a sense of duty too.”
 
-Uh...
+“……”
 
-“Yes.”
+I decided to keep my mouth shut.
 
-That’s another way to interpret it.
+But revealing my background seemed to triggered her curiosity.
 
-A status that looks somewhat cooler than a commoner A named Lee.
+Amelia started asking all sorts of questions.
 
-“Now it makes sense why you were so obsessed with survival... It must have been the only way since childhood. You must have had a sense of duty.”
+“Joseon’s quite a strange country. Even royalty could only have one wife?”
 
-“...”
+I had no real answer for that.
 
-I chose to stay silent.
+In reality, Joseon practiced polygamy.
 
-But maybe revealing my status sparked her curiosity.
+Not just wives—there were concubines. Lots of them.
 
-Amelia started asking various questions.
+Is polygamy… actually a pretty foundational system?
 
-“Joseon was a peculiar country. Even royalty couldn’t have multiple wives?”
+The thought suddenly crossed my mind, but I shook my head vigorously.
 
-Again, I had no reply.
+No, that can’t be.
 
-Actually, Joseon had polygamy.
+The current royal family, the K-government, which inherited Confucian values, enforces monogamy.
 
-Not just wives but concubines too.
+‘…But this is a different world, isn’t it?’
 
-...Many of them.
+Come to think of it, in Korea under the K-government’s rule, murder is treated as a capital crime.
 
-‘Polygamy might actually be a deeply rooted social system?’
-
-I suddenly thought so but shook my head.
-
-No, that’s impossible.
-
-The current royal family and K-government, inheriting Confucianism, practice monogamy.
-
-‘...But this world is different?’
-
-Thinking about it, even murder is a capital crime in K-government-ruled Korea.
-
-And I am a murderer who killed hundreds.
+And right now, I’m a murderer who’s killed hundreds.
 
 ‘But is there any reason to be bound by that?’
 
-Suddenly, the demon in my left arm whispered, but I covered my ears and closed my eyes.
+The demon sealed in my left arm whispered, but I shut my ears and eyes to it.
 
-No need to make excuses about Confucianism or social systems. I simply grew up in such a world, so I naturally have physiological aversion to such topics.
+No need to make excuses about Confucianism or social systems. I was just born in that world, so this kind of talk causes an instinctive revulsion.
 
-Did she notice that expression?
+But maybe she noticed.
 
-“...It must be a sensitive topic for you. Sorry.”
+“…Is this a sensitive topic for you? Sorry.”
 
-Amelia apologized again, and since I reacted somewhat sharply, I accepted her apology.
+Amelia apologized again, and since I might have overreacted, I accepted it.
 
-Of course, accepting the apology and doubting were separate things.
+But accepting the apology didn’t resolve my curiosity.
 
-“It’s fine. But why bring it up suddenly?”
+“It’s fine. But why did you bring that up all of a sudden?”
 
-When I asked, Amelia said she just thought I needed advice, then muttered quietly.
+When I asked her, she simply said that it seemed like I needed advice, then muttered under her breath.
 
-“I didn’t expect it wouldn’t turn into a mud fight.”
+“This isn’t going to be a muddy fight.”
 
-Her voice sounded solemn.
+A strangely solemn tone.
 
-“In the end... blood will be spilled.”
+“This will be a bloody fight.”
 
-“...What are you saying repeatedly?”
+“…What are you even talking about?”
 
-“Ah, just talking to myself. Don’t mind.”
+“Ah, nothing. Just talking to myself. Don’t mind it.”
 
-No, I do mind even if you say so.
+How can I not mind that?
 
-After the conversation with Amelia that made me ponder what truly fits the KKK spirit, we finally discussed the boss strategy.
+***
 
-And...
+What could be a better fit for my Triple-K mindset?
 
-“Can we really just jump down?”
+After I finished my conversation with Amelia, which really made me think about that question, we finally started talking about raiding the boss.
 
-We finally arrived at the boss room...
+“Are we really just jumping down?”
 
-Or rather, the entrance to the boss room.
+Finally, we arrived at the boss room—
 
-Swaaaaaah-!
+No, more accurately, the entrance to the boss room.
 
-A cliff blowing cold air.
+Whoooooosh—!
 
-Below was only darkness like a bottomless abyss.
+A cold wind blew in from the edge of the cliff.
 
-“Don’t be afraid. There’s no fall damage.”
+Below was only darkness. A bottomless abyss.
 
-“Fall damage...?”
+“Don’t be scared. There’s no fall damage.”
 
-I kindly explained.
+“Fall damage…?”
 
-Still, Amelia didn’t quite understand and seemed a bit reluctant about falling.
+“It means you don’t take damage from falling.”
 
-So I just picked Amelia up and jumped down.
+Even after I explained, Amelia didn’t seem to get it.
 
-“...!”
+She also seemed pretty hesitant about jumping.
 
-A normal person would scream, but Amelia was different. Though she tugged at my hair in resistance, she didn’t utter a single groan.
+So I just hoisted her over my shoulder and leapt down.
 
-Boom-!
+“…!”
 
-A heavy impact echoed as we landed at the cliff bottom.
+A normal person would have screamed, but not Amelia. She just gritted her teeth and pulled my hair.
 
-After a moment, Amelia got off my shoulder and sighed while glaring at me.
+Thud!
 
-“You could be more delicate, why are you always...”
+With a heavy thud, we landed at the bottom of the cliff.
+
+After regaining her balance, Amelia climbed off my shoulder.
+
+She glared at me and sighed.
+
+“You can be gentle. Why are you always like this?”
 
 “What did you say?”
 
-“...”
+“…”
 
-“Enough, barbarian. So where’s the enemy?”
+“Never mind, Barbarian. So where’s the enemy?”
 
-Since she called me barbarian instead of Yandel, she seemed a bit miffed, but that’s a problem for later.
+She called me “Barbarian” instead of Jandel. I guess she’s still a little mad, but I’ll make it up to her later.
 
-“It’ll come out soon.”
+“It’ll show up soon.”
 
-As I raised my shield to warn, the whole space trembled.
+Just as I raised my shield, the entire space began to tremble.
 
-And it appeared.
+And then it appeared.
 
-Boom-!
+Thud—!
 
-A body bigger than most ogres.
+A body larger than most ogres.
 
-Three horns growing on its forehead and a cyclopean eye.
+Three horns on its forehead and a single cyclopean eye.
 
-Its chest was torn open as if rotten, ribs fully exposed...
+Its chest was grotesquely torn open, exposing ribs.
 
 Slurp.
 
-A grotesque tongue flicked out from between.
+A grotesque tongue slithered out, licking the air as if it had found its prey.
 
-Like it was eyeing prey.
+But I wasn’t interested in all that.
 
-Ah, such details didn’t really matter.
+…It doesn’t talk either, huh.
 
-‘...It doesn’t speak either.’
+‘…This one doesn’t talk either.’
 
-Originally, it had been running away throughout the rift, but now that we’d successfully lured it, it got cocky.
+Originally, it used to gloat about how it had finally lured us in after making us run all through the rift.
 
-“Get ready, Amelia.”
+“Then get ready, Amelia.”
 
-“You’re calling me—”
+“You, just now, you called me by my—”
 
-“There are only two of us here anyway.”
+“It’s just the two of us here anyway.”
 
-“Yandel, mistakes always happen that way.”
+“Jandel, mistakes always happen when you least expect them.”
 
-She said so much.
+Wow, she’s really lecturing me.
 
-It’s been a while since she used my real name.
+It’s been a while since I called her by her real name, so what’s the big deal?
 
-“This is all for your sake—”
+“I’m only saying this for your own goo—”
 
-“Behel—laaaaaaaaaaaa!!!”
+“BETHEL—RAAAAAAAAAH!!!”
 
-I activated [Gigantism] before her nagging got longer and charged forward.
+Before her nagging could drag on, I activated [Gigantification] and charged forward.
 
-When I collided and held the enemy, Amelia stopped talking and began her job.
+Once I clashed with the monster and held it in place, Amelia stopped talking and began doing her part.
 
-“Amelia Rainwales cast [Self Replication].”
+〈Amelia Rainwales has cast [Self-Replication].〉
 
-True to a clone rogue, she first summoned clones, then attacked from both sides as if to make up for the lacking numbers.
+As expected from a Clone Thief, she summoned her clones first, then attacked the target from both sides to make up for our small team.
 
-Like twin swordsmen who have perfected their technique over many years, smoothly and naturally.
+She and her clone attacked in harmony, like twin swordswomen forged by years of practice.
 
-“Amelia Rainwales cast [Asura Form].”
+〈Amelia Rainwales has cast [Asura’s Kick].〉
 
-She kicked the much larger monster’s head.
+She landed a powerful kick on the monster’s head, which was several times her size.
 
-“Amelia Rainwales cast [Abyssal Power].”
+[Amelia Rainwhales has: Power of the Abyss.]
 
-Using Aura, she slashed through the tough skin.
+She then used Aura to slice through its tough hide.
 
-Compared to when I came with the mage Raven, the difference was striking.
+The difference from when I came here with Raven was clear.
 
-While the mage took a long time to land a big shot, Amelia output continuous high DPS like a melee.
+While a mage spends a long time preparing a single powerful strike, Amelia, as a melee damage dealer, consistently dealt high DPS.
 
-And...
+And…
 
-‘Because her value is high, her damage expectations are also high.’
+‘Her base value is so high that her damage potential is naturally high.’
 
-Even calculated by time, Amelia could put in much more damage than Raven.
+Calculating it over time, Amelia could deal far more damage than Raven.
 
-Well, that’s assuming full DPS output during that time.
+Of course, that’s assuming she can maintain full DPS the entire time.
 
-‘The biggest problem is resources...’
+‘The biggest issue is resources, huh…’
 
-Amelia’s burst damage is second only to Elwen.
+Her burst damage is second only to Erwin’s.
 
-However, the duration of her damage output is overwhelmingly short. Due to essence combinations, MP runs out quickly...
+However, the duration of that damage is extremely short. Given her Essence composition, her MP runs out quickly—
 
-‘Having to deal damage alone like now makes this flaw even more apparent.’
+‘Now that she’s the only one dealing damage, that weakness is even more apparent.’
 
-[Self Replication] consumes an enormous amount of MP.
+The MP consumption of [Self-Replication] is among the highest.
 
 Because when clones use skills, the cost increases fivefold.
 
-Until now, she had survived with the MP boosted by [Abyssal Power]...
+Until now, she’s managed with the inflated MP pool from [Power of the Abyss], but…
 
-‘This is a problem that should have been solved long ago.’
+‘This is a problem that should’ve been solved long ago.’
 
-The only reason this flaw hasn’t surfaced is purely Amelia’s physical prowess.
+The only reason this weakness hasn’t surfaced yet is because of Amelia’s immense skill.
 
-Look at this.
+Just look at her!
 
-“Amelia Rainwales cast [Switch].”
+The only reason this weakness hasn’t surfaced yet is purely due to Amelia’s sheer skill.
 
-The clones only distract, and she hits with the main body.
+Just look at her.
 
-She carefully targets vital points and maintains her own pace to keep MP above a certain level.
+[Amelia Rainwhales has cast: Substitution.]
 
-So she only briefly uses costly Aura when needed.
+She only used her clones to draw attention while landing decisive blows with her main body.
 
-Like this.
+She carefully aimed for weak points while maintaining her own pace to ensure her MP never dropped below a certain threshold.
 
-Swoosh-!
+That was why she activated her aura in brief intervals, since it used up a lot of MP.
 
-After a long fight, Amelia’s Aura cut the enemy’s neck.
+Just like this.
 
-If she looked exhausted, I would actively intervene.
+Slice—!
 
-‘To think such a half-developed character can perform like this...’
+After a long battle, Amelia’s aura finally cut through the monster’s neck.
 
-I couldn’t help but grin.
+If she had looked truly exhausted, I was ready to step in and help.
 
-“Defeated Hell Giant Herja. EXP +6”
+To think she’s pulling off this kind of performance with a half-finished build…
 
-“Guardian defeat bonus. EXP +3”
+I couldn’t help but smirk.
 
-It’s always a joy to see companions grow stronger.
+[The Character has defeated Hell Giant Herja. EXP +6]
+[Guardian Kill Bonus: EXP +3]
+
+Seeing a teammate grow stronger was always a joy.

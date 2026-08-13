@@ -1,421 +1,399 @@
 # Bossrun 4
 
-As soon as we passed through the portal, Sven Parab asked.
+As soon as we stepped through the portal, Sven Parab asked,
 
-“That... why me?”
+“Um… why me?”
 
-It was a somewhat strange question.
+It was a strange question.
 
-Not the content, but the timing.
+Not because of what he asked, but the timing.
 
-“You’re only asking that now, after crossing the portal?”
+“You’re asking that now, after we’ve already crossed the portal?”
 
-“...I thought it might be a question hard to say in front of others.”
+“I thought it might be too sensitive a question to ask in front of others.”
 
-Hmm, so that really was the reason.
+Huh. So that really was the reason.
 
-The more I see him, the more I realize he’s quite a meticulous guy.
+The more I look at him, the more I see how considerate he is.
 
-Seems to have some loyalty too.
+He also seemed to have a decent sense of loyalty.
 
-“Anyway, why me? If you needed a paladin, there must have been others as well...”
+“Anyway, why me? If you needed a paladin, there were others who could’ve—”
 
-He asked again, and I answered honestly.
+I answered his repeated question honestly.
 
 “I didn’t pick you because you’re a paladin.”
 
-“...Huh?”
+“…Huh?”
 
-“I picked you because you are you.”
+“I picked you because it’s you.”
 
-Sven Parab’s eyes went wide.
+Sven Parav’s eyes widened.
 
-I had expected that reaction.
+I had expected this reaction.
 
-This wasn’t just a casual line.
+This wasn’t just some throwaway line.
 
-Every time I say it, without fail, it’s a moving, heartfelt line—
+It was a legendary phrase that moved people 100% of the time.
 
-I waved my hand.
+Swoosh.
 
-Yeah, that should’ve been it.
+Well, it should have.
 
-But for some reason, Sven Parab stepped back, his face pale.
+But for some reason, Sven Parav turned pale and took a step back.
 
-As if trying to put distance between himself and something.
+It was as if he were trying to distance himself from something.
 
-“...Why?”
+“…Why?”
 
-As I expressed my confusion and stepped closer, he retreated equally, modestly covering his upper body with his arms.
+When I expressed my confusion and took a step forward, he further retreated, meekly covering his upper body with both arms.
 
-Receiving his wary gaze, I couldn’t help but let out a dry laugh.
+When our gazes met, I couldn’t help but let out a dry laugh.
 
-I think I know what this crazy guy was thinking.
+I had a pretty good idea what this bastard was thinking.
 
-There had been a similar incident recently, after all.
+Well, I had experienced something like this just recently.
 
-“Don’t misunderstand. Before I break your head.”
+“Don’t get the wrong idea.” I gave a warning. “Before I crack your head in.”
 
-“Then... does that mean the rumors aren’t true?”
+“Then…you mean the rumors aren’t true?”
 
 “Rumors?”
 
-“That... the baron enjoys... men—”
+“That you enjoy the company of men, Baron—”
 
 “Stop.”
 
 It was too hard to listen to, so I cut him off.
 
-Then I repeated what I had said recently to clarify.
+Then, I repeated the exact explanation I had given last time to clear up the misunderstanding.
 
-“I like women. A lot.”
+“I like women. Very much.”
 
-“...I see?”
+“…I-I see.”
 
-Maybe my sincerity got through, because the caution in his eyes softened a little.
+Maybe he could sense the sincerity, because the wary look in his eyes seemed to ease a little.
 
-Though he still seemed puzzled by one thing.
+But maybe something was still bothering him?
 
-“Then what did you mean earlier...?”
+“Then what exactly did you mean by what you said earlier…?”
 
-I didn’t choose you because you were a paladin, but because you were Sven Parab.
+That I didn’t choose him because he was a Holy Knight, but because he was Sven Parab.
 
-The meaning is simple.
+The meaning of those words was simple.
 
-Literally what it sounds like.
+Exactly as I said.
 
-What was needed to catch the guardian was not a paladin, but this guy.
+What I needed to defeat the Guardian wasn’t a Holy Knight, but this guy.
 
-And...
+And…
 
 ‘Looks like it’s going well.’
 
-I thought that plan was already halfway successful.
+I’d say the plan was already halfway to success.
 
-After all, he entered the portal without hesitation.
+After all, he stepped through the portal without a moment’s hesitation.
 
-“Did you feel anxious or anything when coming in here?”
+“Did you happen to feel any anxiety or fear coming in here?”
 
-Just to be sure, I asked again.
+Just to confirm, I asked again, and he shook his head. Then, as if realizing something, his mouth fell open.
 
-He said no, then opened his mouth like someone who just realized something.
-
-“Ah, could it be because of that...?”
+“Ah, was that why…?”
 
 I just shrugged and didn’t answer.
 
-And with that, the topic ended.
+And with that, the topic was closed.
 
-Afterwards, we talked about the boss strategy.
+Afterward, we discussed the boss strategy. Though he was technically a cheat-mode gamer, he still had a solid grasp of the general mechanics of boss fights. He picked up on unfamiliar details quickly, too.
 
-Though it was a cheat mode, the guy who came from playing games already had a general grasp on the boss battle.
+“Um… how do you know all this, Baron?”
 
-He understood unfamiliar things quickly too.
+He looked at me with some suspicion, but it wasn’t hard to come up with a convincing explanation.
 
-“Um... Baron, how do you know all these things?”
+I mean, it’s not like I’m just some random barbarian.
 
-He looked at me with suspicion, but giving a reasonable explanation wasn’t difficult.
+“Once you become a titled noble, you gain access to information ordinary people don’t have.”
 
-Well, I’m just a barbarian after all.
+“But the other nobles don’t seem to know…”
 
-“When you become a titled noble, you can easily get information that ordinary people don’t know.”
+“They’re not former explorers, are they? Most of them don’t even care about the labryinth unless there’s money involved.”
 
-“The other nobles don’t seem to know much...”
+“Ah… I suppose that makes sense.”
 
-“They’re not explorers. They don’t care about the labyrinth. Unless there’s money to be made.”
+When I framed it as a noble-exclusive advantage, Sven Parav nodded obediently and dropped the subject.
 
-“Oh... that makes sense.”
+Now that work-related talk was over, I considered getting up to start the raid, but instead, I decided to chat a little longer.
 
-Sven Parab nodded willingly when I emphasized my noble status and dropped his doubts.
+Come to think of it, we’d hardly ever had a one-on-one conversation before.
 
-With business talk done, I thought about starting the strategy soon, but decided to continue talking a bit more.
+I started with something light.
 
-Come to think of it, we hardly ever talked one-on-one.
+“How’s life at the temple, Sven Parav?”
 
-So I started with a lighter topic.
+“It’s not too bad. After filing for leaving the clergy, I’m treated as an outsider, but… in my case, that’s actually more comfortable sometimes.”
 
-“Sven Parab, how’s temple life?”
+Leaving the clergy meant he would leave the temple life to return to civilian status.
 
-“Actually, it’s not too bad. After filing for secularization, I am treated like an outsider... but for me, sometimes that’s more comfortable.”
+Once the ceremony is complete, the person is no longer bound by the temple’s commands.
 
-Secularization is a ritual where a cleric ends temple life and returns to being a layperson.
+“How exactly does the process work?”
 
-After the ritual, the religious person is no longer bound by temple commands.
+Being someone far from religion, I was genuinely curious.
 
-“What exactly does secularization involve?”
+I’d heard it didn’t involve cutting off your pinky finger or anything like that…
 
-As someone distant from religion, I was curious.
+But I couldn’t imagine the Three God’s Church would just let go of a Holy Knight they’d trained without asking for something in return.
 
-I heard you don’t have to cut off your pinky finger or anything...
+“It’s nothing too grand. You just give up the goddess’s blessings and return everything the temple gave you.”
 
-But I doubt the Trinitarian Church would just release their trained paladin without a price.
+“Everything the temple gave you…?”
 
-“It’s nothing special. You just remove the blessing the goddess gave you and give up everything received from the temple, then it’s done.”
+“Haha, in other words, you walk out with nothing. Everything I have was given to me while I was affiliated with the temple. Oh, and I’ll have to start paying taxes next year too.”
 
-“Everything received from the temple...?”
+To put it simply, you can leave if you give them everything you own.
 
-“Ha, it means you become completely empty-handed. Everything I gained was while belonging to the temple. Ah, from next year I’ll have to pay taxes too.”
+In a way, cutting off a pinky might actually be the more merciful option.
 
-In short, you can leave only by giving up all your assets.
+“Still, it’s not too frightening. Mr. Gowland promised to support me all the way… Wait, hold on. Baron, you didn’t know about that?”
 
-In some ways, giving up a pinky finger might seem more humane.
+Sven Parab flinched mid-sentence, realizing something was off.
 
-“I’m not too scared though. Miss Gowland promised to support me fully... Wait, you didn’t know at all, Baron?”
+I let out a small chuckle and patted his shoulder.
 
-Sven Parab sensed something strange while talking and flinched.
+“Don’t worry. I’ll take full responsibility for you.”
 
-I chuckled and lightly tapped his shoulder.
+“Whew… that scared me.”
 
-“Don’t worry. I’ll take responsibility for you until the end.”
+“But you seem oddly calm about it? Won’t you stop growing after leaving the temple?”
 
-“Phew... you startled me.”
+Holy Knights are different from regular adventurers.
 
-“But you’re surprisingly calm? Don’t paladins stop growing after secularization?”
+Like priests and mages, they can’t absorb essence. But in exchange, they gain new abilities as they accumulate ‘merit.’
 
-Paladins are different from normal explorers.
+There are various ways to earn merit.
 
-They can’t absorb essences like priests or mages, but instead gain new powers as they accumulate merits.
+Killing monsters in the labyrinth, donating offerings, completing missions for the church…
 
-Oh, by the way, there are various ways to build merit.
+Once enough merit is gained, the Pope would come and offer a prayer. Then the next morning, you’d wake up with a new skill.
 
-Killing monsters in the labyrinth, offering donations, completing church missions.
+That’s why the Pope held such absolute authority.
 
-As merit accumulates, the pope visits periodically to pray, and when you wake up the next day, a new skill appears.
+“Well… there’s no helping it. If I stayed there, I’d definitely die someday. Besides, even after leaving the clergy, there are rare cases where the goddess bestows a new blessing. So I’m holding out hope for that.”
 
-That’s why the pope’s authority is so powerful.
+“Guess we’ll just have to hunt more monsters.”
 
-“Well... can’t be helped, right? Staying there means certain death someday. Besides, the goddess sometimes bestows new powers after secularization, so I’m hopeful for that.”
+“If I stay with you, Baron… I’ll probably end up hunting plenty anyway…”
 
-“I guess I’ll have to catch more monsters.”
+He always seems like a pretty light-hearted guy, but talking with him like this, I realized he’s actually trying pretty hard to live his life.
 
-“I think if you stay with the baron, you’ll naturally catch a lot...”
+Maybe that’s why…
 
-Usually he seemed like a lighthearted guy, but talking one-on-one, I realized he was earnest in his own way.
+I started to wonder about something.
 
-Maybe that’s why...
+‘If he had the chance… would he want to go back?’
 
-I got curious about this too.
+Maybe that was why.
 
-‘Would he want to go back if he could?’
+‘Would he go back if he could?’
 
-When Auril Gavis offered the escape ticket as a prize, he participated but soon gave up and left the round table.
+When Auril Gavis offered an escape ticket as a prize, he had joined but quickly withdrew and left the Round Table.
 
-After the Ice Rock expedition, he expressed anger and said he wanted revenge with us.
+After the Ice Rock expedition, he even declared he’d join us in revenge, expressing his anger.
 
-‘But... how should I ask that?’
+‘But… how do I ask this?’
 
-After thinking a moment, I cautiously asked indirectly.
+After a brief moment of hesitation, I carefully brought up the subject.
 
-“Sven Parab, there’s something I want to ask.”
+“Sven Parav, there’s something I want to ask.”
 
 “Go ahead, Baron.”
 
-“Do you... have someone you’re seeing?”
+“Do you… have someone you’re seeing?”
 
 “Huh?”
 
-He looked surprised, like he heard a question he didn’t want to.
+He looked as if he had just heard something shocking, but to me, it was a serious question.
 
-But I was serious.
+Depending on his answer, I’d get a sense of how he viewed this world.
 
-Because the answer would reveal how he views this world.
+“I meant, is there a woman you’re currently involved with?”
 
-“I meant, do you currently have a girlfriend?”
+“N-No, there isn’t, but…”
 
-“Well, um... no...”
+“Hmm, I see…”
 
-“Hmm, I see...?”
-
-Then I had no choice but to ask another question.
+Guess I’ll have to ask another way.
 
 Just as I was about to speak again—
 
-“But!”
+“B-But!”
 
-He hurriedly continued.
+He suddenly cut in, flustered.
 
-“I-I do have someone I care about...”
+“There’s… someone I like…”
 
-“...?”
+“…?”
 
-“No, I mean, there is a woman I care for!”
+“No, I mean—there is a woman I have feelings for!”
 
-For some reason, by then he had stepped a few paces back from me.
+For some reason, he had already taken several steps back from me.
 
-Who was the woman who stole Sven Parab’s heart?
+***
 
-I asked persistently, but he only bowed his head shyly and never answered.
+Who was the woman who stole Sven Parav’s heart?
 
-Such behavior could only come from someone truly sincere toward the woman.
+No matter how persistently I pressed him, he just bowed his head like a shy boy and refused to answer. It was the kind of reaction you’d only see from someone who was serious about their feelings.
 
-“It’s really not Miss Gowland. She feels more like a teacher...”
+“I-It’s really not Ms. Gowland! She’s more like… a mentor to me…”
 
-“So you prefer innocent and fragile women?”
+“So you like innocent, fragile women?”
 
-“Th-That’s not what I meant!”
+“T-That’s not what I meant!”
 
-“I know, just kidding.”
+“I know. Just messing with you.”
 
-He really has a unique sense of humor.
+Teasing him was just too fun.
 
 I patted his shoulder and stood up.
 
-After the private talk, I felt closer to him than before.
+Our private chat had made me feel closer to him.
 
-I understood better what kind of person he was.
+I also understood him a little better now.
 
-“Well, we’ve talked enough, so let’s go.”
+“Alright, we’ve chatted enough. Let’s get going.”
 
-“Okay.”
+“Yes.”
 
-I led him out of the start point and down the corridor.
+With that, I led him out of the entrance area and down the hallway.
 
-Criiick—!
+Even without us needing to touch anything, the door to the boss room opened as we approached.
 
-Without needing to operate anything, the boss room entrance opened as we approached.
+The moment we stepped inside, the door slammed shut behind us with a heavy thud.
 
-As soon as we stepped inside, the door slammed shut with a bang.
+Whooosh—!
 
-Whirr—!
+The room was dark, but thanks to having activated the Barbarian Candle Mode beforehand, visibility wasn’t an issue.
 
-Though the hall was dark, thanks to having pre-activated Barbarian Candle Mode, visibility wasn’t a problem.
+Three paths appeared—left, right, and forward—but the Rift Guardian was nowhere to be seen.
 
-Three paths appeared: left, right, and straight ahead.
+Which made sense.
 
-But the Rift Guardian wasn’t anywhere to be seen.
-
-That’s natural.
-
-The guardian we’re about to fight is a unique type unlike any other.
+The Guardian we were about to face was unique among all other variants.
 
 Step, step.
 
-This labyrinth we’re walking through—
+This maze we were walking through now…
 
-The whole maze itself is the boss monster we have to face.
+The entire maze is the boss we’re fighting.
 
-This is just the first phase.
+We’re currently in Phase One.
 
-“Spirit Guardian Housiel has cast [Defense System].”
+[The Soulkeeper Hausiel has cast “Defense System.”]
 
-The moment we started moving in earnest, a magic cannon suddenly shot out from the perfectly smooth wall without any seams, aiming right at us.
+The moment we started moving, mana cannons emerged from the smooth, flawless walls and locked onto us.
 
-And then...
+And then—
 
-Pew! Pew!
+BOOM! BOOM!
 
-It didn’t really hurt me, but for fragile mages, it would be just enough damage to take them out.
+Didn’t really hurt me, but for glass-body mages, it would’ve been more than enough to kill them.
 
-One reason I brought Sven Parab was this.
+This was another reason I brought Sven Parab.
 
-As a paladin, he can serve as a secondary tank and can self-heal.
+He’s a Holy Knight, so he can serve as a backup tank and heal himself.
 
-“Are you okay?”
+“You okay?”
 
-“Ah... yes. I was just a little surprised. I’m fine.”
+“Ah… yes. Just startled. I’m fine.”
 
-He looked like he was.
+He seemed alright.
 
-If he got seriously hurt from that, I wouldn’t have brought him along.
+If he were fragile enough to get seriously hurt by that, I wouldn’t have brought him in the first place.
 
 “Then let’s keep moving.”
 
-After that, we wandered through the maze defeating occasional magic cannon fire and monsters jumping out from frames.
+After fending off sporadic magical cannon fire and monsters leaping out of paintings, we soon reached our target, a square stone chamber.
 
-Soon, the targeted area appeared.
+At its center was a watermelon-sized magic crystal.
 
-A square stone chamber.
+Breaking it would end the first phase.
 
-And at its center was a watermelon-sized magic stone.
+Like so:
 
-Breaking that ends phase one.
+CRACK—!
 
-Just like this.
+The moment my hammer hit the stone, a screech reminiscent of a banshee’s wail echoed through the chamber, and the world was swallowed in pitch black.
 
-Crack!
+And When I opened my eyes again, we were standing in a different space.
 
-The moment I struck the magic stone with a hammer, a bizarre howling reminiscent of a banshee’s scream echoed throughout the space, and the entire world turned pitch black.
+It was a hallway in an old-fashioned mansion. It looked like it was mirroring itself and stretching endlessly, almost like something out of a dream.
 
-When I opened my eyes, the space around me had changed.
+“We’re supposed to search the rooms and find the second magic stone, right?”
 
-An elegantly decorated mansion hallway.
+“Technically, it’s you who needs to find it, not ‘we.’”
 
-But like a dream, the hallway endlessly stretched forward in a perfect mirror image.
+“Ah… yes, sir…”
 
-“You said we need to search the rooms together to find the second magic stone.”
+We moved together, checking the rooms one by one.
 
-“Strictly speaking, not ‘together’ but you.”
+Though honestly, “searching” was a bit of a stretch.
 
-“Ah... yes...”
+Anyway—
 
-We moved together, searching each room in sequence.
+“I… don’t really feel any danger from this one.”
 
-Though calling it a search felt a bit embarrassing.
+We left the rest to fate.
 
-Anyway.
+Sometimes traps were triggered and poison filled the air, or monsters jumped out and dragged us into prolonged fights, or we got hit with nasty curses.
 
-“Um... I don’t really feel dangerous.”
+“Uh… maybe we shouldn’t open this one.”
 
-After opening a closed door, Parab opened a box placed in the center.
+If his expression so much as twitched, we’d leave it for later and just mark it.
 
-And then...
+If we couldn’t find the crystal, we could always come back and open them one by one.
 
-Pew!
+‘Having him search alone is really time-consuming.’
 
-What happened next, I left to luck.
+If we split up now, we could save a lot of time, but that wasn’t an option.
 
-During that process, traps were triggered releasing poison gas, monsters appeared causing a long fight, and we got hit by an annoying curse.
+[The Soulkeeper Hausiel’s [Defensive System] has grown stronger.]
 
-“Um... I think it’s better not to open this.”
+Even if this boss grew more powerful the longer it took—
 
-I put it on hold and checked it once more, just in case he felt uneasy.
+‘…How can I open something that could kill us both?
 
-If we can’t find the true magic stone, we can open the others one by one later.
+Some of these chests contained absurdly unfair traps.
 
-‘It definitely takes a long time if he searches alone.’
+And I don’t mean metaphorically.
 
-If we split up ⊛ Nоvеlιght ⊛ (Read the full story) now, it would save a lot of time, but that was impossible.
+Literally one in ten thousand.
 
-“Spirit Guardian Housiel’s [Defense System] grows even stronger.”
-
-No matter how much this guy gets stronger the longer the fight lasts—
-
-‘How are we supposed to open those when we could all die?’
-
-The boxes had impossibly unfair traps mixed in.
-
-Not a metaphor—about once in ten thousand.
-
-No, more like once in a hundred thousand times when a box is opened, an event triggers—
+No, maybe one in a hundred thousand.
 
 ‘I’m not touching them.’
 
 Luck.
 
-Or rather, when facing misfortune, probability is just a numbers game.
+In the face of misfortune, numbers meant nothing. No one understood that better than I did.
 
-At least I know that better than anyone.
+‘Well, on the flip side, there are also positive events that can happen…’
 
-‘Well, sometimes the opposite happens, a positive event triggers.’
+For the record, there’s only one of each—one death trap and one jackpot—and the odds are nearly identical.
 
-By the way, there’s only one of each event, and the chance is nearly equal.
+That’s why, while playing the game, I believed the creator had intentionally included both elements to stop players from recklessly opening every chest.
 
-I figured the game designers deliberately put that nasty mechanic in.
+So that you had to rely purely on luck.
 
-So you can’t just open all the boxes blindly.
+‘Anyway, it’s better not to get your hopes up about the golden chest—’
 
-You have to rely entirely on luck.
+“Um… Baron…?”
 
-‘Anyway, it’s better not to expect much from the golden boxes—’
+At Parab’s bewildered voice, I turned my head—and froze.
 
-“Um... Baron...?”
+“…Huh?”
 
-I turned to Parab’s stunned voice and froze.
+A chest, gaping open like a dead mimic.
 
-“...Huh?”
+Whoooooosh—!
 
-An open box like a dead mimic.
-
-Sshhhhhh—!
-
-From inside, a brilliant light was radiating.
+A bright light was pouring out from inside.

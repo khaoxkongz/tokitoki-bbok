@@ -1,447 +1,427 @@
 # Bossrun 3
 
-The essence of a guardian has two key features.
+There are two unique traits of a Guardian Essence.
 
-The base stats are 1.5 times higher than those of normal creatures, and they enable the use of all active skills that the normal creature possesses.
+First, its base stats are 1.5 times higher than those of a regular monster. Second, the user gains access to all of that ordinary monster’s active skills.
 
-However, among the 5th floor rifts, the Rift of Light,
+However, among the rifts on the fifth floor, there is one oddity: the Rift of Light.
 
-the essence held by the guardian Hell Giant Herja slightly deviates from the usual category.
+And the Guardian of that place, Hell Giant Herza, possesses an essence that slightly deviates from this norm.
 
-“Alright, Emily... now that you’ve rested, try using it once.”
+“Alright, Emily… If you’re rested up, let’s give it a try.”
 
-According to the original rule, she should be able to use all three active skills of the grade 4 monster ‘Cyclops’...
+By standard logic, one should be able to use all three of the Level 4 monster Cyclops’s active skills. However, Herza’s essence only granted one, and it isn’t even a skill that a normal Cyclops possesses.
 
-But Herja’s essence has only one active skill.
+[Amelia Rainwales has cast <Wave Link>.]
 
-Moreover, that active skill is not even one that a normal ‘Cyclops’ has.
+As she activated the skill, a faint line appeared between Amelia and me. Only those bound by the skill could see it.
 
-It’s this.
+Its function is simple.
 
-「Amelia Rainwales cast [Wave Link].」
+[Amelia Rainwales has cast <Power of the Abyss>.]
 
-When the skill is used, a faint line connects between Amelia and me. Only those targeted by the skill can see this connection line.
+Those who are linked by the skill can share their skills.
 
-The effect is simple.
+Just like the black aura now blooming over my hammer.
 
-「Amelia Rainwales cast [Abyssal Power].」
+‘I studied this essence a lot.’
 
-Those connected can share skills with each other.
+At first glance, it might seem like an absurdly overpowered skill. But after thorough research, I realized it wasn’t completely broken.
 
-Like the black cluster blossoming on my hammer right now.
+Well, except in certain cases.
 
-‘I really researched this essence a lot too.’
+Whoosh—
 
-At first glance, it seems like an overpowered skill, but upon research, you learn
+The black aura covering my hammer dispersed into the air.
 
-it’s not exactly an overpowered skill.
+Amelia had deactivated the skill, but…
 
-Well, except in a few cases.
+“…The soul power consumption is extreme.”
 
-Hwoong-!
+“How bad is it?”
 
-The black cluster covering my hammer scatters into the air.
+“Even in peak condition, I can’t maintain it for more than a minute.”
 
-Amelia deactivated the skill...
+In a way, the penalty was similar to [Self-Replication]: its MP consumption was monstrous.
 
-“...The soul consumption is extreme.”
+“Then try using it in a different way.”
 
-“How bad?”
-
-“Not even lasting a minute at its best condition.”
-
-In a way, it’s similar to [Self Replication] in penalty.
-
-The MP consumption is monstrous.
-
-“Then now will you try using it differently?”
-
-As if to move on, Amelia closed her eyes and concentrated.
+As I suggested moving on, Amelia closed her eyes and focused.
 
 There are three ways to use [Wave Link].
 
-The first is like just now—manifesting your skill through a companion.
+The first was what we just did: manifesting one’s own skill through an ally. It was essentially a support-type application.
 
-You could call this a support type.
-
-The second is...
+The second is…
 
 ‘A boss pattern.’
 
-Attaching the link to an enemy and aggressively using it as a dealer type.
+This involves linking it to an enemy for offensive tactic and is more of a DPS application.
 
-The Hell Giant we just defeated had a pattern of linking to me, sacrificing a handicap for powerful area attacks.
+The Hell Giant we defeated earlier had such a pattern: it linked to me, then repeatedly unleashed devastating AoEs while transferring the drawback to me.
 
-Well, since no one was nearby and every time it used the link I immediately targeted its eye, it wasn’t too difficult.
+Since no one else was around and we targeted its eyes as soon as it tried that, we managed to avoid it without much difficulty.
 
-‘Anyway, skip this.’
+‘Anyway, skip that.’
 
-Amelia has neither self-destruct skills nor AoEs, so this way doesn’t apply at all.
+Amelia had neither self-destruct nor AoE skills, so this method didn’t apply to her.
 
-Thus, the last remaining way.
+So, the only remaining option was the third one.
 
-「Amelia Rainwales cast [Self Replication].」
+[Amelia Rainwales has cast [Self-Replication]
 
-「Amelia Rainwales cast [Wave Link].」
+[Amelia Rainwales has cast [Wave Link]
 
-A utility type that strengthens summoned units.
+A utility-type method that enhanced summons.
 
-This is practically the orthodox use of [Wave Link].
+This was, in fact, the standard way to use [Wave Link].
 
-Using it as an attack transfers the handicap to the enemy and lets you use skills at the enemy’s location, which is a big advantage...
+Sure, using it offensively lets you cast skills from the enemy’s position and pass penalties to them. But that only suits monsters with massive MP pools.
 
-But that’s a method suitable only for monsters with huge MP pools.
+Wave link truly shined when it was used in this way instead.
 
-[Wave Link] shines when used like this.
+“Really… the soul consumption is the same. What the hell is this combination?”
 
-“Really... the soul consumption equalized. What kind of harmony is this?”
+Well, as a gamer, I obviously didn’t know the mechanics behind it.
 
-Well, as a gamer I don’t know the principle.
+A mage might’ve spouted incomprehensible theories about mental wavelength synchronization or matching frequencies, but I only knew the result after countless experiments:
 
-A mage would spout unknown theories about matching mental waves or frequencies.
+When [Wave Link] was used on a summon, MP consumption didn’t increase.
 
-I only know the result after countless experiments.
+Oh, and of course, clones also counted as summons.
 
-When used on a ‘summoned unit,’ MP consumption does not increase.
+“With this… I can engage in much more varied combat.”
 
-Ah, and clones are obviously considered summoned units too.
+Amelia, who had considerable combat experience, seemed to instantly grasp the value of this new ability.
 
-“With this... more diverse battles will be possible.”
+“By the way, what about the Embodied ability? I haven’t heard anything about what you call passive skills in your world yet…….”
 
-Amelia, who has a knack for combat, seemed to instantly recognize the value of this new ability...
+“Oh, you don’t know about Cyclops?”
 
-“By the way, about embodiment abilities... the passive skills you call in your world, I haven’t heard about those yet...”
+“It’s not exactly a common monster… You’re the weird one for knowing every trait of every monster.”
 
-“Oh, don’t you know about the Cyclops?”
+Perhaps embarrassed by her lack of knowledge, Amelia deflected by making me seem like the odd one.
 
-“They’re not commonly seen... it’s strange for someone like you who knows all creature traits.”
+“Here, put this on. Then you’ll understand what its embodied abilities are.”
 
-Embarrassed by lack of knowledge, Amelia painted me as a strange person.
+I smirked and pulled out an item I’d gone through great lengths to obtain before coming here.
 
-“Here, put this on. Then you’ll know what embodiment abilities are.”
+Amelia’s eyes filled with confusion.
 
-I smirked and took out the item I had painstakingly obtained before she came in.
+“This is…”
 
-At the same time, a question appeared in Amelia’s eyes.
+A one-eyed eyepatch.
 
-“This is...”
+The so-called “Pirates Eyepatch.”
 
-A monocle.
+***
 
-So-called the Gungye monocle.
+[One-Eyed] has been activated.
+→ Character’s dynamic vision +200.
+→ Grants the ability to see the unseen.
 
-「[One-Eyed] activated.」
+***
 
-「Character’s torso vision increases by +200.」
+After completing the duo raid with Amelia, I continued challenging the rifts with different team compositions.
 
-「You can see the invisible.」
+After all, while a tank can perform their role in any situation, that doesn’t necessarily apply to DPS.
 
-After the duo raid with Amelia ended,
+The core of Dungeon & Stone was matchups.
 
-we kept swapping members and challenged the rifts.
+Some enemies were impossible to defeat without the right counter, while others became much easier with the proper matchup.
 
-While a tank can always fulfill their role, a dealer cannot.
+And…
 
-The core of [Dungeon & Stone] is ‘affinities.’
+‘It’d be a waste to let this talent pool go unused.’
 
-If the affinity doesn’t match, there are enemies you absolutely cannot beat, but conversely, matching affinities makes the strategy much easier.
+The royal expedition force had every type of specialist I needed. If I required a priest, an archbishop-level priest would join. If I needed a Level 2 fire spell, there was always at least one mage who could cast it.
 
-And...
+‘Now I see why there’s no party limit.’
 
-‘It’d be a waste to let this talent pool rot.’
+This labyrinth was designed around solo or dual rift clears, but it clearly wasn’t meant to be conquered by just two people. It was undoubtedly a place where hundreds of explorers were supposed to enter, split into optimal roles, and systematically advance.
 
-The royal family’s elite exploration force included all the talents I needed.
+‘Still, it’s a bit disappointing. Even after taking down a Level 5 guardian so many essences go to waste.’
 
-When a priest was needed, an archbishop-level priest went with us and obeyed my orders; if a grade 2 fire mage was needed, there was at least one capable mage.
+If I brought a mage into eligible rifts, I could store the essences in test tubes and bring them out. But in all other cases, they had to be left behind.
 
-‘Now I understand why there’s no limit on members.’
+‘Even the cheapest ones would sell for hundreds of millions of Stones in the auction house…’
 
-The maze is mainly designed for solo or duo rift clearing.
+Of course, the biggest regret was Aynar.
 
-But it doesn’t seem designed for two people only.
+There was a Guardian essence on the 5th floor that would’ve been perfect for a spear user.
 
-Hundreds of people must enter, be divided appropriately, and steadily progress.
+Unfortunately, since it wasn’t weak enough for me to solo-carry him, I had to give up on bringing her along.
 
-‘Still, it’s a bit disappointing. We’re discarding too many essences even after killing 5th floor guardians.’
+Still, thanks to this expedition, I’d secured a hard-to-obtain essence for Amelia, so I was satisfied.
 
-When mages enter, they can take essences in test tubes, but otherwise, all must be discarded.
+‘Because it’s basically a graduation essence for a Clone Thief, there’s no need for her to take the alternative.’
 
-‘The cheapest ones would sell for hundreds of millions of stones at auction...’
+Once again, I’m struck by how ridiculous the Basement floor 1 is.
 
-Of course, the biggest regret was Ainard.
+It’s unlike any other part of the labyrinth.
 
-Not a graduation-level essence, but among the 5th floor guardians was an essence suitable for a spearman.
+I can’t even begin to count how many new things I’ve seen or how much I’ve gained here.
 
-Unfortunately, he wasn’t easy enough to carry alone, so I gave up bringing him.
-
-Still, thanks to this expedition, I fed Amelia a hard-to-get essence, so I was satisfied.
-
-‘For a clone rogue, it’s basically a graduation essence, so no need to feed a substitute...’
-
-Once again, the first basement floor is absurd.
-
-It’s totally different from other parts of the maze.
-
-There are so many first encounters and huge gains it’s hard to even estimate.
-
-“...”
+“……”
 
 What exactly is this place?
 
-After meeting the vampire gentleman, when I stay still alone, that thought fills my mind.
+Ever since meeting Mr. Vampire, that thought had filled my mind whenever I was alone.
 
-Silver sea, rainy season, dimensional collapse, chief, Hamshik...
+The Silver Sea, the Rainy Season, Dimensional Collapse, the Village Chief, Hamsiki…
 
-I recall those things carefully to not forget and review whether I missed anything.
+I repeated them in my head so I wouldn’t forget, and go over anything I might’ve missed.
 
-‘Sigh, what’s the use of thinking.’
+Sigh. What’s the point of thinking about it?
 
-Feeling stifled as always, I ended my thoughts.
+As usual, I ended my thoughts with a feeling of frustration.
 
-And to clear my head, I finished resting and stood up.
+I got to my feet, letting go of the brief pause I’d taken to clear my head.
 
-“No matter what you say, the 4th floor is a no-go. It’s too dangerous.”
+“No matter how much you insist, the 4th floor is out of the question. It’s too dangerous.”
 
-In front of the statue of Calphion, the 4th floor Rift Guardian, I saw an explorer pleading to Raven.
+Near the statue of Calpion, the guardian of the 4th floor rift, an explorer was pleading with Raven.
 
-‘The name...’
+‘His name was…?’
 
-What was it?
+Can’t remember.
 
-Everyone just called him ‘Big Hammer,’ so I didn’t know.
+Everyone just calls him “Big Hammer.”
 
-Anyway, he was a famous grade 3 explorer in the city.
+At any rate, he was a famous level three explorer in the city.
 
-“Can you reconsider? I really need this essence.”
+“Can’t you reconsider? That essence is something I absolutely need.”
 
-He didn’t look like someone chasing experience points or obsessed with time attacks.
+He didn’t seem like the type to chase EXP or speedrun records.
 
-But he probably really needed that essence.
+But if he was this insistent, he must’ve genuinely needed it.
 
-“No matter what you say...”
+“No, no matter how much you—”
 
-“Pardon me, but don’t the Golden Mage not really know my skills?”
+“Forgive my boldness, but perhaps the Golden Mage doesn’t truly know my capabilities?”
 
-“Are you saying my judgment was wrong?”
+“Are you saying my judgment is wrong?”
 
-“Haha... not that... I just wanted him to be tested. To see if he’s qualified.”
+“Haha, not at all. I’m simply asking for a chance to prove my qualifications.”
 
-Even as Raven spoke seriously, the man didn’t back down, and Raven sighed, seeming annoyed.
+Even as Raven frowned, the man refused to back down, causing Raven to sigh in exasperation.
 
 So I stepped in.
 
-After all, I was the one who assigned this troublesome task.
+Honestly, I was the one who’d saddled him with this annoying task. So in that sense
 
-“If you want to be tested, I’ll help.”
+“If you’re so eager for a test, I’ll help you out.”
 
-“Baron Yandel...?”
+“Baron Jandel…?”
 
-When I joined the conversation, the man looked surprised, then nodded as if relieved.
+The man looked surprised for a moment, then nodded as if things worked out in his favor.
 
-“Then I ask you, please.”
+“Then I’ll be in your care.”
 
-He raised his ‘Big Hammer’ with a hostile gaze right after.
+As soon as he finished, he raised his ‘big hammer’ with a fierce glare.
 
-‘I never even said how you’ll be tested.’
+‘He didn’t even ask what kind of test it would be.’
 
-Not surprising.
+Not surprising. Explorers have always been macho like that.
 
-Explorers have been macho for ages.
+Honestly, I find this approach easier too.
 
-I actually prefer this way.
+“Uh… Jandel? You don’t have to waste your strength on this…”
 
-“Um... Mr. Yandel? You don’t have to waste strength because of me...”
+What’s she saying?
 
-What is she saying now?
+“This isn’t a waste of strength.”
 
-“I’m not wasting strength.”
+“…Huh?”
 
-“...Huh?”
+“It’s saving time.”
 
-“I’m saving time.”
+I activated [Gigantification] and looked down at him.
 
-I activated [Gigantism] and looked down at him.
+Then—
 
-Then...
+“Strike.”
 
-“You’re small.”
+With that one word, the duel began.
 
-With that brief word, the sparring began.
+As expected from someone nicknamed “Big Hammer,” his body was sturdy. The duel dragged on for quite a while.
 
-But fittingly for someone nicknamed ‘Big Hammer,’ his body was quite solid, so the sparring dragged on.
+Maybe 15 minutes?
 
-About fifteen minutes passed.
+“I concede…”
 
-“I lost...”
+He never managed to land a blow, while I sent him flying every time my hammer struck his jaw.
 
-While he couldn’t damage me at all, he accepted defeat after I repeatedly smashed his jaw with the hammer.
+In the end, he accepted defeat.
 
-“I guess I was greedy. It’s a shame, but I’ll give up on the 4th floor.”
+“It seems I was greedy. I’ll give up on the 4th floor.”
 
-His neat attitude was in stark contrast to how he pleaded with Raven.
+His dignified tone was a stark contrast to his earlier stubbornness with Raven.
 
-It might seem strange, but macho types usually accept the laws of strength without complaint.
+It might seem odd, but macho people tend to respect the law of strength.
 
-“Whaaaaaa!”
+“Wooooooow—!”
 
-“The Baron’s victory!”
+“Victory to the Baron!”
 
-Crowds cheered, but I felt no particular excitement.
+The spectators erupted into cheers, but I felt no excitement.
 
-‘At this point, damage definitely isn’t landing.’
+‘It really is getting harder to deal damage.’
 
-A recent frequent frustration of a tank.
+This is the tragedy of a tank.
 
-With Bellarios essence and Aegis Barrier, I was several times stronger than before, but the damage was the same as before—
+Even after absorbing Bellarios’s essence and equipping Aegis’s wall, my damage is still the same.
 
-“Mr. Yandel, can I talk to you?”
+“Jandel, can we talk?”
 
-“Ha ha ha, if it’s to say thanks, that’s fine—”
+“Haha, no need to thank me—”
 
-“Ah, you wasted 15 minutes on something that could’ve taken 5?”
+“No, I mean for wasting 15 minutes on something I could’ve handled in 5.”
 
-“Uh...”
+“…Huh.”
 
-My mind blanked for a moment.
+For a second, my mind went blank.
 
-Raven chuckled like it was a joke when he saw me like that.
+Seeing my reaction, Raven stifled a laugh.
 
-“Enough, follow me. I have something to tell you.”
+“Anyway, come with me. I needed to talk to you about something.”
 
-We moved a few steps, Raven activated a voice control spell, and I changed my expression to serious.
+As I took a few steps after her, Raven activated a sound-dampening spell. I, too, shifted to a more serious demeanor.
 
-“Is this a secret?”
+“Is this a secret matter?”
 
-“No? Not really... I don’t know. It’s better you judge.”
+“Is this something that needs to be kept secret?”
+
+“Huh? No, not really… I’m not sure. You’d be the better judge.”
 
 “Go ahead.”
 
-I bowed to match his small stature, ready to listen, and Raven slowly began.
+I bent down slightly to match her height and listened intently as Raven slowly began.
 
-“As you know, I act as a kind of examiner, so I’ve had many chances to hear what happened inside. And I learned...”
+“As you know, since I’ve been acting as a sort of examiner, I’ve had plenty of chances to hear about what goes on inside. And well…”
 
-Before he could say more, Raven summarized the key point.
+Cutting to the chase—
 
-“Duke Cambormiier isn’t saying anything anymore.”
+She cut to the point before I even asked her to.
 
-“Not saying anything?”
+“Duke Cambormere has stopped speaking entirely.”
 
-Wasn’t that always the case?
+“Stopped speaking?”
 
-I was about to say that when—
+Wasn’t that normal?
 
-“No, literally no words. No rising murderous intent or anything.”
+That was my first thought, but—
 
-“Ah...”
+“No, I mean literally nothing. Not even vague mutterings or threats.”
 
-“Now, he just rushes with bloodshot eyes as soon as you enter... I find it weird. Right after you appeared, he at least ‘spoke,’ didn’t he?”
+“Oh…”
 
-My hand, lost in deep thought, naturally moved to my chin.
+“Now, as soon as someone enters, his eyes go red and he just attacks. It’s weird, don’t you think? Right after you left, he was still talking.”
 
-“Indeed...”
+My fingers moved to my chin in deep thought.
 
-It’s suspicious.
+“That is strange…”
 
-It felt odd that a perfectly fine man suddenly went mad.
+It is suspicious.
 
-He was sane for three hours, wasn’t he?
+His sudden descent into madness did feel off.
 
-“There’s no change without a cause.”
+Wasn’t he been sane for a full three hours?
 
-Raven said with a mage’s tone, looking up at me.
+“There’s no such thing as a change without a cause.”
 
-“Then why did the Duke suddenly change?”
+Raven looked up at me. Her voice was serious.
 
-As a barbarian, no matter how much I think, I can’t answer.
+“Then what caused the Duke’s sudden transformation?”
 
-But as a gamer, it’s different.
+A question no barbarian could answer—
 
-Actually, the first hypothesis I had upon hearing that was—
+But as a gamer, I had a theory.
 
-[Actually... the madness has returned since a while ago.]
+[Actually… my madness is returning.]
 
-If the gentleman talking normally is an ‘error’ from the maze’s perspective...
+If the Duke speaking coherently was considered a bug by the labyrinth…
 
-‘Hotfix...’
+Hotfix.
 
-It might be a real-time patch of an error.
+Maybe someone governing this labyrinth patched it in real-time.
 
-By someone ruling the maze.
+***
 
-There are 27 types of Rift Guardians from 1st to 5th floor.
+There are 27 confirmed rift guardians from floors 1 to 5.
 
-And 14 unidentified guardians in the same category as Duke Cambormiier.
+14 unconfirmed guardians, like Duke Cambormere.
 
-A total of 41.
+Total: 41.
 
-At first, the boss run felt overwhelming, but after steady progress, the end is near.
+At first, the boss fight seemed overwhelming, but as we continued to advance, the end was near.
 
-‘One left...’
+‘Just one more…’
 
-Now only one statue remains.
+Only one statue remained: a fifth-floor Rift Guardian.
 
-For reference, that statue appears in a ‘unique rift’ that opens very rarely, and it doesn’t match well with me.
+This is a unique rift that appears with an extremely low probability, and it’s a bad match for me.
 
 That’s why I saved it for last.
 
-“Haa...”
+“Sigh…”
 
-I sighed while looking at the motionless stone gate despite dozens of lights already lit.
+Even though dozens of lights had already lit up, the stone gate remained motionless.
 
-‘Looks like something will happen only after clearing that last one...’
+Staring at it, I let out another sigh.
 
-It means I have no choice but to kill that one too.
+‘Do I really have to clear every last one for something to happen?’
 
-‘At least two people can enter, so it might be doable...’
+Meaning I had to take this one down too.
 
-I thought about skipping this run, but there was no suitable alternative.
+Still, the rift allows two people, so it’s manageable.
 
-A tank is essential for boss fights, but there’s no one reliable enough to fill my place.
+I considered sitting this one out, but there was no good alternative.
 
-Well, there might be someone if I searched...
+A tank was essential for this boss fight, and there was no one who could reliably fill my role.
 
-‘But I don’t trust them.’
+Well, that wasn’t entirely true. If I looked hard enough, I could find candidates, but…
 
-In that case, better I go.
+‘They’re just not reliable enough.’
 
-So now I have to decide who to bring.
+I’d be better off going myself.
 
-‘Erwen again?’
+So, the real question was: Who should I bring?
 
-It’s a safe choice.
+‘Erwin again?’
 
-She’s basically a cheat key.
+It was a safe choice.
 
-Erwen was the one who hunted guardians most with me, second only to Raven.
+After all, she was practically a cheat key.
 
-For easy rifts, we brought a mage and collected essences; for difficult rifts, except some exceptions, I took Erwen along...
+In fact, after Raven, Erwin had accompanied me the most on guardian hunts.
 
-‘...No.’
+For easier rifts, I brought mages to harvest essences. For harder ones, I always took Erwin unless specific conditions applied.
+
+‘…No.’
 
 I shook my head.
 
-The current target isn’t a foe you can defeat by brute force alone.
+This boss couldn’t be defeated through brute force alone.
 
-How about Amelia?
+What about Amelia, then?
 
-‘She’s not bad either...’
+‘She’s not bad, but…’
 
-But Ainard seems better.
+Aynar might be the better option.
 
-Though his fighting spirit has ◈ Nоvеlіgһт ◈ (Continue reading) dropped and presence faded, his luck remains undeniable.
+Though her presence had faded since her fighting spirit waned, her luck couldn’t be ignored.
 
-However...
+Tap.
 
-Thunk.
+If it’s luck I’m banking on—there’s an even better candidate.
 
-If you’re hoping for luck, there’s a better option.
+And he’s standing right in front of me.
 
-Right here, right before me.
+“Get ready. We’re heading into the rift.”
 
-“Get ready. We’re entering the rift.”
+The moment my words landed, he blinked in confusion.
 
-As soon as I said that, he blinked in surprise and asked again.
+“Huh? Me? Why, why me…?”
 
-“Me? Why... why me?”
-
-He was Sven Parab, a paladin of the Reatlas faith.
+It was Sven Parav, the holy knight of the Leatlas Church.

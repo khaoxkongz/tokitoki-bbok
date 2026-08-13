@@ -1,427 +1,421 @@
 # Bossrun 5
 
-The unique 5th floor rift — the Soul Fortress.
+Fortress of Souls, the unique rift of the 5th floor. Here the guardian appears as a maze type boss called Soulkeeper Hausiel.
 
-And here appeared the labyrinth-type boss monster serving as the guardian, “Spirit Guardian Housiel.”
+To be honest, this guy’s Phase 2 isn’t all that dangerous.
 
-In truth, its second phase isn’t very dangerous.
+Depending on your character’s luck stat, the number of chests you need to open varies, but usually, after opening about 500, you’ll find the mana stone and proceed to the next phase.
 
-Depending on the character’s luck stat, there’s some variation, but usually opening around five hundred boxes is enough to find the magic stone and move on.
+But…
 
-However...
+‘There’s no guarantee I’ll be that lucky.’
 
-‘No guarantee I’ll be so lucky.’
+That’s why I brought Sven Parab with me.
 
-That was also why I brought Sven Parab along.
+What’s needed to conquer this rift isn’t the ability to find gold, but the ability to avoid stepping in shit.
 
-What’s needed to clear this rift isn’t the ability to find gold, but the ability to avoid bad luck.
+From what I could tell, this guy was specialized in avoiding misfortune.
 
-From what I see, this guy is specialized in dodging misfortune.
+‘I wasn’t expecting this though…’
 
-‘So I didn’t expect much from this...’
+But what’s this? Some kind of hidden-camera prank?
 
-But what is this? Some kind of hilarious prank?
+As I stared at the chest emitting a brilliant golden light, my mind went blank.
 
-Looking at the box glowing with a brilliant golden light made my head go blank.
+“Sven Parab…”
 
-“Sven Parab...”
+“Huh? Ah, yes, Baron.”
 
-“Yes? Ah, yes, Baron.”
+“Before opening the chest, did you feel anything strange?”
 
-“Did you feel anything strange before opening the box?”
+“No…? It felt the same as usual…”
 
-“No...? It was just like usual...”
+So does that mean we just got lucky?
 
-Hah, then it just means he was really lucky?
+Even thinking it over again, it doesn’t make any sense.
 
-Even thinking it over, it doesn’t make sense.
+A character with the ability to sense misfortune and an incredible natural luck?
 
-A character with a natural sense for misfortune and innate luck combined.
+At this point, it seems like this world should introduce a new Numbers item.
 
-At this point, it feels like this world needs to add a new “Numbers” item.
+Maybe something like…
 
-Something like...
+Parab’s golden relic .
 
-Parab’s Golden Goblin Statue
+Number ID: 7777.
 
-With the bestowed number 7777.
+Or maybe a single-digit Numbers item below 10.
 
-Or a single-digit single number below 10.
+Yeah, that would balance things out.
 
-Yeah, that would keep the balance right.
+“Uh… so what is this thing?”
 
-“Um... but what is this?”
+His question snapped me out of my thoughts.
 
-I gradually came back to my senses as he asked again.
+Standing a few steps away from the chest, he looked at me with a curious, innocent expression.
 
-He stood a few steps away from the box cautiously, looking at me with an innocent expression.
+I kinda wanted to give him a kiss, but that would just reignite the misunderstanding, so I held back.
 
-I wanted to give him a kiss, but that would only revive the misunderstanding I’d just calmed down, so I passed.
+“That chest is something that can be found only with extremely low probability when clearing Hausiel.”
 
-“It’s a box that can be found with a very low probability when defeating Housiel.”
+“Is it valuable?”
 
-“Is it a good thing?”
+As expected of an explorer.
 
-Well, he’s an explorer after all.
+“It’s very valuable. Exceptionally so.”
 
-“It’s good. Very good.”
+At my answer, his eyes lit up.
 
-I answered firmly, and his expression changed.
+Then, with a curious and greedy gaze, he turned his attention back to the chest.
 
-His eyes moved into the box, tangled with curiosity and greed.
+His expression screamed, “What’s in there making you react like this?”
 
-I wondered what could be inside to make me say that much.
+‘But it’s probably not that appealing to him.’
 
-‘But it probably wouldn’t be especially appealing to him.’
+The value of the item in the chest depends on the person.
 
-The value of items inside the box varies depending on the recipient.
+To some, it might be worth more than a single-digit Numbers Item. To others, it might be utterly useless.
 
-To some, it might have greater worth than a single number item, but to others, it might be completely useless.
+And Sven fell into the latter group.
 
-Paladin Parab belongs to the latter.
+Rustle.
 
-Slowly, he reached his hand into the still glowing box and grasped something round with his fingertips.
+I reached into the still-glowing chest and my fingers closed around something round.
 
-“...What is this used for?”
+“…What’s it used for?”
 
-I grinned and explained the use of the item.
+I grinned and explained the item’s purpose.
 
-I had to pretend to be a local, so my explanation grew lengthy, using words like “merit points” and so on...
+Since I had to act like a local, I had to avoid terms like “experience points,” so the explanation got longer.
 
-But in fact, it could be described in just five letters.
+Honestly, though, it could be summed up in just five words:
 
-“Experience potion.”
+‘An experience potion.’
 
-Now level 11 was possible.
+Rank 11 is now possible.
 
-「Character has consumed ‘Dreaming Soul.’」
+「The character has consumed ‘Dreaming Soul.’」
 
-「Upon reaching level 10, gains 10,000 EXP.」
+「When the character reaches Level 10, 10,000 EXP will be gained」
 
 Dreaming Soul.
 
-An ultra-rare item only obtainable during the boss fight with Spirit Guardian Housiel.
+It is an ultra-rare item obtainable only during the boss fight against Soulkeeper Hausiel.
 
-It’s absolutely essential to reach level 11, which was the original max level in normal mode.
+Practically speaking, it’s a must-have item to reach Level 11, the original mode’s max level.
 
-Because even after killing all kinds of monsters, about 14,000 more experience points are needed to reach level 11.
+Even after defeating every type of monster, you will need around 14,000 EXP to reach level 11.
 
-Even if you kill all the monsters, it’s nearly impossible to fill that experience bar by portal or rift runs...
+While you can kill all the monsters, you’ll still have to grind through multiple portal and rift runs to fill the rest, which is nearly impossible.
 
-‘And so it’s eaten like this.’
+“And I just got it like this…”
 
-Honestly, I was dazed.
+Honestly, I was stunned.
 
-Getting this item was extremely rare.
+That’s how rare this item was.
 
-In fact, the last time I opened the Abyssal Gate, I was still level 10.
+Back when I opened the Abyss Gate, my character was just level 10.
 
-Though things went smoothly early on, allowing me to fully set equipment and essences.
+But, back then, that character had it easy from the start, and by the end, I had fully optimized my gear and essences.
 
 Anyway.
 
-“......”
+“…….”
 
-After gulping down the potion at once, I glanced sideways and saw Parab looking downcast, shoulders slumping.
+After chugging the potion in one go, I noticed Parab sulking with his shoulders slumped.
 
-Well, I could understand that.
+Well, I can’t blame him.
 
-It’d feel like winning the lottery jackpot only to find out the number was from the previous draw.
+If you thought you’d won the lottery, only to find out it was the number from the previous draw, anyone would feel cheated.
 
-That’s why his next reaction surprised me.
+Which is why his next reaction surprised me.
 
-“Well, that’s good. It means the Baron can climb even higher.”
+“Still, it’s good news. It means you can climb even higher, Baron.”
 
-I could tell it wasn’t a courtesy but a sincere comment.
+It didn’t sound like a polite remark; he genuinely meant it. There was a hint of disappointment, but no trace of jealousy or resentment.
 
-A hint of regret, but no envy or jealousy.
+“Haha, don’t look at me like that. It’s useless to me anyway, and you said it’s impossible to take it out even with distortion magic, right?”
 
-“Haha, don’t think like that. It’s useless for me anyway, and didn’t you say that even if I cast distortion magic, I can’t take it with me?”
+“Well, that’s true, but…”
 
-“That’s true, but...”
+Hearing him say that first made me feel indebted somehow. If something good comes up later, I’ll prioritize him.
 
-Hearing that first made me feel like I owed him more.
+“Let’s get moving.”
 
-If anything comes up later, I’ll be sure to take care of him first.
+The longer we spent time here, the tougher the boss would get. So we wrapped things up and resumed the search.
 
-“Let’s get moving again.”
+And we continued chatting while opening the boxes.
 
-The longer we dawdled, the harder the boss fight would become, so we tidied up and resumed searching.
-
-While continuing to open boxes, we talked.
-
-“Baron, I’m curious about something...”
+“Baron, I have a question…”
 
 “Go ahead.”
 
-“What happens if you open the box you’re worried about?”
+“What happens if you open the chest you’re so worried about?”
 
-Ah, that one.
+Ah, that.
 
 “Simple.”
 
-As soon as you open the box, 5,000 experience points vanish.
+The moment you open it, 5,000 EXP disappears.
 
-It’s common to lose levels, and when that happens, a corresponding number of essence slots randomly lock.
+Naturally, your rank usually drops, and when that happens, a random number of essence slots get locked based on how many levels you lost.
 
-“What a crazy curse... Losing all the merit points collected so far...”
+“That’s a maddening curse… To lose all the merits you’ve accumulated…”
 
-Parab didn’t doubt my info, just tilted his head confused, wondering why he never knew such a thing existed.
+Parab didn’t doubt my words. He just tilted his head as if thinking, “How did I not know about this?”
 
-“But the curse is a later problem. The real issue is the rift guardian.”
+“But the curse isn’t the real problem. The real issue is the rift guardian.”
 
-“The guardian?”
+“The guardian…?”
 
-“Yes.”
+“Yeah.”
 
-If you open that box, the guardian absorbs your experience and grows stronger.
+If you open that chest, the guardian absorbs your EXP and grows even stronger.
 
-And you’re supposed to defeat it with essence slots locked?
+And then you’re supposed to fight that thing with one of your essence slots locked?
 
-Even I can’t guarantee I’ll survive.
+Even I can’t guarantee I’d make it out alive.
 
-“That must be part of why you brought me. The curse is meaningless to a paladin.”
+“So that’s another reason you brought me. Because the curse is meaningless to a holy knight.”
 
-“Well, that’s not the only reason. But don’t worry, if you find ‘Dreaming Soul’ in the box, the guardian becomes much weaker than usual.”
+“Well, it wasn’t the only reason, but yeah. On the flip side, if you find ‘Dreaming Soul’ instead, the Guardian gets much weaker than usual.”
 
-As we talked, while steadily opening boxes, I understood Parab’s intuition better.
+As we talked, we kept opening chests, and I got a clearer understanding of Sven Parab’s intuition ability.
 
-‘Looks like it doesn’t activate on minor curses or monster boxes... Only when truly dangerous.’
+‘It doesn’t react to weak curses or monster chests… So it only activates when there’s real danger.’
 
-Still, that alone was a near-miracle ability... or maybe it really was a miracle.
+But even that alone is a near-mystical ability.
 
-After all, he recently received an oracle.
+No, maybe it’s something that truly transcends human limitations.
 
-“Ah, looks like we finally found it.”
+“Ah, I think we found it.”
 
-After a long search, we found a box containing the magic stone and moved on to the next phase.
+[The Soulkeeper Hausiel’s [Defensive System] has grown stronger.]
 
-Crack!
+After searching for a long time, we finally found the chest containing the Mana Stone and moved on to the next phase.
 
-As soon as I smashed the stone, we moved into a space that felt like the inside of a giant worm’s body.
+CRACK!
 
-Thump!
+As soon as I shattered the stone, we were transported to a space that resembled the inside of a giant worm.
 
-The floor was slippery and squishy, writhing periodically like a living creature.
+Thump–!
 
-Also...
+The slimy, squishy floor pulsed like a living organism.
 
-「Spirit Guardian Housiel’s [Defense System] strengthens further.」
+And then…
 
-Sticky liquid began oozing from the ceiling, floor, and walls.
+A sticky liquid began oozing from the ceiling, floor, and walls.
 
-“We have to move fast before it fills up.”
+“We need to move quickly before it fills up.”
 
-We moved faster than ever to tackle phase three.
+We moved faster than ever, pushing through the third phase of the raid.
 
-Even the best tank has to breathe.
+No matter how good a tank is, they still need to breathe.
 
-In the game, if that liquid fills completely, it’s game over.
+In the game, if the liquid filled up completely, it was game over.
 
-Of course, after completing the map, we’d never had a wipe here.
+Of course, after memorizing the map, I never got drowned again.
 
-‘Go straight, turn left at the fork, then go straight twice more, then turn right...’
+‘Go straight, take a left at the three-way fork, then go straight for two more intersections before turning right…’
 
-I haven’t memorized the whole map, but I know perfectly how to reach the magic stone.
+I hadn’t memorized the entire map, but I knew the exact path to the mana. stone.
 
-Step, step.
+Squelch, squelch.
 
-Breaking through monsters blocking the way and running over acid up to our calves, we quickly reached the goal.
+As we smashed through the monsters blocking our path and sprinted through the acidic liquid that rose to our calves, we soon reached our destination.
 
-Thump!
+Badump Badump!
 
-A heart-shaped magic stone pulsed as if alive.
+A heart-shaped mana stone pulsed as if alive. Without hesitation, I swung my hammer with all my might and shattered it.
 
-Without hesitation, I smashed it with all my strength.
+And then…
 
-And...
+Whoosh!
 
-Whoosh...!
+The long-awaited final phase.
 
 The final phase.
 
-When we opened our eyes, we were greeted by a space reminiscent of outer space.
+When we opened our eyes, we were greeted by a space that resembled the cosmos.
 
-At the center was a transparent glass staircase shaped like a pyramid, and at its peak floated a giant eyeball-shaped magic stone.
+In the center was a transparent, glass-like pyramid-shaped staircase. And at the top of the stairs, there was a huge mana stone, floating like an eye.
 
-The true body of Spirit Guardian Housiel.
+It was Soulkeeper Hausiel’s true form.
 
-‘No lines again this time.’
+‘No dialogue this time either.’
 
-As soon as we arrived, its eyes snapped open, and like the underground first floor during the rainy season, monsters began pouring out.
+The moment we arrived, its eye snapped open and monsters began to pour out, just like during the rainy season on the basement floor.
 
-A legion of hundreds of monsters.
+Hundreds of monsters came flooding in, like a full-blown army.
 
-「Spirit Guardian Housiel’s [Defense System] strengthens further.」
+[The Soulkeeper Hausiel’s [Defensive System] has grown stronger.]
 
-Because we arrived relatively early and had opened a golden box in between, the monsters weren’t that high rank.
+Fortunately, since we arrived early and even opened the golden chest on the way, the monster ranks weren’t too high.
 
-‘Up to grade 4 monsters...’
+‘At most, Rank 4…’
 
-Oh, by the way, arriving maxed out with experience lost means even grade 2 monsters appear.
+Ah, for reference, if you reach here with your EXP depleted, even Rank 2 monsters can spawn.
 
-The main body’s power is also much stronger.
+And the boss becomes much stronger too.
 
 “Move quickly!”
 
-We hurried up the stairs before the monsters descended, fighting fiercely from the moment they touched us.
+We rushed up the stairs before the monsters could descend. Once they reached us, we fought fiercely to carve a path forward.
 
-Being a 5th floor rift, it wasn’t easy for just two.
+Given that this was a 5th-floor rift, it wasn’t easy with just the two of us.
 
-If there were a mage with AoE skills, opening the path would’ve been much easier.
+If we had had a mage with area-of-effect (AOE) spells, clearing a path would have been much easier.
 
-Well, what can you do without one?
+But what can you do when you don’t have one?
 
-“Behel—laaaaaaa!!”
+“Bethel—RAAAAAAAH!”
 
-We climbed the stairs amid the fierce battle.
+We continued our desperate fight up the stairs.
 
-More annoying than the monsters was the main body itself.
+Honestly, the boss itself was more annoying than the monsters.
 
-Pew!
+Boom!
 
-Magic cannon firing straight at me is one thing.
+It fired mana cannons straight at me, but that was the least of our worries.
 
-「Spirit Guardian Housiel casts [Target Lock].」
+[Soulkeeper Hausiel uses ‘Target Designation.’]
 
-Because aggro periodically drops, the following comrades also need the stamina to survive the waves.
+Its aggro resets at regular intervals, so your allies must be tough enough to survive the waves, too.
 
-Also...
+And on top of that…
 
-Whoooosh-!
+WOOOM—!
 
-Every time it emits a pulse, its body, which has [Gigantism] active, is pushed backward.
+Every time it released a pulse, I was pushed back even with my [Gigantification] active.
 
-“What are you standing there for! I’ll open the path somehow, so come up! Don’t act like an idiot!”
+“Quit standing around! I’ll clear a path, so just follow me up! Don’t act like an idiot!”
 
-“Yes, yes...!”
+“Y-Yes…!”
 
-Though I spoke stronger than usual, it couldn’t be helped.
+I spoke more harshly than usual, but I had no choice.
 
-If knocked back or pushed by monsters to fall down, it’s instant death.
+The moment you get knocked back or pushed down by monsters, it’s an instant death sentence.
 
-Even if I could solo the boss, I had to stubbornly climb the stairs and endure.
+Sure, I could probably solo the boss, but only if we stayed alive long enough to get there.
 
-Thwack! Thwack! Thwack!
+Wham! Wham! Wham—!
 
-Swinging my hammer wildly, I knocked monsters aside.
+I swung my hammer wildly, knocking monsters aside.
 
-Most just lost balance and tumbled down the stairs, but unlucky ones rolled a long way down into the endless darkness.
+Most of them tumbled down the stairs, but the unlucky ones fell into the endless abyss.
 
-More would spawn anyway.
+Not that it mattered, new ones just kept spawning.
 
-‘Damn it.’
+“…Damn.”
 
-As I fought while climbing, Sven Parab fell behind.
+Amidst the chaos, I realized I’d been separated from Sven Parab.
 
-Between us and him, monsters had filled the space.
+And now, a horde of monsters stood between us.
 
-‘Maybe it’s faster to kill the main body than to go save him...’
+“Saving him might take longer than killing the boss…”
 
-My game-hardened brain made the most logical choice, removing emotion.
+Game-trained instincts kicked in, and I made the most rational choice.
 
-It’s the monster legion that’s tricky; if you can just get close, killing the main body is easy.
+The horde was the real challenge. If I could just get close, the boss wasn’t that bad.
 
-Still, he’s my teammate, so I wondered if going back to save him was the right thing.
+But still, he’s an ally. Wouldn’t it be right to go back for him?
 
-‘...What to do?’
+‘…What do I do?’
 
-At that moment of intense hesitation—
+As I agonized over it—
 
-“I’ll hold on! Go on ahead...!”
+“I’ll hold out! Go on ahead…!”
 
-He shouted first, letting me proceed without regret.
+He shouted, letting me move forward without regret.
 
-And then...
+And then…
 
-「Character used [Swing].」
+[You used ‘Swing.’]
 
-「Character used [Swing].」
+[You used ‘Swing.’]
 
-「Character used [Swing]...」
+[You used ‘Swing’…]
 
-Finally reaching the main body, I swung my hammer like a madman again and again.
+I finally reached the main body and swung my hammer wildly.
 
-Though the main body was fragile, the tank barbarian’s damage meant hundreds of hits were needed...
+It had a fragile body, but even with the strength of a tank barbarian, it felt like I struck it hundreds of times.
 
-Crack!
+CRACK—!
 
-At last, the giant magic stone shattered, breaking into tens of thousands of fragments scattering everywhere.
+Eventually, the massive mana stone shattered into thousands of pieces.
 
-And...
+And then…
 
-「Spirit Guardian Housiel defeated EXP +6」
+[The Character has defeated Soulkeeper Hausiel. EXP +6]
 
-「Guardian defeat bonus EXP +3」
+[Guardian Kill Bonus. EXP +3]
 
-The legion of over a thousand monsters instantly turned into light and scattered, filling the space with glow.
+The monster army dissolved into light, flooding the entire space.
 
-In the midst of it, I hurried to find Sven.
+In that radiance, I quickly searched for Sven Parab.
 
-“Ugh...”
+“Hah…”
 
-He had rolled down halfway down the stairs, panting heavily, his body battered and bruised.
+He had rolled down to the middle of the staircase, gasping for breath and looking terrible.
 
-“I-I'm alive...”
+“I… I lived…”
 
-Whew, I really have to take good care of him from now on.
+Sigh, I really need to take good care of this guy from now on.
 
-With the boss fight over, the portal opened.
+***
 
-A rainbow-colored essence dropped ✧ NоvеIight ✧ (Original source) as well.
+With the boss fight over, a portal opened. And a rainbow-colored essence dropped.
 
-‘Ha... I have to leave this behind.’
+‘Ugh… I have to leave this behind.’
 
-Words couldn’t express how much I hated to do that.
+No words can describe how painful this is.
 
-The essence was that valuable.
-
-All because of one passive skill.
+This essence was just that valuable, not for anything major either, but for a single passive skill.
 
 [Soul Contract].
 
-The effect of this passive skill is simple.
+The effect was simple:
 
-You instantly become level 8 but can no longer gain experience.
+You instantly reach Rank 8, but you can no longer gain EXP.
 
-If you want to reach higher, you must never consume it.
+If you want to climb higher, you must never consume this.
 
-However, this essence sells for an extremely high price.
+However, the item sells very well.
 
-Years ago, a marquis family reportedly bought it for billions of stones.
+There’s even a famous story about a marquis family buying it for billions of Stones a few years ago.
 
-‘His wife filled seven slots just with beauty-related essences...’
+‘I heard his wife took it and filled all seven essence slots with beauty-related ones…’
 
-It’s ridiculous, but such things happen every day in reality.
+It’s absurd, but that’s the kind of thing that happens every day in this world.
 
-‘Anyway, I’ve earned enough money here. Let’s prioritize getting out...’
+‘Well, I’ve already made enough money since coming down here. Getting out is the top priority…’
 
-Putting greed aside, I took the portal out with Parab.
+Putting aside my greed, I stepped through the portal with Parab.
 
-Normally, someone would have rushed over to check if I was hurt, but this time was different.
+Normally, someone would rush over to greet us, asking if we were hurt.
 
-“......”
+But this time was different.
 
-“......”
+In the heavy silence, everyone gathered around the stone statue was staring in one direction
 
-In the quiet stillness, everyone around the statue was staring at one spot.
+I quickly turned my head to see what they were looking at.
 
-I hurriedly turned to see what they were looking at.
+‘The door is already open…’
 
-‘The door is already open...’
+Was it because we took too long after defeating the boss?
 
-Maybe because we lingered after killing the boss, the stone door was wide open, revealing what was hidden inside.
+The tightly sealed stone door was now wide open, revealing what had been hidden inside.
 
-“A portal...?”
+“A portal…?”
 
-A red portal that looked ominous just to see it.
+A red portal that felt ominous just from looking at it.
 
-A familiar mage muttered.
+A mage murmured at the sight.
 
-“This isn’t a normal portal. The mana wavelength is...”
+“This isn’t a normal portal. This magical wavelength is…”
 
-“...?”
+“…?”
 
-“A rift... a rift!”
+“A rift… It’s a rift!”
 
-The rift from the underground first floor had opened.
+The Rift on the Basement floor 1 had opened.

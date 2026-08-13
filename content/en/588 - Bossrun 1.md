@@ -1,527 +1,524 @@
 # Bossrun 1
 
-To an explorer, knowledge is a precious asset.
+For explorers, knowledge is a valuable asset.
 
-That’s why they never share their experiences or gathered information with others for free.
+That’s why they never give away their experiences and information for free. This doesn’t mean they’re stingy or petty, though.
+Reference
 
-Ah, of course, that doesn’t mean they’re stingy.
 
-It’s just that this attitude is widely accepted as normal in the explorer industry...
+It’s just that this culture is deeply ingrained in the explorers industry.
 
-Great navigators like Pikma.
+Take the great navigator Peekma for example.
 
-Abyss Scavenger Rimenin, and others.
+Or Lemenin, the Abyss Seeker.
 
-The reason why such figures, called great men, are respected by all is largely because of this. They didn’t just achieve great feats; they lived lives of generously giving and sharing what they had for the public good.
+One of the reasons these revered figures are respected by all is not just because of their accomplishments, but because they selflessly gave and shared what they had for the greater good.
 
-Anyway, in that sense...
+In that sense…
 
-“Alright, now that we’re inside, let’s briefly cover the guardian we need to take down this time—”
+“Alright, now that we’re inside, let’s briefly go over the Guardian we’ll be dealing with this time—”
 
-I cut off Raven’s triumphant words the moment we passed through the portal.
+“No need to explain.”, I cut her off as soon as she began to speak.
 
-“No need to explain.”
+“Huh? But you said you needed me earlier?”
 
-“Eh? But you said you needed me earlier?”
+Raven seemed flustered by my response.
 
-Raven looked flustered by my words.
+Did she think that I needed her for her information?
 
-Did he really think I meant I needed knowledge?
+That would explain why her bony shoulders shot up so proudly right after I said it.
 
-No wonder his skinny, anchovy-like shoulders rose all the way up as soon as he heard me.
+“Raven, the reason I need you is for something else.”
 
-“Raven, the reason I need you is different.”
+“…What is it?”
 
-“...What is it?”
+Her voice sounded somewhat sulky.
 
-His voice sounded somewhat sulky.
+Having spent so much time together as comrades, I could instantly tell she was only acting annoyed because she was embarrassed.
 
-Since we’d been companions for a long time, I immediately recognized that he was pretending to be annoyed because he was embarrassed.
+Though she did seem genuinely angry afterward.
 
-Well, later on he really seemed angry.
+“This is a chance to obtain a Level 5 Guardian’s essence. Of course, we need to collect it in a vial.”
+Philosophy
 
-“Isn’t this a chance to get the essence of the 5th floor guardian? Of course, we have to bring it back in the test tube.”
 
-“...What?”
+“……What?”
 
-His cold voice echoed after a long pause.
+After a long pause, her voice rang out coldly.
 
-I quickly added, trying to excuse myself.
+I quickly continued, as if making an excuse.
 
-“And among the mages I know, you’re the most trustworthy. Raven.”
+“And out of all the mages I know, you’re the one I trust the most, Raven.”
 
-“...What are you saying? But isn’t Versil Gowlund also someone you get along well with? I °• N 𝑜 v 𝑒 l i g h t •° heard he acts almost like the vice-captain.”
+“…What are you saying? Then what about Versil Gowland? I heard you get along well with him. Some even say she’s acting like your vice commander.”
 
-“But trusting someone and being able to rely on them are different matters.”
+“Trusting someone and trusting them to have my back are two entirely different things.”
 
-“Hmm... really?”
+“Hmph… is that so?”
 
 Fortunately, Raven’s expression softened again.
 
-It was curious.
+It really was a mystery.
 
-Other people can be serious, but why does this guy give me chills down my spine? And he’s the shortest too.
+Why does she always make me nervous, even though she was the smallest among us?
 
-While pondering that, Raven muttered in a logical tone.
+As I wondered this, Raven mumbled in her usual logical tone.
 
-“Well, I guess that makes sense. Mr. Gowlund wouldn’t know your true identity. So, it would be hard for Mr. Yandel to act freely.”
+“I guess that makes sense. Gowland doesn’t know your true identity, right? That probably makes it harder for you to act freely around him.”
 
-Well, one thing’s certain: if he took an MBTI test, he’d definitely get a T—.
+Well, one thing’s certain—if this guy ever takes an MBTI test, she’d definitely get a T.
 
-“Unlike me, that is.”
+“Unlike with me.”
 
-“...Huh?”
+“…Huh?”
 
-“No, I just meant that. Don’t get weird ideas. It’s just... the truth, isn’t it?”
+“No, just saying. Don’t get weird ideas. It’s just… the truth, isn’t it?”
 
-“Hmm... That’s not exactly wrong.”
+“Well… you’re not wrong.”
 
-In fact, Versil doesn’t know that I’m a player.
+Versil doesn’t know I’m a Player.
 
-Besides, Versil is from the modern world, so unlike pureblood mages, he’s terrible at research and sees things and thinks differently.
+Plus, she’s from the modern world, so unlike pure-blood mages, she’s terrible at research and has a different perspective and thought process.
 
-That was why I chose Raven.
+That’s why I chose Raven.
 
-One player’s mindset is enough — I needed a local’s perspective.
+One Player’s way of thinking—mine—was enough. What I needed was a local’s viewpoint.
+Psychology
 
-“Anyway, can we get to the point now?”
 
-“Alright.”
+“Anyway, shall we get to the main point?”
 
-After that, Raven and I stayed at the start point talking about the upcoming boss battle.
+“Sure.”
 
-Mostly, I would explain something, and Raven would question it with doubts, then accept or admire after hearing my answers.
+Raven and I stayed at the start point and discussed the upcoming boss fight.
 
-“To think there was such a method... Is that knowledge from your world?”
+Usually, I would explain something and Raven would ask curious questions, then nod in understanding or admiration.
 
-Strictly speaking, it wasn’t really from this world but knowledge I gained through my twenties.
+“I didn’t know there was a way like that… Is that from your world’s knowledge?”
 
-“...Something like that.”
+Usually, I would explain something, and Raven would ask questions out of curiosity, then nod in understanding or admiration.
 
-“Kind of a half-hearted answer, isn’t it?”
+Strictly speaking, it wasn’t knowledge from this world but rather what I’d gained after dedicating my 20s to it.
 
-“What are you talking about? I’m always sincere.”
+“…Something like that.”
 
-“That’s a relief. Anyway... since we have plenty of time, tell me more about your world.”
+“That’s a pretty half-hearted answer.”
 
-Just as I was about to start moving, he made the request.
+“What are you saying? I’m always sincere.”
 
-I had received a lot from Raven before, so it was hard to refuse outright.
+“Well, that’s good to hear. Anyway… since we’ve got time, why don’t you tell me more about your world?”
 
-“Talking isn’t hard... but suddenly?”
+Just as I was about to suggest we get moving, she made this request.
 
-“Not suddenly, I’ve been curious for a while. But until now, we never had a chance to be alone...”
+Given how much I owed Raven, I couldn’t outright refuse.
 
-I suppose talking about such things outside could be a little awkward. So even if curious, he wouldn’t have asked by coming separately.
+“Talking isn’t a problem, but… why so suddenly?”
 
-“...For only 30 minutes. People will be waiting outside too.”
+“It’s not sudden. I’ve always been curious. I just never had the chance with the two of us alone…”
 
-“Okay. Fine. Then just 30 minutes.”
+True, it would be awkward to talk about such things in front of others. Knowing her, she wouldn’t have dared to bring it up before.
 
-“So, what are you curious about?”
+“…Thirty minutes. People are probably waiting outside.”
 
-When I smiled as if to say ‘say anything,’ Raven immediately asked.
+“Okay. Thirty minutes it is.”
+
+“So what are you curious about?”
+
+When I smiled like I’d allow anything, Raven immediately asked:
 
 “Internal combustion engines.”
+Chemistry
 
-“...Huh?”
 
-A word I never expected from him.
+“…What?”
 
-“They say these engines move huge iron carriages without words or mana? I’m curious about the exact principle.”
+Not something I ever expected to hear from her mouth.
 
-“...”
+“I heard those machines let huge metal carriages move without horses or magic. I want to know exactly how they work.”
 
-“Don’t you know? I heard for sure such things exist...?”
+“…”
 
-Is it because he’s a mage?
+Maybe it’s because she’s a mage?
 
-When I told Amelia about the modern world, I spoke about giant flying machines in the sky and how the people directly elect their king — such romantic stories.
+When I talked to Amelia about the modern world, it was all about romantic things, like huge flying machines in the sky, people electing their rulers…
 
-“I-I don’t not know.”
+“I-I do know.”
 
-“Oh, really? Then tell me, exactly how do internal combustion engines work?”
+“Really? Then explain. The exact principle behind an internal combustion engine!”
 
-“Well... they use steam? Heat energy? Something like that to turn wheels.”
+“Um… it uses steam? Or thermal energy? To rotate wheels.”
 
-“...Is that all?”
+“…That’s it?”
 
-Raven’s eyes grew cold after my answer. Somehow I felt ashamed, but the more so, I shamelessly continued.
+Raven’s fervor cooled at my reply. I felt a strange sense of shame, but I continued on
 
-“That’s it. Such details are classified state secrets. People like us couldn’t easily know.”
+“That’s it. That kind of detailed info was a top national secret. Regular people like us weren’t really supposed to know.”
 
-If Hyunbyeol had been here, she’d have sneered and laughed contemptuously.
+If Hyun-byeol were here, she’d have scoffed and looked at me in disdain.
 
 But what does that matter?
 
-Hyunbyeol isn’t here.
+Hyun-byeol isn’t here.
 
-There’s only an innocent local mage.
+Only one innocent native mage stands before me.
 
-“Simply put, it’s like magic from your world? Then I understand. Even ordinary people don’t know the principles behind the basic devices of magic engineering.”
+“So it’s basically like magic in this world, right? That makes sense. Most people don’t understand the basic principles of magitechnics either.”
 
-Raven accepted this seriously, and after that asked various questions while I continued talking about the modern world.
+Raven nodded seriously and continued asking questions about the modern world.
 
-I had suspected since he asked about internal combustion engines, but Raven knew surprisingly much.
+I had suspected it since she asked about combustion engines, but Raven knew a surprising amount.
 
-“I was pretty interested in the subject.”
+“I’ve always been interested in that field.”
 
 “Really?”
 
-“Yes... I studied it later on.”
+“Yeah… I even studied it on my own later.”
 
-“Studied?”
+“You studied it?”
 
-“After we met again, I got somewhat interested. Being in the army, it was easier to get related information...”
+“After we met again at that time, I got curious. And being in the military made it easier to access related information…”
 
-Certainly, before he was wary of evil spirits and avoided modern stories, but now his curiosity seemed bigger.
+Back then, she’d been wary of me as an evil spirit and avoided topics about my world. Now, however, her curiosity seems to have grown.
 
-That’s probably why he started this talk when we were alone.
+That’s why she brought it up as soon as we were alone.
 
-“Well... time’s almost up.”
+“Anyway… time’s up.”
 
-“Already?”
+“Ah, already?”
 
-Raven looked regretful but didn’t insist on continuing.
+Raven looked disappointed but didn’t insist on continuing.
+***
 
-The essence of the 5th floor Rift Guardian is highly valuable.
+The guardian essence from the 5th floor is extremely valuable.
 
-Because there are twelve types of rifts, it’s harder to get a specific essence...
+Since there are twelve different types of rifts that can open, getting a specific essence is very difficult…
 
-In fact, essences of 5th floor or higher guardians never appear at auction. No one wants to sell them, and even if they did, the royal family secretly takes them first.
+In fact, guardian essences from the 5th floor and above never even show up at auction. No one sells them—and even if someone tries, the royal family secretly buys them up first.
 
-“Have you been here before, Mr. Yandel?”
+“Jandel, have you been here before?”
 
 “No, it’s my first time. At least in this body.”
 
-“Ah...”
+“Ohh…”
 
-“Didn’t I say the story isn’t over? Focus.”
+“Didn’t I say we’re done talking? Focus.”
 
-Leaving the start point, we soon reached the boss room.
+After leaving the starting point, we soon reached the boss room.
 
-Flare—!
+Whoosh—!
 
-A small flame flickering in the middle of a charred forest. This area was the boss room of the 5th floor Rift called ‘Burning Forest.’
+A small flame crackled in the middle of a pitch-black, charred forest. This flame marked the boss room of the 5th-floor rift, “Burning Forest.”
 
-Normally, it’s a place you reach only after extinguishing all fires across the east, west, south, and north zones over several chapters...
+Originally, you’d have to clear several chapters and extinguish fires in all directions before reaching this place, but…….
 
-Here, all that tedious process is skipped.
+But here, all that tedious stuff is skipped.
 
-‘Experience points are basically copied here.’
+‘It’s like experience points are being copied wholesale.’
 
-Moreover, the guardians here drop essences guaranteed. Well, that’s not such a meaningful advantage if you think about it.
+Moreover, the Guardians here have guaranteed essence drop. Though, to be honest, that’s not as meaningful an advantage as it sounds.
 
-‘At least you can enter the 5th floor rift with two people. That’s a relief.’
+“At least the fifth-floor rift allows two people to enter.”
 
-Lower rifts only allow solo entry.
+The lower rifts only permit solo entry.
 
-Simply put, you need to have the specs to take down the boss alone to get the essence.
+Which means only those strong enough to solo the boss can even get the essence. But people like that don’t need guardian essences, they can just hunt solo.
 
-But usually, those people don’t need guardian essences since they can solo hunt anyway.
+Like all the essences I’ve left behind.
 
-Like the essences I’ve left untouched until now.
+In theory, if a mage went through all of these alone and defeated the bosses, they could contain them in magic test tubes to sell later.
 
-‘Theoretically, if a mage solos, they could bring the essence back in a test tube to sell.’
+Of course, that’s just theory. Realistically, it’s impractical.
 
-Of course, only theoretically. It’s not very realistic.
+It’s not that there aren’t mages capable of 1v1ing a boss, but to do so, they’d need to be overwhelmingly stronger than the boss.
 
-There might be mages who can fight a boss one-on-one, but to do that, the job characteristics require a huge gap in strength between them and the boss.
+That didn’t even take into account their personal expenses or the cost of the testubes they’d need to use.
 
-It wouldn’t be worth the labor cost.
+“What are you thinking about? Why’d you stop all of a sudden?”
 
-Plus, the cost of test tubes consumed.
+“Ah. Just lost in though. I’ll summon the boss now, so head over there. Cast the spell I asked for.”
 
-“What are you thinking about stopping suddenly?”
+“Got it.”
 
-“Oh. I was just distracted for a moment. I’m going to summon it now, so you go over there. Cast the requested spell right away.”
+Putting aside my thoughts, I approached the floating crimson flame and placed my hand on it.
 
-“Yes.”
+Whoosh—!
 
-Ending my thoughts, I approached the crimson flame floating in midair and reached out my hand.
+The moment my hand touched it, the flame rippled and emitted a pulse.
 
-Flare—!
+「Flame Lord Pianil has cast [Mark of Ashes].」
 
-The moment my hand touched it, the flame flickered and emitted waves.
+[When the character uses a skill, they will take fire damage]
 
-「Fire Lord Pianil cast [Mark of Ash].」
+Then
 
-「Characters taking damage from skill use suffer fire damage.」
+Fwoooosh—!
 
-The 5th floor Rift Guardian woke, and a gray mark was etched on the back of my hand.
+The flame swelled, taking on a humanoid form.
 
-And then...
+The Burning Forest’s Guardian, Fire Lord Pianil.
 
-Blazing—!
+A Level 4 monster that is classified as a Lavalord.
 
-The flame grew wildly, forming a shape.
+‘This one doesn’t say anything either.’
 
-The Burning Forest guardian, Fire Lord Pianil.
+I waited without attacking, just in case something was different.
 
-A grade 4 monster officially named Lavarod.
+Flicker—!
 
-‘No lines here either.’
+Its body was entirely made of flames.
 
-I watched it without attacking first, wondering if there’d be any difference.
+It wore a mask that revealed only its lower face. Its upper body looked human, but its lower half resembled a genie with flames in place of legs.
 
-Flare—!
+‘No change in appearance…’
 
-A body made of flames.
+As usual after meeting the Duke of Cambormere, I tried talking to it, but got no response.
 
-Wearing a mask that exposes the lower jaw; upper body is roughly human-shaped.
+And with that, we went straight into battle.
 
-The lower body resembles a genie from a magic lamp, with flames flickering where legs should be.
+Among the 5th-floor rifts, this one was mid-tier in difficulty, but if things went according to plan, it wouldn’t be too hard.
 
-‘Appearance hasn’t changed...’
+After all, I wasn’t alone anymore.
 
-As always after meeting Duke Cambormiier, I tried talking, but again no response.
-
-So I started the strategy immediately.
-
-Among the 5th floor rifts, it’s mid-level difficulty, but if the plan goes smoothly, it won’t be too hard.
-
-I’m not alone now.
-
-I just have to fulfill my duty as a tank.
+I just had to fulfill my role as the tank.
 
 Like this.
 
-“Behel—laaaaaaaaa!!”
+“Bethel—Raaaaaah!!”
 
-Using [Gigantism] and [Wild Surge], inflating threat levels.
+Using [Gigantification] and [Wild Outburst] to boost my threat level.
 
-「Character’s threat level is over 500.」
+「The character’s threat level is 500 or higher.」
 
-「All monsters within radius prioritize attacking the character.」
+「All monsters within range will prioritize attacking the character.」
 
-Activating Aegis Barrier, I firmly pull aggro of this Rift Guardian with strict threat management.
+Combining them with the Aegis Wall, I firmly held the aggro of the rift Guardian, whose aggro was notoriously hard to draw and maintain.
 
-And then...
+And then…….
 
-「Fire Lord Pianil cast [Bell of Embers].」
+「Flame Lord Pianil has cast [Bell of Embers].」
 
-Whether it uses summoning or attack skills, or changes phases to release unique gimmicks,
+Whether it summoned minions, used attacks, or changed phases with unique mechanics…….
 
-I simply hold the line.
+I just kept holding on.
 
-Raven buffs me and uses [Swing], which could damage it...
+With Raven’s buffs, I could’ve dealt damage using [Swing], but…….
 
-‘But why bother?’
+‘Why bother?’
 
-Damage is already enough.
+The damage was already sufficient.
 
-Just like Bjorn Yandel during his desperate battles at the Blood Fortress grew strong, Raven has also achieved much growth.
+Just as Bjorn Jandel had grown since his battle in the Blood-Tinted Castle, Raven had also grown a lot.
 
-「Forest’s Wrath empowers Fire Lord Pianil.」
+「The Wrath of the Forest imbues Flame Lord Pianil.」
 
-Steadily pouring in damage, we reached the final phase.
+As we steadily chipped away at its health, we eventually reached its final phase.
 
-“I told you before, the last part takes a while.”
+“Just so you know, the last one is going to take some time.”
 
-“Take your time. It’s warm and nice.”
+“Take your time. It’s warm and cozy here.”
 
-Bellarios essences counter magic damage.
+After all, my anti-magic stat from Bellarios’s essence counters magic damage perfectly.
 
-「Character’s magic resistance is over 500.」
+「The character’s magic resistance is 500 or higher.」
 
-「All magic damage received is reduced by 50%.」
+「All magic damage taken is reduced by 50%.」
 
-Halving damage, and then further reduced by the fire orb, it feels like a sauna.
+Add in the Fire Orb’s effect, and it feels more like a sauna than a battle.
 
-Oh, the perceived temperature is 120 degrees Celsius.
+Oh, and the temperature is around 120°C,
 
-“...You’ve really become a monster, Mr. Yandel.”
+“……You’ve really become a monster, Mr. Jandel.”
 
-Actually, I was having trouble breathing since a while ago, but hearing such praise from a companion makes a barbarian dance.
+Honestly, I’d been having trouble breathing for a while now, but the praise from a comrade is enough to make my barbarian body dance.
 
-Holding the boss firmly, Raven’s magic was ready before long.
+As I redoubled my efforts to hold the boss, Raven’s magic was finally complete.
 
-「Arua Raven cast grade 3 ice magic [Blooming Snowflake].」
+「Alluva Raven has cast the Level 3 freezing magic [Blooming Snowflake]」
 
-The little mage who barely managed to use grade 6 solar magic at the Blood Fortress was no longer there.
+The young mage who could barely cast a Level 6 solar magic in the Blood-Tinted Castle was gone.
 
-Only the ‘Golden Mage’ who had risen to the vice-captain of the 3rd Magic Corps recognized by the royal family remained.
+She was now the golden mage, recognized even by the royal family and now the vice-captain of the 3rd Magic Corps.
 
-‘High-level magic names sure have poetic naming conventions.’
+‘High-Level magic really has poetic naming conventions.’
 
-Since I’d never seen this magic before, I focused intently.
+Since this was my first time seeing this spell, I focused intently on its effects.
 
-Swaa-!
+The spell’s effects were quite simple.
 
-First, cold air spread around Raven’s feet freezing the ground.
+Swish—!
 
-Then...
+First, a chilling cold spread from Raven’s feet, freezing the ground around her.
 
-Hwoong-!
+And then…….
 
-A translucent something shot like an arrow at the boss, seeming to have no physical force, but penetrated deeply into its body.
+Whoosh—!
 
-“...”
+Something translucent shot toward the boss like an arrow, slipped into its body, and vanished as if it had never existed.
 
-It stopped moving.
+“…….”
 
-The hot heat vanished completely, and a chilly silence settled in the forest as Raven spoke.
+The monster froze,
 
-“Mr. Yandel, do you know why this magic is called ‘Blooming Snowflake’?”
+Its heat vanished without a trace. In the forest, now blanketed in cold silence, Raven spoke.
 
-A quiet but relaxed question.
+“Mr. Jandel, do you know why this spell is called ‘Blooming Snowflake’?”
 
-But Raven didn’t even give me time to answer and continued.
+It was a quiet, leisurely question.
 
-“Because it literally blooms.”
+But Raven didn’t give me time to answer before continuing.
 
-“...?”
+“Because it blooms. Literally.”
 
-“From within.”
+“……?”
 
-Almost as if rehearsed, the magic triggered at the perfect moment.
+“From the inside.”
 
-Jjijjik-!
+The spell was so well timed that I wondered if she had rehearsed it.
 
-From inside the body, the magic began.
+Sizzle—!
 
-Dozens of ice spikes pierced through the skin and protruded outward.
+The magic activated just as she finished her line.
+
+Crack!
+
+The spell seemed to begin from within.
+
+Dozens of icy spikes burst through the monster’s skin.
 
 “But.”
 
-“...?”
+“…?”
 
-“There’s a reason it’s called a snowflake, not spikes.”
+“It’s called a snowflake, not a thorn, for a reason.”
 
-Right as he finished speaking, the boss entered the final phase and instantly transformed into a cluster of light.
+Again, her line ended just as the final phase ended and the boss turned into a shower of light.
 
-Watching that, Raven smiled.
+Raven smiled sweetly as she watched.
 
-“How is it? Doesn’t it look like snow is falling?”
+“See? Doesn’t it look like snow is falling?”
 
-What nonsense.
+What the hell.
 
-He obviously researched his lines alone.
+She clearly rehearsed those lines in advance.
 
-I pondered how to respond, recalling the boss’s last form struck by the magic.
+Unsure how to respond, I recalled the boss’s final moment.
 
-And thought what name I would have given it.
+If it were me naming that spell…
 
-Since the magic made spikes all over its body...
+‘Transformed Sea Urchin.’
 
-‘Transformed sea urchin.’
+Hmm, the phrasing feels off.
 
-Hmm, that sounds kind of off.
-
-‘Transformed pufferfish.’
+‘Transformed Pufferfish.’
 
 Yeah, that’s better.
 
-After collecting Fire Lord Pianil’s essence in a test tube, Raven and I continued challenging 5th floor guardians.
+***
 
-This formed a routine.
+After collecting Fire Lord Pianil’s essence in a test tube, Raven and I challenged the other fifth-floor guardians.
 
-After reviewing the strategy at the start point, we always chatted for about 30 minutes.
+As we continued, it developed into a sort of routine.
+
+After reviewing the raid strategy at the starting point, we always spent about 30 minutes chatting.
 
 Ah, of course, it was Raven’s request.
 
-“I’m helping you, Mr. Yandel. So stop acting annoyed.”
+“I’m helping you, Mr. Jandel. So stop acting so annoyed, okay?”
 
-“Oh... helping? Such an unpleasant thing between us—”
+“Hey now… helping? That’s a bit—”
 
-“What kind of relationship do we have? I’m not even a member of your clan.”
+“What are we, anyway? I’m not even a member of your clan.”
 
-I had no good reply.
+I had no counterargument.
 
-So I just chatted away diligently.
+So I chatted diligently.
 
-At first, Raven was curious about modern civilization, but over time, he started asking more questions about me.
+At first, Raven was focused on modern tech, but later, his questions turned personal.
 
-“So... what’s your name there?”
+“So… what was your real name?”
 
-“Ah, didn’t I tell you?”
+“Oh, didn’t I tell you?”
 
-“...You didn’t.”
+“…Nope.”
 
-“Lee Hansu. It’s Lee Hansu. Never Hans. Watch your pronunciation.”
+“Lee Han-soo. And it’s not Hans, okay? Be careful with the pronunciation.”
 
-“Lee Han... Su...”
+“Lee Han… Soo…”
 
-“Well, that’s decent enough.”
+“Yeah, close enough.”
 
-“What does ‘decent’ mean?”
+“What’ do you mean?”
 
-Starting from my real name, we talked about whether family and friends were waiting, my job, and other topics.
+From my real name to whether I had family or friends waiting for me back home, my job, and so on.
 
-Some of it was a bit heavy.
+Even some heavy topics.
 
-After this basic background check, the main topic shifted to [Dungeon & Stone].
+After the basic background check, the conversation eventually shifted to [Dungeon & Stone].
 
-“...So Mr. Yandel, you’ve opened the Abyssal Gate at least once?”
+“So… you actually opened the ‘Abyss Gate’ once?”
 
-“In the game, yes. Besides, I was dragged here the moment I opened the Abyssal Gate, so I don’t even know what’s beyond.”
+“In the game, yes. And right after opening it, I got dragged here, so I don’t know what lies beyond.”
 
-“...Wait. If you opened the Abyssal Gate and came here, what happens if someone opens it from this side?”
+“……Wait. If you opened the Gate and came here, then what happens if it’s opened from this side?”
 
-“...?”
+“……?”
 
-“Then, does opening the Abyssal Gate mean returning? Going back to the original world?”
+“Like, would you go back? To your original world?”
 
-“Well... maybe.”
+“Well… maybe.”
 
-“Ah, uh... I see...”
+“Oh, oh? Uh… I see…….”
 
-“That’s the story. Let’s move on.”
+“That’s enough for now. Let’s get moving.”
 
-We then entered the boss room and fought.
+We then entered the boss room, and fought. Raven made a mistake that nearly caused a crisis, but thankfully, I got us through it safely.
 
-Raven almost caused a big crisis with a mistake, but luckily I carried him and we got through safely.
+‘…We’ve already taken down six.’
 
-‘...We’ve already killed six.’
+I’d been worried about the 5th-floor Guardians, but it was going surprisingly smoothly.
 
-I was secretly worried about the 5th floor guardians, but progress was surprisingly smooth.
+Of course, there were a few risky moments like before.
 
-Of course, there were a few more dangerous moments than before.
+But after everything I’d been through, this didn’t even feel like a crisis.
 
-But maybe because of all we’ve been through,
+“Mr. Jandel, if you’re ready, shouldn’t we head to the next portal?”
 
-This didn’t even feel like a crisis.
+“…Huh?”
 
-“Mr. Yandel, if you’re okay, why don’t we enter the next portal?”
+“I still have stamina left. And we’ve already gone over all the information.”
 
-“...Huh?”
-
-“I still have energy. We finished sharing all the information.”
-
-Well, that’s true...
+Well, that’s true, but…….
 
 ‘Weird.’
 
-For a moment, I was suspicious of Raven’s urging.
+For a moment, I was suspicious of Raven’s urging. But it was only for a moment. I patted Raven’s shoulder lightly.
 
-I lightly tapped his shoulder.
+“Raven, from now on, I’ll be going with someone else.”
 
-“Raven, from now on, I’ll be going in with someone else.”
+“…What?”
 
-“...What?”
+“You’ve worked hard. Take a break.”
 
-“You’ve done well so far. Take a rest.”
+In other words, the Blood Tinted Castle carry duo ends here.
 
-Simply put, the carrying duo of the Blood Fortress ends here.
+But instead of being relieved, Raven’s expression turned icy.
 
-But Raven’s face was cold, not pleased.
+“Take a break? What are you talking about? Are you ditching me now?”
 
-“Rest? What do you mean? You’re abandoning me now?”
+“…Ditching you? What kind of talk is that?”
 
-“Abandoning? What nonsense.”
+It’s just that I won’t need a mage from now on.
 
-I just don’t need a mage anymore.
+Besides, where I’m heading now, there’s no need to collect the essence in a test tube.
 
-Besides, where I’m going now, there’s no need to collect essences in test tubes.
+“That came out wrong. If not me, then who exactly are you planning to go in with?”
 
-“That was careless talk. So... if not me, who are you going in with?”
-
-I answered his question with a smirk and headed toward one person.
+I answered Raven’s question with a small smirk, then turned to someone else.
 
 “Emily.”
 
-“...?”
+“…?”
 
-“Let’s go get the essence.”
+“Let’s go get you an essence.”
 
-She’s due for an essence now too.
+It’s about time she got one too.

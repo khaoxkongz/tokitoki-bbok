@@ -160,16 +160,12 @@
 }
 
 .typeset-docs {
-  --reader-font-body:
-    var(--font-arundina-serif-local), var(--font-arundina-sans-local),
-    sans-serif;
+  --reader-font-body: var(--font-arundina-serif-local), var(--font-arundina-sans-local), sans-serif;
 
   --reader-font-heading:
-    var(--font-arundina-serif-local), var(--font-arundina-sans-local),
-    sans-serif;
+    var(--font-arundina-serif-local), var(--font-arundina-sans-local), sans-serif;
 
-  --reader-font-mono:
-    var(--font-arundina-mono-local), var(--font-geist-mono), monospace;
+  --reader-font-mono: var(--font-arundina-mono-local), var(--font-geist-mono), monospace;
 
   --typeset-font-body: var(--reader-font-body);
   --typeset-font-heading: var(--reader-font-heading);
@@ -191,13 +187,10 @@
 }
 
 html[data-reader-font="arundina-serif"] .typeset-docs {
-  --reader-font-body:
-    var(--font-arundina-serif-local), var(--font-arundina-sans-local),
-    sans-serif;
+  --reader-font-body: var(--font-arundina-serif-local), var(--font-arundina-sans-local), sans-serif;
 
   --reader-font-heading:
-    var(--font-arundina-serif-local), var(--font-arundina-sans-local),
-    sans-serif;
+    var(--font-arundina-serif-local), var(--font-arundina-sans-local), sans-serif;
 }
 
 html[data-reader-font="arundina-sans"] .typeset-docs {
@@ -207,11 +200,9 @@ html[data-reader-font="arundina-sans"] .typeset-docs {
 }
 
 html[data-reader-font="cordia"] .typeset-docs {
-  --reader-font-body:
-    var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
+  --reader-font-body: var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
 
-  --reader-font-heading:
-    var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
+  --reader-font-heading: var(--font-cordia-local), var(--font-arundina-sans-local), sans-serif;
 }
 
 html[data-reader-font="arundina-mono"] .typeset-docs {
@@ -223,11 +214,9 @@ html[data-reader-font="arundina-mono"] .typeset-docs {
 }
 
 html[data-reader-font="geist"] .typeset-docs {
-  --reader-font-body:
-    var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
+  --reader-font-body: var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
 
-  --reader-font-heading:
-    var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
+  --reader-font-heading: var(--font-geist-sans), var(--font-arundina-sans-local), sans-serif;
 }
 
 .typeset-docs :where(p, li, blockquote) {

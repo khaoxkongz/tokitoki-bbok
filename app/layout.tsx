@@ -240,7 +240,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="flex min-h-dvh flex-col bg-[oklch(0.2964_0.0036_106.61)]">
+      <body className="min-h-screen bg-[oklch(0.2964_0.0036_106.61)]">
         <ThemeProvider>{children}</ThemeProvider>
       </body>
     </html>

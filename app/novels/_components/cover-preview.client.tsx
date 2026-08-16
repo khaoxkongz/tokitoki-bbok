@@ -1,14 +1,12 @@
 "use client"
 
-import * as React from "react"
 import { ExpandIcon } from "lucide-react"
+import * as React from "react"
 
 import { Dialog, DialogContent } from "@/components/ui/dialog"
-import { novelInfo } from "@/features/novel/config"
 
 export function CoverPreview() {
   const [isOpen, setIsOpen] = React.useState(false)
-  const coverAlt = `ปกนิยาย ${novelInfo.title}`
 
   return (
     <React.Fragment>
@@ -20,8 +18,8 @@ export function CoverPreview() {
           aria-label="ขยายภาพปกนิยาย"
         >
           <img
-            src={novelInfo.coverImage}
-            alt={coverAlt}
+            src="surviving-the-game-as-a-barbarian.099c67.jpg"
+            alt="Surviving The Game as a Barbarian"
             className="h-full w-full object-cover"
           />
           <span className="absolute inset-0 flex items-center justify-center bg-black/50 opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-focus-visible:opacity-100">
@@ -35,8 +33,8 @@ export function CoverPreview() {
       <Dialog open={isOpen} onOpenChange={setIsOpen}>
         <DialogContent className="grid min-h-[calc(100%-2rem)] place-items-center sm:max-w-[calc(100%-2rem)]">
           <img
-            src={novelInfo.coverImage}
-            alt={coverAlt}
+            src="surviving-the-game-as-a-barbarian.099c67.jpg"
+            alt="Surviving The Game as a Barbarian"
             className="max-h-[85vh] max-w-[90vw] rounded-lg object-contain"
           />
         </DialogContent>

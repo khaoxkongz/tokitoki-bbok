@@ -29,7 +29,7 @@ function toOptionalText(value: unknown): string | undefined {
 }
 
 function readChapter(filename: string): ChapterMeta {
-  const slug = filename.replace(/\.mdx$/, "")
+  const slug = filename.replace(/\.md$/, "")
   const filePath = path.join(contentDirectory, filename)
   const fileContent = fs.readFileSync(filePath, "utf8")
   const { data } = matter(fileContent)
@@ -50,7 +50,7 @@ const readAllChapters = React.cache((): ChapterMeta[] => {
 
   return fs
     .readdirSync(contentDirectory)
-    .filter((filename) => filename.endsWith(".mdx"))
+    .filter((filename) => filename.endsWith(".md"))
     .map(readChapter)
 })
 

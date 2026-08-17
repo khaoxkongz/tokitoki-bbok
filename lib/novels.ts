@@ -25,7 +25,7 @@ function getOptionalString(value: unknown): string | undefined {
 }
 
 function readNovel(filename: string): NovelMeta {
-  const slug = filename.replace(/\.mdx?$/, "")
+  const slug = filename.replace(/\.md?$/, "")
   const filePath = path.join(contentDirectory, filename)
   const fileContent = fs.readFileSync(filePath, "utf8")
 
@@ -51,7 +51,7 @@ export function getAllNovels({
 
   const novels = fs
     .readdirSync(contentDirectory)
-    .filter((filename) => filename.endsWith(".mdx") || filename.endsWith(".md"))
+    .filter((filename) => filename.endsWith(".md"))
     .map(readNovel)
 
   return sortNovels(novels, sort)

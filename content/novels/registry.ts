@@ -4,10 +4,10 @@ interface ChapterModule {
   default: ComponentType
 }
 
-const chapterModules = import.meta.glob("./*.mdx")
+const chapterModules = import.meta.glob("./*.md")
 
 export async function getChapterComponent(slug: string) {
-  const loadModule = chapterModules[`./${slug}.mdx`]
+  const loadModule = chapterModules[`./${slug}.md`]
 
   if (!loadModule) {
     return null

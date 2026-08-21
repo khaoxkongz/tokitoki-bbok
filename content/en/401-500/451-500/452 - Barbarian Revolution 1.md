@@ -1,545 +1,537 @@
-# Barbarian Revolution 1
+Barbarian Revolution (1)
 
-There are various special stats in [Dungeon and Stone], and among them are hidden stats that don’t affect the Total Combat Power.
+In [Dungeon & Stone], there are several special stats, among these are “invisible stats” that do not affect the overall combat power rating.
 
-A prime example is the Fame stat.
+A prime example is the fame stat.
 
-‘Well, calling it a ‘stat’ is a bit of a stretch…’
+Though calling it a stat might be a bit of a stretch…
 
-Higher Fame means more people recognize you, which increases the chances of triggering special events like hidden quests. It also gives you a base affinity bonus when talking to NPCs you meet for the first time.
+When your Fame Stat is high, people around you start to recognize you, which increases the chance of special events like sudden quests. It also means a default increase in favorability when conversing with NPCs for the first time.
 
-Just by looking at this, it seems like a useful stat.
+At a glance, it seems like a useful stat.
 
-But…
+However…
 
-‘It’s more like a numerical representation of your reputation.’
+‘It’s more like we put it into numerical form.’
 
-The cause and effect are reversed.
+It’s not that the effect is caused by having a high reputation.
 
-You don’t gain those effects because your Fame is high.
+It’s rather that they’re famous enough to have that effect, so they have a high fame stat.
 
-It’s because you’re famous enough to trigger those effects that your Fame stat is high.
+In reality, if you brought in a famous celebrity and gave them a status window, their Fame stat would be extremely high, and they’d get similar benefits.
 
-If you created a status window for a famous celebrity, their Fame stat would be incredibly high, and the effects would be similar.
+Support is also a type of stat like this.
 
-Anyway, ‘Approval Rating’ was also that kind of stat.
+Depending on this stat, you get:
 
-Increased control within the tribe.
-
+Increased leadership within the tribe,
 Reduced opposition.
+Higher policy success rates and better compliance, etc.
+It’s useless in the typical explorer route, but once you delve into internal-affairs-type content, it’s a stat you really have to pay attention to.
 
-Increased policy success rate and order completion rate.
+Well, except for the barbarians.
 
-It was a useless stat for ordinary explorers, but it became incredibly important once you entered the management aspect of the game.
+“Your character’s support has increased by +1.”
 
-Well, barbarians are an exception.
+“Your character’s support has increased by +1.”
 
-「Character’s Approval Rating has increased by +1.」
+“Your character’s support has increased by +1.”
 
-「Character’s Approval Rating has increased by +1.」
+“…”
 
-「Character’s Approval Rating has increased by +1…」
+“…”
 
-「….」
+As a barbarian, if one officially becomes the tribe chief, the support starts off insanely high.
+History
 
-「….」
+After all, it’s a legitimately earned right.
 
-Barbarians have an incredibly high Approval Rating from the start, as long as they become chieftain through the proper channels.
+The warriors respect the chief’s authority and naturally accept the commands.
 
-It’s a legitimate right.
+‘The problem is that just having high support doesn’t mean the power lasts forever.’
 
-Warriors respect the chieftain’s authority and obey their orders.
+The chief can always be ‘challenged’.
 
-‘The problem is that unlike other races, a high Approval Rating doesn’t guarantee a permanent rule.’
+But this isn’t a critical issue either.
 
-The chieftain can be challenged at any time.
+In fact, it’s something to be welcomed.
 
-But that’s not a big deal.
+Because no matter how much damage you cause, you won’t be forced to step down from being chief—
 
-Or rather, it’s a good thing.
+As long as you’re not defeated by anyone.
 
-It means I won’t be removed from my position, no matter what I do.
+‘…But I should still keep an eye on the support stat. If it gets too low, these kids will all get depressed.’
 
-As long as I don’t lose.
+As I was thinking about that, Aynar, who was cleaning the large tent for the tribe chief that I was about to move into, spoke to me.
 
-‘…But I should still try to increase it. The tribe will get depressed if it’s too low.’
+“Bjorn…! Why are you just sitting around?!”
 
-As I was thinking that, Ainar, who was cleaning the large tent I was going to move into, spoke to me.
+It was a silly question, typical of Aynar.
 
-“Bjorn…! Why are you just standing there?!”
+“Because I am the chief.”
 
-It was a foolish question, coming from Ainar.
+“…But still, it’s unfair for me to do it alone—!”
 
-“Because I’m the chieftain.”
+“And Aynar, you are an elder.”
 
-“…B-but it’s unfair that I have to do all the work—!”
+“…Elder? Me…?”
 
-“And Ainar, you’re an elder now.”
+Ainar was dumbfounded by the sudden promotion.
 
-“…………An elder? Me…?”
+Hmm, didn’t see that coming?
 
-Ainar was dumbfounded.
+“Isn’t it obvious! Aynar, who else can be trusted more than you, a member of the Seven Pillars, the second daughter of Pheneline?”
 
-She hadn’t expected this sudden promotion.
+“It’s… not that much…”
 
-“Of course! Who else can I trust more than you?”
+Oh, come on, don’t be so modest.
 
-“W-well…!”
+“As the Baron Jandel in the Kingdom of Raphdonia and Chief of the Barbarians, I, Bjorn Jandel, say this! So believe it!”
 
-“You’re Ainar, the second daughter of the Storm Sword, one of the Seven Strengths! I can’t understand why the previous elders and chieftain treated you like an ordinary warrior!” Ȓ𝖆₦Ồ𝔟ƐⱾ
+For people like Aynar to hear you out, the best thing to do was put your status front and center.
 
-“Uh… I’m not that great…”
+[Your character’s support has increased by +1]
 
-She lacked confidence.
+Indeed, it didn’t take long for Aynar to accept it.
 
-“These are the words of Bjorn, son of Yandel, Baron of Lafdonia and Chieftain of the Barbarians! So believe me!”
-
-If you pressure them with your authority, they’ll just assume you’re right.
-
-「Character’s Approval Rating has increased by +1.」
-
-It didn’t take long for Ainar to be convinced.
-
-“R-really?”
+“Is that so?”
 
 “Yes.”
 
-“I-I see! I’m an elder now!!”
+“Well then! I am an elder now!!”
 
-“Can you finish the cleaning? I have chieftain duties to attend to, and it’s your role as an elder to assist me.”
+“Then, can I leave the rest to you? I have other duties as the chief, and aiding me in them is the role of an elder.”
 
-“Of course! I’m good at assisting!”
+“Of course! I like assisting!”
 
-She happily returned to her cleaning duties, and I closed my eyes.
+Aynar quickly returned to cleaning as if she had never complained, and I sat down and closed my eyes.
 
-Not because I was sleepy, but because I had a lot to think about.
+Not because I was really sleepy, but because I had things to think about.
 
-‘It’s worse than I expected…’
+‘It’s a bigger mess than I thought… … .’
 
-I had received a brief report from the former chieftain, and the tribe’s situation was dire.
+During the brief handover of power from the former chief, I heard about the tribe’s current situation, and it was worse than I’d expected.
 
-From finances to population, welfare, and infrastructure…
+From finances to population, welfare, and infrastructure.
 
 Everything was a problem.
 
-I was surprised that the tribe had even managed to survive this long, and I didn’t know where to start.
+It was surprising that this tribe was still functioning at all, and it was overwhelming to consider where to start fixing it.
 
-But…
+‘It’s not the first time I’ve faced a complex situation.’
 
-‘I’ve been through worse.’
+After classifying the problems in order of priority and difficulty, it became clear to me what I needed to do before anything else.
 
-I categorized the tasks as ‘Tribal Quests’ and prioritized them based on difficulty.
+First up is: Reform the cabinet
 
-The first quest was clear.
+It’s the first quest every tribe chief must complete.
 
-1. Restructure the Cabinet.
-
-It was the first quest I had to complete as the chieftain.
-
-But I wasn’t sure if it could even be called ‘restructuring’.
+But I’m not sure if the word “reform” is quite accurate here.
 
 “Um… Bjorn?”
 
-Ainar cautiously tapped my shoulder.
+While I was sitting with my eyes closed, Aynar carefully tapped my shoulder.
 
-“Call me Chieftain in the sanctuary.”
+“Inside the sanctuary, call me ‘chief.’”
 
-“Uh… C-chieftain…?”
+“S-sorry, well… Chief…?”
 
-“Good. What is it?”
+“Good. Speak.”
 
-“I’ve been thinking… It’s unfair that I have to do all the chores!”
+“I’ve been thinking about it, and… having an elder do this kind of menial labor seems unfair!”
 
-Tsk, educated people…
+Tsk, that’s the problem with educated folks…
 
-They know the meaning of ‘unfair’ because they read books.
+They read a few books and now they know what’s ‘unfair.’
 
-“Find another warrior or do it yourself! Or… order another elder to do it! I hate cleaning!”
+“Either pick another warrior for the job, or do it yourself! Or… tell another elder to do it! I-I just really hate cleaning!”
 
-I chuckled at her bold declaration.
+I smirked at her self-righteous declaration.
 
-“Alright. You can stop cleaning.”
+“Fine. Then stop cleaning.”
 
-“…Are you going to find another elder?”
+“…Are you going to force some other elder to do it?”
 
-“No. And besides, you’re the only elder.”
+“No. And to begin with, there are no other elders besides you.”
 
 “…Huh? What do you mean?”
 
-Ah, she doesn’t know.
+Ah, so she doesn’t know.
 
-I explained the situation to the 1st Elder.
+I explained the tribe’s situation to Aynar.
 
-“The previous elders retired with the former chieftain.”
+“The original elders all retired together with the previous tribe chief.”
 
-“What?! Those old geezers?! Did they leave because they couldn’t accept you?!”
+“What?! Wait, don’t tell me those old guys walked out on their own because they couldn’t accept you?”
 
-“Calm down. That’s not it.”
+“Calm down. It’s nothing like that.”
 
-At first, I thought they had staged a boycott because they didn’t trust me, a noble…
+At first, I wondered if it might be a collective boycott because they didn’t trust me—the guy who ate “noble food.”
 
-But that wasn’t the case.
+But that wasn’t the truth.
 
-[You’re going to keep exploring the labyrinth, even though you’re the chieftain? Haha! Good luck! And try not to die this time!]
+[You’ve become the tribe chief and still plan to enter the Labyrinth? Hahaha! Good luck! Try not to die this time like before!]
 
-They were indifferent to my declaration that I would continue exploring the labyrinth.
+The elders were indifferent to my declaration that I wouldn’t quit being an explorer.
 
-And they didn’t question my legitimacy as a noble.
+They didn’t question my legitimacy as a noble either.
 
-They were just happy to retire.
+They just seemed genuinely happy that they could finally retire.
 
-[Kkeuk, kkeuk, kkeuk… You’re in for a rough ride. Young warriors these days always choose the hard path.]
+[Heh heh, so you’re taking on the hard life now. These young warriors keep choosing difficult paths for themselves…]
 
-[Good luck! And don’t come to me for help! I’m done with calculations!]
+[Good luck, don’t come to me if you don’t know something, I’m not going to do the maths anymore!]
 
-I found out later that the previous elders were the former chieftain’s friends, and they had only accepted their positions out of obligation.
+Later, I found out that the previous elders were the old war buddies of the previous chief, and they reluctantly held their positions out of duty because the old chief begged them to.
 
-They had been complaining about quitting every day, and the former chieftain had to ‘persuade’ them to stay.
+They’d threatened to quit every day, only for the previous chief to beg them back to their desks.
 
-“So don’t be too upset about them trying to save money.”
+“So don’t be too upset that they were stingy with potions.”
 
-“…Huh?”
+“Huh?”
 
-“The tribe’s coffers are empty.”
+“I checked, and indeed, the public funds are empty.”
 
-Ainar’s eyes welled up as I told her about the elder who had lamented about not being able to afford new weapons for the coming-of-age ceremony.
+When I told Aynar the story of an elder who was bitter about not being able to provide a proper weapon at a coming-of-age ceremony due to such costs made Aynar tear up.
 
-“…T-they…”
+“…That’s terrible!”
 
-She looked like a little girl who had just discovered her parents’ secret.
+It was like a girl discovering the secret of her parents working night jobs to provide for their children.
 
-“Anyway, if you know any warriors who would be suitable for the elder position, recommend them to me. You know them better than I do.”
+“In any case, if there’s a warrior you think would make a decent elder, feel free to recommend them to me. After all, you’d know them better than I would.”
 
-“Well… I’m sure I can find someone! You’re—”
+“Well, yeah, that makes sense…—”
 
-“Chieftain.”
+“Chief.”
 
-“…The chieftain is always busy taking care of the clan!”
+“…The chief has always been too busy looking after the tribe!”
 
-Whew, I’m glad she understands.
+Well, I appreciate the recognition.
 
-I nodded, satisfied, and she recommended a few warriors.
+Pleased, I nodded my head as Aynar recommended a few warriors.
 
-But…
+However…
 
-“Ainar, what’s with that expression? You seem troubled.”
+“Aynar, why that expression? You look somewhat unsatisfied.”
 
-I asked, and she sighed.
+She slumped her shoulders as she responded.
 
-“I chose the strongest warriors among my friends… but I’m not sure if they’ll meet your expectations…”
+“I chose the best fighters among my friends… but I don’t know if they’ll meet your expectations.”
 
-“What do you mean?”
+“In what way?”
 
-“They can’t read.”
+“Well… none of them can read.”
 
-“Ah, that’s not a problem.”
+“Oh, that’s no problem.”
 
 “Really?”
 
-“Of course.”
+“Absolutely.”
 
-I hadn’t even considered it a problem.
+I had no expectations of literacy to begin with.
 
-The previous elders had also learned to read after becoming elders…
+The previous elders only began to learn to read after becoming elders…
 
-“And I’m not planning to burden the elders with administrative tasks anymore.”
+“I’m not planning to entrust the elders with administrative tasks as before.”
 
-That’s why the barbarians were in this state.
+Why else would the Barbarians be in this mess?
 
-They were illiterate and couldn’t count properly.
+Illiterate and numerically challenged individuals handling administrative tasks led to this situation.
 
-So…
+“So the elders only need to teach the young warriors how to fight and instill a sense of loyalty to their tribe.”
 
-“All I need from the elders is to teach the young warriors how to fight and how to be loyal to the tribe.”
+“Huh? Then who will handle the rest? Even you can’t do it all alone.”
 
-“Huh? Then who’s going to take care of the rest? Even you can’t handle everything alone.”
+I grinned and said.
 
-I smiled and said,
-
-“The city.”
+“Inside the city walls.”
 
 “…?”
 
-“I’m going to hire humans.”
+“We’ll hire humans from there.”
 
-In other words, I was going to outsource the administrative tasks.
+In professional terms, outsourcing.
+
+Simply put, I plan to delegate the work.
 
 ---
 
-A human clerk who was skilled in administrative tasks.
+White-collar humans who are good at administrative tasks.
 
-I knew the perfect candidate.
+I had just the right person.
 
-Shabin Emure, the 7th-grade clerk from the administrative office, who had been a member of our friend group.
+Shavin Emure, a Grade 7 Civil Servant in the Administrative Agency, a part of our friends group.
 
-‘Ragna said he had been promoted to 6th-grade, but then he was recently fired?’
+‘I heard from Ragna that she made it to Grade 6, but was recently laid off.’
 
-The chances of recruiting him were slim.
+Of course, it’s not guaranteed that I can recruit her.
 
-He had even rejected Ragna’s offer to work for her.
+She refused Ragna’s offer to come work under her without a second thought for the sake of preserving their friendship.
 
-He might reject my offer too.
+Likewise, she may reject my offer as well.
 
 But…
 
-‘Maybe he can at least recommend some competent people.’
+‘I might be able to get a few good referrals.
 
-Right, that’s enough for now.
+That would be enough for now.
 
-I needed to secure funding before I could hire anyone.
+Even if I get manpower, I still need the “funding” to pay for external help.
 
-‘Funding…’
+‘What to do with the funds.’
 
-It was another difficult problem.
+That was another problem that needed an answer.
 
-The tribe’s funds were barely enough to cover the cost of weapons for the coming-of-age ceremony and food for the young warriors.
+The tribe’s funds are barely enough to buy weapons for the monthly Coming-of-Age ceremony and feed the younger warriors.
 
-‘…I need to create a new source of income.’
+‘…I need to establish a new source of income first.’
 
-Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.
+‘Don’t give fish to the hungry, but teach them how to fish.’ To reform the current Barbarian tribe, we need to overhaul the sources of income.
 
-To reform the barbarian tribe, I needed to change their way of earning money.
-
-It was ridiculous that an entire tribe was relying on donations and inheritance from warriors.
+It’s absurd that a whole tribe survives on donations and inheritances from warriors.
 
 ‘Money…’
 
-I couldn’t think of any good ideas.
+No immediate solution came to mind.
 
-There were no resources left in this small territory after thousands of years of settlement.
+They’ve been settled here for thousands of years in this cramped land. There’s no way there’s any iron ore or natural resources left.
 
-‘And our metallurgy skills aren’t that great.’
+‘To be honest, their metalwork isn’t great, either.’
 
-Our weapons were durable, thanks to our generous use of steel, but that was all.
+They do produce decent-quality steel by hammering it relentlessly, but that’s about it.
 
-The blacksmiths in the city could create better weapons.
+City blacksmiths make better quality weapons.
 
-And we couldn’t compete with the dwarves in terms of technology.
+Investing in blacksmithing facilities on a tribal scale? It would take a long time, and even then we couldn’t outdo the dwarves.
 
-‘…We don’t know how to do anything except fight… Damn it, what kind of tribe is this?’
+‘…Other than fighting in the Labyrinth, they don’t know how to do anything else. Sheesh, what kind of tribe is this?’
 
-I was frustrated, but I was also curious.
+I muttered a curse while another thought popped into my head:
 
-How could a tribe where every able-bodied member was a high-earning explorer be so poor?
+Every Barbarian warrior is an explorer, which is a high-income profession, so why are they poor?
 
-And they were all devoutly religious, donating a portion of their earnings every month.
+They’re indoctrinated when they’re young, and once they’re old enough, they contribute like a tithe every month?
 
-“Ainar.”
+“Aynar.”
 
-I asked the True Barbarian for advice, and she gave me a surprising answer.
+I asked a true Barbarian for her insight, still unable to understand.
+
+“How are we poor if everyone’s making money? It doesn’t make sense.”
 
 “Well… it’s because we’re poor.”
 
-“No, I mean, why are we poor? We all earn a decent amount of money, don’t we?”
+“No, I mean, why are we poor? Aren’t we all earning a decent amount?”
 
-“That’s because you’re different! Everyone else spends all their money on new equipment and alcohol!”
+“Ah, that’s because you think so! Everyone spends on new equipment, drinks, and by the end of it, there’s nothing left!”
 
-It sounded plausible at first, but I interpreted it differently.
+At first, it seemed to make sense, but to a Barbarian expert like me, it was interpreted differently.
 
-The problem wasn’t income, but spending.
+The problem was not income but spending.
 
-They spent all their money and then donated whatever was left, like putting spare change in a piggy bank.
+They spend everything and send only the spare change to the tribe, hence the perpetual shortage of money.
 
-“Ah… and… I’m not trying to criticize you…”
+“Ah… and… I don’t mean to complain but…”
 
-“Just tell me.”
+“Go ahead, quickly.”
 
-“…Don’t tell the other warriors that I told you this.”
+“…Can you not tell the other warriors I said this?”
 
-“Alright, just tell me.”
+“Fine, hurry up.”
 
-“Actually… most warriors don’t sell their old equipment, even after buying new ones. They keep it.”
+“The truth is, other than you, the warriors like to keep the old equipment they buy. They don’t sell it.”
 
 “…What?”
 
-“You know… they get attached to their old equipment… Some even say they’ll pass it down to their children…!”
+“You know… there’s attachment to the old gear… Some warriors even want to pass it down to their children!”
 
-I was speechless.
+At that moment, I was speechless.
 
-“…..”
+“……”
 
-…So that’s why they were so poor.
+…So that’s why there’s no money.
 
-It was absurd, but I couldn’t do anything about it.
+It was ridiculous, but there was nothing I could do about it immediately.
 
-Collecting equipment was a barbarian instinct.
+Collecting equipment is part of the Barbarian’s nature.
 
 Like crows collecting shiny objects.
 
-I couldn’t change their nature, even with my authority as chieftain.
+Changing a trait embedded in their DNA was beyond even a chief’s authority.
 
 But…
 
-“B-but it’s not a bad thing! It’s a form of saving!”
+“Well, it’s not too bad! Collecting gear is a kind of savings, right?”
 
-Ainar’s desperate defense gave me an idea.
+As Aynar muttered defensively, a lightbulb went off in my head.
 
-“…Saving?”
+“…Savings?”
 
-“Y-yes! If we become famous, our equipment will be worth even more! It’s an investment!”
+“Y-yeah! If we become famous later, those items could sell at higher prices! It’s… it’s basically an investment, right?!”
 
 “…Investment?”
 
-“Ah, w-well, I’m not like that! Really. I-I have a few pieces, but… they’re all different! I need them for different purposes—”
+“Ah—o-of course, I don’t do that! Really, I mean it! W-well, I do have a few pieces, but… they don’t overlap. Each has a different use, so you never know when you might need—”
 
-“Ainar, are you a genius?”
+“Aynar, are you a genius?”
 
-Her words gave me a brilliant idea.
+She had just given me a brilliant idea.
 
 “…?”
 
-She didn’t seem to realize what she had done, but…
+She still seemed clueless as to the trouble she’d stirred up.
 
-‘This is a revolution.’
+‘Yes, this is truly revolutionary.’
 
-There was no other way to describe it.
+I can’t think of any other way to put it.
 
 ---
 
-I summoned all the barbarians before the visitors from the festival returned to the city.
+Before the fellow tribesmen visiting the sanctuary for the festival returned to the city, I summoned all the Barbarians.
 
-There was no need for a lengthy introduction.
+There was no need for a preamble about the sunny weather or anything.
 
-“I have something to tell you!”
+“I have something to say to you all!”
 
-I began my speech.
+As soon as the crowd gathered, I started my speech.
 
-Or rather, it was an announcement of my first policy as chieftain.
+Well, it was more accurate to say I was announcing my first policy as chief.
 
-“Warriors of the tribe! I’m different from the previous chieftains! I’m going to give you an opportunity!”
+“Awake, warriors! I am different from the former chiefs! Therefore, I decided to give you an opportunity!”
 
-Their eyes sparkled as soon as I used the word ‘give’, even though they had been dozing off a moment ago.
+The warriors, who would scratch their ears out of boredom, immediately lit up at the mention of ‘giving’ something.
 
 “Opportunity…?”
 
-“Sounds good…”
+“Sounds good, whatever it is…?”
 
-Okay, I had their attention.
+Okay, I had successfully piqued their curiosity.
 
-I quickly continued before they lost interest.
+Before the Barbarians’ attention could wander, I quickly continued with the idea I had come up with, thanks to Aynar.
 
-The plan I had come up with thanks to Ainar.
+The method that could both educate the Barbarians about the economy and splendidly fill the empty public coffers.
 
-A plan that would not only educate the barbarians about economics, but also fill the tribe’s empty coffers.
-
-“I’m going to give you the opportunity to buy land in the sanctuary!”
+“I will give you the opportunity to buy land in the sanctuary!”
 
 “…Land?”
 
-“You’re giving it to us? We have to buy it? With money?”
+“You said you’d give us something, but now you’re saying buy! That means we pay money?”
 
-They looked confused.
+The Barbarians looked puzzled, as if they had no idea what I was talking about.
 
-Well, I hadn’t expected them to understand right away.
+Well, I didn’t expect them to grasp it right away.
 
-I explained it to them in simple terms.
+I gave a short and simple explanation, tailored to their level of understanding.
 
-“Do you have a house in the city? No, you don’t. Even if you do, the land doesn’t belong to you! Commoners can’t own land in this kingdom!”
+“Do any of you own a house in the city? Probably not. And even if you do have a house, the land it sits on isn’t yours! That’s because in this kingdom, commoners can’t own land!”
 
-I’m going to give you a privilege that only nobles have.
+I’m offering you a noble’s privilege.
 
-“But the land in the sanctuary is different! If I give you permission, you can buy it! And once you buy it, it’s yours! Forever!!”
+“But it’s different with the Holy Ground. If I grant permission, you can buy land here—and once you buy it, it belongs to you forever!”
 
-Of course, there would be property taxes…
+Of course, there will be a small property tax attached.
 
-“You can carve your name on it, build a statue, anything you want! It’s your freedom!!”
+“You’ll be free to carve your name into the land, build a monument or a statue—whatever you want!”
 
-“…Freedom?”
+“…Free?”
 
-“Yes, freedom! Do you want to build a house? Build it! Not a flimsy tent that collapses when it rains, but a real house, like the ones in the city! A house that your descendants can live in forever!”
+“Yes, free! You want to build a house? Then build it! Not some tent that’ll collapse in the rain, but a house like the ones in the city—one that your children’s children can live in forever!”
 
-Build whatever you want.
+Build as much as you want.
 
-I won’t even tax the windows.
+And don’t worry about window taxes.
 
-“That… sounds good.”
+“Th-that sounds good…”
 
-Some of the barbarians, who were easily swayed, started to show interest.
+Gradually, the usually skeptical Barbarians began to show interest.
 
-But there were also those who were skeptical.
+Of course, many were still puzzled.
 
-“But buying land…”
+“But to buy land…”
 
-“It must be expensive!”
+“It must be expensive, however much it is!”
 
-“Isn’t land a bit… useless? Wouldn’t it be better to buy weapons…?”
+“Is the land really worth that much…? Wouldn’t it be better to buy usable weapons…”
 
-They instinctively sensed that something was off.
+The warriors instinctively felt something was off.
 
-It was time for my trump card.
+It was time to play my trump card.
 
 “Think about it, warriors!”
 
 “…?”
 
-“Weapons rust, but land doesn’t. It’s yours forever, and you can pass it down to your children!”
+“Weapons eventually rust, but land is different. It remains yours forever, something you can pass down to your children!”
 
-It was a concept that the barbarians, who lived for the present, couldn’t grasp.
+It was a hard sell to Barbarians, who live for the day.
 
 But…
 
-“And if you buy land, you don’t have to pay for lodging anymore! You, and your children, and your grandchildren! Forever!”
+“Plus, if you buy land, you won’t have to pay for lodging anymore! Not just you, but your children too, forever!”
 
-Their eyes widened as they realized the true value of land.
+The eyes of the Barbarians, who spent a significant amount on lodging each month, widened.
 
-“…I see!”
+“…That’s right!”
 
-“It’s true…! If we have land, we can just sleep in the sanctuary!”
+“It’s true…! If you have land, you can just stay in the sanctuary!”
 
-“But it’s more convenient to live in the city… It’s closer to the labyrinth…”
+They finally realized the value of the land.
 
-There were a few who still had doubts, but they were a minority.
+“But the city side would be more convenient… closer to the labyrinth…”
 
-I made a mental note of their faces.
+A few warriors expressed such valid concerns, but they were in the minority.
 
-If they were good fighters, I would promote them to elders.
+So, I just made a mental note of their faces.
 
-Anyway, it was time for the final blow.
+If they’re good at fighting, maybe I’ll pick them as elders.
+
+Anyway, it was time to drop the final bombshell.
 
 “And most importantly…!”
 
-I trailed off, and the barbarians all fell silent, their ears perked up.
+As I walked away, the barbarians fell silent as if on cue, their ears pricked up.
 
-I didn’t have to shout this time.
+This time, I didn’t even have to raise my voice.
 
-“The land in the sanctuary will become more expensive!”
+“Land in the Holy Ground is going to become expensive!”
 
 Money.
 
-The ultimate motivator, regardless of race.
+That universal motivator, regardless of tribe or race.
 
-“And the longer you wait, the more expensive it’ll get! Until you can’t even afford it anymore!”
+“It’ll only get more expensive over time! So expensive that later on, you might not even be able to buy it at all!”
 
 “…?”
 
-“It’s obvious! Once someone buys a piece of land, it’s theirs forever! And once all the land is sold, there won’t be any left to buy!”
+“Isn’t that obvious? Once someone buys land, it’s theirs forever—so when it’s all sold out, there’ll be no more left to buy!”
 
 “…!”
 
-“If you still want land after that, you’ll have to beg! Beg the other warriors to sell it to you, even if it costs a fortune!”
+“What! If you still want land by then, you’ll have to beg, right? You’ll have to plead with someone who already owns land, saying, ‘I’ll pay you a fortune—please sell it to me!’”
 
-The simple principle of supply and demand.
+A simple principle of supply and demand.
 
-“Well, even then, it’ll be difficult to buy. Who would sell such a valuable asset? Land that will allow their descendants to live in the city without having to pay for lodging?”
+“Well, even then, it won’t be easy. After all, who’d sell a precious piece of land that means your children’s children’s children will never again have to waste their money on city lodging?”
 
 “…!!”
 
-“Ah, of course, your great-grandchildren will be living in tents and cursing your name!”
+“Oh, but if you end up missing this opportunity, your children’s children’s children will be cursing you from their tents!”
 
 “…?”
 
-“‘Why didn’t you buy land back then?!’ they’ll say!”
+“‘Why didn’t our ancestors buy land back then?!’ That’s what they’ll say!”
 
 “!!!!!!!!!!!”
 
-Their eyes widened in horror as they realized the gravity of the situation.
+The warriors, suddenly imagining a distant future where their descendants are left out in the cold, were struck dumb.
 
-There was no need for further explanation.
+It didn’t look like I needed to say much more.
 
-“Warriors! I’ll say this one last time!”
+“Warriors! I’ll say it one last time!”
 
-I declared, like a true politician.
+I shouted with authority.
 
-“A warrior never misses an opportunity!”
+Like a politician from this day forward.
 
-The answer is real estate.
+“A true warrior never misses an opportunity!”
+
+The answer was real estate.

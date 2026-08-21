@@ -1,517 +1,490 @@
-# Party 2
+Party(2)
 
-Like unleashing my killing intent at the Round Table, I glared down at him, as if ready to tear his throat out. Even though this wasn’t the community, where minds were linked, it was enough to make him cower.
+Giving off a similar aura like at the round table.
 
-“…….”
+I look down at him as though I could tear his throat out at any moment.
 
-Good.
+But this wasn’t the community that merely connected our minds. Right now, we were here in the flesh, which is more than enough.
 
-You’ve never experienced anything like this, have you?
+I continued to glare down at him, which was more than enough to make him roll back his eyes.
 
-Born with a silver spoon in your mouth, pampered and spoiled.
+Yes, that’s how it should be.
 
-“…….”
+Considering the privileged life he’s led as a direct descendant of the noble family, he’s never encountered situations like this before.
 
-Silence.
+“……”
 
-The nobles, who loved a good scandal, were watching from afar.
+Silence hung in the air; but no reply.
 
-They could have intervened and defended their fellow noble from a vulgar barbarian like me.
+The nobles, who go crazy for scandals, are quietly watching from afar.
 
-‘Barbarians are OP, after all.’
+If they really saw my status as inferior to theirs, they’d come running to help him. But:
 
-If I were a fairy, a dwarf, or a beastman, someone would have stepped forward and criticized my rudeness.
+‘Barbarians are really an overpowered character.’
 
-They would have assumed I could understand their words.
+If I’d been an elf, a dwarf, or someone from the beast tribe, someone would surely have come forward to scold my rudeness.
 
-But what about a barbarian?
+At least they’d assume we speak the same language.
 
-The answer was in this silence.
+But what about a barbarian—when there’s no frame of reference? The answer lies in this silence.
 
-“…….”
+“……”
 
-They didn’t know how to react.
+With no statistics, it’s hard to take action. They’re afraid of jumping in and catching fire themselves.
 
-They were afraid of getting caught in the crossfire.
+“……Are you sure it’s all right to just let that be?”
 
-“…Should we just leave them alone?”
+Indeed, someone voiced that worry, but as soon as our eyes met, he immediately looked away.
 
-Someone voiced their concern, but quickly looked away when our eyes met.
+Common sense says I wouldn’t start a brawl right here in front of so many nobles just because we locked eyes.
 
-It was common sense that I wouldn’t resort to violence in front of so many nobles…
+Even so, there is no certainty.
 
-But they couldn’t be sure.
+Who knows whether common sense applies to a barbarian who challenges people to duels over the slightest insult?
 
-Would a barbarian who challenged someone to a duel over a minor insult understand common sense?
+“It would be nice if you could answer soon.”
 
-“I’m waiting for your answer.”
+As I spoke, I stepped closer to him.
 
-I took a step closer.
+“Don’t you want to duel?”
 
-“You don’t want to duel?”
+At that, the nobles who had been chatting away with him moments earlier quietly shuffled back. Perhaps they realized he had to solve this situation on their own.
 
-The nobles who had been chatting with him earlier discreetly backed away.
+Finally, he made a decision.
 
-It seemed like he had no choice but to resolve this himself.
+“…Set a date.”
 
-“…Name the date.”
+It’s not because he’s confident of winning the duel.
 
-It wasn’t a decision made out of confidence.
+He just has no alternative
 
-He just didn’t have any other options.
+Refusing a duel request from a despised half-breed in front of everyone would be like a death sentence in this society driven by honor.
 
-Refusing a duel from a demi-human he had just insulted in front of everyone? It was social suicide in this society, where reputation was everything.
+“Setting a date means you don’t have the guts to fight yourself?”
 
-“So you’re too cowardly to fight me yourself?”
+“…There are different knives for slaying beasts.”
 
-“…There’s a special sword for dealing with beasts.”
+Although he spoke bravely, it meant he was too scared to fight and would appoint a champion.
 
-He spoke eloquently, but it meant he was going to appoint a representative.
-
-“Fine. But make sure you have several candidates ready.”
+“Well, it doesn’t matter, but you’d better prepare several.”
 
 “…Several?”
 
-He looked confused.
+Did he not understand?
 
-Did he think it would be over after one duel?
+Did he think this would end after one duel?
 
-“Ah, you didn’t know? I’m going to keep challenging you to duels until my honor is restored.”
+“Setting a date means you don’t have the guts to fight yourself?”
 
-A mad dog doesn’t let go once it bites.
+“…There are different knives for slaying beasts.”
 
-“…What?”
+Although he spoke bravely, it meant he was too scared to fight and would appoint a champion.
 
-You should have been more careful with your words.
+“Well, it doesn’t matter, but you’d better prepare several.”
 
-Or you should have had a stronger backer.
+“…Several?”
 
-Then I would have targeted someone else.
+Did he not understand?
 
-“Are you… sure you can handle this…?”
+Did he think this would end after one duel?
 
-He was asking if I was really going this far.
+“Oh, didn’t you know? I’ll keep challenging you to duels from today until I feel my honor has been restored.”
 
-He must be feeling like he was struck by lightning out of nowhere.
+A mad dog must not be let go after biting once.
 
-“That’s a strange question. Handle this?”
+“…W-What?”
 
-I spoke clearly, loud enough for everyone to hear.
+See? You really should’ve watched your mouth.
+
+Or at least had some solid backing. Then maybe I’d have gone after someone else.
+
+“Are you… really prepared to handle all this…?”
+
+In other words, did I really need to go this far? From his perspective, it must have felt like a bolt from the blue.
+
+“It’s strange to hear you ask if I can handle it.”
+
+I made it clear for everyone to hear.
 
 “Do I look like someone who cares about that?”
 
-Be careful, or you might be next.
+You’d better watch out if you don’t want to be next.
 
 ---
 
-The duel was set.
+Thus, the duel was set.
 
-Now we just had to decide on the date.
+All that was left was to set the date.
 
-“How about this week?”
+“This week works for me.”
 
-“…….”
+“……”
 
-“Do you need more time to find someone?”
+“Need more time to call your people?”
 
-“No, that’s enough time.”
+“No, that should be enough.”
 
-He had finally adapted to the situation.
+Seems like he’s gotten used to this abnormal situation.
 
-He must have finished his calculations.
+The baron didn’t drag out his response anymore.
 
-‘Maybe he even sees this as an opportunity?’
+Maybe he had finished his calculations.
 
-A vulgar barbarian who dared to challenge a noble.
+‘Perhaps he sees this as an opportunity?’
 
-And a noble who gracefully accepts the challenge and defends his honor.
+The barbarian, recklessly raging without understanding his place.
 
-It was a good story.
+And him, accepting the barbarian’s duel and splendidly winning, upholding the dignity of a noble.
 
-Of course, it wouldn’t happen that way.
+It’s quite a plausible future, isn’t it?
 
-‘He’ll probably just use his connections to find a decent knight.’
+Though it’s unlikely to happen.
 
-I couldn’t be sure about the level of his representative.
+‘At best, he can probably pull in some knight with a bit of a reputation through personal connections.’
 
-But I was confident.
+I can’t be certain about the level of his champion.
 
-There was no way the Captain of the Royal Knights would be a duel representative for a mere Baron.
+However, I am confident.
 
-And I could defeat anyone below that level.
+The royal knights’ captain wouldn’t stoop to represent the baron.
 
-But…
-
-“That’s enough.”
-
-Someone intervened.
-
-‘Duke Keallunus.’
-
-He walked through the parting crowd and patted my shoulder.
-
-As if trying to calm down a child throwing a tantrum.
-
-“It’s a joyous occasion, isn’t it?”
-
-“…….”
-
-“Let’s just forget about this. We’re all pillars of this kingdom, aren’t we?”
-
-His political intentions were clear.
-
-He was stepping in to resolve a situation no one else could handle.
-
-And if I calmed down and backed down after he intervened…
-
-It would boost his reputation among the nobles.
+If it’s not that level, I am confident I will win.
 
 But…
 
-‘Didn’t you say we were friends?’
+Regrettably, someone intervened at that moment.
 
-A friend who only takes and never gives is quickly abandoned.
+‘Duke Keallunas.’
 
-If you want something from me, you have to give me something in return.
+He parted the crowd like the Red Sea and patted my shoulder as if to soothe and pacify a sulking child.
 
-“Baron Kipriot insulted me.”
+“Isn’t it a good day?”
 
-The Duke’s smile vanished.
+“……”
 
-I continued,
+“It would be generous of you to let it go. Aren’t we all pillars supporting this kingdom?”
 
-“He called me a half-breed, a beast.”
+The duke’s timing and political intent were clear.
 
-Well, technically, it was his friend who said that, but whatever.
+No one else dared to intervene in this situation; but as soon as he does, the raging barbarian calms down and backs off. That alone would raise Duke Keallunas’s stature in noble society.
 
-“He insulted Baroness Lirivia, calling her a whore just because she’s a beastman. And when I protested, he laughed at me and asked if I even had the honor to be insulted.” Ɍ₳Ɲ𝘰ꞖÈṥ
+But—
 
-He had even mocked my literacy skills, but I decided not to mention that.
+‘He wants to be friends?’
 
-It would make me seem petty.
+In a friendship, if you only ever take without giving, you’ll be cut off soon enough. If he wants something from me, he needs to offer something first.
 
-“That’s what Baron Kipriot did. On this ‘joyous occasion’ you mentioned.”
+“Baron Kypriot insulted me.”
 
-I had declared my reasons for challenging him to a duel in front of everyone.
+When I openly defied him, the Duke’s lips tightened. I went on anyway.
 
-And then I asked,
+“He called me a mongrel, and an animal.”
 
-“Is there any reason why I should forgive him?”
+In truth, it was someone else beside him who had said it, but anyway.
 
-The Duke looked at the Baron.
+“He treated Baroness Lirivia, whom I was conversing with, as a prostitute just because she is a half-breed. When I protested, he scoffed, questioning if I even had the honor to be insulted.”
 
-He hadn’t been aware of the details.
+He even mocked if I could write, but I’d leave that out; it’s a bit petty.
+
+“So, this is what Baron Kypriot did. Duke, on this ‘good day’ you speak of.”
+
+After announcing the reason for my duel to everyone, I asked again.
+
+“So why should I hold back?”
+
+The duke’s gaze shifted to the baron.
+
+Though he’d stepped in after seeing the situation, he probably didn’t know the full details until now.
 
 “Tsk.”
 
-He clicked his tongue and then looked back at me. He seemed to regret intervening, but now that he was involved, he only had two options.
+After clicking his tongue at the baron, the duke looked at me. Perhaps he regretted intervening, but once he had, there were only two choices.
 
-To retreat empty-handed, his reputation tarnished.
+Either he could return ineffectually after stepping in so grandly.
 
 Or…
 
-“Baron Kipriot made a mistake.”
+“It seems Baron Kypriot has made a mistake.”
 
-To offer me something in return.
+He had to concede something to me.
 
-His decision was swift and decisive.
+The Duke’s judgement was swift and decisive.
 
-“I promise you, on my name, that this will never happen again. Not today, not anywhere else.”
+“I promise on behalf of Duke Keallunas that such mistakes will not happen again-not here, nor anywhere else.”
 
-A promise made on the name of Duke Keallunus.
+A promise made with the weight of Duke Keallunas’s name.
 
-“Isn’t that right, Baron Kipriot?”
+“Isn’t that so, Baron Kypriot?”
 
-The Baron, trembling, answered immediately.
+The baron, now trembling, answered without delay.
 
-“Y-yes… of course, Duke.”
+“Y-Yes, of course, Your Grace.”
 
-Even I could tell he was being sincere.
+It didn’t seem like mere lip service to escape the situation. The baron, and likely other nobles as well, wouldn’t dare repeat today’s actions.
 
-He wouldn’t dare repeat his mistake.
+The promise carried that much weight.
 
-And neither would any other noble.
+If such a situation were to recur, it would be akin to tarnishing the duke’s name.
 
-The Duke’s promise carried weight.
+‘It’s a bit disappointing that it didn’t come to a duel… But there will be other opportunities.’
 
-If this happened again, it would be a direct insult to his honor.
+I quickly made my decision.
 
-‘It’s a shame I couldn’t have the duel… but there will be other opportunities.’
+The duke had stepped back, after all.
 
-I made a quick judgment.
+“So, will you calm your anger now?”
 
-The Duke had backed down.
+If I turn this down as well, it’s basically an open declaration of hostility.
 
-“So, are you going to calm down now?”
+“I haven’t even heard an apology from Baron Kypriot yet. And even if I do, the honor I lost today won’t be restored. But…”
 
-If I refused, it would be a declaration of war.
+I continue:
 
-“I haven’t even received an apology from Baron Kipriot yet. And even if I do, my honor won’t be restored.”
+“I’ll end it here.”
 
-But…
+“Ho….”
 
-I continued,
+An exclamation of surprise rose amongst the nobles.
 
-“I’ll let it slide.”
-
-“Hmm…”
-
-The nobles gasped.
-
-“It’s my friend’s request.”
+“Because it’s a request from a friend, after all.”
 
 “……!”
 
-Their eyes widened in surprise.
+Their eyes grow wide at my next words.
 
 ---
 
 Friend.
 
-A word that signifies a close and equal relationship.
+A word that signifies a mutual and equal relationship.
 
-“…..”
+“……”
 
-The moment I uttered that word, silence fell over the Palace of Glory.
+The moment that word leaves my mouth, a hush falls over the Hall of Glory.
 
-‘A barbarian and a Duke, friends?’
+‘A barbarian… and the duke are friends?’
 
-The air was thick with anticipation.
+As if awaiting clarification, the air goes still.
 
-The Duke frowned slightly, and then he smiled warmly.
+In the silence, the Duke furrowed his brow slightly, then recovered his genial smile and spoke:
 
-“I’m glad to hear that.”
+“I’m glad to hear it.”
 
-He didn’t deny or confirm our friendship.
+A short phrase, neither confirming nor denying the use of “friend.” But it’s enough. Enough to raise the standing of Baron Jandel, who has only just joined the Royal Club, up several notches.
 
-But it was enough.
+‘Unintentionally, I’ve gained quite a bit.’
 
-It significantly boosted my status.
+Of course, the Duke must have weighed the politics carefully. He even pledged his family name to make up for a single noble’s mistake.
 
-‘What an unexpected gain.’
+Perhaps he felt that raising my status would be less damaging to the dignity of his house.
 
-Of course, the Duke had made a calculated decision. He had made a promise on his family’s name to resolve a minor incident.
+“Well, I have official business now, so I’ll take my leave. We’ll arrange another date to meet. Ah, and congratulations on your promotion”
 
-He must have judged that it was better to boost my status than to damage his own reputation.
+Leaving those parting words before everyone, the Duke left.
 
-“Well, I have some official business to attend to, so I’ll be taking my leave. I’ll summon you again soon. And congratulations on your promotion.”
+‘This is almost too burdensome…’
 
-He left after making a promise to meet again in front of everyone.
+But the results weren’t bad. I can already feel how the gazes on me have changed.
 
-‘This is making me feel a bit pressured…’
+“…So he wasn’t just some lucky guy who happened to become a noble.”
 
-But the outcome was good.
+“Wait, could it be that the Duke used his influence to get his baron title approved…?”
 
-The way they looked at me had changed.
+Curiosity began to stir in the eyes that had looked down on me.
 
-“…He’s not just some lucky barbarian, is he?”
+A good sign.
 
-“Could it be that… the Duke was the one who supported his promotion…?”
+In the end, the more attention I draw, the less recklessly that marquis can act against me.
 
-Their condescending gazes were now filled with curiosity.
+Accordingly, after warning Baron Kypriot that there would be no “next time,” I returned to my seat. The “rabbit baroness” was standing there, blankly staring at me, not even bothering to sit.
 
-It was a good sign.
-
-The more attention I received, the less likely the Marquis would be to act recklessly.
-
-So I just gave Baron Kipriot a warning and returned to my seat.
-
-The White Rabbit Baroness was standing there, staring at me.
-
-“You don’t have to stand up to greet me.”
+“No need to stand up just to greet me.”
 
 “…….”
 
 “…Baroness Lirivia?”
 
-She finally snapped out of her daze and approached me.
+When I waved my hand in front of her face, she finally snapped out of it and approached me.
 
-And then she whispered urgently,
+Then, in a tiny voice, she blurted out rapidly.
 
-“W-why did you do that…!”
+“W-what were you thinking, doing all that…?!”
 
 “…….”
 
-“It’s a good thing the Duke intervened! You could have been in serious trouble!”
+“If the Duke hadn’t stepped in, we’d have been in serious trouble!”
 
-Geez, this family doesn’t appreciate tanks.
+Jeez, it looks like this place doesn’t give their ‘tankers’ much respect.
 
-Shouldn’t she be thanking me for my efforts?
+Wouldn’t it be nice to start with a ‘well done’?
 
-“It worked out, didn’t it?”
+“But it ended well, didn’t it?”
+
+“……?”
+
+“The duke’s promise won’t erase discrimination, but it will stop the whispers behind us.”
+
+Just as she wanted.
+
+As I cut to the chase, Baroness Lirivia’s expression turned strange.
+
+“Did you really do all that just for that reason?”
+
+“What other reason do I need?”
+
+“That was too reckless. If the duke hadn’t intervened, even the houses of Melbes might not have been able to save you…!”
+
+It was a bit disappointing.
+
+That makes it sound like my achievement was all just luck.
+
+“But in the end, it all worked out fine, didn’t it?”
 
 “…?”
 
-“The Duke’s promise won’t erase all discrimination, but at least they won’t be whispering behind your back anymore.”
+“A single promise from the Duke won’t eradicate discrimination, but no one’s going to whisper behind your backs anymore.”
 
 Just like you wanted.
 
-Her expression changed.
+When I said that so matter-of-factly, the rabbit baroness’s expression turned strange.
 
-“You… you did all that just for us?”
+“You… Did you really do all that just for that one reason…?”
 
-“Why would I need another reason?”
+“And why would I need any other reason?”
 
-“That was too reckless! If the Duke hadn’t intervened, Melbeth wouldn’t have been able to protect you…!”
+“That was too reckless! If the Duke hadn’t stepped in, even Melves might not have been able to protect you, Baron…!”
 
-Her words were a bit hurtful.
+A bit of a downer, that comment. It sounds like all my efforts amounted to nothing but luck.
 
-It made my efforts seem like pure luck.
+“I don’t really see it that way.”
 
-“Well, I don’t think that would have happened.”
-
-“…Of course, I value your worth. But not all the families in Melbeth feel the same way. They might have decided that you weren’t worth the risk, considering the potential backlash from the other nobles…”
+“…Granted, I personally hold Baron Jandel in high regard. But the other houses in Melbes might not feel the same. They could have decided that it wasn’t worth recruiting you, given that you’d barely begun to establish your position and yet were already drawing so much resentment—”
 
 “Stop.”
 
-She was rambling.
+It was an irrelevant response. Because that’s not what I meant.
 
-That wasn’t what I meant.
+“Melbes has nothing to do with this.”
 
-“Melbeth doesn’t matter.”
+“…What?”
 
-“…Huh?”
-
-“Neither does the Duke. The outcome wouldn’t have been different even if he hadn’t intervened.”
+“Nor does the Duke. Even if he hadn’t stepped in, the outcome wouldn’t have changed.”
 
 “…?”
 
-I explained patiently.
+Seeing that she clearly didn’t follow, I kindly explained it to her.
 
-“You told me to become indispensable.”
+“Didn’t you tell me to become indispensable?”
 
-“…….”
+“…”
 
-“That’s why I challenged him to a duel. They need someone like me to keep them in check. Ah, Baron Kipriot was the perfect target. His family isn’t that influential, and his backer isn’t that strong.”
+“That’s why I challenged him to a duel. Having someone like me around will stop the other jerks from getting cocky. And Baron Kipriot made a perfect example. His house is nothing special, and he doesn’t have any big connections.”
 
-“Wait! You… you planned all this?”
+“Wait a minute! Baron… are you saying you planned all of that from the start?”
 
-“Sort of.”
+“For the most part.”
 
-I nodded, and she was speechless.
+When I nodded, the rabbit baroness was flabbergasted, yet there was still one thing she seemed confused about.
 
-But she still had one question.
+Oh, that?
 
-“But how does that make you indispensable?”
+“When you told me to just let it pass earlier, and I asked you why, you said there was no other way.”
 
-Ah, that?
+At that moment, I saw it clearly—what the nonhuman nobles’ faction lacked. Only a battle-hardened main tanker could recognize it at a glance.
 
-“You said there was no other way when I asked why you were enduring their insults.”
+“In truth, you guys did have a way. There’s always some way forward in any situation.”
 
-I had seen it then.
+I spoke firmly.
 
-What the demi-human nobles lacked.
+“If you find yourself surrounded by enemies and can’t see a path, it’s only because you have no one capable of making one.”
 
-Something only a seasoned tank could recognize.
+“…”
 
-“It’s not that there was no other way. There’s always a way.”
+“Someone who’ll take all the arrows from the front and cut open a road.”
 
-I said firmly.
+When I finished speaking, the rabbit baroness said nothing. Yet from her expression, I could tell—
 
-“If you can’t see a path, it’s because…”
+‘Okay, guess I’ve made my self-PR loud and clear.’
 
-“…..”
+‘Okay, that should have made a good impression of myself.’
 
-“…you don’t have someone to clear it for you.”
-
-She didn’t say anything.
-
-But I could tell from her expression.
-
-‘Okay, my self-promotion worked.’
-
-Right, I set my own value.
+Yeah, I set my own value.
 
 ---
 
-We continued our conversation.
+I continued to converse with the Rabbit baroness.
 
-She was impressed and asked me countless questions, and I played along, selling myself like a salesman.
+She asked me various things as if she was deeply impressed, and I pitched like a door-to-door salesman.
 
-And as time passed…
+And as time went on.
 
-“You’re right…”
+“You’re right, Baron…”
 
-Her expression changed.
+The Rabbit baroness’s face slowly changed.
 
-“What has changed after all these years of enduring their insults? If we had taken even a single step forward… the outcome would have been different!”
+“What has all our enduring changed up to now? If we had steadily made even small steps during all that long time, the outcome would have been different!”
 
-The naive herbivore was gone.
+The naive appearance of a herbivore was no longer there.
 
-Only a determined beast remained.
+Only a resolute predator stood there.
 
-“It’s time for Melbeth to change. Don’t worry, Baron Yandel. I’ll make sure you get the guild’s support. We need someone like you.”
+“It’s time for our Melbes to change too. Don’t worry, Baron Jandel. I’ll take responsibility for securing the guild’s sponsorship. We need someone like you in Melbes.”
 
-She left the table.
+With those words, Baroness Rabbit left the table.
 
-I watched her leave, and a thought crossed my mind.
+Watching her back, a thought occurred to me.
 
-To hide your fangs, or to bare them.
+To hide the fangs or to reveal them. Perhaps the initial distinction between herbivores and carnivores was based on that mindset.
 
-Maybe that’s the difference between herbivores and carnivores.
+‘Man, this just shows how important environment really is.’
 
-‘This is why environment is so important.’
+Is it because she’s a rabbit? Her ears sure are quick to pick things up.
 
-She’s so easily influenced.
+Anyway, after she left, I sat down at the empty table and resumed my interrupted meal, and one by one, the nobles approached me.
 
-Maybe it’s because she’s a rabbit.
+“Baron Jandel, quite the scene earlier. I heard it, you were right to challenge him to a duel”
 
-Anyway, she left, and I continued my meal.
+“Yes, once I heard the details, it was quite shocking.”
 
-And then the nobles started approaching me.
+“Ugh, disrespecting other races – what era do they think this is?”
 
-“Baron Yandel, I apologize for my earlier behavior. I heard what happened, and it seems like you had every right to challenge him to a duel.”
+I was amused by their sudden change in attitude, but I socialised with them anyway.
 
-“Yes, it was outrageous.”
+From now on, connections are assets.
 
-“Tsk, racism in this day and age.”
+“Ha ha, thanks everyone. I’d be glad to visit if you invite me sometime.”
 
-They were all trying to make amends now that the Duke had intervened.
+“Oh, really? I heard you haven’t shown up since the banquet at Count Ferdehilt’s.”
 
-It was amusing, but I played along.
+“That was when I didn’t know anyone, but now we’re friends, aren’t we?”
 
-Connections were also assets.
+“…Friends? Ha ha! You’re quite bold, being an explorer and all. Let’s do that, be friends!”
 
-“Haha, thank you. I’ll visit your families if you invite me.”
+Among those who approached me was Count Ferdehilt himself, who lamented not succeeding in marrying off his daughter to me before.
 
-“Oh, really? I heard you haven’t attended any banquets since the one at Count Perdehilt’s mansion.”
+“I’m quite happy to see you’ve turned out so splendidly, but a bit disappointed, too. My daughter would have been delighted…”
 
-“I didn’t know anyone back then. But now we’re friends, aren’t we?”
+As if. She was trembling like a leaf when we met, obviously dragged out there against her will.
 
-“…Friends? Hahaha! You’re quite bold for an explorer! Alright, let’s be friends!”
+“Haha, then I’ll take my leave. Don’t you forget—when I invite you next time, you’d better not ignore me!”
 
-Count Perdehilt was also among those who approached me, and he seemed to regret not having married his daughter to me.
-
-“I’m happy to see you doing so well, but I’m a bit disappointed. My daughter would have been happy…”
-
-His daughter? Please.
-
-She was trembling in fear when she saw me.
-
-“Haha, I’ll be going now. Don’t ignore me when I invite you to my banquet!”
-
-I sent him away, and then I continued greeting the other nobles.
-
-And then…
+After sending off the count, I continued exchanging introductions and small talk with various nobles. Then it happened—
 
 ‘…Huh?’
 
-A middle-aged Baron shook my hand, slipped a note into my palm, and then left.
+Some middle-aged baron shook my hand and slipped me a small note, giving me a meaningful look before disappearing.
 
-I felt a chill run down my spine.
+A chill ran through me.
 
-‘This bastard…’
+‘No way… this guy…’
 
-I wanted to tear the note to shreds, but I decided to read it first, just in case.
+I thought about shredding the note on the spot, but just in case, I snuck off to the restroom alone and opened it. Good thing I didn’t tear it up—it turned out to be worth reading.
 
-And I was glad I didn’t.
+[Three days from now, I’ll be waiting where we first met.
+— Your real friend]
 
-[I’ll be waiting for you in three days, at the place where we first met. —Your true friend.]
+Huh, so she reached out in secret like this? Well, that means I’ve at least completed one side-quest for this whole promotion ceremony, I suppose.
 
-Wow, he’s being so secretive.
+‘…Now I just have to meet the marquis.’
 
-So I had completed one of the sub-quests for the promotion ceremony?
-
-‘…Now I just have to meet the Marquis.’
-
-I tore up the note, flushed it down the toilet, and then left the bathroom.
+I tore the note into tiny pieces, then flushed them down with the tap water before stepping out of the restroom.

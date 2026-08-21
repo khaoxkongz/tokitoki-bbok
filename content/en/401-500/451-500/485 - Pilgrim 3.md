@@ -1,503 +1,499 @@
-# Pilgrim 3
+Pilgrim (3)
 
-Crack! Crack! Crack!
+Thud, thud, thud -!
 
-I carved a path through the Imperial soldiers, advancing through the passage. The closer I got to the central area, the more soldiers there were, but the battles became easier.
+We advanced through the corridor, defeating Imperial soldiers along the way.
 
-I had Bersil for healing, and my stats were continuously increasing.
+The closer we got to the centre, the more soldiers there were, but the fights became easier.
 
-Crack!
+Not only was I accompanied by Versil, who could act as a healer, but my stats were also increasing.
 
-At this point, my stats were probably comparable to when I was exploring the 3rd floor…
+Thud!
 
-「Character has entered the Pilgrim’s Altar.」
+Hmm, at this point I think my stats are about the same as when I was wandering around the third floor…
 
-A purple fog swirled around the central area as Bersil and I arrived.
+[The character has entered the Pilgrim’s Altar]
 
-“Be careful. Anything could happen from now on.”
+Soon, Versil and I reached the centre, where a purple mist was swirling.
 
-“Yes.”
+“Be careful. From now on, it wouldn’t be strange for anything to appear.”
 
-I tightened my grip on my shield and mace, my senses heightened.
+“Understood.”
+
+We raised our guard and stepped into the mist.
 
 Step, step.
 
-After a few steps into the fog…
+Protecting my upper body with my shield, I took a few steps forward.
 
-The chamber where we had been raiding Dreadfear appeared.
+The cave we had raided earlier came into view.
 
-I quickly assessed the terrain.
+I checked the terrain first.
 
-“…….”
+“……”
 
-The chamber was empty.
+The cave was empty.
 
-And in place of the monument, a large statue, over four meters tall, stood in the center.
+Where there should have been a monument, there was a stone statue over 4 metres high.
 
-“Yandel, that’s…”
+“Mr Jandel, this is…”
 
-“The Witch’s Altar, probably.”
+“This must be the witch’s altar.”
 
-It seemed like we had come to the right place.
+Looks like we’ve come to the right place.
 
-After confirming that there was no one else around, I approached the statue and examined it carefully.
+After making sure no one was around, I approached the statue and examined the altar closely.
 
-“Bersil, do you recognize this?”
+“Versil, do you notice anything?”
 
-“No, I don’t. The Witch in the books didn’t look like this…”
+“No. The statue too… The witch I read about in books didn’t look like this…”
 
-“Well, they had to portray her as an evil being in the books.”
+“Well, books would have to portray her as an evil being.”
 
-“Right… I guess so… Then is this really what she looked like?”
+“Yes… I guess that’s true… So, is this really what the witch looked like?”
 
-I wasn’t sure, but it seemed likely.
+Hmm, I’m not sure, but probably.
 
-The statue looked exactly like the girl I had briefly encountered after defeating Riakis.
+She looks exactly like that girl I briefly met after defeating Riakis.
 
-“She looks… so young…”
+“To think she looks like… such a young girl…”
 
-Bersil reached out to touch the statue, as if in a trance.
+Versil Gowland murmured, reaching out to the statue as if entranced.
 
-“Stop. Something might happen if you touch it.”
+“Stop. If you touch it, something might go wrong.”
 
-“Ah, okay!”
+“Ah, right!”
 
-Bersil flinched and withdrew her hand.
+Versil winced and withdrew her hand.
 
-Then she asked cautiously,
+Then she cautiously asked me,
 
 “…What are we going to do now?”
 
-“We need to investigate further.”
+“First, we need to investigate further.”
 
-I examined the statue without touching it.
+I examined the statue without making direct contact.
 
-There was an inscription on the pedestal, but I couldn’t decipher it.
+There were three lines of text inscribed on the pedestal, but unfortunately, I couldn’t decipher them.
 
-“Ancient languages aren’t my specialty…”
+“Ancient language isn’t my specialty…”
 
-Damn it, Raven could read ancient languages.
+Tsk, Raven could read ancient languages just fine.
 
-Were pureblood mages inherently more knowledgeable than players?
+I guess a player’s knowledge can’t match that of a pure-blooded mage.
 
-“That’s a shame. It might have given us some clues—”
+“Too bad. If only we knew what it said, it might’ve helped—”
 
-I was about to say that when…
+But just as I was about to continue,
 
 “One star, one sun, one moon.”
 
-A voice echoed from behind us.
+A strange voice came from behind.
 
-“On this land we look upon, all are equal.”
+“Looking down upon this land, all shall be equal.”
 
-I turned around and saw a middle-aged man in knight’s armor.
+Turning around, I saw a middle-aged man in knight’s armor watching us.
 
-“I will look up to you.”
+“I shall look up to you.”
 
-Damn, he looked strong.
+Damn, he looks old.
 
-Was he the boss?
+Is he the boss?
 
-I hoped he wasn’t an Aura user.
+Surely he won’t use aura, right?
 
-“Isn’t it disgusting? To think that filthy monsters are equal to us.”
+“Isn’t it disgusting? That filthy monsters like you would be equal to us.”
 
-I hid Bersil behind me and raised my shield, and the knight chuckled.
+As I shielded Versil behind me and raised my shield, the knight chuckled.
 
-“Ah, I suppose it’s different for you. If you had any true convictions, you wouldn’t have betrayed humanity.”
+“Ah, but not you. Had you clung to righteous conviction, you’d never have betrayed mankind.”
 
-He made a strange sign of the cross, unlike any I had seen before.
+With these words he drew a holy sign, a sign I had never seen before.
 
-“I, Argarsil Dreadfear, swear. By the Imperial Sword that protects this world, I will eliminate all pilgrims.”
+“I, Argarsil Dreadfear, swear upon the Empire’s blade, guardian of this world: not a single defiled pilgrim shall escape judgment.”
 
-He drew his sword, its blade gleaming with a white aura.
+With a wave, he drew his sword.
 
-Whoosh!
+Hwoooom-!
 
-‘…Holy shit.’
+A radiant aura surged around the blade.
 
-Was this even balanced?
+Is this balance for real?
 
 ---
 
-The moment I saw the aura, my heart sank.
+The moment I saw the aura radiating from the blade,
 
-'There's no way I can win this in a normal fight.'
+My vision darkened and my neck stiffened.
 
-There was no doubt about that.
+Winning through normal combat is impossible.
 
-Even with my boosted stats, I couldn't stand against a knight who could use Aura.
+This premise is unquestionable.
 
-He would bisect me before I could even get close.
+No matter how much I increase my stats, there’s no way I can win against a knight who can use aura. One swing would cut me in half, shield and all.
 
-But...
+But…
 
-'...That's why I have to find it.'
+…So I have to find a way.
 
-Instead of despairing, I started thinking.
+Rather than despairing over the situation, I’d rather think.
 
-How could I defeat him?
+How can I defeat this bastard?
 
-'There has to be a way.'
+‘There must be a way.’
 
-[Dungeon and Stone] was a cruel game, but it wasn't unfair.
+[Dungeon & Stone] may be an unfriendly game, but it’s not an unfair one.
 
-If they had given me an opponent like this with my stats and skills sealed, there had to be a way to defeat him.
+If the game threw an aura-wielding boss at us with locked stats and skills, there must be a way to deal with him somewhere.
 
-'Think.'
+Yeah, so…
 
-I calmly analyzed the situation.
+‘Think.’
+
+I held onto my faith and analyzed the situation step by step.
 
 Argarsil Dreadfear.
 
-He was definitely the boss.
+First, there’s no doubt he’s the boss.
 
-Then how could I defeat him?
+So, how can I defeat him?
 
-'Leveling up isn't the answer.'
+‘Leveling up isn’t the answer.’
 
-It would take too long to grind my stats by killing Imperial soldiers.
+After all, once I’d killed over 100, I’d have to kill ten soldiers instead of five to increase my stats.
 
-After reaching a certain level, I had to kill ten soldiers to gain a single stat point.
+Even if I continued like this, it would take days of grinding to reach a level where I could defeat this guy.
 
-And even if I hunted for days, I wouldn't be able to reach his level.
+‘So… is it the altar?
 
-'Then... the altar?'
+I looked at the witch statue.
 
-I glanced at the Witch's statue.
+Maybe, as the soldiers said, activating the altar would trigger an event that could help in the fight.
 
-Maybe activating the altar would trigger an event that would help me defeat him.
+‘The problem is figuring out how to activate it.
 
-'But how do I activate it?'
+Swoosh.
 
-I took a step back and approached the statue.
+Naturally, I took a step back and approached the statue.
 
-And...
+And then…
 
-Thud.
+Tap.
 
-I reached out and touched it.
+I reached out and put my hand on the statue.
 
-"..."
+“……”
 
-Nothing happened.
+Unfortunately, nothing happened.
 
-There must be a condition.
+It seems that some condition has to be fulfilled.
 
-'It's an altar... so I have to offer something?'
+Since it’s an altar, do I have to offer something?
 
-As I was thinking that...
+Just as this thought crossed my mind,
 
-"Bring the captured pilgrims."
+“Bring the captured pilgrims.”
 
-The knight suddenly spoke.
+The knight who had been pointing his sword at us suddenly spoke into the air.
 
-And a voice answered from the fog,
+Surprisingly, an answer came from beyond the mist.
 
-"Yes, Centurion."
+“Yes, Captain.”
 
-It was a disciplined response.
+A disciplined voice replied.
 
-A group of soldiers emerged from the fog, surrounding two captured women.
+Soon, dozens of soldiers emerged from the mist, surrounding two women bound tightly with ropes.
 
-"...Mister!"
+“Ah, Mister!”
 
-"B-Bjorn...! D-Did you come to save us...?"
+“B-Bjorn…! Have you come to save us…!”
 
-So they had been captured.
+So these two were caught before they could get here on their own. I thought Erwin could make it alone, but I guess even she couldn’t.
 
-I had thought Erwen would be able to avoid detection...
+While I was relieved that the soldiers hadn’t executed them on the spot, I tried to interpret the current situation rationally.
 
-I was relieved that they were still alive, and I quickly analyzed the situation.
+This seems to be a scripted event.
 
-'...This seems to be part of the scenario.'
+Erwin and Aynar were captured on the way, but they survived and arrived here as prisoners.
 
-Erwen and Ainar had been captured, but they were still alive and had reached the altar.
+Is this really a coincidence?
 
-Was it a coincidence?
+It seems that the scenario is for us all to gather alive in front of the witch’s altar…
 
-It seemed like reuniting at the altar was part of the event.
+“…Urk!”
 
-"...!"
+“Urk!!”
 
-"Ugh!"
+The knight kicked Erwin and Aynar towards us, and Versil quickly moved to untie them.
 
-The knight kicked Erwen and Ainar, sending them flying towards us. Bersil quickly untied them.
+“Sorry…”
 
-"I'm sorry..."
+“Th-thank you for saving us!”
 
-"Th-Thank you!"
+Erwin apologised, while Aynar expressed her gratitude.
 
-Erwen apologized, and Ainar thanked Bersil.
+Unlike Versil, the two were armed with weapons and armor likely taken from the soldiers.
 
-Unlike Bersil, they both had weapons and armor.
+Erwin had a dagger, and Aynar wielded a greatsword.
 
-Erwen had a dagger, and Ainar had a greatsword.
+They didn’t even confiscate their weapons… What’s the deal?
 
-'They didn't even confiscate their weapons...'
+“What’s the meaning of this?”
 
-"What's the meaning of this?"
+The knight smirked at my question.
 
-The knight smirked.
+“I simply wanted to confirm something.”
 
-"I just wanted to see something."
+“What?”
 
-"See what?"
+“How firm your convictions are—you who betrayed the Empire and the world.”
 
-"How strong your convictions are. You, who betrayed the Empire and the world."
+He then addressed all of us.
 
-He looked at us and said,
+“Kill each other. Here, before the witch you serve. Prove your loyalty.”
 
-"Kill each other. Before the Witch you serve."
+I couldn’t help but laugh bitterly.
 
-I couldn't help but laugh.
+Does this guy think he’s some kind of demon lord?
 
-Did he think he was some kind of demon lord?
+“I, Dreadfear, promise this: those who kill the defiled pilgrims and prove their purity shall be absolved of all sins.”
 
-"I, Dreadfear, promise you this. Those who prove their loyalty by slaying a fellow pilgrim will be absolved of all their sins."
-
-What a twisted boss fight.
+This boss fight’s concept is brutal.
 
 ---
 
-Dozens of soldiers surrounded us.
+Dozens of soldiers surrounded us, and Dreadfear stood in the centre, his sword drawn and his gaze filled with arrogance.
 
-And Dreadfear, his sword drawn, stood before them, his eyes filled with arrogance.
+“…….”
 
-"..."
-
-"..."
-
-A moment of silence.
-
-None of my companions were tempted by his offer.
-
-Except for me.
-
-"How can we trust you?"
-
-"B-Bjorn?"
-
-Ainar looked at me, dumbfounded.
-
-But I couldn't help it.
-
-I needed more time to think.
-
-"How can you trust me...?"
-
-Dreadfear chuckled, amused by my question.
-
-"Believe me."
-
-It wasn't a persuasive argument, nor did he provide any evidence.
-
-But it was enough.
-
-「Centurion Dreadfear has cast [Persuasion].」
-
-「Target's Trust greatly increases.」
-
-So his offer wasn't a lie.
-
-"Those who abandon the Witch will be spared."
-
-So that was how we could survive.
-
-It was a troublesome situation.
-
-I wasn't worried about my teammates betraying me.
-
-They wouldn't do that, even if they could survive.
-
-But...
-
-'If he's giving us an easy way out, it means the normal strategy is incredibly difficult...'
-
-What was it?
-
-How could we all survive without sacrificing each other?
-
-"If you're having trouble deciding, I'll make it easier for you."
-
-He took a step forward.
-
-And...
-
-「Centurion Dreadfear has cast [Ownership Revocation].」
-
-「Character is immobilized.」
-
-My body froze as soon as our eyes met.
-
-I couldn't move, no matter how hard I tried.
-
-'...He's not meant to be fought directly.'
-
-I had suspected it when I saw his Aura, but this was ridiculous.
-
-Step, step.
-
-He approached us and stabbed me in the stomach with his sword.
-
-Puk-!
-
-It wasn't a deep wound.
-
-It would heal with a potion, but the bleeding would be a problem if left untreated.
-
-"Ugh!"
-
-He then stabbed the other three as well.
-
-So that was what he meant by 'making it easier'.
-
-"It's your choice now."
-
-"..."
-
-"A painful death, or survival. I'm curious to see how strong your convictions are."
-
-He seemed confident that one of us would betray the others.
-
-It was understandable.
-
-Thump, thump, thump, thump—
-
-When faced with death, people's minds raced.
-
-I had seen it countless times.
-
-'Ainar and Erwen are trustworthy... but...'
-
-What about Bersil?
-
-She was a player, and we hadn't known each other for long.
-
-Could I really trust her?
-
-'...No.'
-
-I gritted my teeth and dismissed the thought.
-
-It was exactly what he wanted.
-
-I wouldn't have even considered it if I hadn't been in this situation.
-
-'...Think.'
-
-I closed my eyes.
-
-I couldn't move anyway.
-
-To clear [Dungeon and Stone], you had to understand the developer's intentions.
-
-'He's forcing us to betray each other after we've reunited.'
-
-That seemed to be the fixed scenario.
-
-The boss was too strong to be defeated in a normal fight, so the solution had to be something else.
-
-And in these kinds of missions, the outcome usually depended on the player's choices.
-
-'What happens if no one betrays the others?'
-
-Do we all die?
-
-Or does the Witch appear and activate the altar?
-
-"..."
-
-I didn't know.
-
-I couldn't be sure.
-
-That's why 99% of first tries ended in failure.
-
-"Five minutes have passed."
-
-"..."
-
-"You've had enough time to think. I'll give you each a chance."
-
-My body regained its mobility.
-
-I was the first.
-
-Clang.
-
-He threw a dagger at my feet.
-
-"Pick it up."
-
-"..."
-
-"It's coated in your favorite goblin poison. It will be a painless death."
-
-That bastard.
-
-"..."
-
-I glared at him, and he smirked and nodded.
-
-"I wish you were all like her."
-
-My body froze again.
-
-Step, step.
-
-He walked over to Erwen.
-
-And...
-
-"Pick it up."
-
-He said the same thing, and Erwen remained silent.
-
-"..."
+“…….”
 
 A tense silence followed.
 
+Of course, none of my companions were tempted by his offer.
+
+Well, except maybe me.
+
+“How can we trust your offer?”
+
+“Bjorn…?”
+
+Aynar looked like she might faint from shock at my question, but I had no choice.
+
+I haven’t fully processed the situation yet.
+
+I have to gain time by keeping the conversation going.
+
+“How can you trust me, you ask…?”
+
+Dreadfear chuckled, clearly enjoying himself.
+
+“Trust me.”
+
+No sweet talk, no logical reasoning – just those two words.
+
+But that was enough.
+
+「Captain Dreadfear has used [Persuasion].」
+
+「Trust toward the target has significantly increased.」
+
+So his offer isn’t a lie.
+
+“Anyone who escapes from the witch’s clutches will return alive.”
+
+I didn’t expect there’d be a way to survive like this.
+
+This was a massive headache.
+
+Not that I was worried about betrayal.
+
+Even if his offer was genuine, there’s no way our party would turn on each other.
+
+But…
+
+The fact that they’re offering us an easy way out means that the actual fight will be brutal…
+
+What could it be?
+
+A way for all of us to survive without sacrificing anyone.
+
+“If you can’t decide, let me make it easier for you.”
+
+Dreadfear took a step forward.
+
+Then.
+
+「Captain Dreadfear has used [Deprivation of Agency].」
+
+「Your character has been immobilized.」
+
+The moment our eyes met, my body turned to stone.
+
+No matter how much I struggled, I couldn’t move an inch.
+
+Then it hit me.
+
+…This bastard isn’t someone they intended us to fight head-on.
+
+First he uses Aura, and now this? This is just overkill.
+
+The guy slowly approached us, frozen in place, and then stabbed my stomach with his sword.
+
+Stab—!
+
+The wound wasn’t deep.
+
+It would heal quickly with a potion at the right time, but if left untreated, the bleeding would become a problem.
+
+“Ugh!”
+
+Starting with me, the guy stabbed all four of us.
+
+He said he’d make it easier for us, and this is what he meant.
+
+“From now on, it’s your choice.”
+
+“……”
+
+“A painful death, or life. I’m curious how long your convictions will last.”
+
+The guy had a relaxed expression on his face, as if he was sure that one of us would betray the others.
+
+And he had reason to be.
+
+Thump, thump, thump, thump –
+
+When faced with death, people’s thoughts become more complicated.
+
+I’ve seen too many cases like this.
+
+Apart from Aynar and Erwin…
+
+What about Versil, who joined us recently?
+
+She’s a comrade who crossed life and death with us during the Ice Rock expedition, but can I really expect that level of loyalty from a player?
+
+What the hell am I thinking?
+
+I clenched my teeth and forced the doubts out of my mind.
+
+The more I thought like that, the more I was playing into his hands.
+
+If the situation were normal, I wouldn’t even be having these thoughts.
+
+Instead of doubting, think.
+
+Since I couldn’t move my body anyway, I closed my eyes.
+
+To beat [Dungeon & Stone], you always had to understand the developer’s intentions first.
+
+Four people get together, and then betrayal is encouraged.
+
+At first, it seems like a set scenario.
+
+Since a boss with overwhelming power has appeared, the solution probably has nothing to do with violence.
+
+In missions like this, the outcome usually changes depending on the player’s ‘choices’.
+
+What happens if no one betrays anyone else?
+
+Do we all just die here and it’s game over?
+
+Or, if we hold out long enough, the witch is moved by our loyalty, the altar activates, and a new path opens up…?
+
+“……”
+
+Well, I don’t know.
+
+I can’t be sure what the right answer is.
+
+But, this is why 99% of first attempts end in failure.
+
+“Five minutes have passed.”
+
+“……”
+
+“You’ve had enough time to think, so I’ll give each of you a chance.”
+
+As soon as he said that, control over my body returned.
+
+I was first.
+
+Clang.
+
+The guy threw a dagger in front of me.
+
+“Take it.”
+
+“……”
+
+“I’ve even coated it with your friend’s goblin poison, so it’ll be painless.”
+
+This damn bastard.
+
+“……”
+
+I glared at him while kneeling, and he smirked and nodded.
+
+“I wish everyone were like you.”
+
+With that, my body stiffened again.
+
+Step, step.
+
+He moved and stood in front of Erwin.
+
+And then…
+
+“Take it.”
+
+He delivered the same line, and Erwin remained silent.
+
+“……”
+
+A moment of silence passed.
+
 Thump, thump, thump, thump—
 
-My heart pounded in my chest.
+My heart was pounding like crazy.
 
-Humans were strange creatures.
+Seeing this, I realized how strange humans are.
 
-Even though I trusted Erwen completely, a part of me couldn't help but doubt her.
+Even though I thought I trusted Erwin 100%, deep down, the thought of ‘what if’ began to sprout.
 
-"Just one. Stab one of them, and you'll be spared."
+“Just one. If you stab just one person, you’ll survive and wash away your sins.”
 
-I flinched.
+At those words, I flinched without realizing it.
 
-Maybe she would choose to stab Bersil...
+The thought that she might choose to stab Versil suddenly crossed my mind…
 
-"...Get lost."
+“…Get lost.”
 
-"What a vulgar woman."
+“You’ve got a sharp tongue, woman.”
 
-Thankfully, Erwen's turn also passed without incident.
+Fortunately, Erwin’s turn also passed without incident.
 
-"Pick it up."
+“Take it.”
 
-It was Ainar's turn.
+And then it was Aynar’s turn.
 
-"Behel—! Ugh!"
+“Bethel… Ugh!”
 
-As soon as she regained control of her body, Ainar charged at him, roaring... but she tripped and fell to the ground.
+As soon as the restraint on her body was released, Aynar let out a scream and charged, only to be tripped and fall to the ground.
 
-And then it was Bersil's turn.
+Finally, it was Versil’s turn.
 
-"It's your turn."
+“It’s your turn.”
 
-Bersil crawled towards the dagger and picked it up with both hands.
+As soon as she regained control of her body, Versil crawled on the ground and picked up the fallen dagger with both hands.
 
-She looked at him, her body trembling, and asked,
+Then, trembling, she asked the guy,
 
-"Just one...?"
+“Just one…”
 
-"..."
+“……”
 
-"Just... one person...?"
+“Do I… just have to stab one person…?”
 
-Damn it.
+Shit.

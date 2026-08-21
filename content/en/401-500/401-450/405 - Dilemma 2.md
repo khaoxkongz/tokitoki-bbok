@@ -1,565 +1,549 @@
-# Dilemma 2
+Dilemma (2)
 
-Chew, chew.
+Creak, creak.
 
-I savored the jerky, trying to make it last.
+I kept moving, slowly chewing on my jerky.
 
-It was a special high-calorie jerky, made for explorers.
+A specially crafted high-calorie jerky supplied this morning.
 
-If someone asked why I was eating breakfast so late, the answer was simple.
+If someone asks why I’m only eating breakfast now, the answer is simple.
 
-This was our last meal.
+Because this was the last supply.
 
-Chew, chew.
+Creak, creak.
 
-We had run out of food.
+As of today, all our stored food has been exhausted.
 
-It meant we wouldn't be eating anything until we reached the 8th floor.
+In other words, there will be no more food until we reach the 8th floor.
 
-Maybe that's why...
+But is that why?
 
-Chew, chew.
+Creak, creak.
 
-It tasted even better than usual—
+Somehow, today’s jerky tastes several times better than usual—
 
-'What? Where did it go?'
+“What the… why is it gone?”
 
-I was lost in the blissful taste of the jerky when I realized it was gone.
+While I was enjoying the taste of the jerky and feeling happy, I became angry when I realized that my hand was suddenly empty.
 
-"It's... already gone?"
+“Already… finished it all?”
 
-Seriously? This was our last meal!
+Really? This is the last meal.
 
-I'm still starving!
+And I feel so hungry I could die.
 
-And why were the rations the same for everyone when our calorie needs were different?
+No, seriously, people consume different amounts of calories, so why is the supply amount the same for everyone?
 
-Rumble.
+Growl—!
 
-This was discrimination!
+This is discrimination, plain and simple.
 
-Mages and paladins were weaklings with low metabolisms, and they didn't even have to exert themselves. They just had to wave their staffs and chant their spells.
+I mean, it makes no sense? Mages and priests probably have a lower metabolism, and all they have to do is wave their staffs from the back. But they still impose a “one-person, one-jerky” policy?
 
-But they get the same amount of food as the warriors who risk their lives on the front lines?
+This is an insult and contempt toward warriors fighting on the front lines.
 
-This was an insult!
+If we had a reasonable leader, they’d never—
 
-If I were a competent leader, I would never—
+‘Ah, right. I’m the leader.’
 
-'Wait, I'm the leader.'
+Well, what can I do?
 
-Right, what can I do?
+It’s not like I wanted this either.
 
-I didn't want it to be like this.
+But if I gave special treatment to the warriors, wouldn’t they accuse me of selfishness?
 
-But if I gave special treatment to the warriors, they would accuse me of favoritism.
+So I decided to lead by example.
 
-So I had to set an example.
+‘Although… this policy feels like a failure.’
 
-'Well, it seems like a failed policy.'
+I’ve managed to gain a neutral attitude from the other classes and outright hatred from the warriors.
 
-I had earned the indifference of the other professions and the resentment of the warriors.
+Oh, how do I know that the warriors hate me?
 
-Ah, how do I know they resent me?
+The source is me.
 
-Because I'm one of them.
+Because I’m feeling that way right now.
 
-"Heh heh heh."
+“Hehehehehe.”
 
-"Mister, what's wrong?"
+“Mister, what’s wrong?”
 
-"Warriors always laugh when they're in pain."
+“Warriors usually laugh when times are tough.”
 
-"Is... is that a laugh?"
+“That’s… laughing?”
 
-Erwen approached me, her face contorted with disgust.
+Erwin, who had briefly stepped out of formation and came up beside me with a troubled expression on her face, smiled and handed me something.
 
-Then she smiled and offered me something.
+“Jer… ky…?”
 
-"J-jerky...?"
+“Yep!”
 
-"Yes!"
+“You’re… giving it… to me?”
 
-"You're... giving this to me...?"
+“Yes!”
 
-"Yes!"
+I asked in disbelief, but Erwin nodded without changing her expression.
 
-I couldn't believe it, but she nodded without hesitation.
+I stared blankly as I accepted the jerky, snapping out of my daze moments later.
 
-I stared at the jerky, and then I realized what I was doing.
+“No, I’m fine! I’m not hungry at all, so you eat it!”
 
-"N-no! I'm not hungry! You eat it!"
+“If that’s the case, maybe you should say it without smiling.”
 
-"You should at least try to control your expression when you're lying."
+Huh, smiling?
 
-My expression? What does she mean?
+While I was trying to figure out what she meant, Erwin summoned a water spirit to create a mirror. In it, I saw myself smiling like an idiot.
 
-Erwen summoned a water spirit and shaped it into a mirror.
+“See? That’s a real smile! Hehe.”
 
-I saw my reflection.
+“…”
 
-I was grinning like an idiot.
+“Just eat it already. I’m fine, and everyone else is giving up their food to those who need it more.”
 
-"..."
+“…What?”
 
-"See? That's a real smile. Hehe."
+What does that mean?
 
-"..."
+I looked puzzled, and Amelia, who had been following behind, answered.
 
-"Just eat it. I'm fine. The others are also sharing their food with you."
+“Those in the back with extra stamina have been skipping meals, saving their rations in case of emergencies.”
 
-"...What?"
+“Saving? How? Wouldn’t it spoil quickly?”
 
-What is she talking about?
+“She means after we entered the cave. There haven’t been any ice storms since then.”
 
-Amelia answered my question.
+“Oh, right…”
 
-"The ranged attackers saved some of their rations. They're sharing it with the warriors."
+Maybe it’s because I’ve been so hungry? I couldn’t even think of something so simple.
 
-"They saved it? How? It would have spoiled."
+Anyway, that’s not what’s important…
 
-"They're talking about after we entered the cave. There haven't been any blizzards since then."
+“But is that true? Giving up scarce food to others?”
 
-"Ah, right..."
+“If you don’t believe it, you’ll see for yourself soon enough.”
 
-I was so focused on my hunger that I had forgotten about that.
+Yeah, I think I need to see that now.
 
-Anyway, that wasn't the important part...
+“Stop!”
 
-"Are you serious? They're sharing their food with others?"
+Using my authority as expedition leader, I halted the march.
 
-"You can see for yourself."
+Anyway, it’s about time we took a break.
 
-Okay, I have to see this.
+“Oh, a break!”
 
-"Halt!"
+“Now we can live!”
 
-I used my authority as the leader to stop the expedition.
+“Ahhh! Supplymaster! A blanket! Give me a blanket! I need to shut my eyes even for a moment!”
 
-It was time for a break anyway.
+As the priest activated ‘Evil Banishment’, turning the surroundings into a safe zone, the members lay down to recover their stamina.
 
-"Oh, a break!"
+And then…
 
-"Finally!"
+Step, step.
 
-"Quartermaster! Blankets! Give us some blankets! We need to get some sleep!"
+Pretending to patrol, I moved to the back, observing the surroundings.
 
-The paladin activated [Purge Evil], creating a safe zone, and the members collapsed on the ground, exhausted.
+To put it simply, Erwen’s words were true.
 
-And...
+“Excuse me, please take this.”
 
-Thud, thud.
+Priests giving up food to warriors.
 
-I walked towards the rear, observing the scene.
+And…
 
-Erwen was right.
+“Jer… jerky? To me?”
 
-"Here, have this."
+A warrior, eyeing them with deep suspicion.
 
-A paladin was offering food to a warrior.
+“Yes. You look exhausted, don’t you?”
 
-And...
+“Are you… in love with me? If so, I can’t accept this jerky. I have a family back home—”
 
-"...J-jerky...? For me?"
+“No, it’s not that, so relax.”
 
-The warrior looked at him with suspicion and disbelief.
+“What? You’re giving me jerky even though you don’t love me…?”
 
-"Yes, you must be tired."
+Though the warriors were shocked, they accepted the jerky and began to eat it hungrily. Similar scenes were happening all around.
 
-"A-are you... in love with me? Then I can't accept this. I have a wife and children in the city—"
+“This debt… I swear I’ll repay it with my life one day!”
 
-"It's not like that, so don't worry."
+Warriors everywhere were moved to tears over a single piece of jerky.
 
-"What? You're giving me jerky without even loving me...?"
+Even I found it incredibly touching.
 
-The warriors were shocked, but they quickly devoured the jerky.
+“My policy… wasn’t a failure after all…”
 
-It was happening everywhere.
+The expedition, truly united and helping each other.
 
-"I-I'll never forget this debt! I'll repay you with my life!"
+“Shuiz? Did you just say something?”
 
-Countless warriors were making vows, their eyes filled with tears.
+“Oh, Jun… It’s nothing.”
 
-It was a heartwarming scene.
+“Yes. But what brings you here…? Does it have to do with stopping the expedition?”
 
-"My policy... wasn't a failure..."
+In reality, I felt guilty about accepting Erwin’s jerky, so I came to check, but I nodded for now.
 
-The expedition force was united, helping each other.
+Yes, I have to maintain my dignity as the expedition leader.
 
-"Schuitz? Did you say something?"
+“How’s the mood today?”
 
-"Ah, Jun... it's nothing."
+“Today?”
 
-"Yes, but what are you doing here...? Is it related to the sudden halt?"
+“We ran out of food rations this morning. Is anyone discontent?”
 
-I nodded, even though I had just come here to get some jerky from Erwen.
+“They’re strong people. They’ve been through worse, so going without food for a day or so is nothing to them. Everyone knows this is inevitable.”
 
-I had to maintain my dignity as the leader.
+“I see…”
 
-"How's the mood?"
-
-"The mood...?"
-
-"We ran out of food this morning. Are there any complaints?"
-
-"They're strong people. They've been through worse. They understand that this is unavoidable."
-
-"I see..."
-
-I wasn't really interested in the mood, so I just nodded and left.
+Since I wasn’t actually curious, I nodded slightly and left.
 
 ---
 
-As I was returning to the front lines after my conversation with Jun,
+After finishing the conversation with Jun, on the way back to the front where my team was.
 
-"Oh, Schuitz! Thanks for last time!"
+“Oh, Schuiz! Thanks for last time!”
 
-"You look even thinner than before."
+“You’re looking skinnier every day!”
 
-"Here, have some of mine."
+“It’s something I was eating, but would you like some?”
 
-The warriors greeted me warmly.
+Familiar warriors greet me.
 
-It was probably the biggest change since Pike Neldain's execution.
+It might be the biggest change since we executed Pike Neldaine.
 
-We had to fight together on the front lines whenever a major battle occurred, so it was natural for us to form a bond.
+No matter which team they belonged to, when a major battle erupted, we’d all pull out our shields and charge together, so camaraderie inevitably developed.
 
-But it wasn't just the warriors.
+And it wasn’t just the warriors I’d grown closer with.
 
-"..."
+“…”
 
-"..."
+“…”
 
-The other professions weren't as friendly, but their gazes had softened.
+While some were still awkward around me, they now looked at me with a gentler gaze.
 
-They used to glare at me and whisper behind my back...
+When I think about how they used to glare and whisper every time I passed by, it’s truly moving.
 
-It was a heartwarming change.
+“Perhaps this is thanks to that Neldaine guy.”
 
-'This is all thanks to Neldain.'
+Nothing unites a group like an external threat.
 
-A common enemy unites a group.
+When his betrayal was exposed, all the arrows of resentment aimed at me turned toward him.
 
-His betrayal had shifted the blame from me to him.
+Moreover, it was I who uncovered it.
 
-And I was the one who exposed him.
+Naturally, my evaluation had to improve—
 
-My reputation had naturally improved.
+“Schuiz, that person… I can’t tell if he’s smart or stupid, can you?”
 
-"Schuitz, that guy... I can't tell if he's smart or stupid."
+“I heard he once suggested eating monster meat and got scolded by his team…”
 
-"I heard he suggested eating monster meat and got scolded by his teammate..."
+“He seems eccentric but not exactly foolish. After all, he did identify that traitor.”
 
-"He's a bit eccentric, but not stupid. He helped us catch the traitor."
+“Oh, that? I heard he just took credit for what the mage had already deduced.”
 
-"Ah, that? I heard the mage did all the work, and he just took the credit."
+Haha, who would have thought there were more traitors here.
 
-Haha, there was another traitor among them.
+I wondered if I should suppress them immediately, but I changed my mind when I heard what they said next.
 
-I wanted to punish them...
+“But having capable subordinates is also a leader’s ability. Besides, isn’t he a decent person?”
 
-But I changed my mind after hearing their conversation.
+“That’s… true. I haven’t talked to him much, but he seems kind.”
 
-"A capable leader knows how to choose his subordinates. And besides, he's a good guy."
+“If he were just in it for power, he’d never take on all the dirty work himself.”
 
-"That's... true. I haven't talked to him much, but he seems kind."
+“Yeah, people like him are the most reliable allies in tough times.”
 
-"He's always the first to volunteer for the dirty work, even though he could just order others around."
+What, they were just normal comrades.
 
-"That's the kind of person you want on your side when things get tough."
+Pretending not to hear their conversation, I arrived where my team was, and the 20-minute rest time was almost over.
 
-So they were just ordinary companions.
+“Mister! See, what I said was true, right?”
 
-Thud, thud.
+“Yes, it was.”
 
-I reached my team's position as the 20-minute break was ending.
+“Then hurry up and eat. Okay? Don’t feel burdened; everyone is doing it.”
 
-"Mister! See? I told you!"
+“Oh, that… I already ate on the way.”
 
-"Yes, you were right."
+“Hehe, good! I’m the best, right?”
 
-"Now, eat this! Don't be shy, everyone's doing it."
+“Yes, you’re the best.”
 
-"Ah, I already ate on the way here."
+After giving a vague answer, I leaned against the wall and fiddled with the ring during the remaining rest time.
 
-"Hehe, good job! I'm the only one who cares about you, right?"
+As I was doing that, Amelia approached.
 
-"Yes, you're the only one."
+“Are you thinking why the light vanished?”
 
-I finished the conversation and leaned against the wall, fiddling with the ring.
+“Oh, yeah…”
 
-Amelia approached me.
+No. 6111, Fate Tracker.
 
-"Are you thinking about why the ring stopped glowing?"
+This ring, which I called the traffic light ring had lost its glow.
 
-"That's right..."
+About four days ago.
 
-No. 6111 Fate Tracker.
+“It’s certainly strange. A detected fate wouldn’t just disappear without reason.”
 
-The Traffic Light Ring, as I called it, had suddenly stopped working.
+“That’s what I’m saying.”
 
-It happened four days ago.
+No matter how I think about it, it’s a very strange matter.
 
-"It's strange. A detected fate wouldn't just disappear for no reason."
+It’s not like anything particularly good or bad happened recently…
 
-"That's what I'm saying."
+“By the way, Schuiz, it’s about time.”
 
-It was a baffling phenomenon.
+“Oh, already?”
 
-Nothing significant had happened...
+“Everyone, get up. It’s time to depart. If you took any luggage from the sled, return it all before we leave.”
 
-"Schuitz, it's time to go."
+As I said that and was stretching my stiff body, I saw the Dragon Tribe woman munching on something.
 
-Ah, already?
+“Ravien, didn’t you already finish your morning ration? Where’d that jerky come from?”
 
-"Everyone, get up! We're moving! And if you took anything out of the sleds, put it back before we leave."
+“Ashid gave it to me?”
 
-I stretched my stiff muscles and noticed Raviyen chewing on something.
+“Ashid… gave it to you?”
 
-"Raviyen, didn't you finish your breakfast? Where did you get that jerky?"
+Wondering if she might have taken it by force, I turned my head to check, and Ashid chuckled.
 
-"Ashid gave it to me."
+“I gave it willingly, so don’t worry.”
 
-"...Ashid?"
+“But you’re struggling too, aren’t you?”
 
-Did she take it by force?
+“Haha, it’s in times like these that we should help each other out. Besides, if Miss Ravien is solidly at the front, I’ll be safer too.”
 
-I looked at Ashid, and he chuckled.
+“Well, if that’s the case…”
 
-"I gave it to her willingly, don't worry."
+Since she didn’t take it forcibly, I couldn’t say more, but I felt uneasy.
 
-"But you're also struggling, aren't you?"
+No way, does he like her?
 
-"Haha, that's what companions are for. And besides, I need Raviyen to be strong so she can protect me."
+“Ah, that can’t be.”
 
-"...I see."
-
-It didn't seem like she had forced him, but I felt uneasy.
-
-Could he be interested in her?
-
-'No, that's ridiculous.'
-
-There's a huge age gap between them.
+Yes, considering their age difference.
 
 ---
 
-20th day in Ice Rock.
+Day 20 since entering Ice Rock.
 
-We finally reached the end of Ice Rock.
+We finally reached the end point of Ice Rock.
 
-'I didn't expect us to arrive exactly on the 20th day.'
+“I didn’t expect to arrive exactly on the 20th day.”
 
-We had allocated 20 days for traversing Ice Rock.
+When making the plan, we had estimated 20 days to traverse Ice Rock.
 
-But we had encountered several unexpected events, and we had to push ourselves to make it on time.
+Even after multiple setbacks and pushing our pace to the limit, we arrived on the exact date.
 
-'Maybe the schedule was too tight from the beginning.'
+“Maybe the plan was too tight from the start.”
 
-We had taken the inexperience of the members into account when planning the expedition.
+If we had moved according to the original schedule, we would have arrived here two or three days later.
 
-But we only had their information on paper.
+Back when the royal family made the plan, I had attended as the expedition leader, so if I had to explain—
 
-We didn't know their actual skills.
+‘There were too many variables.’
 
-The expedition force was strong offensively, but lacked in safety and mobility.
+Most of the team had never been here before, which we factored into our plans.
 
-Well, I guess that's to be expected for a team created for war, not exploration.
+But at that time, I only saw it on paper.
 
-"Mister, what are you thinking about?"
+An expedition team with exceptional hunting speed but somewhat lacking in safety and mobility.
 
-"...Nothing."
+Well, since it was an expedition created with war, not exploration, as the goal, it was natural.
 
-I shook off my thoughts and looked around.
+“Sir, what are you thinking so deeply about?”
 
-The bottom of the Eye of the Glacier, marked with a giant eye-shaped pattern.
+“…Oh, nothing.”
 
-"Everyone, calm down and wait! We'll draw lots in order!"
+I shook off my thoughts and surveyed the surroundings.
 
-We had reached the portal to the 8th floor, but the atmosphere was chaotic.
+At the lowest point of the glacier eye was a symbol resembling a human eye.
 
-It was understandable.
+“Alright, everyone, calm down and wait! We’ll be drawing lots for the order!”
 
-This was Ice Rock, a desolate wasteland where no one came.
+We just had to take the portal to ascend to the 8th floor, but the expedition’s atmosphere was chaotic.
 
-We were the first ones here this season.
+This is “Ice Rock,” a harsh place that no one else dared venture.
 
-"How are we going to decide the order?"
+Meaning, we’re the first to arrive.
 
-"It doesn't matter, let's just hurry up and get this over with. I'm starving."
+“How will we decide the order?”
 
-"What? Then you can just leave!"
+“Does it matter who goes first? I’m starving.”
 
-"Leave? I wasn't even planning to participate! I'm a mage!"
+“What? Then you’re out!”
 
-The maximum number of people for the Bonding spell was six.
+“What? Out? I wasn’t planning on joining anyway! I’m a mage!”
 
-And the first clear experience points were also limited to six people.
+The maximum number of participants for the binding spell is six.
 
-So we decided to draw lots.
+Accordingly, only six people can gain the first portal activation experience.
 
-It was purely based on luck, regardless of rank or achievements.
+Therefore, we decided to draw lots fairly.
 
-"Damn it! Why is mine blank?!"
+Regardless of position or merit like team leader or expedition leader, just pure luck
 
-"Hey! Don't even think about using your abilities to peek inside the box! I'm watching you!"
+“Ugh! Dammit! Why’s mine blank?!”
 
-"Woohoo! The 8th floor! I never thought this day would come!"
+“Hey! Don’t even think about using your powers to peek inside the box! I’m watching!”
 
-Cheers and groans filled the air as the line shortened.
+“Wowww! Opening the 8th floor! I never thought such a day would come!”
 
-"Aren't you disappointed?"
+Cheers and groans erupt with each draw from the lineup.
 
-Raviyen approached me and asked.
+As I watched that scene from the very back.
 
-"Disappointed about what?"
+“Don’t you feel regret?”
 
-"You're the expedition leader. You could have just taken a spot for yourself."
+Ravien came next to me and said that.
 
-"Ah, that..."
+“What do you mean?”
 
-It had been discussed among the team leaders.
+“You’re the leader of the expedition. You could’ve taken a spot by authority, and no one would have objected.”
 
-They had suggested that we take the experience points ourselves and leave one spot for the others.
+“Oh, you mean that.”
 
-Kaislan had even argued that we should give the last spot to the one with the most achievements.
+Actually, we discussed it among the team leaders.
 
-He really knew how to handle his subordinates.
+They suggested that we should gain the experience ourselves and draw lots for the remaining spot.
 
-"...Are you listening?"
+For reference, Kaislan went even further, saying that instead of drawing lots for the remaining spot, it should be awarded to the person who made the greatest contribution. That’s how he said subordinates should be managed.
 
-"Yes, I am."
+“…Excuse me, are you listening to me?”
 
-"Why did you give it up so easily?"
+“Ah, yes, I’m listening.”
 
-Raviyen asked, and I shrugged.
+“Why did you give up so easily?”
 
-She already knew the answer.
+Then Ravien asked, and I simply shrugged in response.
 
-"Damn it, it's blank."
+What kind of answer is she expecting?
 
-Amelia returned, clicking her tongue.
+She must already know why I did it.
 
-"Schuitz, it's your turn."
+“Tsk, it’s a blank.”
 
-"How many are left?"
+Amelia, who drew her lot before me, clicked her tongue and tapped me on the shoulder.
 
-"One."
+“Schuiz, it’s your turn now.”
 
-I see...
+“How many tickets are left?”
 
-I discreetly turned my head and counted the remaining explorers.
+“One.”
 
-'Four left.'
+I see…
 
-So the probability was 1 in 4.
+I turned my head just enough to check the number of people remaining behind me with my eyes.
 
-And...
+‘There are four people left.’
 
-'There's no Hans among them.'
+In other words, a one-in-four chance.
 
-All signs pointed to good fortune.
+And…
 
-Swaaaaaaaaaa!
+‘Hans isn’t among them.’
 
-A cold wind swept through the chasm, chilling me to the bone.
+All signs of luck are pushing me forward.
 
-Swoosh.
+Swoooosh—
 
-I took off the ring.
+A cold gust descends from above, sweeps the ground, and rises again.
 
-I didn't need it now.
+Swish.
 
-Thud, thud.
+I took off the ring I was wearing on my hand.
 
-Fate is something you create yourself.
+Because I don’t need such things right now.
 
-"Good luck."
+Step, step.
 
-Kaislan encouraged me as I stood in front of the box.
+Fate is something you carve out with your own strength.
 
-It was time for the final showdown.
+“Good luck.”
 
-"Uwaaaaaaaaah!"
+As I stood in front of the box, Kaislan offered words of encouragement.
 
-I let out a war cry and drew a lot.
+Now it’s time to test my luck.
 
-And...
+“Ahhhhhhh!!”
 
-"Too bad, it's blank."
+I let out a manly shout and drew a ticket.
 
-Damn it, I failed.
+And…
 
-Why isn't there any BGM?
+“Too bad. It’s a blank.”
 
-This is the perfect time for a dramatic soundtrack.
+So it doesn’t work after all.
 
-Thud, thud.
+Ha, maybe it’s because there’s no BGM (background music)?
 
-As I stepped aside, Raviyen walked past me.
+Usually, it’s a rule to play some when doing this kind of thing.
 
-Ah, she was next.
+Step, step.
 
-Could she really win—
+As I turned away in disappointment and stepped aside, Ravien brushed past me.
 
-"Is this the one with the circle?"
+Oh, it’s her turn after me.
 
-"Yes, congratulations."
+No way she’s actually going to draw it—
 
-Wow, she actually got it!
+“Is this the one with the round mark? Is this correct?”
 
-'I should have drawn last...'
+“Yes, that’s correct. Congratulations.”
 
-I felt a pang of regret, but then...
+Wow, she actually drew it?
 
-"Can I transfer this to someone else?"
+‘If only I had drawn one turn later…’
 
-"Didn't you hear me earlier? We discussed it and decided to allow transfers."
+I felt a pang of envy.
 
-"Really?"
+“Is it possible to transfer this ticket to someone else?”
 
-Raviyen finished her conversation with Kaislan and walked towards me.
+“Did you not hear when I explained earlier? After much debate, we agreed it would be allowed.”
 
-And...
+“Really?”
 
-"Here."
+After a brief conversation with Kaislan, Rabien turned around without hesitation, approached me, and then…
 
-She handed me the lot.
+“Here, take it.”
 
-"...?"
+She suddenly held out the ticket.
 
-I couldn't understand.
+“……?”
 
-She had entered the labyrinth alone so she could speedrun and get more experience points.
+I couldn’t understand at all.
 
-She was clearly in a hurry...
+Didn’t she even join us at the 6th floor separately, saying she had to speedrun?
 
-"Why are you giving this to me...?"
+She must have been in a situation where she urgently needed experience…
 
-"I don't think this belongs to me."
+“Why are you giving this to me…?”
 
-"...What?"
+“No matter how I think about it, I don’t think this belongs to me.”
 
-I was confused, and she answered with an embarrassed smile.
+“…What?”
 
-"I've been watching you. You've been working the hardest."
+As I tilted my head in confusion, Raven replied in an awkward voice.
 
-What...
+“I’ve been beside you all along, so I know. You worked the hardest.”
 
-"Whoo!"
+What is this…
 
-"Yeah, yeah! You led us here, you deserve it!"
+“Whistleee!”
 
-"That's a shame. I was going to give it to him if no one else transferred theirs."
+“Yes, yes! You’re the one who led us here, so you should be the one to open it!”
 
-"Liar! You were so happy when you drew it!"
+“Too bad. If no one was going to transfer, I was planning to give mine.”
 
-"I'm serious! I even argued for allowing transfers during the meeting!"
+“Liar! You were so happy earlier!”
 
-"Just take it! A true explorer knows how to seize an opportunity!"
+“No, really! During the discussion earlier, I was on the side advocating for transfers to be allowed!”
 
-The frigid air of the chasm couldn't reach me.
+“Enough, just accept it! As explorers, you should seize opportunities when you can!”
 
-'It's warm...'
+Deep underground, where the wind chill is enough to make your breath freeze.
 
-I felt like I was going to cry.
+‘It feels… warm.’
+
+For some reason, I felt like crying.

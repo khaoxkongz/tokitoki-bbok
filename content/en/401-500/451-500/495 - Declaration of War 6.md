@@ -1,477 +1,464 @@
-# Declaration of War 6
+Declaration of War(6)
 
-A declaration of war that had been brewing for over ten years.
+A declaration of war that had been held back for over ten years.
 
-“……!!!”
+“……!!”
 
-“……!!!”
+“……!!”
 
-Mages, citizens filling the plaza, Mozelan knights… everyone’s eyes widened in shock.
+Whether it was the mages, the citizens filling the square, or the knights of Mozlan, everyone’s jaws dropped and eyes widened.
 
-Their expressions all said the same thing: ‘What did I just hear?’
+The kind of faces that said, “Did I really just hear that?”
 
-The old mage, after a moment of stunned silence, finally spoke.
+The old mage, who had been wearing a similar expression, finally managed to gather his wits and spoke.
 
-“…That’s a heavy joke.”
+“This is too serious to be a joke.”
 
-A joke…
+Joke…?
 
-Well, denial was a common reaction to shocking news.
+Well, it’s true that when people are confronted with something shocking, denial is the first reaction.
 
-I didn’t bother answering and waited.
+I decided not to answer and waited a moment.
 
-Even barbarians needed time to process this.
+The barbarians needed time to process this too.
 
-About three seconds.
+About three seconds, maybe.
 
-“…W-War…!!”
+“…Wa-war!!”
 
-One of the warriors shouted.
+One warrior shouted, and that was the spark.
 
-And then the floodgates opened.
+A fierce roar followed.
 
-“It’s war! It’s war!”
+“It’s war!!”
 
-“To arms! To arms!”
+“Everyone, draw your weapons!!”
 
-“Behel—laaaaaaaaaa!!”
+“Bethel—raaaaaaa!!”
 
-Over a thousand warriors roared in unison, and the mages guarding the Mage Tower flinched.
+As over a thousand warriors roared in unison, the group of mages guarding the front of the Mage Tower visibly flinched.
 
-It was understandable.
+I could understand why.
 
-Comparing the combat power of a mage and a warrior based on size was absurd…
+It’s absurd to compare the combat power of mages and warriors based on their size alone, but…….
 
-But the visual impact was undeniable.
+The visual effect was undeniable.
 
-“Uwaaaaaaaaaaah!”
+“Uwaaaaaa!”
 
-“Woo! Woo! Woo! Woo! Woo! Woo! Woo!”
+“U! U! U! U! U! U! U!”
 
-Hundreds of muscular barbarians, their average height over seven feet, were charging towards them.
-
-It was intimidating.
+The average height of these muscular barbarians is around two meters ten, and seeing them form a massive troop as if they might charge at any moment is enough to make anyone shrink back.
 
 “Old man.”
 
-I took a step towards the mages and asked,
+I took a large step towards the group of over a hundred mages and asked.
 
-“Does it still sound like a joke?”
+“Does it still sound like a joke to you?”
 
-“…….”
+“……”
 
-The old mage didn’t answer. He looked like he was in a daze.
+The old mage didn’t answer, his face blank, as if he were dreaming.
 
-Damn it, I was talking to him.
+Hey, people are talking.
 
-Step.
+Thud.
 
-I was about to take another step forward when…
+Just as I was about to take another step.
 
-“B-Baron Yandel! Y-You can’t do this!”
+“H-hey, Baron Jandel! Y-you can’t do this!”
 
-A Mozelan knight rushed towards me, panicking.
+A knight of Mozlan rushed over, clearly panicked.
 
-He had been stunned by the barbarians’ war cries, but he had finally regained his senses and remembered his duty.
+He had been momentarily stunned by the barbarians’ frenzied energy, but it seemed he had finally remembered his role.
 
-“W-War?! You can’t declare war! Let’s calm down and talk! For the sake of the royal family…!”
+“W-war, you say? Let’s all calm down and talk this through, shall we? For the sake of the royal family…!”
 
-His choice of words wasn’t bad.
+For someone who was flustered, his phrasing wasn’t bad.
 
-If he had threatened me with the royal family’s wrath, the situation would have escalated.
+If he had tried to threaten me by implying the royal family wouldn’t stand idly by, the atmosphere would have turned even uglier.
 
-“Talk…?”
+“Dialogue, huh…”
 
-“Y-Yes! We can find a compromise! Both the Mage Tower and the barbarians are important pillars of this city! Please reconsider… for the sake of the city…!”
+“Y-yes! Surely, we can find common ground through dialogue! Both the Mage Tower and the barbarians are pillars supporting this city, aren’t they? For the sake of the city, please…!”
 
-I pretended to consider his plea and then nodded.
+The knight tried desperately to buy time, and I pretended to think before nodding.
 
 “Alright!”
 
-“R-Really?!”
+“Really?”
 
-Right, the show of force was enough.
+Yes, the show of force should be enough by now.
 
-I had no intention of actually attacking the Mage Tower.
+I had no intention of actually storming the wizard’s tower.
 
-I had already attracted enough attention.
+The attention of the entire city had been drawn sufficiently.
 
-If I attacked now, the barbarians would be the villains.
+If we stormed in now, only the barbarians would be seen as the villains.
 
-So…
+Yes, well…
 
-“Lewin Passtolume of the Egatile School!”
+“Lewin Pastolm of the Egatil School!”
 
-I started calling out names.
+I began to call out names one by one.
 
-“Lurendel Lungonerd of the Hulbunt School! Ordwig Verteff of the Altus School! Ellenel Dwainine of the Galatir School!”
+“Lurendel Rungonerd of the Hulbent School! Odwik Bertef of the Alterse School! Elenel Dwaynain of the Galatir School!”
+As I called out the names of the mages affiliated with the Mage Tower, the citizens listened intently, wondering what was happening.
 
-The citizens, who had been wondering what I was doing, now listened intently as I called out the names of the mages.
+“Ebound School’s Tols Ellin! Ornstalt School’s Ucla Tragzig! Wilton School’s….”
 
-“Tols Ellin of the Evound School! Ukla Trazig of the Ornstalt School! Wiltom School’s…”
-
-I listed twenty-one names and then turned to the old mage.
+After listing a total of 21 mage names, I turned to the old mage.
 
 “Old man, do you know who these people are?”
 
-“Of course. They’re all promising young mages.”
+“Of course. They are mostly young and talented mages who will lead the next generation.”
 
-“Wrong.”
+“No, you’re wrong.”
 
-I shook my head and said firmly,
+“These are the mages who have commissioned the traitors of the black market to seek the hearts of the barbarians!”
 
-“They’re the mages who placed requests on the black market for barbarian hearts!”
+Every war needs a justification.
 
-Every war needed a justification.
+“Ah! So that’s why the barbarians were in the Mage’ Tower…”
 
-“Ah! So that’s why the barbarians are here…!”
+“They rescued slaves from the black market, and that’s when they got such information!”
 
-“They must have obtained that information when they rescued the slaves from the black market!”
-
-The citizens nodded, finally understanding my motives. Some even expressed their support.
+The onlookiers finally understood why I came to the mage tower and nodded. They agreed that they would have protested too if they were in my shoes.
 
 But…
 
-‘This isn’t the main course yet.’
+If I was going to end it with just that, I wouldn’t even have come.
 
-The appetizer was just the appetizer.
+An appetizer is still just an appetizer—it can’t be the main course.
 
-“Master Lurendel Galinbaret of the Triten School.”
+“Master of the Triten School, Lurendel Gallinbarret.”
 
-I mentioned another name and asked,
+I called out one more name and asked, “Do you know who this is?”
 
-“Do you know who he is?”
+“……”
 
-“…….”
+The old mage said nothing, like someone who’d been advised by a lawyer to keep quiet.
 
-The old mage didn’t answer. He was probably following his lawyer’s advice.
+Well, staying silent won’t change the truth.
 
-Well, silence wouldn’t change the truth.
+“He is the one who made a commission to the black market’s rebels. Specifically, for my heart.”
 
-“He’s the one who placed a bounty on my heart.”
-
-I dropped the bombshell.
+I dropped the bomb without the slightest hesitation.
 
 “……!!”
 
 “……!!”
 
-It was different from just placing a request for barbarian hearts.
+This was a completely different matter from simply ordering the hearts of barbarians.
 
-A living person’s heart.
+The heart of a specific, living person.
 
-It was practically an assassination request.
+This order was essentially a request for assassination.
 
-“…Gwyln, if this is true, he will be punished, and the Mage Tower will be held responsible.”
+“…Sir Guirn, if these words are true, not only will that man’s head be on the line, but the Mage Tower will also have to take responsibility.”
 
-The Mozelan knight, who had been trying to figure out how to stop me, now turned to the old mage and threatened him.
+Even the Mozlan knight, who had been trying to figure out how to stop me, changed his expression and pressured the old mage.
 
-Mozelan wasn’t affiliated with the mages.
+After all, Mozlan wasn’t the knights of the mages.
 
-They were the protectors of the nobles.
+Mozlan was created to uphold the authority of the nobility.
 
-“…Nothing has been confirmed yet. But I promise you, we will thoroughly investigate this matter.”
+“…Nothing is confirmed yet. But I promise you this: if such a thing did occur, it will be strictly investigated under the principles of the Mage Tower.”
 
-The old mage gave a vague, noncommittal answer, and the Mozelan knight couldn’t argue with him.
+The old mage made a vague promise, and the Mozlan Knight could say no more.
 
-He acknowledged the gravity of the situation, but he didn’t have the authority to make a judgment on the spot.
+They acknowledged the seriousness of the matter, but without the authority to make judgments on the spot, they had to step back.
 
-Of course, I didn’t have to hold back.
+Of course, I had no such limitations.
 
-“The Mage Tower is suspected of colluding with the rebels of the black market. I don’t trust your investigation.”
+“The Mage Tower is suspected of colluding with the traitors of the black market. Therefore, your investigation cannot be trusted.”
 
-“…That’s our prerogative, Baron. And besides, you have no proof.”
+“…Regardless of the Baron’s trust, this is within our authority. Moreover, there is no evidence yet.”
 
-“Proof…”
+“Evidence, huh…”
 
-I had anticipated that response.
+Yeah, I expected that kind of response.
 
-I used the ancient barbarian secret technique.
+I pulled out an ancient barbarian secret technique.
 
 “I swear.”
 
 “……?”
 
-“I, Bjorn, son of Yandel, Chieftain of the Barbarian Tribe and Baron of the Lafdonia Kingdom, swear on my honor, and the name of my tribe! Everything I have said here today is true!”
+“As the chief of the barbarians and the son of Jandel, Baron of the Kingdom of Raphdonia, Bjorn swear in the name of the tribe and the kingdom! All the words I have spoken here today are true!”
 
-It was just an empty oath.
+Just a hollow oath.
 
-But it was enough.
+But that was enough.
 
-It swayed the crowd.
+To convince every crowd present.
 
-“He’s making a public declaration… he must be confident.”
+“To declare in front of everyone, you must be quite confident.”
 
-“Do you think the Baron would lie?”
+“Then, would the Baron lie?”
 
-“Those filthy mages! They dared to plot against the Baron!”
+“You filthy mages! How dare you plot against Baron Jandel!”
 
-“Bring them to justice!”
+“Bring the culprits forth for punishment!”
 
-My reputation as a hero, my noble title, my image as an honest and straightforward barbarian… and the justification I had provided… it all combined to turn public opinion in my favor.
+The heroic deeds I’ve accomplished, the weight of my name, the stubborn impression and goodwill I’ve left on the city, and the justification I’ve laid out—all of it combined to sway public opinion.
 
-“Gwyln, you have to explain yourself. The Baron has made a serious accusation.”
+“Sir Guirn, since the Baron has gone this far, you must also provide an explanation.”
 
-“As I said, we will investigate this matter.”
+“I’ve told you. We will conduct the investigation ourselves.”
 
-“That’s your prerogative, but do you really want to do that? You can just summon those mages and ask them directly.”
+“You are free to do that, but do you really want to? Just calling them and asking would end it.”
 
-“…….”
+“……”
 
-“I guarantee you, Mozelan will be granted the authority to investigate the Mage Tower by tonight. Plotting to assassinate a noble is a serious crime. Do you really want that?”
+“By tonight, Mozlan will likely have the authority to investigate the mages of the mage tower. A conspiracy to assassinate nobility is a grave matter. Do you really wish for that?”
 
-If Mozelan was granted the authority to investigate, the Mage Tower would be thoroughly scrutinized.
+The moment the Mozlans received investigative authority, the mage tower would be thoroughly examined by the state power.
 
-And they would definitely find something.
+There would be many rotten parts.
 
-But the old mage’s decision was…
+But the old mage refused.
 
-“We appreciate your concern, but we’ll handle this ourselves.”
+“I appreciate the concern, but we will handle that ourselves, so there’s no need to worry.”
 
-“You’re choosing the hard path. It would be so much easier to just summon them and ask.”
+“You’re choosing a difficult path. Just call them out and question them—it’s that simple, yet you refuse.”
 
-“…….”
+“……”
 
-The old mage remained silent, and that sealed the deal.
+The old mage exercised his right to remain silent, and with that, public opinion was sealed.
 
-Silence was sometimes the clearest answer.
+Silence can sometimes be the clearest answer.
 
-“Those filthy mages! I knew it!”
+“You filthy Mage Tower scum! I knew it!”
 
-“They’re trying to protect their own!”
+“Are they really going to protect the ones who tried to harm our Baron?”
 
-The Mage Tower was now the villain, and the barbarians’ anger was justified.
+The narrative was clear: the Mage Tower was an evil force, and the barbarians’ anger was justified.
 
-If the old mage had agreed to summon the mages I had accused and punish them, the situation wouldn’t have escalated this far…
+Had the old man promised to summon and punish the mages I’d named, this might never have gone so far. But…
 
-‘He’s probably thinking he can smooth things over later, once the initial outrage dies down.’
+‘He must be thinking that if they can just get through today, they’ll find some way to smooth things over—whether by lobbying or whatever else.’
 
-His mistake gave me an opportunity.
+And thanks to that approach, I was able to go one step further.
 
-“Citizens of this city, who believe in justice and fair play, listen!”
+“Listen, proud citizens of this city who believe in fair opportunities and pursue justice!”
 
-The crowd, which had been shouting and cursing at the Mage Tower, fell silent.
+As I shouted at the top of my lungs, the crowd, which had been hurling insults at the Magie Tower, fell silent.
 
-It was the perfect opportunity to incite them.
+The perfect moment for incitement.
 
-“The corrupt mages of the Mage Tower refuse to admit their guilt! They’re still trying to protect their own! They can just summon those mages and verify my claims, but they’re refusing! Doesn’t that prove their guilt?!”
+“The corrupt mages of the Mage Tower have no intention of admitting their crimes! They’re too busy protecting their own! All they need to do is call out those resting in their labs and verify the truth, but they refuse to do even that simple task! Isn’t that right?”
 
-“Yes!”
+“That’s right!”
 
-I reinforced my position.
+I reinforced the idea that we were on the side of justice.
 
-“They’ll probably go back and destroy the evidence, and then come back with fabricated results. We’ve seen this happen countless times. Haven’t we?”
+“They’ll probably go back, destroy the evidence, and shamelessly return with fabricated results. It’s obvious. We’ve seen this too many times. Isn’t that right?”
 
-“Yes—!!”
+“That’s right—!!”
 
-I stirred their anger.
+I stirred up the anger that the common people naturally harbored.
 
-The anger of the common people.
+And at the same time, I told them that I would no longer stand by and watch such crimes helplessly.
 
-And then…
+That I, Bjorn, son of Jandel, would carry that long-buried anger and move forward on their behalf.
 
-“But I won’t stand idly by and watch this injustice unfold.”
+“I, Bjorn, son of Jandel!”
 
-I told them.
+Swearing on my name—
 
-That I would fight for them.
+“I promise you! The justice of this city, established under the sacred laws of Raphdonia, will be restored today!”
 
-“I, Bjorn, son of Yandel…!”
+As soon as I made the oath, the already heated crowd erupted into cheers.
 
-I swore on my name.
+“Wooooooah!!”
 
-“Promise you! Justice will be served! In this city, built upon the laws of the Lafdonia Kingdom!”
+Okay, the mood is ripe now.
 
-“Waaaaaaaaaah!”
+With the civilians mixed in, the mages won’t be able to react properly.
 
-The crowd roared in approval.
+Yeah, the stage is set.
 
-Okay, the mood was set.
+So…
 
-The mages wouldn’t be able to retaliate with civilians present.
+“Huuuu…”
 
-The stage was set.
+I took a deep breath, steadied myself, and then shouted with all my might.
 
-Therefore…
+“Chaaaaaarge!!”
 
-“Haa…”
+After the war with the fairies, we’ve held back and endured.
 
-I took a deep breath and then shouted with all my might.
+It’s time to remind this city, which has forgotten what kind of race the barbarians are, of our true nature.
 
-“Charge!”
+“Bethel—raaaaaaa!!”
 
-I had been holding back ever since the war with the fairies.
-
-It was time to remind this city…
-
-What barbarians were capable of.
-
-“Behel—laaaaaaaaaa!!”
-
-We didn’t talk.
+We don’t settle things with words.
 
 ---
 
-Alex Halo, the Vice-Custodian of the 3rd Magic Corps.
+Alex Halo, the deputy commander of the 3rd Mage Battalion.
 
-He had just finished his regular report and was about to leave his office when he glanced at his superior.
+After finishing his daily report, he glanced at his superior before leaving the office.
 
-Her uniform was impeccably ironed, despite the long hours she worked.
+The neatly pressed uniform despite the overwhelming workload.
 
-Her blue eyes were sharp and alert, despite the exhaustion.
+The tired but sharp blue eyes.
 
-Her small hand gripped a pen…
+The small hand holding a pen…
 
 “What are you doing? Aren’t you leaving?”
 
-He flinched at her words and quickly said,
+Startled by his superior’s words, he quickly opened his mouth to explain.
 
-“Y-You’ve been reading the newspaper a lot lately…”
+“I, I noticed you’ve been reading the newspapers a lot lately.”
 
 “Ah… this?”
 
-Her desk was covered in newspapers.
+Indeed, on his superior’s desk, there were stacks of newspapers from various companies.
 
-But she avoided his gaze.
+However, when he pointed it out, his usually confident superior averted his eyes.
 
-As if she was embarrassed.
+As if embarrassed.
 
-“It’s just… a hobby. It gets boring staying here all day. I need to know what’s going on in the world.”
+“It’s just… a hobby. Being cooped up here every day is suffocating, you know? I need to know what’s happening in the world.”
 
 “…I see.”
 
-But the newspapers on her desk were always about the same person.
+But the newspapers on his superior’s desk always had the same content. No, more accurately, the subject of the articles was always the same.
 
-“I heard there’s been a lot of commotion lately. Baron Yandel’s name was inscribed on the Stone of Honor, right?”
+“I hear there has been a lot of noise lately. Baron Jandel’s name has been added to the Stone of Honour, right?”
 
-“That’s right. It was just a joke when we first met… but now he’s a true hero.”
+“That’s right. When we first met, it was just a joke, but now he’s truly become a ‘great warrior.'”
 
-Her voice sounded wistful.
+There was a hint of loneliness in her voice.
 
-Alex tilted his head.
+Alex tilted his head in confusion.
 
-“Aren’t you happy? He was your former teammate, wasn’t he?”
+“Aren’t you happy? Baron Jandel was also your former colleague.”
 
-“Former teammate…”
+“Former colleague… yes…”
 
-“Ah…”
+“Ah……”
 
-Alex realized his mistake and fell silent.
+Realizing his mistake too late, Alex held his tongue.
 
-He looked at his superior, who was staring out the window with a melancholic expression, and felt a strange sense of unease.
+As he watched his superior gaze out the window with a distant look, he felt an inexplicable tightness in his chest.
 
-It was an expression he, a mere subordinate, could never understand.
+Incompetent subordinates like himself.
 
-“…….”
+He could never produce such an expression.
 
-“…….”
+“……”
 
-She was lost in thought, her chin resting on her hand, and Alex just stared at her profile.
+“……”
 
-And after a while…
+As if remembering the past, his superior silently cupped her chin and looked out the window, while Alex stared blankly at his profile.
 
-“V-Vice-Captain! Emergency dispatch orders…!”
+How long did that last?
 
-A soldier burst into the room.
+“Deputy commander! There’s an emergency deployment order……!”
 
-His superior snapped out of her daze and stood up, grabbing her coat.
+The office door burst open, and a member of the unit rushed in.
 
-It was an emergency dispatch order for the 3rd Magic Corps, a unit directly under the royal family’s command. It meant something serious was happening in the city.
+Their commander, as if snapping out of a daze, quickly stood up and grabbed her coat
 
-“Explain.”
+She had no choice.
 
-She walked towards the training grounds, asking the soldier for details, and then she understood.
+The 3rd Mage Corps wasn’t part of the Public Safety Bureau or Mozlan, which handled public order. An emergency deployment order from the royal military meant something far more serious than a simple riot was unfolding in the city.
 
-It could be summarized in a single sentence:
+“Explain in detail.”
 
-Baron Yandel was marching towards the Mage Tower with his tribe.
+As she made her way to the parade ground where the troops were assembling, she questioned her subordinate and quickly grasped the situation, which could be summarized in a single sentence.
 
-“There hasn’t been any conflict yet, but they’re definitely heading towards the Mage Tower.”
+Baron Jandel was leading his tribe towards the Mage Tower.
 
-“Why? There must be a reason.”
+“There have been no clashes yet, but reports confirm that they are definitely heading for the Mage Tower.”
 
-“We’re investigating. But the Public Security Department has requested military support. There are over a thousand of them.”
+“Why? There must be a reason for him to take such action.”
+
+“We are still confirming. However, with an armed group of over a thousand on the move, it seems that the Public Security Bureau has requested military support.”
 
 “I see…”
 
-As expected of a military unit, the entire corps had assembled in the training grounds within minutes of receiving the emergency dispatch orders. They boarded carriages and headed towards the military transfer station.
+True to the military’s efficiency, within minutes of the emergency call, the entire corps had gathered at the training ground. They immediately boarded carriages and headed for the military transport platform.
 
-“Vice-Captain, this is bad. It seems like we’re not the only ones being deployed.”
+“Commander, this seems like a really big deal. It doesn’t look like our corps is the only one getting deployment orders.”
 
-Countless military carriages were heading towards the transfer station.
+Aside from their corps, numerous military carriages were lined up along the route to the transport platform.
 
-But his superior didn’t answer.
+Despite Alex’s words, the commander remained silent.
 
-She just bit her nails nervously.
+She just nervously bit her nails, something she never did under normal circumstances.
 
-“What is he planning this time…”
+“That man… what kind of trouble is he trying to cause this time…?”
 
-Alex tried to reassure her.
+Seeing her evident anxiety, Alex tried to offer words of reassurance.
 
-Baron Yandel was a smart man.
+Baron Jandel is a smart man.
 
-And he had a lot to lose, so he was probably just making a show of force.
+And with so much at stake, he must be heading to the Mage Tower just to stage a show of force.
 
-There was no need to worry.
+There’s no need to worry too much.
 
-It wasn't just empty reassurance, it was his genuine opinion. But his superior's anxious expression didn't change.
+It wasn’t just empty words; he really believed what he was saying. But the Commander’s anxious expression showed no sign of easing.
 
-"...Alex, you're misunderstanding something. I'm not worried about Baron Yandel."
+“……Alex. I think you’re misunderstanding something. Right now, I’m not worried about Baron Jandel.”
 
-"Huh...? But... it's the Mage Tower..."
+“Huh…? But still, it’s the Mage Tower we’re talking about.”
 
-Alex didn't understand.
+Alex couldn’t understand.
 
-He had been a mage himself, so he knew how powerful the Mage Tower was.
+As a former member of the Mage Tower himself, he knew better than anyone the power and authority it held.
 
-What was she so worried about?
+So why was she so worried?
 
-As he was wondering, she spoke again.
+As he pondered, his Commander spoke again.
 
-"Do you remember what happened to the Explorer's Guild because of him?"
+“Do you remember what happened to the Explorer’s Guild because of him?”
 
-"Ah, the false accusation incident..."
+“Ah, you mean that false accusation incident…”
 
-"Yes. The entire guild branch was destroyed. And the regional manager lost the next election because of it."
+“Yes. Back then, a massive escape occurred, and the entire guild branch was destroyed. The regional manager was held accountable and lost the next election because of it.”
 
-"But... the guild and the Mage Tower are different."
+“Still… the guild and the Magie Tower are different.”
 
-The guild was nothing compared to the Mage Tower.
+Even if you consider the entire Explorer’s Guild, it’s nothing compared to the Mage Tower.
 
-But...
+But…
 
-"I used to think so too... that the guild and the Mage Tower were different. That they wouldn't be swayed by a single barbarian..."
+“I… used to think that way too… That the guild and the Mage Tower were fundamentally different. That the Mage Tower wasn’t the kind of organization that could be swayed by a single barbarian…”
 
-"And now... you don't think so?"
+“Are you saying… that’s not the case anymore?”
 
 Raven nodded without hesitation.
 
-"No. He's not just a barbarian anymore. When he single-handedly destroyed the guild branch, he was just a barbarian who had been an adult for two months. But now...?"
+“Yes. Because now, he’s not just a single barbarian anymore. When he single-handedly turned things upside down back then, he was just a barbarian who had barely been an adult for two months. But what about now?”
 
-Alex couldn't say anything.
+Alex couldn’t find the words to respond.
 
-Years had passed, and he had become the leader of a tribe and a Baron of the kingdom.
+Years had passed since then, and now he was the leader of his race and a baron of the kingdom.
 
-"And besides... I know him well."
+“More than anything… I know him well.”
 
-"...?"
+“……?”
 
-"Alex, trust me. If he's doing this, it's not reckless. There's a reason."
+“Alex, trust me. If he’s done something, no matter how reckless it seems, it’s not really reckless.”
 
-Alex still didn't understand, but he didn't argue with his superior.
+Even with her words, Alex still couldn’t fully understand. But it wasn’t appropriate to argue with his commander, so he held his tongue.
 
-Clatter, clatter.
+Rumble, rumble.
 
-The carriage sped through the streets, and they soon arrived at the military transfer station.
+As the carriage sped down the road, they soon arrived at the military transport platform.
 
-Crackle-!
+Bzzt, bzzt—!
 
-A message arrived through the message stone.
+A new message came through the communication stone.
 
-[Conflict! Baron Yandel and the barbarians have entered the Mage Tower! We request immediate support!]
+[Clash, a clash has occurred! Baron Jandel and the barbarian warriors have entered the Mage Tower! Please send reinforcements immediately!]
 
-His superior didn't react to the shocking news.
+Even with this shocking report, the commander simply let out a long sigh.
 
-She just sighed deeply.
+As if she had been preparing herself for this moment all along.
 
-As if she had been expecting it.
+Continue reading more chapters at henprogressive.com

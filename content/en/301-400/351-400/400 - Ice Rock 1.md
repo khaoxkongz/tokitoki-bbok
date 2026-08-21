@@ -1,509 +1,495 @@
-Ice Rock 1
+Ice Rock(2)
 
-The grand expedition to the Dark Continent via the 8th floor.
+Passing through the 8th floor, the grand expedition headed toward the Dark Continent.
 
-We had allocated 20 days for traversing Ice Rock on this expedition and brought enough food for three months.
+We planned 20 days to traverse Ice Rock on this expedition, so we packed about three months’ worth of provisions.
 
-This wasn't out of an abundance of caution.
+It’s not that we packed generously to prepare for unforeseen situations.
 
-Ice Rock wasn't a place where you could afford to take your time.
+Because Ice Rock isn’t a place you can pass through leisurely like that.
 
-We simply needed extra food.
+It’s just that extra provisions are essential here.
 
-Not only did the [Starvation] status effect make us consume three times the usual amount of food, but the food itself could spoil.
+In this place, due to [Hunger], food consumption triples per person, and the food can easily spoil.
 
-Because of this damn thing.
+All because of this damn thing.
 
-"Ice storm!"
+“An ice storm!!”
 
-The blizzard that swept through the area every 30 minutes to 6 hours.
+A blizzard that blows every 30 minutes at the earliest, or as late as every six hours.
 
-「Field Effect - 'Festering Cold' applied.」
+「Field Effect – ‘Festering Chill’ is applied.」
 
-「Accelerated decay rate for affected targets.」
+「The decay rate of affected targets accelerates.」
 
-This wretched storm could even spoil frozen food.
+This damn storm even spoils food that’s frozen solid.
 
-There was only one way to protect it.
+There’s only one way to prevent it.
 
-Prioritize the food over the people and use magic to preserve it.
+Prioritize the provisions over people and protect them with magic.
 
-Of course, there was a problem with that too.
+Of course, there’s a problem with this too.
 
-「Liard Ashid has cast the 4th-grade space-time magic [Block].」
+[Riard Ashid has cast Level 4 time-space magic [Block]
 
-「Mckelly Leyaders has cast the 4th-grade space-time magic [Block].」
+[Mackelly Leiadas has cast Level 4 time-space magic [Block]
 
-「Bersil Gowland has cast the 4th-grade space-time magic [Block]...」
+[Vercil Gowland has cast Level 4 time-space magic [Block]
 
-The mana consumption of the 4th-grade [Block] spell was significant, and if you wanted to be ready to cast it at any time, the cost would be even higher.
+The Level 4 [Block] magic consumes a significant amount of mana, and keeping it ready to use at any time increases the already high consumption.
 
-We had to take turns even at night.
+We take turns through the night as well.
 
-"Ashid, go rest by the sled."
+“Ashid, go rest by the sled.”
 
-"Yes? But..."
+“Pardon? But…”
 
-"Don't worry, I'll call you if we need you."
+“Don’t worry. I’ll call if anything comes up.”
 
-"...I apologize."
+“…Understood. Sorry.”
 
-Apologize? Why?
+Nothing to apologize for—other mages are all resting comfortably on the sled anyway.
 
-The other mages were all comfortably sitting on the sleds, resting.
+「Field Effect – ‘Festering Chill’ has dissipated.」
 
-「Field Effect - 'Festering Cold' deactivated.」
-
-As soon as the blizzard subsided, we resumed our march.
+After the blizzard calmed, we resumed our journey.
 
 Crunch, crunch.
 
-The snow reached our ankles with every step.
+Snow that sinks up to the ankles with every step.
 
-Rumble.
+Grrrrrr~
 
-I was starving, but we had to ration our food.
+I felt like I was starving, but we had to ration the food carefully, so eating our fill was out of the question.
 
-We had managed to protect the supplies so far, but we couldn't be sure what would happen next.
+So far, the [Block] spell had protected our food well, but we couldn’t predict what might come next.
 
-What if a blizzard hit during a battle, and we ran out of mana to protect the boxes?
+If a blizzard hit in the middle of a battle, or if we lacked the mana to protect even a single crate?
 
-Things would get really bad.
+That would be a critical blow.
 
-'Well, I wouldn't say we're in a good situation right now...'
+‘Though, it’s hard to say we’re exactly fine as it is.’
 
-Third day in Ice Rock.
+Three days into Ice Rock.
 
-Everyone was exhausted, and there were no idle chatter or jokes.
+Everyone was so exhausted that there was no idle chatter or silly jokes among the crew.
 
-We just silently marched forward, conserving our energy.
+We just silently manage our stamina and move forward.
 
-The atmosphere was tense and edgy.
+With no room for ease, tension cut through the expedition.
 
-'This is the team I'm supposed to lead into battle against Noark?'
+‘And they want us to fight the Noark bastards after this?’
 
-Morale was crucial in war.
+In war, morale is crucial. In this state, we can’t even be sure we’ll complete the mission.
 
-I wasn't sure if we would even be able to complete the mission in this state.
+The only positive thing was that experience points were racking up quickly.
 
-The only positive thing was the rapid accumulation of experience points.
+「You defeated a Frozen Soul. EXP +4.」
 
-「Frozen Soul defeated. EXP +4.」
+「You defeated a Tainted Snow Spirit. EXP +6.」
 
-「Tainted Snow Spirit defeated. EXP +6.」
+「You defeated a Frost Guardian. EXP +7.」
 
-「Frost Guardian defeated. EXP +7.」
+「You defeated a Lich. EXP +6.」
 
-「Lich defeated. EXP +6.」
+「You defeated a Glacier Giant. EXP +7.」
 
-「Glacier Giant defeated. EXP +7.」
+「You defeated a Frostfire Turtle…」
 
-「Frostfire Turtle defeated...」
+“…….”
 
-「...」
+Most of the creatures in Ice Rock are high-level monsters, making it an ideal place to gain experience.
 
-Most of the monsters in Ice Rock were high-level, so the experience points flowed in quickly.
+Not that it would get me to rank 8 anytime soon, even if I killed every creature here.
 
-Well, we still had a long way to go.
+‘Still, this is a rare place to reach, so I’d better hunt as much as I can.’
 
-Even if we killed every monster in Ice Rock, it wouldn't be enough to reach level 8.
+After pushing through countless fights and with our bodies worn to the bone, we finally set up camp by a cliff as dusk settled in.
 
-'But it's a rare opportunity, so I should hunt as many as I can.'
+We took tents out of the crates loaded on the sleds, set them up, and put sleeping bags inside.
 
-We continued fighting monsters and marching forward, our bodies growing increasingly weary.
+And then…
 
-As the sun began to set, we set up camp by a cliff.
+[Used a Warming Stone]
 
-We unloaded the tents and sleeping bags from the supply boxes and set them up.
+If we put a few activated magic tools in the tent, a cozy shelter is completed.
 
-And...
+“Today, our team doesn’t have guard duty, so everyone sleep well.”
 
-「Heating Stone activated.」
+Oh, by the way, throughout the expedition, there are only two guards, and since our turn is tomorrow, we could sleep comfortably tonight.
 
-We placed a few activated magic tools in each tent, creating a cozy shelter.
+This was possible because we had four priests.
 
-"We don't have any night watch duty today, so get some rest."
+They cast [Evil Banishment] in shifts, keeping monsters from approaching, and it’s unlikely any plunderers would target a group this large in such barren land.
 
-Only two members were assigned to night watch duty for the entire expedition force.
+If they want their heads on their shoulders, that is.
 
-Our turn wouldn't come until tomorrow, so we could all sleep soundly tonight.
+“Good night, see you tomorrow, Mister.”
 
-It was thanks to the four paladins.
+We assigned three people to each tent, split by gender. Even among comrades, it’s best to keep some separation between men and women.
 
-They would take turns casting [Purge Evil], keeping monsters away.
+I prefer sleeping among the men, anyway.
 
-And there was no chance of encountering a looting party in this barren land.
+Though, the mage and Old Didi might find it a bit cramped.
 
-Even if there were, they wouldn't dare attack a group this large.
+“Ashid, Old Diddy. You two get some sleep.”
 
-Not if they wanted to keep their heads.
+“Are you doing the rounds?”
 
-"Good night, Mister. See you tomorrow."
+“Well, I am the expedition leader.”
 
-The tents were for three people, separated by gender.
+After sending off Old Diddy and Ashid, I looked around the camp to ensure everything was secure.
 
-No matter how close we were, men and women shouldn't sleep together.
+Despite it being early, I could already hear snoring here and there.
 
-I also preferred sleeping with other men.
+Everyone must be exhausted.
 
-Well, the old man and the mage might feel a bit cramped.
+‘Looks like everything’s in order. Guess I should turn in too.’
 
-"Ashid, Aldidi. You two go to sleep first."
+As I turned toward my team’s tent, I heard footsteps and turned around.
 
-"Are you going on patrol?"
+“Kaislan, you’re still up?”
 
-"I'm the expedition leader, after all."
+“I needed a word with you, Commander.”
 
-I sent Didi and Ashid to bed and then patrolled the campsite, checking for any problems.
+“What’s on your mind?”
 
-There were already snoring sounds coming from various tents.
+“Mind taking a walk with me?”
 
-They must be exhausted.
+Soon, we walked a big circle around the edge of the camp as we talked.
 
-'Everything seems fine, so I should go to sleep too.'
+“Recently, discontent is growing among the members.”
 
-I walked towards our team's tent.
+Discontent, huh…
 
-Crunch.
+It was obvious what kind of complaints they had.
 
-I heard footsteps behind me and turned around.
+“Mostly complaints about me, I presume?”
 
-"Kaislan, you're still awake?"
+At my question, Kaislan nodded with a bitter expression.
 
-"I have something to tell you, sir."
+“People don’t look for reasons when they’re happy, but when times are tough, they’ll always look for someone to blame.”
 
-"What is it?"
+An observation grounded in human nature.
 
-"Can we talk while we walk?"
-
-We walked around the edge of the campsite, talking.
-
-"There's a lot of discontent among the members."
-
-Discontent...
-
-I knew what it was about.
-
-"Mostly about me, I presume?"
-
-Kaislan nodded with a bitter smile.
-
-"Humans are like that. They don't question their happiness, but they always look for reasons when they're suffering."
-
-His words reflected a deep understanding of human nature.
-
-"Is that all?"
+“So, is that all?”
 
 Kaislan shook his head.
 
-"If that was all, I wouldn't have bothered you at this hour."
+“If it were just that, I wouldn’t be coming to you at this hour.”
 
-"There's something else?"
+“So, there’s something more?”
 
-"...There's someone spreading malicious rumors within the expedition force."
+“…Someone is spreading malicious rumors within the expedition.”
 
-"Rumors? What kind of rumors?"
+“Rumors? What kind?”
 
-"That the 1st Team is hoarding supplies while everyone else is on rations."
+“They say that while the rest of the crew’s rations have been cut, Team 1 has been hoarding supplies.”
 
-"I see..."
+“I see…”
 
-I couldn't help but sigh.
+“So, that’s how it is…”
 
-This was ridiculous.
+I unconsciously sighed in front of Kaislan.
 
-They were acting like children.
+I couldn’t help it.
 
-These were the elites of the kingdom?
+Sigh, it’s not like we’re playing children’s games.
 
-"Do you know who started the rumor?"
+And this is supposed to be the elite gathered by the royal family?
 
-"Pike Neldain."
+“Do you know where the rumor originated?”
 
-"James Kala's teammate."
+“Pike Neldaine.”
 
-He was a warrior, just like me.
+“A member of James Carla’s team.”
 
-He had even greeted me with a smile at the banquet...
+By the way, this guy was also a warrior like me, and at the last banquet, he’d come over with a big grin to introduce himself.
 
-Damn, that sneaky bastard.
+Tsk, big guy acting so cowardly.
 
-Ah, maybe he was just hungry and couldn't think straight?
+Oh, maybe because he’s big, he’s hungry and can’t think straight?
 
-"What are you going to do?"
+“What will you do?”
 
-"Well..."
+“Well…”
 
-I trailed off, and Kaislan offered me some advice.
+As I trailed off, Kaislan suggested some countermeasures.
 
-"If you're going to punish him, I suggest doing it through me."
+“If you plan to discipline him, it’s right to do it through me.”
 
-"To deflect the blame?"
+“To deflect the resentment?”
 
-"If you wish, I can make an example of him in front of everyone. They'll forget all about their resentment towards you."
+“If you wish, I’ll make a big scene in front of all the members, so they won’t even think of hating you.”
 
-Wow, he's a loyal subordinate.
+Haha… I didn’t expect him to say such loyal words.
 
-I listened to his suggestions.
+Feeling curious, I listened to his following words.
 
-"Or we could use Akuraba. She's in charge of supplies, and this happened because she failed to fulfill her duties."
+“Or you could use Akuraba. Managing supplies was her duty, and regardless of the reason, this mess happened because she didn’t perform her duty properly.”
 
-He wasn't wrong.
+He wasn’t wrong.
 
-Regardless of the circumstances, Akuraba was responsible for protecting the supplies.
+Whether the frontline collapsed or not, Akuraba should have protected the supplies.
 
-But...
+But…
 
-"She's a respected explorer, so everyone is being quiet now, but if this gets out, they'll blame her."
+“With her reputation as an esteemed explorer, people might hesitate to bring it up, but if it’s brought up, they would all want to blame her.”
 
-I didn't like that.
+So, he doesn’t like her after all.
 
-I had to make a decision.
+Before I answered, I had one more question for him.
 
-"Kaislan, why are you going this far to help me?"
+“Kaislan, why are you willing to take the blame to help me?”
 
-I was suspicious of his motives.
+It was a test to gauge any hidden motives.
 
-But Kaislan looked me in the eye and answered without hesitation.
+But Kaislan looked at me with unwavering eyes and answered without hesitation.
 
-"Because you're the expedition leader, whether I like it or not."
+“Whether I like it or not, you’re the one leading the expedition.”
 
-An unexpected answer.
+That was unexpected.
 
-"The expedition will fail if you're shaken by these rumors."
+“In times like these, if you falter, the expedition is doomed.”
 
-I thought he would be the first to try and take my place if my authority was weakened.
+Honestly, I thought he’d be the first to seize my position if I looked vulnerable.
 
-Was this a soldier's mindset?
+Maybe it’s because he’s a former soldier?
 
-Kaislan was prioritizing the mission over his personal ambitions.
+Kaislan’s the type who prioritizes the mission over personal ambition.
 
-"Tell me what you want me to do."
+“So, what’s it going to be?”
 
-He offered two options, but they were essentially the same.
+Though he presented two options, they both boiled down to the same thing.
 
-Whether it was Akuraba or him, he wanted me to make someone else the scapegoat.
+Akuraba or Kaislan.
 
-I appreciated his advice, but my decision was already made.
+In other words, make someone else the public enemy instead of me.
 
-"I'm not going to do anything."
+I appreciated the advice, but I’d already made up my mind.
 
-"...?"
+“Nothing. I’ll do nothing.”
 
-Kaislan looked confused and cautiously asked,
+Kaislan frowned in confusion and cautiously asked,
 
-"If you do nothing, the members will blame you for everything that goes wrong."
+“If you do nothing, the crew will continue to blame you whenever things go wrong.”
 
-That's true.
+Yeah, they will.
 
 But so what?
 
-"I don't care what they say."
+“I don’t care what they say.”
 
-"...?"
+“…?”
 
-"They're the members, and I'm the leader. That's how it works."
+“That’s why they’re the crew, and I’m the commander.”
 
-I wasn't going to shirk my responsibility.
+From the start, I never intended to enjoy all the perks alone.
 
 ---
 
-Ninth day in Ice Rock.
+Day 9 in Ice Rock.
 
-The expedition, which had been plagued with problems from the start, was finally reaching its midpoint.
+Despite the initial hiccups, the expedition trudged on, and we’re now about halfway through.
 
-We had left the plains behind and were now facing a giant ice mountain.
+After the plains ended, we faced a huge ice mountain.
 
-We weren't going to climb it.
+We don’t have to climb this mountain; rather, our direction is beneath it.
 
-Our destination was at the base of the mountain.
+“We’ve found the entrance!”
 
-"We found the entrance!"
-
-James Kala's team found the path to the next field, and we followed it, descending into a massive ice cave.
+James Carla’s team soon located a passage into the next field, and we followed it down into a massive ice cave.
 
 Thud, thud.
 
-The sound of our boots echoed through the cave.
+The sound of boots echoed against the hard ground.
 
-But the atmosphere was different from before.
+But the atmosphere isn’t as gloomy as before.
 
-Even in military training camps,
+Isn’t it the same in military boot camps?
 
-People form bonds when they go through hardships together.
+When you go through hard times together, you naturally form close bonds.
 
-"The ice is so clear, it's like we're in a fantasy world."
+“The ice here is as clear as glass. It feels almost like stepping into a dream.”
 
-"Haha, I feel the same way."
+“Haha, I had the same thought.”
 
-Of course, the improved mood was also due to our recovered stamina.
+Of course, the change in mood was largely due to a newfound stamina among the crew.
 
-Half of the members were experiencing Ice Rock for the first time, so there were a lot of hiccups in the beginning...
+Half of the members were newcomers, so there were many trials and errors at first…
 
-But now they were all adapting.
+But now, everyone has more or less adapted.
 
-"I'm starving. I understand why everyone avoids this place."
+“Ugh, I’m starving. I now understand why everyone avoids Ice Rock.”
 
-"I usually look at my daughter's picture when I'm struggling, but I couldn't even do that here. I should have taken it out of my subspace pocket before we left the ship."
+“When times were tough, I endured by looking at my child’s portrait, but I can’t do that here. If I’d known, I would’ve taken it out of subspace before we set off.”
 
-"Oh, you have a daughter? How old is she?"
+“Oh, you have a child? How old?”
 
-It wasn't just the atmosphere that had changed.
+Ah, it wasn’t just the atmosphere that had changed.
 
-The expedition force, which had been struggling to work together, was now moving as one.
+This once-disjointed expedition crew was finally moving like a single unit.
 
-"Enemies approaching from the flanks and front!"
+Just like this.
 
-"The 1st Team will hold them off while the 2nd and 3rd Teams take care of the flanks!"
+“Creatures appearing on the sides and ahead!”
 
-They followed my orders without hesitation.
+“While Team 1 holds the front, Teams 2 and 3 will take down the side enemies first!”
 
-「Frozen Webter defeated. EXP +5.」
+The crew responded promptly and executed orders without hesitation.
 
-「Unmelting Cocoon defeated. EXP +6.」
+When orders are given, the members swiftly carry them out without fuss.
 
-「Frostfire Goblin defeated. EXP +5」
+[You have defeated a Frozen Webtor. EXP +5]
 
-The battles were much easier now.
+[You have defeated an Unmelting Cocoon. EXP +6]
 
-They were finally acting like an elite force.
+[You have defeated a Frostfire Goblin. EXP +5]
 
-Their teamwork had improved, and they were able to unleash their full potential.
+Battles themselves have become much easier than before.
 
-And there was another positive development.
+Should I say they’re finally acting like elites?
 
-"Schuitz, that guy... he's a beast in battle."
+Oh, and there was another positive aspect.
 
-Explorers respected strength.
+“Schuiz, I must say, your combat skills are impressive.”
 
-As I stood at the front, taking on the most dangerous tasks, my reputation started to improve.
+In the explorer community, strength commands respect. By staying in the front lines, taking on the most dangerous tasks, my reputation naturally improved.
 
-The rumors about me hoarding food had vanished.
+That absurd rumor about me sneaking rations disappeared as well.
 
 Actions speak louder than words—
 
-Crackle—
+Crrkk-
 
-What was that?
+Hm?
 
-My instincts, honed by years of experience, sensed danger.
+A sudden noise caught my attention, setting off an alarm in my mind.
 
-"Erwen, did you hear that?"
+“Erwin, did you hear that?”
 
-"I don't know. It came from behind us..."
+“I think so. It sounded like it came from behind…”
 
-Behind us?
+From behind?
 
-I turned around.
+I quickly turned and confirmed with my own eyes.
 
-Crackle.
+Crrkk.
 
-Spiderweb-like cracks were spreading across the ground, unable to withstand the weight.
+Unable to bear the weight, cracks were spreading across the ground like a spider’s web.
 
-'Damn it!'
+‘Damn it!’
 
-It was where the troll pulling the sled was standing.
+Right where the troll pulling the sled stood.
 
-"Summon! Unsummon it now!"
+“Unsummon! Unsummon it now!”
 
-I shouted, and the summoner, who had been spacing out, quickly unsummoned the troll.
+The summoner, momentarily stunned, followed my command to unsummon the troll.
 
-But it was too late.
+But was it already too late?
 
-Crack, crack!
+Crash.
 
-The cracking sound intensified.
+The cracking sound grew even louder than before.
 
-"...Everyone, get back!"
+“Everyone, get back!”
 
-The explorers near the collapsing ground scrambled to safety. Some, however, prioritized the supplies over their own lives.
+Explorers near the center of the crack scrambled to safety, while a few brave ones tried to salvage the supplies.
 
-"Supplies! Get the supplies!"
+“The supplies! Secure the supplies!”
 
-"We're done for without them!"
+“If we lose those, we’re done for!”
 
-"Move it!"
-
-They carefully pulled the sled away, trying to reduce the weight.
+The explorers pull the sled as hard as they can, being careful not to add to the load.
 
 But the ground was collapsing faster.
 
-Kwaaang!
+Crack, Crack, Crack!
 
-The ground caved in, like a sinkhole.
+The ground caved in like a sinkhole.
 
-One of the sleds and two explorers disappeared into the darkness.
+Two explorers who hadn’t managed to move the sled in time fell into the endless darkness along with it.
 
-And at that moment...
+And at that moment.
 
-「Liard Ashid has cast the 5th-grade auxiliary magic [Levitation].」
+[Riard Ashid has cast Level 5 support magic [Float]
 
-The two explorers floated into the air.
+Miraculously, the two explorers floated upward.
 
-Their expressions, filled with despair, turned to relief.
+As the despair on their faces turned to relief, a sound came from below.
 
-And then we heard a splash from below.
+Splash—!
 
-Splash!
+Ha, so there’s water flowing down there?
 
-Damn, there's water down there?
+In that case, we can’t retrieve it.
 
-We can't retrieve the sled now.
+Setting aside my devastated feelings, I quickly gave orders.
 
-I quickly gave orders, despite my despair.
+“Everyone, get as far away from the edge as possible! Just in case, don’t stay too close!”
 
-"Everyone, get away from the edge! Spread out, don't stand too close!"
-
-The team members finally started moving.
+Only after the order was given did the stiffened members start to move.
 
 I cautiously approached the edge and looked down.
 
-The mage illuminated the area with a light spell, and as expected, there was a river flowing below.
+Using a mage to shine light, as expected, water was flowing below, and there was no trace of the sled.
 
-The sled was nowhere to be seen.
+“Akuraba!!”
 
-"Akuraba!!"
+“Y-Yes!”
 
-"Yes, sir!"
+“What was the proportion of food supplies on that sled?”
 
-"How much food was in that sled?"
+“Uh, about half!”
 
-"About half, sir!"
+Great, as if we didn’t already have a shortage, now we’re down even more.
 
-Damn it, we lost half our food supply.
+“…….”
 
-"..."
+As I clenched my teeth in frustration, Akuraba started watching my expression nervously.
 
-Akuraba looked at me nervously.
+“Um….”
 
-"Um..."
+“Be quiet. I’m thinking.”
 
-"Be quiet. I'm thinking."
+“Uh, about half!”
 
-"..."
+Great, as if we didn’t already have a shortage, now we’re down even more.
 
-I couldn't understand.
+“…….”
 
-'The ground collapsed the first time, and now it's happening again?'
+As I clenched my teeth in frustration, Akuraba started watching my expression nervously.
 
-This didn't make sense.
+“Um….”
 
-So...
+“Be quiet. I’m thinking.”
 
-"Akuraba."
+“…….”
 
-"Yes, sir."
+I couldn’t make sense of it.
 
-"Ask everyone. Now."
+‘The ground collapsed before, and now it’s happened again?’
 
-I had to confirm something first.
+No matter how I looked at it, this didn’t add up.
 
-"Is there anyone who changed their name? And was that name Hans?"
+So…
 
-That would tell me whether this was just a series of unfortunate coincidences.
+“Akuraba.”
 
-Or...
+“Yes, sir. Go ahead.”
 
-"Hurry up. This is important."
+“Right now, I want you to check something with all the crew.”
 
-Someone's malicious intent.
+First, I needed to confirm a few things.
+
+“Find out if there’s anyone in the team who’s changed their name, and if that name was Hans.”
+
+After verifying this, things would become clearer.
+
+Whether this was merely an unfortunate series of coincidences…
+
+Or…
+
+“Check as soon as possible. This is important.”
+
+…if this was a disaster caused by someone’s malicious intent.

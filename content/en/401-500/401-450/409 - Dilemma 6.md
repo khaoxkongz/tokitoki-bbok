@@ -1,481 +1,521 @@
-# Dilemma 6
+Dilemma (6)
 
-Luring the Dragonslayer and his men out of their base was easy.
+Luring out the Dragon Slayer and his subordinates was very easy.
 
-There's a saying that the most dangerous enemy is the one inside your own ranks.
+Well, there’s a saying that the enemy within is the most terrifying one, right?
 
-We had 'Enlightened', the Noark explorer who had been converted by Jun, send a false message to the Dragonslayer, and he took the bait immediately.
+Noark’s explorer, Gwang Myeong, who had been converted to our side and found enlightenment under Jun’s influence, provided false information to them, and they took the bait immediately.
 
-[...You're saying there's a group of thirty explorers from the royal faction?]
+[“So, around thirty royal explorers are out there?”]
 
-"Yes! They must have crossed Ice Rock!"
+“Yes! It seems they crossed over from Ice Rock!”
 
-[You said you were following them, right? Stay put. I'll be there soon.]
+[“You mentioned they’re trailing us in secret? Keep things steady until I arrive.”]
 
-"Yes, sir!"
+“Understood!”
 
-He fell for it again.
+Heh, fell for it again, fool.
 
-He was a naive one, in a way.
+I sensed this back in Larkaz’s maze—there’s a strange naivety to the Dragon Slayer.
 
-Back in Lalkas's Maze, if he hadn't given up on 'Tempered Desire' and given me time to recover, he wouldn't have lost his sword.
+If he hadn’t given up his “Restrained Desire” back then and given me time, he wouldn’t have been cornered to the point of having his sword taken away.
 
-"Alright, let's move."
+“Well, then, let’s move.”
 
-After luring the Dragonslayer away, we headed south, towards the Dragon's Lair.
+After luring the Dragon Slayer, we headed south toward the Dragon’s Depth.
 
-We didn't have to worry about running into them.
+Our paths wouldn’t overlap, so there was no worry of encountering them en route.
 
-We had Enlightened.
+Because we had Gwang Myeong with us.
 
-[What's your current location?]
+[“What’s your current position?”]
 
-"We're in the western region of the Dragon's Lair."
+“We’re in the western area of the Dragon’s Depth.”
 
-[Still heading west. Are you going to Ironfalls?]
+[“You’re moving west. Heading toward ‘Iron Falls’?”]
 
-"It seems like they are, sir!"
+“Seems that way for now.”
 
-[Alright. We're heading that way too. Let me know if they change direction.]
+[“Understood. We’ll head that way too, and if they change direction, inform me immediately.”]
 
-"Yes, sir!"
+“Understood!”
 
-By the time the Dragonslayer reached Ironfalls, we would be at his base.
+At this pace, by the time the Dragon Slayer reaches the west’s “Iron Falls,” we’ll have arrived at his base.
 
-Even if he received the message and turned back immediately, we would be long gone.
+Even if he rushes back, by the time he returns, we’ll be long gone.
 
-"Enemies ahead."
+“There’s a group of Noark scouts ahead.”
 
-"Halt. We'll wait for them to pass."
+“Stop. We’ll hide here and wait until they pass by.”
 
-After two days of forced marches and minimal combat, we arrived at a vast plain.
+Continuing to minimize battles, we pushed through two days of forced marches until we reached a vast wilderness.
 
-Our vision was limited by the darkness...
+Well, our field of view was limited because of the dim surroundings, but that’s not important.
 
-But that wasn't important.
-
-"Finally, the Gray Plains."
+“Finally, the Gray Plains.”
 
 The Gray Plains.
 
-The central region of the Dark Continent, located between the Dragon's Mountain Range and the Dragon's Lair.
+A middle region between the Dragon Mountain in the continent’s center and the northernmost Dragon’s Depth.
 
-And...
+It’s also the starting point for the Noark faction’s direct access to the 7th floor.
 
-The location of Noark's base.
+“It’s unexpectedly quiet, I thought there would be more people wandering around since it’s a base.”
 
-"It's surprisingly deserted. I expected more activity around their base."
+“I guess the main unit is keeping them busy.”
 
-"It means the main force is doing a good job distracting them."
+Our entire plan for this expedition is a kind of feint operation.
 
-Our mission was a diversionary tactic.
+While the royal army, which entered the Dark Continent via the standard route, engages with Noark’s main forces along the Dragon Mountains, we strike them from behind.
 
-The royal forces had entered the Dark Continent through the Ghostly Canyon and were engaging Noark's main force near the Dragon's Mountain Range.
+“From here on, we move as quietly as possible, even if we have to slow down.”
 
-Our role was to strike from behind while they were distracted.
+“I’ll order the scouts to widen the distance from the main unit, so we can detect the enemy from further away.”
 
-"We'll slow down from here and move stealthily."
+“Yes, I’ll leave the detailed troop deployment to you.”
 
-"I'll have the scouts spread out. We need to detect them early."
+Even after entering the Gray Plains, we moved very cautiously, but we still had to engage in continuous battles.
 
-"Alright, I'll leave the details to you."
+It’s the labyrinth after all, filled with monsters everywhere.
 
-We moved cautiously through the Gray Plains, but couldn't avoid all combat.
+It’s impossible to avoid monsters even if we can avoid humans.
 
-The labyrinth was full of monsters.
+[You have defeated a Void Ant. EXP +4.]
 
-Even if we avoided the explorers, we couldn't avoid the monsters.
+[You have defeated a Dark Crystal. EXP +6.]
 
-「Void Ant defeated. EXP +4.」
+[You have defeated a Mainum. EXP +5.]
 
-「Dark Crystal defeated. EXP +6.」
+[You have defeated a Hell Ghoul. EXP +4.]
 
-「Minum defeated. EXP +5.」
+[You have defeated a Jambet…]
 
-「Hell Ghoul defeated. EXP +4.」
+[…]
 
-「Zambet defeated...」
+Various monsters crawled out of cracks in the ground that resembled a drought-stricken rice field.
 
-「...」
+Among them were some Level 3 monsters.
 
-Monsters emerged from cracks in the barren ground.
+“It’s a Bol-Herchan!”
 
-There were even 3rd-grade monsters among them.
+The very monster that belongs to the final growth path of my Shield Barbarian.
 
-"Vol-Herchan!"
+Of course, the battle itself wasn’t particularly difficult.
 
-It was the monster I needed for my final build.
+“What are you all doing? Is this your first time fighting one? Spread out!”
 
-But the battle was easy.
+“Warriors, just defend! The mages will deliver the final blow anyway!”
 
-"What are you all waiting for? Spread out!"
+We fought three Level 3 monsters at a time in Ice Rock, so taking on just one isn’t a big deal.
 
-"Warriors, focus on defense! The mages will finish them off!"
-
-We had fought three 3rd-grade monsters at once in Ice Rock.
-
-And we were well-fed.
+And our bellies are full right now.
 
 Boom!
 
-The Vol-Herchan, known for its high defense, put up a good fight... but it eventually fell and turned to light.
+The Bol-Herchan, with its highest-level defense, withstood for a long time, but it eventually collapsed to the ground, disappearing into light particles.
 
-「Vol-Herchan defeated. EXP +7.」
+「You have defeated a Bol-Herchan. EXP +7.」
 
-It didn't drop an essence, but I wasn't disappointed.
+It didn’t drop an essence, but I wasn’t particularly disappointed.
 
-I already had one.
+I already had its essence anyway.
 
-'It's ironic.'
+‘This is kind of ironic.’
 
-I never imagined I would get the essence before killing it for the first time.
+In the game, I never imagined I’d acquire the essence of a monster before actually defeating it. But reality is different from the game, and things seem to be happening out of order.
 
-The order of things was different in reality.
+‘Is this some weird snowball effect from getting the Ogre Essence in the early to mid-game?’
 
-'The snowball effect from absorbing the Ogre essence in the early game?'
+I briefly considered that possibility, but thinking back, this abnormal growth probably started with the ‘Corpse Golem’.
 
-That thought crossed my mind, but the true starting point was the Corpse Golem essence.
+If I hadn’t gotten that essence, I wouldn’t have been able to kill Vampire Duke Camboromire either.
 
-If I hadn't absorbed it, I wouldn't have been able to kill Vampire Duke Cambormier.
+“Schuiz, the scouts have reported that they found the enemy’s base.”
 
-"Schuitz, the scouts found their base."
+After traveling through the Gray Plains for another day, we finally arrived near our target location.
 
-We had been marching for about a day through the Gray Plains when we finally received a report.
+A massive tower structure stood there, guarded by around a hundred explorers, confirming this was indeed the place.
 
-A giant tower, guarded by about a hundred explorers.
+However, there was one puzzling detail.
 
-It was definitely their base.
+“…That’s far fewer than we expected.”
 
-But there was one problem.
+“It seems Regal Vargos took more troops than anticipated to chase after us.”
 
-"...They're outnumbered."
+“Is that so? Then that’s good news, but we can’t be certain, so let’s gather more intelligence on the surrounding area first.”
 
-"It seems the Dragonslayer took more troops with him than we expected."
+“Then I will dispatch the scouts again.”
 
-"I see... We'll gather information first."
+“What should the rest of the troops do?”
 
-"I'll send out the scouts again."
+“Since there will soon be a battle, have them rest as much as possible to recover their strength.”
 
-"What about the others?"
+“What about the ‘Declaration of Annihilation?’”
 
-"Tell them to rest and prepare for battle."
+“Tell them not to use it. They might detect our presence. We can’t risk losing everything for a small advantage. If monsters appear, they should deal with them as quietly as possible.”
 
-"What about Purge Evil?"
+“Understood. I’ll pass the message along.”
 
-"Don't activate it. They might detect us. We can't risk losing everything for a minor advantage. If we encounter monsters, eliminate them quietly."
+We sent out scouts composed of characters with stealth skills to gather intelligence around the base, the rest of us hid beneath the cliff edge and rested to recover our energy.
 
-"Yes, sir."
+This applied to me as well.
 
-I sent the scouts, who had stealth skills, to gather information. The rest of us hid in a crevice and rested.
+“You look tired.”
 
-I needed a break too.
+While leaning back and resting, Amelia approached and handed me a piece of jerky.
 
-"You look tired."
+In Ice Rock, she didn’t give me even a single piece of jerky, but here she has some to spare.
 
-Amelia approached me and handed me a piece of jerky.
+Chomp, chomp.
 
-We had plenty of food now.
+While I was chewing on it, Amelia spoke with a note of concern in her voice.
 
-Crunch, crunch.
+“Schuiz, things are going too well for you.”
 
-I munched on the jerky, and Amelia said something ominous.
+“Dammit….”
 
-"Schuitz, this is going too smoothly."
+She just had to say it out loud.
 
-"Damn it..."
+There’s a superstition that words have power. I had avoided bringing up how smoothly things were going, but she did anyway.
 
-She had to say that, didn't she?
+“…?”
 
-I had been trying not to jinx it...
+“I wasn’t talking to you, don’t mind it. So, what were you going to say? Did you find something suspicious?”
 
-"...?"
+“It’s not that, but…”
 
-"I wasn't talking to you. What's wrong? Did you find something suspicious?"
+When I asked, Amelia trailed off.
 
-"Not really, but..."
+She didn’t seem to have any concrete evidence; it was just a feeling.
 
-Amelia trailed off.
+“Don’t worry. Things aren’t going smoothly by chance. It’s because we’ve done all the necessary groundwork.”
 
-It didn't seem like she had any concrete evidence.
+“Groundwork?”
 
-"Don't worry. It's not going too smoothly. We just prepared well."
+“Think of all the hardships we endured to get here, like crossing the Ice Rock. We faced betrayal from within as well.”
 
-"Prepared well?"
+“That’s true. Sorry, never mind what I said.”
 
-"We went through hell in Ice Rock, didn't we? And we even had a traitor among us."
+Even as I reassured her, I couldn’t help but remain a bit uneasy.
 
-"That's... true. Sorry, I shouldn't have said anything."
+I continued to think quietly to myself.
 
-She apologized, but it was too late.
+‘A hundred of them…’
 
-I was already worried.
+With this number of troops, the mission itself should be a success.
 
-'A hundred...'
+The scouts only got a distant view, but they didn’t spot anyone noteworthy.
 
-We could probably handle it.
+‘This must be because they didn’t expect an attack from behind.’
 
-The scouts said there weren't many notable explorers among them.
+Noark’s main force is out on the wide front line to prevent the royal army from crossing the mountains.
 
-'And they're not expecting an attack from behind.'
+Of course, they left behind some troops led by Regal Vargos, at this key base, but…
 
-Noark's main force was busy preventing the royal forces from crossing the Dragon's Mountain Range.
+‘Now that he’s away with his troops…’
 
-They had left a reserve force at the base, led by the Dragonslayer...
+Right now, it’s a perfect opportunity.
 
-'But he's out on a mission.'
+‘And we have Gwang Myeong on our side.’
 
-It was the perfect opportunity.
+The only concern now is any unforeseen factors the scouts might bring back, but…
 
-'And there's no Hans around.'
+“Schuiz, the scouts have returned.”
 
-The only variable was the information the scouts might bring.
+“What did they report?”
 
-"Schuitz, the scouts are back."
+“They found nothing suspicious within a 5 km radius.”
 
-"What did they find?"
+Everything checked out. There didn’t seem to be any hidden threats nearby.
 
-"No one within a 5-kilometer radius."
+I had been worried that things were going too smoothly and that there might be some kind of trap, but I decided to push those thoughts aside.
 
-There were no unexpected variables.
+“Tell the returning scouts they did well and let them get some rest. Well, they won’t have long to rest, but still.”
 
-I had been worried it might be a trap...
+“…You’re planning to make a move?”
 
-But I shook off my anxiety.
+“Yes, start making preparations.”
 
-"Tell the scouts they did a good job. Let them rest. Well, it won't be for long."
-
-"...Are we attacking?"
-
-"Yes. It's time to get ready."
-
-It was time to end this long expedition.
+It’s time to end this long expedition.
 
 ---
 
-I stood in the darkness of the barren plain.
+I stood there, alone in the pitch-black wilderness.
 
-I couldn't see it, but I could sense it.
+Although it’s hidden by the darkness of the labyrinth and can’t be seen with the naked eye…
 
-Noark's base, hidden in the darkness.
+I stare intently at the Noark’s base.
 
-"..."
+“….”
 
-I waited patiently, my body tense with anticipation.
+In the silence, we wait for the right time.
 
-The expedition force was ready to attack.
+All the expedition members are prepared to charge forward at any moment.
 
-Boom, boom, boom, boom!
+Boom, boom, boom, boom-!
 
-We heard a deafening roar coming from the darkness.
+Soon, loud noises began to echo through the darkness.
 
-Any experienced explorer would recognize it.
+To someone with some experience as an explorer, it would be clear that this noise was the sound of a large monster walking.
 
-The footsteps of a large monster.
+“M-monsters!”
 
-"M-monsters!"
+“Everyone, come out!”
 
-"Everyone out!"
+The quiet darkness beyond turned into a noisy commotion.
 
-The silence was shattered.
+I can’t see them with my eyes, but I can clearly picture the expressions on each of their faces.
 
-I could imagine their expressions.
-
-"What the hell?! How many are there?!"
+“Fuck, what on earth is up with these numbers?!”
 
 Panic.
 
-"Damn it, this is bad luck! Get your weapons ready!"
+“Man, our luck sure is terrible. What are you all doing? Hurry up and draw your weapons!”
 
-Frustration.
+Irritation.
 
-"Why are they all coming this way?"
+“Why are the monsters swarming here?”
 
 And confusion.
 
-One of them figured it out.
+Of course, among them, there were those who knew the real reason.
 
-"It's an ambush! Someone's luring them here!"
+“Get a hold of yourselves! It’s the enemy! Someone is leading these monsters right toward us!”
 
-Noark explorers were known for their resourcefulness.
+As expected from the people of Noark who have studied every kind of plundering technique.
 
-He was quick to catch on.
+They’re quick to catch on.
 
-"What?!"
+It’s obvious that the waves of monsters swarming them from all sides aren’t just a coincidence.
 
-"An ambush...?"
+After confirming that there was no one within a 5 km radius, I had the scouts gather all the monsters nearby.
 
-"Damn it! Could it be them? The ones Regal Vagos mentioned?"
+They drew the monsters’ aggro and then used Stealth to return to us, leaving the monsters to charge at the enemy base.
 
-"Call for backup! Now!"
+“What?”
 
-It was too late.
+“Enemies… ?”
 
-"Kaislan."
+“Shit, are they the ones Lord Regal Vagos was talking about?”
 
-I called his name, and he raised the royal flag.
+“Call for reinforcements! Quick, request support immediately!”
 
-"Fire!"
+Oh no, are you trying to call for support?
 
-The mages, archers, and ability users unleashed their attacks.
+Even if they do come, it’ll all be over by then.
 
-Kaboom!
+“Kaislan.”
 
-The enemy formation was shattered.
+At my brief command, Kaislan, standing beside me, raised the flag with the royal crest high and shouted:
 
-The monsters, sensing the weakness, charged through the gap.
+“Fire!!”
 
-"Damn it! Where are they?!"
+At the same time, the mages, archers, and supporters who had finished casting spells unleashed their deadly attacks simultaneously.
 
-"Aaaaargh!"
+Boom—!
 
-"Block them!"
+Attacks landed amidst the monsters’ onslaught.
 
-They tried to regroup, but we didn't give them a chance.
+Part of the enemy formation was completely wiped out, creating a gap that the cunning monsters did not miss.
 
-"Kaislan, again!"
+“Dammit! Where did that come from? Where are they attacking from?!”
 
-We bombarded them with ranged attacks, and they finally located us.
+“Aaaaaah!”
 
-But...
+Monsters surged in through the collapsed battle line.
 
-"There they are!"
+“Hold them back at that point!”
 
-"They're over there!"
+They hastily tried to re-form their line, but there was no way we’d let them do so easily.
 
-It was too late.
+“Kaislan, one more time.”
 
-Kaboom!
+We continued to fire all of our ranged attacks whenever casting was complete. In response, the enemy finally located our position.
 
-Boom!
+But…
 
-Whiiiiiish!
+“There they are!”
 
-We continued our barrage.
+“They’re over there!”
 
-Buzz!
+Even if they know, what can they do about it?
 
-My message stone vibrated.
+They’re too busy fighting off monsters to be able to do anything about us.
 
-I knew who it was.
+Kwaaaaang-!
 
-He was the only one who had been contacting me.
+Kwoom!
+
+Whooooooosh!
+
+We continued our ranged bombardment for quite a while.
+
+Zzzzziiiing-!
+
+Suddenly, the message stone I kept in my pocket started vibrating.
+
+There was no need to guess who the sender was.
+
+After all, the only person who’s been contacting me so frequently with this message stone since we arrived here was a single individual.
 
 Click.
 
-I answered the call.
+Since there’s nothing else to do but watch the battlefield, I connected the communication without hesitation.
 
-[Where the hell are you?!]
+[You! Where the fuck are you right now?!]
 
-He roared.
+The furious roar came the moment the call connected.
 
-He must have received my last report, about our location.
+Oh, that’s right—the last report said we were at the edge of the continent, and they had to come all the way over there, right?
 
-[I'm at the spot you mentioned, but there's no one there! And I'm receiving reports of a battle near the Sky Eye!]
+[We’ve arrived where you said, but no one’s here! There are also reports that a battle has broken out near the ‘Eye of the Sky’.]
 
-Sky Eye was the name of the mana wave emitter.
+The “Eye of the Sky” is the name given to the magic device that acts as a communication tower.
 
-'So they've already attacked it.'
+“Tsk, so the news has already reached them.”
 
-I understood why the royal family was so obsessed with destroying it. It had caused them significant losses.
+I can understand why the palace is so desperate to destroy the Eye of the Sky. They must have suffered countless losses due to this extensive communication network.
 
-[Are you ignoring me?! Answer me! Where are you?!]
+[Are you ignoring me right now?! Answer me! Where exactly are you?!]
 
-I decided to be honest.
+There’s no need to lie anymore, so I answered honestly.
 
-"Your backyard."
+“Me? I’m right in front of your house.”
 
-A little psychological warfare never hurt.
+A bit of trash talk is a legitimate part of warfare.
 
-I waited for his reaction, but he was silent.
+After saying that, I waited to see how he would react, but surprisingly, there was silence for a long time.
 
-Then he spoke, his voice flat and emotionless.
+I checked to see if the call was disconnected, but then I heard his voice again—though nothing particularly amusing.
 
-[...Who are you?]
+[…Who are you?]
 
-What the...?
+What’s wrong, cat got your tongue?
 
-"You'll find out if you come here."
+Trying to sound all heavy and ominous, are we?
 
-[...This was your plan all along.]
+“If you’re that curious, why don’t you come and find out?”
 
-"Of course. It's obvious, isn't it? Anyway, I'm busy, so I'll see you later. Enjoy the view while you're there."
+[…From the beginning, this was all your scheme, wasn’t it?]
 
-[You won't die peacefully. I'll make sure of that.]
+“Well, obviously. But hey, enjoy the scenery while you’re there. It’s not every day you travel so far.”
 
-He threatened me, but I ignored him.
+[I don’t know who you are, but don’t think you’ll die easily. Even death won’t save you from what’s coming.]
 
-He had already used that line before.
+His voice was dripping with malice, but I casually cleaned my ear and shrugged it off.
 
-"Yeah, good luck with that."
+Death won’t save me?
 
-[What? You think this is a joke? You think I won't—]
+Heh, wasn’t that the same line he used last time?
 
-I ended the call.
+“Sure, good luck with that.”
 
-It was time for the next chapter.
+[What? Do you think this is a joke? I will ensure—]
 
-Akuraba reported.
+But before he could finish, I cut the connection. It was time to move on.
 
-"Schuitz, we've cleared most of the monsters!"
+---
 
-The enemy had finished dealing with the monsters.
+Just then, Akuraba’s voice came through with an urgent report.
 
-It was our cue.
+“Schuiz, the monsters are almost all dealt with!”
 
-"Charge formation!"
+The enemies had fought back in desperation, and most of the monsters had been killed.
 
-"Warriors, forward...!"
+Therefore…
 
-We stormed the battlefield, our veteran warriors leading the charge.
+“Formation! Charge forward!”
 
-"Charge!"
+“Front line, forward…!”
 
-"Wipe them out!"
+We charged into the battlefield before they had a chance to re-form their lines.
 
-The enemy tried to block us with a shield wall... but it was futile.
+“Chaaaarge!”
 
-"Ugh!"
+Our veteran warriors led the combat formation from the front.
 
-Our warriors broke through their lines, and we poured into their formation.
+Noark’s forces also formed a wall of warriors to block our advance.
 
-They were overwhelmed.
+A basic shield-wall formed by warriors during large-scale battles.
 
-"They're heading for the Sky Eye!"
+“Block them!”
 
-"Stop them!"
+“Kill them all!”
 
-They realized our target and tried to stop us, but it was too late.
+Soon the warriors at the front clashed, and a full-blown battle for strength began.
 
-"Kaislan, again!"
+And…
 
-We bombarded them with ranged attacks while our warriors held them off.
+“Uwaaaaaaaaaaa!”
 
-"Halt!"
+The victor of this power struggle was, of course, us.
 
-We reached the Sky Eye.
+Our warriors are far superior in average skill level compared to theirs and…
 
-We formed a defensive circle around it, protecting it from the enemy's desperate attacks.
+Most decisively:
 
-But...
+[Niarro Cambell casts [Wave of Healing].]
 
-"Schuitz! Over here!"
+[Benjamin Orman casts [Moonlight of Regeneration]…]
 
-"Hurry! We have a problem!"
+[…]
 
-Akuraba called for me.
+They have no healers!
 
-What? A problem?
+How can they stop our warriors who charge aggressively even at the cost of injury, when they have no way to heal their own injuries?
 
-"Gregson, take over."
+“They’ve broken through!”
 
-"Yes, sir!"
+Our warriors, pushing through with the strength of a hundred men, broke through the enemy line, and our expedition forces quickly exploited that gap.
 
-I left my position and rushed to the back.
+The center was not completely empty, but it was open enough.
 
-Akuraba was standing awkwardly in front of the Sky Eye.
+“Shield wall!”
 
-"What's wrong?"
+We changed formation into a circular defensive formation.
 
-"I-I've tried everything, but I can't contact the main force!"
+And then…
 
-This is bad.
+“Advance while maintaining this formation!”
+
+Now the situation changed: we advanced towards the center while defending against enemies attacking from all sides.
+
+After all, our goal isn’t annihilation, but to strike a decisive blow.
+
+“T-those bastards are heading for the Eye of the Sky!”
+
+“Stop them!”
+
+Realizing our goal, they rushed at us even more fiercely, but it wasn’t enough to break the unity of our forces that had formed after crossing Ice Rock.
+
+Additionally, we have a lot of priests on our side.
+
+“Halt!”
+
+While dealing with the enemies as we moved, we soon arrived in front of the ‘Eye of the Sky’.
+
+We stood with our backs against it, desperately holding off the enemy.
+
+Because there’s something we need to do first before destroying it…
+
+“Schuiz! Come over here quickly.”
+
+It was then that Akuraba shouted for me, her voice booming over the chaos.
+
+“Hurry! There’s a problem!”
+
+A problem?
+
+“Gregson, I’m leaving this to you.”
+
+“Don’t worry, I’ve got it! Go!”
+
+I hurriedly left my position to a warrior next to me and headed to the rear.
+
+Akuraba was waiting for me with an uncomfortable look in front of the ‘Eye of the Sky’ that we had surrounded.
+
+“What’s going on?”
+
+“I-I’ve entered the communication coordinates several times and tried to contact the main army, but I can’t connect at all!”
+
+Tsk, this is a bit of a problem.

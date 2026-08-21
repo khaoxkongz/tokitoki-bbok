@@ -1,587 +1,556 @@
-# Giant Step 1
+Giant Step (1)
 
-As soon as the gathering began, the man, donning his Stag Antlers mask, stepped out into the hallway. He hurriedly made his way to the room where the Round Table was located.
+As soon as the meeting time came, the man who had just entered donned a deer horn mask and stepped out into the hallway. He quickly headed for the room with the round table.
 
-Unlike usual, the Round Table was empty.
+Unlike usual, the round table was empty.
 
-“Thankfully, I’m the first one.”
+“Looks like I’m the first one here.”
 
-Glancing around, the man approached a specific seat.
+The man glanced around and made his way to a seat.
 
-It was four seats to the left of the seat Lion always occupied.
+It was four seats away to the left of where Mr. Lion normally sat.
 
-Unlike the early days of the Round Table, now that there were empty seats, everyone sat with at least one seat between them.
+Ever since empty seats started popping up at the round table, everyone had been leaving exactly one seat open between them.
 
-Assuming all seven members were present, he could secure the second turn no matter what.
+Assuming all seven members attended, he could definitely secure the second turn.
 
-‘The first turn is a bit troublesome…’
+‘Being first is kind of a hassle…’
 
-The quality of information shared in the first round often set the tone for the entire session.
+After all, the quality of the entire round of information depends on what the first speaker says.
 
-‘And besides, this seat is right next to him…’
+‘And, more than anything, that seat is right next to him…’
 
-Yes, the second turn was the most ideal.
+The third or fourth seats weren’t bad, but he would have to face that person directly.
 
-The third or fourth seats weren’t bad, but he would have to make direct eye contact with Lion.
+The later seats were too burdensome.
 
-The later turns were too much pressure.
+Well, that clown guy seems to like the attention so he always sits in the back.
 
-Well, Clown always sat in the last seat because he enjoyed the attention.
+‘That guy’s just born that way.’
 
-‘That’s just his nature.’
+Anyway, the man with the deer mask didn’t know it, but the seat he had chosen was secretly the most popular seat among the other members. Maybe that’s why…
 
-He didn’t know it, but the seat he had chosen was secretly the most popular among the members.
+“Oh! Deer Horns? You actually showed up this time?”
 
-Maybe that’s why…
+As soon as the goblin mask entered the room, he greeted him and sat down one seat away from him.
 
-“Oh! Stag Antlers? You’re here today?”
+“Mind if I sit here?”
 
-Goblin Mask entered the room and greeted him, then sat down one seat away.
+When the meeting began, this seat would make him the third speaker.
 
-“Mind if I sit next to you?”
+“Did you have some urgent business last time?”
 
-It was the seat that would be the third turn when the gathering began.
+When the goblin mask asked this question after sitting down, Deer Horns’ replied vaguely.
 
-“By the way, did you have something urgent to attend to last time?”
+“Just personal matters.”
 
-Stag Antlers simply brushed off Goblin’s question.
+“Is that so?”
 
-“Personal reasons.”
+Since it was more or less just small talk, Goblin mask didn’t seem too bothered by the short answer.
 
-“Really?”
+Deer Horns asked carefully,
 
-It seemed like Goblin was just making small talk, as he didn’t seem to care about his short answer.
+“By the way, did anything happen?”
 
-Stag Antlers cautiously asked,
+“…What?”
 
-“Anything interesting happen?”
+“Last session, I mean. I was wondering if anything significant happened while I was away…”
 
-“…Huh?”
+The way Deer Horns asked sounded a little too humble, given he was talking to Goblin mask.
 
-“Last session. I was wondering if there were any major incidents while I was gone…”
+Well, this kind of behavior was close to being bad manners.
 
-Stag Antlers’ tone was unusually humble for someone addressing Goblin.
-
-It was almost rude.
-
-It was an unspoken rule of the Round Table not to disclose information from previous sessions to those who weren’t present.
+It was an unspoken rule of the Round Table not to tell non-participants what had happened at previous meetings.
 
 But…
 
-‘Maybe Goblin will tell me.’
+‘If it’s the Goblin mask, maybe he’ll tell me.’
 
-After all, why had he rushed here?
+After all, what other reason was there for him to rush in like this?
 
-He wanted to get a head start and gather some information before the other members arrived.
+He wanted to fish for information from someone else before other members arrived.
 
-And Goblin was the first one he encountered.
+And the goblin mask was the first to arrive.
 
-He was in luck—
+Lucky him—
 
-Step.
+Footsteps.
 
-He heard footsteps from the doorway.
+At that moment, the sound of someone approaching came from the direction of the door.
 
-Another member had arrived.
+Another member, arriving right after the Goblin.
 
-‘It’s Fox.’
+‘It’s Fox mask, of all people.’
 
-If she was here, she would probably stop Goblin from answering my question.
+Given her meddlesome nature, she would likely prevent the goblin from answering his questions.
 
-He sighed, but then…
+Deer Horns heaved a sigh at the thought.
 
-“I overheard your conversation.”
+“I overheard it by accident.”
 
-“…..”
+“…”
 
-“Don’t worry, nothing happened. Or rather, nothing could have happened.”
+“Don’t worry about it. Nothing happened”
 
 “What do you mean?”
 
-“Lion didn’t attend the last session.”
+“Mr. Lion didn’t show up last time.”
 
-“Lion wasn’t there…?”
+“Mr. Lion didn’t attend…?”
 
-“Yes. So Clown and Queen left after sharing their information, and the session ended there.”
+“Yes. And naturally, the clown and the queen just left soon after. Without him there, the session pretty much ended on the spot.”
 
-“Ah…”
+“Oh…”
 
-“Don’t do that again. Once someone breaks the rules, it’s no longer a rule.”
+“If your curiosity is satisfied, please don’t do this again. Once someone breaks the rule, it isn’t a rule anymore.”
 
-Her voice was laced with a hint of displeasure.
+Her voice carried a hint of discomfort.
 
-“…I’ll be careful.”
+“…I’ll be more careful.”
 
-Fox’s gaze shifted to Goblin as Stag Antlers readily agreed.
+The fox mask then turned her gaze to the goblin mask.
 
-“You too, Goblin.”
+“And you, Mr. Goblin.”
 
-“Huh? W-why me?”
+“Eh? Me? Why?”
 
-“Don’t answer his questions. Or rather, be careful what you say.”
+“Don’t just answer everything you’re asked. Or rather, be careful with what you say.”
 
-“…Haha! You’re so strict, Fox… Be careful… yes, be careful… Hahaha!”
+“…Ha ha! You’re right, Fox. Watch what I say… yes, I’ll be careful… ha ha ha!”
 
-Goblin laughed awkwardly, and Fox, after checking the empty seats, sat down in the fourth seat.
+While the Goblin mask let out an awkward laugh, the Fox mask looked around at the empty seats and sat in the fourth seat.
 
-“C-Crescent Moon will be the first one to go, right?”
+“Um, Fox. In that case, the first turn goes to Crescent Moon, right?”
 
-“If he’s coming, that is. He doesn’t seem to like the last seat.”
+“That is, if he shows up. I don’t think he likes sitting in the back seats.”
 
-“…Hmm, but Lion isn’t skipping again, is he?”
+“…Hmm, but I wonder if Mr. Lion will miss again?”
 
-“We’ll find out if we wait.”
+“Who knows. We’ll find out if we wait.”
 
-“H-haha, right…”
+“Ha, ha ha. Right…”
 
-Stag Antlers looked at Goblin and Fox, who were chatting, and felt a strange sense of dissonance.
+Watching the goblin and fox mask converse, he got a vague sense of discord.
 
-Fox seemed to be comfortable with Goblin, while Goblin seemed to be uncomfortable with Fox.
+Something’s off about them,
 
-But he didn’t dwell on it.
+It seemed like the Fox mask was quite comfortable with the Goblin mask , whereas the Goblin mask seemed uneasy around the Fox.
 
-He had more important things to think about.
+But Deer Horns didn’t dwell on it. There were bigger issues to think about.
 
-‘Lion’s absence…’
+‘So Mr. Lion didn’t attend…’
 
-In a way, it was a good thing.
+In a way, it was a relief.
 
-He had been disappointed that he had to miss the last session, but it seemed like it wouldn’t have made a difference anyway.
+He had been regretful about missing the meeting, but if he had attended, it wouldn’t have made much difference.
 
-He hadn’t missed out on anything important.
+At least he hadn’t missed out on much.
 
-But one thing bothered him.
+But one thing still nagged at him.
 
-[Lion is Bjorn Yandel.]
+[Mr. Lion is Bjorn Jandel.]
 
-Queen’s words from the last session.
+The queen had said this in front of the gemstone.
 
-It had been dismissed as a false accusation, but it had been a hot topic for a while.
+Of course, the gem had turned red and everyone let it go.
 
-There were many circumstantial similarities between Lion and Bjorn Yandel.
+But it had been a hot topic around the table for a while, as many details seemed to overlap between Mr Lion and Bjorn Jandel.
 
-‘…Well, it’s probably just a coincidence. There are too many differences for them to be the same person.’
+‘…But that’s probably just a coincidence. They’re too different to be the same person.’
 
-First, Bjorn Yandel was only a 4th-grade explorer.
+After all, Bjorn Jandel was now a fourth-year explorer.
 
-And Lion had joined the community about 20 years ago.
+And Mr. Lion had joined this community about 20 years ago.
 
-They couldn’t be the same person.
+They couldn’t possibly be the same person.
 
 But…
 
-‘What is it? This feeling that I’m missing something…’
+“What am I missing? This nagging feeling…”
 
-Stag Antlers glanced at Goblin, who was talking to Fox.
+He glanced at the goblin, who was still chatting with the fox mask.
 
-“I wonder when Crescent Moon will be here. Clown and Queen will probably be late again.”
+“When will Crescent Moon arrive? It seems like the clown and the queen will be last as usual.”
 
-“They’ll be here when they’re ready. But… Goblin, why do you only use honorifics with Queen?”
+“Why do you address the queen so formally?”
 
-“Haha… Did I?”
+“Ha ha… Do I?”
 
-Come to think of it, he was the one…
+Right, it was this guy.
 
-He was the one who first brought it up at the Round Table.
+He had been the first to suggest that Bjorn Jandel might be the same person as Lion mask.
 
-That Bjorn Yandel and Lion might be the same person?
+The timing of Bjorn’s ‘death’ was suspicious, he’d said, only to be laughed at by everyone else.
 
-His reasoning was that the timing of Bjorn Yandel’s death was too coincidental…
+“Perhaps it’s because… well, she is a queen…”
 
-But he had been ridiculed back then.
+He joined their conversation.
 
-“I don’t know… I just feel like I have to use honorifics with her… her title is ‘Queen’, after all…”
-
-Stag Antlers interjected.
-
-“Hey, Goblin.”
+“Listen, Goblin.”
 
 “…Yes?”
 
-“Do you still think Bjorn Yandel could be Lion?”
+“Do you still think that Mr. Lion could be Bjorn Jandel?”
 
 “Uh… suddenly?”
 
-“Yeah, I’m just curious.”
+“Just curious.”
 
 “Hmm…”
 
-Goblin looked confused, but he answered.
+The goblin seemed perplexed by the question, but eventually, he answered.
 
-“No, I don’t think so anymore.”
+“No. I don’t think so.”
 
-His answer was clear and firm.
+His voice was clear and decisive.
 
-Stag Antlers was convinced.
+He spoke decisively, and Deer Horns nodded in understanding.
 
-“I see… Well, it’s impossible for someone who was summoned 22 years ago to be the same person.”
+“That makes sense… A person summoned 22 years ago can’t be the same as him.”
 
-“Huh? Ah… right, that’s true…”
+“Yes? Ah… that’s true…”
 
-Stag Antlers tilted his head at his ambiguous response.
+When the goblin mask responded somewhat hesitantly, Deer Horns tilted his head.
 
 “…Hmm? Is there another reason?”
 
-“Well… I don’t think Bjorn Yandel is an evil spirit.”
+“Well… I actually don’t think Bjorn Jandel is an evil spirit.”
 
-“Ah, that’s why.”
+“Oh, is that why?”
 
-The news about Bjorn Yandel not being an evil spirit had spread throughout the city.
+The royal family’s announcement that Bjorn Jandel was an evil spirit had been strategic, and the new news that he isn’t, has spread across the world.
 
-It was a strategic announcement by the royal family, and it was actually false.
+So that reaction made sense—
 
-So his reaction was understandable—
+“No, there’s another reason for it…”
 
-“No, that’s not it either…”
+What? Another reason?
 
-What? That’s not it either?
+When Deer Antlers shot a look that demanded explanation, the Goblin Mask seemed to check the Fox’s reaction and then spoke.
 
-Stag Antlers looked at him expectantly, and Goblin, after glancing at Fox nervously, spoke.
+“I can’t say much, but… Bjorn Jandel isn’t an evil spirit. He can’t be an evil spirit. I’m sure of that, at least.”
 
-“I can’t say much… but Bjorn Yandel isn’t an evil spirit. He can’t be. Yes, I’m sure of that.”
+Having said that, the goblin shut up, as if to say he wouldn’t be answering any more questions. And Deer Horns dropped the subject too.
 
-He then closed his mouth, refusing to answer any more questions, and Stag Antlers didn’t press him further.
+‘…Come to think of it, Sven Parab was also in that expedition party.’
 
-‘…Come to think of it, Sven Parab was also on the expedition force.’
+Evil Spirits can often detect fellow Evil Spirits with relative ease.
 
-Maybe he had sensed something.
+And if the Goblin mask had traveled side by side with Bjorn in the Labyrinth, maybe that personal experience led him to a conclusion that couldn’t be ignored.
 
-Evil spirits were relatively good at recognizing each other.
+‘So… I guess Bjorn Jandel isn’t really an evil spirit.’
 
-He couldn’t ignore Goblin’s judgment, especially since he had experienced it firsthand.
+Deer Horns did not contemplate the matter further.
 
-‘So… Bjorn Yandel really isn’t an evil spirit.’
+The subtle nagging feeling from before had already slipped away…
 
-Stag Antlers dismissed the issue.
+“Everyone’s already here before me.”
 
-The strange feeling he had been having had disappeared, and besides…
+It was Crescent Moon who arrived fourth and took the first-turn seat. After him, the remaining members began to arrive.
 
-“You’re all early.”
+“Happy to see everyone again today.”
 
-Crescent Moon arrived and sat down in the first seat.
+The Queen came fifth, sitting in the fifth seat.
 
-The other members soon followed.
+And then—
 
-“It’s nice to see you all again.”
+“Pssit.”
 
-Queen arrived fifth and sat down in her usual seat.
+The Clown also arrived.
 
-And…
+As everyone but one had taken their seats, all eyes naturally turned to one place.
 
-“Pfft.”
+It was somewhat comical.
 
-…Clown.
+All these people gathering and leaving one seat open like a seat of honor, waiting endlessly for a single person to show up.
 
-As soon as everyone except for Lion was seated, their gazes naturally turned towards the empty seat.
+“Ahh, I really hope he comes today.”
 
-It was a ridiculous situation.
+As if answering the Clown’s wish, footsteps echoed from down the hall.
 
-A group of powerful figures, waiting for one person to arrive?
+Tap, tap.
 
-“I hope he comes today.”
+The small steps sounded far away.
 
-Clown’s wish was granted.
+At the sound, the man in the deer antler mask unknowingly tensed his shoulder muscles.
 
-Step.
-
-They heard footsteps from the hallway.
-
-A faint sound, but it silenced the entire room.
-
-Step.
-
-Stag Antlers unconsciously tensed his shoulders.
-
-It was strange.
-
-Step.
-
-It was just the sound of footsteps.
-
-He couldn’t even see him yet.
-
-But why did he feel so much pressure?
-
-He briefly wondered if Lion was using some kind of intimidation tactic…
-
-But he knew that wasn’t the case.
-
-Step.
-
-The footsteps themselves weren’t special.
-
-Anyone could make that sound.
-
-But the reason everyone was silent…
-
-Step.
-
-…was because they knew.
-
-Even if the sound was ordinary…
-
-Step.
-
-The owner of that sound wasn’t.
-
-Step.
-
-The footsteps echoed through the hallway, and then he arrived.
-
-“Pfft, you’re here—”
-
-Clown stood up to greet him, like a loyal subordinate, but Lion ignored him and walked towards the empty seat.
-
-And…
-
-“…..”
-
-…he sat down and rested his chin on his hand.
-
-‘…I have to be careful today.’
-
-Stag Antlers gulped nervously.
-
-He wasn’t embarrassed.
-
-He knew he wasn’t the only one feeling this way.
-
-“…..”
-
-“…..”
-
-Everyone could feel it.
-
----
-
-The heavy silence made me want to lie down and take a nap.
-
-‘Ugh, I’m so sleepy…’
-
-I rested my chin on my hand, stifling a yawn.
-
-Should I have just skipped today?
-
-I was exhausted, both physically and mentally.
-
-‘And why is it so quiet today?’
-
-I had been waiting for them to start talking, but the silence continued.
-
-“…….”
-
-“…….”
-
-What are they doing?
-
-I thought they would bombard me with questions about my absence last time.
-
-I finally spoke, unable to endure the silence any longer.
-
-“How long…”
-
-“……?”
-
-“…are you going to keep doing this?”
-
-“……!!”
-
-I’m sleepy, let’s just start the meeting.
-
-Goblin quickly answered.
-
-“Y-yes! W-we should start! T-then, C-crescent Moon will go first… I-I think…”
-
-Hmm, I thought Fox would be the first one.
-
-He seemed nervous, his voice trembling, but at least the attention shifted to Crescent Moon.
-
-“…I should have chosen a different seat.”
-
-Crescent Moon sighed, seemingly burdened by the first turn, and then he began the meeting.
-
-“I’ll go first.”
-
-His information was about the fairy tribe.
-
-Or rather, about Erwen.
-
-He received a green light for revealing that the Blood Spirit Marquis had expressed her intention to leave the Pureblood Order.
-
-For reference, the Pureblood Order was a special forces unit of the fairy tribe, and Erwen was currently on leave.
-
-That’s why she had said she would submit her resignation.
-
-Thump, thump.
-
-So the first piece of information was something I already knew.
-
-“…The expedition force led by Bjorn Yandel was created with the intention of sacrificing them.”
-
-Stag Antlers, who was second, received a red light for revealing that the expedition force was a suicide mission.
-
-Fox, Goblin, and I already knew.
-
-He seemed flustered and tried again…
-
-“…The royal family offered Bjorn Yandel a promotion in exchange for completing the mission.”
-
-He received a green light this time, but there was no feedback.
-
-Normally, they would have commented on it, something like, ‘So he’ll become a Baron instead of a Viscount? And he can even pass down his title to his descendants!’ 𝐑ÃꞐɵ𝐛Ɛṧ
-
-Come to think of it, it was the same with Crescent Moon’s information.
-
-‘They’re unusually quiet today.’
-
-Well, the expedition force was something only we knew about. The others would have been shocked.
-
-It was strange, but it wasn’t important.
-
-I was too tired to care.
-
-Thump, thump.
-
-So the second piece of information was also useless.
-
-‘I should have told Fox and Goblin beforehand. Then they would have received a red light too.’
-
-I clicked my tongue, and then it was Goblin’s turn. He was trembling as he spoke.
-
-I thought he would talk about the expedition force, but he didn’t.
-
-Maybe it was because of Fox’s warning.
-
-Well, he could have at least shared something useful…
-
-‘It’s just some boring internal affairs of the church…’
-
-That was typical of Goblin.
-
-He occasionally brought valuable information, but most of the time, the quality was low.
-
-But he received a green light, so the turn passed.
-
-‘So the third one is also useless…’
-
-Something was strange today.
-
-Normally, they would have objected and asked for more information, even if it was a green light.
-
-Thump, thump.
-
-I didn’t want to take the initiative, so I just let it slide.
-
-Goblin was on our side now.
-
-‘Now it’s Fox’s turn.’
-
-I wasn’t expecting much from her either.
-
-She had been with me in the labyrinth, and…
-
-“…The large clans are planning a boycott. They’re upset that the royal family created a special forces unit without consulting them.”
-
-That was something I had already been informed of.
-
-Fox had been the Vice-Captain of a clan for a long time, so she had a wide network of contacts.
-
-She was now sharing that information with me.
-
-‘So the fourth piece of information is also useless.’
-
-I hope the next one is better.
-
-Thump, thump.
-
-I looked at Queen, and our eyes met.
-
-But she seemed uncomfortable with my gaze.
-
-Swoosh.
-
-She quickly looked away and spoke in an uncharacteristically hesitant tone.
-
-“…The GM unbanned Lee Baekho.”
-
-It was clearly the GM’s doing.
-
-He was trying to show me that he had fulfilled my request.
-
-Damn it, just give me some information.
-
-Thump, thump.
-
-It was information that everyone except for me would receive a green light for, so the turn passed.
-
-“…It’s my turn. Pfft.”
-
-The sixth turn arrived quickly, perhaps because everyone was just sharing information without any banter.
-
-Right, Clown was always the wild card.
-
-I listened intently, despite my drowsiness.
-
-But…
-
-“You all know that the Dragonslayer, Regal Vagos, is dead…”
-
-He started cautiously, but his information was also disappointing.
-
-“Bjorn Yandel, that bastard, the royal family said he was on a secret mission for them… That was all a lie.”
-
-It wasn’t just useless, it was troublesome.
-
-‘Damn it, now I have to explain this to Fox and Goblin. They believed the royal family’s story.’
-
-Anyway, Clown’s information received a green light.
-
-And then it was my turn.
-
-“…..”
-
-“…..”
-
-All eyes were on me.
-
-It was a familiar pattern.
-
-There was an unspoken rule at the Round Table ever since I joined.
-
-If they brought interesting information, I would evaluate it and reward them with information of my own.
-
-So, what about this time?
-
-Did they really bring something interesting?
+What a strange thing.
 
 Thud.
 
-I placed my hand on the jewel and spoke.
-
-Normally, I would have filtered my words and softened my tone…
-
-But I was annoyed.
-
-“Everything you just said…”
-
-I was being 100% sincere.
-
-I had endured countless yawns and listened patiently to their stories.
-
-“It was all garbage.”
-
-“I would have been better off sleeping.”
-
-The jewel glowed as soon as I took my hand off it.
-
-Swaaaaaaaaaa!
+It was just the sound of ordinary walking.
 
 It was strange.
 
-“So you really didn’t know?”
+It was just ordinary footsteps.
 
-“…..”
+The person wasn’t even visible in the corridor yet. So why did it feel so intimidating?
 
-“The green light means…”
+He wondered if it was some lethal aura technique, but he knew better.
 
-I was bored.
+Tap, tap.
+
+Yes, there was nothing special about those footsteps.
+
+If any one of them walked, they’d make pretty much the same sound. And yet, the instant the footsteps were heard, everyone fell silent.
+
+Tap, tap.
+
+They all knew. Even if the sound itself was ordinary—
+
+Tap, tap.
+
+The person making it was not.
+
+Tap, tap.
+
+When the footsteps sounded again, he finally appeared.
+
+“Pssit, welcome—”
+
+The Clown sprang up to greet him like some devoted underling, but the man didn’t even glance at him. He simply took the empty seat. Then—
+
+“….”
+
+He sat, propped his chin on his hand, and said nothing.
+
+“…I better be extra careful today.”
+
+He unknowingly swallowed.
+
+It wasn’t even that he felt ashamed for acting so careful. Surely everyone else felt the same.
+
+“….”
+
+“….”
+
+They all felt the atmosphere shift.
+
+---
+
+I really just want to flip over and take a nap.
+
+“Ah, I’m so sleepy…”
+
+I leaned back, forcibly suppressing a yawn that kept threatening to escape.
+
+Maybe I should have skipped today?
+
+Beyond tired, I felt like I could fall asleep at any moment.
+
+“Why is it so quiet here today?”
+
+I didn’t feel like talking, so I just stayed quiet, hoping the meeting would proceed on its own, but the silence stretched on unusually long.
+
+“…”
+
+“…”
+
+Why were they acting like this?
+
+I had expected them to bombard me with questions about why I hadn’t come last time.
+
+Unable to bear it any longer, I finally spoke up.
+
+“How long.”
+
+“…?”
+
+“Are we going to keep this up?”
+
+“…!!”
+
+Let’s start; I’m about to die of sleepiness.
+
+I meant it in a roundabout way, and the goblin quickly responded.
+
+“Yes, yes! We, we, we should start! So, starting with Mr. Crescent Moon… would be… good…”
+
+Hmm, I thought the Fox would lead the proceedings, but it’s the Goblin stepping in.
+
+He seemed nervous, stammering like that, but at least it got everyone’s attention on Crescent Moon in seat one.
+
+“…I knew I should’ve picked a different seat.”
+
+Crescent Moon sighed as if the first turn was a burden, then officially opened the meeting.
+
+“Alright, I’ll start.”
+
+The first piece of information was about the fairy race. Or more precisely, about Erwin.
+
+She mentioned that the Blood Spirit Queen had expressed an intention to resign from the Pureblood Legion.
+
+The round table’s gem glowed green for him.
+
+Apparently, the Pureblood Legion is some kind of elite unit among fairies, and Erwin was on temporary leave from it. She’d said she was going to file for resignation soon.
+
+Tap, tap.
+
+So, the first piece of information was something I already knew.
+
+“The expedition led by Bjorn Jandel was destined to be sacrificed from the start,”
+
+Deer Horns, who was in second turn, got a red light after mentioning that the expedition was a sacrifice.
+
+It seemed like the fox, the goblin, and I already knew the story.
+
+In the end, Deer Horns tried again, flustered…
+
+“…The royal family has offered to grant Bjorn Jandel a noble title for his contributions in this expedition.”
+
+Although a green light appeared, there was no feedback.
+
+Normally, someone would have chimed in, “So he won’t just be a lesser baron but a proper baron? Can he pass it on to his children?” or something like that.
+
+Come to think of it, it was the same during Crescent Moon’s turn.
+
+Why’s everyone so quiet today?
+
+Truth be told, the expedition news would have been shocking to most of them, but we already knew it.
+
+Their reaction was a bit odd, but I didn’t really care.
+I was too tired to bother.
+
+Tap, tap.
+
+Anyway, I guess that second piece of information was a dud too.
+
+Should I have told the Fox and the Goblin in advance? If I had, maybe it would’ve shown up as a red light this time, too.
+
+As I was licking my lips in regret, it was time for the third turn.
+
+The goblin, who was in his turn, trembled and got straight to the main point.
+
+I expected him to talk about the expedition, but he didn’t.
+
+Was it because of the fox’s warning to be careful what he said?
+
+Hmm, he could still have shared something helpful…
+
+But the internal affairs of some church I don’t care about…
+
+That’s just how the Goblin is.
+
+Sometimes he spills important stuff, but most of the time the quality of his information is pretty low.
+
+Anyway, the lantern lit green, so we moved on.
+
+So that’s three duds in a row…
+
+Something felt off today.
+
+Usually, even if the gem turned green, someone would object and force a second piece of information if the first one wasn’t good. Why is everyone just letting it slide?
+
+Tap, tap.
+
+I didn’t feel like stepping in, so I just let it go.
+For now, I can consider the Goblin an ally.
+
+So now it’s the Fox’s turn.
+
+Honestly, I wasn’t expecting much here either.
+She’d been in the Labyrinth with me the whole time, just like the Goblin…
+
+“…Major clans are planning a collective boycott. They’re angry that an expedition with a special mission was formed without even informing them.”
+
+I already knew this from my time in the city.
+
+Although she was expelled from the clan after being in a vegetative state, the Fox, who had long been Vice-Captain, had a wide network and access to various pieces of information.
+
+She now shared that network with me.
+
+So the fourth piece of info is a dud as well.
+
+I hoped the next one might be different…
+
+Tap, tap.
+
+As I shifted my gaze to the queen, our eyes briefly met.
+
+But did my look make her uncomfortable?
+
+Swoosh.
+
+Startled, the queen immediately looked away. She then spoke in an uncharacteristically timid voice,
+
+“…The GM has lifted that guy’s… Lee Baek-ho’s ban from the community.”
+
+It was obviously the GM’s doing.
+
+She was trying to emphasize that she’d carried out the request I’d asked of her a while back.
+
+Oh, for crying out loud—never mind that, just spit out some real info.
+
+Tap, tap.
+
+Anyway, the content was good enough to get a green light from everyone else, so it moved on to the next person.
+
+“…It’s already my turn. pssit.”
+
+No one had made any side comments; they just spat out their info, so we arrived at the sixth turn way faster than usual.
+
+Whew. Right, this guy’s always the wild card.
+
+Even though I was so sleepy I could die, I still had some hope that he’d come up with something interesting, so I kept my ears open.
+
+But…
+
+“I’m sure you’ve all heard that the Dragon Slayer, Regal Vargos, is dead…”
+
+He opened with something like he was testing the waters, but the info he ultimately revealed was a real letdown.
+
+“Bjorn Jandel, that guy, the royal family said he was given a special mission and infiltrated our side. All of that is a lie.”
+
+Not only was it not helpful, it was downright annoying.
+
+Tsk. Great, now I’ll have to explain everything to the Fox and the Goblin later, because they believed that story…
+
+In any event, the Clown got a solid green light for his info.
+
+And then came my turn.
+
+“…” “…”
+
+All eyes were on me.
+
+It was the usual pattern once my turn came around.
+
+Since I joined, an unspoken rule had developed at the round table: if they brought me something entertaining, I’d evaluate it and give them a reward in return.
+
+So, how was it this time?
+
+Was it really something I was interested in hearing?
+
+Thump.
+
+My response was simple.
+
+I raised my hand to the gem and spoke.
+
+Normally, I might have filtered what I said, watered it down, but I couldn’t be bothered today.
+
+“Everything you guys just said.”
+
+Honestly, I was pissed off.
+
+“It was complete garbage.”
+
+That wasn’t me playing some persona. I was 100% serious.
+
+I mean, I had to stifle countless yawns just to listen through that crap.
+
+“I feel like taking a nap would’ve been more productive.”
+
+The moment I lifted my hand from the gem, it lit up.
+
+Ssssssssssshh—
+
+Such a strange thing.
+
+“So you all really didn’t know?”
+
+“…”
+
+“Seeing that it’s glowing green.”
+
+It made me want to sleep out of boredom.

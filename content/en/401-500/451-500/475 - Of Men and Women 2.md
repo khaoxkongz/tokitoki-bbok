@@ -1,533 +1,529 @@
-# Of Men and Women 2
+Man and Woman (2)
 
-The two sisters were together in the room.
+The room I arrived in after leaving the temple hall was shared by two sisters.
 
-Pen, the Dragonkin Priestess who had given me the Dragon's Blessing.
+Pen, the dragon tribe priestess who had granted me the dragon’s blessing.
 
-And Raviyen, my former expedition teammate.
+And my former expedition teammate, Ravien.
 
-"...You're here?"
+“…You’re here?”
 
-Pen, the Dragonkin girl, glanced at me and then looked away, a pout on her face.
+The little dragon Pen glanced at me as I entered after knocking, then averted her gaze with a pout.
 
-'She's acting like a teenager.'
+‘What is this? She’s acting like a moody teenager.’
 
-I tried to be understanding.
+Still, she was cute enough to be forgiven.
 
-I had heard from her father and Raviyen that she had been depressed after I was declared dead.
+From what I heard from the Dragon Lord and Ravien, she had been deeply depressed after hearing that I had died.
 
-'She kept saying she wanted to hear more stories...'
+She even said something like, ‘You promised to come back with a new story next time…’
 
-"...Huh? What did you just say?"
+“…Huh? What did you just say?”
 
-"You... heard that...?"
+“You… heard that…?”
 
-"No, I asked what you said."
+“No, what did you just say?”
 
-I lowered my voice, and Pen, slightly intimidated, raised hers.
+When I lowered my voice and repeated my question, Pen’s eyes widened slightly, but she raised her voice.
 
-"W-Why?! I just said you look the same!"
+“Why, why…! I just said that I couldn’t have mistaken your face, that’s all!”
 
-It was a blatant lie.
+It was clearly a lie.
 
-I had clearly heard her say, "That ugly face..."
+I distinctly heard her say, “That ugly face,” not just “your face.”
 
-"Penitasauros."
+“Penitasaurus.”
 
-"...It's Penitasaurooooos."
+“…It’s Penitasauraus, you know?”
 
-"I might have forgotten after all these years, so let me remind you. I'm not ugly, I'm manly. Understand?"
+“It’s been a few years, so I’ll remind you once again. I’m not ugly; I’m manly. Got it?”
 
-I stared at her, and she finally replied,
+After that, I just stared at her until she finally responded.
 
-"...Okay."
+“…Got it.”
 
-Right, she knew it all along.
+See? She ended up admitting it anyway.
 
-Now that the dominance hierarchy had been established, I turned to Raviyen.
+Now that I had established the hierarchy, I turned to Ravien to greet her as well.
 
-"It's been a while, Raviyen."
+“Anyway, it’s been a while, Ravien.”
 
-"You two... seem close."
+“You two… seem closer than I expected.”
 
-"Close? We've only met once before, when I received the blessing."
+“Not really. I only met her once when I received the blessing.”
 
-"Still, you were probably the last outsider she interacted with."
+“But for Pen, that was probably the last time. No one from outside visits this place, after all.”
 
-Well, that was true.
+Well, that made sense.
 
-Not many outsiders visited the Dragon's Temple.
+How many outsiders could come to this Dragon Temple anyway?
 
-I sat down at the table and asked,
+I took the empty seat at the table where the two sisters were sitting and asked something that had been on my mind.
 
-"So you knew I wasming?"
+“By the way, judging by your reaction earlier, it seemed like you knew I was coming, right?” I asked Pen
 
-"...Yes. Father told me."
+“Yes. Father told me.”
 
-"When?"
+“When exactly?”
 
-"While he was talking to you. I can hear his voice wherever he is."
+“While he was talking to you. I can hear his voice from anywhere.”
 
-So he had some kind of telepathicmmunication skill, besides Dragon Speech? He was more versatile than I thought.
+So, besides spatial movement, he also has a voice messaging ability? It seems Mr. Dragon’s skills are more versatile than I thought…
 
-"What did he tell you?"
+“So, how much did you hear?”
 
-"Just that you wereming, and that he had good news for me."
+“How much did I hear? He just said you were coming and to wait. Oh! He also said there was good news and to hear it from you.”
 
-Oh, he had added that part too?
+Haha, this old man.
 
-"What's the good news?"
+“So, what’s the good news?”
 
-Pen looked at me expectantly.
+Pen looked at me with curious eyes.
 
-I avoided her gaze, and Raviyen shrugged.
+When I averted my gaze, Ravien, who had made eye contact, shrugged.
 
-Iuldn't understand the Dragonkin's way of thinking.
+The emotions of the Dragon Tribe were hard to understand.
 
-Why would they entrust such an important moment to an outsider like me?
+Why would they entrust such an important event to an outsider like me?
 
-'Well, it's not that difficult.'
+‘Well, it’s not that difficult anyway.’
 
-I decided not to postpone it any longer.
+Since delaying it would be pointless, I just told her the truth.
 
-"I killed the Dragonslayer and brought back his heart."
+“I killed the Dragonslayer and brought back his heart.”
 
-A lot had happened, but ituld be summarized in a single sentence.
+There were many events that led up to this, but in the end, it all boiled down to this one sentence.
 
-"...What?"
+“…What?”
 
-Pen lookednfused, so I repeated myself.
+However, it seemed the little dragon girl couldn’t comprehend this one sentence, so I repeated it.
 
-"It's true. I gave the heart to your father, so you'll be able to rver soon."
+“Exactly as I said. I gave the heart to your father, so you should be able to recover soon.”
 
-"...Sister?"
+“…Sister?”
 
-"It's true, Pen."
+“It’s true, Pen. You can believe him.”
 
-"..."
+“……”
 
-Even after Raviyen'snfirmation, Pen still lookednfused. It was too sudden, I guess.
+Even with her sister’s confirmation, Pen still looked confused. It must have been too sudden of a gift to simply be happy about.
 
-"..."
+“……”
 
-After a long silence, she finally spoke.
+After staring blankly for a while, Pen finally snapped out of it and spoke.
 
-"...Thank you."
+“…Thank you.”
 
-I had to take back my previous assessment of her upbringing.
+I guess I should take back what I said about her not being raised properly.
 
-Both her and her father were surprisingly polite.
+Both Mr. Dragon and her.
 
-It made me feel a little awkward.
+They really know how to give a proper thank you.
 
-"But even if you rver, things won't change immediately."
+It’s almost embarrassing.
 
-"...What do you mean?"
+“Of course, even if you recover, things won’t change drastically right away. There are some circumstances.”
 
-I relayed the Ancient Dragon's instructions.
+“…Circumstances? What do you mean?”
 
-My fight with the Dragonslayer was to remain a secret for now. She would have to stay hidden in the temple until the situation calmed down...
+I went ahead and explained what Mr. Dragon and I had discussed.
 
-And her father had agreed to it.
+That my killing of the Dragonslayer had to remain a secret for now.
 
-"I'm sorry. I know you hate this place—"
+“I’m sorry. I know how much you hate it here, and yet to ask this of you—”
 
-"It's okay."
+“It’s okay.”
 
-Pen interrupted me.
+Pen said, cutting off my apology.
 
-"I don't mind staying here."
+“I don’t mind staying here.”
 
-She sounded sincere.
+It wasn’t an empty reassurance, but a voice filled with sincerity.
 
-Iuldn't understand her.
+Of course, I could understand.
 
-"You don't mind? But you have everything you need here. Food, shelter... you can just play all day—"
+“Really? You get meals on time and can just play around without worries, so life here isn’t so bad—”
 
-"What are you talking about? You idiot."
+“What are you talking about, you idiot.”
 
-"...Was that not the reason?"
+“…Huh? That’s not the reason?”
 
-Pen sighed.
+Pen sighed deeply as she looked at me.
 
-"Ofurse not. I hate this place. I want to go outside, feel the wind, smell the flowers... but..."
+“How could that be? I’m sick of this place too. I want to smell the wildflowers, run freely in the wind. But…”
 
-She clenched her fists.
+Pen trailed off, then clenched her small fist and spoke.
 
-"Now my father doesn't have to stay here because of me. He can finally go wherever he wants."
+“Now, Father doesn’t have to stay here because of me. He can go wherever he wants and see whatever he wants.”
 
-Her answer surprised me.
+That was an answer I hadn’t expected at all.
 
-"So that's enough for you."
+“So that’s enough for me.”
 
-Family...
+Family, huh…
 
-I suddenly felt a pang of curiosity.
+I couldn’t help but feel a little curious.
 
-"Yandel, thank you for saving my father."
+“Jandel, thank you for saving Father.”
 
-What was it like to have a family like that?
+What would it feel like to have a family like that?
 
 ---
 
-Pen excused herself, saying she needed some time alone, and I was left with Raviyen.
+After that, Pen said she needed some time alone to think and left the room, leaving just Ravien and me.
 
-It wasn't a bad oume.
+It wasn’t bad.
 
-I had something to ask her.
+Which was fine.
 
-"Raviyen."
+I had something to talk about with her anyway.
 
-"Yes?"
+“Ravien.”
 
-"Why have you been avoiding me?"
+“I’m listening. Go ahead.”
 
-"What... do you mean?"
+“Why has it been so hard to see you lately?”
 
-I had been subtle, but she didn't seem to understand.
+“…What do you mean?”
 
-I decided to be more direct.
+Hmm, was I being too indirect?
 
-"Why didn't youme to the after-party? You don't seem that busy."
+It was a sensitive topic, but I decided to just ask outright, like a true barbarian.
 
-"I heard Titana Akuraba didn'tme either."
+“I mean, why didn’t you come to the after-party? You don’t seem all that busy.”
 
-"Well, that's true."
+“I heard that Titana Akuraba didn’t attend either.”
 
-I nodded.
+“Well, that’s true.”
 
-"But she's actually busy."
+I nodded and continued.
 
-After a brief pause, Raviyen replied,
+“But that woman is actually busy.”
 
-"...I was busy too."
+After a brief pause, she finally responded.
 
-"Really? Then I guess I can't blame you."
+“…I was busy too.”
 
-"Is that all you wanted to ask?"
+“Yeah? Alright then. No helping it.”
 
-She sounded more relaxed now.
+“So, is that all you wanted to ask?”
 
-I took a sip of my tea and nodded.
+She seemed more at ease as I nodded and sipped my tea.
 
-But she wasn't fooled.
+Did she really think I’d drop it so easily?
 
-"Raviyen, I'm fine, so just tell me the truth. Did you change your mind?"
+“Ravien, just be honest with me. Did you change your mind?”
 
-The subject was omitted, but everyone in the room knew what I was talking about.
+There was no need to spell it out. She knew what I meant.
 
-"No, I haven't."
+“…No. My opinion hasn’t changed.”
 
-"Really? I thought you were trying to distance yourself from us—"
+“Really? Because ever since we returned to the city, it felt like you were trying to distance yourself from us.”
 
-"Because we weren't on the same page from the beginning."
+“That’s because I never truly shared the same thoughts to begin with.”
 
-What?
+Hah. Look at this girl.
 
-"Not on the same page...?"
+“The same thoughts, huh?”
 
-I gave her a look, and she sighed, finally explaining herself.
+I stared at her, silently urging her to explain.
 
-"Ofurse, I'm saddened by the deaths of ourmrades. And I'm angry at the Marquis, and the royal family."
+She sighed and spoke reluctantly.
 
-"But?"
+“I mourn the comrades we lost in that freezing land. I feel anger toward the marquis who caused it all, and toward the royal family that enabled it.”
 
-"But that's all. Not everyone is like you, Yandel."
+“And?”
 
-So my initial impression hadn't been wrong.
+“That’s all. Not everyone is like you, Jandel.”
 
-She was distancing herself from us.
+As expected, she had indeed been distancing herself.
 
-And the reason was exactly what I had suspected.
+And her reasons weren’t surprising.
 
-"No matter how close we became, we were just teammates on a single expedition."
+“No matter how much camaraderie we built, at the end of the day, we were just people who went on a single expedition together.”
 
-If they had been family, it would have been different.
+If it had been family, maybe things would be different.
 
-But they weren't.
+But family hadn’t died.
 
-And therefore...
+So…
 
-"If you're asking me to dedicate my life to revenge... my answer is no."
+“If you ask me if revenge is worth throwing away everything I have, my answer is no.”
 
-Raviyen had made a rational decision.
+Ravien had set aside emotions and made a pragmatic decision.
 
-It was the normal response.
+And honestly, this was the rational response.
 
-Even if their family had died, most people wouldn't seek revenge against the royal family.
+Even if family had died, would most people dare seek revenge against royalty?
 
-"I see... Thank you for being honest."
+“…Thanks for being honest. It must not have been easy to say.”
 
-"...I'm sorry. But I'm sure there are others who feel the same way. They're just afraid to say it."
+“…I’m sorry. But I’m sure at least one of the remaining survivors feels the same way as I do. They just don’t say it because of the atmosphere.”
 
-Well, that was true.
+Yeah, that made sense.
 
-People's emotions were fickle.
+People’s emotions shift between hot and cold all the time.
 
-"I'll keep that in mind."
+“I’ll take your advice to heart.”
 
-"...That's unexpected. I thought you would accuse me of betrayal."
+‘‘That’s …… unexpected. I thought you were going to scream at me for being a traitor.’’
 
-"Would that change your mind? If it would, I would have done it a hundred times."
+“That won’t change your mind, will it? If it were something that could be changed, I would have yelled a hundred times.”
 
-"I see..."
+“Is that so…?”
 
-Raviyen looked down.
+Ravien stared at the floor as if something was weighing on her.
 
-She had said everything she wanted to say, and thenversation was over.
+She had spoken her mind freely, and the conversation had ended without much argument.
 
-But...
+Yet—
 
-"..."
+“…….”
 
-She still seemed to have something on her mind.
+She couldn’t keep her gaze steady, as if there was still something she wanted to say.
 
-I understood how she felt.
+I could more or less understand what she was feeling.
 
-I had been in a similar situation before.
+I had once been like her, too.
 
-"Raviyen, let me give you some advice."
+“Ravien, since you gave me advice, let me give you some in return.”
 
-"Go ahead."
+“…Go ahead.”
 
-"If everyone had been as rational as you that day, none of us would have survived."
+“If everyone had been as rational as you that day, not a single one of us would have made it back alive.”
 
-There were no right or wrong answers in this world.
+There are no absolute answers in this world.
 
-Only choices.
+There are only choices.
 
 ---
 
-"Let me know if you change your mind. You're always weme."
+“If you ever change your mind, come find me. You’re always welcome.”
 
-I was about to leave the room when Raviyen said,
+As I was about to leave the room after saying that, Ravien muttered something.
 
-"...Father is still in a meeting."
+“…Father is probably still in the meeting.”
 
-"Ah, right."
+“Ah, right.”
 
-I awkwardly waited for the Ancient Dragon to return. He eventually used Dragon Speech to teleport me back home.
+After awkwardly sipping tea and killing time, I used Mr. Dragon’s teleportation spell to return home.
 
-It was just past noon.
+Having left early in the morning, it was just past noon when I returned…
 
-"Mister! You're back!"
+“Mister! You’re back!”
 
-"...You're early. I thought you might be late."
+“…You’re early. I thought you might be late.”
 
-Amelia and Erwen were waiting for me.
+Amelia and Erwin happened to be home and came out to greet me.
 
-"It ended sooner than expected. What happened here?"
+“Ah, things wrapped up earlier than expected. But what happened here?”
 
-I pointed at the backyard.
+I pointed at the ground with my finger as I asked.
 
-The overgrown wasteland had been transformed.
+The empty lot, which had been overgrown with weeds when I left, had been completely transformed.
 
-Half of it was now a lush garden, and the other half was a training ground.
+Half of it was a lush garden, neatly divided, while the other half was set up like a training ground.
 
-"...It just... happened. It looks a little crude, but... we didn't have a choice."
+“This…? Well, this just happened. It’s a bit of an eyesore, but… there wasn’t really another way.”
 
-"Weuldn't let one person have it all, so we decided to share."
+“Since neither of us could claim the whole space, we split it in half.”
 
-So they had finally reached ampromise after days of arguing.
+They had been arguing for days about whether to turn it into a garden or a training ground, and in the end, they finally came to this compromise.
 
-"Yandel, have you eaten?"
+“Jandel, did you eat?”
 
-"I had a few snacks. What about you?"
+“Just grabbed a few snacks. What about you?”
 
-"Not yet!"
+“Not yet!”
 
-"Then let's eat together."
+“Then let’s eat together.”
 
-I was thinking about going out for lunch, but Auyen was already preparing a meal.
+I was considering going out to eat, but apparently Auyen was already preparing the meal.
 
-I wasnfused.
+“That guy cooks…?”
 
-"Heoks...?"
+“You didn’t know? He made the dinner you ate yesterday.”
 
-"Didn't you know? He made dinner last night too."
+“…I thought it was takeout. Wait, but isn’t there no kitchen here?”
 
-"...I thought you bought it... Wait, we don't even have a kitchen, do we?"
+Amelia gave me a pitying look at my sharp question.
 
-Amelia gave me a look.
+“We turned one of the first-floor rooms into a kitchen ages ago. You seriously didn’t notice until now?”
 
-"We turned one of the rooms on the first floor into a kitchen. You didn't even notice?"
+“…….”
 
-"..."
+“Jandel, I know you’re busy, but you should at least pay some attention to your own house.”
 
-"Yandel, you need to pay more attention to your surroundings."
+I had no rebuttal.
 
-Iuldn't argue with that.
+I haven’t had a proper break at home, after all.
 
-I hadn't had a chance to relax at home lately.
+Anyway, I followed Amelia to the first floor, where an empty office had indeed been converted into a kitchen.
 
-Anyway, I followed Amelia to the first floor, and one of the empty rooms had beennverted into a kitchen.
+“Ah, you’re here, Commander!”
 
-"Weme back, Clan Master!"
+Auyen, dressed in a white chef’s uniform, greeted me. Glancing to the side, I saw that the completed dishes were neatly plated.
 
-Auyen, dressed in a white chef's uniform, greeted me with a smile. A plate of food was already prepared.
+“Mister, come here. Just sit, and this man will take care of everything.”
 
-"Mister,me here. He'll take care of everything."
+“Uh… will he?”
 
-"Oh... really?"
+Auyen, what exactly is your job?
 
-Auyen... what was his job, again?
+Sailor, coachman, chef…
 
-Navigator,achman, and now a chef?
+‘…Good at everything except fighting?’
 
-'...Is there anything he can't do?'
+Once again, I realized the supreme truth that strength is everything.
 
-I realized once again that power was everything.
+If I hadn’t been strong, this guy wouldn’t be here cooking with a smile.
 
-If I wasn't strong, he wouldn't be hereoking for me.
+“How is it? Does it taste good?”
 
-"How is it? Does it suit your taste?"
+“Just right. The seasoning is perfect. Plenty of side dishes with meat.”
 
-"It's perfect. Just the right amount of seasoning. And plenty of meat."
+“We always prepare extra, since we never know when you’ll return. That was the mistresses’ instruction.”
 
-"The ladies instructed me to always prepare extra, just in case you came home hungry."
+“…Mistresses?”
 
-"...Ladies?"
+“Ah….”
 
-"Ah..."
+At my question, Auwen flinched as if he had made a mistake.
 
-Auyen flinched.
+Realizing he had indeed slipped up, he didn’t say anything else, and I let it slide, focusing on my meal instead.
 
-He had made a mistake.
+After some time had passed—
 
-But I didn't say anything and focused on my meal.
+“Please, leave it. I’ll clean up.”
 
-And after a while...
+Auyen collected the dishes as soon as we finished.
 
-"Leave it. I'll clean up."
+It felt strange.
 
-Auyenllected the dishes.
+Being treated like this in my own home—it really made me feel like a noble.
 
-It was a strange feeling.
+“Mister, you don’t have anything planned for the rest of the day, right?”
 
-Being treated like this in my own house... I felt like a real noble.
+“Nope. I left the whole day open, just in case.”
 
-"Mister, you don't have anything scheduled for today, do you?"
+“Then… would you like to have some tea in my garden?”
 
-"No, I cleared my schedule."
+“Oh, that sounds nice.”
 
-"Then... would you like to have some tea in my garden?"
+“Tercia, I’ll have black dragon tea.”
 
-"Sure."
+“Hah… seriously, do you even have any shame?”
 
-"Tersia, I'll have the Black Dragon tea."
+Erwin commented prickly, but prepared the tea leaves anyway. And so the three of us sat together, enjoying tea and snacks and chatting.
 
-"Ha... you're so shameless."
+The enclosing walls of the garden gave a cozy sense of seclusion, and the warm afternoon sunlight was soothing.
 
-Erwen grumbled, but she still prepared the tea, and we chatted for a while.
+It had been a while since I had a moment of peace like this.
 
-The high walls surrounding the house feltmforting, and the afternoon sun was warm.
+‘This is nice….’
 
-It was a relaxing afternoon.
+Erwin chartered away about various things, and Amelia occasionally chimed in to argue with her, but even their bickering felt comforting.
 
-'This is nice...'
+Maybe it was because I had grown too relaxed, but—
 
-Erwen chattered excitedly, and Amelia occasionally chimed in, arguing with her.
+“…Family, huh….”
 
-But I just enjoyed the peaceful atmosphere.
+The thought escaped my lips before I even realized it.
 
-And then...
+It was such a soft murmur that you wouldn’t have heard it unless you were paying very close attention.
 
-"Family..."
+And yet –
 
-I mumbled unsciously.
+“……?”
 
-It was a quiet murmur, barely audible.
+“……?”
 
-But...
+The two, who had been in the middle of their argument, fell silent at the same time.
 
-"...?"
+“Jandel, what did you just say?”
 
-"...?"
+“Yes. Mister, what was that?”
 
-Both Erwen and Amelia stopped talking and looked at me.
+They both turned to me with the same curious expression.
 
-"...Yandel, what did you just say?"
+“Nothing.”
 
-"Yes, what was that, Mister?"
+Embarrassed, I tried to brush them off.
 
-They had forgotten their argument and were now focused on me.
+But they were persistent.
 
-"...Nothing."
+“Nothing, huh? I clearly heard you say, ‘Family, huh….’”
 
-I tried to brush it off, but they were persistent.
+“I heard it too. What exactly did you mean by that?”
 
-"It wasn't nothing. You said 'family'."
+Damn it. Why did I have to blurt that out?
 
-"I heard it too. What did you mean by that?"
+It must have slipped out because I had been thinking about that little dragon girl earlier….
 
-Damn it, why did I say that?
+“It’s just…”
 
-I had been thinking about Pen...
+I sighed.
 
-"Just..."
+“I wondered if having a family felt like this.”
 
-I sighed and answered.
+A simple, honest answer.
 
-"I was wondering what it would be like to have a family."
+After I said it, both of them fell completely silent.
 
-It was an honest answer.
+“…….”
 
-Erwen and Amelia didn't say anything.
+“…….”
 
-"..."
+Damn, this is getting awkward.
 
-"..."
+Just as I was about to change the subject, Erwin suddenly narrowed her eyes and broke the silence.
 
-The silence was awkward.
+“…Left wall.”
 
-I was about to change the subject when Erwen suddenly spoke, her eyes narrowed.
+Left wall?
 
-"...The left wall."
+What’s she talking about?
 
-The left wall?
+As I wondered, Amelia added an explanation.
 
-What was she talking about?
-
-"Someone's watching us."
-
-Amelia explained.
+“Someone’s watching us.”
 
 What?
 
-"Tersia, on theunt of three."
+“Tersia, count to three. Then we go.”
 
-"Okay."
+“Understood.”
 
-They didn't wait for my instructions.
+Before I could even process what was happening, the two of them silently counted and then shot off like arrows, heading toward the garden wall.
 
-Theyunted to three and then dashed towards the left wall.
+And then—
 
-And...
+“…Eh? Ehh?!”
 
-"...Eek?!"
+In an instant, they subdued the intruder and dragged them over like a trophy.
 
-They returned a few snds later, dragging someone with them.
+“…Should I call this a pleasant surprise or not?”
 
-"This is... an unexpected reunion."
+Amelia’s reaction was ambiguous.
 
-Amelia's tone was strange.
+And—
 
-"..."
+“…….”
 
-And Erwen's expression waslder than ever.
+Erwin’s expression was colder than ever.
 
-"Ahaha..."
+“Aha… ahaha….”
 
-The captive, pinned to the ground, looked at me and chuckled awkwardly.
+The captured intruder, lying face down on the ground, looked up at me with an awkward smile.
 
-"I-It's been a while... Bjorn... Ugh!"
+“H-Hey there… l-long time no see. Bjor… ugh!”
 
-She winced, as if she had bitten her tongue.
+She bit their tongue trying to say my name.
 
-"..."
+“…….”
 
-"..."
+“…….”
 
-"..."
+“…….”
 
 It was Misha.

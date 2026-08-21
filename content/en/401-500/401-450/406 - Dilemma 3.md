@@ -1,435 +1,433 @@
-# Dilemma 3
+Dilemma(3)
 
-The lottery ended, and those who had drawn lots with circles gathered together. They quickly performed the 'Bonding' spell and then headed towards the giant stele at the center of the chasm.
+After the draw, the winners gathered to ‘bind’ with each other. Then, they assembled and headed toward the towering monument at the center.
 
-Whooosh!
+Whoooom-!
 
-As I placed my hand on the stele, a portal opened, accompanied by a dazzling five-colored light.
+As I placed my hand on top, a portal opened with a radiant glow of five colors.
 
-"Hmm, this is fascinating. I can clearly feel the flow of mana, but the way it unfolds is clearly different from typical space-time magic."
+“Ho ho, fascinating. I can clearly feel the flow of magic, but there’s a definite difference from ordinary spatial magic.”
 
-"Is this your first time witnessing a portal opening?"
+“This is your first time witnessing a portal opening, isn’t it?”
 
-"Yes. Mages don't usually obsess over achievements."
+“Yes. Mages have no reason to chase after feats like that.”
 
-The team members exchanged words as they watched the portal open, and the swirling light soon took a distinct shape.
+While the team members made comments and watched the portal opening, the light spreading in all directions soon formed a distinct shape.
 
-「First to open the portal. EXP +2」
+「You have opened the portal for the first time. EXP +2」
 
-I always feel a bit cheated when opening an 8th-floor portal gives the same experience points as a 1st-floor one.
+Heh, I always think it’s a bit unfair that opening the 8th floor portal gives the same exp as opening the 1st floor portal.
 
-Whooosh!
+Whoooooong—!
 
-The five-colored light swirled into a sphere, and I turned around. Everyone was staring at me expectantly.
+The multicolored glow formed into a sphere and wavered.
 
-Right, I'm the one who opens it, and I'm the one who enters first.
+When I turned around, everyone was just staring at me silently.
 
-"Formation!"
+So, they want me to open it and be the first to go in as well?
 
-We formed our ranks, anticipating potential enemies on the other side, and I stepped into the portal.
+“Form up!”
 
-Flash!
+I set up a formation first, just in case there was someone on the other side of the portal, and stepped in.
 
-The world was engulfed in a white light.
+Flash—!
 
-My vision blurred for a moment, and then...
+A blinding white light spread before my eyes.
 
-「Entered the 8th-floor Dawn Land.」
+Soon, as if pieces were coming together, my sight cleared.
 
-Dawn Land.
+「You have entered the 8th floor, the Land of Dawn.」
 
-The 8th floor of the labyrinth, also known as Down Land in the game.
+The Land of Dawn.
+
+In the game, it was marked as “Dawn Land,” the deep layer of the labyrinth.
 
 「Achievement Unlocked」
 
-Condition: Reached 8th Floor.
+Condition: Reach the 8th floor.
 
-Reward: Soul Power permanently increased by +50.
+Reward: Permanently increase Soul Power by +50.
 
-I felt a surge of Soul Power as the achievement unlocked, similar to when I first entered the 5th-floor Great Magical Forest.
+Just like the time I first entered the 5th-floor Great Abyss, I felt a sensation as my soul expanded.
 
-Right, they called it 'Baptism' here.
+Come to think of it, they called this a “Baptism,” didn’t they?
 
-A blessing bestowed upon explorers by the Tower when they achieved a significant feat.
+A mysterious phenomenon where the tower grants blessings to explorers when they achieve certain tasks.
 
-Whooosh!
+Whoooong—!
 
-I scanned the area, and the other team members soon followed.
+As I was the first to enter and was scanning the surroundings, the team members followed behind.
 
-"No enemies."
+“There are… no enemies.”
 
-"That's a relief. I was worried they might be waiting for us, like in the 'Goblin Forest Battle'."
+“Good. I was a bit worried it’d be like the ‘Goblin Forest Battle’ where the enemy was lying in wait.”
 
-"I finally made it to the 8th floor."
+“Finally, I’ve made it to the 8th floor!”
 
-"This alone makes the expedition worth it."
+“Just getting here makes this expedition worth it.”
 
-About half of the members had received the Baptism. Well, excluding the mages and priests, it was actually more than half.
+About half of the team members had received the Baptism. No, actually, excluding the mages and priests, it’s more than half.
 
-They had reached the 'Deep Levels', after all.
+Well, starting from the 8th floor, it’s classified as a deep layer.
 
-"This is a strange place..."
+“This place is fascinating…”
 
-Erwen seemed to be experiencing the 8th floor for the first time.
+Looking at her, it seemed like Erwin was also experiencing the 8th floor for the first time.
 
-Amelia and Raviyen were probably the only ones with prior experience.
+The only ones with experience here would be Amelia or that Ravien over there?
 
-"Enemies or the 8th floor, I don't care! Let's eat!"
+“Forget enemies or the 8th floor or whatever, let’s eat already!”
 
-"Woohoo!"
+“Waaaaaaah!!”
 
-"I need healing first! Please heal me! My fingertip has gone numb!"
+“Me first, my wounds! Please, heal me quickly! It started festering noticeably yesterday, and now I can’t feel the tips of my fingers!”
 
-I gave the order to rest before a riot broke out.
+If we stayed on standby any longer, there seemed to be a risk of a riot, so I quickly gave the order to rest.
 
-The sleds were empty, but our subspace pockets were full.
+Though the food loaded on the sleds had run out, the ones in the subspace were intact
 
-Crunch, crunch, crunch.
+Chomp, chomp, chomp.
 
-Munch, munch, munch.
+Gobble, gobble, gobble.
 
-As soon as the order was given, the team members pulled out their food and devoured it.
+As soon as I gave the permission, the team members hurriedly took out food from their subspaces and stuffed it into their mouths.
 
-The explorer with a minor injury, who hadn't received healing yet, stuffed his mouth with jerky and looked for a paladin.
+Those who hadn’t received treatment for minor wounds chewed on jerky while looking for the priests.
 
-"Mister, let's eat."
+“Mister, let’s eat quickly too.”
 
-"Alright."
+“Alright.”
 
-I joined my teammates, and we enjoyed a feast.
+I was just as starving as them, so I quickly took out food and gathered with my team members to eat.
 
-"I've heard about it, but I never imagined it would be this peaceful."
+“I’d heard about it, but I didn’t know it was such a peaceful place.”
 
-"You're talking about the Dawn Land?"
+“You mean the Land of Dawn?”
 
-"Yes. It's called the Deep Levels, so I thought it would be much more dangerous..."
+“Yes. I thought it’d be much scarier, being part of the deep layer.”
 
-It wasn't a wrong assessment.
+Well, I understand their sentiments
 
-A lush green hill stood tall before us.
+A lush green hill stood tall, surrounded by an endless plain, with a warm breeze caressing our skin. Just moments ago, we were shivering in thick fur coats, so the change felt even more dramatic.
 
-Beyond the hill, a vast plain stretched out, and a warm breeze carried a pleasant scent.
+“You guys rest here. I’ll take a look around for a bit.”
 
-The change was even more drastic after shivering in thick fur coats just a few hours ago.
+After filling my stomach to some extent, I left the party.
 
-"You guys rest here. I'll go scout the area."
+A captain has things to do as a captain, right?
 
-I finished my meal and left my teammates.
+There’s no problem eating jerky while walking.
 
-A leader has his duties.
+Chomp, chomp.
 
-And I could eat while walking.
+I put five pieces of jerky in my mouth at once and chewed as I walked—a luxury I couldn’t even dream of just a few hours ago.
 
-Crunch, crunch.
+However, I couldn’t just be lost in simple happiness.
 
-I stuffed my mouth with five pieces of jerky and started exploring.
+The reason I couldn’t rest comfortably and was walking around was exactly because of that.
 
-It was a luxury I couldn't even dream of a few hours ago.
+‘Can’t see the rift…’
 
-But my heart was heavy.
+The 8th-floor Land of Dawn is a very small area.
 
-That's why I couldn't relax and enjoy the break.
+In terms of field size, it’s probably the smallest among all floors of the labyrinth.
 
-'I can't find the rift...'
+And monsters don’t appear.
 
-The 8th-floor Dawn Land was a very small area.
+At least until you enter the rift.
 
-It was probably the smallest field in the entire labyrinth.
+‘In this case… it’s reasonable to think someone went in first.’
 
-And there were no monsters here.
+The 8th floor always has one rift open.
 
-At least not until you entered the rift.
+What type opens is random, and when the rift is fully cleared, two portals open, and you have a choice.
 
-'Someone must have cleared it already...'
+Proceed to the 9th floor.
 
-There was always one rift open on the 8th floor.
+Or return to the 8th floor.
 
-The type was random, and after clearing it, two portals would open, giving you a choice.
+Whichever you choose, once it’s cleared, a new rift will regenerate on the 8th floor, and that cycle continues endlessly.
 
-To continue to the 9th floor.
+And here lies the problem…
 
-Or to return to the 8th floor.
+‘It’s clear that the ones who entered the rift are those Noark bastards…’
 
-Either way, once the rift was cleared, a new one would spawn, and the cycle would continue.
+I wonder if they’ll head to the 9th floor.
 
-And the problem was...
+Or will they return to the 8th floor and continue hunting in a different type of rift.
 
-'The ones who entered the rift are probably from Noark...'
+If it’s the latter, resting here right now is quite risky.
 
-Would they continue to the 9th floor?
+To be active on the 8th floor, they’d certainly be in an expedition unit, and their skills wouldn’t be worse than ours.
 
-Or would they return to the 8th floor and farm a different rift?
+‘Anyway, I can see why the royal family is in such a hurry…’
 
-If it was the latter, our current situation was quite dangerous.
+Coming to the 8th floor myself, I can feel it.
 
-They would be a large expedition force, strong enough to rival us.
+Due to the war two years ago, the royal family lost many high-ranking explorers.
 
-'Now I understand why the royal family is so desperate...'
+Of course, with countless policy support, supply of stored essences, and retired explorers returning, they’ve recovered some of their strength now, but…
 
-Being on the 8th floor myself, I could finally grasp the severity of the situation.
+‘At this rate, the gap will only widen.’
 
-The royal family had lost many high-level explorers in the war two years ago.
+Noark is practically using a cheat code.
 
-They had recovered some of their strength through various policies, support, and the return of retired explorers...
+Starting from the 7th floor on the first day of entry?
 
-'But the gap will only widen.'
+That means they can go straight up to the 8th floor and harvest the highest-grade essences.
 
-Noark had a cheat code.
+If this continues for a few more years, the gap between top explorers will exponentially widen.
 
-They could start on the 7th floor from day one.
+‘…Still, they can’t erase essences, so even if the essence grades are high, their combinations might be poor?’
 
-They could immediately access the 8th floor and farm high-grade essences.
+Well, most of them probably will be.
 
-The difference in strength between the top explorers would become exponential in a few years.
+I’ve never seen anyone who optimizes essence combinations to the extreme like I do.
 
-'...But they can't remove essences, so even if their essence grades are high, their combinations must be subpar, right?'
+Ninety percent will probably have haphazard specs.
 
-Well, that was probably true for most of them.
+But as always, there will be irregulars among them.
 
-After all, I had never seen anyone optimize their essence combinations as meticulously as I did.
+‘…Anyway, it’s not something to worry about right now.’
 
-90% of them would have haphazard builds.
+I tried to dismiss concerns about the distant future.
 
-But there would always be exceptions.
+Although I’m positioned under the royal family, it’s not like I’ll devote my life to the king.
 
-'...Well, that's not something I need to worry about now.'
+Once you’re in the labyrinth, it’s not enough to focus only on what’s right in front of you.
 
-I shook off my worries about the distant future.
+Yeah, so…
 
-I wasn't a royal loyalist who would sacrifice my life for the King.
+“Prepare to depart in five minutes!”
 
-When you're in the labyrinth, you focus on the present.
+I ended the much-needed rest.
 
-So...
+Since we’re about to enter deep into enemy territory, it’s not good to linger too long.
 
-"We're departing in five minutes! Get ready!"
+“Goodbye to this cursed sled at last!”
 
-It was time to end the precious break.
-
-We couldn't afford to relax for too long.
-
-"Finally saying goodbye to those damn sleds!"
-
-I stored the sleds and supply boxes in my subspace pocket and then distributed potions, scrolls, and other combat consumables to each team.
+The sled and supply crates went back into the subspace storage, while potions and scrolls, sealed until now, were distributed to each team.
 
 With that, we were ready to resume our journey.
 
-Click, click.
+Clink, clink.
 
-Everyone was in formation by the time it was time to leave.
+At the departure time, everyone lined up in formation.
 
-They were starting to look like an elite force.
+At first, they were like a ragtag army, but now they actually looked like an elite force.
 
-"Let's go!"
+“Move out!”
 
-We marched towards the portal, maintaining our formation.
+Now they look a bit elite.
 
-The journey to the Dark Continent was uneventful.
+“Let’s move out!”
 
-There were no monsters on the 8th floor, except for those in the rift. And the portal was close enough to see from the hill.
+The process of passing through the 8th floor to head to the Dark Continent wasn’t anything special.
 
-Thud, thud.
+Because unless you enter the rift, the 8th floor is a safe zone where monsters don’t appear, and the portal is visible from the hill anyway.
 
-We reached the portal after about 30 minutes.
+Plod, plod.
 
-"This is the gateway to the Dark Continent, right?"
+After walking for about 30 minutes, we arrived at our destination.
 
-Even up close, the portal looked normal.
+“Once we go through here, we’ll reach the Dark Continent, right?”
 
-It was a relief.
+I checked the portal with my naked eye from a distance, but even up close, the portal looked fine.
 
-If Noark had decided not to open the 8th-floor portal, we would have been stuck here.
+That was a good thing.
 
-'...Well, even if they hadn't opened it, someone would have eventually, because of the experience points.'
+If by any chance those Noark bastards hadn’t opened the 8th-floor portal and left it alone, we’d just have to sit here twiddling our thumbs.
 
-I led the way, maintaining our formation, and the other members followed, their expressions tense.
+“I figured someone would have to open it eventually for the EXP even if they weren’t hunting.”
 
-They were about to enter Noark's territory.
+As I headed toward the portal while maintaining formation, everyone swallowed nervously.
 
-"Schuitz."
+Since beyond that is Noark’s territory, they seemed to be getting nervous…
 
-Kaislan called out to me just as I was about to enter the portal.
+“Schuiz.”
 
-"Shouldn't you say something before we depart? Your words will boost morale."
+Just as I was about to step through, Kaislan spoke.
 
-Hmm, I don't really want to.
+“Why don’t you say a few words before we set off? Your words would surely boost the expedition’s morale.”
 
-It feels like a waste of time.
+Well, I don’t really feel like it.
 
-I showed my disinterest, and Kaislan quickly added,
+Feels like a waste of time.
 
-"Think about it! This is a historic moment! If this expedition succeeds, and if you play a crucial role in the victory... Your words will be recorded and remembered for generations to come!"
+Seeing my indifferent reaction, Kaislan got flustered and quickly added.
 
-Hmm, I don't know if this is a historic moment or not.
+“Now, think carefully. Isn’t this a historic moment? If this expedition succeeds and plays a crucial role in victory… Whatever you say will be recorded and remembered by future generations for a long time.”
 
-But judging by the way he's suppressing his burning ambition, he's clearly envious of me.
+Well, I don’t know if this is a historic moment.
 
-'If I don't say something, he'll keep whining about it...'
+Judging by the look in his eyes, desperately suppressing his burning desire for fame, I can tell he’s jealous of me to the point of going crazy.
 
-Alright, let's just get it over with.
+‘I feel like if I don’t do it, he’ll keep whining about regretting it…’
 
-"Ahem."
+Well, I guess it’s better to just do it quickly and move on.
 
-I cleared my throat, and Kaislan stood at attention, like a loyal guard.
+“Ahem, ahem.“
 
-"Listen up! We stand at a crossroads! Victory or defeat! Gain or loss! Doubt and fear may linger!"
+As I cleared my throat, Kaislan straightened his back like a royal guard and shouted in a solemn voice.
 
-"..."
+“Hear me, comrades! We now stand at a critical crossroads. Will we fail or succeed? Will we lose everything or gain it all? There may be those who are doubtful and anxious!”
 
-"But!"
+“…..”
 
-"..."
+“But!”
 
-"I, Melend Kaislan, have no doubt that we will be recorded in history as victors!"
+“…..”
 
-"Oooooh!"
+“I, Melend Kaislan, have no doubt that we will be recorded in history as victors!”
 
-Kaislan's team members cheered enthusiastically, while the other members looked indifferent.
+“Ooooooh!!”
 
-'Who is he to be giving a speech?'
+Kaislan’s team members enthusiastically cheered, while the other team members had indifferent expressions.
 
-That's what their expressions seemed to say.
+Who does he think he is, stepping up like that?
 
-Did he sense the mood?
+That was exactly the feeling.
 
-"And that's why!"
+Perhaps sensing the atmosphere instinctively?
 
-"...?"
+“In that sense!!”
 
-"Listen well! Before we embark on this great mission bestowed upon us by the King, Schuitz will address us!"
+“…..?”
 
-He passed the baton to me.
+“Everyone, listen well! Before we carry out the great mission entrusted by the royal family, Lord Schuiz has words to share!”
 
-What the hell, he gave a speech himself and then shoved the mic in my face?
+He passed the turn to me as quickly as lightning strikes.
 
-'...Is he that desperate to be recorded in history?'
+It was absurd.
 
-I couldn't understand his motives, but everyone has their own values.
+What the heck, he wants me to do it, but after saying everything he wants, he hands over the mic?
 
-I turned to face the team members, standing with my back to the portal.
+‘…Does he want to be recorded somehow, even like this?’
 
-Unlike when Kaislan was speaking, they were all looking at me with anticipation.
+I can’t understand his psychology, but well, everyone has different values they pursue.
 
-This is why American CEOs stir up controversy on social media.
+So, with the portal to the Dark Continent behind me, I addressed the team.
 
-People pay attention, even if it's out of worry or disgust.
+Unlike when Kaislan spoke, they seemed genuinely curious about what I’d say.
 
-Anyway, that wasn't important.
+Is this why American CEOs create such buzz on social media? People pay attention out of worry about what trouble they’ll cause.
 
-"Ahem..."
+Anyway, that’s not the important thing.
 
-I cleared my throat and looked around.
+“Ahem…“
 
-The faces of my teammates, familiar after weeks of hardship and shared meals.
+Clearing my throat once, I glanced around.
 
-And then I knew what to say.
+The faces of the team members, with whom I’d spent every day of the expedition, were now so familiar.
 
-"I won't make a long speech!"
+Maybe that’s why?
 
-Right, I already said that back then.
+Just then, I thought of something I wanted to say.
 
-About killing a lot and earning a lot.
+“I won’t speak at length this time either!”
 
-"Let's all come back alive!"
+Yeah.
 
-That's enough for today.
+I already once said that we should kill a lot and earn a lot.
 
----
+“Let’s come back with as many of us alive as possible!”
 
-「Entered the 7th-floor Dark Continent.」
+I think that’ll do for today.
 
----
+***
 
-The latter half of the Dark Continent, known as the Dragon's Lair.
+「You have entered the 7th floor, the Dark Continent.」
 
-Giant vertebrae were scattered around like ruins, and the ground was covered in skulls and bone fragments.
+***
 
-Clatter, clatter.
+The second half of the Dark Continent, the ‘Dragon’s Depths’ field.
 
-We marched forward, our footsteps muffled by the bones.
+Like walking into a museum, huge vertebrae were scattered around like ruins, and the plains were filled with skulls and bone fragments.
 
-"..."
+Crackle, crackle.
 
-There were no conversations.
+We moved forward, suppressing our presence as much as possible.
+
+“…..”
+
+There was no conversation among the team members.
+
+Crackle.
+
+There’s not even any light to illuminate the surroundings.
+
+Of course, that didn’t cause significant problems with visibility.
+
+Because we solved the darkness problem with magic.
+
+「Riard Ashid has cast the Level 5 support magic [Insight].」
+
+A Level 5 spell, impressive for support magic.
+
+Using this continuously would consume a lot of mana, but it couldn’t be helped.
+
+Aren’t we in the heart of enemy territory?
+
+We had to be as cautious as possible—
 
 Clatter.
 
-And no light to guide our way.
+Amelia, who was moving ahead of me exclusively on the 7th floor, suddenly stopped.
 
-But we could still see.
+And then…
 
-We had magic.
+Whirr, whirr.
 
-「Liard Ashid has cast the 5th-grade support spell [Insight].」
+She quickly moved her hands to send hand signals.
 
-It was a 5th-grade support spell.
+Meaning there are enemies nearby.
 
-Maintaining it constantly would drain a mage's mana quickly, but it was necessary.
+The leaders, who had been following behind, joined us at the front and immediately activated the “Voice Control” magic
 
-We were deep in enemy territory.
+“What’s the size of the enemy?”
 
-We had to be cautious.
+“Fifteen people.”
 
-Clatter.
+So, it’s a small clan unit.
 
-Amelia, who had been leading the way, suddenly stopped.
+Well, groups this size would have to stick together to survive in a place like this.
 
-And...
+“What’s the plan? Do we engage?”
 
-Whoosh, whoosh.
+“Of course! They threaten the kingdom—let’s strike them down!”
 
-She signaled with her hands.
+“I agree with Sir Kaislan. Glory aside, it’s safer to whittle down their numbers as we advance.”
 
-Enemies nearby.
+The leaders quickly agreed to ambush the detected enemies, and as captain, I saw no reason to object.
 
-The team leaders gathered at the front, and we activated the voice control magic, also known as team voice chat.
+I, too, had no objections as the leader.
 
-"How many?"
+But…
 
-"Fifteen."
+“Alright then, let’s attack quickly.”
 
-Hmm, that's a small clan.
+“Wait a moment. If we’re going to ambush them, let’s prepare a bit more. If the mages and support type concentrate their firepower all at once, we can make the battle much easier.”
 
-They would need at least that many to explore this area.
+“Oh, that’s true. Since it’s our first battle, we’ll take the lead.”
 
-"What's the plan? Fight?"
+What the hell are they talking about so seriously?
 
-"Of course! They're the enemy!"
+“Do you guys even know what an ambush is?”
 
-"I agree with Sir Kaislan. We should eliminate them. It's safer to reduce their numbers as we move."
+“……?”
 
-The team leaders quickly reached a consensus.
+As I threw cold water on their plans, the team leaders tilted their heads and looked at me.
 
-Ambush and eliminate.
+Well, they all seem like they’ve killed a lot of people.
 
-I agreed.
+I guess they’ve never tried initiating a raid first?
 
-But...
+“Forget about the mages or whatever; just wait.”
 
-"Alright, let's attack."
+“Wait? What are you planning to do?”
 
-"Wait. If we're going to ambush them, we need to prepare. The mages and ability users need time to charge their attacks."
+Isn’t it obvious?
 
-"Oh, you're right! We'll lead the charge."
+“When they’re fighting monsters, we’ll strike them from behind.”
 
-What are they talking about?
-
-"Do you guys not know what an ambush is?"
-
-"...?"
-
-I threw a bucket of cold water on their enthusiasm, and they looked at me, confused.
-
-They've killed plenty of people, but...
-
-Have they never ambushed anyone before?
-
-"Just wait."
-
-"Wait? What for?"
-
-I explained the basics.
-
-"We wait for them to engage with monsters, and then we attack from behind."
-
-That's how you PK.
+That’s the basics of PK (Player Killing).

@@ -1,278 +1,268 @@
-# Barbarian Revolution 2
+Barbarian Revolution (2)
 
 The Sanctuary Redevelopment Plan.
 
-I hadn't even sold the first plot of land yet, but I was already confident that this plan would be a success.
+Even though I hadn’t sold a single plot of land yet, I was already convinced this plan would succeed.
 
-After all, I was already getting inquiries.
+After all, there were already inquiries about purchasing.
 
-‘There’s no need for advertising. Word will spread throughout the tribe quickly…’
+‘There’s no need to advertise. Word will spread throughout the entire tribe in no time…’
 
-Okay, then all that’s left is to sell it?
+All right. Then all that’s left is to start selling, right?
 
-“Um… Bjorn?”
+“Uh… Bjorn?”
 
-“It’s Chieftain.”
+“It’s chief.”
 
-“Anyway, Chieftain! Why aren’t you selling the land right away? So many warriors want to buy it!”
+“Anyway, Chief! Why aren’t we selling the land right away? There are so many warriors who want to buy!”
 
 The reason was simple.
 
-“Even if there are many, it’s not enough compared to the amount of land available.”
+“Even if there are many interested buyers, it’s still nothing compared to the amount of land we can supply, right?”
 
-“So we should sell it quickly!”
+“So doesn’t that mean we should hurry and sell it all now?”
 
-I was glad that Ainar had gained a merchant’s mindset, but unfortunately, she was missing the bigger picture.
+I was pleased that Aynar had finally acquired some business sense, but unfortunately, she only understood half of the picture.
 
-How many would buy it now?
+If we sold now, how many would actually buy?
 
-They didn’t have any money saved up, so the actual sales would be low.
-
-So…
-
-“Tell the warriors who want to buy land to come back on the 5th of next month. That’s when I’ll start selling.”
-
-The launch date was set for the 5th of next month.
-
-The day after the labyrinth closed, when the barbarians had the most money.
-
-I would decide how much to sell based on the number of buyers.
-
-If 100 people came, would selling to 30 be appropriate?
-
-But Ainar just tilted her head in confusion.
-
-“Huh? You’re not going to sell it to everyone? Why?”
-
-I patiently explained it to her, as if I was training the 1st Elder.
-
-“First, we don’t have enough manpower to handle that many sales.”
-
-“Oh…?”
-
-“Second, it won’t increase the price.”
-
-The concept of real estate hadn’t been properly established in the warriors’ minds yet.
+They haven’t even saved up much money, so the number of actual sales would be even smaller.
 
 So…
 
-“…What do you mean by ‘it won’t increase the price’?”
+“If a warrior wants to buy land, tell them to come back on the 5th of next month. That’s when we’ll start selling.”
 
-“Think about it. If 30 warriors buy the land that 100 warriors want, what do you think the remaining 70 will do?”
+A time when the barbarians have the most money, right after coming out of the labyrinth. I’ll decide how much to sell the land for based on how many people show up.
+
+If a hundred come, maybe selling to around thirty would be reasonable?
+
+However, upon hearing this, Aynar tilted her head.
+
+“Huh? You’re not selling to everyone? Why?”
+
+Feeling as though I were training the tribe’s future elder, I kindly explained.
+
+“First, we don’t have enough personnel who can handle administrative tasks, so we can’t sell to that many people.”
+
+Oh…?”
+
+“Second, if we sell that much all at once, it’ll never become expensive.”
+
+At this point, the concept of real estate hadn’t fully taken hold in these warriors’ minds.
+
+Therefore…
+
+“…Not expensive? What do you mean?”
+
+“Think about it. Suppose a hundred warriors want a piece of land, but only thirty succeed in buying it. What do you think the other seventy will do?”
 
 “…Wait for the next sale?”
 
-“Of course, some will. But others will offer to buy the land from the initial buyers at a higher price.”
+“Sure, some will wait, but undoubtedly, there will be those who offer more to buy the land from those who already bought.”
 
-“Hmm! That’s true! Some warriors will have more money later…”
+“Mm! That does sound plausible! Some warriors might not have money now but will have some later…”
 
-Wow, she’s getting the hang of this.
+Impressive—she really was starting to catch on.
 
-I continued, hiding my admiration.
+I marveled a little on the inside as I continued speaking.
 
-This was the key to the redevelopment plan.
+“Anyway, the land sold this way will end up costing more than what we sold it for. Isn’t it the same with weapons? The popular ones take a long time to order and are expensive.”
 
-“Anyway, the resale value of the land will be higher than the initial price. Popular weapons are also more expensive and have longer waiting lists, right?” ꭆΑꞐоΒÈš
+“Oh! So, the warrior who first buys the land will essentially be making money sitting down?”
 
-“Oh! So the warriors who buy the land first will earn money without even doing anything?”
+Aynar finally grasped the truth.
 
-Ainar had finally reached enlightenment.
+“Yes, that is the point. The news that someone made a fortune just by holding on to their land will spread right away to other warriors.”
 
-“That’s right. And that’s the important part. The news will spread throughout the tribe.”
+Land for descendants? The value of the land? Saving on rent?
 
-Passing down land to your descendants? The value of land? Saving on lodging costs?
+In the end, those are just excuses.
 
-Those were just excuses.
+What truly matters is creating a rock-solid belief that if you buy land, you make a profit.
 
-The important thing was to create a firm belief that buying land was profitable.
+Soon enough, Aynar muttered in a trembling voice.
 
-Ainar’s voice trembled with excitement.
+“The warriors… they’ll swarm in like crazy. Even the ones who said they had no reason to buy land…”
 
-“The warriors… they’ll go crazy. Even those who dismissed it as useless…”
+“Right. They’ll show up with every last coin they saved, because just buying it means they’ll make money.”
 
-“Yes, they’ll come with all their money. Because they know they can make a profit just by buying it.”
+It’s like a money-copying bug.
 
-It was a money duplication glitch.
-
-It was the same with the Backpack Revolution that started with Charon. Barbarians loved money, despite their claims of valuing honor and glory.
+Wasn’t it the same during the backpack revolution started by Caron? Despite all the talk of a warrior’s honor, Barbarians also love money.
 
 And…
 
-‘It’s better to sell it through a lottery at first, instead of an auction.’
+‘Yeah, in the early stages, it’s better to sell to only a few people by lottery instead of auctioning it off.’
 
-I had no intention of fixing this glitch.
+I have no intention of stopping this money duplication bug.
 
-Even if the bubble eventually burst, this was the most efficient way to boost the tribe’s growth in the short term.
+Even if the bubble bursts later showing the true value, this is the most efficient way to grow the tribe in the short term.
 
-‘…As long as I prevent them from taking out loans, it should be fine. We’ll have other sources of income by then.’
+‘…As long as we prevent things like mortgages, we should be fine. By then, we’ll have other sources of income.’
 
-I was actually more worried about the near future than the distant future.
+I was more worried about the near future than the distant one.
 
-After all, a ‘barbarian’ creating the concept of real estate was unprecedented.
+After all, the concept of ‘Barbarian’ real estate was still somewhat foreign.
 
-It would definitely attract attention.
+It was sure to stand out.
 
-But I made my decision.
+‘At this point, it won’t make a difference if I stand out a bit more, and it’s best to grow the tribe first.’
 
-‘It doesn’t matter if I attract a bit more attention. I need to focus on growing the tribe first.’
+Besides, we’re not even the first to deal in real estate.
 
-And besides, we weren’t the first ones to do this.
+Dwarves and beast-tribes had already mostly sold their holy lands to boost their economies. Normally, people would think I’m just following other races.
 
-The dwarves and the beastmen had already sold most of their land to boost their economies. So people would just assume I was copying them.
+‘Sigh… I better start looking for office workers.’
 
-‘Phew… I should start looking for a clerk.’
-
-I had a lot to do if I wanted to give the young warriors proper shoes.
+There was much to do if we were to get young warriors fully equipped.
 
 ---
 
-The day I introduced real estate to the warriors,
+On the day I first introduced the warriors to real estate:
 
-I returned to the city after finishing my work.
+Around lunchtime, I wrapped up my tasks and headed into the city.
 
-And I immediately went to a meeting.
+And I immediately set up a meeting.
 
-“It’s been a while, Shabin Emure.”
+“It’s been a while, Shabin Emoor.”
 
-She was home, as expected.
+As expected, he was home.
 
-“…Huh? B-Bjorn…?”
+“…Oh? B-Bjorn…?”
 
-She was surprised to see me, but she welcomed me into her house.
+She was surprised that I had turned up to her door unannounced, but she was happy to see me and let me in.
 
-“Sorry for the sudden visit. I’ve been busy lately.”
+“I’m sorry. I meant to visit sooner. It’s just been so busy.”I spoke first
 
-“No, no! It’s fine. I just… didn’t expect you to come see me…”
+“No! Don’t be. I… didn’t expect you to come looking for me…”
 
-“Of course I would. We’re friends.”
+“I had to come. After all, we’re friends.”
 
 “Ah…”
 
-“And I have a proposition for you. Or rather, a favor to ask.”
+“And I have a proposal, or should I say a favor to ask?”
 
-Her eyes lit up at the word ‘friend’, but then she tensed up.
+Shabin’s eyes shone with emotion when I called us friends, but at my next words, she looked tense.
 
-“A favor…?”
+“A… favor?”
 
-“I heard you lost your job. Can you help me out?”
+“I heard you lost your job. Would you mind helping me out?”
 
 “…?”
 
-“Or if you know anyone who’s looking for a job, recommend them to me. I need someone to handle administrative tasks. Someone trustworthy.”
+“Or you could recommend some people you know. I need workers who can handle administrative tasks, ideally those I can trust.”
 
-“…So you really did come here because you need a clerk.”
+“… … It seems like you came here because you really need someone in this field.”
 
-“You were the first person I thought of. I don’t know anyone else in this field. This is where friends come in handy.”
+“You were the first suitable person I thought of. After all, I don’t know many people in this field. It’s times like these you rely on friends.”
 
-She thought for a moment and then readily agreed.
+At my casual words, Shabin seemed to consider for a moment, then readily agreed.
 
-“Okay. I’ll do it, as long as you pay me the same as my previous job. And I’ll bring a few of my colleagues with me.”
+“All right. If you can pay me what I earned at my previous job, I’ll join you. Plus, I’ll bring along a few suitable folks.”
 
-“How much did you earn at the administrative office?”
+“How much did you make at the administrative office?”
 
-She told me her salary, and it was lower than I expected. I negotiated a higher salary and finalized the deal.
+Shabin cautiously mentioned her previous salary, and since it was less than I expected, I offered a bit more and finalized the salary negotiation.
 
-“That’s unexpected. I thought you would refuse.”
+“But this is unexpected? I didn’t think you’d agree so quickly.” I asked her
 
-“Well… I was already looking for a job.”
+“Well… I was just starting to look for a job.”
 
-“Really? That’s good to hear. Ragna said you rejected her offer.”
+“Is that so? That’s good. I was worried since you had outright refused Ragna’s offer.”
 
-“You seem like you really need me. Unlike her, who just wanted to help.”
+“I felt like you really needed me, unlike that child, who just wanted to help me.”
 
-“You didn’t want to be indebted to her.”
+“You didn’t want to owe a debt between friends, huh.”
 
-“…Hehe, you could say that. So you’ve already met her?”
+“…Heh, well, you could say that. By the way, you’ve already met with that kid?”
 
-“How else would I know where you live? Ah, of course, our meeting is a secret.”
+“How else would I have found your place? Oh, of course, my meeting with Ragna is a secret.’
 
-“A secret… This noble society is really something else…”
+“Off the record,’ huh… Hearing phrases like that really drives me home to that whole noble world.”
 
-She seemed genuinely impressed, and then she offered me a drink. We chatted for about an hour over tea.
+Shabin spat out an exclamation with truly innocent eyes and asked if I wanted something to drink, after which we chatted for about an hour over tea.
 
-And…
+Then…
 
-“I should be going now. I have a lot to do before the expedition.”
+“It’s time for me to go. I have several things to do before the exploration.”
 
-“Okay! I’ll talk to my colleagues and then come to work by myself. Where should I go?”
+“Alright! I’ll talk to my colleagues by the day after tomorrow, and then I’ll start work alone if necessary. Oh, where should I go?”
 
-“I’ll pick you up in three days.”
+“Three days from now, I’ll come here in the morning.”
 
-“Huh? Pick me up? That’s not necessary…”
+“Huh? You’ll pick me up? I appreciate it, but there’s no need for that…”
 
-It was necessary.
+No need? There is a need.
 
-Humans couldn’t enter the sanctuary without permission. I was planning to take her there and issue her a pass.
+Humans can’t enter our sanctuary without permission. I planned to take him that day and get everything like entry passes sorted out.
 
-“Anyway, I’ll see you then.”
+“Anyway, see you then.”
 
-“Okay, take care.”
+“Take care on your way back.”
 
-I left her house and headed straight to the dwarf’s forge.
+After leaving Shabin Emoor’s house, I immediately headed to the dwarf’s forge. I hadn’t made an appointment this time either, but fortunately, there was no problem meeting the dwarf.
 
-I hadn’t made an appointment this time either, but thankfully, he was there.
+“Bjorn! What brings you here today?”
 
-“Bjorn! What brings you here?”
+As expected, he was working again today.
 
-He was working, as expected.
+“I need some gear repaired, and I also brought that ‘thing’ we talked about a few days ago.”
 
-“I need to get my equipment repaired, and I wanted to show you something.”
-
-“I see. Give me the equipment first. I need to finish all the repairs before the expedition.”
+“I see. Hand over the gear first. You’ll want it all fixed before your expedition, won’t you?”
 
 “Right.”
 
-I handed him my damaged equipment and waited in the lobby. He then led me to the attic on the 2nd floor.
+After leaving the damaged equipment from the recent skirmish with the tribe chief, I waited briefly in the front hall of his shop, then the dwarf guided me up to a small attic on the second floor.
 
-“I usually use this place for storing documents and doing paperwork… It might be a bit cramped for you.”
+“I usually do paperwork and manage orders up here, but it might be a bit cramped for you.”
 
-“It’s fine. I can just crawl around.”
+“It’s fine. I can crawl around if I have to.”
 
-“It’s not that bad…”
+“It’s not that low, but still…”
 
-“Just let me lie down.”
+“So forgive me for talking while lying down.”
 
-The ceiling was low, barely over 1.5 meters even in the center, so I just lay down on the floor. He sighed and sat down on a dwarf-sized sofa.
+Even in the highest part of the attic, the ceiling was barely over a meter and a half. I just sprawled on the floor. The dwarf sighed and plopped onto a dwarf-sized sofa.
 
-“So what’s the item?”
+“So where’s this merchandise you mentioned?”
 
-“Ah, here it is.”
+“Right here.”
 
-I took out a chest from my subspace pocket, and he gulped, his eyes widening as he examined the contents.
+I pulled out a chest from my sub- space. The dwarf swallowed hard and began appraising it.
 
-“Where did you get this?”
+“Where in the world did you get all this stuff?”
 
-“You’re better off not knowing.”
+“It’s better you don’t know.”
 
-“…R-right. I shouldn’t have asked.”
+“…R-right? I was being nosy.”
 
-He was trembling with anticipation as he examined the equipment of the Noark explorers.
+The dwarf swallowed nervously as he examined the Noark explorer’s gear one by one.
 
-It wasn’t fear or anxiety, but excitement.
+Well, he is a blacksmith, after all.
 
-He was a blacksmith, after all.
+From ‘Numbered’ items to gear made of at least Tier 3 materials, the attic was now piled high with equipment guaranteed to dazzle anyone.
 
-The attic was filled with 3rd-grade equipment and Numbered Items.
+And according to the contract we signed a few days ago, a whole five percent of the proceeds would be his.
 
-And he was getting a 5% cut of the profits.
+“Take as long as you need, but please dispose of them quietly.”
 
-“Take your time selling it. I want you to be discreet.”
+“Y-yeah… Right, of course…”
 
-“Ah, y-yes… I will. I have to…”
+His eyes were spinning; but he wasn’t really listening.
 
-He was so excited that he couldn’t even hear me properly.
+Thinking it was the right time, I took out yet another chest.
 
-I decided it was the perfect time to reveal the rest.
+“Oh, so there’s even more?!”
 
-“Oh, there’s more?!”
+“I’m not selling these. I want to have them transformed into new equipment. For now, I’d like the dagger melted down into gold ingots, and the leather cut to make raw material. But—”
 
-“I’m not selling this. I want you to reforge it into new equipment. Melt down the daggers and turn the leather into fabric.”
+“That’s no problem. But what are they, exactly?”
 
-“That’s easy. But why?”
+Curious, the dwarf opened the new chest.
 
-He opened the other chest, his eyes widening.
+And…
 
-“…Ogre leather is one thing, but this is… Mithril? 90% of the Mithril in circulation is supplied to the royal family, where did you get this?”
+“…Ogre hide is one thing, but this… Mistium? Ninety percent of what’s on the market is said to be supplied to the royal family. This stuff is so rare—where in the world did you get it?”
 
 Ah, that.
 
@@ -280,186 +270,181 @@ Ah, that.
 
 “…Huh?”
 
-I wiggled my finger, and he reexamined the Mithril daggers, his eyes widening in realization.
+Still sprawled on the floor, I casually moved my fingertips. The dwarf gave the Mistium dagger another careful inspection, and, realizing the source, he let out a shriek.
 
-“Th-th-th-th-th-this is…!!!”
+“Th-this, th-th-this…!!!”
 
-“Keep your voice down. Someone might hear us.”
+“Keep it down. Someone might hear.”
 
-“…………It’s the Rose Knights’ equipment!!”
+“…It’s the Rose Knights’ gear!!”
 
-He whispered, his voice trembling, and then he quickly closed the chest.
+.He practically whispered the words at the lowest volume he could manage, then immediately shoved the dagger and armor back into the chest, worried someone might see.
 
-“B-Bjorn! This is insane! Where did you get this?! It’s dangerous…!”
+“B-Bjorn! Th-this is madness. I don’t know where you got it… but this is really dangerous…!”
 
-His concern was genuine.
+His trembling voice carried genuine concern.
+I, on the other hand, answered calmly.
 
-But I just shrugged.
+“Weren’t you already prepared for stolen goods?”
 
-“You knew I might have stolen goods, didn’t you?”
+“I was, but I never expected there’d be anything linked to the royal family!”
 
-“Yes, but I didn’t expect you to have something related to the royal family!”
+“So are you going to back out?”
 
-“So you’re refusing?”
+When I asked him outright, he couldn’t answer.
 
-He couldn’t answer.
+“U-uh…”
 
-“Uh, uh…”
+He simply trailed off, glancing furtively at the items.
+Regret was written all over his face.
 
-He just looked at the equipment with a conflicted expression.
+“If you really want to refuse, forget everything you’ve seen today. We’ll just burn that contract we wrote up a few days ago.”
 
-He was clearly tempted.
+I reached for the chest, but the dwarf smacked my arm.
 
-“If you’re refusing, forget everything you saw today. We’ll burn the contract too.”
+“…I never said I wouldn’t do it.”
 
-I reached for the chest, and he slapped my arm.
+“Huh? Just now you called this insane.”
 
-“…I didn’t say I wouldn’t do it.”
-
-“Hmm? You said it was insane.”
-
-“I still think it’s insane, but… as long as we don’t get caught, it’s fine!”
-
-He was a good business partner.
+The dwarf was a good business partner after all.
 
 ---
 
-July 28th, 157th year of the New Era.
+Year 157 of the New Era, July 28th.
 
-Two days before the next labyrinth expedition. It had been a busy month.
+In other words, only two days remained until the labyrinth opened.
 
-But I still had one more thing to do.
+A truly busy month was drawing to a close.
 
-“You’re here!”
+Yet, there was still work for me to do.
 
-I went to pick up Shabin Emure early in the morning.
+“You’ve arrived!”
 
-It was her first day at work.
+I went to pick up Shabin Emoor from her house first thing in the morning.
 
-I had expected her to be alone, but there were three other people at her house.
+After all, today was her first day at work.
 
-“Who are they?”
+I thought she would be alone, but there were three other men and women at Shabin’s place.
 
-“They’re my colleagues from the administrative office. You said you needed more people, right?”
+“Who are these?”
 
-“Uh, yes, but… this quickly?”
+“Colleagues from the administration office. You said more people would be better, didn’t you?”
 
-“Our faction lost the election for the Director position, so we were all fired.”
+“Oh, that’s true… but so quickly?”
 
-Hmm, I didn’t know about that.
+“Our division was laid off after our department head lost in the election.”
 
-“You managed to find three people in that short amount of time.”
+Hmm, I hadn’t expected that.
 
-“It wasn’t difficult. You’re the Giant of the Labyrinth, Baron Yandel! They all see this as a great opportunity.”
+“Still, you managed to find them so quickly.”
+
+“It wasn’t hard. Bjorn Jandel’s clan is the talk of the town, you know? Everyone saw it as an opportunity.”
 
 “…Clan?”
 
-I felt a sense of dissonance, but I couldn’t ask any further questions because they were greeting me.
+Something felt a bit off, but before I could ask further, the three people Shabin had brought introduced themselves.
 
-“Ah, hello! Baron Yandel! I’m Rick Anderson, from the Civil Engineering Department of the administrative office.”
+“H-hello, Baron Jandel! I’m Rick Anderson, formerly of the administrative office’s civil engineering department.”
 
-“Mary Jayne… I worked in the Civilian Support Department with Emure.”
+“I’m Mary Jane and I worked in the same support division as Emoor.”
 
-“Shepherd Lambden. It’s an honor to meet you.”
+“Shepherd Ramden here. It’s an honor to meet you.”
 
-Thankfully, there was no Hans among them.
+At least there was no Hans among them.
 
-“I’m Bjorn, son of Yandel. It’s nice to meet you all.”
+“I am Bjorn, son of Jandel. I look forward to working with you.”
 
-I introduced myself briefly, and then we headed towards the military transfer station in a carriage.
+After a brief introduction, we continued our conversation while riding a carriage from the station.
 
-“Wow… I’ve never been in the noble section before.”
+“Wow… It’s my first time in a noble’s carriage.”
 
-“I didn’t even know there was a separate section for nobles.”
+“I… didn’t even know there was a separate noble carriage at the station.”
 
-“Well, commoners aren’t allowed to use it.”
+“Well, that makes sense. Commoners can’t even use it.”
 
-“…It’s so convenient. They’re always waiting and take you to your destination immediately.”
+“…It’s so convenient that it’s always ready and takes you directly to your destination.”
 
-“Hehe, you can enjoy this too once you become nobles.”
+“Heh, you too could enjoy this if you were nobles like me.”
 
-“Don’t joke… How could we…”
+“Ah, you’re joking… How could we…”
 
-The atmosphere was quite pleasant.
+The atmosphere was quite friendly.
 
-“Anderson, you said you worked in the Civil Engineering Department?”
+“Anderson. You said you worked in Civil Engineering?”
 
-“Yes, sir!”
+“Yes! That’s right, Lord!”
 
-“What kind of work did you do?”
+“What exactly did you do there?”
 
-I asked the new recruits about their work experience, and we chatted idly as we rode the carriage.
+I fired various questions at the first-time administrative staff, sometimes answering theirs in turn, and the conversation continued.
 
-And after a while…
+Some time passed.
 
-“The carriage is heading towards the outskirts…”
+“Um… the carriage is going toward the outskirts?”
 
-Shabin Emure looked out the window and spoke.
+Shabin Emoor, looking out the window, voiced her suspicion.
 
-“Is the clan house near the walls?”
+“Maybe the clan house is located by the outer wall?”
 
 “Clan house? What are you talking about?”
 
-“…Huh? You said you created a clan. And that you needed clerks…”
+“…Wait, you said you were forming a new clan. Don’t you need office workers for that…?”
 
-I finally realized where the misunderstanding had started.
+Only then did I realize where our conversation had gone off track.
 
-‘That’s why she didn’t ask about the job description…’
+‘No wonder they never asked about their actual duties.’
 
-I quickly corrected her.
+I quickly cleared up the misunderstanding.
 
-“Shabin Emure, you’re not working for a clan.”
+“Shabin Emoor, the place you’ll be working isn’t a clan.”
 
-“Huh? Then where…?”
+“Huh? Then what is it…?”
 
-“The barbarian sanctuary.”
+“The Barbarian Sanctuary.”
 
-“………………What?”
+“…Pardon?”
 
-She tilted her head, as if she had misheard me, and the carriage came to a halt.
+Shabin Emoor tilted her head as if she’d misheard, and just then, the carriage came to a stop at our destination.
 
-“Let’s get out.”
+“Let’s get off for now.”
 
-I opened the door and stepped out, and the clerks followed me, their expressions dumbfounded.
+I stepped out first, followed by the flustered administrative staff.
 
-“…….”
+“…”
 
-They stared at the towering wall in front of them, speechless.
+“…”
 
-Well, they’ve probably never been here before.
+They stared, speechless, at the city wall looming before them.
+Well, they’d hardly have had reason to come here before.
 
-“Behel—laaaaaaaaaa!!”
+“Bethel—raaaaaaaa!!”
 
-I let out a war cry, and the gate opened.
+With a loud battle cry for identification, the gate opened. I guided them through, while they followed in a daze.
 
-I led the stunned clerks inside.
+The warriors inside spotted me and greeted me from all around.
 
-The warriors who saw me greeted me.
+“Humans! Humans are here! The chief has brought humans!”
 
-“Humans! Humans! The chieftain brought humans!”
-
-“Ooooooh!!”
+“Ooooooooh!”
 
 “Two men and two women!!”
 
-The clerks clung to me, trembling with fear, as if they had just entered a cannibal’s den.
+Looking like they’d walked straight into a cannibal’s den, the admin staff huddled behind me, trembling.
 
-“…….”
+“…”
 
-“…….”
+Only when we reached the chief’s private tent after a long walk through the forest did they regain their composure. One of the administrative staff that Shabin had brought along asked me, swallowing hard.
 
-They only regained their composure when we reached the chieftain’s tent after a long walk through the forest. Shabin Emure, who had brought the clerks, asked me,
-
-“S-so… what are we supposed to do now?”
+“So… what do we do now?”
 
 His name was Rick Anderson.
 
-A 6th-grade clerk from the Civil Engineering Department of the administrative office.
+A level 6 officer who had worked in the Civil Engineering division of the administration office.
 
-He might be the ace of our redevelopment plan.
+He might turn out to be the ace of this redevelopment project.
 
-I looked at him and answered,
+I looked at him and answered briefly.
 
-“Everything that involves numbers.”
+“Anything that involves numbers.”
 
 Including selling land, of course.

@@ -1,554 +1,532 @@
-# Pilgrim 5
+Pilgrim (5)
 
-“It’s a pilgrim! Stop him—!”
+“Pilgrims, hurry and block—!”
 
-Crack!
+Crash!
 
-I dashed through the passage, crushing the skulls of any Imperial soldiers that appeared. My stats continued to increase with every five kills, but it wasn’t making much of a difference in this situation.
+I run down the passage, smashing the heads of any Imperial soldiers that appear in my path.
 
-‘At this rate, I should arrive within an hour…’
+My stats still go up a bit for every five I kill, but at this point the increase doesn’t feel too noticeable.
 
-I ran with all my might, but my mind was still in turmoil.
+Anyway, at this speed, I should arrive in about an hour…
 
-“Bjorn… when is Erwen coming back?”
+Even though I’m rushing forward with all my might, my restless mind shows no sign of calming down.
 
-Even Ainar was worried, so I could only imagine how I felt.
+“Bjorn… when on earth is Erwin coming?”
 
-“…….”
+If even Aynar is this worried, I don’t need to mention how I feel.
 
-Had something happened to her?
+“……”
 
-Was she injured? Or worse…
+Did something happen?
 
-My heart ached with worry.
+Could she be hurt, or… worse?
 
-But there was nothing I could do.
+I’m so anxious it’s eating me up inside.
 
-I just had to trust that she would return, and keep running.
+But there’s nothing I can do right now.
 
-「Character has slain four hundred and five Imperial soldiers.」
+All I can do is trust that Erwin will arrive and keep running forward.
 
-「All stats increased by +1.」
+「The character has defeated 405 imperial soldiers.」
 
-「Character has slain four hundred and ten Imperial soldiers.」
+「All stats have increased by +1.」
 
-「All stats increased by +1.」
+「The character has defeated 410 imperial soldiers.」
 
-「Character has slain four hundred and fifteen Imperial soldiers.」
+「All stats have increased by +1.」
 
-「All stats increased by +1…」
+「The character has defeated 415 imperial soldiers…」
 
-「….」
+「……」
 
-Time passed.
+And so, time continued to pass.
 
-‘30 minutes.’
+Thirty minutes.
 
-The estimated arrival time kept decreasing, and my worry for Erwen grew.
-
-And then…
+As the estimated time of Erwin’s arrival got closer, my worries grew.
 
 Thud.
 
-I stopped running.
+Without having stopped once until now, I suddenly came to a stop.
 
-“I told you, pilgrim.”
+“I warned you, Pilgrim.”
 
-“…….”
+“……”
 
-“There’s only one way for you to escape this cave alive.”
+“There’s only one way for you to leave this cave alive.”
 
-He was standing in front of us, blocking our path.
+The bastard was blocking our path.
 
 ---
 
-There was something I didn’t understand.
+There’s one thing I don’t understand.
 
-He hadn’t been chasing us from behind. How had he managed to get in front of us?
+He didn’t chase us from behind—so how did he get here ahead of us?
 
-We had even increased our speed with the stat boosts.
+And our stats have increased, which means our movement speed should be even faster.
 
-‘…He caught up to us?’
+Did… he catch up to us somehow?
 
-It didn’t make sense.
+A feeling of unease crept up on me.
 
-But I had more pressing matters to attend to.
+But, there were more urgent matters to address than resolving my doubts.
 
-“Ainar, get ready to fight.”
+“Aynar, get ready to fight.”
 
-Ainar nodded and gently placed Bersil’s body on the ground.
+As soon as I issued the command, Aynar carefully placed down versil’s body she had been carrying.
 
-“…Rest in peace, mage.”
+“…Rest for a while, mage.”
 
-Dreadfear smirked at us.
+The Dreadfear bastard, who had been watching us, mocked us coldly.
 
 “Fools.”
 
-What? I hadn’t run away because I thought I could win.
+What’s he talking about? The reason we are not running the moment we saw him was because I thought we could take him on.
 
-‘I have a chance with my current stats.’
+‘With my current stats, it’s definitely possible.’
 
-I lowered my stance, my shield raised.
+I raised my shield to cover my upper body and lowered my stance.
 
-It was a meaningless gesture.
+Well, it’s just a habit. In front of a knight who can use aura, what good would a cheap iron shield do?
 
-A cheap iron shield wouldn’t protect me from his Aura-enhanced blade.
+“……”
 
-“…….”
+After a moment of silence in the standoff.
 
-A tense silence followed.
+“The offer is still valid,” he muttered abruptly.
 
-And then he spoke.
+Is this guy really insane?
 
-“My offer still stands.”
+I can’t believe he’s still hung up on that.
 
-Was he insane?
+However, since he seemed open to conversation, I decided to take the opportunity.
 
-He was still obsessed with that ridiculous idea.
+“…What happened to Erwin?”
 
-But he seemed willing to talk, so I took the opportunity to ask a question that had been bothering me.
+The question and anxiety I had been carrying in my chest for hours while running.
 
-“…What happened to Erwen?”
+He answered briefly.
 
-It was a question I had been carrying in my heart for hours.
-
-He answered curtly,
-
-“That female pilgrim is dead.”
+“That female pilgrim? She’s dead.”
 
 “Bullshit.”
 
-“You refuse to listen to your inner voice.”
+“You’re ignoring the voice within.”
 
-Damn it, I shouldn’t have asked.
+Ugh, I shouldn’t have asked.
 
-He was a boss monster obsessed with betrayal. I couldn't trust his words.
+Given the boss mob’s betrayer concept, it would be foolish to take his words at face value.
 
-“Faith cannot change the truth. No matter how righteous you believe yourselves to be, you are nothing but filthy traitors—”
+“Faith can never change the truth. No matter how much you believe in justice, you’re nothing but filthy traitors.”
 
-I didn't need to hear any more.
+There was no need to listen any further.
 
-“Ainar!”
+“Aynar!”
 
-I shouted and charged forward.
+I shouted the signal and dashed forward.
 
-As soon as I closed the distance, he drew his sword and attacked.
-
-Therefore…
-
-Ttadat.
-
-I dodged, stepping back before entering his attack range.
-
-Ainar took advantage of the opening and charged at him.
-
-And…
-
-“Behel—laaaaaaaaaa!!”
-
-She swung her greatsword down with all her might.
-
-He dodged, twisting his body to the side.
-
-Kwang!
-
-Her sword slammed into the ground.
-
-But it wasn't a complete failure.
-
-Hit and run.
-
-Disrupt his stance and create an opening.
-
-That was the essence of close combat.
-
-Ttadat.
-
-As he dodged Ainar's attack, I threw my shield at his face.
-
-It wouldn't do much damage... but it would momentarily blind him.
-
-Ttadat.
-
-I took advantage of the opening and swung my mace.
-
-But he reacted.
-
-“……!”
-
-He blocked my attack with his sword.
-
-If our weapons collided, my mace would be shattered.
+As soon as the distance closed, he unleashed his aura and counterattacked.
 
 So…
 
-I twisted my body and changed the trajectory of my attack.
+Tap.
 
-Whoosh!
+I backstepped before entering his range.
 
-My mace missed him, slicing through the air.
+Taking advantage of the opening when he swung his sword at me, Aynar closed the distance further.
 
-And at that moment...
+And then…
 
-Puk-!
+“Bethel—Raaaaah!!”
 
-Ainar's greatsword pierced his shoulder.
+As she swung her sword down with the force of a mountain, the bastard twisted his body to the side.
 
-'Okay, we've scored the first hit.'
+Crash!
 
-But I wasn't satisfied.
+The sword missed its target and hit the ground.
 
-There was no reason to retreat now.
+But it was too early to call it a failed attack.
 
-Battle was a game of numbers.
+Strike and retreat, break the enemy’s stance and stab into the larger gap – that was the essence of our tactic.
 
-Attack.
+Tap.
 
-Defend.
+The moment he dodged Aynar’s sword, I hurled my not-so-useful shield at his face.
+
+And the instant his vision was obscured—
+
+Tap, tap.
+
+I rushed in and swung my mace.
+
+Of course, he reacted again.
+
+“…!”
+
+His sword intercepted my mace’s path.
+
+If they collided head-on, the cheap iron mace would definitely snap in two.
+
+Swish
+
+I forcefully twisted its trajectory.
+
+Whoosh-!
+
+The mace then cut through empty air without touching his sword, and at that exact moment—
+
+Thud-!
+
+Aynar’s thrust slammed into the bastard’s shoulder.
+
+Okay, we’ve got the first hit.
+
+Of course, I had no intention of being satisfied with just that.
+
+There was no reason to back down and give him time.
+
+Combat is basically a numbers game.
+
+You attack.
+
+Block.
 
 Dodge.
 
-You had to choose one of the three in a split second, and your next move depended on your opponent's choice.
+In a split second, you have to choose one of those three, and it changes your next choice.
 
-That's why we were limiting his options.
+That’s why we meticulously limited his options.
 
-Ttadat.
+Tap.
 
-He was on the defensive now, focusing on blocking and dodging.
+The bastard, now on the defensive, focused on blocking and dodging.
 
-He couldn't afford to attack.
+His risk increased, and the option to attack disappeared entirely.
 
-But even his defense wasn't perfect.
+But even the choice to block or dodge was not free.
 
-'Left.'
+‘Left.’
 
-I knew he would dodge to the left.
+Right, with that stance, he’d probably move left.
 
-Thud-!
+Thwack—!
 
-Our coordinated attacks forced him to make mistakes, creating even bigger openings.
+With a smooth, continuous attack, we threw him off balance. To avoid a worse outcome, he had to choose a sub-optimal defence.
 
-We could predict his next move, and he was losing his options.
+As a result, it became easier for us to predict his next move, and he lost even more options.
 
-It was a vicious cycle.
+A vicious cycle, in other words.
 
-But...
+However—
 
-"..."
+“……”
 
-I couldn't let my guard down.
+No matter how hard we pressed him, we couldn’t afford to let our guard down.
 
-He could still use his Aura.
+After all, he still had that one trump card—aura. And in combat, variables are bound to arise.
 
-And there were always unexpected variables in battle.
+Just like this.
 
-Like this.
+Whiz-!
 
-Whizz!
+Even though I feigned an attack and changed the trajectory of my mace before it hit, the outcome was different this time.
 
-I feinted an attack and then changed the trajectory of my mace... but the outcome was different this time.
+“!”
 
-"...!"
+As if anticipating my action, his sword moved with my mace.
 
-He had anticipated my move and followed my mace with his sword.
+Unable to risk losing my weapon, I forced myself to alter its course again, exposing a vulnerability.
 
-I twisted my body again to avoid losing my weapon, creating an opening.
+Thud—
 
-Thud-!
+He didn’t miss the gap and kicked my abdomen. Up to here, there was no major damage, but the problem was what followed next.
 
-He kicked me in the stomach. It wasn't a serious injury, but...
+While countering, he too had used a lot of energy.
 
-He had also wasted a turn attacking me.
+Thud
 
-Puk-!
+Aynar’s sword pierced his thigh.
 
-Ainar's greatsword pierced his thigh.
+And at the same moment.
 
-And at the same time...
+Thud!
 
-Puk-!
+A blade stabbed into my stomach.
 
-His sword pierced my stomach.
+“Ah, that hurts.”
 
-'Damn it, that hurts.'
+I hadn’t expected him to come out so boldly from there.
 
-I hadn't expected him to be so aggressive.
+Even though Aynar saw me get stabbed, she didn’t ask if I was okay or anything.
 
-Ainar didn't even ask if I was okay.
+Like a veteran, she simply continued the attack.
 
-She just kept attacking.
+“Haah!”
 
-"Haaa!"
+I quickly gathered myself and rejoined the battle.
 
-I quickly recovered and rejoined the fight.
+After all, retreating wouldn’t stop the bleeding.
 
-It wasn't like the bleeding would stop if I retreated.
+What mattered wasn’t how much I was injured.
 
-The important thing wasn't how much I was injured.
+It was whether I could kill this guy before I died.
 
-It was whether I could kill him before he killed me.
+If killing him ended the raid and allowed us to escape, then injuries were of no concern.
 
-If defeating him meant escaping this place, I didn't care about my injuries.
+“Bethel—raaaaaaaaa!!”
 
-"Behel—laaaaaaaaaa!!"
+So the intense battle continued.
 
-The battle continued.
+Even though our stats had grown significantly, and we were two against one, it wasn’t easy.
 
-It wasn't easy, even though our stats had increased significantly, and we were two against one.
+Numerical superiority would soon vanish.
 
-Our numerical advantage didn't last long.
+“For the empire…!”
 
-"For the Empire...!"
+Empire soldiers kept appearing out of nowhere, rushing at us like moths to a flame.
 
-Imperial soldiers kept appearing, swarming us like moths to a flame.
+This increased the difficulty of the battle, but there was a silver lining.
 
-They made the fight more difficult, but there was an advantage.
+Squeak!
 
-Slash!
+I got a weapon refill.
 
-Weapon refills.
+Swiftly.
 
-I grabbed a new weapon from a fallen soldier as soon as my mace was broken.
+As soon as my mace was cut in half, I grabbed another weapon from a fallen soldier’s body and charged again.
 
-Sword, hammer, mace...
+Sword, hammer, or mace.
 
-It didn't matter.
+I didn’t care about the form.
 
-As long as it was long enough to swing.
+As long as it was long enough to wield with force.
 
-Klang-!
+Crash!
 
 Arm, leg, torso, shoulder, eye, ear.
 
-The more I was injured, the worse his condition became.
+As my body deteriorated, his condition also visibly worsened.
 
-Whiiiish-!
+Whisk!
 
-His Aura-enhanced sword lost its momentum, his movements becoming sluggish.
+His sword that once radiated the aura of a knight gradually lost its momentum, and his movements slowed.
 
-His Aura itself had also weakened.
+One of his arms dangled limply, and his left leg, which Aynar had stabbed twice, couldn’t function properly, causing him to limp.
 
-One of his arms was dangling uselessly, and his left leg, pierced twice by Ainar, was barely functioning.
+‘Soon.’
 
-'Soon...'
+We’ll win.
 
-We were going to win.
+In this state, he’ll collapse before we do.
 
-He would collapse before we did.
+With that thought in mind, I swung my hammer at his temple.
 
-I swung my hammer at his temple.
+「Captain Dreadfear’s health has fallen below 15%.」
 
-「Centurion Dreadfear's HP is below 15%.」
+An explosive shock erupted from his body, sending me flying into a wall.
 
-And then...
+The impact traveled through the back of my head, making my vision blur, but I quickly got up and checked the situation ahead.
 
-An explosion erupted from his body, sending me flying into a wall.
+“Fuck.”
 
-I felt a sharp pain in the back of my head, but I quickly got up and looked at him.
+I couldn’t help but curse.
 
-"Damn it."
+「Captain Dreadfear has activated [Eternal Nightmare].」
 
-I couldn't help but curse.
+「All health has been restored.」
 
-「Centurion Dreadfear has cast [Eternal Nightmare].」
+In an instant, his wounds healed, and he walked out unscathed, speaking to me.
 
-「All HP restored.」
+“My offer…”
 
-He had instantly healed all his injuries.
+“……”
 
-He walked towards me and said,
+“Still stands.”
 
-"My offer..."
+Like hell it is.
 
-"..."
+I asked in return:
 
-"...still stands."
+“Could it be…?”
 
-Bullshit.
+“……”
 
-I asked him,
+“Your parents were parrots or something?”
 
-"Are your parents..."
+He didn’t answer my question.
 
-"..."
+He just silently shoved his sword into my gut.
 
-"...parrots?"
+“Damn it, this game…”
 
-He didn't answer.
-
-He just stabbed me in the stomach.
-
-"...This damn game..."
-
-And then everything went black.
+And with that, everything went dark.
 
 ---
 
-「Character's HP is below 5%.」
+[The character’s health is below 5%.]
 
-「[Narcolepsy] activated.」
+[[Narcolepsy] is activated.]
 
-「Natural Regeneration greatly increased.」
+[Natural regeneration rate significantly increases.]
 
-「Character enters [Unconscious] state.」
+[The character falls into a [Stunned] state.]
 
 ---
 
-Darkness.
+In the darkness.
 
-I felt like I was floating on a river.
+Floating on the flowing river, I think.
 
-Dreadfear, the Lord of Terror.
+Dreadfear, the Lord of Fear.
 
-How were we supposed to defeat him?
+How the hell are we supposed to defeat this guy?
 
-The answer was simple.
+The answer is simple.
 
-It was impossible.
+It’s impossible.
 
-I had thought we could win with our boosted stats, but it was a trap.
+I was mistaken to think that the increased stats gave us a chance, but it was just a trap.
 
-He wasn't meant to be defeated.
+This enemy wasn’t meant to be defeated.
 
-Which meant...
+That means…
 
-'I was wrong.'
+“I was wrong.”
 
-My judgment had been wrong.
+My judgment was wrong.
 
-I should have run away and tried to escape the cave.
+Instead of fighting, I should have run away at first sight and headed out of the cave.
 
-'It was a game of tag from the beginning.'
+“It was a game of tag from the start.”
 
-The stat boosts were just a handicap.
+The stat boost was just enough to give us a slight chance to escape from him.
 
-Fighting him head-on was never the right answer.
+A head-on battle was never the solution from the beginning.
 
-Therefore...
+So…
 
-"Huff... Huff..."
+“Pant, pant…”
 
-I was paying the price for my mistake.
+Now I’m paying the price for choosing the wrong answer.
 
-「Character's HP is above 15%.」
+[The character’s health is above 15%.]
 
-「[Unconscious] state changed to [Paralysis].」
+[The [Stunned] state is adjusted to [Paralysis]
 
-「Natural Regeneration bonus slightly decreased.」
+[The rate of natural regeneration is slightly reduced]
 
-When I opened my eyes, I was being carried by Ainar.
+When I opened my eyes, I was being carried by Aynar.
 
-"Catch them...!"
+“Catch them…!”
 
-I could hear the soldiers' shouts behind us.
+Behind us, I could hear the shout of a soldier as Aynar continued to run hard.
 
-Ainar was running, dodging their attacks.
+“Huh? Bjorn…? Are you awake?”
 
-"Bjorn...? You're awake...?"
+“…”
 
-"..."
+“Are you okay?! Can you hear me?”
 
-"Are you... okay?! Can you hear me?!"
+I forced my barely moving lips to open.
 
-I forced my mouth open.
+“I’m… fine… Start by explaining the situation…”
 
-"I'm... fine... Explain the situation..."
+“Ah, right…”
 
-"Ah, o-okay..."
+Aynar explained while running.
 
-Ainar explained as she ran.
+“You… collapsed, and then suddenly… the entire cave flashed, and he stopped moving. I took the chance to… pick you up and start running…”
 
-"After you... collapsed... the entire cave flashed... and he stopped moving... I took advantage of the opportunity and ran..."
+He stopped?
 
-He stopped moving?
+…Was it the effect of the altar?
 
-Was it the altar's effect?
+I don’t know.
 
-I didn't know.
+It’s a hidden piece in the game, and without a system log, I can’t tell what’s causing what.
 
-It was a hidden piece I had never encountered before, and there were no system logs to explain it.
+“How much… time?”
 
-"How long... was I unconscious?"
+“I don’t know. 5 minutes? Something like that…”
 
-"I-I don't know... about five minutes...?"
+I had been unconscious for about 5 minutes.
 
-Five minutes.
+“But, how’s your body?”
 
-"A-Are you sure you're okay?"
+“I’m fine… I just can’t move…”
 
-"I'm... fine... Just paralyzed..."
+What kind of situation am I in now?
 
-What was my current state?
+After a moment of thought, something came to mind.
 
-I thought for a moment, and then I remembered.
+‘[Lethargy].’
 
-'[Narcolepsy].'
+A passive skill that activates when health falls below 5%.
 
-A passive skill that activated when my HP dropped below 5%.
+At 15%, it changes to [Paralysis], and as health slowly recovers, the status effect is removed at 30%.
 
-It changed to [Paralysis] at 15% and then gradually healed me until the status effect was removed at 30%.
+‘So I had… a skill too.’
 
-'So I have a skill too...'
+Not just Vercil and Erwin, but I also had a starting skill.
 
-Not just Bersil and Erwen, but I also had a starting skill.
+It was a passive skill, so I didn’t realize it sooner.
 
-It was a passive skill, so I hadn't noticed it before.
+‘Then… Aynar probably has one too.’
 
-'Then Ainar must have one too...'
+What could her skill be?
 
-I wondered what her skill was.
+I don’t know, but there’s no time to calmly experiment and find out.
 
-But I didn't have time to think about it.
+“Left… side…”
 
-"L-Left..."
+“Huh?”
 
-"Huh?"
+“Left is… the way…”
 
-"Left... is the way..."
+“Ah…”
 
-"Ah..."
+While giving directions from Aynar’s back, I tried to organize my thoughts.
 
-I gave Ainar directions as I organized my thoughts.
+As I did, I noticed a particularly loud sound.
 
-And then I heard a distinct sound.
+“Gasp, gasp…”
 
-"Huff... Huff..."
+It wasn’t just the sound of someone exhausted. It was different.
 
-It wasn't just the sound of exhaustion.
+“Aynar… are you okay?”
 
-"Ainar... are you okay?"
+“…I’m… fine…”
 
-"...I'm... fine..."
+No, you don’t look fine at all.
 
-She didn't look fine at all.
+“Just… can’t use my hands… so I got a bit hurt… Don’t worry about it…”
 
-"Just... a few injuries... because I couldn't use my hands... Don't worry about it..."
+Her words made me wonder.
 
-That's when I realized something.
+Aynar couldn’t use both hands because she was carrying me.
 
-Ainar couldn't use her hands because she was carrying me.
+So how did she deal with the Imperial soldiers?
 
-Then how had she been fighting the soldiers?
+Did we just luck out and not run into any head-on?
 
-Had she just been lucky enough to avoid them?
+The answer to that, I soon witnessed with my own eyes.
 
-I soon found out.
+“…Filthy pilgrims!”
 
-"...Filthy pilgrims!"
+A group of soldiers appeared in front of the passage we were heading toward.
 
-A group of soldiers appeared in front of us.
+Aynar’s choice was simple.
 
-Ainar's choice was simple.
+She didn’t stop.
 
-She didn't stop.
+No, she actually sped up and charged straight at the soldiers.
 
-She charged at them.
+Thud-!
 
-Puk-!
+With her arms behind, her body was wide open, and sharp weapons swung at her, but she endured, only protecting her vitals.
 
-Swords and spears pierced her body, but she endured, avoiding the vital points.
-
-And the result?
+And the result.
 
 Shoulder.
 
@@ -556,56 +534,58 @@ Arm.
 
 Leg.
 
-She was injured in three places, but she managed to break through their lines.
+She suffered major and minor injuries in three places, but Aynar instantly broke through the soldiers.
 
-The soldiers regrouped and continued their pursuit, and Ainar's breathing became even more ragged.
+The soldiers who were bypassed joined others and chased us, and Aynar’s breathing became even rougher.
 
-"Huff... Huff..."
+“Gasp… gasp…”
 
-I watched her from her back, speechless.
+Watching this from her back, I couldn’t say anything.
 
-And then she asked,
+But maybe she was worried about me.
 
-"Bjorn... are you... hurt?"
+Aynar asked me,
 
-"...Stop."
+“Bjorn… are you… hurt anywhere?”
 
-This was too reckless.
+“…Stop.”
 
-She would collapse soon, and even if we reached our destination, how would we heal her injuries?
+This is too reckless.
 
-We didn't have any potions.
+In this state, it’s clear she’ll collapse before long, and even if we make it, how will he treat those injuries?
 
-It would be wiser to put me down and wait for [Narcolepsy] to wear off.
+Without any potions?
 
-But...
+It would be wiser to put me down, hold out until [Lethargy] wears off, and then move together.
 
-"I... can't..."
+But…
 
-Ainar refused to listen.
+“I can’t… do that.”
 
-"Why...?"
+No matter what reasoning I gave, Aynar stubbornly held her ground.
 
-"I... saw the future... when you collapsed..."
+“Why… not?”
 
-"...The future?"
+“Because… I saw the future… when you collapsed.”
 
-"It was the same when the mage died... I thought it was just a hallucination... but I think it's my ability..."
+“…The future?”
 
-What had she seen?
+“It happened… when the mage died too. Back then, I thought it was just a hallucination… but I think this is my… ability.”
 
-I asked her several times, but she didn't answer.
+What did she see to make her act like this?
 
-"I... can't stop... So trust me."
+No matter how many times I asked, Aynar didn’t answer.
 
-"..."
+“I can’t… stop. So trust me.”
 
-"I... won't fall..."
+“……”
 
-She muttered her last words, her voice filled with determination, and then she continued running.
+“I… won’t collapse… no matter what.”
 
-Step, step.
+As if making a vow, Aynar muttered those last words and continued walking silently, without responding further.
 
-She didn't stop, even when she saw the soldiers in front of us.
+Thud, thud.
 
-She just kept running.
+No matter if Imperial soldiers appeared ahead or not.
+
+She never stopped, just kept moving forward.

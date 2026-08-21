@@ -1,431 +1,401 @@
-# Proof 5
+Proof (4)
 
-As soon as I stood up, the murmuring nobles fell silent and turned their gazes towards me.
+The moment I rose from my seat, the noisy barons shut their mouths and turned their attention to me.
 
-Their eyes were cold and distant, as if a wall separated us. The Mustache Fairy, sensing the shift in atmosphere, spoke on their behalf.
+Even though we were in the same space, their eyes carried a sense of distance, almost like a wall between us. The bearded baron, who caught my eye, spoke on behalf of the others.
 
-"It seems Baron Yandel has something to say."
+“Baron Jandel, it seems you have something you wish to say.”
 
-His words were polite, but the underlying message was clear.
+There was no need to interpret what he really meant:
 
-We'll listen to what you have to say, but don't expect us to change our minds.
+We’ll listen to whatever you have to say, but don’t expect us to change our minds.
 
-The other nobles seemed to agree.
+The other barons didn’t look any different in their attitudes.
 
-'I'm not doing this for myself.'
+‘It’s not like I’m doing this just for my own good…’
 
-Thirty-one nobles, representing thirty-one demi-human families.
+Thirty-one barons from thirty-one different families.
 
-The only one who seemed to be on my side was the Rabbit Baroness, who was anxiously watching the situation unfold.
+Among them, the only one who can be called my ally is the rabbit baroness who is anxiously watching from the host’s seat.
 
-Which meant...
+So, in other words.
 
-'I just need to convince fifteen more.'
+‘I just need to persuade fifteen of them.’
 
-With me, Melbeth now consisted of thirty-two families.
+Melbes had now become a group consisting of thirty-two families including myself.
 
-We needed seventeen votes for a majority, and I already had two secured.
+Seventeen votes are needed for a majority, and the votes of myself and Rabbit baroness were already secured.
 
-"Um... Baron Yandel?"
+“Um… Baron Jandel?”
 
-The Rabbit Baroness's voice snapped me out of my thoughts.
+The Rabbit Baroness’s anxious voice signaled it was time to finalize my thoughts.
 
-"First, let me make one thing clear. I'm not doing this for personal gain."
+“First off, I want to clarify that this isn’t just for my personal gain.”
 
-That was the most important point I had to address before trying to convince them.
+That was the first point I needed to address in order to persuade the fifteen.
 
-"This proposal... it's for the benefit of all of Melbeth."
+“The proposal put forward by Baron Lirivia is for the benefit of all of Melbes”.
 
-As expected, someone immediately objected.
+Naturally, a rebuttal came immediately.
 
-"How can supporting Baron Yandel and his clan benefit Melbeth?"
+“How does supporting Baron Yandel and the clan under his command benefit all of Melbes?”
 
-"Because I'm different from you."
+“Because I’m different from you.”
 
-"...?"
+“…?”
 
-The Mustache Fairy tilted his head, confused.
+The mustached baron tilted his head in confusion.
 
-"A noble's power comes from his family. But my family is just starting out. We don't even have a proper estate yet."
+“The power of a noble comes from his house. But my house hasn’t even found any land to settle on yet.”
 
-I lowered my posture slightly, and the nobles looked at me with even more confusion.
+I watched as they all leaned forward, curious to hear what I was going to say.
 
-Good. That should give me enough momentum.
+Alright, that should be enough to build some momentum.
 
-"But none of you truly see me as inferior."
+“Yet no noble dares to look down on me.”
 
-I continued,
+I continued speaking.
 
-"It's strange, isn't it? Marquis Terserion, who wouldn't even meet with a Baron, and Duke Keallunus, who looks down on everyone... they both treat me with respect."
+“It’s quite strange if you think about it. Marquis Tercerion, who won’t even grant an audience to anyone below a Count, and Duke Keallunas—both show me respect and do not treat me carelessly.”
 
-"...."
+“…”
 
-"Why do you think that is?"
+“Why do you think that is?”
 
-"It's because of your fame, isn't it?"
+“I would guess… your reputation, perhaps?”
 
-"Wrong."
+“Wrong.”
 
-Well, he wasn't completely wrong.
+Well, to be precise, that’s not entirely incorrect, but—
 
-But where did that fame come from?
+Where do they think that name value came from, anyway?
 
-"It's because of my strength."
+“It’s because of my strength.”
 
-Bjorn Yandel, the Giant.
+The Giant, Bjorn Yandel.
 
-The barbarian who had earned his noble title through his own strength.
+He is someone who has achieved military honour and has risen to the rank of Baron through his individual skill alone.
 
-"My fame and status are a result of my strength."
+“My fame and status come from the fact that I was powerful enough to earn them.”
 
-Therefore...
+Therefore—
 
-"That's why you should support me."
+“That’s the reason you should support me.”
 
-The logic was complete.
+That completes my logic.
 
-"If I become stronger, my status will rise as well."
+“If I grow stronger, my rank will rise as well.”
 
-"...?"
+“I have no intention of remaining a baron forever.”
 
-"I'm not satisfied with being a Baron."
-
-Supporting me was the same as supporting Melbeth.
+Hence, helping me is helping Melbes.
 
 ---
 
-Thirty-one families.
+Thirty-one.
 
-No, with me, there were now thirty-two demi-human families in Melbeth.
+No, now with me included, a total of thirty-two families formed Melbes.
 
-This organization had two major weaknesses.
+This group has two major weaknesses.
 
-First, they were discriminated against and ostracized by the human nobles.
+First, as non-humans, they are ostracised and kept in check by the existing noble society.
 
-And secondly...
+And the second…
 
-'The highest-ranking member is a Count.'
+‘The highest title among us is a Count.’
 
-Their maximum output was a single Count family.
+Yes, there’s only one Count family in Melbes. That’s their upper limit.
 
-"Help me. And I'll help you achieve your goals."
+“Support me, and I will fulfill all your wishes.”
 
-But my logic didn't seem to resonate with them.
+“Support me, and I will fulfill all your wishes.”
 
-Their reactions were lukewarm.
+However, it seemed my logic didn’t resonate strongly, because their reactions remained indifferent.
 
-"We understand your ambition, Baron Yandel. But isn't this just a special favor for a specific family?"
+“We understand your ambition, Baron Jandel, but this ultimately seems like a special favor for a specific family, doesn’t it?”
 
-Damn it, they were treating me like an outsider.
+Well, I knew I would never be able to convince each one of them.
 
-Don't they understand how society works?
+Society is such that if you push from behind, someone will pull from above.
 
-You scratch my back, and I'll scratch yours.
+‘Still, I think a few of them were interested in what I said, so that’s good enough.’
 
-'Well, at least a few of them seem interested...'
+I’ve shown them plenty of “grand visions,” so now it’s time to tackle this from another angle.
 
-I decided to change my approach.
+“Of course, that’s not the only reason you should support me.”
 
-"That's not the only reason you should support me."
+I continued.
 
-I continued,
+“Melbes hasn’t yet touched any business related to the Labyrinth, correct? If you think of this as Melbes formally sponsoring a clan, there’s really no loss involved.”
 
-"Melbeth hasn't invested in any labyrinth-related businesses yet, has it? It wouldn't be a loss for Melbeth to sponsor a clan."
+Many noble houses sponsor explorer clans not just as a show of prestige.
+Having a clan under their control means they can influence what happens inside labyrinths at any time.
 
-The reason why so many nobles sponsored explorer clans wasn't just for show.
+Since this entire kingdom runs on a single Labyrinth, that kind of influence is immeasurably important.
 
-Having a clan under your wing meant you had influence in the labyrinth.
+Up until now, Melbes had never had such a clan.
 
-And in a kingdom where everything revolved around the labyrinth, that influence was incredibly valuable.
+“I understand what Baron Jandel means. However, the reason we haven’t dabbled in Labyrinth-related activities is not because we couldn’t”.
 
-Melbeth didn't have a clan yet.
+“Then why not?”
 
-"We understand what you're saying, Baron Yandel. But we haven't avoided the labyrinth because we couldn't handle it."
+Feigning ignorance of the reason, I asked, and once again the mustachioed baron was kind enough to provide an answer.
 
-"Then why?"
+“If we start meddling in the labyrinth, the checks from existing powers are inevitable.”
 
-I asked, pretending to be ignorant, and the Mustache Fairy answered.
+This was essentially the same reason why the Barons of Melbes kept their distance from the Sanctuary.
 
-"Because we don't want to provoke the other factions."
+With such small power, it’s vital not to increase enemies.
 
-It was similar to their strategy of distancing themselves from their tribes.
+That was Melbes’ motto.
 
-They were a minority, so they wanted to avoid making enemies.
+But…
 
-That was Melbeth's motto.
+“That argument ended the moment I joined.”
 
-But...
+From the moment they accepted me, a famous explorer, they’d practically forfeited that strategy.
 
-"That's no longer an option."
+Still, the mustached baron didn’t back down so easily.
 
-The moment they accepted me, a well-known explorer, that strategy became obsolete.
+“That’s why supporting you further is even more dangerous. If our support continues, there will be no room for excuses. The other established noble houses will think we are using Baron Jandel to get involved in the labyrinth, and that won’t do any good for Baron Jandel either.”
 
-But the Mustache Fairy wasn't giving up.
+His message was clear: they weren’t willing to pay even a single cent in personal support funds.
 
-"That's why this is even more dangerous. If we officially support you, there will be no room for excuses. The other factions will think we're using you to gain control of the labyrinth. And that won't be good for you either."
+If that was enough to make me give up, I wouldn’t have started this at all.
 
-He was basically saying they wouldn't give me a single stone.
+“Are you truly that afraid of them?”
 
-But I wasn't going to back down.
+I asked in a provocative tone. Sometimes you need a little poke to stir people’s thoughts.
 
-"Are they that scary?"
+He responded immediately.
 
-I asked provocatively.
+“…That’s a pointless question.”
 
-I wanted to shake them up a bit.
+“Why do you say it’s pointless?”
 
-Their reaction was immediate.
+“We simply make rational judgments. That’s what it means to lead a noble house. As a lord, you bear not only your own responsibilities but also those for your children and the entire family.”
 
-"...That's a pointless question."
+His voice was somewhat emotional but not overtly hostile; it sounded more like sincere advice from a senior to a junior.
 
-"Why is it pointless?"
+Thus, I needed to keep pushing.
 
-"We're just being rational. That's what a leader does. We have to think about our families, our children, and our future generations."
+“To my ears, it just sounds like you’re pushing responsibility onto the next generation.”
 
-His voice was emotional, but not hostile.
+“I have no reason to accept criticism about my decisions from you.”
 
-He sounded like a senior giving me sincere advice.
+Eventually, the baron’s voice grew cold.
 
-So I had to push him further.
+Ah, he had been a rather gentle old man, even if he was always interfering.
 
-"It sounds like you're just passing the buck to the next generation."
+Though I felt somewhat sorry, it couldn’t be helped.
 
-"You have no right to criticize my judgment."
+I was acting for my team, my clan, beyond just myself.
 
-The Mustache Fairy's voice turned cold.
+“There has been a misunderstanding.”
 
-Damn, he was a decent guy, even though he was a bit of a stickler for rules.
+Anyway, I had pushed enough; now it was time to pull.
 
-I felt a little bad... but I had to do this.
+“Baron Heskaira, my words were not meant as criticism. It simply means that from now on, we need to actively grow stronger.”
 
-For my team, for my clan.
+“……”
 
-"You misunderstood me."
+“Wasn’t that the reason you brought me in?”
 
-I softened my tone.
+Though my tone was soothing, Baron Heskaira stayed silent.
 
-It was time to pull back.
+Instead, someone else spoke up for the first time.
 
-"I wasn't criticizing you. I'm just saying we need to be more proactive."
+“I think Baron Jandel’s words have some merit.”
 
-"...."
+It was Baron Bruellin of the white wolf tribe.
 
-"That's why you recruited me, isn't it?"
+He was in his thirties, making him quite young compared to the other barons.
 
-The Mustache Fairy didn't answer.
+“Haven’t we all agreed that change is necessary?”
 
-But someone else spoke up.
+Just as the Rabbit Baroness had mentioned before, many within Melbes were dissatisfied with the current state of affairs.
 
-"I agree with Baron Yandel."
+Which is why, the moment someone suggested a new path, Baron Bruellin immediately took the chance to voice his stance.
 
-It was Baron Brewellin of the White Wolf tribe.
+So, as soon as someone suggested a new way, Baron Bruellin jumped at the chance to express his opinion.
 
-He was one of the youngest nobles, in his 30s.
+“Ah, that doesn’t mean I agree with the proposal. However, trying to expand our influence into the labyrinth seems like a worthwhile attempt. During this war, while everyone else was earning their stripes, all we could do was watch.”
 
-He had been the most vocal about the need for change.
+Led by Baron Bruellin’s words, a full debate began.
 
-"We all agreed that Melbeth needs to change, didn't we?"
+“I agree with that part too. It’s been a hassle to always rely on the sanctuary whenever an explorer is needed.”
 
-As the Rabbit Baroness had said, there were many who were dissatisfied with the current situation.
+“But do we really need Baron Jandel for this? If we gather our own explorers within each tribe, we could form a clan in no time.”
 
-That's why they were so quick to support my argument.
+“Yes, I’ve heard Baron Jandel’s clan has fewer than ten members right now.”
 
-"I'm not saying I'm in favor of this proposal... but it's worth considering. We've avoided the labyrinth for so long... but it's time for Melbeth to expand its influence. We can't just sit back and watch while the other factions reap the rewards of the war."
+“Precisely. Wouldn’t it be better if each family contributed talent and together we created a brand new clan that we could all support equally?
 
-Brewellin's words sparked a debate.
+Hmm, this isn’t good.
 
-"I agree. It's been a hassle to rely on the other tribes for explorers."
+Before I was completely shut out of the conversation, I rushed to intervene.
 
-"But why Baron Yandel? We can create our own clan with explorers from our own tribes."
+“You only know half the story!”
 
-"His clan is still small, isn't it? Less than ten members."
+“…Excuse me?”
 
-"Yes. It would be more efficient to gather talented explorers from our own families and create a new clan. Then we can all support it together."
+“By the time that happens, the war will be long over!”
 
-Hmm, this wasn't good.
+They’re obviously drawn to the Labyrinth business because of the war.
 
-I had to intervene before the conversation went off track.
+During the war, numerous noble houses made massive profits through the clans they sponsored. Meanwhile, Melbes simply watched, growing jealous—
 
-"You're all missing the point!"
+‘Wait a minute…’
 
-"...Yes?"
+“Well, isn’t it too early to try and profit from this war already?”
 
-"The war will be over by then!"
+“I agree. There might be a need to prepare for such events in the future, but that doesn’t mean we should rush into it now. A rushed step often leads to mistakes.”
 
-Why were these cautious nobles suddenly interested in the labyrinth?
+This is why noble types can be so frustrating. Their narrow-minded focus on the long term.
 
-It was because of the war.
+Thinking so leisurely and complacently, How can I convince them to make major changes?
 
-Countless families had profited from their sponsored clans.
+They’ve been this way for thousands of years, which is precisely why nothing has changed until now.
 
-And the others were starting to feel envious.
+As a K-Barbarian who prioritizes speed, this conversation is incredibly frustrating.
 
-'Uh oh...'
+But…
 
-But they weren't convinced.
+‘I need to change my strategy.’
 
-"It's too risky to invest in the labyrinth now. The war might not last much longer."
+There were two options I could present to these politicians who looked to the future.
 
-"I agree. It's better to wait and see."
+Either tailor my future value to their needs.
 
-"Honestly, I'm not sure if this will happen again. Maybe we should just stick to our current strategy..."
+Or make the future they envision look like a dump.
 
-Damn it, they were too conservative.
+Naturally, I chose the latter.
 
-They were so focused on the future that they couldn't see the present.
+“Idiotic! While you waste time, the families that disregarded you will grow stronger!”
 
-As a K-Barbarian who valued speed and efficiency, I was frustrated.
+“You’re talking nonsense! While you’re wasting time, the families that’ve been looking down on you all this while will only grow stronger!”
 
-But...
+I grew up knowing that politics is based on negativity.
 
-'I need to change my strategy.'
+“Haven’t you seen the Chancellor? He’s been taking advantage of the war to build up his house! He’s distributing out positions to his own people so they can rack up achievements!”
 
-I had two options.
+“But isn’t Baron Jandel not one of the Chancellor’s people?”
 
-To appeal to their greed, or to make their future seem bleak.
+“I—I’m an exception!”
 
-I chose the latter.
+“Just look at the Chancellor’s son! With no name or skill, he became a commander during the war and is recognized for merits he didn’t earn on the battlefield!”
 
-"You fools! While you're wasting time, the other factions are getting stronger!"
+“To say that Marquis Tercerion’s son lacks ability is a bit…”
 
-Negative campaigning was the key to politics.
+“Anyway, I got lucky and became a baron this time, but what if the war drags on? Surely, a few more noble families will emerge, and those families will align themselves with the houses that supported them in the labyrinth”
 
-"Look at the Marquis! He's using the war to expand his influence! He's giving all the important positions to his own people!"
+“……”
 
-"But Baron Yandel isn't part of his faction, is he?"
+“You’re just going to stand by and watch? This could be our chance to bring another non-human noble house if we get involved!”
 
-"I'm an exception!"
+I tried to stir up their ambition.
 
-I made a bold statement.
+But it still wasn’t easy.
 
-"Look at his son! He's incompetent, but he's a Corps Commander! He's getting all the credit without even doing anything!"
+“…Nothing we can do about it. It’s our fault for not preparing in time.”
 
-"Well, I wouldn't say he's completely incompetent..."
+“This war came too unexpectedly.”
 
-"Anyway, I was lucky enough to be promoted this time, but what about next time? There will be more nobles created, and they'll all be loyal to the factions that supported them!"
+“To be honest, who knows if such a situation will ever happen again. Maybe staying as we are now is the best option…”
 
-"...."
+Who are these people, really?
 
-"Are you just going to watch? This is our chance to create another demi-human noble family!"
+Even the Rabbit Baroness, feeling sorry for how hard I was pushing alone, jumped in to assist me. But in the end, we failed to sway public opinion decisively, and the vote began.
 
-I appealed to their greed.
+“We shall now proceed to vote. Those in favor of formally supporting Baron Jandel and Clan Anabada, please raise your hands.”
 
-But it wasn't enough.
+I could guess the outcome.
 
-"...We can't change the past."
+‘I didn’t realize they could be so conservative.’
 
-"The war was an unexpected event."
+It seems I have no choice but to wait for the next opportunity—.
 
-"Honestly, I'm not sure if this will happen again. Maybe we should just stick to our current strategy..."
+“I vote in favor.”
 
-They were too stubborn.
+While the Rabbit Baroness and I were sadly raising our hands, another voice spoke up.
 
-Even the Rabbit Baroness, who was trying to support me, couldn't convince them.
+It was Baron Bruellin of the White Wolf tribe—the one who at least recognized the need for ‘change’ among the barons.
 
-The vote began.
+‘…What?’
 
-"We'll begin the vote. All those in favor of officially supporting Baron Yandel and his clan, Anabada, please raise your hands."
+Surprisingly, following him, more and more heads began raising their hands.
 
-The outcome was predictable.
+One, two, three, four…
 
-'They're more conservative than I thought.'
+By the time the votes were tallied, the number of hands in favor just tipped past the majority.
 
-I would have to wait for another opportunity—
+“…Se-seventeen families are in favor. Therefore, the motion to formally support Baron Yandel and Clan Anabada is hereby carried.”
 
-"I'm in favor."
+Even the Rabbit Baroness, a longtime member of Melbes, couldn’t hide her astonishment at the result.
 
-The Rabbit Baroness and I were the only ones who had raised our hands... but then someone else joined us.
+However, once the voting ended and further discussions began, my swelling excitement quickly deflated.
 
-It was Baron Brewellin of the White Wolf tribe.
+“We agreed to offer support, but we are against using Melbes’s public funds.”
 
-He was the one who had been most vocal about the need for change.
+Support came with restrictions, from both who voted for or against, so in the end, what I actually got was extremely modest:
 
-'...'
+The possibility of a loan using public funds (with interest and limits).
+One of the Melbes Merchant Guild’s buildings was offered as a clan house (at a reduced rate).
+Permission to accept Melbes-exclusive quests.
+The third point was the most important:
 
-And then, one by one, more nobles raised their hands.
+If Melbes ever needs me or my clan, they’ll make a formal request and offer appropriate compensation in return.
 
-One, two, three, four...
+…Starting is half the battle.’
 
-By the time the vote was over, we had barely reached a majority.
-
-"...S-Seventeen votes in favor. The proposal to officially support Baron Yandel and Clan Anabada has been approved."
-
-Even the Rabbit Baroness, a Melbeth veteran, was surprised.
-
-But my excitement faded as the discussion continued.
-
-"We agree to support you, but we won't use Melbeth's funds."
-
-They all agreed to support me, but they placed restrictions on the funding.
-
-And in the end, I was left with a meager three options.
-
-1. Take out a loan from Melbeth (with interest and a limit).
-
-2. Use one of Melbeth's buildings as our clan house (at a discounted price).
-
-3. Accept Melbeth's exclusive quests.
-
-The most important one was the third option.
-
-It meant that Melbeth would officially request our help if they needed us, and we would be compensated accordingly.
-
-'...Well, it's a start.'
-
-I decided to be satisfied with this for now.
+Alright, let’s be satisfied with this for today.
 
 ---
 
-After the meeting, I returned home in the carriage.
+After the assembly ended at the Rabbit Baroness’s home, I took my carriage back and grabbed a good night’s sleep—something I couldn’t do the previous day. And early the next morning, I headed right back out.
 
-I needed to get some sleep.
+I have a tight schedule this month.
 
-"Ah, Bjorn... You're here..."
+Ah, Bjorn… you’ve arrived…”
 
-"Good morning, Shabin Emure."
+“Good morning, Shabn Emoor.”
 
-"...Is it morning already?"
+“…Is it morning already?”
 
-"...."
+“……”
 
-I went straight to the sanctuary and started working.
+I immediately went to the sanctuary and started my duties as tribe chief.
 
-I checked on the progress of the real estate project, approved requests from the administrative team, and...
+As the deadline approached, I checked how far the administrative corps had progressed with their property sales plan, and I listened to the matters that required my approval and gave them my approval.
 
-"Oh! Bjorn! You're here!"
+Of course, my duties didn’t end there.
 
-"It's Chieftain."
+“Oh! Bjorn! You’re here!”
 
-"...Right, Chieftain!"
+“It’s not Bjorn; it’s Chief.”
 
-I met with Ainar and discussed the recent events in the tribe.
+“…Yes, Chief!”
 
-How many of the new warriors had survived their first expedition.
+I checked with Aynar how many of the warriors who had recently gone to Labyrinth had survived and returned, if there were any other matters in the tribe, and what the public opinion was.
 
-What was the general mood.
+And…
 
-And...
+“Me, a second elder…?”
 
-"M-Me? The 2nd Elder...?"
+“Don’t you want to?”
 
-"Do you have a problem with that?"
+“How could I not! I’ll do it! Just order me!!”
 
-"No way! I'll do it! I'll do whatever you ask!!"
+I appointed Karon, son of Tarson, as the second elder of the tribe. He was the same warrior who started the backpack revolution when he returned to the tribe after being betrayed by his comrades in the Labyrinth and rescued by me.
 
-I appointed Charon, the warrior who had been betrayed by his teammate and then started the Backpack Revolution, as the 2nd Elder.
+Aynar couldn’t handle everything alone.
 
-Ainar needed help.
+Since a new month had started, we also had to prepare for next month’s coming-of-age ceremony, but I didn’t have time to oversee every detail.
 
-We had to prepare for next month's coming-of-age ceremony, and I couldn't handle everything myself.
+It would also be unfair to burden the already busy administrative corps further.
 
-And it would be too much to ask the administrative team to do it.
+Anyway, Busy time flew by hectically, and a new day began.
 
-One day, two days...
+Year 157, July 5th.
 
-Time flew by.
-
-And then a new day arrived.
-
-July 5th, 157th year of the New Era.
-
-The day we started selling land.
+It was real estate day.

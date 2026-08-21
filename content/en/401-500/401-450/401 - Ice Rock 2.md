@@ -1,425 +1,409 @@
-Ice Rock 2
+Ice Rock(2)
 
-The investigation revealed that two members had changed their names.
+Upon investigation, two individuals had indeed changed their names.
 
-But their previous names were 'Muljory' and 'Dick', far from that cursed name.
+However, those names were “Murjory” and “Dick”—both quite far removed from that cursed name.
 
-In other words, there was no (former) Hans among us.
+In other words, to put it simply, there was no (former) Hans among them.
 
-Then why did I feel this way?
+But then, what is this feeling?
 
-'It's strange... I'm not relieved.'
+“It’s odd to feel this way… even though he’s not here.”
 
-I was glad there was no (former) Hans, but I also felt a sense of disappointment.
+I was somewhat relieved that (former) Hans wasn’t around, yet a sense of disappointment lingered.
 
-If he existed, these incidents might have been just a series of unfortunate coincidences...
+If he actually existed, these series of events could simply be due to mere coincidences…
 
-And even if he wasn't the culprit, it would have narrowed down the list of suspects.
+Even if that’s not the case, the list of suspects would be significantly narrowed down.
 
-'...Wait a minute.'
+“…Wait a minute.”
 
-"Troll."
+“Troll.”
 
-"Yes?"
+“Yes?”
 
-"What are the names of the three trolls you're using as summons?"
+“What are the names of those three summoned trolls?”
 
-I asked out of a hunch, but it was another dead end.
+I asked on a hunch, but it turned out to be a dead end as well.
 
-Their names were Pippi, Poppy, and Yeppi, in order of height.
+The trolls were named in order of height: Peepee, Poppy, and Yeppe. 
 
-It was a naming sense that I, as a sane person, couldn't comprehend.
+As a normal person, I couldn’t understand that naming sense.
 
-'Well, at least this confirms that someone is intentionally sabotaging us.'
+“Well, at least this confirms that someone else orchestrated all of this intentionally.”
 
-A series of coincidences?
+A mere coincidence?
 
-I couldn't completely rule out that possibility, but I didn't believe in such things.
+I couldn’t completely rule out that possibility, but I don’t believe in such coincidences.
 
-Not unless Hans was involved.
+At least, not if Hans isn’t involved in the process.
 
-And besides, the ground collapsing in Ice Rock wasn't a common occurrence.
+The ground collapse we encountered at Ice Rock was unusual, occurring twice during the expedition.
 
-It wasn't something you would experience twice in one expedition.
+Moreover…
 
-And...
+“I have my suspicions.”
 
-'I have a hunch.'
+I cautiously put the ring I’d briefly worn back into my coat.
 
-I discreetly put the ring back in my pocket after briefly checking it.
+“The cleanup seems nearly done.”
 
-"It seems like the cleanup is done."
+“Yes, sir.”
 
-"Yes."
+“What’s the extent of the losses?”
 
-"What's the damage report?"
+“Fortunately, it’s minimal, though the food supplies took the biggest hit.”
 
-"It's not good news, but the loss of food isn't significant."
+I see
 
-That's good.
+Other exploration supplies are important for survival, but they’re less critical than food.
 
-The other supplies were also important, but not as crucial as food.
+“…So, what are we going to do now?”
 
-"...What are we going to do now?"
+“What else can we do? We resume our journey.”
 
-"We continue our journey."
+After confirming the damage, I ordered the expedition to resume.
 
-After confirming the damage, I ordered the expedition force to move again.
+After all, we don’t have much time to spare.
 
-We didn't have much time.
+It’s not like the culprit will emerge if we waste time here; we need to keep thinking as we go.
 
-Waiting here wouldn't solve anything.
+“How far can you send the ice trolls?”
 
-I had to keep thinking while we marched.
+“…Anywhere within my sight!”
 
-"How far can you send the Ice Trolls?"
+Perhaps worried that I might hold him responsible for this incident, the summoner immediately responded while watching my reaction.
 
-"...As long as I can see them, sir!"
+‘…Is it an act?’
 
-The summoner answered immediately, as if he was worried I might blame him for the incident.
+In fact, he’s the most suspicious one.
 
-'...Is he acting?'
+I thought it wasn’t the right time yet, so I didn’t probe deeply.
 
-He was the most suspicious one.
+“From now on, the remaining three sleds will be divided into front, center, and rear.”
 
-But it wasn't the right time to interrogate him.
+In preparation for any unforeseen situations, I changed the formation to move with the sleds separated.
 
-"The remaining three sleds will be divided into front, center, and rear."
+And then…
 
-I changed the formation, separating the sleds to minimize the risk of another collapse.
+Shuffle, shuffle.
 
-And...
+Continuing the march into the transparent ice cave, I kept thinking without rest.
 
-Thud, thud.
+If there really is someone among us who destroyed the supplies, who could it be?
 
-We continued our march through the icy cave, my mind racing.
+The problem is that there are too many suspects.
 
-If there really was a traitor among us, who was it?
+But first, I should consider those whose betrayal would cause the most significant impact.
 
-There were too many suspects.
+For example, the team leaders.
 
-But I had to start with those who would benefit the most from our failure.
+“…Schuetz, I’m sorry. This incident is my responsibility. Dividing the sleds was actually something I should have done earlier.”
 
-The team leaders, for example.
+First, Titana Akuraba.
 
-"...Schuitz, I'm sorry. This is my fault. I should have separated the sleds sooner."
+Her suspiciousness needs no explanation.
 
-Titana Akuraba.
+She was in charge of managing the supplies, and every time the incidents occurred, she was the closest.
 
-She was the most suspicious one.
+“Lady Akuraba, even if it wasn’t intentional, this is the second time. Whether you like it or not, you have to accept some punishment or everyone will look down on you.
 
-She was in charge of supplies, and she was always near the sleds when the incidents happened.
+Kaislan was also suspicious. 
 
-"It wasn't intentional, but this is the second time. Whether you like it or not, you have to punish someone, or everyone will think you're weak."
+I appreciate his kind advice and spirit of sacrifice, but that makes him more suspicious.
 
-Kaislan was also suspicious.
+He was also the one who was most eager for the position of leader.
 
-His helpful advice and self-sacrificing spirit were too good to be true.
+“I think this was an accident, not anyone’s fault. But… holding someone accountable might be worth considering.”
 
-And he was the one who was most eager to be the leader.
+He is the least suspicious, but if you look for motives, they’re not nonexistent.
 
-"I don't think this was anyone's fault. But... this time, we need to hold someone accountable."
+Among us, he held the weakest standing. Perhaps someone in the rear could be manipulating him.
 
-James Kala.
+“…Do as you wish. That is both your duty and right as the leader.”
 
-He was the least suspicious, but he still had a motive.
+Lastly, Paladin Jun.
 
-He had the least influence among the team leaders.
+He’s just been weirdly nice to me, and it’s starting to get really annoying.
 
-His sponsors could easily control him.
+“Schuiz, the members are extremely fatigued.”
 
-"...I'll leave it to your judgment. That's your duty and right as the leader."
+The march continued for about two hours longer than the usual schedule.
 
-Lastly, Jun, the paladin.
+“We’ll camp!”
 
-He had always been strangely friendly towards me, which made me uneasy.
+We set up camp, and I gathered the team leaders for a meeting.
 
-"Schuitz, the members are exhausted."
+The first issue raised was this:
 
-The march had been going on for two hours longer than usual.
+“Losing potions and items for maintaining body heat is bad, but tents and sleeping bags are the biggest concern.”
 
-"We'll set up camp."
+“If people go hungry and can’t sleep properly, complaints are going to skyrocket.”
 
-I ordered them to set up camp and then called for a meeting with the team leaders.
+“Equity is key. If some sleep comfortably while others go without sleeping bags, resentment will inevitably build.”
 
-The first issue on the agenda was this:
+With only a limited number of tents and sleeping bags available for thirty people, my solution was straightforward.
 
-"The loss of potions and other consumables is a problem, but the shortage of tents and sleeping bags is the biggest concern."
+“And how do you intend to handle this?”
 
-"They're already hungry and tired. If they can't even sleep properly, they'll be furious."
+“Increase the number of guards since we’re short on sleeping arrangements.”
 
-"We need a fair solution. If some people get to sleep comfortably while others have to sleep outside without sleeping bags, there will be resentment."
+“…Guards?”
 
-We didn't have enough tents and sleeping bags for everyone.
+If the number of people standing guard outside increases, the number of people who can sleep indoors also increases accordingly.
 
-My solution was simple.
+“…That’s quite extreme.”
 
-"What are you going to do?"
+“It’ll only increase the strain on everyone.”
 
-"Increase the number of night watch duty personnel."
+“Wouldn’t it be better to take turns rotating the tents and sleeping bags?”
 
-"...Night watch duty?"
+The team leaders expressed their concerns, but I pushed forward with my decision.
 
-They didn't have enough sleeping bags anyway.
+“Schuiz, such an approach will surely lead to resentment toward you.”
 
-If more people were on guard duty, more people could sleep inside.
+Well, their concerns were understandable.
 
-"...That's too extreme."
+A solution that eliminates the problem rather than solving it.
 
-"It will only increase their fatigue."
+From tomorrow, they’ll probably complain that the barbaric human who doesn’t know anything about tactics is making them do strange things.
 
-"How about we rotate the use of tents and sleeping bags?"
+They’ll say I lack leadership qualities.
 
-The team leaders expressed their concerns, but I overruled them.
+However…
 
-"Schuitz, if you do that, they'll resent you even more."
+“It doesn’t matter. Announce it that way and select the guards from each team and decide the order.”
 
-They weren't wrong.
+I had no choice but to increase the number of guards.
 
-It was a solution that eliminated the problem, not solved it.
+Having more people awake at night also boosted our security, and I needed to keep an eye out for a possible traitor among us.
 
-They would probably complain about the barbarian leader's lack of tactical sense.
+“Ravien“
 
-They would say I wasn't fit to be a leader.
+I stopped the Dragon Tribe woman who was about to enter the tent looking tired.
 
-But...
+“What is it?”
 
-"I don't care. Announce it and have each team choose their night watch duty personnel."
+I couldn’t shake my suspicions about her either. I was also curious about her relationship with the marquis.
 
-I had to increase the number of guards.
+“Just wanted to chat a bit.”
 
-More people on guard duty meant better security at night. And I had to be wary of the traitor.
+“Is it about what happened earlier?”
 
-That's why...
+“Yes. What do you think?”
 
-"Raviyen."
+“Judging by that question, you suspect someone did it intentionally.”
 
-I stopped the Dragonkin woman as she was about to enter her tent.
+“It’s only wise to keep all options open.”
 
-"What is it?"
+After moving together as a team for a long time, the conversation flowed more comfortably than before, but there was no significant gain.
 
-"I wanted to talk to you about what happened earlier."
+“Even if you say that, I don’t really know. I’m not good at that kind of thing.”
 
-"You think someone did it on purpose?"
+“I see…”
 
-"We have to consider all possibilities."
+“Is that all?”
 
-The conversation was more relaxed than before, since we had spent some time together on the expedition...
+“Yes, you must be tired. Go get some rest.”
 
-But there wasn't much progress.
+I thought about talking more, but it seemed nothing would come out, so I let Ravien go.
 
-"I don't know. I'm not good at that sort of thing."
+And then…
 
-"I see..."
+“……”
 
-"Is that all?"
+After heading to the back of the tent where no one could see, I took out the ring from my pocket and put it on my finger.
 
-"Yes, you should get some rest. You must be tired."
+「The character has equipped No.6111 Fate Tracker.」
 
-I let her go. I wanted to talk to her more, but it seemed pointless.
+Just like every other day recently, the ring immediately emitted a bright red light.
 
-And...
+「The ring has detected the character’s fate.」
 
-"..."
+A sharp red glow—intense and unmistakable.
 
-I walked to a secluded spot behind the tents and took out the ring from my pocket.
+I hurriedly removed the ring before anyone could see.
 
-「Character has equipped No. 6111 Fate Tracker.」
+“Damn.”
 
-As always, it glowed as soon as I put it on.
+Ever since we entered the seventh floor, it had been like this.
 
-「The ring has detected the character's fate.」
+***
 
-It was a bright red light.
+Some Numbered items cannot be used in the city.
 
-I quickly took it off.
+Notably, No. 399, the Silence Cage, and the Fate Tracker.
 
-'Damn it.'
+So the first thing I did upon entering the labyrinth was to put on the ring.
 
-It had been like this since we entered the 7th floor.
+And…
 
----
+“At that time, there was no red light.”
 
-There were some Numbered Items that couldn't be used in the city.
+Even when we encountered other expeditions on the sixth floor or during our voyage, it didn’t change.
 
-No. 399 Cage of Silence was one of them, and so was the Fate Tracker.
+However, the moment I arrived at Ice Rock.
 
-So I put on the ring as soon as we entered the labyrinth.
-
-And...
-
-'It didn't glow back then.'
-
-It was the same when we met the other expedition teams on the 6th floor, and during the voyage.
-
-But as soon as we arrived at Ice Rock,
-
-Swaaaaaaaaaa!
+Swoosh—!
 
 The ring emitted a red light.
 
-It meant there was a negative event nearby.
+A red light without any positive aspects, indicating that a negative event was nearby.
 
-'What if the traitor was only supposed to act after we reached the 7th floor? That would explain why the ring didn't react before.'
+Until then, I hadn’t thought of a traitor.
 
-We had experienced a series of unfortunate events during the journey, but the ring's light remained the same.
+But…
 
-It meant that there was still a negative event ahead of us.
+“If the timing of the betrayal was set after arriving on the 7th floor, it makes sense that the red light didn’t appear before now.”
 
-"Mister, wake up!"
+Throughout the journey, low-probability misfortunes overlapped, but the ring’s light remained the same.
 
-I opened my eyes and saw Erwen.
+This meant that everything was not over yet, and that there were still negative events within my range…
 
-The heating stones were running low, so we had to ration them.
+“Mister, how long are you going to sleep!”
 
-I was shivering from the cold.
+Suddenly, I opened my eyes to see Erwin standing over me.
 
-"Where are the old man and Ashid?"
+The cold had seeped in as our warming stones dwindled, leaving me feeling chilled all night.
 
-"They're already awake and getting ready."
+“Where’s Old Didi and Ashid?”
 
-"Why didn't you wake me up?"
+“They woke up early and are already preparing.”
 
-"You looked tired."
+“Why didn’t you wake me sooner?”
 
-Hmm... I appreciate the concern, but it's embarrassing for a warrior to be worried about his stamina by a mage and an ability user.
+“You seemed tired.”
 
-"Can I shave your beard?"
+Hmm… I’m grateful for the thought, but as a warrior, it’s disgraceful to be worried about stamina by a mage and a support type mage.
 
-Erwen smiled and asked as I sat up.
+“Should I shave you?”
 
-I touched my chin, and a thick beard had grown.
+As I sat up, Erwin grinned and offered.
 
-But I didn't mind.
+Unconsciously touching my chin, I felt a thick beard.
 
-"It's fine. It's not bothering me."
+Of course, I didn’t think it was a problem.
 
-It was actually helpful in this environment.
+“No need. It’s not uncomfortable.”
 
-It was extra insulation.
+In this environment, a beard actually helps.
 
-"But you look much more handsome without it..."
+After all, it’s hair, so it keeps you a bit warmer, right?
 
-I ignored Erwen's whining and stepped outside.
+“Aw, but you look so much better without it…”
 
-The frigid air pierced through my skin and lungs.
+Ignoring Erwin’s grumbling, I went outside, and the cold air wrapped around my skin and lungs.
 
-But the biggest problem was hunger.
+Well, the biggest problem would be hunger.
 
-Rumble.
+Growl—!
 
-My stomach growled as soon as I woke up.
+As soon as I woke up, I felt hunger in my stomach.
 
-"You're awake."
+“Are you awake?”
 
-"Let's take down the tents."
+“Let’s hurry and dismantle the tents first.”
 
-I joined Didi and Ashid and helped them dismantle the tents and load them onto the sleds.
+Together with Old Didi and Ashid,we packed up and loaded the tents onto the sleds.
 
-And...
+And then…
 
-Crunch, crunch.
+Creak, creak.
 
-I chewed on a piece of jerky, rationing my breakfast.
+After carefully chewing on the pieces of jerky provided for breakfast, we resumed our journey.
 
-We resumed our journey.
+Day 10 of entering Ice Rock.
 
-Tenth day in Ice Rock.
+The route we have to cross from now on is simple.
 
-The path ahead was simple.
+We’ll explore a maze of ice caves that run beneath a massive mountain range in the center of the continent until we reach the massive sinkhole known as the “Glacier Eye”, and from there, you could say we’re in the latter half.
 
-We had to navigate through a maze-like ice cave beneath a giant mountain range.
+Simply put, there’s a portal underground that leads to the 8th floor.
 
-At the end of the maze, there was a giant sinkhole called the Eye of the Glacier.
+“An essence… It’s the essence!”
 
-And at the bottom of the Eye of the Glacier...
+Suddenly, there was a commotion from behind.
 
-"An essence! An essence!"
+“Did it come from the Meran we just defeated?
 
-We heard a commotion from behind us.
+“What? Wait a minute, then it’s a Level 3 essence?”
 
-"Is that from Meran? Did someone kill a Meran?"
+To add, it’s not just any Level 3 essence.
 
-"What? Wait, then that's a 3rd-grade essence!"
+It’s a rare essence that can only be obtained here in Ice Rock.
 
-It wasn't just any 3rd-grade essence.
+“Everyone, step back!”
 
-It was a rare essence that could only be obtained in Ice Rock.
+First, we moved the members back and sent a mage to collect the essence into a test tube.
 
-"Everyone, step back!"
+As it turned out, it was indeed Meran’s essence.
 
-I had the explorers move away and sent the mage to collect the essence.
+After yesterday’s bad news, maybe this is the universe’s way of making up.
 
-It was confirmed to be a Meran essence.
+Even though they are high-ranking explorers, perhaps because they covet the level 3 essence, their eyes shone brightly.
 
-Good news always followed bad news.
+“Everyone, calm down! This essence will, in the future, be offered with priority to those who wish to purchase it, based on the average price, after deducting the cost of the test tube! If there are multiple contenders, we will hold an auction!”
 
-Even the high-level explorers were excited by the 3rd-grade essence.
+Before it turned into a big commotion, Kaislan hurriedly established discipline within the expedition.
 
-"Everyone, calm down. If anyone is interested in purchasing this essence, they'll be given priority based on the average market price, excluding the cost of the test tube. If there are multiple buyers, we'll hold an auction!"
+“……”
 
-Kaislan intervened before the excitement could turn into chaos.
+Some explorers smacked their lips in disappointment, but most didn’t mind and were purely happy.
 
-"..."
+Because although a few essences had come out during the expedition, they were all low Levels.
 
-Some explorers looked disappointed, but most were just happy.
+A Level 3 essence is different, starting from its price range.
 
-We had obtained a few essences during the expedition, but they were all low-grade.
+Dividing it among thirty people wouldn’t mean much, but income is income.
 
-A 3rd-grade essence was in a different league.
+“Didn’t they say they’d distribute the loot from those Noark bastards fairly afterward?”
 
-Well, even if we split it thirty ways, the individual share wouldn't be that much.
+“Moreover, according to our merits, there will be rewards from the royal family, so that can’t be ignored.”
 
-But it was still a profit.
+“Those who aim for that essence will have to accumulate a lot of merits. Otherwise, there’s no way they’d have the money.”
 
-"...We'll also be splitting the loot from Noark."
+“Anyway, it means we’ll be properly rewarded for our hardships.”
 
-"And the royal family will reward us based on our achievements. That's not a small sum either."
+“That’s only if the expedition is successful, though.”
 
-"Those who want the essence should focus on earning achievements. Otherwise, they won't be able to afford it."
+Still, perhaps because there was positive news after a long time, despite what happened yesterday, the atmosphere within the expedition was quite bright.
 
-"So we'll be compensated for our efforts."
+Well, they might be badmouthing me behind my back.
 
-"If the expedition is successful, that is."
+If they can keep their spirits up that way.
 
-The positive news had lifted the mood, despite the recent incident.
+As the expedition leader, there’s no reason not to welcome it.
 
-Well, they're probably still complaining about me behind my back.
+“After all, when people gather, there has to be at least one bad guy, right?”
 
-But I didn't mind.
+Three more days passed like this.
 
-If that helped them cope with the situation,
+Fortunately, we didn’t lose any more supplies or have any casualties in battle.
 
-It was a good thing for me, as the leader.
+However…
 
-'Every group needs a villain.'
+「The ring has detected the character’s fate.」
 
-Three days passed.
+The ring continued to emit a red glow.
 
-Thankfully, there were no more incidents. No one died, and we didn't lose any more supplies.
+So, as we moved forward,  I interrogated the summoner or repeatedly checked the information of the expedition members, frantically investigating the traitor.
 
-But...
+And finally.
 
-「The ring has detected the character's fate.」
+“It’s the Glacier Eye!”
 
-The ring's light remained red.
+Day 13 of entering Ice Rock.
 
-I continued to investigate the traitor, interrogating the summoner and rechecking the members' information.
+We were now nearing the final stretch of the seventh floor.
 
-And finally...
+“What’s going on? It’s still early, but you’ve ordered us to set up camp…?”
 
-"We're here! The Eye of the Glacier!"
+After giving the order to establish camp, I gathered all the core members.
 
-13th day in Ice Rock.
+The reason was simple.
 
-We were nearing the end of the 7th floor.
+Even though there was still time before nightfall.
 
-"What's going on? Why are we setting up camp so early?"
+“There is a traitor among us.”
 
-I ordered them to set up camp and called for a meeting with the team leaders.
-
-It was still early, but...
-
-"There's a traitor among us."
-
-I knew who it was.
+Because I think I now know who that bastard is.

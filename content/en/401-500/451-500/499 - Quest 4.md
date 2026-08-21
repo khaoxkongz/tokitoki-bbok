@@ -1,317 +1,277 @@
-# Quest 4
+Quest 4
 
-Melbeth, the demi-human noble alliance.
+The Noble Alliance of Various Races, Melbes.
 
-I had joined them, securing support for both House Yandel and Clan Anabada.
+After joining them, I was able to secure support for House Jandel as well as for Clan Anabada.
 
-Well, the clan support had been more like extortion. And it wasn’t much.
+In the case of the clan, I practically had to beg for their support, and the items they provided weren’t particularly significant.
 
-A discounted clan house, which we were currently using as our residence, and access to loans from Melbeth’s coffers. That was all.
+The only benefits were that the clan house, which we currently use as our residence, was given to us at a reduced rate, and that we will be able to take out a loan from them in the future.
 
-‘A request…’
+‘Requests…’
 
-That’s why ‘requests’ were so important.
+This is why ‘requests’ have become so important.
 
-They were more like conditional contracts than favors.
+‘Requests’ are more like conditional contracts than outright benefits.
 
-‘My treatment, and my standing within Melbeth, will depend on how well I handle these requests.’
+‘How well I handle this request will determine my standing and the benefits I receive. My position will rise significantly.’
 
-It was like the achievement system in a game.
+In gaming terms, it’s similar to a reputation system.
 
-Complete quests, increase your rank, and unlock new benefits. Of course, I had to be careful not to bite off more than I could chew.
+Completing quests increases your rank, and with it, the benefits you receive. Of course, I have to measure the bed before I stretch out.
 
-“What’s the request?”
+“What kind of request?”
 
-I asked about the details of the request before asking about the reward.
+Rather than asking about the reward, I first wanted to know the details of the request.
 
 “Information.”
 
 “…Information?”
 
-It was an unexpected answer.
+This was completely unexpected.
 
-Most requests were about hunting, gathering, or combat.
+Requests usually fall into one of three categories: hunting, gathering, or combat.
 
 But information?
 
-I gave Viscount Gudriks a look, and he took a sip of his tea before continuing.
+I gave him a look, urging him to explain further. Lord Goodrix sipped his tea and continued.
 
-“There was… a rather significant event recently, wasn’t there?”
+“Well… there’s been quite a big incident recently, hasn’t there?”
 
-“Be specific.”
+“Stop beating around the bush and get to the point.”
 
-He cleared his throat and spoke more clearly.
+The Viscount, who had initially tried to speak in a roundabout, noble manner, coughed awkwardly and got straight to the point.
 
-Well, not that clearly.
+Well, not exactly straight to the point.
 
-“The inscription on the Stone of Honor. It seems like the ‘hidden area’ might be a new floor.”
+“The inscription on the Stone of Honor. After some investigation, it seems that the hidden area likely refers to a new layer.”
 
-I understood what he meant.
+Now I could understand what he was getting at.
 
-It was obvious what kind of information he wanted.
+“Baron Jandel, you’re planning to search unexplored areas in the next expedition, right? We’d like you to share your findings with us. Whether the hidden area is indeed a new layer, where the entrance is, how to get in, and what’s inside.”
 
-“You’ll be exploring the unexplored area, won’t you, Baron Yandel? We would like you to share your findings with us. Whether it’s really a new floor, how to access it, and what’s inside.”
+At my question, Lord Goodrix paused for a moment, as if to organise his thoughts, then spoke.
 
-Hmm…
+“Baron, do you know what the most expensive level 9 essence in history is? It’s the Abyssal Fish. Although it is not significantly better than other level 9 essences, it sold for 3.2 billion stones. Do you know why?”
 
-As I was thinking, he quickly added,
+It was the first time I’d heard this story, but I could guess the reason.
 
-“Ah, and as I said before, this is an officially approved request from Melbeth’s council. You will be compensated accordingly upon completion.”
+“Because it was the first.”
 
-“How much?”
+“Exactly. The fact that it was discovered in the 9th-floor rift was enough for the Mage Tower to pay such a hefty sum. Being the first carries immense value.”
 
-“It depends on the value and rarity of the information. We don’t know anything yet, do we? Maybe the entrance will be discovered during your next expedition, and everyone will know how to access it. But if you bring us valuable information, the reward will be substantial. Thirteen families have already agreed to contribute.”
+When I asked if it was all about money, the lord shook his head.
 
-“Thirteen?”
-
-“Everyone has a different opinion on what constitutes a valuable opportunity. The reward for this request will be paid from the funds pooled by those thirteen families.”
-
-In other words, the other families considered this request a waste of money.
-
-“So that’s why you’re here instead of holding an official meeting.”
-
-“That’s right. Unfortunately, the proposal didn’t pass the preliminary vote. But don’t worry, we’re authorized to pool our funds and make a private request.”
-
-The complicated process highlighted the disadvantages of a council.
-
-Well, there were advantages too, of course.
-
-“So… do you need time to think about it?”
-
-“I have a few questions.”
-
-“Ask away.”
-
-“What are you going to do with the information?”
-
-Viscount Gudriks paused for a moment, as if organizing his thoughts, and then he spoke.
-
-“Do you know what the most expensive 9th-grade essence ever sold was? It was the Abyssal Tongue. It wasn’t particularly useful compared to other 9th-grade essences, but it was sold for 3.2 billion stones. Do you know why?”
-
-I had never heard of it, but I could guess the reason.
-
-“…Because it was the first.”
-
-“That’s right. The Mage Tower paid a fortune for it just because it was found in a 9th-floor rift. The first discovery is always valuable.”
-
-But when I asked if their motive was purely monetary, he shook his head.
-
-“Newly discovered areas have always been a source of treasures and opportunities. Mulmarin, the Seadragon Slayer, is a prime example. The power and authority he gained from slaying the Sea Dragon for the first time could never be replicated.”
+“Throughout history, newly discovered areas have always held countless treasures and opportunities. Hero Mulmarin, the Dragon Slayer, is a prime example. The power and privileges he gained from being the first to slay a dragon were something no one in any labyrinth has been able to achieve since.”
 
 “So?”
 
-“The information you provide will be shared with trustworthy explorers from each tribe.”
+“The information we receive from you will be passed on to trusted explorers from various tribes.”
 
-“You’re going to use it to train them.”
+“You want to use the information to help them grow stronger.”
 
-“That’s right. The stronger the demi-human explorers are, the stronger we become.”
+“Exactly. The more power the explorers from various races gain, the greater our power will become.”
 
-His explanation was unnecessarily long, but I understood Melbeth’s motive.
+Although the Viscount’s explanation was unnecessarily long, I could clearly see why Melbes had made this request.
 
-And I agreed with it.
+And I was convinced.
 
-“Of course, you might be hesitant to share your findings with us. But I promise you, the information will be kept confidential and only shared with those we can trust.”
+“Of course, Baron, you might find it unfair to share your valuable expedition findings with us. But I promise you this: the information you provide will only be shared with trusted people who will keep it confidential.
 
-He then asked if I would accept the request, and I answered,
+With that, the Viscount asked if I would accept the request, and I replied.
 
-“Alright. I’ll do it.”
+“Alright. I’ll take the request.”
 
-It wasn’t like there was a penalty for failure.
+After all, it wasn’t a quest with a penalty for failure.
 
-There was nothing to lose.
+I have nothing to lose by accepting it.
 
-“I’ll see you later.”
+“Then I’ll see you later.”
 
-I left the Gudriks estate and returned home. I gathered my teammates and shared the details of the new quest.
+After leaving the Viscount’s estate and returning home, I gathered my team to share the details of the new quest.
 
 There were some concerns, but no objections.
 
-We could decide what to do after we found the hidden area and assessed its value.
+We discussed our future expedition plans late into the night before finally heading to bed.
+
+Amelia and Erwin sat in two chairs in front of my bed.
+
+“There’s no need for you to stay, Tersia.”
+
+“No way! I’m here to watch over you, mister!”
+
+Why are they all acting like this when I will only be gone for a short while?
 
 Tick, tock.
 
-We discussed our exploration plans until late at night and then went to bed.
+I closed my eyes, counting the seconds on the clock on my bedside table.
 
-Amelia and Erwen sat on the chairs in front of my bed, chatting.
-
-“Tersia, you don’t have to stay here.”
-
-“I want to. I’m going to protect Mister.”
-
-…So they weren’t exactly on good terms.
-
-I closed my eyes, listening to the ticking of the clock.
-
-「Character’s soul resonates and is drawn to a specific world.」
-
-Half a month had already passed.
+[The character’s soul resonates and is drawn to a specific world]
 
 ---
 
-As soon as I woke up in Lee Hansu’s room, I turned on my computer and logged into the community.
+As soon as I woke up in Lee Han-soo’s room, I turned on the computer and logged into the community.
 
-[Long Live Korean Independence] - 0 users online.
+[Long Live Korean Independence] – 0 users online.
 
-They weren't here yet...
+Good, they haven’t logged in yet…
 
-I decided to check the forums first.
+It wouldn’t be too late to join after they have entered, so I first checked the community forum.
 
-There were already several new posts.
+As expected, posts were already flooding in.
 
-[Did you see the patch notes?]
+[Did you guys see the patch notes?]
 
-I couldn't believe it.
+This is what they mean when they say it feels like getting hit in the back of the head.
 
-There was another hidden area?
+Is it for real that there’s still a hidden area?
 
-[BurtusMaximus: The reason why [Dungeon and Stone] is a god-tier game = It's a free game that's over 10 years old, and it's still getting updates.]
+[BurtusMaximus: It’s a free game that’s over 10 years old and still getting updates.]
 
-[ㄴthese99: But it won't let us go home.]
+[ㄴthese99: But it won’t let you go home.]
 
-[ㄴBurtusMaximus: Right? It's a true god-tier game. Let us go home, you bastard.]
+[ㄴBurtusMaximus: Seriously, what a shitty game. Now let me go home, you damn bastard.]
 
-The patch notes seemed to be more shocking to the players than to the natives.
+The patch notes seemed to have shocked the players.
 
-I had caused a lot of trouble lately, attacking the black market and the Mage Tower… but this was the most talked-about topic.
+[But how did Bjorn manage to defeat the Lord of Terror to trigger this patch?]
 
-[How did Bjorn even trigger the patch by killing Dreadfear?]
+It’s weird that defeating it triggered a patch.
 
-Did he fry him in a pan or something?
+[Futuralis: He did a 5-man clear.]
 
-It didn't make sense.
+[ㄴAI_DIDIGO: Info 1, it wasn’t a 5-man clear, it was a 4-man clear.]
 
-[Futuralis: He did a five-man clear.]
+[ㄴFuturalis: Then maybe a 4-man clear is the condition.]
 
-[ㄴAI_DIDIGO: Correction: It was a four-man clear.]
+[ㄴAI_DIDIGO: Info 2, Bjorn Jandel wasn’t the first to do a 4-man clear either.]
 
-[ㄴFuturalis: Then that must be the trigger condition.]
+[ㄴFuturalis: So what’s the conclusion?]
 
-[ㄴAI_DIDIGO: Correction: Bjorn Yandel wasn't the first to do a four-man clear.]
+[ㄴAI_DIDIGO: Conclusion, there’s a 92.24571% chance that Bjorn Jandel fulfilled a special condition before defeating the Lord of Terror.]
 
-[ㄴFuturalis: So what's your point?]
+[ㄴPoster: This guy’s concept is funny.]
 
-[ㄴAI_DIDIGO: Conclusion: There is a 92.24571% chance that Bjorn Yandel met a special condition before slaying Dreadfear.]
+[Nyacreeps: But it makes sense, the royal researchers also believe that there’s a high probability that Gabriellius’ achievements were triggered under certain conditions.]
 
-[ㄴOP: This guy's roleplaying is funny.]
+Players were throwing out all sorts of possibilities about the sudden patch.
 
-[ㄴNyacreeps: But he's not wrong. The royal researchers also believe that Gavrilius's arrangement was activated under specific conditions.]
+I thought maybe the collective intelligence of the community could provide some clues, but I still had no idea what that ‘special condition’ might be.
 
-The players were speculating about the trigger conditions for the unexpected patch.
+‘Well… I guess it doesn’t matter now’
 
-I tried to find a clue, but I couldn't figure it out.
+After skimming through the board, I checked the chat room.
 
-'Well… it doesn't matter now.’
+[Long Live Korean Independence] – 2 users online.
 
-I finished browsing the forums and checked the chat room.
+Okay, they’re here on time.
 
-[Long Live Korean Independence] - 2 users online.
+As I entered the room, the two greeted me immediately upon sensing my presence
 
-Okay, they were both here.
+“Hyung-nim! You’re here!”
 
-I entered the chat room, and they greeted me.
-
-“Hyungnim! You’re here!”
-
-Lee Baekho bowed exaggeratedly.
+Lee Baek-ho bowed exaggeratedly.
 
 “Ah, you’re here?”
 
-Hyunbyul just glanced at me.
+Hyun Byeol glanced at me coolly.
 
-I sat down on the sofa, and Lee Baekho immediately sat down next to me.
+I walked past her and sat down on the couch, and Lee Baek-ho immediately sat down next to me.
 
-“Hyung! Guess what? We were talking before you came, and Hyunbyul noona said she still has feelings for you!”
+“Hyung! Do you know something? Before you came, we talked and Hyunbyeol Noona said she still has feelings for you!”
 
-“……Huh?”
+“………Huh?”
 
-What was he talking about?
+An incredibly awkward subject to start with.
 
-I looked at Hyunbyul, and her face was grim.
+I swallowed hard and glanced to the side, where Hyunbyeol’s stiff expression greeted me.
 
-“…Oppa, I didn’t say that. You don’t believe him, do you?”
+“…Oppa, I never said that. You’re not believing him, are you?”
 
-“Of course not.”
+“Ah, I know. Of course, I don’t believe him.”
 
-“Hyungnim! That’s hurtful! Noona, you’re lying! You blushed when I asked you what you would do if he asked you out again!”
+“Hyung-nim! How can you say something so hurtful! Noona, too! You didn’t say that? Weren’t you blushing earlier when I asked what you’d do if he asked to get back together?”
 
 Ah… so that’s what happened.
 
-…I’m glad.
+…What a relief.
 
-I had been wondering how I would face her.
+I was worried about how I’d face Hyun Byeol from now on.
 
-“…I didn’t blush. And even if I did, that’s not what it means.”
+“…I wasn’t blushing. And even if I was, how does that lead to that conclusion?”
 
-“Silence is sometimes a form of agreement.”
+“Hmph, silence can sometimes be a powerful affirmation.”
 
-“You’re… disgusting.”
+“Mr. Lee Baekho… you’re a scumbag, you know that?”
 
-Hyunbyul glared at Lee Baekho, refusing to play along.
+With those words, Hyun Byeol refused to engage with Lee Baek-ho’s antics any further.
 
-“Hyunbyul, stop it. I don’t believe him anyway. Baekho, stop messing around.”
+She simply glared at him with sharp eyes.
 
-“Yes, sir!”
+“Hyun Byeol, that’s enough. I’m not going to believe him anyway. Baekho, stop messing around.”
 
-“Seriously…”
+“Yes, Hyung!”
 
-I intervened, and Lee Baekho sat up straight, while Hyunbyul clenched her fists.
+“I’m really pissed…”
 
-‘When did they get so close?’
+When I mediated the situation, Lee Baek-ho said in a condescending voice, and Hyun Byeol clenched her fists tightly.
 
-I was curious, but I didn’t ask.
+‘When did these two get so close?’
 
-It would only provoke Hyunbyul.
+I was curious, but I didn’t voice it out loud.
 
-I had to make the most of our limited time in the community.
+If I did, Hyun Byeol would definitely have another outburst.
 
-Therefore…
+Lee Baek-ho and I only get to meet once a month in this community, and even then it’s only for an hour, so we have to make the most of our time.
 
-“Hyunbyul.”
+In that sense…
 
-I decided to send Hyunbyul away first.
+“Hyun Byeol.”
 
-Her expression darkened as soon as I called her name. She seemed to know what I was going to say.
+I decided to send Hyun Byeol out to have a conversation.
 
-So I didn’t elaborate.
+Just by calling her name, her expression twisted, so it seemed she already had an idea of what I was going to say.
 
-“I need to talk to Baekho… you know?”
+That made it easier for me to keep it brief.
+
+“I need to talk to Baek-ho for a bit… you understand?”
 
 “…I’ll be back in an hour.”
 
-She glared at Lee Baekho one last time and then left the chat room.
+With that, Hyun Byeol shot Lee Baekho one last glare before leaving the chat room.
 
-“Whew! She’s fun, isn’t she? She’s so strong, but she’s so awkward around you…”
+“Phew! Isn’t she really fun? She’s super tough, but kind of fumbles around you, which is interesting…”
 
-“Baekho.”
+“Baek-ho.”
 
 “Yes?”
 
-“Don’t be so disrespectful.”
+“Don’t be so rude.”
 
-“…Alright. I’ll stop joking. Happy?”
+“…Okay. I won’t play around anymore. Happy?”
 
-Damn it, how could I control this guy?
+Sigh… how am I supposed to handle this guy?
 
-As I was thinking, Lee Baekho changed the subject.
+While I was thinking, Lee Baek-ho noticed my mood and brought up a new topic.
 
 “By the way, hyung.”
 
 “Yeah.”
 
-“How was your reunion with Meowmeow… I mean, Misha Carlstain?”
+“Did you meet Nyang Nyang… I mean, Misha Karlstein?”
 
-“It went well. Thanks to you.”
+“Yeah. Thanks to you.”
 
-There was still some awkwardness between us, but time would heal all wounds.
+Perhaps because of the time that had passed, there was still some distance between us, but time would fix that.
 
-So…
+Yeah, so…
 
-“Baekho.”
+“Anyway, Baekho.”
 
-Now that Misha was back…
-
-I asked him the question I hadn't been able to ask last time.
+Now that Misha had safely returned, it was time to ask the question I hadn’t been able to ask during our last meeting.
 
 “What’s the Record Stone?”
 
-It was time for me to understand what was going on.
+I was tired of being left out of conversations where I was the only one who didn’t know what was going on.
+
+Continue reading more chapters at henprogressive.com

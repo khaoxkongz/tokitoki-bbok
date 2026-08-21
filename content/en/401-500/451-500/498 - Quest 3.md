@@ -1,415 +1,405 @@
-# Quest 3
+Quest 3
 
-Properly brewed tea and formal refreshments.
+Despite the table of finely brewed tea and fancy appetizers prepared by Auyen, an awkward silence filled the room.
 
-An awkward silence hung in the air between us, with Auyen's meticulously prepared tea set on the table.
+Eventually, Misha broke the silence first.
 
-Misha was the first to speak.
-
-“These…”
+“This…”
 
 “Hmm?”
 
-“These are Lubat Bakery’s cookies… They’re not bad, but Nielon Bakery’s are cheaper and more to your liking…”
+“These are pastries from Rubat Bakery… They’re not bad here, but Nielon Bakery is cheaper and would suit your taste better…”
 
-Why was she talking about cookies all of a sudden?
+Why is she suddenly talking about pastries?
 
-I found it random, but I assumed it was small talk to break the ice, so I just replied casually.
+It felt out of the blue, but I assumed it was small talk to break the ice, so I casually replied.
 
-“Really? Auyen’s the one who buys the snacks, so I don’t really know. Speaking of Auyen—”
+“Is that so? Auyen takes care of these things, so I don’t really know. Oh, by the way, Auyen is—”
 
-“I know. Auyen Lokrob, the navigator.”
+“I know. Auyen Roklov… the sailor.”
 
 “…You do?”
 
-“…….”
+“……”
 
-The conversation died down.
+For some reason, the conversation that had just started quickly fizzled out.
 
-‘This is awkward.’
+‘Sigh, she’s making me nervous for no reason.’
 
-It was better to get it over with quickly, like ripping off a band-aid.
+I decided to cut to the chase and get to the point.
 
-“Misha, you’re here, so I assume you’ve made up your mind.”
+“Misha, I assume you coming here today means you’ve made up your mind?”
 
-“…Yes.”
+“…Yeah.”
 
-“So what did you decide?”
+“So, what’s your decision?”
 
-I asked directly, and Misha hesitated for a long time before answering.
+When I asked directly, Misha hesitated for a long time before answering.
 
-“I’ll join your clan.”
+“I’ll join… the new clan you’re forming.”
 
 “Really?”
 
-“Yes…”
+“Mm-hmm…”
 
-She nodded slightly, and I felt relieved.
+Her little nod made me relax.
 
-She had been fidgeting, so I thought she was going to refuse.
+I had been preparing myself for a rejection, given how she kept hesitating.
 
-“If… you and your teammates are okay with it…”
+“As long as you and your comrades are okay with it…”
 
-“Of course we are! Why wouldn’t we be? Ah, you said you didn’t get along with Erwen, right? Don’t worry, you two will be fine. She’s much better now.”
+I replied firmly to her trailing words.
 
-“Oh… really…?”
+“Why wouldn’t they be? Oh, you mentioned things weren’t good with Erwin, right? Don’t worry. You’ll get along like before. She’s in a much better state now.”
 
-“Why don’t I call her now?”
+“Ah… really…?”
 
-“W-What…?”
+“Since we’re on the topic, how about calling her over now?”
 
-“You two didn’t even get a chance to properly greet each other. You’ll be exploring the labyrinth together, so it’s a good opportunity…”
+“Huh, what…?”
 
-Misha looked flustered for a moment, but then she nodded.
+“You didn’t get to properly greet her last time. Since we’ll be entering the labyrinth together, it might be good to have some time to talk…”
 
-I left her in the living room and went upstairs to get Amelia and Erwen.
+Misha looked confused for a moment, but soon nodded and agreed.
 
-And…
+So, I left Misha alone and went upstairs to fetch Amelia and Erwin.
 
-“…….”
+And then…
 
-“…….”
+“……”
 
-As expected, a stifling silence filled the room.
+“……”
 
-After a while…
+As expected, an almost suffocating silence filled the living room.
 
-Amelia sighed and spoke.
+After a while, Amelia sighed and spoke up.
 
-I had given her a look, urging her to do something about the awkward atmosphere, and she had reluctantly taken the initiative…
+“Jandel. Stay upstairs.”
 
-“Yandel, go upstairs.”
+…Huh?
 
-…What?
+“If you want this resolved, just follow my instructions. If you’re here, you’ll only interfere.”
 
-“If you want this to be resolved, just listen to me. You’ll only make things worse by staying here.”
-
-I was kicked out.
+For some reason, I was kicked out from their conversation.
 
 ---
 
-The conversation between Amelia, Erwen, and Misha lasted for about an hour.
+The conversation between Amelia, Erwin, and Misha ended after about an hour.
 
-Amelia knocked on the door, giving me permission to come down, and I rushed downstairs.
+Amelia knocked on the door she had closed and gave me permission to come back down. I hurriedly ran back to the first floor.
 
-The living room was a mess.
+The state of the living room was completely different from what I had expected.
 
-“…….”
+“……”
 
-“…….”
+“……”
 
-It wasn’t exactly a hostile atmosphere, but it wasn’t exactly friendly either. It looked like a typhoon had just passed through.
+It wasn’t exactly harmonious, but it wasn’t hostile either. It just looked like a typhoon had passed through, leaving chaos in its wake.
 
-“Um… Emily? What happened here?”
+“Uh… Emily? What happened here?”
 
-I asked, dumbfounded, and Amelia replied casually,
+When I asked dumbfounded, Amelia replied as if it were nothing.
 
-“We had a long talk, and we decided to get along.”
+“After a long talk, the three of us decided to try to get along.”
 
-“Well, that’s good… but that’s not what I’m asking. There’s… a lot of broken furniture…”
+“Well, that’s good, but… that’s not what I’m asking. Why does it look like things are broken everywhere?”
 
-“Ah, that? Don’t worry about it. We just got a little… carried away.”
+“Oh, that? Don’t worry about it. We just got a little carried away during the conversation.”
 
-How could they get ‘carried away’ and turn the living room into this state?
+How could a “little carried away” turn the living room into such a mess?
 
-I looked around, and Erwen avoided my gaze.
+As I glanced around, Erwin, who had caught my gaze, looked away.
 
-“…Yes, we got carried away.”
+“…Yeah. We got carried away.”
 
-Right, that’s how it was going to be.
+Right, that’s the story you’re going with, huh?
 
-I looked at Misha, but she also remained silent.
+I shot a questioning look at Misha, but she also kept her mouth shut, offering no explanation.
 
-‘Well, at least no one’s injured…’
+I decided not to press further on the state of the living room.
 
-I decided not to pry any further.
+I have enough sense to know when to stop.
 
-I had some tact.
+‘It seems there was some trouble, but it ended well.’
 
-‘It seems like they worked things out, even though there was some friction.’
+If I had to guess, Misha and Erwen probably clashed, and Amelia mediated between them.
 
-I guessed that Misha and Erwen had clashed, and Amelia had mediated.
+“I think… I’ll head upstairs now.”
 
-“I… I’ll be going upstairs now.”
+Erwin quickly retreated to her room, and Misha also stood up.
 
-Erwen quickly left the room, and Misha stood up.
+“Then, I… I’ll be going too…”
 
-“Th-Then I… I should be going too…”
+“Huh? Where are you going? Just stay here. There are plenty of empty rooms.”
 
-“Huh? Where are you going? Just stay here. We have plenty of rooms.”
+“Well… I thought about it, and I think it’s better if I stay somewhere else… It might be uncomfortable for everyone… I heard Aynar is doing the same…?”
 
-“Well… I thought about it, and… I think it’s better if I stay somewhere else… It’ll be awkward… I heard Ainar is also staying at the sanctuary…”
+Ah, that’s true.
 
-Right, Ainar had been enjoying her life as the 1st Elder.
+Aynar has been spending all her time at the sanctuary, saying it’s really fun, living her days as the First Elder.
 
-“So… will you let go of my hand now?”
+“So… can you let me go?”
 
-I released her wrist.
+I let go of her wrist, which I had grabbed impulsively.
 
-She rubbed it gently, as if it had been hurting.
+Misha gently rubbed the spot where I had held her, as if it hurt a little.
 
-“Th-Then…”
+“Th, then…”
 
-She opened the door and left. I couldn't stop her.
+Misha quickly opened the front door and left, and I couldn’t bring myself to stop her as she drew a line.
 
-“…What did you talk about?”
+“…what exactly did the three of you talk about?”
 
-I asked Amelia, but she just shrugged.
+I asked Amelia in frustration, but once again I didn’t get a proper answer.
 
-“It’s a secret. You wouldn’t understand.”
+“It’s a secret between us girls. You don’t need to know.”
 
-That made it even more confusing.
+Ugh, that just makes me even more curious.
 
-What had they talked about?
+What exactly did they discuss?
 
 ---
 
-The day after Misha’s visit,
-
-Another unexpected guest arrived early in the morning.
+Another unexpected visitor arrived early in the morning.
 
 “…Raven?”
 
-“Can I come in?”
+“May I come in?”
 
-“Of course.”
+“Ah, of course.”
 
-Raven, who had been busy with work after Erwen’s essence experiment, had finally found time to visit.
+After she ran tests on Erwin’s new essence, she had been busy with her job. It had been a while since her last visit.
 
-“Your new house is smaller than the previous one.”
+“The house feels smaller than before?”
 
-“Ah, this is your first time here, right?”
+“Ah, this is your first time in the new house, right?”
 
-I gave her a brief tour of the house, and then we started our conversation over tea and snacks.
+After giving her a quick tour of the house, we started talking while enjoying the refreshments Auyen had prepared.
 
-“You didn’t come here just because you were bored. What is it?”
+“You didn’t come just to chat, right? What brings you here?”
 
-“What do you mean, ‘what is it’?!”
+“What brings me here? Are you kidding?!”
 
-“It’s about the Mage Tower, isn’t it?”
+“Ah, it’s about the MageTower, isn’t it?”
 
-“Haa…”
+“Sigh…”
 
-She sighed, but she didn't scold me.
+Raven let out a deep sigh but, surprisingly, didn’t say much more.
 
-She knew the situation.
+She knows the situation too.
 
-I had been a bit aggressive, but I had done what I had to do.
+Even if the process was a bit extreme, I only did what I had to do.
 
-And the situation had been resolved peacefully.
+And most importantly, the matter was resolved amicably.
 
-So…
+“So, what kind of magic did you use on him?”
 
-“How did you do it?”
+That must be the real reason for her visit.
 
-That was the real reason for her visit.
+“For the Tower Master to make such concessions, I can’t understand it. To be honest, I thought war was the only option left…”
 
-“I don’t understand how the Tower Master could make such a concession. I honestly thought it was going to be a war…”
+“So, that’s what you came to ask about?”
 
-“So you came here because you were curious?”
+“…Partly.”
 
-“…Among other things.”
+After some thought, I confessed everything about the deal I made with the Tower Master.
 
-I hesitated for a moment and then decided to tell her about the deal I had made with the Tower Master.
+I wanted her advice on this part too.
 
-I wanted her opinion on this.
-
-“Lurendel Galinbaret… you’re saying the Tower Master gave up so much to protect her?”
+“Lurendel Galinbaret… The Tower Master made all those concessions to protect her?”
 
 “Do you know anything about her?”
 
-“…Not really. We’ve never interacted before. I haven’t been active in the Mage Tower since joining the military.”
+“Not much. We were in different ranks, so I never had a chance to talk to her. And after I joined the military, I hardly did any Tower activities.”
 
-“But you’re a mage. You must know more than I do. Tell me anything you know.”
+“But you’re both mages, so you must know more than I do. Tell me anything.”
 
 “Well…”
 
-Raven hesitated for a moment and then spoke.
+Raven hesitated for a moment before speaking.
 
-“She’s published the most research papers on barbarian hearts. And the Triten School is also very interested in that field of research.”
+“Lurendel Galinbaret is the mage who has published the most papers on the Barbarian’s Heart. The Triten school is also very interested in that research.”
 
 “Hmm, so that’s why she wanted my heart.”
 
-“Maybe. She might have placed that request out of pure academic curiosity.”
+“Maybe. If it’s her, she probably genuinely wanted to study your heart, which is why she made that request.”
 
-“And the Tower Master is also interested in her research.”
+“And that research must be important enough to interest even the Tower Master.”
 
-“That’s probably it… Otherwise, he wouldn’t have made such a concession.”
+“That’s likely the case… Otherwise, the Tower Master wouldn’t have made such concessions.”
 
-“…Raven, can you investigate this for me?”
+“…Raven, could you look into this for me?”
 
-“Hmm… Sure. I’m also curious about this. I’ll let you know if I find anything.”
+“Hmm… Sure. I’m a bit curious about this too. If I find anything, I’ll share it with you.”
 
-“Thank you.”
+“Thanks.”
 
-That concluded the topic.
+And with that, the conversation on this topic ended.
 
-I then asked her another question.
+Since Raven was here, I decided to ask her something else.
 
-“Raven, have you ever… gained ‘knowledge’ in the labyrinth?”
+“Raven, by the way. Is it possible to gain ‘knowledge’ in the labyrinth?”
 
 “Knowledge…?”
 
-“Yes, knowledge. Like suddenly being able to read and write ancient language, even though you couldn’t before—”
+“Yeah, knowledge. Like suddenly being able to read and write ancient languages you couldn’t before—”
 
-Raven slammed her hand on the table and stood up.
+At my example, Raven slammed the table and stood up.
 
-“Ancient language! You can read ancient language?!”
+“Ancient languages! You can read ancient languages now?!”
 
-“Ah, no… that was just an example—”
+“Ah, no… That was just an example—”
 
-“What example?! That’s exactly what I’m talking about!”
+“An example? That’s exactly what it sounds like!”
 
-That’s why I liked perceptive people.
+This is why sharp people are troublesome.
 
-There was no point in making excuses.
+I figured she wouldn’t believe me if I tried to dodge the question, so I just admitted it outright.
 
-“Yes, I can read ancient language now.”
+“Yeah, I can read ancient languages now.”
 
-“How well…?”
+“To what extent…?”
 
-“Well… I haven’t really tested it yet…”
+“Well? I haven’t really tested it yet…”
 
-I trailed off, and Raven pulled out a book written in ancient language from her subspace pocket and handed it to me.
+As I trailed off, Raven pulled out a book written in ancient language from her subspace and made me read it.
 
 But…
 
-“’Mahniarsus pleaded for the return of his wife, but Kaprakadah refused, claiming he could love her more.’ Wait, what is this book about?”
+“Maharniarsus pleaded for his wife’s return, but Kaprakadah firmly refused, claiming he could love her more than Maharniarsus ever could… Wait, what kind of book is this?”
 
-“Just keep reading.”
+“Never mind, just keep going.”
 
-“…’That was the reason. Mahniarsus drew his sword and stabbed Kaprakadah in the heart. Kaprakadah reached out, his hand covered in blood. That was all he could do…’”
+“…So Maharniarsus drew his sword and plunged it into his rival’s heart. As Kaprakadah bled, he reached out. But all he could do was…”
 
-Raven’s expression darkened as I continued reading.
+The more I read aloud, the darker Raven’s expression became.
 
-“I-I can barely read this without a dictionary…”
+“Th, this is a book I can’t even read properly without a dictionary…”
 
-Hmm, is that so…?
+I know she’s one of the mages who studied ancient languages diligently.
 
-She was supposed to be one of the most knowledgeable mages when it came to ancient languages.
-
-“Muten Abiyur Bukrath.”
+“Muthen Aviyur Bukrath.”
 
 “…What did you just say?”
 
-“I can also speak ancient language.”
+“It means, ‘I can speak ancient languages.'”
 
-I shrugged, and after a long pause, she replied,
+As I shrugged, it took a while for her to react.
 
-“…Yandel… do you want to die?”
+“…………Jandel, do you want to get hit?”
 
-She raised her hand threateningly.
+Raven raised her small hand, clearly not as a mere threat.
 
-“Kiatto Kiki Keuek.”
+“Kkiatho Kkikheh Kkuekheh.”
 
 “……?”
 
-“Ah, I don’t want to be hit—”
+“Ah, that means I don’t want to get hit—”
 
-“You idiot!!”
+“Are you making fun of me?!”
 
-…I got punched.
+…In the end, I got hit.
 
-Well, her hand was the one that was swollen.
+Well, it was her hand that swelled up, though.
 
-“Seriously… why are you like this?”
+“Ah, seriously… Why are you like this, Jandel?”
 
-“Sorry. Anyway, back to the topic. Have you ever heard of anything like this happening before?”
+“Sorry. Anyway, back to the main topic. Have you ever heard of something like this happening?”
 
-“…Not that I know of. But… how did this happen to you? Is it… the reward? The one from the Stone of Honor…?”
+“…Not that I know of. But… what happened to you? Is it… the reward? Related to the achievement recorded on the Stone of Honor this time…”
 
-“Sort of.”
+“Well, something like that.”
 
-“…Can you tell me about it?”
+“………Can you tell me about it?”
 
-Raven asked cautiously, and I readily agreed.
+Raven asked cautiously, and I was happy to tell her what had happened.
 
-She had helped me, even though she knew I was an evil spirit.
+Even though we’re not comrades like before, she’s still the woman who helped me even after she found out that I was an evil spirit.
 
-And I needed her expertise as a mage.
+Besides, I needed a mage’s insight.
 
-“What you experienced wasn’t just a story… it must be based on real events! A clear causal relationship between the Floor Lord and the Witch…!”
+“The things you experienced there can’t just be made-up stories. No, they must have been real events from the past! A clear cause-and-effect relationship between the Floor Lord and the witch!”
 
-Raven was excited after hearing my story.
+Raven couldn’t hide her excitement after hearing my story.
 
-“This is a huge discovery! It proves that the labyrinth isn’t just another dimension! The dimensional coordinates of the labyrinth might be based on time, not space!”
+“This is a huge discovery! It proves the hypothesis that the labyrinth isn’t just another dimension! It’s possible that the labyrinth’s dimensional coordinates aren’t based on space but on the axis of time!”
 
-I wasn't as excited as she was.
+Of course, I was indifferent.
 
-I didn't really understand the difference between space and time.
+Whether it’s space or time, it didn’t make much sense to me.
 
-“Really?”
+“Is that so?”
 
-“What about Bersil Gowland? She’s a mage too! She must be researching this, right?”
+“Versil Gowland! What about her? She’s a mage too! She is probably researching it, right?”
 
-“No, she doesn’t seem interested.”
+“No, she doesn’t seem too interested either.”
 
-“Whaaat?!”
+“Whaaaat?!”
 
-Bersil was a player, after all.
+Well, Versil is a player, after all.
 
-She didn't seem to care much about history.
+She doesn’t seem too interested in historical stuff.
 
-But Raven couldn't believe it.
+But it must have been hard for Raven to understand.
 
-“H-How… how can a mage not be interested in this?! If I were there…”
+“H, how could that be…? How could a mage not care? If I were in her place…”
 
-She suddenly stopped talking.
+Raven, who had been raising her voice in disbelief, suddenly stopped speaking.
 
-“If you were there?”
+“If you were?”
 
-“…It’s nothing. It doesn’t matter.”
+“…Never mind. It’s a pointless conversation anyway.”
 
-The atmosphere suddenly became somber.
+The mood suddenly turned heavy.
 
-I decided to change the subject.
+Feeling like I needed to change the subject, I brought up some news that would make Raven happy.
 
-“Ah, right! I have another piece of good news for you.”
+“Oh, right! And there’s one more thing I wanted to tell you.”
 
 “…News?”
 
-“Misha is back.”
+“Misha’s back.”
 
-I told her about my reunion with Misha and her decision to rejoin the clan.
+I briefly explained how I had reunited with Misha and how she had decided to rejoin the Clan.
 
-But her reaction was unexpected.
+But what’s this now?
 
-“…Really? That’s good.”
+“………Is that so? That’s good to hear.”
 
-“I’ll give you her address, so you can visit her. She’ll be happy to see—”
+“I’ll give you her address. You should visit her sometime. Misha would love to see you-”
 
 “Later.”
 
 “…Huh?”
 
-“I-I should be going now. I have work to do.”
+“I, I should get going now. I have work to do back at the unit.”
 
-Raven’s expression darkened, and she quickly left the house.
+With a darker expression, Raven left the house as if fleeing.
 
 ---
 
-I was busy after Raven’s visit.
+Even after Raven’s visit, the busy days continued.
 
-I visited the sanctuary to check on Lotmiller, the dwarf’s forge to check on the progress of the Mithril smelting, and we had several clan meetings to discuss our next expedition.
+I checked on Rotmiller’s adaptation at the Sanctuary, visited the dwarf’s forge to monitor progress, and met with all the clan members several times to discuss the next exploration plan.
 
-It was mostly routine work, but there were also special occasions.
+Most days were filled with routine tasks, but not every day was just filled with daily quests.
 
 Like today.
 
-“Welcome to House Gudriks, Baron Yandel.”
+“Lord Goodrix sincerely welcomes you to the House of Goodrix.”
 
-I had been invited to the Gudriks estate.
+A total of 31—no, now 32 families make up the Melbes. I had been invited to the residence of Viscount Goodrix, one of its members.
 
-They were one of the thirty-two families that comprised Melbeth, the demi-human noble alliance.
+“Hahaha! It’s a pleasure, Baron. I am Viscount Goodrix. I know you’re busy, so I truly appreciate you accepting my invitation!”
 
-“Haha! Welcome, Baron! I’m Viscount Gudriks. Thank you for accepting my invitation, even though you’re busy!”
+True to his dwarven bloodline, Count Goodrix spoke in a more boisterous tone compared to other nobles.
 
-Viscount Gudriks, a descendant of dwarves, was more straightforward than the other nobles.
+However, being a noble, his preamble was long, and it wasn’t until I gave him a subtle hint that he finally got to the point.
 
-But he was still a noble, so his introduction was lengthy. I had to give him a look before he finally got to the point.
+“So, why did you call me here?”
 
-“So why did you call me?”
+“On behalf of Melbes, we have a request for Baron Jandel.”
 
-“We have a request for you, on behalf of Melbeth.”
+It was the first exclusive quest for Melbes.
 
-It was my first Melbeth quest.
+Continue reading more chapters at henprogressive.com

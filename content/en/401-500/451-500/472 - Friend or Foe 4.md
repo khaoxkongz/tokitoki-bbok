@@ -1,433 +1,417 @@
-# Friend or Foe 4
+Between an Ally and an Enemy (4)
 
-Clown wasn't the only onenvinced by my statement.
+It wasn’t just the clown who was convinced by my words.
 
-"Auril Gabis is our enemy..."
+“Auril Gabis is our enemy…”
 
-Fox, who had once been a loyal follower of the Master, muttered with a hint of bitterness. Stag Antlers nodded in agreement.
+The fox, who had once followed the Master closely, muttered in a somewhat bitter voice, and deer horns also nodded in agreement.
 
-"Well, he was always secretive, just like the royal family. And people who keep secrets usually have something to hide."
+“Well, he’s as full of secrets as the royal family. Those with many secrets are usually dark-hearted.”
 
-Even Queen, who had investigated Auril Gabis the most among the existing members, didn't object.
+Even the Queen, who had probably investigated Auril Gavis more than anyone else here, did not object.
 
-"Auril Gabis is our enemy... I'll keep that in mind."
+“So you’re saying he’s an enemy to the players… I’ll take note of that.”
 
-She said she would keep it in mind, but I knew she would immediately report to the GM and share her theories about Auril Gabis.
+She said she would “take note,” but it was obvious what would happen once the meeting was over: she’d run to the GM, share all the info, and then rack her brains based on my hypothesis.
 
-After all, I had built a reputation for providing valuable information.
+Well, it was understandable, given the things I’d shown them so far.
 
-"..."
+“…”
 
-Wolf, who had initially questioned my claim, now looked around nervously, gauging the other members' reactions.
+The wolf, who had initially questioned whether there was any evidence or not, observed the reactions of the members and gauged the situation. Still, he just couldn’t comprehend.
 
-But he still seemednfused.
+“…Am I the strange one here? I really don’t understand why everyone accepts his words so easily. If he’d said Auril Gavis did something terrible, that might be one thing, but what he just said sounds so subjective, doesn’t it?”
 
-"...Is there something I'm missing? Why are you all accepting his statement so easily? I mean, if he had said Auril Gabis did something bad, I would understand, but... that statement was too subjective, wasn't it?"
+Indeed, as an old returning member, the Wolf cleverly probed a weak spot in the Round Table system. However, no one took the bait.
 
-As a returning veteran, he had subtly pointed out the flaw in the Round Table system.
+“Hmm, but that’s the same for you, isn’t it?”
 
-But his objection fell on deaf ears.
+After all, the same logic could be applied to the wolf as well.
 
-"Hmm, but Wolf, you did the same thing, didn't you?"
+“That’s why everyone kept asking me if it was confirmed information, right? But for Mr. Lion here, nobody questioned it at all…”
 
-The same logic applied to him.
+He sounded a bit wronged.
 
-"We all asked you for evidence. But Lion didn't provide any."
+“If, for instance, I said right now that Auril Gavis is not our enemy, the green light would still turn on. So, whose words would you believe then?”?”
 
-He sounded a little indignant.
+He sharply pointed out the contradiction, but unfortunately, a response came immediately.
 
-"Even if I said Auril Gabis wasn't our enemy, the jewel would still glow green. So who would you believe?"
+“Of course, isn’t it obvious? Pssit.”
 
-It was a sharp rebuttal, but the answer was obvious.
+“…?”
 
-"Pfft, that's easy."
+“We would believe Mr. Lion. Rather than some small fry who just showed up out of nowhere after several years, whom we barely even remember.”
 
-"...?"
+Caught off guard by such a straightforward answer, the wolf just stared blankly.
 
-"We would believe Lion. Not some random newbie who suddenly appeared after all these years."
+To that, the queen added in a subtle tone,
 
-Wolf looked dumbfounded, and Queen added,
+“Still, who knows? If Mr. Wolf can provide solid evidence and convince us…”
 
-"Well, there's always a chance. If Wolf can provide us withncrete evidence..."
+The Queen’s words showed her clear intent to see what the Wolf was really hiding. Sure, it seemed pretty certain the Wolf was a follower of Auril Gavis, but that was all they knew so far.
 
-Queen's words were a clear challenge.
+“Evidence… Alright.”
 
-She wanted to see what he was hiding.
+But perhaps because he had faith in something, the wolf didn’t disturb the atmosphere any further and ended the conversation. And so the second round began.
 
-Wolf had revealed his allegiance to Auril Gabis, but that was all they knew.
+“Since we started this way last time, how about we go reverse order this time?”
 
-"Evidence... Alright."
+“Pssit, you seem quite confident?”
 
-Wolf didn't back down. He didn't seem fazed by their reactions.
+“I just thought it would be fairer.”
 
-And so the snd round began.
+“Well, I don’t mind. Mr. Lion might find it more interesting this way too…”
 
-"We went in order last time, so let's go in reverse order this time."
+Saying so, the Clown glanced at me.
 
-"Pfft, feelingnfident, are we?"
+Why does he like me so much?
 
-"I just thought it would be fairer."
+It wasn’t like I had been particularly kind or anything; if anything, I had tormented him.
 
-"Well, I don't mind. I think Lion would prefer it this way too..."
+“Then I’ll go first. Actually, this is information I’ve held back because it wasn’t confirmed, but… I have a feeling it’ll be the main topic of this meeting. Pssit.”
 
-Clown glanced at me.
+The clown took an unusual amount of time to introduce his news, glancing around before speaking.
 
-He was always trying to please me.
+“Do you recall how we used to wonder about the old man who led more than ten thousand people and used a Mass Teleport to bring them from Noark into the outside world?”
 
-I hadn't been particularly kind to him...
+“…”
 
-"So, I'll start. I've been hesitant to share this because it's not entirelynfirmed... but I have a feeling it will be a hot topic this time. Pfft."
-
-Clown, unusually verbose, looked around the table and said,
-
-"We've all been wondering, haven't we? About the old man who led thousands of explorers out of the labyrinth."
-
-"..."
-
-"I think that old man... was Auril Gabis."
+“That old man… seems to be Auril Gavis.”
 
 Hmm, is that so?
 
-It was an old story, but I was still interested. It was just Clown's speculation, though.
+It’s a pretty old story, but it’s something I’ve always been curious about, so I found it interesting. Of course, it’s just the clown’s hypothesis.
 
-Swaaaaaaaaaa!
+Swoooosh.
 
-The jewel glowed green, and the existing members didn't object.
+Even after the jewel’s green light went out, the members did not raise any objections.
 
-Queen was the only one who spoke up.
+Only the Queen muttered a single line.
 
-"Can you tell us why you think so?"
+“Why don’t you tell us how you came to that conclusion?”
 
-"Pfft, do I really need to? You all know who I am. My opinion alone should be enough."
+“Pssit, is that really necessary? Everyone here knows who I am. My opinion alone should hold enough weight, don’t you think?”
 
-"Well... I'll let it slide this time."
+“Well… I’ll let it slide this time.”
 
-Was it because of the new members?
+Was it because there were new members? Under normal circumstances, she would have grilled him relentlessly.
 
-Queen, who usually pressed for more information, let it go.
+“Hehe… Clown, you must be quite amazing?”
 
-"Wow... Clown, you're amazing."
+“I’m nothing compared to Mr. Lion, pffft…”
 
-"Compared to Lion? Not even close. Pfft..."
+He said that, but the laughter in his voice suggested he was actually quite pleased.
 
-He said that, but he sounded pleased.
+‘Is he just trying to show off by deliberately bringing up this ambiguous information?’
 
-'Did he reveal that ambiguous information just to show off?'
+The thought crossed my mind, but I quickly dismissed it.
 
-I dismissed the thought.
+Nah, that can’t be it. Surely he’s not that desperate for attention, right?
 
-He wasn't that desperate for attention.
+“Now, it’s your turn, Butterfly. I’m looking forward to it. Pssit.”
 
-"Alright, Butterfly, your turn. I'm looking forward to this. Pfft."
+“Ugh… I think my turn is too early.”
 
-"Uh... I think my turn came too early."
+What should I do?
 
-Butterfly looked around nervously.
+Butterfly tilted her head in thought before finally speaking.
 
-"There's a portal in the royal palace basement."
+“There are portals beneath the royal palace.”
 
-Damn, that's the information I was planning to reveal...
+Tsk, this is information I was saving for later. Did I just get preempted—?
 
-"Two of them, actually."
+“Two of them, actually.”
 
-What? Two?
+Huh? Two?
 
-Swaaaaaaaaaa!
+Swoosh—
 
-The jewel glowed green, and the members started asking questions.
+The gem soon emitted a green light, and the members began to ask questions.
 
-"A portal? What does that mean? Can the royal family enter the labyrinth whenever they want?"
+“Portals? What does that mean? Can the royal family enter the labyrinth anytime they want?”
 
-"Hehe, I don't know? What do you think?"
+“Hehe, who knows? What could it mean?”
 
-"..."
+“…….”
 
-"So... is my turn over?"
+“Then my turn is over, right?”
 
-Butterfly ignored their questions and ended her turn.
+Butterfly ignored the questions and ended her turn.
 
-Queen's turn.
+Next up was the Queen.
 
-"Recently—"
+“Recently—”
 
-"Another political story? Those are so boring..."
+“Is this going to be another political story? I’m not really interested in politics…”
 
-"..."
+“…….”
 
-Queen hesitated for a moment at Butterfly's interruption and then started over.
+The Queen, who was about to say something, paused briefly at Butterfly’s snarky remark before continuing.
 
-"About the dimensionalllapse... the one the royal family can intentionally trigger. It actually happened. The most recent one was intentional."
+No, rather than continuing, she started over.
 
-"...Hee, is that so?"
+“About the dimensional collapse we discussed earlier, the royal family can intentionally cause it. That’s actually happened. The most recent dimensional collapse was exactly because of that.”
 
-The jewel glowed green, but Butterfly seemed indifferent.
+“…Huh, really?”
 
-Or rather, she was glaring at Queen.
+The green light turned on, but the Butterfly mask seemed indifferent, as if she already knew.
 
-'She's trying to one-up her.'
+Hmm, to be precise, it was more like, “Oh, so you’re playing that card right now?” look.
 
-She had revealed information related to the previous topic, claiming it as her own.
+‘She’s just throwing a counter move.’
 
-"There's another way to return to Earth, besides opening the Gate of the Abyss. It's dimensional magic."
+She probably decided to preemptively claim the information since Butterfly might use it later to pass her turn.
 
-It was related to her previous information. But no one criticized her.
+Next it was black mask’s turn
 
-She had added another line.
+“Aside from opening the Abyss Gate, another way to return to Earth is through dimensional magic.”This was an extension of the information she had shared in the previous round. However, no one criticized her for being cheeky.
 
-"That's how Auril Gabis got here."
+Because there was one more line to her statement.
 
-"...!"
+“The reason Auril Gavis was able to cross over to Earth was also because he used this method.”
 
-"Black, you're also suspicious now."
+“……!”
 
-The members were now interested in Black Mask's identity, and the meetingntinued.
+“I’m starting to get curious about Miss Black’s identity too.”
 
-Stag Antlers, Crescent Moon, Goblin, Fox.
+As the members’ interest in the black mask grew, the meeting continued.
 
-They all shared useful information, avoiding any world-altering secrets.
+Deer Horns, Crescent Moon, Goblin, and Fox.
 
-And...
+They shared the latest information that could be useful rather than the secrets of the world, passing their turns.
 
-"...Pfft, finally."
+And then…
 
-It was Wolf's turn.
+“……Pssit, finally.”
 
-Everyone looked at him expectantly.
+When it was finally the wolf’s turn, all the members turned their eyes toward him.
 
-They knew what he was going to say.
+After all, it was obvious what he was going to say.
 
-He would try to prove that Auril Gabis wasn't our enemy.
+From now on, the wolf would present evidence that Auril Gavis is not the enemy of the players.
 
-And then it would be my turn to refute his claim.
+Then, if the green light turns on, it’ll be my turn, and I’ll have to counter his argument.
 
-It was a one-on-one battle.
+It’s a kind of 1v1…….
 
-"I've met the King. And I've glimpsed the secrets of this world."
+“I have met the king and glimpsed the secrets of this world.
 
-What?
+Huh, I didn’t expect that. Even a new noble like me has never met the king till now.
 
-He had met the King?
+“…When was this?”
 
-"...When?"
+“Let’s just say less than a year ago.”
 
-"Within the past year."
+Since his goal was to persuade, the wolf generously answered the follow-up questions.
 
-Wolf seemed willing to answer their questions.
+But…
 
-But...
+“That’s quite a surprise, but it doesn’t feel like solid evidence, does it? Saying you merely ‘glimpsed the secrets of this world’ doesn’t give a clear idea.”
 
-"That's an interesting story, but it's a little vague, isn't it? 'Secrets of the world'... that doesn't tell us much."
+The Queen sharply pointed out the flaw.
 
-Queen pointed out the flaw in his statement.
+However, having attended many meetings with the Queen, I could tell.
 
-But I knew her well.
+She was deliberately suppressing her excitement to extract more information.
 
-She was trying to suppress her excitement and extract more information.
+“…….”
 
-"..."
+It seemed the other members had also noticed this, but no one intervened.
 
-The other members seemed to have noticed it too, but they didn't interrupt.
+Everyone’s the same.
 
-They wanted to hear more.
+They all want to hear more details.
 
-"I can't reveal the details to strangers. But I can tell you this much."
+“It’s hard to go into more detail when I don’t even know who you all are. But there’s one thing I can say for sure.”
 
-Wolf drew a line and said,
+The wolf drew a clear line and spoke.
 
-"Auril Gabis isn't our enemy. He's our ally."
+“Auril Gavis is by no means an enemy of the players. If anything, he’s nothing less than a crucial ally.”
 
-The jewel glowed green throughout his statement, and his turn ended.
+As he spoke, the gem on the round table emitted a green light, marking the end of wolf’s turn.
 
-"..."
+“…….”
 
-It was my turn.
+Soon, it was my turn, and all eyes turned to me.
 
-'He met the King... that's a bold claim.'
+‘He’s met the king directly… No wonder he’s so confident.’
 
-The members seemed a little hesitant now.
+Because such a heavyweight had been brought up, even the members who had firmly believed in my words seemed a bit unsure.
 
-Wolf looked at me smugly.
+The wolf, too, was looking at me with a triumphant air, backed by the king’s name.
 
-I needed to assert my dominance.
+At this point, it was necessary to reestablish order.
 
-Therefore...
+So…
 
-I spoke.
+Tap tap.
 
-I mentioned a name that would overshadow even the King.
+As if I’d been waiting, I spoke.
 
-"The Earth Witch, Ellis Groundia."
+A being whose name carries weight, even if the opponent is the king.
 
-She had told me not to open the Gate of the Abyss... but that wasn't important right now.
+“The Witch of the Earth, Ellis Groundia.”
 
-"I've met her."
+Of course, she only left behind a warning not to open the Abyss Gate.
 
-"...!!"
+She never said anything about Auril Gabis being the enemy of the players.
 
-I wasn't lying.
+But in this situation, that’s not particularly important.
+
+“I’ve met her.”
+
+Interpretation is always up to the individual.
+
+“……!!”
+
+I didn’t lie.
+
+The Witch of the Earth, Ellis Groundia.
+
+A mythical figure who brought this world to ruin.
+
+“……!!”
+
+The moment her name was mentioned, everyone, including the wolf, fell silent.
+
+It seemed everyone was quite shocked.
+
+Well, I had previously shared information about the Witch of the Earth being alive, but saying I’d met her in person was on a whole different level.
+
+“The Witch of the Earth…”
+
+“Pssit. Goodness, Mr. Lion, you surpass my imagination every single time. I’m humbled. There’s no way your words could be wrong.”
+
+Although not everyone was as convicted as the Clown, I could sense the mood in the hall shift in my favor. Of course it did.
+
+If we were talking about someone who had ruled the royal palace for thousands of years—the immortal king—that would be one thing.
+
+But the Current King hasn’t even reigned for two centuries yet, and lately he hasn’t even appeared in public, supposedly due to health reasons. It’s obvious he doesn’t carry the same weight as the Witch.
+
+And beyond that…
+
+‘You also have to consider who’s making these claims.’
+
+On one side, there’s me, who has cultivated a mysterious, almost absolute reputation at the Round Table, versus an old user who was treated as a nobody until a few years ago.
+
+“…Heh-heh, I think it’s clear whose story we should believe now.”
+
+“It’s definitely possible Mr. Lion is being deceived by the Witch of the Earth—”
+
+“Excuse me? But, Mr. Wolf, wouldn’t that be exactly the same situation for you?”
+
+“…….”
+
+“Besides, if one of you has been deceived, I’d say it’s more likely to be you, Mr. Wolf.”
+
+“…What are you talking about?”
+
+“Hehe, of course, I don’t know either of you well, but I get the feeling that Mr. Wolf is more likely to be deceived…”
+
+Butterfly giggled as she mercilessly took digs at Wolf.
+
+Judging that he wouldn’t be able to turn the situation around, Wolf fell silent.
+
+And then…
+
+“Ha ha, I think I’ll have to leave for today. It was nice seeing everyone after a long time, and Mr. Lion, Miss Butterfly, Miss Black, see you next time.”
+
+The wolf declared his absence from the third round and left the round table.
+
+‘Wow, look at him run.’
+
+But since he said we’d meet again, it seems he’s not done for good…
+
+“…….”
+
+“…….”
+
+As soon as he left, the familiar atmosphere descended on the Round Table – everyone fell silent, too busy reading each other’s expressions. I could already see the meeting fizzling out, so this time I decided to get ahead of it.
+
+“Ah…! Are you leaving?”
+
+Well, isn’t it obvious?
+
+“See you next time.”
+
+With that, I left the round table.
 
 ---
 
-The Earth Witch, Ellis Groundia.
+A large window allowed the moonlight to flood into a bedroom.
 
-The mythical being who had brought ruin upon this world.
+A woman’s voice trembled softly.
 
-"...!!"
+It was because of the shocking news delivered by an uninvited guest who had arrived in the middle of the night and was scratching the back of his head.
 
-The moment her name was mentioned, everyone fell silent.
+“What? He’s… alive…? Bjorn…?”
 
-Even Wolf.
+Her mind went blank for a moment, then anger surged.
 
-They were shocked.
+“You… really are someone I can’t associate with.”
 
-I had mentioned her before, saying she was alive... but meeting her was a different story.
+Her voice was filled with the emotions boiling up from deep within her chest.
 
-"The Earth Witch..."
+Lee Baek-ho simply laughed awkwardly.
 
-"Pfft... Lion, you always surprise me. I repent. I shouldn't have doubted you."
+“Funny, that’s the second time I’ve heard that today.”
 
-Clown was the most enthusiastic, but the atmosphere had clearly shifted in my favor.
+“…Get lost. If you pull a stunt like this again, I swear—”
 
-The King might be a powerful figure, but he was still just a human.
+“Misha Karlstein.”
 
-And he hadn't even appeared in public recently, citing health issues.
+Her full name, which he never used under normal circumstances.
 
-His reign hadn't even lasted 200 years yet.
+As Misha froze, Lee Baek-ho continued in a more serious tone.
 
-Heuldn'tmpare to the Earth Witch, who had ruled the kingdom for over a thousand years.
+“It’s not a joke. Bjorn Jandel is alive.”
 
-And...
+“…Proof?”
 
-'There's also the speaker's reputation, ofurse.'
+“It’s already a well-known story. You don’t need proof. If you go out tomorrow and ask around, you’ll hear the news right away.”
 
-Me, the mysterious and powerful figure at the Round Table, versus Wolf, the returning veteran who had beennsidered a nobody a few years ago.
+Lee Baek-ho then briefly explained Bjorn Jandel’s recent activities, and as Misha listened, she gradually sensed that his words were true.
 
-"...Hehehe, I think we know who to believe now."
+“Bjorn… is alive?”
 
-"There's always a chance that Lion is being deceived by the Earth Witch—"
+A mix of emotions overwhelmed her.
 
-"Huh? But Wolf, youuld be deceived too."
+She felt joy, sorrow, confusion, and anger.
 
-"..."
+“… bastard.”
 
-"And if one of you is being deceived, I think it's more likely to be you."
+“Yeah, he’s really something, huh? How could he deceive his teammates, fake his death, and side with the royal family—”
 
-"...What are you trying to say?"
+“No, I mean you. You. You knew all along and hid it from me…?”
 
-"Hehehe, I'm just saying... you seem more gullible."
+“Ah… sorry. I needed some time to sort things out. You should’ve gone out more instead of staying cooped up at home.”
 
-Butterfly giggled, and Wolf didn't respond.
+“……”
 
-He knew heuldn't win this argument.
+“Wow, look at that fierce glare.”
 
-And...
+Misha didn’t respond to Lee Baek-ho’s playful tone.
 
-"Haha, I think I'll be going now. It was good to see you all again. Lion, Butterfly, Black... see you next time."
+“……”
 
-Wolf declared his withdrawal from the Round Table.
+A silence fell over the room. Eventually, the man spoke first.
 
-'He's running away.'
+“So, are you going to see him now?”
 
-But he had said he would be back, so it wasn't a permanent departure.
+“Of course. What do you think I’ve been staying here for all this time?”
 
-"..."
+“To save Bjorn Jandel. By using a Resurrection Stone.”
 
-"..."
+“Exactly. Now get out—I need to pack. I’ll leave as soon as it’s daylight.”
 
-An awkward silence followed.
+“Hmm, I see…”
 
-Everyone was looking at each other.
+As the man trailed off with a strange tone, Misha flinched.
 
-It was time for me to take the initiative.
+“…If you have something to say, spit it out.”
 
-"Ah... Are you leaving?"
+Somehow, a sense of foreboding filled the air. And as usual, that intuition was dead on.
 
-It was obvious, wasn't it?
+“It’s no big deal. I just have a small favor to ask.”
 
-"See you next time."
-
-I left the Round Table.
-
----
-
-A bedroom bathed in moonlight.
-
-A woman's voice trembled.
-
-It was because of the shocking news she had just received from the late-night visitor.
-
-"What? He's... alive...? Bjorn is...?"
-
-After a moment of shock, anger surged through her.
-
-"You... you're irrigible."
-
-Her voice wasld and sharp.
-
-But Lee Baekho just smiled awkwardly.
-
-"That's the snd time I've heard that today."
-
-"...Get out. If you pull this kind of prank again, I'll—"
-
-"Misha Carlstain."
-
-He had used her full name.
-
-Misha froze, and Lee Baekho's voice became serious.
-
-"I'm not joking. Bjorn Yandel is alive."
-
-"...Proof?"
-
-"It's all over the city. Just ask around tomorrow."
-
-Lee Baekho then briefly explained Bjorn Yandel's recent activities, and Misha slowly began to believe him.
-
-"Bjorn is... alive...?"
-
-A mixture of emotions washed over her.
-
-Joy, sadness,nfusion, anger...
-
-"...That bastard."
-
-"Yeah, he's a real piece of work. He tricked everyone, faked his death, and joined the royal—."
-
-"Not him, you. You knew, and you didn't tell me...?"
-
-"Ah... sorry. I was trying to... process it. You should go outside more often."
-
-"..."
-
-"..."
-
-A long silence followed.
-
-The man finally spoke.
-
-"So... are you going to see him?"
-
-"Ofurse. Why do you think I've been with you all this time?"
-
-"To revive Bjorn Yandel. With the Stone of Resurrection."
-
-"I know. Now get out. I need to pack. I'm leaving tomorrow."
-
-"Hmm, I see..."
-
-The man's tone was strange, and Misha flinched.
-
-"...What do you want to say? Just spit it out."
-
-She had a bad feeling.
-
-And her premonition was right.
-
-"Nothing much, just..."
-
-Lee Baekho was smiling.
-
-"I have a favor to ask."
-
-Just like he had done that day.
+He was smiling. The same way he had smiled that day he came to see her.

@@ -1,421 +1,409 @@
-# Friend or Foe 5
+Between an Ally and an Enemy (5)
 
 The answer came after a long pause.
 
-"...A favor...?"
+“A favor… what do you mean…?”
 
-Her voice was different from when she had told him to leave.
+Her voice was entirely different from the bold tone she had used when telling him to leave earlier.
 
-She was trying to hide it, but her trembling voice betrayed her fear.
+No matter how much she tried to hide it, the trembling in her voice clearly revealed her fear.
 
-It was understandable.
+It couldn’t be helped.
 
-She had seen it firsthand.
+She had seen enough of it by now.
 
-How ruthless Lee Baekhould be.
+Just how crazy Lee Baek-ho was, and the terrifying power he possessed.
 
-And how powerful he was.
+“Right, a favor.”
 
-"Yes, a favor."
+So this couldn’t be a favor.
 
-But it wasn't a request.
+“We’ve had some history together, so it’ll be fine, right?”
 
-"We've been through a lot together, haven't we?"
+This was a threat.
 
-It was a threat.
+Without a doubt, if she refused, something unpleasant would happen.
 
-She knew that refusing him would havensequences.
+Such a notion unconsciously dominated her thoughts.But still…
 
-That thought dominated her mind.
+“…No.”
 
-But...
+Misha firmly refused
 
-"...No."
+“Without even hearing me out?”
 
-Misha refused.
+“Whatever it is you want, I’m not doing it.”
 
-"You haven't even heard it yet."
+Despite her trembling eyes, she met Lee Baek-ho’s gaze head-on with resolve.
 
-"I don't care what it is. I won't do it."
+Lee Baek-ho didn’t hide his admiration.
 
-Her eyes were trembling, but she met Lee Baekho's gaze head-on.
+“Wow…”
 
-He was impressed.
+He found it incredibly intriguing.
 
-"Wow..."
+There are plenty of people who know fear, but very few who can overcome it.
 
-He had met many fearless people, but not many whould oveme their fear.
+“How can someone change so completely in an instant?”
 
-"How can someone change so much in such a short time?"
-
-What was the source of her newfoundurage?
+The question was: what enabled her heart not to give in this time and to stand firm?
 
 The answer was simple.
 
-"Hansu hyung is amazing. He must have worked really hard to win her over."
+“Hansoo Hyung is really something, huh? How much effort did he put into getting her to act like that?”
 
-Lee Baekho chuckled.
+Lee Baek-ho chuckled to himself.
 
-He didn't understand the difference, but Misha felt like sheuld breathe again.
+“Alright, I get it. Love makes everyone blind and all that. I wonder if Hansoo hyung knows about this… Huh? What, do you have something to say?”
 
-"I understand. Love makes you blind, right? I wonder if Hansu hyung even knows..."
+“……Who is Hans?”
 
-He trailed off and then looked at Misha, who seemed to have something to say.
+“What…?”
 
-"...Who... is Hans...?"
+At Misha’s question, Lee Baek-ho looked momentarily stunned before bursting into uncontrollable laughter.
 
-"What...?"
+“Pfft, pfft! Puhahaha! Kehehehe… Oh, right. Of course. That makes sense. Ah, I’m such an idiot!”
 
-Lee Baekho stared at her blankly and then burst into laughter.
+Annoyed by his laughter, Misha furrowed her brow, prompting Lee Baek-ho to calm down and answer her question.
 
-"Pfft! Hahaha! Oh, right. That makes sense. I'm such an idiot!"
+“Lee Han-soo is your lover’s real name. Okay?”
 
-Misha frowned at his laughter, and he calmed down, answering her question.
+Misha didn’t react to Lee Baek-ho’s teasing tone.
 
-"Lee Hansu is your boyfriend's real name. Okay?"
+She simply repeated the name in her mind, as if engraving it there.
 
-Misha didn't react to his teasing tone.
+“……Lee Hans.”
 
-She just repeated the name silently.
+“It’s Han-soo, not Hans.”
 
-"...Lee Hans..."
+Even though her pronunciation had improved compared to the past, it still seemed difficult. After repeating it several times, she finally got it right.
 
-"It's Hansu, not Hans."
+“Lee Han-soo.”
 
-It was a difficult name to pronounce, even after years of practice.
+“Oh, that’s better now.”
 
-"Lee Hansu."
+“Lee Han-soo. Yes, that’s Bjorn’s…”
 
-"That's better."
+Misha clasped her hands together as if cherishing something precious and closed her eyes. Lee Baek-ho watched her with a slightly peculiar gaze.
 
-"Lee Hansu... So that's Bjorn's..."
+Of course, it didn’t last long.
 
-Misha closed her eyes, as if cherishing the name.
+Playing around was only after all the work was done. That was Lee Baek-ho’s long-standing rule.
 
-Lee Baekho watched her with a strange expression.
+“So, you really won’t do me this favor?”
 
-But he didn't dwell on it.
+“…Why should I?”
 
-He had work to do.
+“Hmm, well?”
 
-"So you're really not going to do it?"
+Lee Baek-ho shrugged as he spoke.
 
-"...Why should I?"
+He was someone who often joked around and, if necessary, lied without hesitation.
 
-"Hmm, let me see..."
+“Because if you don’t, Bjorn Jandel will die?”
 
-He shrugged.
-
-He was usually playful and didn't hesitate to lie...
-
-"Because if you don't, Bjorn Yandel will die."
-
-...but this was the truth.
+That was an undeniable truth.
 
 ---
 
-After the Round Table,
+After the round-table meeting ended.
 
-I logged out and went to sleep.
+I immediately logged out and went to sleep.
 
-Iuldn't stay up late. I had to wake up early tomorrow.
+Because when I come back from a full 12 hours there, I’m too tired to get up early but…….
 
-"Mister! Wake up!"
+“Mister, wake up!”
 
-"...Five more minutes."
+“…Five more minutes.”
 
-"Stop talking nonsense and get up. We're almost done packing."
+“Stop the nonsense and get up. All that’s left is to move out your things here.”
 
-"...Already?"
+“…Already?”
 
-I opened my eyes and checked the time. It was 11:00 AM.
+Well, I really wanted to wake up earlier today…
 
-Damn, I wanted to wake up earlier...
+“Wait a moment. I’ll pack my own room.”
 
-"Wait, I'll pack my own room."
+“No need to make a fuss. Go wash up.”
 
-"Don't bother. Just go wash your face."
+“Yes. Mister, there’s nothing too heavy here; we’ll handle it.”
 
-"Okay, Mister. It's not that much anyway. We'll take care of it."
+No, even so…
 
-I quickly washed my face and returned to my room to pack. Four large carts were already waiting in the garden, loaded with our belongings.
+I quickly went to wash up and returned to tidy up my room.By then, Four large wagons parked in the yard were already loaded to the brim with our moving supplies.
 
-Thump-!
+Thud—!
 
-I carried my barbarian-sized iron bed downstairs and loaded it onto the last cart.
+With the barbarian-style iron bed loaded onto the cart, the packing was finally complete.
 
-"We're ready to depart, Baron Yandel."
+“Well then, we’re off, Baron.”
 
-"Alright, thank you."
+“Alright, I’m counting on you.”
 
-The hired drivers led the carts away, and we were left alone in the empty house.
+The hired coachmen drove the carts away, leaving us alone in the now empty mansion.
 
-"...This feels strange."
+“……It feels strange.”
 
-Erwen looked around the empty living room with a wistful expression.
+Erwin gazed at the empty living room with a somewhat nostalgic look.
 
-I understood how she felt.
+I could understand.
 
-We had made a lot of memories here.
+Certainly… we’ve made some memories here, both good and bad.
 
-Good and bad.
+[“You won’t be going outside ever again anyway, right?”]
 
-[We won't beming back, will we?]
+Back then, I was really worried about her.
 
-She had been so worried back then...
+But now, she’s much more stable.
 
-But she seemed much calmer now.
+Even though, technically, she should be feeling more of the stat-related adverse effects now than before.
 
-Even though the essence's negative effects were stronger than before.
+Although she’s actually much more affected by the stats than she was back then.
 
-'It must be because of her mental growth.'
+Erwin is a sore spot for me too.
 
-Erwen was also a source ofncern for me.
+Though, if I had to pick the sorest spot, it would be someone else.
 
-Well, my biggestncern was someone else...
+‘……Lee Baek-ho, when is he going to send her back? It’s not like he can’t find me just because I’m moving, right? Hmm, that wouldn’t do…’
 
-'...When is Lee Baekho going to send her back? He should be able to find our new address...'
+“What are you doing? Let’s go. We still have to unpack everything by today.”
 
-"Let's go. We need to unpack before nightfall."
+I took one last look around the house before leaving, just in case we missed anything. Then we headed to our destination.
 
-I checked the house one last time, making sure we hadn't left anything behind, and then we left.
+We had hired a carriage for the day and the driver was Auyen, the only sailor in our clan.
 
-We hired a carriage, and Auyen was our driver.
+Turns out, he’s not just good at sailing, huh?
 
-It seemed like he was good at more than just navigating ships.
+“…You’re really skilled at handling horses.”
 
-"...You're surprisingly good at this."
+“I worked as a coachman before I became an adult. That’s why I know the city roads well.
 
-"I worked as aachman before bming an explorer. I know the city streets like the back of my hand. Ofurse, it's nothingmpared to your skills, Clan Master."
+Though it’s nothing compared to your skills, Captain.”
 
-"Enough with the flattery."
+“Stop flattering.”
 
-Anyway, it suddenly occurred to me that it might be a good idea to buy a carriage and have Auyen drive us around.
+Anyway, it suddenly occurred to me that it might not be a bad idea to buy a carriage and have Auyen drive us around.
 
-Our new house even had a small stable.
+Our new place even has a small stable.
 
-And since he had worked as aachman, he probably knew how to take care of horses.
+Since he used to be a coachman, he probably knows how to take care of horses too.
 
-'Hmm, not bad.'
+‘Hmm, not bad.’
 
-I shared the idea with Amelia, and she seemed to like it.
+It seemed like a pretty good idea, so I mentioned it to Amelia, who responded quite positively.
 
-"Everyone needs a role. I don't mind, as long as Auyen is okay with it."
+“Every group needs someone with a specific role. If Auyen is fine with it, I don’t mind.”
 
-"Lokrok, what do you think? You heard us."
+“Rokrok, what about you? You heard everything, right?”
 
-"I-It would be an honor! I'll do my best to serve you, Clan Master!"
+“I-I’d be honored! If you entrust me with this, I’ll do my best to assist you, Captain!”
 
-Auyen seemed genuinely happy with the idea.
+Auyen also seemed genuinely pleased.
 
-Well, it was better than beingoped up in the basement.
+Well, from his perspective, it’s probably better than being cooped up in a room all day.
 
-I would discuss it with him later.
+So let’s push this plan forward later…
 
-"We've arrived, Clan Master."
+“We’ve arrived, Boss.”
 
-Thanks to Auyen's smooth driving, I had dozed off in the carriage.
+Auyen’s smooth driving had me dozing off, and before I knew it, we’d reached our destination.
 
-We had arrived at our destination.
+The main street of the commercial city of Commelby.
 
-A three-story building on the main street of Commelby, themmercial district, just ten minutes away from the Alminus Central Exchange.
+A three-story building located in a bustling area just 10 minutes from the Alminas Central Exchange.
 
-"...It's in much betterndition than I expected."
+“…The condition of the building is much better than I expected.”
 
-"I know. I thought it would be dilapidated,nsidering the low rent."
+“Right? I thought it would be a really old building given the rent.”
 
-The building was owned by the Melbeth Trading Company, and we had secured it at a diunted price.
+This building was owned by the Melbes Trading Company and was provided to us at a low cost as part of a previous agreement.
 
-It would be our new clan house.
+Its purpose was to serve as the clan house for the Anabada Clan.
 
-But since we didn't have any clerks yet, we would be living here for the time being.
+However, since we didn’t have any administrative staff yet, we decided to live here until House Jandel was established.
 
-"Alright, let's unpack. People are staring."
+“Let’s move the luggage first. Everyone’s already staring at us.”
 
-The news of our move had already spread, and passersby were gathering to watch.
+It seemed word had already spread that I was moving here, as nearby citizens and explorers had gathered to watch.
 
-Were they that surprised to see a noble moving?
+What, is it your first time seeing a noble moving?
 
-"Phew..."
+“Sigh…”
 
-With four explorers, unpacking didn't take long.
+Since there were four of us, we managed to finish moving everything before the day was over.
 
-The first floor wasn't suitable for living quarters, so we decided to use it as ammon area. The snd floor was for Amelia and Erwen, and the third floor was for me and Auyen.
+The first floor was awkwardly structured for living quarters, so we decided to use it as a living room, while Amelia and Erwin took the second floor and Auyen and I settled on the third.
 
-At Amelia's request, Auyen was given the room with a window...
+Oh, by the way, at Amelia’s request, Auyen was assigned a room by the window…
 
-"A room overlooking the main street of Commelby... I never thought I would live in a place like this..."
+“A room with a view of Commelby’s streets… I never thought I’d live in a place like this…”
 
-...and he was surprisingly emotional.
+His reaction was a bit unexpected.
 
-I had expected him to be happy about having a room with sunlight, but I hadn't expected him to tear up.
+I knew he’d be happy to move from a basement to a sunny place, but I didn’t expect him to get emotional.
 
-"Where did you live before?"
+“Where did you live before?”
 
-"On the outskirts of Ravigion."
+“On the outskirts of Ravigion.”
 
-"The slums near the outer wall?"
+“Near the slums by the city walls?”
 
-"Yes..."
+“Yes…”
 
-He was a navigator, and a member of a pirate clan... he should have been wealthy.
+A sailor, especially one from a clan that often engaged in plunder, should have made quite a bit of money?
 
-I asked him why, and he explained that he had been treated like a slave and hadn't received any pay.
+Out of curiosity, I asked, and Auyen explained that he was treated almost like a slave within that clan and didn’t receive proper pay.
 
-"But why did you stay?"
+“Then why’d you stay there?”
 
-"You wouldn't understand, Clan Master. There are many clans like that. Once you join, it's difficult to leave..."
+“You may not know this, Commander, but clans like that are pretty common. People join without knowing better, and then there’s no escaping them…”
 
-Clan rules,ntracts, and shared crimes had bound him to the clan.
+He said that the internal regulations, contracts, and shared crimes they committed in the Labyrinth became shackles that trapped him.
 
-But I didn't feel sorry for him.
+Strangely enough, I didn’t feel particularly sorry for him.
 
-The real victims were the explorers they had robbed and killed.
+Well, the real victims are the innocent adventurers who were plundered and killed by them.
 
-"Just do your job. I'll be watching."
+“Do well from now on. I’ll be watching.”
 
-"O-Ofurse, Clan Master! I'll do my best!"
+“O-of course, Captain! You can count on me!”
 
-I didn't trust him, so I lectured him for an hour.
+No matter how much he said that, I couldn’t quite believe him, so I took the opportunity to give him a one-hour lecture on life.
 
-"I'm doing this for your own good. It's better to be honest and hardworking. Understand?"
+“Everything I’m saying is for your own good, so don’t take it lightly. A man should be steadfast like me. Got it?”
 
-"...Yes."
+“……Yes.”
 
-"Louder."
+“Louder.”
 
-"Yes, Clan Master!"
+“Yes! Commander!”
 
-That's better.
+That’s better.
 
 ---
 
-I was busy after we moved.
+Even after the move, there was a lot to do.
 
-"No, I'm going to turn the backyard into a garden."
+“No. The backyard will be used as a garden.”
 
-"A garden? It would be much more useful as a training ground."
+“A garden? Wouldn’t it be much more useful as a training ground?”
 
-While Amelia and Erwen were arguing about interior design, I went out to take care of business.
+While Amelia and Erwin were arguing over how to decorate the house, I was out early in the morning handling business.
 
-Baroness Lirivia hadntacted me.
+I had received a message from the Rabbit Baroness.
 
-She had found a few suitable locations for my estate and wanted me to inspect them.
+She said there were a couple of plots for sale that met my requirements. She suggested that I visit them in person to check out the location.
 
-She had also expressed her disapproval of my decision to build the estate in the 7th District.
+She also had a slight complaint:
 
-[...I still don't understand why you want to build your estate in Ravigion, not the Imperial City. It's not too late to rnsider.]
+[……I still don’t understand why you want to establish your house in District 7 instead of the Imperial Capital. It’s not too late to reconsider.]
 
-I had decided to build my estate in the 7th District.
+But I’d already decided on the 7th District, which I’m familiar with.
 
-I was a noble, but I was also an explorer.
+Besides, even though it’s a noble house, the head of the family is an explorer.
 
-It was morenvenient to be close to the Dimension Plaza.
+Staying closer to the Dimensional Plaza is more convenient.
 
-'And the land in the Imperial City is too expensive.'
+Building in the Imperial Capital would probably only result in a cramped, tiny space anyway.
 
-Iuld build a much larger estate in the 7th District for the same price.
+In District 7, I could build a much more impressive mansion for the same cost, so it seemed like a more rational choice.
 
-'Okay, so I've secured the land. Now I just need to build the house.'
+‘…Okay, so I’ve got the land. Now I just need to build the house?’
 
-I had chosen a plot of land and finalized the purchase.
+Fortunately, there was a plot among the available lands that I liked, so I made the decision right away.
 
-Now I just needed tonsult with an architect from the Melbeth Trading Company and finalize the blueprints.
+All that’s left is to consult with the architects at the Melbes Trading Company, draw up the blueprints and start building.
 
-Construction would take at least a year.
+However, it will take at least a year to complete.
 
-'That's it for today.'
+‘Then today’s work is done.’
 
-I went home andllapsed onto the bed, exhausted.
+I went home and collapsed into sleep. The next day, I visited the dwarf’s blacksmith to improve work efficiency and then went to Rotmiller with a proposal.
 
-The next day, I visited the dwarf's forge to check on the progress of the Mithril smelting. And then I visited Lotmiller.
+“…Are you serious? You want me to teach tracking skills to Barbarians?”
 
-"...Are you serious? You want me to teach tracking skills to the barbarians?"
+“I’ll pay you well. You’ve got nothing else on your plate, right?”
 
-"I'll pay you well. And you're not doing anything anyway."
+“That may be true… but if you’re doing this out of pity, I’ve got to say, I don’t need—”
 
-"That's true, but... if you're doing this for me, you don't have to. I can find another way to—"
+“What are you talking about? I’m not doing it for your sake; you’re simply the best person for the job. I’m asking you for a favor here.”
 
-"What are you talking about? You're the only one who can do this. I'm asking for your help."
+Rotmiller initially tried to refuse, thinking I was doing him a favor, but after realizing I genuinely needed his help, he accepted the offer.
 
-Lotmiller, who had initially tried to refuse, eventually agreed.
+“In that case, let’s head straight to the Sanctuary. The Second Elder will explain how to go about your duties. If you can’t communicate well with the Second Elder, go find the Administrative Office.”
 
-"Then let's go to the sanctuary. The 2nd Elder will explain everything. If you can'tmmunicate with him, go to the administrative office."
+“…Administrative Office?”
 
-"...Administrative office?"
+Rotmiller looked at me like he couldn’t believe the Barbarian tribe would have something like that, which left me a bit disappointed.
 
-Lotmiller looked at me as if I was insane.
+Come on, this is modern times, you know.
 
-Did he think barbarians didn't have an administrative office?
+One day, two days, three days, four days…
 
-One day, two days, three days, four days...
+Time passed quickly.
 
-Time flew by.
+Vercil Gowland, who had severed all ties with the Order, was the first among the expedition members to join the Anabada Clan.
 
-Bersil Gowland, having severed all ties with her former church, finally joined Clan Anabada. She was the first of the Ice Rock survivors to officially join.
+“…Are you suggesting me as the vice-captain?”
 
-"...You want me to be the Vice-Captain?"
+“Yeah, you seem like you’d do well.”
 
-"Yes, I think you would be a good fit."
+“That may be true, but… I think it’s better to leave the vice-captain position vacant for now. If I take that position right away, there will be talk.”
 
-"That's true, but... I think it's better to leave the position vacant for now. It will attract less attention if I'm just an ordinary member."
+“…”
 
-"..."
+“Don’t worry, I’ll do all the things that a vice-captain should do, even though I’m sure there will be times when I’ll need you since I don’t have the title.”
 
-"Don't worry, I'll still handle the Vice-Captain's duties. Ofurse, there will be times when I need your authority, but..."
+“All right. Let’s do it that way. Thanks.”
 
-"I see... Then let's do that. Thank you."
+“But… are you really going for it? The Floor Lord?”
 
-"But... are you really going to do it? The Floor Lord raid?"
+“I have to. And you’re taking part too.”
 
-"Ofurse. You'reming too."
+“……Isn’t it too much pressure for my first expedition after joining?”
 
-"...It's a little much for my first clan expedition, isn't it?"
+“What, you’re gonna file a petition with the royal family or something?”
 
-"Are you planning to file amplaint with the royal family?"
+“Come on, that’s a joke.”
 
-"Haha, just kidding."
+After Vercil officially joined the clan, we began preparing for the 5-man raid in earnest.
 
-After Bersil joined the clan, we began preparing for the five-man raid.
+Honestly, my mind was too cluttered to focus.
 
-Iuldn't focus.
+‘Why hasn’t she come yet?’
 
-'Why isn't she here...?'
+Misha still hadn’t arrived.
 
-Misha still hadn't returned.
+Could that bastard Lee Baek-ho have broken his promise?
 
-Was Lee Baekho planning to break his promise?
+That anxiety slowly began creeping in, but there was nothing I could do.
 
-I was getting anxious, but there was nothing Iuld do.
+All I could do was keep waiting and deal with what was in front of me.
 
-I just had to wait.
+“You’re heading out again this morning?”
 
-"You're leaving again?"
+“Today’s the last day. After today, I’m free until the labyrinth opens.”
 
-"This is the last one. After this, I'll be free until the next labyrinth opening."
+“Is that so… You’re working hard.”
 
-"I see... You're working hard."
+“I might be late, so don’t prepare dinner. I don’t want to eat it cold like last time.”
 
-"I might be late, so don't bother making dinner. I don't want to eatld leftovers again."
+With that conversation, I headed out to an empty lot.
 
-I left the house and went to the designated location.
+And I tore up the paper that Ravien had secretly given me a while ago.
 
-And then...
+Whoosh—
 
-I tore up the note Raven had given me.
+Soon, a magic circle appeared on the ground, and the light emanating from it engulfed me.
 
-Swaaaaaaaaaa!
+“It’s been a while.”
 
-A magic circle appeared on the ground, and the light engulfed me.
+“Yeah, it has.”
 
-"It's been a while."
+The Dragon’s Temple, which I hadn’t visited in years.
 
-"Yes, it's been a while."
+Looking at the old man sitting on the throne, I repeated to myself what I needed to do today.
 
-I was back in the Dragon's Temple.
+‘Deliver the Dragonslayer’s Heart and receive the reward.’
 
-I looked at the Ancient Dragon sitting on his throne and recited my quest objective.
-
-'Deliver the Dragonslayer's heart and receive the reward.'
-
-It was the last quest for this month.
+It was the last quest of the month.

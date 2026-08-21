@@ -1,449 +1,445 @@
-Ice Rock 3
+Ice Rock(3)
 
-"A traitor...?"
+“Traitor…?”
 
-"What do you mean?"
+“What do you mean?”
 
-The team leaders frowned at my blunt statement.
+The team leaders frowned at my blunt words.
 
-But they must have understood the gist of it.
+But perhaps they roughly understood what my statement implied.
 
-James Kala cautiously spoke.
+James Carla cautiously spoke up.
 
-"...Are you referring to the incident where we lost the supplies?"
+“Is this perhaps about the incident where we lost the supplies?”
 
-I nodded without hesitation.
+I confirmed without making him wait.
 
-"Yes."
+“Yes, that’s right.”
 
-"But that incident was—"
+“But that incident was—”
 
-"A coincidence? You brought it up as soon as I mentioned the traitor. You must have suspected something too."
+“A coincidence? The fact that you mentioned it as soon as I brought up a traitor suggests you also found it suspicious?”
 
-"..."
+“That’s…”
 
-James Kala fell silent.
+James Carla closed his mouth, seemingly at a loss for words.
 
-Akuraba, as if defending him, interjected with a hint of annoyance.
+As if to speak on his behalf, Akuraba chimed in, not hiding her displeasure
 
-"Thinking about it and mentioning it are two different things. A traitor? That's a very sensitive and dangerous accusation to make without any evidence."
+“Thinking about it on your own is one thing; mentioning it outright is another. That’s an extremely sensitive and dangerous topic to mention based on mere suspicion.”
 
-She was right.
+She’s absolutely right.
 
-But she was missing the most important part.
+But there was one crucial part of the conversation she was missing.
 
-"So what's your point?"
+“So, what exactly is your point?”
 
-"Whoever you suspect, you need concrete evidence that everyone can agree on."
+“No matter whom you suspect among us, you must have solid evidence that convinces us all.”
 
-Ouch, that hit a nerve.
+Sigh, she hits a sore spot.
 
-Did she think I was suspecting her?
+Does she think I’m suspecting her?
 
-Well, she was in charge of supplies.
+Well, she was in charge of supply management.
 
-Maybe she thought I was blaming her and was already defending herself.
+To clear up any misunderstanding before it deepened, I responded firmly.
 
-I had to clear up the misunderstanding before it got worse.
+“Don’t worry. I’m not suspecting any of you.”
 
-"Don't worry. I'm not suspecting you."
+“What? But earlier you definitely…”
 
-"Yes? But you just said..."
+“If I suspected any of you, I wouldn’t be talking to you about this so openly, would I?”
 
-"If I suspected you, I wouldn't have called you here."
+To be precise, I did suspect all of them at first, but not anymore.
 
-To be precise, I had suspected all of them, but not anymore.
+Because I’ve found out who the culprit is.
 
-I knew who the culprit was.
+Fortunately, none of our precious team leaders were the culprit.
 
-Thankfully, it wasn't one of our precious team leaders.
+“Then… who are you suspecting as the traitor?”
 
-"Then... who do you think the traitor is?"
+“It’s Pike Neldaine.”
 
-"Pike Neldain."
+As soon as I finished speaking, everyone’s gaze turned to James Carla.
 
-As soon as I said his name, everyone looked at James Kala.
+“He was a warrior in James Carla’s team, right?”
 
-"...He's a warrior on James Kala's team, right?"
+“He was also the guy who went around badmouthing the expedition leader whenever he had the chance.”
 
-"He's also the one who's been badmouthing the expedition leader."
+“Hmm… then his goal might have been to undermine the expedition leader.”
 
-"Hmm... then his motive might have been to undermine the leader."
+The three seemed to be imagining the situation in their heads, assuming what I said was true.
 
-They started analyzing the situation, assuming my accusation was true.
+James Carla, noticing their stares, hurriedly spoke.
 
-James Kala quickly spoke up.
+“W-wait! Isn’t this all a misunderstanding? Sure, Neldaine can be narrow-minded, but—”
 
-"W-wait! There must be some misunderstanding! Neldain, he's a bit narrow-minded, I'll admit that, but—"
+“How do you know him well enough to say that?”
 
-"It's surprising to hear you say that. How well do you even know him?"
+“…?”
 
-"...?"
+“We’ve already done a thorough investigation on him. He joined the expedition based on a recommendation from the Explorers’ Guild, right? You hadn’t known him beforehand; you only met him when he joined us.”
 
-"I've already investigated him. He joined the expedition through the Explorer's Guild's recommendation, right? You didn't know him before."
+“That’s true, but…”
 
-"That's true, but..."
+“Schuiz, I think it would be wise to first explain why you believe he’s a traitor. And if you have any evidence, that would be even better.”
 
-James Kala trailed off, and Akuraba came to his defense.
+Evidence, evidence, evidence.
 
-"Schuitz, I think we should hear your reasoning first. Why do you think he's the traitor? Do you have any evidence?"
+If I hear that one more time, my ears might start to ring, but anyway, I carefully explained the reasons why I thought Pike Neldaine was the traitor.
 
-Ugh, evidence, evidence, evidence.
+And when the explanation was over.
 
-I'm sick of hearing that word.
+“Indeed…”
 
-But I calmly explained my reasons for suspecting Pike Neldain.
+“I can tell you’re not just making this up.”
 
-And when I finished...
+“Although it’s still just suspicion, it’s enough to warrant doubt.”
 
-"I see..."
+All the team leaders accepted that my suspicion was reasonable.
 
-"I understand that you're not just making this up."
+Ah, except that guy James.
 
-"It's still just circumstantial evidence, but it's enough to raise suspicion."
+“But we’re still missing the most important thing—evidence! No one will be convinced with just circumstantial claims! Some might even see this as a form of retaliation!”
 
-All the team leaders, except for James, agreed that my suspicion was valid.
+This was the first time this guy raised his voice, but I wasn’t particularly offended.
 
-"But we don't have any concrete evidence! You can't just accuse someone without proof! Someone might even think this is a personal vendetta!"
+It’s natural for a team leader to try to protect his team members.
 
-James raised his voice for the first time, but I wasn't offended.
+“Calm down. I know that, which is why I’ve gathered all of you to have an honest conversation.”
 
-It was natural for a team leader to protect his teammate.
+Looking James Carla in the eye, I asked him:
 
-"Calm down. I know that, that's why I called you here."
+“Answer me this—do you still believe my suspicions are groundless?”
 
-I looked at James Kala and asked,
+“No… I don’t.”
 
-"Do you still think I'm making this up?"
+“Good. Then let’s move on.”
 
-"I... don't think so."
+Before he could speak further, I clapped my hands loudly to refocus everyone’s attention.
 
-"Good. Then that's settled."
+“Listen up. I’m going to need everyone’s help from here on out.”
 
-I clapped my hands, trying to lighten the mood, and continued.
+“Help with…?”
 
-"Listen. I need your help."
+“I’ll explain.”
 
-"Help?"
+I shared the plan I had prepared with the team leaders, and soon received agreement from all of them.
 
-"I'll explain."
+And then…
 
-I shared my plan with the team leaders, and they all agreed.
+“It must be getting dark outside by now.”
 
-And...
+Night had come.
 
-"It's getting dark outside."
+Well, not that it made much difference in this dark cave.
 
-Night had fallen.
+“Alright, that concludes our talk. Go and gather everyone, including Pike Neldaine.”
 
-Well, it was always dark inside the cave.
-
-"That's all for today. Go and gather everyone, including Pike Neldain."
-
-It was time for a trial.
+It was time to hold a trial.
 
 ---
 
-A frozen cave with a giant sinkhole in the center.
+The frozen ceiling and walls.
 
-Thirty expedition members were gathered around a campfire.
+A massive sinkhole in the center of the chamber.
 
-"...What's going on? Why are we all here? Does anyone know?"
+And around it, a camp filled with thirty members of the expedition team.
 
-"I heard there's a traitor among us."
+“I’m exhausted, what’s going on? Does anyone know?”
 
-"...A traitor?"
+“I heard there’s a traitor within the expedition.”
 
-"They say he's the one who caused the supply loss."
+“…A traitor?”
 
-The team leaders had shared some information, and the members looked confused.
+“Yeah, and supposedly that traitor is behind the loss of our supplies too.”
 
-But their confusion soon turned to curiosity.
+It seems the team leaders had leaked some information as I instructed, and deep confusion was evident on the faces of the gathered members.
 
-"So who is it?"
+But it didn’t take long for that emotion to turn into curiosity.
 
-"You'll find out soon."
+“So who is that traitor?”
 
-"I guess they figured it out, since they called us all here at this hour."
+“Well, we’ll find out soon enough.”
 
-The murmurs subsided, and all eyes were on me.
+“True. If they gathered us all at this hour, it must mean they’ve identified someone.”
 
-But I ignored their gazes and focused on one person.
+As the murmurs subsided, more eyes focused on me. But I ignored those gazes and focused on one individual.
 
-"Neldain, what's wrong?"
+“Neldaine, is something wrong?”
 
-Pike Neldain.
+Pike Neldaine.
 
-The warrior from James Kala's team who had been badmouthing me.
+The warrior from James Carla’s team who spent his days gossiping about me behind my back.
 
-'He's scared.'
+‘Look at him squirm.’
 
-He had avoided eye contact at first, but now he was staring back at me defiantly.
+At first, he flinched and looked away when our eyes met, but now he stood there, staring back at me defiantly.
 
-It was a common trait of liars.
+A typical trait of a liar.
 
-They were afraid of being seen as suspicious if they averted their gaze.
+They avoid eye contact, worried they’ll give something away.
 
-"Everyone, be quiet!"
+“Alright, everyone, quiet down!”
 
-Kaislan stepped forward and silenced the members, and a heavy silence fell over the campsite.
+At my signal, Kaislan stepped forward to calm the crowd, and soon a chilly silence settled over the area.
 
-It was the perfect atmosphere for a one-sided conversation.
+The perfect atmosphere for speaking.
 
-"Pike Neldain, step forward."
+“Pike Neldaine, step forward.”
 
-As soon as I finished speaking, everyone looked at him.
+As soon as I finished speaking, all the members’ gazes shifted to one spot.
 
-"...What? Is it him?"
+“What? Could it be that guy?”
 
-"Don't call him 'him' yet. We don't know for sure."
+“Don’t jump to conclusions. It’s not certain.”
 
-Whispers filled the air.
+Whispers could be heard here and there.
 
-"Are you going to keep hiding?"
+“Aren’t you going to come out?”
 
-As I spoke, the explorers around Pike Neldain stepped back, creating a path.
+At my words, those around Pike Neldaine stepped back, creating a path.
 
-And...
+And then…
 
-Thud, thud.
+Tap, tap.
 
-He walked towards me, his face contorted with anger.
+He walked forward with a deep frown, standing confidently in front of me.
 
-"...Here I am."
+“…I’m here, but…”
 
-"You're quite bold."
+“Quite confident, aren’t you?”
 
-"I have every right to be. What is this about?"
+“Is there any reason I shouldn’t be? Anyway, let’s hear it. What’s the reason you’ve called me?”
 
-He glared at me.
+He glared at me with a confrontational gaze.
 
-I had expected this.
+Exactly what I expected.
 
-I didn't think he would confess just because I created a tense atmosphere and intimidated him.
+I never assumed he’d break down and confess everything out of fear.
 
-"Pike Neldain."
+“Pike Neldaine.”
 
-"I'm listening."
+“I’m listening, so go on.”
 
-"You're being accused of a serious crime."
+“You are under suspicion of committing a serious act of treason.”
 
-"...A crime?"
+“…Treason?”
 
-"You sabotaged the expedition and caused us to lose valuable supplies. It's an act of treason."
+“You’ve inflicted serious damage on the expedition established under the king’s command, I’d say that constitutes treason, wouldn’t you?”
 
-"...I don't understand. What did I do? Are you doing this because I badmouthed you?"
+“I don’t understand this situation at all. What exactly are you accusing me of? If this is because I’ve been talking badly about you—”
 
-"Pike Neldain!"
+“Pike Neldaine!”
 
-I cut him off before he could continue his rambling.
+I raised my voice, cutting him off before he could run his mouth.
 
-"You caused the ground to collapse twice during the expedition! You intentionally led us to those dangerous areas! Do you deny it?"
+“On two separate occasions during the expedition, you caused a collapse, leading to the loss of vital supplies. Do you deny it?”
 
-"Of course I do! It's not true!"
+“Of course I deny it. It’s not true.”
 
-"You're going to deny it until the very end?"
+“So you intend to deny it to the end?”
 
-"Why are you all just standing there?! Is it right for the expedition leader to accuse a member without any evidence?!"
+“Why are the rest of you just standing around? Isn’t it absurd that the expedition leader is persecuting a member without any evidence?”
 
-He appealed to the other members, trying to paint me as a vengeful leader.
+He shouted loudly, not at me but at the others, and ṭhe public opinion began to shift slightly.
 
-And it seemed to be working.
+“This… doesn’t sit right with me.”
 
-"This doesn't seem right..."
+“Bringing someone out without evidence isn’t exactly…”
 
-"What's the point of calling us all here if he's going to accuse him without proof..."
+“Well, he was always bad-mouthing the leader…”
 
-"He's always been badmouthing the leader..."
+“But calling someone a traitor out of the blue, without proof….”
 
-"But can he really be a traitor? Where's the evidence?"
+“Wasn’t the ground collapse an accident?”
 
-"The ground collapsing... wasn't that just a coincidence?"
+His tactic was obvious.
 
-He wanted them to think that I was taking revenge on him for personal reasons.
+He wanted to make them think I was acting out of personal vengeance.
 
-"Schuitz, you've made a mistake."
+“Schuiz, you’re making a grave mistake.”
 
-He looked at me with a smug expression.
+He looked at me with a triumphant gleam in his eyes.
 
-"If you're going to frame me, you need to have evidence that everyone can agree on."
+“If you want to accuse and persecute me, then you’d better provide solid evidence that everyone here can accept.”
 
-"Evidence..."
+“Evidence, huh….”
 
-That was the biggest obstacle.
+This had been the biggest sticking point.
 
-It was unrealistic to torture him into confessing.
+Torturing him into a confession? Impractical.
 
-And I didn't have 'Distorted Trust'.
+Using a verification spell?
 
-Verification magic?
+Most seasoned explorers become resistant to such spells by the fifth floor, so it wouldn’t even work on many of them.
 
-Most explorers above the 5th floor were immune to it.
+I’d considered and reconsidered this problem repeatedly.
 
-How many of them would it even work on?
+And then…
 
-I had been struggling with this problem...
+‘There’s no solution.’
 
-'There's no other way.'
+So I made my decision.
 
-"You don't have any—"
+If I couldn’t extract a confession with subtle questioning—
 
-There was only one solution.
+“Well, if you have no—”
 
-「Character has cast [Gigantification].」
+There was only one way.
 
-My body expanded rapidly.
+「The character has cast[Gigantification]」
 
-Whoosh!
+My body expanded instantly.
 
-I grabbed his neck before he could finish his sentence.
+With a quick movement, I extended my hand and grabbed his throat.
 
-"...!"
+“…!”
 
-The explorers were shocked, but no one dared to intervene.
+The members looked surprised, but no one immediately moved.
 
-It was an explorer's instinct.
+It’s the explorer’s instinct.
 
-When the situation was unclear, they observed and waited.
+If they don’t fully understand the situation, most will stay quiet and watch.
 
-"W-what are you doing—!"
+“K-kugh, what the hell—!”
 
-"You seem to like making friends. But I guess you didn't have any real friends to help you out."
+“You like making friends, huh? Funny how none of them are stepping up to help you now.”
 
-"L-let go—!"
+“S-stop—!”
 
-It's too early to give up.
+Stop? We’re just getting started.
 
-Squeeze.
-
-I tightened my grip, cutting off his air supply.
+I tightened my grip, blocking his airway.
 
 Thump! Thump!
 
-He punched my arm with all his might.
+He punched my arm with all his strength, but it was futile in my eyes.
 
-It was a futile effort.
+Slowly, I bent my arm to pull him closer.
 
-Swoosh.
+And then…
 
-I pulled him closer, ignoring his struggles.
+“Neldaine, do you know?”
 
-And...
+“…Mmph!”
 
-"Neldain, do you know this?"
+“Evidence isn’t necessary. As the expedition leader, I have the authority to execute any team member under urgent circumstances.”
 
-"...G-guh...!"
+“Kh… kkh!”
 
-"The expedition leader has the right to execute any member in an emergency."
+“And I consider this an urgent situation.”
 
-"G-g-guh...!"
+When I loosened my grip slightly, he seized the chance and shouted desperately.
 
-"And I think this is an emergency."
+“Everyone outside will know, they won’t—!”
 
-As I loosened my grip slightly, he desperately shouted.
+“They won’t believe it?”
 
-"T-they won't believe you... not outside...!"
+The nobles aren’t fools.
 
-"That's right, they won't."
+Besides, with so many watching here?
 
-The nobles weren't stupid.
+The moment I execute him, the marquis’s rivals will hold me responsible and force me to resign as the expedition leader.
 
-And there were too many witnesses.
+But…
 
-If I executed him here, the Marquis's rivals would use it against me and try to remove me from the leadership position.
+“Do you think I care?”
 
-But...
+“…?!”
 
-"Why should I care?"
+“That’s not my problem.”
 
-"...?!"
+With a genuine intent to kill, I tightened my grip on his throat, summoning all my strength.
 
-"I don't care what they think."
+Snap—
 
-I tightened my grip, my killing intent surging.
+Before long, his veins stood out rigidly, and his blood-filled head started to turn bright red.
 
-His veins bulged, and his face turned red from the blood rushing to his head.
+“…!!”
 
-"...!!"
+Desperately trying to stay conscious, he no longer looked at me.
 
-He had been trying to stay conscious, but he couldn't look at me anymore.
+Instead, his eyes searched the room, as if begging for salvation.
 
-He just looked around, desperately seeking help.
+“Should… should we just let this go?”
 
-"Should we stop him?"
+“This is bound to become an issue….”
 
-"This is going to be a problem..."
+“Sir Kaislan! Shouldn’t we stop this?”
 
-"Sir Kaislan! We have to stop him!"
+Voices of concern rose from the crew members.
 
-The members were worried.
+But the team leaders who heard these questions remained silent, observing the situation without interference.
 
-But the team leaders remained silent, observing the situation.
+After all, our agreement had been settled.
 
-They had already made a promise.
+“…….”
 
-"..."
+“…….”
 
-"..."
+Was it because the team leaders watched in silence, showing their support for my actions?
 
-They silently watched, their expressions conveying their support.
+Before I knew it, even those who had been actively expressing concern and insisting we should intervene had fallen silent.
 
-And...
+And then…
 
-"I... c-can't..."
+“Ah… n-no…”
 
-Pike Neldain realized the truth.
+The one who realized this most deeply was the man in front of me, hanging by his neck.
 
-He was alone.
+What ‘no’?
 
-"It's okay. Die."
+“Enough. Die.”
 
-I focused my killing intent on his neck.
+I drew up killing intent from deep within and put all my strength into the hand gripping his neck.
 
-Crack!
+Crack—!
 
-The sound of his neck snapping.
+His neck bones were crushed.
 
-His eyes rolled back, and his pupils dilated.
+The whites of his eyes began to show intermittently.
 
-"Damn it!"
+His eyeballs protruded grotesquely.
 
-Someone cursed, and at that moment...
+“Shit”
 
-「Pike Neldain has cast [Overload].」
+At that moment, someone watching the scene spat out a curse and screamed.
 
-His weight suddenly increased, and my arm buckled.
+“Pike Neldaine has cast [Overload].”
 
-So that's his trump card.
+Unable to withstand the explosive increase in his body weight, my arm struggled to hold him up.
 
-Kwaaang!
+So, he finally decided to use it.
 
-He fell to the ground, my grip loosening.
+Boom!
 
-"Gasp...!"
+As my arm angle lowered, his body touched the ground.
 
-He took a deep breath, his body convulsing.
+“Ugh…!”
 
-And he shouted with all his might.
+As soon as I released his neck, he collapsed, clutching his throat and gasping for breath.
 
-"Y-you madman! Stop him! Stop this madman!"
+Then he shouted with all his might.
 
-His desperate cry caused a stir among the members.
+“He’s c-crazy! W-what are you all doing! You need to stop this madman!”
 
-They looked like they were about to intervene.
+His near-death outburst shook the crowd.
 
-"What are you all waiting for?!"
+For a moment, some seemed to wonder if they should intervene.
 
-He looked at the team leaders, pleading for help.
+“What are you all waiting for?!”
 
-But their expressions were cold.
+He shouted, glancing desperately at the team leaders as if pleading for justice.
 
-"So it was true."
+Yet the team leaders only looked at him with cold, unforgiving expressions.
 
-"That's [Overload]... a warrior would never use that skill."
+“I hoped it wouldn’t come to this.”
 
-"Let's restrain him first. We can't hear his story if he kills himself."
+“So it’s true—he used [Overload]. Something no warrior should possess.”
 
-Today's lesson.
+“Let’s restrain him first. If he kills himself, we’ll lose the chance to hear him talk.”
 
-If you have a hunch, you can create evidence.
+Here’s today’s lesson:
+
+If you have suspicions, you can create evidence.

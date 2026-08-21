@@ -1,639 +1,560 @@
-# Eye of the Strom 2
+Eye of the Storm (2)
+
+Hoooo.
 
 Exhale.
 
-Inhale.
+Hoooo.
 
-Each breath forms a white cloud in the frigid air.
+Inhale
 
-Drip, drip.
+Each time, steam flows out of my mouth as if I’m smoking.
 
-Sweat freezes and falls to the ground.
+Drip.
 
-My muscles scream, my vision blurs.
+Sweat drips down, freezing solid as it hits the ground.
 
-But I push forward.
+Muscles scream in agony. Vision blurs.
 
-Thud, thud.
+But so what?
 
-One step at a time.
+Step. Step.
 
-I focus on my breathing, dragging the sled behind me.
+One step. Then another.
 
-Thud, thud.
+Focusing on my breathing more than ever, I stride forward.
 
-I grip the rope tightly, leading the way.
+At the very front of the two connected sleds, gripping the rope tightly so it doesn’t slip.
 
-The troll summoner is gone.
+Step by step.
 
-"How's Milburn Naria doing?"
+Constantly moving forward, pulling the sled.
 
-"...She won't last long."
+It’s for a simple reason.
 
-"I see..."
+The troll summoner who was handling the sled got taken out.
 
-Crack.
+“How is Milburn Naria’s condition?”
 
-I grit my teeth, replaying the battle in my mind.
+“……She won’t last much longer.”
 
-The beginning wasn't bad.
+“I see……”
 
-「Character has cast [Gigantification].」
+Grit.
 
-I stood firm, my giant body a wall blocking the enemy's advance.
+Gritting my teeth, I recalled the battle from earlier.
 
-"Teyrun Shear Diem!"
+It didn’t start off too badly.
 
-The mages protected me with their mana shields.
+[Character] has cast [Gigantification]
 
-「Jun Arsene has cast [Light of Protection].」
+I used [Gigantification] and blocked the pass like a boulder.
 
-「Periton Eriaboti has cast [Sacred Skin].」
+“Tayrun Sheardiem.”
 
-「Benjamin Orman has cast [Damage Reduction]...」
+The mages with their ‘Mana Shields.’
 
-「...」
+[Jun Arshen has cast [Light of Protection]
 
-The paladins supported me with their protective barriers and buffs.
+[Periton Eriaboti has cast [Holy Skin]
 
-We had focused all our resources on me.
+[Benjamin Ormon has cast [Damage Reduction]…….]
 
-It was an all-in strategy.
+“…….”
 
-And it worked.
+The priests assisted me with various shields and buffs.
 
-「All healing and regeneration effects are reversed.」
+In other words, an all-out strategy.
 
-They couldn't risk attacking me head-on, knowing that a single blow could turn into a fatal wound.
+That strategy was effective.
 
-We used the terrain to our advantage, unleashing our full firepower on them.
+[All healing and recovery effects work in reverse]
 
-We threw healing potions.
+In an environment where a single hit could turn into a fatal wound, the enemy hesitated to engage me directly, and in that state, with the advantage of the uphill terrain, we unleashed our full firepower on them.
 
-We cast healing spells on them, reversing their effects.
+We used everything—skills, healing potions as projectiles, and even placed healing zones on their side to harm them.
 
-And whenever we had the chance, we grabbed them and threw them off the cliff.
+Whenever there was an opportunity, I grabbed an enemy and hurled them off the cliff.
 
-「Status Effect [Whisper of Immortality] applied.」
+[Status effect [Whispers of Immortality] is applied]
 
-「Upon death, the character will be resurrected as an undead.」
+[Upon death, the character is revived as an undead]
 
-The fallen enemies rose as undead, attacking their former comrades.
+Those who died rose as undead and attacked their own allies.
 
-We maintained our formation, pushing forward relentlessly.
+We maintained a solid formation and pressed our attack.
 
-But...
+But then…
 
-[They were tough, even for Regal Vagos.]
+[Indeed… Regal Vargos would have had a hard time dealing with them.]
 
-The situation changed when their reinforcements arrived.
+From the moment those guys joined the battle, the situation changed.
 
-「Manua Repeles has cast [Iron Fist].」
+[Manua Lepeles has cast [Iron Fist]
 
-「Ricky Aimond has cast [Punishing Steps].」
+[Ricky Aymond has cast [Punishing Stride]
 
-「Puran Cullen has cast [Spirit Possession]...」
+[Puruan Cullin has cast [Possession]…….]
 
-Fifteen explorers armed with high-grade essences, the kind you could only obtain on the 8th floor.
+Dozens of elite explorers, armed with high-level essences obtainable only from the eighth floor onward, joined the battle.
 
-The moment they joined the fight, our lines crumbled.
+The moment they joined the battle, our frontline collapsed.
 
-[Schuitz, Leyaders is out of mana!]
+[Schuits, Leia Dars’s mana is depleted!]
 
-The mages who had been maintaining my mana shield fell one by one.
+The mages who were casting Mana Shield on me were taken out one by one, and as if that wasn’t enough, they leaped over me and infiltrated right into the heart of our formation.
 
-And then they broke through our defenses, reaching the heart of our formation.
+Three Paladins in the main tank line.
 
-The three paladins who formed the main tank line.
+Two Knights as secondary tanks, and a Warrior from the third team.
 
-The two knights who acted as secondary tanks, along with a warrior from the 3rd Team.
+Even melee DPS like Amelia and Ravien couldn’t hold the line.
 
-Amelia, Raviyen, and the other melee damage dealers tried to push them back, but it was futile.
+“Retreat, retreat!”
 
-[We have to retreat!]
+Every member of our team, including myself, felt the impending defeat.
 
-We all knew it was over.
+The reason was brutally clear.
 
-The reason for our defeat was simple.
+Their forces were much stronger than ours.
 
-They were stronger than us.
+If we continued to fight desperately, we could inflict considerable damage on them, but that would be all.
 
-If we fought to the death, we could inflict heavy casualties on them, but that's all.
+In the end, it would lead to annihilation.
 
-We would all die in the end.
+‘Let’s give up on killing these bastards here.’
 
-So...
+Therefore…….
 
-'I gave up on killing them all.'
+I immediately executed Plan B.
 
-I immediately activated Plan B.
+Plan B revolved around Milburn Naria, a summoner from Team Two.
 
-Plan B's key was the summoner, Milburn Naria, from the 2nd Team.
+She’s an AoE type extreme damage summoner, summoning three ice troll shamans.
 
-She was an AoE burst summoner.
+[Milburn Naria has cast [Relentless Command]
+[Milburn Naria has cast [Beast Training]
+[Milburn Naria has cast [Latent Instinct]
+[Milburn Naria has cast [Stability]….
 
-She controlled three Ice Troll 'Shamans', Pippi, Poppy, and Yeppi.
+The moment I gave the order, she buffed her summons to their limits.
 
-「Milburn Naria has cast [Harsh Command].」
+And then—
 
-「Milburn Naria has cast [Beast Taming].」
+[Summon Pipi has cast [Avalanche]
+[Summon Popi has cast [Avalanche]
+[Summon Yipi has cast [Avalanche]….
 
-「Milburn Naria has cast [Hidden Instinct].」
+The ice trolls unleashed massively amplified skills, buying us the time to retreat.
 
-「Milburn Naria has cast [Stability]...」
+However…….
 
-She unleashed all her buffs on her summons the moment I gave the order.
+“Kyaaa!”
 
-And...
+In the process, Naria was injured.
 
-「Summon Pippi has cast [Avalanche].」
+She had come out to the front line in close proximity to the trolls to maintain her [Stability], which tripled the range of her summons’ skills.
 
-「Summon Poppy has cast [Avalanche].」
+Even so, she stayed focused, directing her summons until we successfully retreated.
 
-「Summon Yeppi has cast [Avalanche]...」
+And now, here we are.
 
-The Ice Trolls unleashed their amplified skills, creating a massive avalanche that bought us time to retreat.
+“Schweitz, are you holding up?”
 
-But...
+“Don’t talk to me.”
 
-"Kyaaa!"
+“….”
 
-Naria was injured in the process.
+After Naria lost consciousness, all members carried their backpacks and divided the food, but it amounted to only one sled’s worth.
 
-She had been standing close to her trolls to maintain [Stability], which tripled their skill range, and was caught in the blast.
+Even so, we only managed to fill one sled.
 
-Thankfully, she managed to maintain her concentration and control her summons even after being injured, allowing us to escape.
+Scrape. Scrape.
 
-And that brings us to the present.
+Pulling the sled, I climbed the incline.
 
-"Schuitz, are you okay...?"
+I’d swap with another warrior when it became unbearable, but for now, I endured.
 
-"Don't talk to me."
+Moving mindlessly, body on autopilot—
 
-"..."
+“Ugh…”
 
-Naria had lost consciousness, and we had to redistribute the food from the destroyed sled among ourselves. It wasn't enough.
+From the sled, Naria stirred awake.
 
-Heave, heave.
+Wrapped in several layers of thick fur and surrounded by warming stones, her first words were:
 
-I pulled the sled uphill, my muscles screaming.
+“I’m… cold….”
 
-I would switch with another warrior when I reached my limit, but I could still endure.
+“Just hang on a little longer. You’re in bad shape, but once we reach the top and get you healed, you’ll feel better.”
 
-I focused on the task at hand, trying to clear my mind.
+“Do you… really think so…? Cough, cough!”
 
-"Ugh..."
+“…Yes, I do.”
 
-Naria stirred on the sled.
+No response.
 
-She was bundled in thick fur coats and surrounded by activated heating stones, but her first words were...
+Her breathing continued—she must have passed out again.
 
-"I-I'm cold..."
+Thud.
 
-"Just hold on a little longer. It's because you're injured. You'll feel better once we reach the top and get healed."
+It felt like a cannonball had hit my chest.
 
-"D-do you think so...? C-cough!"
+A suffocating, maddening weight.
 
-"...Yes, you will."
+‘What a load of crap—she’ll be fine.’
 
-There was no answer.
+I sincerely wished she’d survive.
 
-She must have lost consciousness again.
+But deep down, I knew better.
 
-Thump.
+No, she knew better than anyone.
 
-My heart felt heavy.
+Her body was turning ice-cold.
 
-'You will? How can I be so sure?'
+Death was closing in.
 
-I knew she was dying.
+“Home…”
 
-'No, she probably knows it better than anyone...'
+Then, a weak voice spoke from behind.
 
-The icy chill creeping into her body.
-
-The approaching death.
-
-"Home..."
-
-I heard a whisper from behind.
-
-"I... want to go home..."
+“I want… to go home….”
 
 It was Naria.
 
-Her voice was weak and filled with longing.
+Grinding my teeth, I uttered another lie.
 
-I gritted my teeth and lied.
+“You’ll make it home. I promise.”
 
-"You will. You'll be able to go home. I promise."
+“Do you think… that’s possible?”
 
-"D-do you think so...?"
+“Yes. If you can hold on.”
 
-"Yes, if you hold on."
+“….”
 
-"..."
+She said no more after that.
 
-Silence.
+It was much later when her voice returned.
 
-"Answer me..."
+“Mr. Schuiz… Please, leave me here.”
 
-Her voice was barely audible.
+“…What are you saying?”
 
-I finally gave in.
+“It’ll help… the others. This place… is like that… isn’t it?”
 
-There was no point in lying anymore.
+I didn’t answer.
 
-It would only be cruel.
+Not because I didn’t understand what she meant.
 
-"Alright. I'll do as you wish."
+[Whispers of Immortality]
 
-"..."
+The field effect that resurrected the dead as undead, stronger than before.
 
-"Is there anyone you want me to tell? In the city?"
+She was offering herself to be that aid.
 
-Her answer came after a long pause.
+“….”
 
-"...No... Don't."
+“….”
 
-"...Why not?"
+A long silence passed.
 
-"I... don't deserve to..."
+“Please… answer me.”
 
-Her voice trembled, her words disjointed.
+At her voice, I admitted it.
 
-It was a familiar pattern.
+No, it would be an insult.
 
-The way people spoke when they were close to death.
+“Alright. I’ll do as you wish.”
 
-"I-I'm so sorry... I... deceived you all..."
+“……”
 
-"I... didn't want to... I wanted to help..."
+“Is there anyone in the city you want me to send a message to?”
 
-"I should have... I should have... I should have...!"
+Again, the answer came back after a long time.
 
-"Sob... Sob..."
+“…No. B-because I don’t… deserve it.”
 
-I didn't pry.
+“……Don’t deserve it?”
 
-I just listened to her regrets, my heart heavy.
+“I-I don’t have the right to……”
 
-And then...
+Her voice trembled, incoherent.
 
-"P-please... let me down here..."
+A pattern often seen in people before they die.
 
-Her voice was clearer this time.
+“Ah… I’m really sorry……”
 
-"What do you mean?"
+“I didn’t want to deceive you. I also to all of you……”
 
-"Just leave me here... It'll... help you all..."
+“If only, if only, if only I……!”
 
-"Help us...?"
+“Kuhuhuheuk……”
 
-'Whisper of Immortality.'
+I didn’t pry further, only listened as she poured out her regrets.
 
-The cruel field effect that resurrected the dead as undead, forcing them to attack their former comrades.
+Eventually—
 
-She wanted to help us, even in death.
+“Please, put me down now……”
 
-"..."
+Her voice was clear, for once.
 
-"..."
+“Fuck
 
-Silence.
+The warrior next to me cursed under his breath.
 
-"Answer me..."
+“May the warm light embrace your soul.”
 
-Her voice was weak, but her gaze was firm.
+The paladin closed his eyes and made a reverent sign of the cross.
 
-I finally admitted it.
+As people who have seen countless deaths, they realized that the last flame was burning.
 
-There was no point in pretending anymore.
+“Miss Naria……. You really worked hard.”
 
-"Alright, I'll do as you wish."
+Akuraba, her team leader, tidied up her disheveled hair.
 
-"..."
+Then Akuraba carefully lifted her body and laid her down.
 
-"Is there anyone you want me to tell? In the city?"
+“Thank you, Miss Akuraba……”
 
-Her answer came after a long pause.
+“Thank you? Not at all……”
 
-"...No... Don't."
+Akuraba bit her lip as if holding back something.
 
-"...Why not?"
+Then the other members laid down a fur coat on the ground and placed Naria’s body on it.
 
-"I... don't deserve to..."
+“……Go. Don’t look at me like that.”
 
-Her voice trembled, her words disjointed.
+Despite Naria’s words, we couldn’t easily move.
 
-It was a familiar pattern.
+“It’s urgent. I’m okay……”
 
-The way people spoke when they were close to death.
+“……”
 
-"I-I'm so sorry... I... deceived you all..."
-
-"I... didn't want to... I wanted to help..."
-
-"I should have... I should have... I should have...!"
-
-"Sob... Sob..."
-
-I didn't pry.
-
-I just listened to her regrets, my heart heavy.
-
-And then...
-
-"P-please... let me down here..."
-
-Her voice was clearer this time.
-
-"What do you mean?"
-
-"Just leave me here... It'll... help you all..."
-
-"Help us...?"
-
-'Whisper of Immortality.'
-
-The cruel field effect that resurrected the dead as undead, forcing them to attack their former comrades.
-
-She wanted to help us, even in death.
-
-"..."
-
-"..."
-
-Silence.
-
-"Answer me..."
-
-Her voice was weak, but her gaze was firm.
-
-I finally admitted it.
-
-There was no point in pretending anymore.
-
-"Alright. I'll do as you wish."
-
-"..."
-
-"Is there anyone you want me to tell? In the city?"
-
-"Just... tell them... that I... I..."
-
-She trailed off, her eyes closing.
-
-And then...
-
-She was gone.
-
-"Damn it..."
-
-My heart felt heavy, as if a giant rock had been placed on it.
-
-The warrior next to me cursed.
-
-"May the warmth of the Goddess embrace your soul."
-
-The paladin closed his eyes and prayed.
-
-We all knew.
-
-Her last flame had been extinguished.
-
-"Akuraba..."
-
-The dwarf woman, who had been standing silently, approached the body and gently closed her eyes.
-
-And then she spoke, her voice trembling.
-
-"...Let's go. Don't... don't just stand there..."
-
-We couldn't leave her body behind.
-
-So we lifted her onto the sled.
-
-"I'm... not scared..."
-
-Her final words echoed in my mind.
-
-"I'm... finally going home..."
-
-"To a real home... filled with the scent of coffee in the morning..."
+“Go.”
 
 Damn it.
 
-[...I regret it now. He wouldn't have actually killed me, would he? Hahaha...]
+Grit.
 
-I finally understood the reason for his unease.
+Something hot surged within my chest.
+
+But I knew in my head.
+
+“Schuiz, she’s right. We have to go now.”
+
+I forced myself to take a step and started pulling the sled again.
+
+“I’m not afraid……”
+
+Naria, who closed her eyes weakly.
+
+“Now, I’m finally going home……”
+
+The further we walked, the more her murmurs faded away.
+
+“To my real home, where it smells like coffee in the morning……”
+
+Damn it.
+
+[Well, I regret it now. The archbishop wouldn’t really have killed me. Hahaha…]
+
+Now I know what the discomfort was.
 
 ---
 
 Twenty-four survivors.
 
-The expedition force marched on.
+The expedition, which started with thirty people, moved forward.
 
-Their steps heavy with grief and a growing sense of unease.
+Even in a life-threatening situation, there is still a sense of confusion that cannot be erased.
 
-"About what Naria said..."
+“What Miss Naria said… … .”
 
-"Home... It must be that."
+“If it’s home… then that’s it, right?”
 
-The explorers had seen countless deaths in the labyrinth.
+Explorers who have spent countless years in the labyrinth and have had many different experiences.
 
-They knew.
+Of course, there were many people among them who knew.
 
-What the dying wished for the most.
+What does an evil spirit wish for most when it is about to die?
 
-"Then Naria was an evil spirit...?"
+“So, Miss Naria was an evil spirit… …?”
 
-"Shh! Keep your voice down. We can't be sure yet."
+“Shh! Be quiet. It’s not like we’re sure yet.”
 
-Whispers spread through the ranks.
+Doubts spread among the members.
 
-And then someone spoke up, his voice filled with anger.
+And some harbored anger at those doubts.
 
-"Are you all insane?! She was injured trying to save us, she died trying to help us, she chose to die alone so we could live! What does it matter if she was an evil spirit?!"
+“Are you all sane! She was injured trying to save us, and even in her dying moments, she chose to help us! She chose to die alone for our sake! And you call her an evil spirit? Even if she was an evil spirit, what does that matter!”
 
-It was a bad sign.
+It was not a good sign.
 
-"No, I mean... It's strange! Why would an evil spirit sacrifice herself for us...?"
+“No, we’re just……. Isn’t it strange? Why would an evil spirit……”
 
-"You damn fool! If you don't understand, I'll show you myself!"
+“You damn bastard! If you really don’t know, I’ll make you understand myself!”
 
-The tension was rising.
+It’s turning into chaos.
 
-"Stop it!"
+“Stop iiiit!!!”
 
-Kaislan shouted, stepping forward to intervene.
+Before the argument could escalate further, Kaislan silenced the group.
 
-"We have to work together to survive! What are you doing, fighting amongst ourselves?!"
+“Have you all lost your minds? Now, of all times, we need to work together!”
 
-I didn't stop him.
+I didn’t stop him.
 
-I had learned something.
+I realized through this incident.
 
-Sometimes, you had to use force to maintain order.
+That sometimes, to lead a group, you need to completely suppress them.
 
-"If anyone says another word, I'll execute them! Under the authority of the King! Do you understand?!"
+“From now on, if anyone utters another useless word, I will execute them immediately under the royal law! Understood?”
 
-His harsh words and threat silenced the members.
+A harsh, almost extreme command.
 
-Well, not everyone.
+At this, the members seemed to come to their senses and started keeping their mouths shut, watching.
 
-"...Try it."
+Well, unfortunately, not all of them did.
 
-A voice came from the back.
+“……Do it then.”
 
-It was Puta Rikerburn, a melee attacker and guide from the 2nd Team.
+After the silence was about to end, a murmur came from somewhere.
 
-"...Try it? What do you mean?"
+The owner of that voice was Puta Rickervan.
 
-"You all know it, don't you? We're finished!"
+He was a melee dealer and served as a scout in Team 2.
 
-"You bastard...!"
+“You heard me. Go ahead and do it. You all know it, don’t you? It’s over for us!”
 
-"Stop it, Kaislan!"
+“You bastard—!”
 
-Kaislan drew his sword, but was stopped by the other knights.
+“Kaislan, stop!”
 
-Rikerburn's voice grew louder.
+Kaislan immediately raised his sword, but the nearby knights restrained him.
 
-"Did you see them? They're much stronger than us! And there are more of them! What difference does it make if we run? They'll catch up to us soon!"
+Rickerburn’s voice only grew louder.
 
-"...Let him go. That's an order."
+“You saw them, didn’t you? They were stronger than us—way stronger! And there were more of them! What do you think will change if we keep running? They’ll catch up soon enough!”
 
-At Kaislan's command, the knights reluctantly released Rikerburn.
+“Release me. That’s an order.”
 
-This is bad.
+At his command, the knights who were restraining him sighed and stepped back.
 
-We're going to fight each other.
+This is getting out of hand. Are we seriously going to start fighting each other now?
 
-"Kaislan, step aside."
+“Kaislan, step aside.”
 
-I couldn't just stand there and watch.
+In the end, I had no choice but to stop pulling the sled and head to the center where the commotion was happening.
 
-I walked towards the commotion.
+And then……
 
-And...
+Grab.
 
-Grab!
+I walked briskly and grabbed the man’s collar.
 
-I grabbed him by the collar.
+“Ugh!”
 
-"Ugh!"
+“So, what do you want to say? Do you want to just give up and die because there’s no hope? If that’s what you want, I can kill you first.”
 
-"What do you want to say? That we're all going to die anyway, so we might as well give up? Is that what you want? Because I can grant your wish right now."
+“Ku, Heok-!”
 
-"C-cough!"
+The man who was grabbed coughed, but he didn’t lower his insolent gaze.
 
-He coughed, but his defiant gaze didn't waver.
+No, rather……
 
-He was staring at me, as if daring me to kill him.
+“Do it, if you can.”
 
-"...Try it."
+Unconsciously, my grip loosened, and he dropped to the ground.
 
-"...What?"
+He shouted loudly, as if crying out in despair.
 
-I loosened my grip, taken aback by his unwavering defiance.
+“What changes if we miraculously shake them off? A future where we return to the city laughing and chatting? Do you think that will happen?”
 
-He fell to the ground and shouted.
+I should kill this bastard to shut his mouth.
 
-"What difference does it make if we escape?! We're all going to die anyway! Do you think we'll be able to live happily ever after once we get back to the city?"
+But by then, it was too late. He had already said everything he needed to.
 
-I wanted to shut him up.
+“You know too, don’t you? The reason the main force didn’t come to rescue us! We’ve been abandoned! Not because something happened, but because it was decided from the beginning!”
 
-But it was too late.
+“……Wh-what do you mean? Decided from the beginning?”
 
-He had already said what he wanted to say.
+“Yeah! That’s what I thought, too! Everyone here is extraordinary! But that’s exactly why we were sent—because it’s the perfect trap!”
 
-"Don't you understand?! The main force isn't coming! They abandoned us! Not because something happened, but because it was planned from the beginning!"
+“…A trap?”
 
-"...What? Planned from the beginning?"
+At this point, there was nothing I could do to contain the chaos.
 
-"That's nonsense! Why would the royal family abandon us?! We're all valuable assets!"
+I sighed and let the scene play out.
 
-"Yes! That's what I thought! We're all elites! This is a trap! A trap!"
+“I, Puta Rickerburn, am from the House of Kealrunas! Ever since I was a child, I’ve done their dirty work to repay my family’s debts. I got sick of it and wanted to retire—but their ‘final favor’ was to join this expedition!”
 
-"...A trap?"
+“…What?”
 
-It was too late for me to intervene.
+“Don’t you see what that means? I was disposable! They couldn’t kill me outright because of the attention it’d draw, so they wrapped it up nicely and sent me here—a garbage dump disguised as an honor!”
 
-I sighed and watched the chaos unfold.
+“…”
 
-"I'm Puta Rikerburn! I'm from the Keallunus family! They forced me to join this expedition because I owed them a debt! I've been doing their dirty work for years!"
+“Hahaha! Judging by the looks on your faces, I’d say I’m not the only one with a story like this. Am I wrong? Didn’t you all have some nagging doubt in the back of your mind?”
 
-"..."
+When Rickerburn finally fell silent, the weight of his words settled over the group.
 
-"Don't you understand?! They abandoned me! They sent me here to die! They gave me a fancy title and sent me to the trash!"
+It was the calm before the storm.
 
-"..."
+“The guild… abandoned me?” muttered someone, their voice trembling.
 
-"Hahaha! I guess I'm not the only one here with a story to tell! Don't tell me you all thought you were here because you were special?"
+“No… No, that can’t be. They promised me… if I succeeded, they’d overlook the embezzlement…”
 
-His words silenced the expedition force.
+Panic began to spread among the others.
 
-A heavy silence, heavier than any blizzard we had encountered.
+“Are you perhaps in the same situation?”
 
-"The Alminus Trading Company... they abandoned me...? N-no, that can't be true. They promised to forgive my embezzlement if I succeeded..."
+Eyes filled with such doubt.
 
-Someone whispered, his voice trembling.
+Those who received the most of these gazes were the team leaders.
 
-And then...
+Well, they are the most renowned among us. They must be hoping that these leaders would step forward and assure them that such a thing couldn’t possibly be true.
 
-Everyone looked at each other.
+However…
 
-'Could you be one of them?'
-
-That's what their gazes seemed to say.
-
-The team leaders received the most attention.
-
-They were the most influential figures among us.
-
-We needed them to reassure us.
-
-But...
-
-"...Maybe he's right."
+“Perhaps… we really have been abandoned.”
 
 Reality was cruel.
 
-"Titana Akuraba... she's been questioning the royal family for years. Maybe they wanted to get rid of her."
+“I, Titana Akuraba, have constantly questioned the royal family about the dimensional collapse and demanded strict management. Maybe they found that bothersome.”
 
-Akuraba was the first to speak.
+It started with Akuraba.
 
-"The Clan Master has been wary of me lately. Maybe he was worried I would become too powerful..."
+“Recently, the clan leader has often seemed to be holding me in check. But just for that…”
 
-Next was James Kala.
+The second was James Carla, vice-captain of the Gearfang Clan
 
-"Hmm... I'm in a similar situation. I don't care about the family title, but my brother might have felt threatened. That's why I joined the military..."
+“Hmm… If I had to point out a reason, mine is similar to Karla’s. I have no interest in my family’s title, but my older brother may have felt threatened. That’s why I joined the military at a young age…”
 
 Kaislan.
 
-And...
+And then..
 
-"I was an inquisitor for the Tovera Church. I was supposed to hunt down heretics... but I saw them framing innocent people. There are many who want me dead."
+“I was an interrogator of the Toberra Church. My known duty was to identify and execute believers tainted by the Karui religion… But after witnessing innocent political rivals being falsely accused unrelated to the Karui religion, I became disillusioned and resigned. There are quite a few bishops who would want to hide their disgrace.”
 
-Jun's confession was the final blow.
+Lastly, even Jun’s confession.
 
-Each confession chipped away at our hope.
+With each team leader who spoke, despair was etched within the expedition.
 
-But there was still one person left.
+But perhaps they still couldn’t let go of hope.
 
-"Schuitz, what about you?"
+“Schuiz, what about you?”
 
-"You were recommended by the Marquis, and you're the expedition leader. Are you one of them too?"
+“You were recommended by the marquis and even obtained the position of leader of this expedition.”
 
-The explorers looked at me, their eyes filled with a mixture of hope and despair.
+“Are you really similar to us?”
 
-'There's no point in hiding it anymore.'
+The members’ gazes turned toward me.
 
-I sighed and spoke.
+‘There’s no reason to hide it any longer.’
 
-I didn't need a long explanation.
+After a moment’s thought, I opened my mouth.
 
-"...I'm Bjorn Yandel."
+There was no need to speak at length like the previous cases.
+
+“…I am Bjorn Jandel.”
 
 One sentence was enough.

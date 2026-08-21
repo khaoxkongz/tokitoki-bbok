@@ -1,483 +1,498 @@
-# Giant Step 4
+Giant Step(4)
 
-When I woke up again, it was the middle of the night. I decided to go back to sleep since there was nothing to do at this hour.
+When I opened my eyes, it was the middle of the night, and since there was nothing to do at this hour, I decided to go back to sleep.
 
-I thought I had slept for two days straight…
+I thought I had slept for two days…
 
-“…Three days?”
+“…I slept for three days?”
 
 At first, I thought Amelia was joking.
 
-I was still exhausted, even after sleeping for three days straight. Honestly, I had forced myself to wake up even though I could have slept for longer…
+I could still feel the fatigue in my body despite having slept for three days straight. onestly, I could have slept more if I’d wanted to, but I forced myself to get up…
 
-‘But it’s really been three days.’
+‘But it really has been three days.’
 
-“It’s good that you finally woke up. If you hadn’t, I would have had to wake you up myself. I’m tired of calming Erwen down.”
+“Still, I’m relieved you woke up. If you hadn’t woken up today, I was planning to forcefully wake you. Because I’ve had enough of stopping that fairy from making a big fuss.”
 
-“…Where’s Erwen?”
+“…So where’s Erwin?”
 
-“She went out.”
+“She went out for a bit.”
 
-“Out?”
+“Went out?”
 
-“She said she was going to the sanctuary. It seems like things aren’t going smoothly.”
+“Said she’s going to the Sanctuary. Seems like that matter isn’t wrapping up as easily as she expected.”
 
-She didn’t mention the subject, but I didn’t have to ask.
+She hadn’t specified what it was, but there was no need to ask.
 
-It was probably about her leaving the Pureblood Order.
+It must be about her leaving the Pureblood Legion.
 
-She had received a lot of support from the fairy tribe, so she would have to give up a lot to regain her freedom.
+During my absence, she’d received considerable support from the Fairy race; to be free from all that, she’ll have to give up a lot.
 
-Like the ‘Divine Tree Bow’, for example.
+Most obviously, the ‘Divine Tree Bow.’
 
-Or the money she had used to buy this mansion.
+Or else, the funds for purchasing this mansion—extorted by taking the Divine Tree Bow hostage.
 
-‘…Well, the real problem is the ‘Pureblood’ itself.’
+‘Well, the real problem is the ‘pureblood’ itself.’
 
-The fairy ‘Pureblood’ was a kind of racial secret.
+A fairy’s Pureblood is a kind of secret racial skill.
 
-Only one fairy could inherit it per generation, and the inheritor’s ‘Affinity with Nature’ stat would skyrocket. That’s how Erwen was able to form a contract with the Spirit King.
+Only one person can inherit the pureblood at any given time, and the inheritor’s ‘Natural Affinity’ stat is insanely boosted. That’s how Erwin was able to contract with the Spirit King.
 
-‘I need to help her with this. I can’t just leave her to deal with it alone.’
+‘I need to get that resolved ASAP. Letting Erwin handle it all on her own doesn’t make any sense.’
 
-I suddenly regretted wasting so much time sleeping.
+I regret the time I spent sleeping.
 
-It hadn’t even been a month since we returned from Ice Rock, but we didn’t have time to rest.
+It hasn’t even been a month since we survived Ice Rock and made it back, but I have no time to waste relaxing.
 
-But…
+However…
 
-Rumble!
+Grrrrr—
 
-“…There’s food in the kitchen.”
+“Go check the kitchen. There should be some food left.”
 
 Right, let’s eat first.
 
 ---
 
-After filling my stomach, which had been growling for three days, I started organizing my thoughts.
+After satisfying my hunger from three days of starvation, the first thing I did was organize my thoughts.
 
-Lee Baekho, the GM, Hyunbyul, Ragna, Auril Gabis, and all the information I had gathered from the Round Table…
+Lee Baek-ho, GM, Hyeon Byeol, Ragna, Auril Gavis, and the multitude of information I got from the Round Table…
 
-I excused myself and went to my room, spending hours trying to make sense of it all.
+I asked Amelia for some space, locked myself in my room and spent some time putting things in order.
 
-‘Ugh… my head is going to explode.’
+‘Ha… My head’s about to explode.’
 
-I felt like a student who hadn’t done his homework.
+I felt like a student preparing for the first day of the term.
 
-I had so many things to do, but I didn’t know where to start.
+I had a lot of homework to catch up on, and I feel overwhelmed about where to start. So I decided to treat it like a game, setting priorities and sorting it out. What needed my immediate attention?
 
-‘…Let’s prioritize them like quests.’
+‘… … It’s a bit better when I organize it like a quest.’
 
-I forced myself to rank them, and my mind felt a bit clearer.
+After assigning the forced rankings, my head felt a bit clearer.
 
-So, the quest I had to complete today was…
+So, the quest that I need to complete today is…
 
-“Amelia, how’s the clan registration going?”
+“Amelia, how’s the clan formation going?”
 
-Finalize the clan registration.
+Finishing the clan formation.
 
-“The paperwork is done. We just have to go to the guild and register our names.”
+“The paperwork review finished yesterday, so all that’s left is to go in person and sign your name in the official registry.”
 
-I had considered reviving my old clan, but it had been disbanded after I was declared dead, so the process would be complicated. It was easier to just create a new one. ŗα₦ȱ฿ЁṨ
+I actually considered resurrecting my old clan, but it was disbanded after I was declared dead, so I decided to create a new one due to the bureaucratic complications.
 
-It was a bit of a shame.
+It’s a bit of a shame.
 
-Older clans had certain advantages.
+Clans with an older creation date do have certain advantages.
 
-‘Well, I can just use my noble title to pressure them later.’
+‘Well, maybe I can just use my noble title to push that around later?’
 
-Negotiating with the guild was one of my specialties.
+Negotiating with the guild is something I’m good at.
 
-I got dressed and was about to leave when Amelia handed me an iron helmet.
+I changed and was about to head out to do the day’s chores when Amelia grabbed her coat and followed me.
 
-“Wear this. It’ll cause a commotion if you go out like that.”
+“You’re coming along?”
 
-“…Right.”
+“That’d be better. I took care of most of the formalities anyway.”
 
-I put on the helmet and left the house with Amelia.
+True, having two of us there might minimize any oversights.
 
-“It’s been a while since we last went out together during the day.”
+Sigh, Raven used to handle these things for me
 
-Hmm, has it?
+‘It will take a while to bring her over from the military.’
 
-Come to think of it, the last time was when we went to the auction house to buy the Vol-Herchan essence and then visited the art museum.
+But that doesn’t mean I’ve given up.
 
-I hadn’t been able to freely roam the city since returning to this time period.
+Of course, Raven’s willingness comes first.
 
-“Ah, there it is.”
+“Wait.”
 
-The guild branch wasn’t far from our house.
+“Hmm?”
 
-We took a number and waited, and when it was our turn, I showed the clerk my ID card.
+“Put this on. Going out like that will cause a commotion.”
+
+“Ah…”
+
+I took the steel helmet Amelia handed me, put it on and stepped aside.
+
+“It’s been a while. Going out together in broad daylight like this.”
+
+Hmm, is it?
+
+Now that she mentions it, I think the last time we went out together like this was when we visited the auction house to buy the ‘Bol-Herchan’ essence and then went to that art gallery.
+
+After returning to the present era, we haven’t been in a position to walk around comfortably.
+
+“Oh, there it is.”
+
+Our house was in the centre of town, so it wasn’t a long walk to the local Guild branch.
+
+We took a ticket and waited like other explorers, then handed over our IDs when our turn came.
 
 And…
 
-“B-B-B-B… H-huh!”
+“Beep, beep, beep, beep… Hrrng!”
 
-The clerk started hyperventilating, so we were escorted to a private room on the 2nd floor.
+As soon as the clerk saw my ID, she nearly had a seizure, so we ended up moving to a private reception room on the second floor. The branch manager himself rushed out to wrap up the remaining formalities.
 
-The branch manager rushed in and personally handled the remaining paperwork.
+It was a strange feeling.
 
-I felt a strange mix of emotions as I looked at the clan roster.
+Leader: Bjorn Jandel
+Deputy Leader: Vacant
+Member: Vacant
+Member: Emily Raines
+Member: Aynar Pheneline
+Member: Auyen Roklov
 
-Leader: Bjorn Yandel.
+This was the minimum number of people that was required for the formation of a clan.
 
-Vice-Captain: Vacant.
+By the way, Erwin couldn’t join the clan because she was still in the ‘Pureblood Legion’ and hadn’t resolved that.
 
-Member: Vacant.
+“P-Please visit us again soon!”
 
-Member: Emily Raines.
+After receiving the branch manager’s lavish hospitality and leaving the guild, we headed for a nearby restaurant.
 
-Member: Ainar Frenelin.
-
-Member: Auyen Lokrob.
-
-It was the bare minimum to register a clan.
-
-Erwen couldn’t join yet because she hadn’t officially left the Pureblood Order.
-
-“P-please come again!”
-
-We left the guild after receiving the branch manager’s ‘respectful’ treatment and headed towards a nearby restaurant.
-
-I was already hungry.
+I was already hungry again, not surprising after three days of fasting.
 
 “Amelia.”
 
-“You’re supposed to call me Emily outside.”
+“It was Emily outside, wasn’t it?”
 
 Ah, right.
 
-I’m so hungry that I can’t think straight.
+My mind is a blur from hunger.
 
-“What were you going to say?”
+“So, what did you want to say?”
 
-“Ah, it’s nothing special. I was just curious. Why did you leave the Vice-Captain position vacant?”
+“Ah, it’s nothing big, just curiosity: Why did you leave the slot for the First Member blank?”
 
-I hadn’t had a chance to ask him about it.
+I had left it vacant as she instructed, but she hadn’t told me why.
 
-Why?
+“What’s the reason?”
 
-“Sometimes, haste ruins everything.”
+“Sometimes, impatience ruins everything.”
 
 “…Huh?”
 
-“Tell her that you left it vacant on purpose. It’ll calm her down.”
+“When she withdraws from her order, tell her that we deliberately left the spot open. That will calm her down a little.”
 
-“…Uh…”
+“Uh…”
 
-What did I just hear?
+“Uh…”
 
-“…You left it vacant for Erwen?”
+Wait, what did I just hear?
 
-Amelia averted her gaze, as if embarrassed.
+“…You left it open for Erwin?”
 
-And…
+I asked, unable to hide my shock, and Amelia looked a bit embarrassed as she averted her gaze.
+
+Then…
 
 “…She seemed upset.”
 
-She mumbled softly and then changed the subject.
+She muttered in a tiny voice, then changed the subject.
 
-“What about the clan name?”
+“Anyway, about the clan name.”
 
 “Huh?”
 
-“Is there a reason why you chose that name? I heard it’s an ancient language, meaning ‘pack of beasts’.”
+“Is there a particular reason you chose it? I found out it means ‘a pack of beasts’ in an ancient language.”
 
-So you also recognized it as an ancient language.
+She thought of an ancient language first, huh?
 
-I guess this is a success?
+So, is this a success?
 
-I thought for a moment and then decided to tell her the truth.
+After a moment’s deliberation, I told Amelia the truth.
 
-I called her closer and whispered in her ear.
+I didn’t want anyone to overhear, so I pulled her close.
 
-“It’s not an ancient language, it’s Korean.”
+“Actually, it’s not ancient, it’s Korean.”
 
-Amelia flinched and then whispered back.
+Amelia visibly flinched at my whisper and quietly asked for clarification.
 
-“Korean…? You mean… your native language?”
+“Korean…? You mean, the language of your homeland?”
 
-“Yes.”
+“Right.”
 
-I nodded and then told her the meaning.
+I nodded and went on to explain its meaning.
 
-“It’s a spirit of working together for a better future.”
+“To strive together for a better future with one heart and one will.”
 
-“…Hmm?”
+“…Oh?”
 
-“That’s the meaning of ‘Anabada’.”
+“That’s what ‘Anabada’ means.”
 
-For reference, it would also be our clan’s motto for the time being.
-
-We were desperate.
+For now, it’s also going to be our clan’s motto. As given the corner we had been driven into, we couldn’t afford to do anything else.
 
 ---
 
-After lunch, Amelia left to run some errands.
+After we finished eating, Amelia said she had something to do and left.
 
-I knew where she was going.
+It was obvious where she was going.
 
-She was going to visit her sister’s workplace and stare at her from afar.
+She’d visit the place her sister works, peek in from a distance, then come back.
 
-She couldn’t even bring herself to talk to her.
+Without ever daring to actually speak to her.
 
-‘…Well, it’s her choice.’
+‘…Well, she says she’s satisfied with that, so I guess I can’t say much.’
 
-I had finished my quest for the day, but I didn’t go home.
+Anyway, even though I’d wrapped up today’s quest, I didn’t head home; I headed somewhere else instead.
 
-I had something else to do.
+Because there was something I needed—no, something I wanted—to do.
 
-Clang!
+Ding!
 
-I opened the door and entered a restaurant.
+I push open the door to a modestly busy restaurant.
 
-It was half-full.
+The second floor doubled as an inn, and the place sold food during the day and drinks at night, essentially operating as a pub.
 
-The 2nd floor was an inn, and the 1st floor was a restaurant during the day and a bar at night.
+“Welcome! Are you dining alone?”
 
-“Welcome! Table for one?”
+As I entered, a bright-faced waitress, who seemed to be in her early twenties, greeted me with a big smile and led me to a table.
 
-A young waitress with a bright smile led me to a table.
+“What can I get you to eat?”
 
-“What can I get for you?”
+“Bring me something with plenty of meat, please. I walked a lot, and I’m hungry already.”
 
-“Something with a lot of meat. I’m starving.”
-
-“Yes, sir. Please wait a mo—”
+“Sure, just a mo—”
 
 “Wait, is the owner not here today?”
 
-“The owner’s wife is pregnant, so the priest told her to be careful. She’s not coming to work these days.”
+“Oh, madam? The priest said she should start being careful, so she isn’t coming in these days.”
 
-…Is she sick?
+…Is she ill or something?
 
-I was a bit worried, but I quickly corrected her.
+While slightly worried, I decided to clear up any misunderstandings first.
 
 “I meant the male owner.”
 
-“Ah! Mr. Siegfried will be here soon. In about 30 minutes? He’s always late, so I can’t be sure!”
+“Oh! If you mean Urich, he should be in soon. About 30 minutes? But he’s not very punctual, so I can’t guarantee it!”
 
-Okay, so I just have to wait.
+Okay, so I’ll be able to see him if I wait.
 
-“Thank you.”
+“Thanks for answering.”
 
-I gave her a tip and waited at the table.
+As a token of appreciation for her time, I left a tip and sat at the table, passing the time.And after I had eaten all the food I ordered and placed an order for a second dish…
 
-And then, when I was about to order another dish after finishing my meal…
+Ding!
 
-Clang!
+The door opened, and the person I was waiting for arrived.
 
-The door opened, and the person I had been waiting for arrived.
+“You’re here? Urichfried!”
 
-“You’re here, Mr. Siegfried!”
+“Yeah, anything going on?”
 
-“Yeah, anything happen?”
+“You’ve got someone here to see you.”
 
-“You have a visitor.”
+“…Someone to see me?”
 
-“…A visitor?”
+As the waiteress conversed with Mr. Bear, he scanned the interior and froze when he saw me.
 
-Bear, who had been talking to the waitress, looked around and then froze as soon as our eyes met.
+But did he realise the situation?
 
-But he quickly recovered.
-
-“Myla, no more customers. Tell the remaining customers to leave after they finish their meals.”
-
-“…Yes?”
-
-“And you too. Go home with the chef after the customers leave.”
+“Maila, no more customers from now on. If the people already here are done eating, let them go.”
 
 “Huh?”
 
-“Make sure no one comes near my table.”
+“Ah, and after you send off the guests, you and the chef can leave too.”
 
-He gave the waitress a series of orders and then approached me.
+“Uh?”
 
-“…It’s really you. Bjorn Yandel.”
+“Try to keep people away from my table as much as possible.”
 
-“It’s been a while, Abman.”
+After quickly giving instructions to the waitress, Mr. Bear approached me briskly.
 
-He sat down across from me without hesitation.
+“…It really is you. Bjorn Jandel.”
 
-And…
+“Been a while, Abman.”
 
-“…….”
+And then…
 
-“…….”
+“…”
 
-Silence.
+“…”
 
-He spoke first.
+A brief silence followed.
 
-“I… heard the news.”
+Abman was the first to speak.
 
-Damn, this is awkward.
+“I’ve… heard the news.”
 
-“I don’t understand what happened, but it seems like you went through a lot.”
+God, this awkwardness.
 
-“Ah, yeah… I did…”
+“I still don’t fully understand what’s going on, but it sounds like you’ve been through something major.”
 
-“Have you… met the others?”
+“Ah, yeah… I guess so…”
 
-“Everyone except for Misha.”
+“Have you already met the others?”
 
-“I see…”
+“Everyone except Misha.”
 
-He seemed to be deep in thought, and then he continued.
+“I see… I see…”
 
-“I went to your house a few times after hearing that you were alive. But there were too many people, and you never came out, so I just left.”
+Mr. Bear then seemed to think about something, and then spoke again.
 
-“You should have knocked. I would have let you in.”
+“Actually, when I heard you were alive, I went to your house a few times. But there were too many people and you didn’t come out, so I just turned back.”
 
-“Well, I changed my mind.”
+“You could have knocked. I’d have let you in any time.”
 
-“……?”
+“Well, I guess my mind changed.”
 
-There was a strange nuance in his voice.
+“…?”
 
-It wasn’t just my imagination.
+There was something odd in his tone. Or was it just my imagination?
 
-So…
+Right, so…
 
-“Abman, I didn’t mean to deceive you.”
+“Abman, I never meant to deceive you all or anything.”
 
-I had to make that clear first.
+Let’s make this clear first.
 
-“I couldn’t show myself for two years and six months because—”
+“I couldn’t show myself for two years and six months because of—”
 
-“Stop.”
+“That’s enough.”
 
-“……?”
+“…?”
 
-“Bjorn, you’re misunderstanding something. I’m not angry at you. Of course, I would be lying if I said I didn’t feel betrayed… but that’s not what this is about.”
+“Bjorn, it seems you’re under some misunderstanding. I’m not angry with you or anything. Sure, I felt betrayed, but that has nothing to do with this.”
 
-He drew a firm line and then took my glass and drank from it before continuing.
+He cut me off sharply, took my drink, and gulped it down before continuing.
 
 “I just don’t want to hear it.”
 
-“…….”
+“…”
 
-“Why you disappeared. You might be involved in something dangerous. And besides, it’s none of my business anymore.”
+“Whatever the reason you hid yourself. It might be because you were involved in something dangerous. It’s a story that doesn’t concern me anymore.”
 
-My heart clenched.
+Something felt tight in my chest.
 
-“None of your business…?”
+“It doesn’t… involve you?”
 
-“I’m sorry, but I have to make this clear. If you came here to ask me to rejoin your team, it’s impossible.”
+“Sorry, but I should make this clear. If you came here today hoping to bring me back on your team, that’s impossible.”
 
-It’s like being rejected before even confessing.
+So this is what it feels like to get rejected before even confessing?
 
-I was more curious than hurt.
+I felt more curious than disappointed.
 
-“It’s not because of your current clan, is it?”
+“From the way you speak, it doesn’t seem to be because of the clan you now belong to.”
 
-“No, it’s not.”
+“Yeah, that’s not the reason.”
 
-“Can I ask why?”
+“Would you mind telling me why?”
 
-He sighed deeply and then spoke.
+Upon my request, Abman sighed as if holding back a breath, then opened up.
 
-“The day I heard you were alive… my wife asked me if I was going to see you. She was worried.”
+“On the day your survival news reached me… my wife asked me. She was very worried, wondering if I was going to meet you.”
 
 “I see…”
 
-“You know, Bjorn, two years and six months is a long time. Long enough to change an explorer’s mindset.”
+“Bjorn, do you know how long two years and six months can be? Long enough to make a man who once dreamed of seeing the end of the labyrinth reevaluate everything.”
 
-He continued in a melancholic tone.
+He gave a lonely sigh and went on.
 
-“So… what I’m trying to say is… I can’t go back to how things were. I don’t think I’ll ever see my child get married if I keep exploring with you.”
+“So… what I’m trying to say is… we can’t go back to how it was. No matter how I look at it, if I keep adventuring with you, I might not live to see my kids get married.”
 
-“I… I understand…”
+“Right… Got it.”
 
-I let go of my last shred of hope.
+With that, I let go of even the slightest bit of remaining hope.
 
-Well, I didn’t really have any hope to begin with.
+No, there was never any hope to begin with.
 
-That’s why I hadn’t classified this visit as a recruitment quest.
+There was a reason why I hadn’t classified this visit as a proper quest.
 
-I couldn’t ask him to join a clan that might end up fighting the royal family.
+I had no intention of recruiting him.
 
-Especially not a married man with a child.
+In fact, I had to hold myself back from recruiting him.
 
-“…I’m sorry.”
+Because, well, think about it.
 
-“Don’t apologize. Let’s just drink.”
+How can I ask a married guy with kids to join a clan that might end up fighting the royal family someday?
 
-That was the real reason I came here.
+“…I’m sorry.” Mr. Bear spoke
 
-“What? Can’t we drink together unless we’re exploring the labyrinth?”
+“What Sorry? Let’s just have a drink.”
 
-“…Of course not.”
+This was the real reason I had come here.
 
-He raised his glass, and we chatted idly, drinking and reminiscing about the past.
+“Why? If we’re not going into the labyrinth together, does that mean we can’t have a drink together either?”
 
-The sun set, and night fell.
+“…That’s not it.”
 
-We laughed, we argued, and we even had a serious conversation.
+Soon, Mr. Bear lifted his glass, and we spent time chatting about trivial things.
 
-“…It’s getting late.”
+Eventually the customers gradually left and even the employees had all gone home…
 
-“It’s just nighttime.”
+Until the sun set and night fell.
 
-“My wife is waiting for me.”
+Laughing, talking, and sometimes even getting into serious arguments.
 
-“Then… I can’t stop you.”
+“…It’s gotten late.”
 
-“I’m sorry. If my wife wasn’t pregnant, I could have stayed longer…”
+“It’s only just become night.”
 
-…Pregnant?
+“My wife is waiting.”
 
-My mind went blank, but I understood.
+“Well then… can’t be helped.”
 
-‘They’re having another child.’
+“I’m sorry. If my wife weren’t almost due, I could have stayed longer…”
 
-I felt a strange mix of emotions.
+..Almost due?
 
-I wasn’t there for the birth of their first child either. We had joked about me being the godfather…
+My head went blank for a moment, but I roughly understood the situation.
 
-“It’s raining. Take this. I have to clean up.”
+‘So, they’re having a second child.’
+
+Strangely, I felt weird.
+
+Now that I thought about it, I couldn’t be by his side when his first child was born. He used to talk about me being their godfather whenever we drank.
+
+“It’s raining out. Take this with you. I’ll stick around to tidy up before I go.”
 
 “…Ah, thank you.”
 
-I took the raincoat he offered and stepped outside.
+After a few more words, I put on the raincoat Mr. Bear gave me and stepped out into the street.
 
-Pitter-patter, pitter-patter.
+Pitter-patter—
 
-The heavy rain poured down.
+The pouring rain.
 
-‘I’m not sad…’
+‘It’s not that I’m sad.’
 
-Maybe it’s because I drank too much.
+Maybe it’s because I drank too much?
 
-I felt a pang of loneliness, as if I had lost something precious.
+I suddenly felt resentful of the two-and-a-half years that had slipped by without me.
 
-But it couldn’t be helped.
+Like I’d lost something precious.
 
-Splash, splash.
+But what good would it do now?
 
-I walked through the rain.
+I just had to let it be.
 
-Splash, splash.
+Squelch, squelch.
 
-My steps were heavy, my body swaying slightly from the alcohol.
+I cut across the rainy street, moving forward.
 
-And as I walked…
+Squelch, squelch.
 
-[Bjorn Yandel.]
+Even though I was trying hard to steady my steps, my drunken body swayed now and then.
 
-His last words echoed in my mind.
+Maybe because I was swaying so much…
 
-[Move forward. Don’t look back.]
+[Bjorn Jandel.]
 
-What does he mean by ‘look back’?
+The last few words we shared kept flashing through my mind.
 
-[You can go anywhere you want.]
+[Stride forward boldly. Don’t waste time on a straggler like me.]
 
-Why do they all think I’m so special?
+Common, there’s no such thing as stragglers in life.
 
-I don’t understand, but I kept walking.
+[You can go as far as you want.]
 
-Splash, splash—
+I have no idea why everyone’s so eager to treat me like someone special.
 
-Reciting my to-do list for tomorrow.
+But not knowing, I walked on.
+
+I don’t know, but I kept walking.
+
+Splish, splash—
+
+Repeating over what I need to do tomorrow.

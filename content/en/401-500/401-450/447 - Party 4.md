@@ -1,403 +1,397 @@
-# Party 4
+Party (4)
 
-We decided to open the Rose Knights’ secret subspace pockets one by one, as we didn’t know what we might find.
+We had no idea what to expect from the Rose Knights’ secret subspace, so we decided to open them one by one.
 
-And the first one to go was Liris Marone, the mage from the military.
+And the first to go was Lyris Marone, the mage from the military.
 
 “It’s a box…?”
 
-What emerged from her subspace pocket was a wooden box.
+What came from her subspace was a little wooden box, barely big enough to hold one or two books.
 
-It was small, barely big enough to hold a couple of books.
+“There are no magical protection on it. We can just open it.”
 
-“There are no magical traps. You can just open it.”
+With Vercil’s consent, she opened the box right away.
 
-We opened the box as soon as Bersil gave us permission.
-
-And…
+And then…
 
 “Uh…”
 
 “This is…”
 
-The explorers let out gasps of surprise.
+Everyone who checked inside the wooden box exclaimed in an awkward way.
 
-The contents of the box were far from what we had expected.
+It was so far from what they were expecting.
 
-“Just some cash, a few fake ID cards, and a portrait…”
+“Just some cash, a few fake IDs, and a portrait…”
 
-“…Whose portrait is that? A family member?”
+“Whose portrait is it? A family member?”
 
-“It seems so. It’s worn out, as if it’s been handled often.”
+“Seems like it. It looks well-handled.”
 
-What the…
+What is this…
 
-“N-next! Let’s open the next one!”
+“Let’s move on! Open the next one!”
 
-We were disappointed, but we didn’t give up hope. We continued opening the subspace pockets.
+Although the situation was depressing, none of the members, including myself, lost hope and continued with the opening ceremony.
 
-“More cash and ID cards… And this one has some strange pills?”
+“Again, cash and IDs… and here’s some strange pills?”
 
-The pills that emerged from the second box were something both Amelia and I were familiar with.
+The pills from the second box were all too familiar to Amelia and me.
 
-“It’s a potion called ‘Lete’s Blessing’.”
+“It’s a potion called the ‘Blessing of Lethe.'”
 
-“…You know what this is, Raines?”
+“Do you know this item, Miss Raines?”
 
-“Yes, it erases the target’s memories. It was created by Noark’s alchemists. It seems like the royal family has also figured out the recipe.”
+“Yes, it erases the memories of those who take it. It’s a potion made by the alchemists of Noarark, though it seems the royal family has somehow learned how to make it.”
 
-“This… might be useful someday. How many memories can it erase?”
+“This could be useful someday. How much memory can it erase?”
 
-“Well, it looks a bit different from the ones I know. Maybe they improved it.”
+“Well, it’s been improved a bit since I last knew it, so the form has changed slightly.”
 
-“I see… The pills are all different sizes. I have a feeling the bigger ones erase more memories… I’ll test them out in the lab.”
+The third, fourth, fifth…
 
-The third, the fourth, the fifth…
+The opening ceremony continued and quickly came to an end.
 
-The subspace pockets were opened one after another.
+“Is it another ‘Blessing of Lethe’ or something?”
 
-“…More of those Lete’s Blessing pills.”
+“There’s some kind of poison here too.”
 
-“There’s some kind of poison here.”
+“It’s a strong acid solution. Seems like it was used for erasing something… like a corpse, for example.”
 
-“…It’s a highly acidic solution. They probably used it to dispose of something. Like a corpse…”
+What was thought to be a treasure chest turned out to be disappointing, though not completely useless besides the Blessing of Lethe.
 
-The subspace pockets, which we had thought were treasure chests, were mostly empty.
+“Sir Kaislan, could you look at this notebook?”
 
-Well, there were a few useful items besides the Lete’s Blessing pills.
+It was an item from the sixth sub space.
 
-“Sir Kaislan, can you take a look at this notebook?”
+“This seems to be a list of names deployed by the royal family.”
 
-It was from the sixth subspace pocket.
+A register of the royal family’s spies infiltrating various organizations under disguise.
 
-“This… seems to be a list of the royal family’s spies.”
+It was a reminder of the royal family’s far-reaching power.
 
-A list of names, the royal family’s informants who were operating undercover in various organizations.
+“Judging by the volume, this must be just a fraction of all their operatives.”
 
-It was a testament to the royal family’s power.
+“So many, and it’s only a fraction?”
 
-“It seems like this is just a small fraction of their informants.”
+“Look. Most of the spies are concentrated in a specific noble house. Maybe the owner of this sub space was on a personal mission related to that noble house.”
 
-“This is just a fraction…?”
+“This list… is it just for that one mission?”
 
-“Look closely. Most of the informants are focused on a specific noble family. Maybe the owner of this subspace pocket was on a personal mission related to that family.” ꞦаＮǒ𐌱ÊS̩
+“Of course, that’s just my guess.”
 
-“And this list… is just for that one mission?”
+Kaislan ended his explanation, but no other possibilities came to my mind.
 
-“That’s just my speculation.”
+“The eyes and ears of the royal family are everywhere, more than I imagined…”
 
-Kaislan concluded, but I couldn’t think of any other possibilities.
+With that, a heavy silence fell.
 
-“They say the royal family has eyes and ears everywhere… I never imagined it would be this extensive…”
+All members felt it, at least indirectly.
 
-A heavy silence followed.
+The real power of the royal family we would have to face in the future.
 
-We had all realized…
+“Anyway, good job.”
 
-The true power of the royal family, the enemy we were about to face.
+I deliberately broke the silence, acting as though nothing was wrong.
 
-“Anyway, it’s a good thing.”
+“Vercil, I’ll take this list. It might be useful someday.”
 
-I tried to sound nonchalant, breaking the silence.
+With that, I tucked the ledger away, and that was the end of the matter.
 
-“Bersil, I’ll take this list. It might be useful someday.”
+“So, this is the last one.”
 
-I took the list, and that concluded the matter.
+The members’ eyes lit up.
 
-“Now, for the last one.”
+Although their inflated expectations had dwindled, they hoped this time might be different.
 
-The explorers’ eyes sparkled.
+“…That subspace belonged to that woman, correct?”
 
-Their initial excitement had faded, but they were still hoping for something good.
+The sixth member of the Rose Knights.
 
-“…This was hers, right?”
+We didn’t know if she was a commander, vice commander, or just a regular knight, but one thing was certain:
 
-Six, the Rose Knight.
+That day, she served as the commander.
 
-I didn’t know if she was the leader, the vice-captain, or just an ordinary member, but one thing was certain.
+However…
 
-She was the one in charge that day.
+“…it’s a wooden box again.”
 
-But…
-
-“…Another wooden box.”
-
-We opened the box, our expectations low.
+The contents of the last box were also underwhelming.
 
 Cash.
 
-ID cards.
+Identification cards.
 
-Lete’s Blessing.
+The blessing of Lethe.
 
 And…
 
-A single document in an unsealed envelope.
+A single sheet of paper tucked into an unsealed envelope.
 
 “This is…”
 
 It was an order from the royal family.
 
-An order to eliminate the expedition force in Ice Rock if they somehow managed to survive.
+A directive that if the expedition party returned alive, we were to be exterminated at Icerock.
 
-“This will be useful.”
+“This could be useful.”
 
-It was a good find.
-
----
-
-After the subspace pocket opening ceremony,
-
-I collected all the equipment we had brought back from the labyrinth.
-
-“What are we going to do with this equipment?”
-
-“We’ll sell the stuff we got from Noark slowly and carefully. And we’ll use the money as our operating funds.”
-
-“I see…”
-
-They didn’t seem to have any objections, even though I was practically taking all the loot and claiming ownership.
-
-I was happy that they trusted me, but also a bit worried.
-
-‘They’re so naive.’
-
-What if I wasn’t a kind and responsible barbarian?
-
-“Yandel, what about the Rose Knights’ equipment? If we sell it as is, the royal family will find out.”
-
-“Ah, I’m going to find a blacksmith and have them reforge it. It’s too valuable to just sell, and it’s also too dangerous.”
-
-I planned to melt down the Mithril, which was as valuable as Orichalcum, and cut up the Ogre leather, a 5th-grade material, to make new equipment.
-
-Of course, it wouldn’t be much.
-
-Even if we melted down all the daggers, it wouldn’t be enough to make a full set of Mithril armor. And there would be a lot of loss during the leatherworking process.
-
-“We’ll decide what to make later, so if anyone’s interested in a specific material, come up with a good reason.”
-
-I wanted to make a Mithril shield for myself, but a leader shouldn’t prioritize his personal gain.
-
-The funds would be used for the benefit of the clan.
-
-Well, they didn’t seem to care anyway.
-
-“I’m more interested in discussing the clan. You said you created one a few days ago… When can we join?”
-
-“Ah, Bersil has already created a schedule.”
-
-“Really? When’s my turn?”
-
-“About three months from now, Miss Marone. It’ll be cleanest if you resign from the military due to a conflict with your superiors. But if you have a better excuse, let me know.”
-
-“Hmm, what about me?”
-
-“Sir Kaislan… you’ll be the last one. You have a high rank, so it’ll take some time. It’ll be more natural if you join after the attention dies down… at least a year.”
-
-“I see…”
-
-“Kala, you said you were kicked out of your clan? Take a break for a couple of months and then apply to other clans. They won’t accept you, of course.”
-
-“…….”
-
-“I tried to find a new nest, but I couldn’t find a suitable one, so I decided to join Yandel’s clan. It’s much more natural, isn’t it?”
-
-“What if they accept me?”
-
-“Then demand a high position, citing your experience as a Vice-Captain. They’ll tell you to get lost. Trust me, I’ve been in charge of recruitment before.”
-
-James Kala was speechless.
-
-“And as for Paladin Parab…”
-
-Bersil’s efficient briefing continued.
-
-It was impressive.
-
-She was a mage, a former clan Vice-Captain, and a modern person…
-
-She was a perfect combination.
-
-‘I wonder what she did in her previous life.’
-
-Anyway, the briefing ended, and then they started asking me questions.
-
-“Ainar Frenelin, the Storm Sword… how much does she know about us?”
-
-“She doesn’t know anything. So be careful what you say when you meet her.”
-
-“I see…”
-
-“But we already have two members from the Seven Strengths. If we add ourselves to the mix… we’ll attract a lot of attention, even if we don’t want to. Hehehe.”
-
-“Hmm, Parab, you think you’re on that level?”
-
-“…Uh, am I not? Well, I might not be as famous, but… uh…”
-
-“I’m curious about this Auyen Lokrob member. I’ve never heard of him. Is he trustworthy?”
-
-Amelia answered that question for me.
-
-“He’s trustworthy. I guarantee it.”
-
-After a series of similar questions, the topic changed again.
-
-We talked about the promotion ceremony, and when I told them about joining Melbeth, our next plan naturally came up.
-
-But I couldn’t explain everything here, so I just gave them a brief overview.
-
-“We have a lot of enemies. But so do they.”
-
-“…….”
-
-“And the enemy of my enemy is my friend.”
-
-My plan was simple.
-
-To build a clan, establish a family, and gather allies.
-
-To protect ourselves from those who had abandoned us.
+Not a bad haul.
 
 ---
 
-After the serious discussion, the atmosphere became more relaxed.
+After the subspace opening ceremony was over
 
-“Sir Kaislan, how are you doing? Did they interrogate you?”
+I was handed all the equipment we’d brought back from the Labyrinth.
 
-“They did, but it was more like an interview. They didn’t even use verification magic.”
+“What will we do with this equipment?”
 
-We caught up on each other’s lives.
+“First, we will take our time and dispose of the equipment we acquired from the Noark bastards. And the money will be used as our military funds in the future.”
 
-“Gowland, do you have any sleeping pills?”
+“I see…”
 
-“Yes, I can give you some if you need them.”
+It was virtually as if I had been given ownership of most of the spoils of the expedition, though surprisingly no one complained.
 
-“You’re not even asking why.”
+I was grateful for their trust, but also a bit worried by their attitude.
 
-“I can’t sleep either. Not since that day.”
+‘Seriously, they’re just asking to be swindled.’
 
-Some asked for help.
+If someone less upright and responsible than I had been sitting in the captain’s seat, who knows what could have happened?
 
-“Miss Marone… what’s that on your nails?”
+“Jandel, what do you plan to do with the Rose Knights’ equipment, by the way? If you try to sell it as is, it’s bound to catch the royal family’s attention.”
 
-“Ah, this? Pretty, right? It’s the latest trend among mages. Do you want to try it, Tersia?”
+“Ah, well, I plan to find a suitable forge and have each piece reworked. It’s dangerous to sell it outright, but the materials are valuable enough that it would be a waste not to make use of them.”
 
-And some just chatted idly.
+Mistium, a metal of the same caliber as Arc metal, would be melted down, and the Level-five Ogre leather would be cut right off the seam for other equipment manufacturing.
 
-It was strange.
+Of course, even after all this, the quantity wouldn’t be much.
 
-We were complete strangers a month ago…
+Melting down the daggers wouldn’t yield enough Mistium to make even one suit of armor, and there’d be considerable loss in reworking the leather.
 
-“…….”
+“I’ll let everyone decide later on what to make with the gathered materials. If anyone wants to claim the materials for themselves, they’ll need a good reason that satisfies everyone.”
 
-I sat alone on the sofa in the corner, looking around.
+A Mistium shield seems perfect for me, but as a leader, I shouldn’t pursue personal gain.
 
-Unlike the banquet at the Palace of Glory, there was no fancy food or expensive wine. We were just sitting here in an empty building, talking.
+Public funds must be spent fairly, for the good of the group only.
 
-But I still preferred it this way.
+Well, they didn’t seem particularly interested anyway.
 
-“Well, I should be going now.”
+“Rather than that, I’d like to bring something up. You said you created a clan a few days ago… When can we join?”
 
-As always, time flew by.
+“Ah. Versil has put together a rough schedule for that”
 
-As evening approached, the members started to leave, and our reunion came to an end.
+“When can I join?”
 
-I returned home with Erwen and Amelia.
+“Miss Marone, about three months from now. Retiring due to conflicts with a superior seems cleanest, but if you think of a better reason, let me know in advance.”
 
-And two days later…
+“Oh, then when might I join?”
 
-“You’re going to the library? At this hour?”
+“Sir Kaislan, you’re… the last among us. Given your position, it would be most natural to join us when our group garners less attention… at least a year.”
 
-I left the house early in the morning, ignoring Amelia and Erwen’s puzzled looks.
+“I see…”
 
-It was only later that I realized…
+“James Carla, you were discharged from the clan recently, right? Take a couple of months off then try to join another clan. There’s unlikely to be one that will accept you, though.”
 
-[I’ll be waiting for you in three days, at the place where we first met.]
+“…”
 
-…the note didn’t mention a time.
+“…”
 
-Ragna was surprisingly careless for someone who seemed so meticulous.
+“After looking for a new nest but failing to find one, you join Jandel’s clan through your connection from the expedition. It’s far less suspicious that way, right?”
 
-“Haa…”
+“What if a clan does accept me?”
 
-I walked through the familiar streets of the 7th District, and soon I reached my destination.
+“Then ask them to recognize your previous vice-captain experience and demand a high position. I guarantee they’ll tell you to get lost.Trust me; I’ve done HR work.”
+
+With that, James Cala was left speechless.
+
+“Ah, and about Parab…”
+
+Vercil’s orderly briefing continued for some time.
+
+It was quite impressive.
+
+Maybe it’s the combination of a mage’s qualities, a former clan vice-captain’s experience, and knowledge from a modern-world background… but she was precise and methodical.
+
+‘I wonder what she used to do on Earth?’
+
+Anyway, time passed, and once Vercil’s briefing was over, the questions came my way.
+
+“Aynar Pheneline, the Explosive blade, how much does she know about us?”
+
+“Nothing. So, keep your mouths shut when you meet her.”
+
+“I see…”
+
+“We already have two members of the ‘Seven Pillars’, and now if we get involved, too… we’ll draw attention whether we want to or not. Heh heh heh.”
+
+“Hmm, Parab, you think you’re at that level?”
+
+“…What, aren’t I? Well, maybe my fame isn’t quite on that level, but… uh…”
+
+“I’m curious about a member named Auyen Roklov. I’ve never heard that name before. Can he be trusted?”
+
+This time, Amelia answered for our sailor instead of me.
+
+“He can be trusted. I’ll vouch for him.”
+
+After several similar questions, the topic shifted again.
+
+We discussed the incidents at the victory ceremony and my plan to enter Melbes, which naturally led to discussing our next moves.
+
+But since I couldn’t explain everything here, I summarized our vision.
+
+“We have many enemies, but so do our enemies.”
+
+“…”
+
+“And the enemy of our enemy is a friend.”
+
+Building a clan, establishing a house, and diligently fortifying our defenses while expanding our circle of allies.
+
+That was the core of my plan.
+
+To fuck the bastards who put us in that hellhole.
+
+---
+
+After the serious talk, the conversation turned lighter and more casual.
+
+“Sir Kaislan, have there been any interrogations since you returned from the expedition?”
+
+“There were, but it was more of an inquiry than an interrogation. No verification magic was used.”
+
+We exchanged updates.
+
+“Miss Gowland, do you happen to have something that helps with sleep?”
+
+“Yes. I can give you some if you need it.”
+
+“You’re not asking why.”
+
+“I have trouble sleeping myself since that day.”
+
+While some sought assistance,
+
+“You said your name was Marone… What’s that painted on your nails?”
+
+“Ah, this? Isn’t it pretty? It’s quite trendy among mages these days. Would you like to try it, Ms. Tercia?”
+
+Several others chatted about hobbies for a while.
+
+It was quite curious.
+
+Just a month ago, before entering the labyrinth, we were complete strangers.
+
+“…”
+
+I sat alone on a sofa in the corner and looked around.
+
+Unlike the victory banquet, there were no fancy court dishes or expensive wines here. e had only rented out an empty building whose tenants had just moved out, and there we talked.
+
+Yet even so, I thought:
+
+This sort of gathering feels much more enjoyable to me.
+
+“Well, I’ll be off now.”
+
+As always, the enjoyable time flew by quickly.
+
+As the evening wore on, one by one the guests left, effectively ending the after-party of our expedition and I, along with Erwin and Amelia, headed home.
+
+And two days later.
+
+“Going to the library this morning?”
+
+I left the house early in the morning, receiving puzzled looks from Amelia and Erwin.
+
+To be fair, I only realized this later myself:
+
+[I will be waiting for you at the place we first met, three days from now.]
+
+The note did not specify a time.
+
+Ragna, she doesn’t seem like it, but she really is scatterbrained.
+
+“Sigh…”
+
+Walking through the familiar streets of District 7, I soon spotted my destination.
 
 [Ravigion National Library]
 
-The place I had practically lived in when I first woke up in this barbarian body.
+The very place where I had practically lived, like a home, when I first woke up in this barbarian body.
 
-But I froze as soon as I arrived.
+However, as soon as I arrived, I stiffened.
 
-There was a sign on the door.
+There was a sign on the library door stating it was closed for the day.
 
-‘Closed Today.’
+‘I hadn’t considered this scenario.’
 
-‘…I didn’t expect this.’
+What should I do? Just wait here? Yes, that way at least we won’t miss each other.
 
-What should I do? Should I just wait here? Right, then at least we won’t miss each other.
-
-As I was contemplating…
+That’s what I was thinking.
 
 Click, click.
 
-I heard the sound of high heels approaching.
+A woman in high heels walked up to me, stopping near the entrance where I was lingering.
 
-I turned around and saw a woman walking towards me.
+The moment our eyes met, I felt my body tense.
 
-I flinched the moment our eyes met.
+“Greetings, Baron Jandel.”
 
-“Greetings, Baron Yandel.”
+Black hair, black eyes, even a black skirt.
 
-Black hair, black eyes, and a black skirt.
+Apart from her white blouse, everything she wore was black.
 
-Everything about her was black, except for her white shirt.
+“This way, please. The Countess is waiting—”
 
-“This way, please. The Viscountess is waiting—”
+“That’s not right.”
 
-“That’s wrong.”
+“…Pardon?”
 
-“…Yes?”
+I looked at the unfamiliar woman and cut her off sharply.
 
-I looked at the woman, who seemed confused, and said firmly.
+“Today, I am not a baron, but a clan leader.”
 
-“I’m not a Baron today. I’m a Clan Master.”
+“…”
 
-“…..”
+“Recently formed, the ‘Anabada’ clan.”
 
-“The ‘Anabada’ Clan, which was recently founded.”
+Despite the suddenness of my declaration, the woman showed no significant change in expression.
 
-She didn’t react to my sudden declaration.
+She simply responded with a businesslike smile.
 
-She just smiled politely and said,
+“Thank you. I just felt like it today.”
 
-“I see. I’ll be careful with my address from now on, Clan Master Yandel.”
+“I see. From now on, I’ll be careful how I address you… Clan Leader Jandel.”
 
-“Thank you. I’m feeling a bit sensitive today.”
+“Thanks. I’m just in that kind of mood today.”
 
-“Sensitive…? What do you mean?”
+“That kind of… mood, you say?”
 
-“Ah, doesn’t ‘Clan Master’ sound stronger than ‘Baron’?”
+“Ah, you know, doesn’t ‘commander’ sound stronger than ‘baron’?”
 
-“…I see.”
+“…Yes, I suppose it does.”
 
-She agreed, even though she didn’t understand the difference.
+She nodded as if in agreement, even though she probably had no idea what the difference was supposed to be.
 
-I couldn’t resist asking,
+I casually posed a question:
 
-“Do you know what ‘Anabada’ means?”
+“Do you happen to know what ‘Anabada’ means?”
 
-She answered immediately.
+Her answer came immediately:
 
-“It means ‘pack of beasts’ in ancient language.”
+“I believe it’s an ancient word meaning ‘a pack of beasts.’”
 
-“Uh, uh… right, that’s right… You’re knowledgeable.”
+“Oh… r-right, yes… You knew that, huh?”
 
-I pretended to be disappointed that I couldn’t show off my knowledge. She pretended not to notice and opened the door to the library.
+I looked dejected, like a barbarian who had lost a chance to show off his knowledge.
 
-“This way, please. The Viscountess is waiting for you.”
+The woman pretended not to notice and opened the locked door of the library.
 
-She walked ahead of me, and I followed, clicking my tongue.
+“Please, this way. The Countess is waiting.”
 
-Click, click.
+She walked ahead, and I followed her, licking my lips.
 
-Damn it, she’s definitely Hyunbyul.
+Click-clack, click-clack.
+
+Sigh, no matter how I look at her, she’s Hyun-byeol.

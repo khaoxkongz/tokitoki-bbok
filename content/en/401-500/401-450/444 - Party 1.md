@@ -1,527 +1,535 @@
-# Party 1
+Party(1)
 
-The banquet held at the Palace of Glory proceeded in an extremely quiet atmosphere.
+The banquet held inside the Hall of Glory proceeded in a very quiet atmosphere.
 
-It was only natural.
+Well, that was only natural.
 
-All the attendees were heads of their respective families.
+Every single attendee here was the head of a noble family.
 
-They had to be more mindful of their decorum, and most of them were quite old.
+They had to mind their dignity a little more carefully, and besides, most of them were on the older side to begin with.
 
-‘The majority seem to be in their fifties…’
+‘I’d say the biggest age group is around the fifties…’
 
 That thought made me chuckle.
 
-I was the guest of honor, and yet I was stuck here feeling awkward and out of place.
+I’m supposedly the star of this banquet, yet here I am, sitting all alone and feeling miserable.
 
 Munch, munch.
 
-I chewed on the meat, trying to suppress my irritation.
+I take out my irritation on the meat, chewing and swallowing it.
 
-The atmosphere reminded me of my school days, when I had to transfer schools frequently.
+For someone like me, who transferred schools a lot during my student days, this peculiar atmosphere is giving me borderline PTSD.
 
-It was a familiar feeling.
+It really hits home.
 
-I was a complete outsider in this new group.
+The feeling of being completely new to a group.
 
 “…….”
 
 I felt like a monkey in a zoo.
 
-‘Count Perdehilt, Baron Serpia, Viscount Mulwark… and even Baron Martoine…’
+‘Count Ferdehilt, Baron Serpia, Viscount Muelbark, and oh, there’s Baron Martoin over there too…’
 
-There were a few familiar faces among the nobles who were glancing at me from afar, but no one approached me.
+Among those glancing at me from afar were familiar nobles, but none approached me first.
 
-They used to be so eager to befriend me at other banquets. Count Perdehilt had even suggested that I marry his daughter.
+All those people at other banquets would say, “Let’s be friends,” and even Count Ferdehilt, who once joked about making me marry his daughter—today, not a word.
 
-‘Well, I can understand their position…’
+‘Well, I can see it from their perspective, too…’
 
-This was a kingdom of animals.
+This was a kingdom of beasts.
 
-But it was ruled by reason, not instinct.
-
-Munch, munch.
-
-I pretended to be oblivious, focusing on my food, but I was fully aware of the situation.
-
-This was a form of hazing.
-
-A silent message telling me not to get any ideas about being on the same level as them just because I had become a noble.
-
-But the solution was simple.
-
-Just like the Duke had advised me, I could just approach them first. Then they would smile and treat me kindly.
-
-As if I were their subordinate.
-
-‘Ugh, what a pain.’
-
-But even choosing who to approach first was a delicate matter.
-
-If I went to the Duke, the nobles from the Marquis’s faction would ignore me.
-
-Every action, every word I spoke here would be interpreted politically.
+But governed by intellect, not instinct.
 
 Munch, munch.
 
-But I just kept eating.
+I pretended to just be tearing at the meat, but I was well aware of the situation.
 
-There were three reasons.
+What’s happening now is a kind of taming process.
 
-First, I was hungry.
+They’re giving me an unspoken message: Just because you joined the kingdom’s nobility doesn’t mean you can stand on equal footing with us, who have a thousand years of history under our belts.
 
-Second, the food was delicious.
+But, the solution was simple.
 
-And third…
+Just as the duke I met earlier advised, I just needed to approach them first. Then, they would smile and treat me kindly.
 
-‘She’s finally here.’
+As if I were a subordinate.
 
-I had no intention of joining the mainstream from the beginning.
+‘Ugh, these people live such exhausting lives.’
 
-“It’s no use waiting.”
+Choosing who to approach first here was crucial too.
 
-I smiled inwardly as I saw the woman approaching me.
+If I go to the Duke I met before, then the nobles under the Marquis—who competes with that Duke—will start treating me like I’m invisible.
 
-“No one’s coming.”
+Every action and every word of mine here becomes a political move.
 
-White hair, white eyes, and white skin.
+Munch, munch.
 
-Everything about her was white, except for her colorful attire, which reminded me of a hanbok, and her rabbit ears.
+That said, I just kept eating my meat.
 
-“Greetings, Baron Yandel. How’s the food?”
+For three reasons:
 
-“Want some?”
+First, I really was hungry.
 
-I offered her a piece of meat, and she stared at it for a moment before smiling.
+Second, the meat was unbelievably delicious.
 
-“No, thank you. I’m not hungry.”
+And third—
 
-Geez, she’s picky.
+‘They’ve finally arrived.’
 
-We’re both demi-humans.
+From the start, I had no intention of jumping straight into the mainstream.
 
-Thud.
+“No matter how long you wait, it’s useless.”
 
-I put down my plate and wiped my hands.
+I smiled secretly as I recognized the approaching woman.
 
-‘Should I offer to shake her hand?’
+“Nobody will come anyway.”
 
-I didn’t know, but I wasn’t going to actually do it.
+White hair, white eyes.
 
-I was a barbarian with manners.
+And white skin.
 
-At least when it was beneficial.
+If we set aside her vivid, multicolored outfit reminiscent of a hanbok, everything about her was white.
 
-“Anyway, it’s nice to meet you. I’m Baron Yandel.”
+Ah, not to mention the rabbit ears sprouting from her head.
 
-She smiled and introduced herself.
+“Nice to meet you, Baron Jandel. How’s the food? Does it suit your taste?”
+
+“Well, who knows. Want to try some yourself?”
+
+When I picked up a piece of fresh meat and casually offered it, the woman’s eyes went blank for a second. She came back to her senses and smiled.
+
+“No, I’m fine. I don’t have much of an appetite.”
+
+Huh, playing hard to get.
+
+Even though we’re both nonhuman races.
+
+Plop.
+
+It seemed I’d given enough explanation about myself, so I set the half-eaten meat down on my plate.
+
+Then I cleaned my hands by sucking on them.
+
+Suddenly, I wondered.
+
+‘What if I offered a handshake… would she accept?’
+
+Not sure, but I’m not actually going to try.
+
+I’m a cultured enough Barbarian to know better.
+
+At least when it’s to my advantage.
+
+‘Anyway, nice to meet you. Baron Jandel.’
+
+As I introduced myself, she smiled warmly and replied.
 
 “I’m Baroness Lirivia.”
 
-I already knew her name.
+I already knew that.
 
-She was the only noble from the White Rabbit tribe.
+After all, there’s only one noble family from the White Rabbit Tribe.
 
-‘She’s 43 years old and has three children.’
+‘She’s forty-three years old, with three kids, if I recall correctly.’
 
-“May I sit down?”
+“May I sit for a moment?”
 
-“Of course. I was getting bored.”
+“Sure. I was getting bored anyway.”
 
-She sat down across from me.
+With my permission, Baroness Lirivia—the “Rabbit Baron” for short—took a seat right across from me. It was an eight-person table, and she was the first to join me.
 
-It was the first time someone had joined me at the eight-seater table.
+However, there were no clapping hands to celebrate this momentous occasion.
 
-But there was no applause, only scornful laughter.
+Only sharp ridicule.
 
-“Tsk, look at that.”
+“Tsk, so that’s how it ends up.”
 
-“There’s no need to stop them. They’re just associating with their own kind.”
+“There’s no reason to stop them. Let the lowly beings stay among themselves.”
 
-Their voices were loud enough for me to hear, so she must have heard them too.
+They spoke so loudly that even my barbarian ears could hear them, so the woman with the rabbit ears must have heard them too.
 
-But she didn’t react.
+Yet she showed no reaction.
 
-She just smiled and spoke to me softly.
+She simply wore a familiar sort of smile and spoke quietly to me.
 
-“The first head of our family was also a hero, just like you, Baron Yandel. He saved the kingdom from the Iron Wall incident. Have you heard of it?”
+“The founder of my family was also a hero like Baron Jandel. During the Ironwall Rebellion, he accomplished the feat of stopping the Duke of the Inverted Sky. Have you heard of that?”
 
-“No, I’m afraid I haven’t.”
+“Heh, no need to apologize. It’s only known to those who study history separately, it’s just an old tale now…”
 
-“It’s okay. It was a long time ago. It’s just an old story now…”
+“2,000 years.”
 
-Her voice was tinged with sadness.
+“……”
 
-“Two thousand years.”
+“It’s been 2,000 years since the Lirivia family crest was sealed in the Pact of Allegiance. It’s been a long time. It’s been such a long time—long enough for the era of the so-called ‘immortal king’ to end and for a new dawn to rise.”
 
-“…..”
+I had a feeling what she was getting at.
 
-“It’s been two thousand years since the Lirivia family crest was enshrined in the Ark of the Covenant. A long time, indeed. Long enough for the King’s era, once thought to be eternal, to end, and for a new dawn to arrive.” ṚΆℕố𝐛Εṧ
+“That’s why you need to get used to it quickly, Baron Jandel. Time will pass, but their gaze won’t change.”
 
-I could sense what she was trying to say.
+“Oh, really? Strange. To my eyes, you and they don’t seem much different.”
 
-“You’ll get used to it, Baron Yandel. Their gazes won’t change, no matter how much time passes.”
+Especially the way she talks so nicely but says the same kinds of things.
 
-“Oh, really? That’s strange. I don’t see much difference between you and them.”
+“…You really are as amusing as the rumors said.”
 
-Especially their eloquence.
+Amusing, huh.
 
-“…You’re an interesting person, as rumored.”
+I haven’t even gotten to the main point.
 
-Interesting?
+“Anyway, you didn’t come just to give advice, did you?”
 
-We haven’t even gotten to the main topic yet.
+“You’re truly exceptional. Yes, that’s right.”
 
-“Anyway, you didn’t come here just for small talk, did you?”
+“Then speak up.”
 
-“You’re perceptive, as expected. You’re right.”
+When I asked directly, the woman paused briefly.
 
-“Then tell me.”
+The reason I said earlier that they didn’t seem different.
 
-She hesitated for a moment at my blunt question.
+She might have rabbit ears, but in the end, she’s a proper noble who represents her house at this gathering—
 
-That’s why I said there wasn’t much difference between them.
+Someone who finds a breach of etiquette distasteful.
 
-She was a noble, just like them.
+“…I won’t say I came here to ‘help’ you. We don’t want to see House Jandel end up under someone else’s group.”
 
-She valued decorum and looked down on those who didn’t.
+“Because I’m the first newly emerged noble of a different race in six hundred years?”
 
-“…I’m not going to say I’m here to help you. We don’t want the Yandel family to be controlled by another faction.”
+She flinched again at my question.
 
-“Because you’re the first demi-human noble family in 600 years?”
+But after a short breath, she looked me straight in the eye and spoke in a more resolute tone.
 
-She flinched at my question.
+“…And more than anything, you’re a Barbarian. The very first in the history of Raphdonia at that.”
 
-But she quickly regained her composure and met my gaze.
+From her words, it was clear that she no longer saw me as just some Barbarian—her perception had changed.
 
-“…And you’re a barbarian. The first one in the history of Lafdonia.”
+“Just as House Lirivia has the wholehearted support of the beast tribe, you, Baron Jandel, could be the one to bring the Barbarian people into the political arena.”
 
-Her words told me that her perception of me had changed.
+“That’s the end of it?”
 
-She no longer saw me as just a barbarian.
-
-“Just like the Lirivia family has the full support of the beastmen, the Yandel family can bring the barbarians into the political arena.”
-
-“Is that all?”
-
-“Of course, we would have supported you even if that wasn’t the case. Every demi-human family is precious.”
+“Even aside from that, we need every single person we can get.”
 
 “Hmm, I see…”
 
-“Thirty-one families, including the Lirivia family, are supporting you. We’re a minority, but we have enough influence to make our voices heard.”
+“Along with the House Lirivia, there are 31 other houses working together for a common purpose. Of course, we’re still a minority in politics, but we can at least make our voices heard.”
 
-She continued her explanation, but I just leaned back in my chair, my expression indifferent.
+As she continued explaining, I rested my chin on my hand, looking uninterested.
 
-She must have sensed my lack of interest.
+“I’m not suggesting we unite for the greater cause.”
 
-“We’re not asking you to join us for a noble cause.”
+Sure, the one who is more desperate should make the first move.
 
-Right, the desperate one always makes the first move.
+“If you align yourself with us, you’ll receive massive support in establishing your foothold as a noble house.”
 
-“If you join us, you’ll receive our full support.”
+“Care to elaborate?”
 
-“Can you be more specific?”
+“Things like purchasing land immediately, constructing a mansion, hiring the myriad personnel needed to maintain a proper house—decades of work to build up a family could be cut down to a few years, minimum.”
 
-“For example, we can help you acquire land, build a mansion, and recruit the necessary personnel. We can shorten the decades it would normally take to establish a proper noble family to just a few years.”
+Is it because it’s a noble society?
 
-Wow, this is a lot of money.
+The rewards are astounding right from the start.
 
-This alone would make up for the fact that I chose the ‘promotion’ as my reward.
+Even just receiving these benefits would more than cover the payoff for choosing a “title promotion” as my reward.
 
-“And that’s not all. We’re all in this together.”
+“Of course, that’s not the end of it. Our movement began simply as a matter of survival…”
 
-She continued.
+Then she said,
 
-“If you join us, our enemies will become your enemies.”
+“If Baron Jandel sides with us, our enemies become your enemies—”
 
-“…..”
+“…….”
 
-“And your enemies will become our enemies.”
+“—and your enemies become ours.”
 
-That was the reason I had waited for them instead of approaching the other nobles.
+That’s the reason I waited for these people instead of going around chatting up the other nobles.
 
-They were precious.
+Precisely because they treat every single one of us like we truly matter.
 
-“So, what do you say?”
+“So, what do you think?”
 
-She asked, and I nodded.
+She asked for my answer, and I nodded.
 
-“It’s… not bad.”
+“It’s definitely… not bad.”
 
-“You mean—”
+“That means—”
 
 “But it’s not enough.”
 
-“…?”
+“…What?”
 
-She shouldn’t be surprised.
+She looked perplexed, but I couldn’t help it.
 
-I could tell there was more to offer.
-
-It would be a shame to settle for this.
+It’s obvious there’s more on the table here. Why settle for less?
 
 ---
 
-The White Rabbit Baroness’s eyes widened in shock.
+Baroness Lirivia’s eyes hardened at my response.
 
-But she quickly recovered and asked politely,
+But soon she returned to normal and asked politely.
 
-“You’re a clever man, Baron Yandel. Can you tell me what you want?”
+“Baron Jandel, I felt you were a clever man when I met you. If there’s something you desire, could you speak frankly?”
 
-Her words showed me how much they wanted me.
+This alone told me.
 
-The Melbeth, the alliance of demi-human noble families.
+How much the ‘Melvus,’ the coalition of mixed-species noble families, wanted me.
 
-Of course, I needed them too…
+Of course, I was just as desperate for this group.
 
 ‘But they don’t know that.’
 
-If I’m going to sell something, I’m going to sell it at the highest price.
+If I’m selling, I might as well get the highest price.
 
-That’s the K-Barbarian spirit.
+“I’ll continue to enter labyrinths in the future. I would like support for that too.”
 
-“I’ll continue exploring the labyrinth. I’ll need your support.”
+“Could you give an example?”
 
-“…Can you give me an example?”
+“I’d like you to sponsor the clan I’m going to create. With superior essence or rare numbered items, for instance.”
 
-“I want you to sponsor my clan. Provide us with high-grade essences, rare Numbered Items, that sort of thing.”
+“……That won’t be easy. We see no benefit in that.”
 
-“…That’s difficult. We wouldn’t gain anything from that.”
+“Why not? You know as well as I do that this country starts and ends in the labyrinths.”
 
-“What do you mean you wouldn’t gain anything? You know this country revolves around the labyrinth.”
+“If you’re talking about influence in the labyrinths, we already have sufficient alternatives.”
 
-“We already have enough influence in the labyrinth.”
+Tsk, they’re not giving in easily.
 
-Damn, she’s not going to give in easily.
-
-It’s time to bring out the barbarian.
+It seems it’s time to bring out the barbarian again.
 
 “Why not?!”
 
-“…Huh?”
+“…Excuse me?”
 
-“You said you would buy me land and build me a mansion! This is much cheaper!”
+“You said you’d buy land and build a house. Isn’t this cheaper than that!”
 
-“Um… Baron Yandel? Your voice…”
+“Well… Baron Jandel? Could you lower your voice……”
 
 “Give me a reason!!”
 
-I stood up abruptly, and all eyes turned towards us.
+As I stood up abruptly, all the noble’s gazes turned our way.
 
-She must have felt pressured by the attention.
+And perhaps feeling pressured by that,
 
-“Supporting your family and supporting your clan are two different things. The former will help you establish your political career, while the latter won’t.”
+When I stood up abruptly, all eyes of the nobles turned in our direction.
 
-She quickly explained.
+“The support for your family and this are different. Supporting the independence of House Jandel will help when you are active in politics, but this will not.”
 
-But she must have felt like it wasn’t enough.
+Baroness Lirivia rapidly explained the reasons.
 
-“But who knows… If you become indispensable to us… we’ll be willing to give you anything you want.”
+But even after speaking, did she feel something was missing?
 
-“What?! You’re saying I’m useless right now?!”
+“But then again, who knows… If you become truly essential to us, We wouldn’t hesitate to give anything.”
 
-“No, that’s not what I meant…!”
+“What! So I’m not needed now!!”
 
-“Haha! I was just kidding, Baroness Lirivia.”
+“No, that’s not what I mean……!”
 
-“…Huh?”
+“Haha! Just kidding, Baroness Lirivia.”
 
-I sat back down, and she stared at me, dumbfounded.
+“……Eh?”
 
-Geez, I can’t even joke around.
+As I sat back down, laughing, the baroness stared blankly into space.
 
-“You’re telling me to prove my worth. That I’m useful for something other than being the ‘first barbarian Baron’.”
+Come on, can’t I joke around a little?
 
-“Y-yes… ah, yes, that’s right…?”
+“In simple terms, you’re saying I just have to prove my worth, right? Something beyond my ‘title as the first Barbarian noble’?”
 
-“Then there’s no problem. It’s easy for me.”
+“Uh… yes, that’s right… I suppose?”
 
-“…?”
+“Well then, no problem. It’s all too easy for me.”
 
-She looked confused again, and then I heard the nobles whispering.
+“……?”
 
-“I thought they were fighting, but now they’re laughing together?”
+At my confident response, she again wore a puzzled look, and the surrounding nobles murmured.
 
-“Those half-breeds… they’re just like animals.”
+“Thought they were having a big fight, now they’re laughing?”
 
-“I wonder what she said to calm him down.”
+“That’s why these half-breeds…… Really, just like beasts.”
 
-“Hmm, who knows? I heard he has a thing for beastwomen.”
+“By the way, what do you think the Rabbit Baroness said to calm that Barbarian down?”
 
-“What? You mean…?”
+“Hm, you never know. I hear that Barbarian is into beast tribe women.”
 
-“Ahem, it’s not impossible, is it?”
+“Wha—? You don’t mean…?”
 
-Their vulgar whispers made the Baroness blush.
+“Ahem, it’s not entirely impossible, is it?”
 
-I was impressed.
+The murmurs were so vulgar, even a barbarian like me could hear them.
 
-“…Baron Yandel.”
+Despite having endured many taunts, this was the first time Baroness Lirivia had openly faced such an insult, and her face reddened with shame.
 
-She was worried about me causing a scene, even in this situation.
+It was somewhat impressive.
 
-“Just ignore them. You’ll hear a lot worse if you want to enter politics.”
+“……Baron Jandel.”
+
+Even now, she worried I might cause trouble.
+
+“Just let it go in one ear and out the other. If you want to be involved in politics, you’ll have to hear endless such remarks.”
 
 “Why?”
 
 “…Because there’s no other way.”
 
-Her honest answer, filled with the frustration of the oppressed.
+A sincere answer, laden with the grief of the oppressed.
 
-She really does look like a herbivore with that expression.
+And with that face, saying those words… she really did look like a herbivore.
 
-I chuckled and asked,
+I gave a small chuckle and asked,
 
-“You said you were used to it. You don’t seem angry.”
+“You seem accustomed to it, but you’re not unaffected, are you?”
 
-“How can I not be angry? I just endure it, hoping for the day when I won’t have to feel this way anymore.”
+“How could I not be affected? I just hope and endure, longing for a day when I won’t have to feel this bitterness.”
 
-“Hope…”
+“Hoping, huh…”
 
-If hope alone could change things, there would be no unhappy people in this world.
+If all hopes were granted just by holding them tightly, there wouldn’t be anyone in this world left in misery.
 
-So…
+Right. So in that case…
 
-“How much do you think it’s worth?”
+“How much do you think it would be worth?”
 
-“…What do you mean?”
+“…I’m not sure what you mean.”
 
-“If I can make those bastards shut up, even if I can’t fulfill your wish…”
+“Let’s say I can’t grant that hope of yours entirely, but at least make those guys who whisper behind your back disappear.”
 
-I said,
+“How much value do you think that would have?”
 
-“How much would it be worth to you?”
+Fortunately, the Rabbit Baroness didn’t quite get what I meant, so she answered naively:
 
-Thankfully, she didn’t seem to understand the situation and answered my question honestly.
+“Well, in my heart, I’d give a fortune of gold if it could be so.”
 
-“Well, I would gladly pay a fortune.”
+An answer so vague and subjective.
 
-It was an abstract and subjective answer.
-
-But it was enough.
+But that was enough for me.
 
 “Alright, then the deal is done.”
 
-“…Huh?”
+“……Eh?”
 
-“I’ve been analyzing you. The reason you’ve been getting pushed around is because you’re always getting pushed around.”
+“I’ve analyzed your situation a bit. You’ve only been beaten because you never fight back.”
 
-“W-what do you—”
+“W-what do you mean—”
 
-What do I mean?
+What I mean is…
 
-You need a leader.
+You guys need someone to charge headlong.
 
-Swoosh.
+Whoosh.
 
-I stood up, cutting her off.
+I rose to my feet without letting her finish.
 
-And…
+And then…
 
-“Behel—laaaaaaaaaa!”
+“Bethel—laaaaaaaaaaa!!!”
 
-I attracted their attention with a war cry.
-
-Step, step.
-
-I marched forward.
-
-“Hey, Baron Yandel!”
-
-I ignored the Baroness’s surprised shout.
+After drawing the aggro with a battle cry.
 
 Step, step.
 
-It didn’t take long to reach my destination.
+I stride forward with heavy footsteps.
 
-The noble who had been badmouthing me.
+“Hey, Jandel Baron!”
 
-“…What’s going on? You’re being disruptive.”
+Ignoring the flustered cry of the Rabbit Baroness.
 
-He didn’t seem to understand the situation.
+Stomp, stomp.
 
-He even dared to look me in the eye.
+It didn’t take more than a few seconds to reach the destination.
 
-“Baron Kipriot.”
+In front of the nobleman who had been fussing about my taste for beast tribe women or whatever.
 
-I hadn’t been formally introduced, but I knew his name. I had memorized the crests of all the noble families after deciding to join the political arena.
+“…What business do you have, causing such a commotion?”
 
-‘He’s a Baron, his backer isn’t that strong, and he’s the perfect target for an example.’
+Regrettably, it seemed he still hadn’t grasped the situation.
 
-I said,
+Seeing him boldly glaring up.
 
-“You insulted me.”
+“Baron Kypriot.”
 
-“Insulted? You mean what I said earlier…? Hah! That’s ridiculous. I doubt you even have the honor to be insulted, and even if you did, what are you going to do about it?”
+We’ve never been formally introduced, but calling him by name poses no problem. I’d memorised all the noble houses’ crests since I’d decided to take the nobility route.
 
-He was trying to act tough, but his rambling betrayed his nervousness.
+‘A baron with weak backing, just perfect to set an example.’
 
-“If you can’t control your emotions, submit a formal complaint to the council. Ah, I doubt you can even write, though!”
+I spoke to him,
 
-His friends chuckled as he finished his sentence.
+“You have insulted me.”
 
-They’re like third-rate thugs.
+“Insult? Are you referring to that remark earlier…? Ha! Ridiculous. I doubt you even possess the honor to be insulted. But even if you did, what would you do about it?”
 
-They don’t even know what’s truly vulgar.
+He’s trying to act tough.
 
-“Well, if you have nothing else to say, I’ll—”
+But clearly, his words are getting longer because he’s terrified.
 
-I cut him off.
+“If you really can’t contain your emotions, you can write up a complaint and submit it to the Committee. Ah, though I wonder if you can even write?”
+
+As soon as he finished his line, some guys who appeared to be his friends chuckled beside him.
+
+Seriously, they’re no better than third-rate assholes.
+
+It’s clear who the real low born are.
+
+“Well, if you have nothing to say, I’ll be on my—”
+
+I do have something to say.
+
+I cut him off and spoke:
 
 “I challenge you to a duel.”
 
 A duel.
 
-The only way to resolve disputes in Lafdonia’s ancient noble society.
+The sole means of resolving disputes dating back to the ancient noble society of Raphdonia.
 
-Of course, there had been less than ten duels between titled nobles in the entire history of the kingdom.
+Of course, the number of times titled nobles have actually taken part in such duels is fewer than ten throughout that long history.
 
-Therefore…
+Which is why…
 
-“Are you scared? You can choose a representative. Ah, but I’m fighting myself.”
+“Are you scared? Then feel free to use a proxy. Ah, but I’ll fight on my own.”
 
 “…Are you serious?”
 
-“Why? Do you want me to be joking?”
+“Why, do you wish I were joking?”
 
-“…….”
+“…”
 
-He didn’t answer.
+He offered no response to my question.
 
-I could understand how he felt.
+His thoughts were obvious.
 
-This situation was humiliating and terrifying. He must be wondering why he was being targeted, when he had just been doing what everyone else was doing.
+He probably finds this whole abnormal situation humiliating and frightening. Why is this happening to him, now of all times—especially when he was just doing the usual thing, and his friends were there to witness it?
 
-But…
+But now…
 
-‘It’s time for him to learn.’
+‘It’s time for him to realize.’
 
-A barbarian noble had been born.
+A Barbarian noble has been born, after all.
 
-It was time to shake things up in the complacent noble society.
+It’s time to instill some fear in these complacent aristocrats.
+
+So, then…
 
 Step.
 
-I took a step closer and looked down at him.
+I took another step forward and looked down at him as I continued:
 
-“Knight, explorer, mage… it doesn’t matter.”
+“Be they a knight, an explorer, or a mage—it doesn’t matter.”
 
-It was against the rules to hire mercenaries as duel representatives, but…
+Technically, using a mercenary for a proxy duel is against the rules, but—
 
-“It doesn’t have to be someone from your family.”
+“I don’t care if they’re not from your house.”
 
-“…….”
+“…”
 
-“Bring anyone you want.”
+“Bring anyone.”
 
-“…….”
+“…”
 
-“The strongest one you can find.”
+“Bring the strongest person you can find.”
 
-He didn’t answer.
+He remained silent.
 
-“Why? Are you scared?”
+No answer came back.
+
+“Why, aren’t you confident?”
 
 I’m not.
 
-I’m confident I can kill anyone he brings.
+I’m confident I can kill whoever you bring right here on the spot.

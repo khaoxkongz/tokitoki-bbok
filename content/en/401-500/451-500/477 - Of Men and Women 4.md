@@ -1,547 +1,523 @@
-# Of Men and Women 4
+Men and Women (4)
 
-We moved to the living room on the first floor.
+We had moved to the living room on the first floor.
 
-Auyen, who had been doing the dishes, was gone.
+Auyen, who had been doing the dishes in the kitchen, was nowhere to be seen—perhaps he had already finished his tasks and gone upstairs.
 
-Amelia had probably sent him away.
+Hmm, maybe Amelia had instructed him.
 
-It didn't matter.
+Anyway, it wasn’t something to worry about.
 
-"..."
+“…….”
 
-"..."
+“…….”
 
-The atmosphere was awkward again.
+Ah, the atmosphere has become awkward again.
 
-Misha sat there, fidgeting with her hands, and I felt uncomfortable.
+Seeing Misha with her fists on her knees, avoiding eye contact, I couldn’t help but feel awkward myself.
 
-How could I break the ice?
+Now, How do I break the ice?
 
-As I was thinking that...
+Just as I was thinking that, Misha suddenly spoke up.
 
-"Lee..."
+“Han-soo…….”
 
-Misha spoke.
+That was my real name, known by only a few in this world.
 
-"Hansu..."
+Although I had turned on the voice control magic tool in advance, I instinctively flinched and glanced around.
 
-My real name. A name few people in this world knew.
+Realizing her mistake, Misha quickly apologized.
 
-I had activated the sound barrier, but I still flinched in surprise and looked around.
+“Ah… S-sorry! I didn’t mean to cause you trouble—”
 
-And then, realizing my mistake...
+“R-really?”
 
-"Ah... S-Sorry! I didn't mean to make you uncomfortable—"
+What’s with that reaction? She said she’d been working on her pronunciation, but now her speech seemed even more awkward.
 
-"It's fine. The sound barrier is active."
+“So you heard that name from Lee Baek-ho?”
 
-"...Oh... is it?"
+Before we get into anything serious, I decided to confirm a few things first.
 
-She had supposedly fixed her speech patterns, but she was still awkward.
+“Yes…….”
 
-"Did Lee Baekho tell you my name?"
+“So, you know I’m an evil spirit now.”
 
-I had to confirm a few things before continuing the conversation.
+“……Yes.”
 
-"Yes..."
+“And yet, you’re not disgusted or frightened by me?”
 
-"Then you know I'm an evil spirit."
+“Yes.”
 
-"...Yes."
+“Why?”
 
-"But you're not afraid of me?"
+“Because I… kind of knew for a while now. Something like that…”
 
-"No."
+What? She already knew?
 
-"Why?"
+“W-when did you figure it out?”
 
-"I've known for a while..."
+“T-that would be…”
 
-What? She knew?
+Misha seemed flustered by my question and mumbled in a small voice, her face turning bright red.
 
-"Since when...?"
+“…On August 16th of the 154th year of the New Era. That’s when I was sure…”
 
-"That's..."
+Why would she give a specific date like that?
 
-Misha looked flustered and then mumbled, her face red,
+It was ridiculous, but as I slowly figured out the timing, I remembered.
 
-"...August 16th, 154th year of the New Era. That's when I was sure..."
+That was the day I had confessed to him that I didn’t just see him as a colleague.
 
-Why was she giving me the date?
+And then, various things… had happened.
 
-I was speechless, but I quickly figured it out.
+‘I was rejected.’
 
-"..."
+Huh, was that the reason?
 
-August 16th, 154th year of the New Era.
+I had wondered endlessly why I had been rejected all this time.
 
-That was the day I had confessed my feelings to her.
+I really wanted to ask directly, but somehow, I couldn’t bring myself to do it outright.
 
-And then... after a few... incidents...
+So, I circled around the topic.
 
-'She rejected me.'
+“After it was rumored that I had died, why did Lee Baek-ho follow you?”
 
-So that was the reason?
-
-I had been wondering why she had rejected me...
-
-I wanted to ask her directly, but I couldn't bring myself to do it.
-
-So I changed the subject.
-
-"Why did you follow Lee Baekho after I was declared dead?"
-
-"...He said he would revive you with the Stone of Resurrection if I helped him."
+“…He said that if I helped him, he would use the Stone of Resurrection to bring you back.”
 
 I already knew that.
 
-But I had asked the question for a different reason.
+But the reason I asked a question to which I already knew the answer was simple.
 
-"Why? You knew I was an evil spirit."
+It was to naturally steer the conversation in that direction.
 
-"Because... you're my... precious... comrade..."
+“But why? If what you’re saying is true, you already knew I was an evil spirit by then.”
 
-Precious comrade...
+“Even so… you were… an important comrade…”
 
-It was a heartwarming answer, but also a vague one.
+An important comrade…
 
-If it wasn't because I was an evil spirit, then why did she reject me?
+It was a happy thing to hear, but her answer felt a bit ambiguous.
 
-So she could be friends with an evil spirit, but not lovers?
+If she doesn’t hate me for being an evil spirit, then why did she reject me?
 
-I wanted to ask her, but she changed the subject first.
+Maybe spirits can be colleagues, but not lovers?
 
-"A-Anyway!"
+I wanted to dig deeper, but sadly, Misha changed the subject first.
 
-Right, she didn't want to talk about it.
+“Anyway!”
 
-"Can I... ask you something?"
+Yeah, so she doesn’t want to talk about this part.
 
-"Go ahead."
+“Can I ask you something?”
 
-"Lee Baekho... he called you 'hyung'... are you... close?"
+“Go ahead.”
 
-"Not really. He's clearly hiding something."
+“Lee Baek-ho… he calls you ‘hyung.’ Are you two… close?”
 
-One word seemed to have caught her attention.
+“It’s hard to say we’re close. He’s obviously up to something.”
 
-"Hiding something..."
+The word from my response seemed to strike Misha.
 
-"So is that all you wanted to ask?"
+“Up to something….”
 
-"No! I have another question! Why did you... disappear on Parune Island?"
+“So, is that all you’re curious about?”
 
-Ah, so Lee Baekho hadn't told her about that.
+“No, no! There’s one more! Back on Farune Island, why did you disappear like that?”
+
+Ah, Lee Baek-ho didn’t tell her that.
 
 Why? To drive a wedge between us?
 
-Or maybe he just thought it was too personal.
+Or maybe he just thought it wasn’t his place to say. Probably he left it to me to decide what to reveal.
 
-He wanted me to decide whether to tell her or not.
+“Did everyone else know the reason except for me—.”
 
-"Did the others know—?"
+But of course, I had already made my decision.
 
-But my decision had already been made.
+“Hold on.”
 
-"Wait."
+“…?”
 
-"...?"
+“First, let’s clear up any misconceptions. The official story out there and the truth aren’t the same.”
 
-"Let's clear up a misunderstanding first. The official story is different from the truth."
+I briefly explained to her about the incident on Farune Island that led to my trip into the past.
 
-I briefly explained my trip to the past.
+I didn’t feel uneasy about telling her.
 
-I wasn't worried about telling her.
+After all, most of my closest allies already knew, except for Aynar. And since Misha even knows my real name, I didn’t see any reason to hide it from her.
 
-After all, everyone in my inner circle already knew. And Misha knew my real name.
+‘Besides, Lee Baek-ho knows about it too.’
 
-'And Lee Baekho knows too...'
+After hearing the whole story, Misha seemed somewhat relieved.
 
-Misha looked relieved after hearing my explanation.
+“So… it was an accident after all…… Your sudden disappearance……”
 
-"So... it was an accident... you didn't disappear on purpose..."
+After that, Misha was curious about what happened after I returned, and I told her everything truthfully.
 
-She then asked about what had happened after I returned.
-
-I told her everything.
-
-Meeting Erwen.
+Meeting Erwin.
 
 Meeting Amelia.
 
-Reuniting with Raven, Ainar, Bear, the dwarf, and Lotmiller.
+Meeting Raven, Aynar, Mr. Bear, the dwarf, and even Rotmiller again.
 
-"I was... the last one..."
+“I was… the last one……”
 
-She muttered wistfully and then asked cautiously,
+Misha muttered in a faint voice, then cautiously asked one more question.
 
-"Do they... know about your secret?"
+“By any chance… does everyone know about your secret……?”
 
-"Erwen, Amelia, Raven, and Lee Baekho. They all know."
+“Erwin, Amelia, Raven, and Lee Baek-ho—they all know about my secret.”
 
-"...I see."
+“…I see.”
 
-"I was worried at first. I heard you had joined a strange group."
+“Anyway, do you have any idea how worried I was? Then I found out you’d teamed up with some weirdo. On top of that, you testified I was an evil spirit.”
 
-And that she had testified against me.
+Without realizing it, I continued talking, and Misha’s expression hardened.
 
-I stopped myself.
+“S-sorry! I really believed you were dead—”
 
-Misha's face hardened.
+“No need to apologize. I believe you honestly wanted to save me.”
 
-"S-Sorry... I thought you were dead—"
+Well, even so, I wonder what they were planning to do after I came back…
 
-"Don't apologize. I know you were trying to help me."
+But I was grateful for the effort itself.
 
-I was still curious about her actions after my return, but...
+Anyway, it’s better to be in this world, even if it’s a mess.
 
-I was grateful for her efforts.
+“Anyway, I think I’ve said enough about myself. Now, it’s your turn to talk.”
 
-Being alive was better than being dead, even if it meant living in a shithole.
+“Me, my story……?”
 
-"So that's my story. Now tell me yours."
+“Yeah. How have you been all this time? Why are you so thin?”
 
-"My story...?"
+“I’m not thin……”
 
-"Yes. How have you been? Why are you so thin?"
+Not skinny? She’s practically skin and bones.
 
-"I'm not thin..."
+“Anyway, go on. Tell me what happened to you all this time.”
 
-She was practically skin and bones.
-
-"Just tell me what happened."
-
-Misha hesitated for a long time and then began her story.
+Misha hesitated for a while, not sure where to start, then began to speak somewhat randomly.
 
 ---
 
-Everyone dies eventually.
+Everyone dies someday.
 
-Even the immortal King of the old era couldn't escape death. It was an immutable law of nature.
+Just as the Immortal King, the absolute ruler of this kingdom, ultimately couldn’t escape death. It’s a natural law that cannot be changed, no matter what.
 
-But...
+But even so.
 
-[So... Bjorn is really dead?]
+[So, Bjorn is dead.]
 
-The parting had been too sudden.
+That farewell was too sudden.
 
-She had woken up from countless nightmares, hoping it was all a dream.
+No matter how many times she fell asleep and woke up as if fainting, it still felt like she was in a dream.
 
-That's why she couldn't refuse.
+That’s why she couldn’t refuse.
 
-[What if I told you there was a way to bring him back?]
+[If there was a way to bring Bjorn Jandel back to life, what would you do?
 
-It was the only way to get him back.
+It was the only way to retrieve what she had lost.
 
-[The Stone of Resurrection can revive two people. If you help me, I'll use it on your boyfriend.]
+[The Resurrection Stone can bring back two people. If you help me, I’ll leave one of those slots for your husband.]
 
-So she had agreed.
+In the end, she accepted the offer.
 
-She had spread the rumor about Bjorn Yandel being an evil spirit, as instructed by Lee Baekho. She had helped him with his plans, exploring the labyrinth with him and his companions.
+She spread the rumour that Bjorn Jandel was an evil spirit, just like Lee Baek-ho directed, and helped him with various tasks while going in and out of the labyrinth.
 
-It hadn't been a bad life.
+Still, life wasn’t all that bad.
 
-It had been difficult, and sometimes she had cried herself to sleep... but she had hope.
+There were times when it was hard and she cried herself to sleep, but there was still hope.
 
-[Oh, so you're finally giving up on that annoying speech pattern?]
+[Oh, so you’re dropping the cutesy nyang-nyang way of talking now?]
 
-She had fixed her speech, as he had requested.
+She fixed the manner of speaking that everyone had teased her about.
 
-She wanted to surprise Bjorn when they met again.
+She wanted to see Bjorn’s surprised reaction later, when they met again.
 
-...Well, that wasn't the only reason, but...
+…Though that wasn’t her only reason.
 
-[Meowmeow, what are you reading?]
+Anyway—
 
-She had started reading books, educating herself.
+[Hey, kitty, what are you reading alone again?]
 
-It made her feel closer to Bjorn.
+She began studying by reading books. Doing that made her feel as though Bjorn was right beside her.
 
-[Stop reading and come train. I've trained a lot of newbies, and sparring is the best way to improve.]
+[Stop reading and come on out. Let’s go to the training grounds. I’ve trained plenty of newbies in my time, and sparring is the best way to improve skills.]
 
-She had trained relentlessly, sparring with Lee Baekho and his companions.
+It was almost like a beating, every day.
 
-She wanted to become stronger.
+One month, two months, three months passed like that.
 
-One month, two months, three months...
+Time flowed endlessly, and she too changed a lot in the face of that passing time.
 
-Time passed, and she changed.
+Even now, she sometimes slips into her old speech pattern when excited, but she can speak normally if she pays attention, and she’s become incomparably stronger than before.
 
-She could now speak normally, even though she still reverted to her old habits when she was nervous. And she had become much stronger.
+And…….
 
-And...
+[…When are you going to use the Stone of Resurrection?]
 
-[...When are you going to use the Stone of Resurrection?]
+Gradually, her patience wore thin.
 
-She had become impatient.
+[Ah, I’ll use it when the time comes. Why are you so pushy lately?]
 
-[I'll use it when the time is right. Why are you so impatient?]
+The same answer with no clear timeline.
 
-His answer was always the same.
+Finally, she asked.
 
-Vague and noncommittal.
+[……Do you even plan to use it?]
 
-So she had finally asked him.
+The Stone of Resurrection Baekho has is real.
 
-[...Are you even planning to use it?]
+But does Baekho really intend to keep his promise?
 
-The Stone of Resurrection was real.
+She had been avoiding that question, holding it in all this time.
 
-But would Lee Baekho keep his promise?
+If the truth inside the box was different from her expectations, she didn’t think she could bear it.
 
-She had tried to ignore the question, suppressing her doubts.
+But…….
 
-She didn't want to know the answer.
+[Baekho, tell me straight. When are you going to use the Stone of Resurrection? Tell me right here, right now. If not—.]
 
-But...
+Finally, she overcame her fear and reached for the truth.
 
-[Lee Baekho, tell me the truth. When are you going to use the Stone of Resurrection? Tell me now. Or else—]
+The answer she got was far from the truth.
 
-She had finally confronted him.
-
-But his answer wasn't what she had hoped for.
-
-[Or else what?]
+[If not, what are you going to do about it?]
 
 […….]
 
-[You're so annoying. Why don't you trust me? What have you even done for me?]
+[You’re really annoying. Why can’t you trust people? What have you even done to properly help me so far?]
 
 […….]
 
-[I leveled you up, didn't I? And now you're finally becoming useful, but you're getting too big for your britches. If you want to demand something from me, show me some results.]
+[You were pretty useless, so I had to level you up first. Just when you were starting to become somewhat useful, you’re getting all cocky. Hey, if you want to make demands, show me some results. Then I’ll answer you.]
 
-Their relationship had deteriorated after that.
+From that day on, her relationship with Baekho reached its worst.
 
-But she couldn't leave him.
+Of course, even so, she couldn’t leave Baekho’s side.
 
-The Stone of Resurrection was real.
+At least the Stone of Resurrection was real.
 
-[Haha! You're feistier than I thought!]
+[Haha! You’re quite the feisty one, unlike what I heard!]
 
-She had distanced herself from him and his companions, focusing on her own goals. She had taken on dangerous missions, accumulating achievements.
+She drew a line with Baekho and his comrades, acting strictly professionally, and didn’t hesitate to take on dangerous tasks to build up her achievements.
 
-And then one day...
+Then one day.
 
-She had received both good news and bad news.
+Good news and bad news.
 
-[He's... alive...? Bjorn is... ?]
+Both came at once.
 
-Bjorn Yandel was alive.
+[He’s… alive…? Bjorn…?]
 
-But...
+Bjorn was alive.
 
-[Because if you don't, Bjorn Yandel will die.]
+But…….
 
-She was now bound by a new shackle.
+[Or else Bjorn Jandel will die, right?]
 
-She couldn't tell them everything.
+A new shackle was placed on her.
 
-"Haha... so that's my story... not that interesting, is it...?"
+Of course, she couldn’t tell the whole truth to Bjorn.
 
-She was used to hiding her true feelings.
+“Heh… that’s about it for my story… it’s not much, right……?”
+
+She’s used to enduring.
 
 ---
 
-Misha's story was interesting.
+Misha’s story was quite interesting.
 
-I had learned a lot about Lee Baekho's activities during the past few years.
+After all, it gave me a glimpse into how Baekho had been living for the past few years.
 
-'He's been leveling up like crazy.'
+‘He’s really been grinding levels hard.’
 
-I had also learned about his skills.
+Thanks to that, I got a rough idea of Baekho’s skills.
 
-I hadn't seen all of them, but I had a good idea of his build.
+I didn’t see all of his combinations, but I got a clear sense of his character concept.
 
-He was a 'Melee Ability User'.
+If I were to classify his job, it would be a ‘melee-type ability user.’
 
-'He can use any weapon, depending on the situation.'
+‘He can use all kinds of weapons depending on the situation.’
 
-He was a more formidable opponent than I had anticipated.
+He’s more troublesome than I thought.
 
-But his essence build wasn't that impressive.
+Still, the essence of his combinations was hard to appreciate.
 
-'He said he had reached his limit... but I don't see it. Was he bluffing?'
+‘But why should he have no room to grow? I can’t figure it out… Maybe he’s just bluffing?’
 
-I had a few questions, but they weren't important right now.
+A few questions arose, but they were the kind that couldn’t be resolved immediately.
 
-I organized the new information in my mind, and Misha spoke cautiously.
+As I was organizing the newly acquired information in my head, Misha cautiously opened her mouth.
 
-"So... what did you mean by that?"
+“By the way… what did you mean earlier?”
 
-"Huh? What?"
+“Huh? About what?”
 
-She lowered her voice.
+When I tilted my head, Misha spoke in an even smaller voice.
 
-"You said... I wasn't going anywhere..."
+“You said to me earlier……. Ah, you’re not going… anywhere.”
 
-Ah, that.
+Ah, that…….
 
-"What did you mean... by that?"
+“What did you… mean by that?”
 
-I answered without hesitation.
+I answered immediately, trying not to sound flustered.
 
-Just like Misha had said,
+Just as Misha had said to me earlier.
 
-"...We're comrades, aren't we? We should stick together."
+“……Aren’t we precious comrades? Comrades should stay together.”
 
-It was an instinctive response.
+Words that came out before I could think.
 
-"...I-I see..."
+Misha also chimed in with an affirmative tone.
 
-"Yes, that's right."
+“……Is, is that so?”
 
-"..."
+“Yeah, that’s it.”
+
+“…….”
 
 I quickly changed the subject.
 
-"So what did you want to tell me on Parune Island?"
+“By the way, what was that about earlier? On Farune Island. You said you had something to tell me, right?”
 
-"Ah... that...? I-I don't remember..."
+“Ah… that… did I say that? I, I don’t remember…….”
 
-Her words were slurred. She was lying.
+From the way her words slurred, it was clearly a lie…….
 
-But I didn't press her.
+For some reason, I felt like pushing further would make things awkward again, so I decided to ask later when the opportunity arose.
 
-It would only make things awkward again.
+So I asked my next question instead.
 
-"Ah! Do you still have my necklace? Raven said you took it..."
+“Ah! Do you still have the necklace? Raven said you took it…….”
 
-No. 7777, Garpas's Necklace.
+No. 7777, Garfas’ Necklace.
 
-Misha unbuttoned her shirt, revealing the necklace hidden beneath.
+As I mentioned it, Misha unbuttoned her neck, revealing the necklace hidden inside her clothes.
 
-So she had kept it.
+Luckily, she hadn’t sold it and had kept it safe…
 
-"B-But... do I really have to give it back...?"
+“But… do I really have to give it back?”
 
-What was she talking about?
+What’s she saying?
 
-"Give it to me."
+“Give it to me.”
 
-"...Okay."
+“……Okay.”
 
-Finally, I had it back.
+Yeah, finally got it back.
 
----
+The conversation with Misha, which started in the afternoon, continued until the sun set and night fell.
 
-Our conversation continued late into the night.
+Since it had been a long time since we last met, there were plenty of topics to discuss, and as time went on, the awkwardness of the reunion gradually faded.
 
-We had a lot to catch up on.
+But…….
 
-And as the awkwardness faded, a sense of familiarity returned.
+“It’s already this late. Aren’t you hungry? Let’s all have a meal together—.”
 
-But...
+At my suggestion, Misha quietly shook her head.
 
-"It's getting late... Are you hungry? Let's have dinner—"
+She said she’d go back to her lodgings to eat.
 
-Misha shook her head.
+“Why bother with lodgings? There are plenty of empty rooms here. You can just live here.”
 
-She said she would eat at her inn.
+“Bjorn. I appreciate the thought, but you don’t have to go out of your way for me.”
 
-"Why go back to the inn? There are plenty of empty rooms here. You can stay."
+Her stubborn refusal made it hard to persuade her.
 
-"Bjorn, thank you, but I don't want to impose."
+Was she trying to draw a line with me?
 
-She refused, her voice firm.
+“Ah, is that so? Alright. Do whatever makes you comfortable.”
 
-She was drawing a line.
+“Thanks for understanding. And… about the offer to rejoin the clan… can I have some more time to think about it?”
 
-"I see... Suit yourself."
+“…Think? Ah, of course! Think? Y-yeah, you should definitely think about it. But… how long do you think it’ll take?”
 
-"Thank you for understanding. And... about rejoining the clan... can I think about it?"
+“A week… that should be enough. I’ll come back when I’m done, so don’t wait around too much, okay?”
 
-"...Think about it? Of course. How long will it take?"
+With that, our reunion came to an end, and I slowly made my way upstairs. Since I’d left the two alone for a while, I thought I should give them some explanation of the situation.
 
-"A week... I'll come back then, so don't wait up."
+Surprisingly, the two of them were in the same room.
 
-Our reunion ended, and I went upstairs. I had to explain the situation to Erwen and Amelia.
-
-They were in the same room.
-
-They were talking about something...
+They were in the middle of an intense conversation when…
 
 Knock.
 
-I didn't even have to knock. They heard me coming and stopped talking.
+I didn’t even need to knock. As soon as I approached the door, they both fell silent, sensing my presence.
 
-They were sensitive to presences.
+Geez, this is why stealthy types are so…
 
-I was a little curious about their conversation...
+I’d always been a little curious about what the two of them talked about when they were alone.
 
-"Can I come in?"
+“Can I come in?”
 
-"C-Come in!"
+“Y-yes, come in!”
 
-Their voices were slightly tense.
+A slightly startled voice.
 
-It was unexpected.
+This part was unexpected too.
 
-"W-What's wrong...? Is there something you need...?"
+“W-what brings you to my room?”
 
-I had expected them to be upset or even hostile, but they seemed surprisingly calm.
+I thought Erwin would be depressed or show some aggression, but she seemed to be quite alright.
 
-I looked at Amelia.
+I glanced over at Amelia.
 
-She shrugged and smiled.
+Amelia, meeting my gaze, shrugged and chuckled. It seemed that Erwin’s calm demeanour was entirely due to Amelia’s efforts to calm her down…
 
-It seemed like she had calmed Erwen down.
+‘Really reliable, isn’t she.’
 
-'She's reliable.'
+I nodded in gratitude and then turned back to Erwen.
 
-I gave her a look of gratitude and turned to Erwen.
+“Do, do you have something… to say?”
 
-"So... what did you want to talk about...?"
+That’s when I felt something was off.
 
-She was acting strangely.
+Were they hiding something?
 
-She seemed to be hiding something.
+‘I thought they would ask about Misha as soon as I arrived…’
 
-'I thought she would ask about Misha...'
+As I focused more intently and looked around the room, something particularly caught my eye.
 
-I looked around the room, and something caught my eye.
+A thick book placed on the desk.
 
-A thick book on Erwen's desk.
+‘That book… I think it was originally in Amelia’s room.’
 
-'Wasn't that in Amelia's room before?'
+It was titled Between Men and Women.
 
-The title was 'Of Men and Women'.
+Was it some kind of romance novel?
 
-Was it a romance novel?
+I’ll have to find it and read it later.
 
-I made a mental note to read it later.
+“So, what happened to Karlstein? Did she leave?”
 
-"So what happened with Carlstain? Did she leave?"
+“Ah, that…”
 
-"Ah, that..."
+I gave a brief explanation and mentioned that Misha had decided to think about whether or not to rejoin the clan.
 
-I briefly explained the situation and told them that Misha was thinking about rejoining the clan.
+And so, the day came to an end.
 
-That was it for today.
+“Sigh…”
 
-"Ha..."
+I laid down on the bed, but sleep did not come.
 
-I lay in bed, but I couldn't sleep.
+What if Misha decides not to come back?
 
-What if Misha didn't come back?
+No, why did I even think that persuading Baekho would be enough to bring Misha back?
 
-Why had I assumed she would?
+Does she… really only see me as a comrade?
 
-Did she really see me as just a comrade?
+But if she only saw me as a comrade, there’d be no reason for her to go so far to save me.
 
-But if she did, why had she tried so hard to revive me?
+What exactly is Misha’s true feelings?
 
-What was she really thinking?
+“…Let’s just sleep.”
 
-"...Let's just sleep."
+Since no amount of thinking would give me an answer, I decided to clear my mind.
 
-I couldn't find the answer, so I cleared my head and closed my eyes.
+And so, time passed…
 
-And time passed...
+“Congratulations! Young warriors! From today onward, you will leave the sanctuary and be reborn as true warriors!”
 
-"Congratulations, young warriors! From this day forward, you will leave the sanctuary and become true warriors!"
-
-It was the Barbarian Coming-of-Age Ceremony.
-
-And the day the labyrinth reopened.
+The day of the Barbarian’s coming-of-age ceremony.

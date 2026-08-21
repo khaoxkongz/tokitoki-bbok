@@ -1,445 +1,425 @@
-# Friend or Foe 2
+Between an Ally and an Enemy (2)
 
-Marquis Terserion. The Prime Minister of Lafdonia and the second most powerful person in the kingdom.
+As the Chancellor and second-in-command of Raphdonia, Marquis Tecerion has long been a thorn in my side.
 
-He was a constant source of anxiety for me.
+After all, he was the one who, with a smile, deceived me into joining a suicide mission.
 
-After all, he was the one who had tricked me into leading the suicide mission.
+Clearly, he viewed me as an annoyance.
 
-He must see me as a thorn in his side.
+‘And yet, there were many actions of his that I couldn’t understand.’
 
-'And there were so many things I didn't understand about his actions...'
+Notably, my ‘promotion’ was one of them.
 
-My promotion, for example.
+Given his immense power, he certainly could have stopped it if he wanted to.
 
-He could have easily blocked it if he wanted to.
+However, my promotion proceeded with surprising ease.
 
-But it had been approved without any resistance.
+Additionally, the fact that he initiated the ‘Evil Spirit Integration Policy’ through his daughter, Ragna, was also suspicious.
 
-And the fact that he had suggested the Evil Spirit Integration Policy to Ragna was also suspicious.
+The Marquis has always been a source of mystery for me.
 
-He was an enigma.
+But…
 
-But...
+“Let me try to explain briefly.”
 
-"I'll keep it brief."
+Listening to Lee Baek-ho’s explanation, some of my doubts were resolved.
 
-Lee Baekho's explanation cleared up some of my questions.
+“The Marquis publicly declared that Bjorn Jandel is an evil spirit and implemented the Evil Spirit Integration Policy. Actually, that was because of me.”
 
-"The reason Marquis Terserion announced that Bjorn Yandel was an evil spirit and then suggested the Integration Policy... was because of me."
+Lee Baek-ho had devised a plan to bring evil spirits into the light using my reputation.
 
-Lee Baekho had used my reputation to promote the integration of evil spirits into the city.
+It was an outrageous yet somewhat plausible plan.
 
-It was a ridiculous plan, but also a plausible one.
+Take Ragna, for example. Her perception of evil spirits improved because of me, and she became genuinely committed to the policy.
 
-Ragna's perception of me had changed because of it. She had become a genuine supporter of the policy.
+I was the perfect candidate to advocate that even evil spirits could be good.
 
-I was the perfect symbol for his cause. A living example of a 'good' evil spirit.
+“Why do you want to bring evil spirits into the light?”
 
-"Why are you so obsessed with integrating evil spirits?"
+“To strengthen the players so we can collectively overthrow the royal family.”
 
-"Because the players need to gain more influence if we want to overthrow the royal family."
+Lee Baek-ho’s goal was the overthrow of the royal family.
 
-Lee Baekho's goal was to overthrow the royal family.
+He believed that to break through the 10th floor, they had to take down the royal family first.
 
-He believed that reaching the 10th floor required dismantling the current power structure.
+“Then what about the Marquis? Why would he agree to your demands?”
 
-"But what about the Marquis? Why would he agree to your demands?"
+“Ah, that? I blackmailed him.”
 
-"I blackmailed him."
+“…Blackmailed?”
 
-"...Blackmailed him?"
+“Yes. The Chancellor’s son is also a player.”
 
-"Yes. His son is also a player."
+This genuinely surprised me.
 
-That surprised me.
+No wonder he so easily sold out the royal family’s name.
 
-So that's why he had been so willing to use the royal family's name.
+There was a whole backstory behind it.
 
-He had leverage.
+‘Starting as a direct descendant of a prestigious family? Talk about broken game balance…
 
-'A noble from birth? Talk about unbalanced...'
+If players from Noark heard this, they’d be dying of envy.
 
-The players who started in Noark would be furious if they heard about this.
+“The blackmail worked because the marquis realized it’d be bad for him if the fact that his son is an evil spirit got out.”
 
-But that wasn't my concern right now.
+To protect his son, the Marquis complied with Lee Baek-ho’s demands.
 
-"The Marquis agreed to my demands to protect his son."
+“He needed time. If his heir disappears, only the Marquis remains. What do you think his relatives would think in this situation?”
 
-He had chosen to protect his son rather than risk his family's reputation.
+“I don’t know, but they’d probably start calculating their place in the line of succession.”
 
-"He needed time. He didn't have any other heirs. If his son disappeared, the entire family would be in turmoil."
+“Exactly. I doubt anyone would try assassinating the marquis, but his entire house wouldn’t be the same.”
 
-"I'm sure his relatives would be calculating their chances of inheriting the title."
+“Like I said, the Marquis needed time. I heard he’s been working hard every night to produce another heir.”
 
-"Exactly. No one would try to assassinate him, but his faction would be weakened."
+This was information I didn’t really want to know. Good grief, how old is that man…?
 
-"But wouldn't it be better to just give the title to another relative than to risk it all for an evil spirit?"
+Is this some last-minute sprint?
 
-"I told you, he needed time. He's been working tirelessly to find a solution, hasn't he?"
+‘Perhaps bringing Ragna into the picture was part of a Plan B…….’
 
-I didn't need to know that.
+Just as that thought crossed my mind, Lee Baek-ho suddenly apologized.
 
-It made me uncomfortable.
+“By the way, sorry, hyung. I think I was the reason the marquis sent you on that expedition.”
 
-He was old enough to be my grandfather.
+“…What do you mean?”
 
-Was this his last hurrah?
+“If you came back alive and it was revealed that you weren’t an evil spirit, it would cause problems for the Evil Spirit Integration Policy I demanded. So, he probably tried to eliminate you quietly. Without anyone knowing.”
 
-'Maybe Ragna was also part of his plan B...'
+But that attempt failed, and I returned alive, and the marquis had to publicly declare my survival.
 
-As I was thinking that, Lee Baekho suddenly apologized.
+“After that incident, he contacted me, saying there was nothing he could do.”
 
-"By the way, I'm sorry, hyung. The Marquis probably sent you on that expedition because of me."
+It was hard to blame the Marquis entirely, so Lee Baek-ho decided to exclude Bjorn Jandel(Me) from future plans.
 
-"...What are you talking about?"
+After all, it had already been declared that Bjorn Jandel is not an evil spirit.
 
-"If you returned alive and proved that you weren't an evil spirit, it would have disrupted my plans for the Integration Policy. So he wanted to eliminate you. Quietly."
+He was no longer a usable card.
 
-But his plan had failed, and I had returned alive, declaring my innocence in front of everyone.
+But…….
 
-"He contacted me after that, saying he had no choice."
+“Then the Marquis asked me if I could kill you. He couldn’t go into details, but he said you might become a big problem in the future.”
 
-Lee Baekho had accepted the situation and decided to remove me from his plans.
+It genuinely gave me the chills.
 
-I was no longer a useful pawn.
+To think he was plotting such sinister things as soon as I returned.
 
-But...
+“At the time, I just said I’d think about it, because the terms he was offering weren’t that bad.”
 
-"He asked me if I could kill you. He said you would become a problem later."
+“So, when you said last time that it was a good thing that you found out who I was, was that because of that…?”
 
-I felt a chill run down my spine.
+“Ahaha… You’re really quick to catch on.”
 
-He had been plotting against me from the moment I returned.
+…I could have been killed.
 
-"I told him I would think about it. His offer was quite tempting."
+Without even knowing.
 
-"Is that why you said you were glad I was alive?"
+“But in the end, I found out you’re my hyung, right? I’ve already told the Marquis everything. I declined his offer, and I told him not to even think about touching Bjorn Jandel from now on.”
 
-"Ahaha... You're sharp."
+“……”
 
-...I had almost died.
+“Don’t you think it makes up for what I did?”
 
-Without even realizing it.
+I couldn’t deny he had a point.
 
-"But now that I know you're my hyung, I told him I wouldn't do it. And I told him to leave you alone."
+At least until his son’s problem is resolved, the Marquis can’t directly harm me.
 
-"..."
+‘I guess that’s one thing off my mind…’
 
-"So... I've paid my dues, haven't I?"
+It was an unexpected gain, but I tried to speak as calmly as possible.
 
-He was right.
+“So? Aside from that, what else have you got?”
 
-At least until he found a solution for his son, the Marquis wouldn't dare harm me.
-
-'I guess that's one less thing to worry about...'
-
-It was an unexpected gain, but I remained calm.
-
-"So? What else can you do for me?"
-
-Showing satisfaction would only weaken my bargaining position.
+The moment I start showing satisfaction, my share will dwindle.
 
 ---
 
-Lee Baekho then listed the other ways he could help me.
+After that, Lee Baekho confidently talked about the options he could offer me besides the down payment he had already made.
 
-But they were mostly empty promises.
+But to my surprise, none of them seemed particularly useful.
 
-"If you have anyone you want dead, just tell me. I'll take care of them!"
+“If there’s someone you want dead, just say the word. I’ll crush them completely!”
 
-"Really? Then kill the Marquis."
+“Oh? Then go kill the Marquis for me.”
 
-"Uh, that's a bit... He can be resurrected by the royal palace."
+“Uh, that’s a bit… That bastard would just revive in the royal palace even if I killed him.”
 
-"...Resurrected? What are you talking about?"
+“…Revive? What’s that supposed to mean?”
 
-"Ah, you don't know about that. It wasn't in the game, was it? Anyway, there's a royal treasure that can resurrect people. And the Marquis has it."
+“Ah, you don’t know about that? Maybe it wasn’t in the game? Anyway, there’s a royal relic that can do that, and it’s currently in the Marquis’s hands.”
 
-"Then what about Count Alminus?"
+“What about Count Alminas, then?”
 
-"He's always with that Dragonkin, so it's difficult. He's a tank..."
+“That guy always has that dragon tribe member by his side, so it’s tough. That dragon bastard specialises in defence… It might be possible to break through if I have enough time, but inside the city it’s a bit…”
 
-What was he even talking about?
+What’s with this guy?
 
-He had sounded so confident...
+He spoke so confidently earlier.
 
-"So who can you actually kill?"
+“Then who can you kill?”
 
-I asked patiently, and Lee Baekho suddenly looked down and mumbled,
+I thought it would be quicker to just ask him directly, so I tried to be as gentle as possible, but for some reason, Lee Baek-ho hung his head and muttered.
 
-"I mean, it's not my fault... Why are you always asking about such difficult targets..."
+“No, really… The people you mentioned are just weird… Why did you have to pick those guys…”
 
-But his meekness didn't last long. He quickly recovered and said cheerfully,
+Of course, Lee Baek-ho didn’t stay depressed for long. He soon perked up and spoke energetically.
 
-"Ah! Then how about this? You're planning a Dreadfear raid, right? I can help you with that—!"
+“Ah! How about this then? You said you’re going on a Dreadfear raid soon, right? I can help you-“
 
-"No need."
+“No need.”
 
-"Huh?"
+“What?”
 
-"It'll attract too much attention. I don't want people to know about our connection."
+“It’s bound to draw a lot of attention, so why would I want to let people know that you and I are acquainted?”
 
-"Uh... we can just use disguises."
+“Uh… What if we disguise our identities?”
 
-"No. I can handle it myself."
+“No thanks. I can take it down even without you.”
 
-"..."
+“……”
 
-Lee Baekho was speechless.
+Lee Baek-ho was left speechless.
 
-It seemed like I had to be more direct.
+At this point, it seemed better to just say what kind of support I wanted.
 
-"What about money?"
+“Money?”
 
-"How much do you need?"
+“How much do you need?”
 
-"About a billion stones."
+“How about 1 billion stones?”
 
-"T-That's a bit... even I don't have that much."
+“That much is a bit…”
 
-"Then 500 million?"
+“Then 500 million stones?”
 
-"I'm a little short on cash right now..."
+“I don’t have that much on hand right now…”
 
-"...100 million."
+“…100 million stones.”
 
-"...I've had a lot of expenses lately."
+“…I’ve had a lot of expenses lately.”
 
-What? He was poorer than me?
+What’s with this guy? How does he have less money than me?
 
-"Then give me some equipment. What Numbered Items do you have?"
+“Then give me some equipment. What Number items do you have now?”
 
-"Uh... they're all core items, so I can't give those away."
+“Uh… They’re all core items, so I can’t give them to you.”
 
-What was he even trying to do?
+Was there anything he could even do for me?
 
-No money, no equipment...
+“Baek-ho, are you just all talk?”
 
-"Baekho, do you know what a damp squib is?"
+Lee Baek-ho couldn’t respond.
 
-"..."
+“How about essences, then? Maybe you could gather some for me. Like Bellarios essence or something.”
 
-Lee Baekho didn't answer.
+“Hyung… That place is a war zone right now…”
 
-"What about essences? You can farm some for me. Bellarios, for example."
+“Baek-ho, you’re the type to find reasons why something can’t be done first, huh?”
 
-"Hyung... that's a war zone..."
+“…Argh, fine! I’ll try. Next time I go in, I’ll gather some, okay?”
 
-"Baekho, you always find excuses, don't you?"
+Yeah, that’s how it should be.
 
-"...Alright! I'll do it! I'll start farming next time!"
+Well, now it’s time to move on to the next option.
 
-Right, he could do it if he wanted to. Why was he acting so weak?
+“Baek-ho, there are a few things I want to ask. Will you answer?”
 
-'I didn't expect to skip the Bellarios grind so easily.'
+“Yes! Anything!”
 
-It was a decent reward.
+“How did you find out that I’m Bjorn Jandel?”
 
-Time for the next topic.
+“That? Thanks to the GM. Right after the ban was lifted that day, the GM called me. He said you threatened him to lift my ban?”
 
-"Baekho, I have a few questions for you. Will you answer them?"
+Holy shit… That happened?
 
-"Yes! Anything!"
+“When I heard that, I was genuinely surprised. I didn’t realize Hyung would go that far. I couldn’t wrap my head around it, so I pretended we were allies to see how he’d react, and the GM guy started leaking information bit by bit.”
 
-"How did you figure out that I was Bjorn Yandel?"
+So the GM started blurting out my information, what a pushover.
 
-"That? Thanks to the GM. He summoned me as soon as my ban was lifted. He said you blackmailed him into unbanning me."
+“Hyung, you’ve been wearing a lion mask at the Round Table, right?”
 
-What the... Seriously?
+From the fact that I’ve been active as Mr. lion at the Round Table—
 
-"I was shocked. I didn't know you were that strong. So I pretended to be on your side and asked him about you, and he started spilling information."
+“That part was fine. But then he suddenly asked questions about you.”
 
-The GM had lived up to his reputation.
+And in the end, he gave away the most crucial piece of information.
 
-"He said you were using a Lion mask at the Round Table."
+“He asked if I knew why you hadn’t appeared for more than two years. And if the two of us were conspiring something. Kind of beating around the bush, but still…”
 
-He had revealed my identity at the Round Table...
+Lee Baek-ho gave a sly smile.
 
-"That wasn't a problem. But then he asked me..."
+“That’s when it all clicked for me.”
 
-...and then he had revealed the crucial piece of information.
+It was only natural that he figured out my identity.
 
-"He asked why you hadn't been online for over two years. He asked if we were plotting something together..."
+The long hiatus of Mr. Lion perfectly coincided with Bjorn Jandel’s return.
 
-Lee Baekho grinned.
+Even at the Round Table, there were people who suspected me because of that.
 
-"That's when I knew."
+“I see.”
 
-It wasn't surprising that he had figured it out.
+I felt my blood pressure rising just thinking about the GM, so I moved on to the next question.
 
-My long absence from the community coincided with Bjorn Yandel's disappearance.
+“When the Imperial Capital was on fire, what was going on with you and the Ruin Scholar? You both disappeared together.”
 
-Even the other Round Table members had suspected me.
+It was something I had been curious about for a while.
 
-"I see."
+What had happened between them that they were now allies?
 
-I didn't want to hear any more about the GM, so I moved on to the next question.
+“Oh, that? Nothing special. The guy told me he was an evil spirit from another world, that he also wanted to open the Abyss Gate, and so we should get along. I’d been needing a mage anyway, so I just said yes.”
 
-"What happened between you and the Ruin Scholar when the fire broke out in the Imperial City? You both disappeared."
+“Oh, really?”
 
-I had been curious about that.
+I answered as nonchalantly as possible.
 
-How had they become companions?
+The reason was simple.
 
-"Ah, that?"
+Just like Lee Baek-ho had immediately noticed when I lied in the past.
 
-Lee Baekho shrugged.
+I could instinctively feel it.
 
-"Nothing much. He told me he was an otherworldly evil spirit, that his goal was to open the Gate of the Abyss, and that he wanted to work with me. I needed a mage, so I agreed."
+“Yes. He’s old and missing a few teeth, so I was worried, but he’s actually pretty capable.”
 
-"Really?"
+Lee Baek-ho.
 
-I tried to sound nonchalant.
+Why is he…
 
-Just like Lee Baekho had sensed my lie before,
+“Huh, I see.”
 
-I could feel it instinctively.
-
-"Yes. I was worried because he was old and missing a few teeth, but he's quite skilled."
-
-Lee Baekho...
-
-"Hmm, is that so?"
-
-...was lying.
+…lying to me?
 
 ---
 
-A skilled liar hides the lie within the truth.
+A skilful liar hides a lie within the truth.
 
-If that was true, most of what Lee Baekho had said was probably true.
+Following that logic, most of what Lee Baek-ho just said should be true.
 
-Therefore...
+Therefore…
 
-"My future plans? They're simple! We'll join forces and take down the royal family and the labyrinth! Ah, just kidding. What I'm actually planning is—"
+“Plans for the future? It’s simple! You and I will join forces and crush the royal family or the labyrinth! Ah, just kidding. What we’ll actually do is—”
 
-I asked him a random question, and while he was answering, I analyzed his previous statements one by one.
+I threw out any question, and while Lee Baek-ho answered, I meticulously analyzed every word he had just said.
 
-[He told me he was an otherworldly evil spirit.]
+[He said he was an evil spirit from another world.]
 
-That was a known fact.
+First, this is a fact I already know.
 
-[His goal was to open the Gate of the Abyss.]
+[His goal is also to open the Abyss Gate.]
 
-That was also true.
+This is the same.
 
-[He wanted to work with me.]
+[He suggested we get along from now on?]
 
-He had probably asked for his cooperation.
+It must be true that he sought cooperation.
 
-That made sense.
+Otherwise, there would be no reason for the two of them to move together.
 
-Then...
+Yes, so then…
 
-[I needed a mage, so I agreed.]
+[I needed a mage anyway, so I agreed right away.]
 
-That was the only part that didn't add up.
+Since the only remaining option was this, I came to a conclusion.
 
-Lee Baekho hadn't teamed up with the Ruin Scholar because he needed a mage.
+‘Lee Baek-ho didn’t team up with the Ruin Scholar just because he needed a mage.’
 
-There was another reason.
-
-And he had hidden it from me.
+In other words, there’s another reason. And the important thing is that he kept it hidden from me.
 
 Why?
 
-'Because it's something he can't tell me.'
+‘Because it’s information he can’t share with me.’
 
-I had almost let my guard down, charmed by his seemingly naive demeanor... but I was now wary of him.
+That fleeting glimpse of vulnerability he showed almost made me lower my guard, but my vigilance quickly returned.
 
-Lee Baekho was a dangerous opponent.
+Lee Baek-ho, this guy is really not to be underestimated.
 
-'What else is he hiding?'
+‘What else is he hiding?’
 
-He had given me very little in return for my information.
+Come to think of it, Lee Baek-ho has given me almost nothing.
 
-He had reluctantly agreed to farm Bellarios essences, and he had promised to return Misha... but that was all.
+At best, I managed to squeeze out a promise that he’d ‘gather essences.’
 
-'...He's clearly hiding something. Is he really trying to help me?'
+Ah, should I add that he’ll return Misha?
 
-I couldn't be sure.
+‘…He’s definitely up to something. Is he genuinely trying to help me at all?’
 
-"The royal family is the biggest obstacle. The players are still hiding, so it's difficult to gather them. We need to bring them out into the open—"
+I really couldn’t tell.
 
-Was Lee Baekho my friend, or my foe?
+“Anyway, in this plan, the royal family is the biggest concern. Since the players are all still in hiding, we can’t gather together… for that we need to lure all the players out into the public somehow…”
+
+Is Lee Baek-ho my enemy or my ally?
 
 ---
 
-After a while, it was time for Lee Baekho to leave.
+After talking a bit more, it was time for Lee Baek-ho to leave.
 
-He still had the one-hour logout restriction.
+He still had that one-hour login restriction in place.
 
-"Hyung, can you ask the GM about the time limit? He must have taken the early version pill too. Ask him if there's a way to increase the time limit."
+“Hyung, if you see the GM, could you ask him something for me? He must’ve consumed the early-version pill as well, right? Ask if there’s a way to extend the stay.”
 
-"Alright."
+“All right.”
 
-"Okay. See you later!"
+“Thanks. Okay, I’m off! See you next time!”
 
-I hadn't had a chance to ask him about the Record Stone.
+In the end, I never got around to asking him what the “record stone” is.
 
-But it wasn't a big deal.
+As much as I hate to say it, at least for the moment, everything seems to be going smoothly.
 
-Things were going smoothly.
+I decided that I could start digging into Lee Baek-ho’s secrets after getting Misha back.
 
-I could ask him about it later, after getting Misha back.
+“Hey, did you get everything sorted out?”
 
-"Oppa, how did it go?"
+When Baek-ho left, Hyunbyeol—who’d been waiting outside—came in, and we chatted for a while.
 
-After Lee Baekho left, Hyunbyul returned, and we chatted for a while.
+“Yeah, thanks to you.”
 
-"It went well, thanks to you."
+“Don’t get too chummy with that guy. He’s not trustworthy.”
 
-"Don't get too close to him. He's not trustworthy."
+“I know.”
 
-"I know."
+“…Then that’s good. Actually, the reason I asked him about you before was a bit of a test.”
 
-"...That's good. I was testing you, by the way."
+“A test?”
 
-"...Testing me?"
+“Yeah. He was acting like he knew something about you, right? I just wanted to see how discreet he’d be. As I suspected, once he realized I was testing him, he kept his mouth shut.”
 
-"Yes. He was acting like he knew your identity, so I wanted to see how tight-lipped you were. He didn't say anything in the end, though."
+“…I see.”
 
-"...I see."
+It’s hard to believe that it was a test, but it’s not like I had any proof, so I let it slide.
 
-It was hard to believe that had been her intention, but I didn't have any proof to the contrary, so I just let it go.
+And then, how much time passed?
 
-And after a while...
+“Hyun-byeol, I should get going now.”
 
-"Hyunbyul, I'm leaving."
+I slowly wrapped up the conversation and got up from my seat.
 
-I stood up.
+“You always leave around this time, don’t you?”
 
-"You're leaving early again..."
+Well, the Round Table always opens at this time.
 
-The Round Table always started at this time.
+“Then let’s meet again next time.”
 
-"See you later."
+“Okay.”
 
-"Okay."
+After leaving the chat room, I immediately entered the Round Table.
 
-I left the chat room and entered the Round Table.
+I put on the usual navy suit and flipped the lion mask over my face.
 
-I put on my navy blue suit and my Lion mask.
+Thud, thud.
 
-That was all the preparation I needed.
+I walked through the empty corridor towards the main room where the meeting was held.
 
-Step, step.
+But what’s this?
 
-I walked through the empty hallway towards the main room.
+“Hahaha! Fox, long time no see!”
 
-But...
+Inside the Round Table’s hall, besides the usual members, there were also some new faces I’d never seen before.
 
-"Haha! Fox, it's been a while!"
+And not just one—
 
-When I arrived, there were three unfamiliar masks in the room.
+“Oh, you must be Mr. Lion? Nice to meet you!”
 
-And...
+“……”
 
-"Oh, you're Lion? Nice to meet you!"
+“Hello……”
 
-"..."
-
-"Hello..."
-
-...three new members.
+Three of them.

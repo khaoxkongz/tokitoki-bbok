@@ -1,465 +1,432 @@
-# Party 3
+Party (3)
 
-The banquet, which began a little after noon, ended before sunset.
+The banquet began a little after noon and was over before the sun even set.
 
-It was only natural.
+Well, this banquet was exclusively for the heads of noble families representing each household. Unlike the carefree nobles busy with merrymaking, they had real work piling up.
 
-All the attendees were heads of their respective families. Unlike the nobles who were busy enjoying themselves, they had a lot of work to do.
+‘Come to think of it, after about two hours, people started to leave en masse.’
 
-‘Indeed, after about two hours, people started leaving in droves.’
+Most of them, compelled by tradition to attend, stayed at the banquet just long enough to avoid being labelled, and then left the palace.
 
-Most of those who were forced to attend by tradition stayed only long enough to avoid criticism and then left the palace without hesitation.
+Of course, as this was a rare gathering of so many family heads, many took the opportunity to actively socialise. Still, by sunset, they were all gone, claiming they were exhausted.
 
-Of course, since it was a gathering where it was rare to see the heads of families all in one place, there were many heads of families who actively engaged in social activities, using this banquet as an opportunity. But even they all left, saying they were tired, as the sun began to set.
+“Is that why they say you turn back into a child when you get old?”
 
-‘Is this what they mean when they say old people become like children?’
-
-It’s like they have a curfew in this country.
+They’re not little kids with curfews in a new country or anything.
 
 Clatter, clatter.
 
-As I watched the royal palace fade away from the carriage window, various thoughts crossed my mind.
+Sitting in the carriage, watching the royal palace fade from view, various thoughts cross my mind.
 
-From the trivial thought that it would be convenient to have a house in the Imperial City to my future plans.
+Useless stuff like, “Maybe I should get a house in the capital,” all the way up to more serious concerns about my future.
 
-‘In the end, I couldn’t have a proper conversation with the Marquis.’
+‘In the end, I couldn’t have a proper talk with the marquis.’
 
-Unfortunately, one of the quests for this banquet, ‘Probe the Marquis,’ ended in failure.
+Unfortunately, the “Testing the Marquis” quest I had in mind for this banquet ended in failure.
 
-I did go and greet him, and I even sat at his table, but there were too many people around him. And he didn’t seem to want to dismiss them.
+I had approached and sat at his table with a greeting, but there were too many people around. And it seemed like he didn’t really want to push people away either.
 
-In the end, I had to return after exchanging pleasantries.
+In the end, I could only exchange pleasantries before returning.
 
-It was disappointing.
+It’s a bit of a shame.
 
-‘Well, it doesn’t really matter what he’s thinking now…’
+‘But honestly, now that I think about it, what the Marquis thinks of me isn’t all that crucial anymore…’
 
-The important thing now was balance.
+What matters from here on out is balance.
 
-No matter what the Marquis’s intentions were, he wouldn’t be able to act recklessly once I gained more influence.
+Whatever the Marquis’s intentions might be, if I grow large enough in influence, he can’t easily make a move against me.
 
-So I had to walk a fine line.
+Therefore, I have to walk the line carefully—big enough that he can’t touch me on a whim, but not so big that he feels compelled to draw his sword.
 
-I had to be strong enough to deter him, but not so strong that he felt threatened.
+“Anyway, joining Melbes went well…”
 
-‘Well, it’s good that I’m joining Melbeth…’
+Although the official membership would be on another day when everyone gathered, there was no issue for now.
 
-The official joining ceremony would be held later, but for now, things were going smoothly.
+The only question is what will happen with Ragna, who contacted me via the letter.
 
-But I wasn’t sure about Ragna, who had contacted me through that note.
-
-If things went well, she could be a valuable asset in my conflict with the Marquis…
-
-“Haa…”
-
-I felt a pang of sadness.
-
-If she had just remained a librarian, I would have been able to greet her without any worries.
-
-‘Why does she have to be the Marquis’s daughter…?’
-
-And Hyunbyul was also involved.
-
-The more I thought about it, the more complicated it became.
-
-‘…I’ll find out when I meet her.’
-
-I took a nap in the carriage, and before I knew it, we arrived at the military transfer station. I was teleported back to Ravigion and then took another carriage home. ŘαΝ𝙤𝐁Ěŝ
-
-“You’re back early.”
-
-“It ended sooner than expected. Where’s Erwen?”
-
-“She came back a while ago and is taking a bath.”
-
-Oh, so I can finally talk to her today.
-
-I went upstairs, took a bath, changed my clothes, and then went downstairs to the living room. Amelia and Erwen were sitting on the sofa, chatting.
-
-They seemed surprisingly close.
-
-Hmm, it must be because they went through hell together in Ice Rock—
-
-“Mister!!”
-
-Erwen jumped up and ran towards me.
-
-I stopped her with a gesture.
-
-“Erwen, I’m not your ‘Mister’ anymore.”
-
-“…Huh?”
-
-She looked deflated.
-
-“I’m Baron Bjorn Yandel!”
+If everything goes smoothly, she could end up being a wild card in my future conflict with the Marquis…
 
 “Ah…”
 
-Damn it, she’s not even excited.
+It’s a bit sad that I have to think about such things.
 
-Ainar would have cheered and celebrated with me.
+If I had remained a simple reader in the Library, it would have just been a happy reunion.
 
-“Bjorn, stop being silly and sit down.”
+“Why did it have to be the Marquis’s daughter…”
 
-“…Alright.”
+Moreover, the situation now involves Hyun-byeol, making it even more complicated.
 
-I sat down on the sofa, and the family meeting began. We had a lot to discuss, but the first topic was Erwen.
+“Well, I’ll know when I meet her.”
 
-“…It’s all settled. I returned the Divine Tree Bow, and the money I borrowed to buy this house… I’ll return it within a month.”
+After musing for a while, I soon arrived at the military air station and teleported to Ravigion, then changed carriages and headed home.
 
-She sounded guilty.
+“You’re home early?”
 
-I asked her why, and she said she felt bad about not being able to keep the house, which held so many precious memories…
+“It ended sooner than expected. Where’s Erwin?”
 
-“It’s fine. Why are you apologizing?”
+“She just came in and is washing up now.”
 
-I was actually more surprised that the fairy tribe had let her go so easily.
+Oh, then I might see her after a long time.
 
-The ‘Pureblood’ was a once-in-a-generation power.
+After showering and changing upstairs, I came down to the living room to find Amelia and Erwin chatting cozily on the sofa.
 
-I thought they might even demand her life.
+It seems they’ve grown closer than expected, perhaps thanks to their shared hardships in Ice Rock…
 
-‘This is the best possible outcome…’
+“Mister!!”
 
-I was suspicious, so I asked her how she managed to pull it off.
+Erwin sprang up and rushed toward me, and I had to hold her back.
 
-“My uncle helped me when I was arguing with the elders. I think that made a big difference.”
+“Erwin, I’m not your mister.”
 
-Her uncle…
+“…Eh?”
 
-He was a hero of the fairy tribe, if I remember correctly.
+Her face fell like a deflated doll as I corrected him.
 
-I wanted to meet him someday.
+“I am Baron Bjorn Jandel”
 
-“A month is a tight deadline.”
+As I continued, Erwin let out an awkward sound.
 
-Amelia brought up a realistic issue after Erwen finished her report.
+“Ah…”
 
-“We can sell this house to cover the debt, but we still need to find a new place to live.”
+“Ah…”
 
-“…What if we buy it back? We can afford it if we sell the loot.”
+Tsk, embarrassing a Barbarian like this.
 
-“Hmm. What do you think, Bjorn?”
+She’s not playing along. If it were Aynar, she’d be cheering in delight with me.
 
-“Hmm…”
+“Bjorn, cut the crap and sit down.”
 
-I thought for a moment and then said,
+“…Got it.”
 
-“Let’s stay at an inn for a while. Or maybe rent a house. It’ll be smaller than this one, but…”
+Looking dejected, I took a seat on the couch. Immediately, the family meeting began. Since it had been a while, there were plenty of items on the agenda, but first and foremost was, of course, Erwin.
 
-“…I-I see…”
+“…I managed to wrap things up. I’ve already returned the Divine Tree Bow, and the money I borrowed to buy this house… I promised to pay it back within a month.”
 
-Erwen seemed reluctant to sell the house, but she didn’t object to my decision.
+Erwin sounded like someone confessing a sin. When I asked why, she said she felt guilty for failing to keep a home full of precious memories.
 
-Geez, she can be honest with me.
+“It’s fine. There’s no reason for you to feel guilty.”
 
-“Don’t worry. This house… it’s just a temporary shelter.”
+Honestly, I’m more puzzled at the fairies for letting her go with just that.
 
-I told her about Melbeth’s offer to help us buy land and build a mansion.
+Since she’s a pure-blood, of which there’s only ever one in a generation, I thought they might even demand her life in the worst-case scenario.
 
-Her face brightened instantly.
+‘This is pretty much the best outcome…’
 
-“S-so the Yandel family will become a real noble family…!”
+Still, it went so well that I found it suspicious. I questioned her further, and Erwin explained the reason.
 
-“Yes, so tell me what you want when we’re designing the mansion.”
+“When I was butting heads with the elders, my uncle stepped in to help. I think that made a huge difference.”
 
-“…?”
+Her uncle, huh.
 
-“It’ll be your house too.”
-
-“!!!!”
-
-It seemed like she had forgotten all about her attachment to this house.
-
-“And yours too, Amelia.”
-
-I mentioned Amelia just in case she felt left out, and she sighed.
-
-But she still made a request.
-
-“…I want the navigator’s room to be bigger. With a window.”
-
-It seemed like she was worried about the navigator’s mental health.
-
-Maybe some fresh air would help?
+Come to think of it, he’s supposed to be something like a legendary hero among the fairies. I’d like to meet the man one day.
 
 ---
 
-“That settles the housing issue… What about the labyrinth expedition?”
+“By the way, a month is a pretty tight timeframe.”
 
-Amelia brought up the next topic.
+After Erwin’s update, Amelia brought up a practical issue.
 
-Our party was incomplete.
+“We can sell this house to raise the money, but we’ll still need a new place to live.”
 
-Ainar, Erwen, Amelia, me, and our navigator.
+“…We could buy it back ourselves. We might be able to afford it if we sell some of the spoils we got recently…”
 
-We were one member short of a full party.
+“Hmm. Bjorn, what do you think?”
 
-The problem was that we didn’t have anyone suitable to fill the vacancy.
+After thinking for a moment, I gave my opinion.
 
-I was planning to recruit all the expedition members into my clan eventually, but I didn’t want to rush things.
+“It might be better to live in an inn for a while, or rent somewhere. Of course, it would be much smaller than this mansion.”
 
-‘Raviyen or Bersil Gowland would be the safest options…’
+“…So, that’s it. I suppose…”
 
-But Bersil had said it would take at least a month for her to settle her issues with the church, and Raviyen had said she was taking a break from exploring.
+Erwin seemed reluctant to sell the house but didn’t argue against my suggestion.
 
-‘…Damn it, we’re still one member short.’
+She’s probably a bit sad to see it go, but she’s also being considerate of our situation.
 
-It was a shame to waste a month of exploration time.
+“Don’t worry too much about it. The house we have now, and any future house we buy—they’re just temporary places anyway.”
 
-I made my decision.
+When I mentioned that Melbes will help cover the cost of land and building a new estate, Erwin’s face visibly lit up.
 
-“I think it’s best if we explore as a five-man party this time.”
+“Then we’re really going to have a ‘House Jandel’— right…?!”
 
-“Five?”
+“Yeah. So when we draw up the design later, let me know if you want anything. We’ll include it all.”
 
-“It’s not unusual. Five-man parties were common a few years ago.”
+“…Huh?”
 
-“That’s… true.”
+“It’s going to be your house, too.”
 
-“We’ll be staying on the 6th floor, so it won’t be that dangerous.”
+“…!!!”
 
-“The 6th floor… Alright. I’ll let Lokrob know.”
+Judging by Erwin’s expression, all her regrets about selling this house disappeared in a flash.
 
-That settled the expedition issue.
+“Of course, Amelia, you too.”
 
-We had dinner and chatted for a while before going to bed.
+I mentioned Amelia as well, just in case she felt left out, and for some reason she looked at me and sighed deeply.
 
-And the next morning…
+Oh, and while sighing, she did mention what she wanted.
 
-We went to the guild branch and registered as clan members.
+“I’d like the sailor’s room to be a bit larger, with a window that lets in sunlight.”
 
-“H-hehe… Thank you, Mister.”
+The navigator had been feeling a bit down lately.
 
-I wish she would thank Amelia instead…
+Maybe some sea breeze would help?
 
-She even requested an extra copy of the document and carefully stored it away.
+---
 
-‘Now I have to find a Vice-Captain…’
+“That settles the housing issue… What about the Labyrinth exploration?”
 
-I had suggested to Amelia that she would be a good candidate, but she had refused immediately.
+With the housing issue resolved, Amelia brought up the next topic.
 
-She didn’t want to attract attention.
+Our party is still incomplete.
 
-Well, she was using a fake name, ‘Emily Raines’.
+Aynar, Erwin, Amelia, me, and our sailor.
 
-‘Who should I choose…’
+We need one more member to complete the six member team.
 
-It was an important position.
+The problem is, there’s no obvious candidate at the moment.
 
-The Vice-Captain could handle most administrative tasks that required the leader’s authority.
+I plan to eventually have all my expedition comrades join my clan, but moving too fast could cause issues.
 
-‘…Raven would have been perfect. She’s meticulous and efficient.’
+The only viable recruits at the moment might be Ravien or the mage Vercil Gowland, but…
 
-After registering our clan, we had lunch at a nearby restaurant.
+“Vercil said it would take a month to fully settle her affairs with the order, and Ravien said she’d take a break from exploration for a while…”
 
-“Bjorn, are you going to Commelby now?”
+Which means one slot remains empty.
 
-“No, I’m going to the temple first.”
+Taking a whole month off feels like a waste, so I made a decision.
+
+“This time, let’s go in with just us.”
+
+“All five of us?”
+
+“It’s not that unusual, is it? Until a few years ago, five-person parties were the norm.”
+
+“Well… that’s true.”
+
+“We won’t go up to the 7th floor, just stick to the 6th. I don’t think it’ll be too dangerous.”
+
+“Alright, the 6th floor… Got it. I’ll tell Roklov that, too.”
+
+And with that, the matter of labyrinth exploration was settled.
+
+We then had a casual dinner and chatted before going to bed.
+
+The next morning, we all went to the guild branch to complete our clan registrations.
+
+“Heh… Thank you. Mister.”
+
+I wish she’d thanked Amelia instead…
+
+Seeing her carefully store the extra copy of the document, I felt a twinge of guilt.
+
+“Phew, now to fill the deputy leader position.”
+
+I had hinted at Amelia being suitable when forming the clan, but she flatly refused.
+
+She didn’t want to attract people’s attention.
+
+Well, the name ‘Emily Raines’ she uses is an alias after all.
+
+“So, who should be the vice captain…”
+
+I sank into thought.
+
+The vice-captain position is the one that absolutely must be filled.
+
+Moreover, by registering the letter of delegation in advance, whoever held the position could carry out the administrative tasks that required the captain’s authority.
+
+‘…Raven would’ve been the perfect vice-captain. She was meticulous about taking care of the tedious duties.’
+
+After registering the clan members, we settled for a quick meal at a nearby restaurant.
+
+“Bjorn, so are we heading to Commelby now?”
+
+“No. First, to the temple.”
 
 “…The temple?”
 
-Amelia tilted her head in confusion, and then she realized.
+Amelia tilted her head for a moment, then quickly realized what I meant.
 
-“You’re going to remove the Gachabon essence.”
+“You want to remove the Essence of Gachabon, right?”
 
-“I don’t need to hide my appearance anymore.”
+“Now there’s no need to hide my appearance.”
 
-That was one of the reasons, but I had also been considering keeping it.
+I had been contemplating this issue even today. The Essence of Gachabon was quite beneficial, so I wondered if it might be better to keep it until I farmed the next essence.
 
-It was a decent essence.
-
-Maybe I should keep it until I found a better one.
-
-But…
+However…
 
 “There’s another reason, isn’t there?”
 
-“I got my old equipment back from Ainar and Abman. I can use it now that I’m back to my original size. And I might find a better essence while exploring the 6th floor. And I should visit the tribe someday. It wouldn’t be appropriate to go there in this form.”
+“Well, I did get my old equipment back from Aynar and Abman, and it’s a waste not to use it when I can—provided I go back to my old body. Plus, we might find a better Essence on the 6th floor. And I plan to visit the tribe eventually, so it’d be weird to show up with this body.”
 
 “Hmm…?”
 
-Amelia hummed thoughtfully, while Erwen looked disappointed.
+Amelia let out a curious little hum in response. Erwin, on the other hand, looked disappointed.
 
-“Uh… so you’re going to be big again…?”
+“Oh… So you’re going back to how you were before…?”
 
-“Yes.”
+“Yeah.”
 
-“I liked you like this…”
+“I kinda liked how you look now…”
 
-She has strange taste.
+I’ll never understand that sense of aesthetics. What’s so great about this skinny body?
 
-What does she even like about this scrawny body?
+“Then I’ll be back.”
 
-“I’ll be back soon.”
+After arriving at the temple, I went in alone and underwent the process to remove the essence.
 
-I went to the temple alone and had the essence removed.
+「The [Essence of Gatchabon] infused in the character’s soul has been removed.」
 
-「The [Gachabon Essence] that had been absorbed into the character's soul has been removed.」
+[Your Sixth Sense decreases by -40.]
 
-「Sixth Sense decreased by -40.」
+[Your Physical Resistance decreases by -15.]
 
-「Physical Resistance decreased by -15.」
+[Your Dark Resistance decreases by -30.]
 
-「Darkness Resistance decreased by -30.」
+[Your Accuracy decreases by -45…]
 
-「Accuracy decreased by -45…」
+[Your Bone Density decreases by -110.]
 
-My stats decreased.
+My stats plummeted—
 
-「Bone Density decreased by -110.」
+「Bone density decreases by -110.」
 
-And my height increased.
+「Increased height.」
 
-「Control increased by +30.」
+「Control increases by +30」
 
-At least my mind feels clearer.
+Anyway, it seems like my mind has also cleared up a bit.
 
-「Luck increased by +50.」
+「Luck +50 increase.」
 
-And my luck must have improved too.
+At least my most important stat—luck—also improved a little.
 
-Swoosh.
+Swish.
 
-I got dressed and looked at my reflection in the mirror.
+I took a moment to adjust to my changed eye level, then pulled out the clothes I’d brought and put them on. Finally, I looked in the mirror to confirm my reflection.
 
-‘Whew, I’m finally back to my original form.’
+‘Phew, I’m finally back to my original body.’
 
-I’m really big.
+It really hits me again how big I am.
 
-I wanted to roar, but I suppressed the urge.
+I felt like calling upon the name of our ancestral gods, but with my superhuman willpower, I held back.
 
-This was a temple.
+After all, this is a temple.
 
 ---
 
-「Bjorn Yandel」
+「Bjorn Jandel」
 
-Level: 7
-
-Physical: 1,390.55 (New -54.5) / Mental: 521.3 / Ability: 2,197.65
-
+Rank: 7
+Physical: 1,390.55 (New -54.5) / Mental: 521.3 / Special Abilities: 2,197.65
 Item Level: 6,285 (New -2,020)
-
-Total Combat Power: 5,680.75 (New -575.58)
-
-Absorbed Essences: Orc Hero - Rank 5 / Ogre - Rank 3 / Bion - Rank 3 / Stormgush - Rank 3 / Vol-Herchan - Rank 3 / Deep Sea Giant - Rank 3
+Total Combat Index: 5,680.75 (New -575.58)
+Essences Acquired: Orc Hero (Rank 5) / Ogre (Rank 3) / Bayon (Rank 3) / Stormgush (Rank 3) / Bol-Herchan (Rank 3) / Deepsea Giant (Rank 3)
 
 ---
 
-Erwen and Amelia’s reactions were completely different.
+When I left the temple, the reactions of my two companions were poles apart.
 
-“Hehe, Mister! You look cool! Just like when we first met!”
+“Hey, Mister! You look cool this way too! Just like when we first met!”
 
-Erwen, who had been disappointed, was now praising me.
+Erwin, who had shown regret earlier, now complimented me.
 
-“…You look better this way.”
+“…Well, it’s definitely better than before.”
 
-Amelia, on the other hand, was still blunt.
+Meanwhile, Amelia, who had no particular comment up to now, drove a nail right into my warrior’s heart.
 
-But she added,
+She muttered something under her breath.
 
-“But… maybe this is better.”
+“But… in some ways, this might actually be an improvement.”
 
-“Huh? What do you mean?”
+“Huh? What’s that supposed to mean?”
 
-“You’re better off being ugly.”
+“I mean you’re better off looking ugly.”
 
-“I’m not ugly, I’m manly!”
+“I’m not ugly. I look manly.”
 
 “Pfft…”
 
-“…Are you laughing at me?”
+“…Did you just laugh at me?”
 
-I wanted to scold her, but I held back.
+‘Home training.’
 
-She was a precious comrade.
+The phrase came to mind, but I held back.
 
-And she really didn’t have any manners.
+After all, she’s a precious comrade.
 
-‘…I would have lost it if my Control stat hadn’t increased.’
+And she really didn’t receive proper home training.
 
-Anyway, we headed towards Commelby, as planned.
+Ah, I should let it slide as the clan leader.
 
-Not all the expedition members lived in the 7th District.
+‘…If it weren’t for my restored control, that might’ve gotten dicey.’
 
-We decided to meet in Commelby, the city center.
+Anyway, we headed to Commelby as originally planned.
 
-“This is it.”
+Not all of our expedition members live in Zone 7.
 
-We entered a building that Bersil had rented for the day, and I saw familiar faces.
+We agreed to meet in Commelby
 
-“Haha, you’re finally here. Viscount Yandel… or should I call you Baron now?”
+As soon as we entered the building Vercil had rented out for the day, familiar faces gradually appeared.
 
-Meland Kaislan.
+“Haha, finally, you’ve arrived. Jandel Baron… or should I say Baron now?”
 
-“…Oh my, you’ve changed.”
+Melend Kaislan.
 
-Liris Marone, James Kala, Sven Parab…
+“…Oh my, your appearance has changed?”
 
-The survivors of Ice Rock were gathered here, marveling at my transformation.
+Lyris Marone, James Carla, Sven Parab, and others
 
-“Bersil, where are Akuraba and Raviyen?”
+The members of my unit who had survived the cold and hunger of the Ice Rock gathered around me, wondering at my transformation.
 
-“They couldn’t make it.”
+“Vercil. Where are Akuraba and Ravien?”
 
-“So everyone else is here.”
+“They both said they couldn’t make it, due to personal reasons.”
 
-“Of course. They were all curious.”
+“At least everyone else is here.”
 
-Well, I was curious too, so they must have been even more so.
+“Well, I suppose everyone was curious.”
 
-“How’s the security?”
+Well, I was curious myself, so imagine how they must feel.
 
-“Don’t worry about surveillance. This place doesn’t even have windows, and the voice control magic is active. I even set up a mana detection field, just in case.”
+“What about the surroundings?”
 
-…She’s good at this.
+“No need to worry about surveillance. I deliberately picked a place with no windows, we’ve got voice-dampening magic active, and I’m also doing real-time mana detection just in case.”
 
-I should ask her if she’s interested in being the Vice-Captain.
+…She really is a proper mage. Makes me think I should subtly ask her later if she’s interested in becoming the vice-captain of our clan.
 
-“Baron Yandel!”
+“Baron Jandel!”
 
-“Just call me Leader.”
+“‘Baron Jandel’? Just call me Chief.”
 
-We chatted for a while, catching up on each other’s lives.
+Reuniting after so long, we spent some relaxed time catching up on recent news. After a while, the conversation naturally turned to what everyone was really waiting for.
 
-And then…
+“By the way… when are we going to do that?”
 
-“Um… when are we going to do it?”
+They were talking about opening that subspace pouch we looted from the Rose Knights.
 
-The opening ceremony for the subspace pockets we had looted from the Rose Knights.
+“When we first opened it, all we found was the backpack we’d stuffed in there ourselves, so we just assumed that was it.”
 
-“I thought they were empty because there was nothing in them except for our backpacks.”
+I thought so too—until I realized that wasn’t the case.
+There was some hidden item in there, and if you want to retrieve it, you have to alter the subspace’s binding formula or whatever.
 
-I had thought the same.
+Well, at least according to what the mage Vercil had discovered and told me.
 
-But then I found out it wasn’t true.
+“All right, everyone come this way. I’ve prepared plenty of neutralizing spells.”
 
-There was something hidden inside, and we needed to adjust the Bonding magic to access it.
+Even I was a little nervous about opening them.
 
-Bersil, the mage, had discovered it…
+“Really… what’s inside?”
 
-“One at a time, please. I’ve prepared enough reagents.”
+“I was a bit disappointed at first, but now I’m actually looking forward to it.”
 
-I was a bit nervous.
+“Heh… I guess all of you have also been waiting to open yours? I didn’t even consider opening mine because I was worried about being watched.”
 
-I had never done this before.
+What were the Rose Knights trying to hide by going to such lengths for their security?
 
-“I wonder… what’s inside…?”
+I have no idea what it might be, which is exactly why I removed the Essence of the Gachabon ahead of time.
 
-“I was disappointed at first, but now I’m even more excited.”
+“So… now that it’s over…?”
 
-“Phew… you all opened them already? I didn’t even think about it, I was too worried about being watched.”
+“Let’s open it!”
 
-What could they have been hiding so carefully?
-
-I didn’t know.
-
-That’s why I had removed the Gachabon essence today.
-
-“So… is everything ready…?”
-
-“Let’s open them!”
-
-I hoped luck would be on my side today.
+Here’s hoping we’re lucky today.

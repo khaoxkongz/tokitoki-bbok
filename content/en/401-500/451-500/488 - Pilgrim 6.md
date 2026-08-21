@@ -1,513 +1,485 @@
-# Pilgrim 6
+Pilgrim (6)
 
-Among the various detection abilities, there were some with a precognitive concept.
+Among the many detection-type abilities, there are some with a foresight concept.
 
-A prime example was [Hands of Regret].
+A prime example is the [Needle of Regret].
 
-A 1st-grade skill obtained from a 9th-floor or higher essence.
+A Rank 1 Essence Skill that can be looted from the ninth floor or above.
 
-The effect was simple.
+Its effect is simple.
 
-In the game, when a bonded teammate died, the message “Memories of regret rewind time” would appear, and you could restart from a checkpoint.
+In the game, once you acquire this skill, whenever a party member dies, the message “Memories of regret rewind time” appears, allowing you to restart from the branching point.
 
-Hmm, was that really precognition?
+Hmm, maybe it’s not exactly ‘foresight’?
 
-Anyway, this skill had a clear drawback despite its powerful effect.
+Anyway, this skill, being absolutely broken, also has some very clear drawbacks:
 
-It only activated when a bonded teammate died.
-
-It had a cooldown of several months in the city.
-
-And it could only be used three times.
-
-It didn’t even activate if you died.
-
+It can only activate if the deceased companion is in a “bonded” state with you.
+It has a reuse cooldown of several months in city time.
+You can only use it up to three times in total.
+And if you are the one who dies, it doesn’t activate at all.
 Therefore…
 
-‘It’s not that skill.’
+“So, it’s definitely not that skill.”
 
-We weren’t bonded, and judging by our conversation, Ainar had already used her ability at least twice.
+We’re not even bonded right now, and judging by our conversation earlier, it seemed she’d already used it at least twice. So it couldn’t be that skill.
 
-‘The most likely candidate is…’
+“The most plausible one… must be…
 
-I narrowed it down to one possibility.
+I soon arrived at the candidate that made the most sense:
 
-[Prophet of Misfortune]
+[Prophet of Misfortune].
 
-A rare 6th-grade passive skill.
+A Level 6 passive skill that’s extremely difficult to acquire.
 
-It activated randomly and provided the user with precognitive information through system logs.
+If you have it, it activates randomly, and you can receive bits of future information—like hints—through the system log.
 
-Like this:
+Something along these lines:
 
-「An ominous vision appears before the prophet's eyes.」
+[An ominous vision haunts the prophet’s eyes]
 
-「In the near future, Bjorn Yandel will be slain by Centurion Dreadfear's sword. Do not be fooled by his absence. He will never give up.」
+[In the near future, Bjorn Jandel is killed by the sword of Captain Dreadfear, Do not let your guard down just because he is out of sight. He will never give up on you]
 
-I had classified this skill as an information gathering skill, and it had been quite useful in the mid-game.
+And instead of a few lines of text, you’d experience those events firsthand with your own eyes.
 
-Knowing the location of traps, the types and characteristics of monsters… it had been a great help in unexplored areas.
+“Huff… huff… ….”
 
-But…
+“…Aynar, is it possible you saw me dying?”
 
-‘It must be different in reality.’
+“……”
 
-The user would actually see a ‘vision’.
+Once again, she didn’t answer.
 
-And they would experience the information firsthand, not just read it in a few lines.
+But that slight flinch of her body told me everything I needed to know.
 
-“Huff… Huff…”
+“So that’s why she’s pushing himself so hard…”
 
-“…Ainar, did you see me die?”
+I clamped my mouth shut.
 
-“…….”
+No matter how I tried, I wouldn’t be able to persuade her.
 
-She didn’t answer.
+This was all I could do right now.
 
-But her flinch was enough of an answer.
+“Go left.”
 
-‘So that’s why she’s pushing herself so hard…’
+I guided her in the right direction.
 
-I closed my mouth.
+And then—
 
-There was no point in arguing with her.
+Crunch.
 
-She wouldn’t listen.
+I clenched my teeth tight.
 
-All I could do was…
+“Bethel—raaahhhhh!!”
 
-“Left.”
+All I could do was cling powerlessly to Aynar’s back as she charged barehanded through the soldiers.
 
-…guide her.
+Thwack!
 
-And…
-
-Grit.
-
-…clench my jaw.
-
-“Behel—laaaaaaaaaa!!”
-
-I was helplessly riding on her back as she charged through the soldiers.
-
-Puk-!
-
-An arrow pierced her leg.
+An arrow pierced my leg.
 
 “Die!”
 
-A spear grazed her skin.
+Their sharp spears slashed through her skin, leaving deep cuts.
 
-I could only watch.
+That was all I could do—watch as it happened.
 
-“We got him! Now’s our chance…!”
+“Got her! Now, quickly…!”
 
-“Uwaaaaaaaaaaah!!”
+“Uwaaaaaaaah!!”
 
-“…What power…!”
+“…What kind of strength is this!”
 
-Ainar finally stopped running.
+Aynar finally stopped after a long, desperate charge.
 
 Not because we had reached our destination.
 
-We were still far from the entrance, but she couldn’t go any further.
+There was still a way to go to the cave entrance, but it was too much now.
 
-Not while carrying me.
+To keep going while protecting me.
 
 Thud.
 
-Her speed had decreased due to her injuries, and the soldiers were closing in.
+As injuries piled up and her speed slowed, the pursuing soldiers began to close the distance, and Ainar had to end his reckless dash.
 
-She stopped running and turned to face them.
+And…
 
-“Don’t… worry…”
+“Don’t worry… not at all.”
 
-She muttered and then swung her greatsword.
+With those words, she swung her weapon against the soldiers flooding in like a tide.
 
-I watched her from my spot on the wall.
+I could only sit by the wall, watching his back helplessly.
 
 One, two, three, four, five, six…
 
-She slew seven soldiers before an axe struck her arm.
+Seven, when an axe embedded in Aynar’s forearm.
 
 Thirteen, fourteen, fifteen, seventeen…
 
-She killed eighteen before a spear pierced her collarbone.
+Eighteen, when a spear pierced her collar area.
 
 Forty-three, forty-four, forty-five…
 
-Forty-six, and an arrow struck her left eye.
+Forty-six, when an arrow pierced her left eye.
 
-Seventy-one, seventy-two, seventy-three…
+Seventy-one, seventy-two, seventy-three.
 
-The bodies piled up.
+As time passed, numerous bodies piled up.
 
-One hundred.
+A hundred.
 
-A brief silence.
+A brief silence fell.
 
-The soldiers hesitated, unable to approach her.
+Despite arrows sticking out all over her body and blood pouring from her wounds, Aynar stood firm, and the soldiers hesitated to close in.
 
-She was still standing, despite being covered in arrows and bleeding profusely.
+“…”
 
-“…..”
+“…”
 
-“…..”
+Of course, the moment was very brief.
 
-But the silence didn’t last long.
+“She’s tired too…! Don’t give in!”
 
-“She’s tired…! Don’t back down!”
-
-The soldiers charged at her again, stepping over the corpses.
+The soldiers stepped over the piled bodies, swinging their weapons again.
 
 One hundred and thirty.
 
-Ainar spoke to me.
+Aynar apologised to me.
 
 “Sorry…”
 
-“…….”
+“…”
 
-“I’m… losing my strength…”
+“My strength… is failing…”
 
-She collapsed on top of me.
+Then Aynar collapsed on top of me.
 
-Puk, puk, puk-!
+Thwok, thwok, thwok!
 
-I heard sounds that shouldn't be coming from my comrade's body.
+Sounds that shouldn’t come from the body of a companion reached my ears.
 
-BEEEEEEEEP—
+Piiiiiiii-
 
 It felt like a nightmare.
 
-My head was pounding, and I felt nauseous.
+My head was numb, dizzy and I felt like vomiting.
 
-Puk, puk, puk—
+Thud, thud, thud –
 
-BEEEEEEEEP!
+Piiiiiiii-!
 
-Countless sounds assaulted my ears.
+Countless noises came in rapid succession.
 
-And after an eternity...
+And for what seemed like an eternity, it happened
 
-My body, which had been frozen in place…
+Eventually, my body, which had been paralyzed and forced to watch helplessly—
 
-Twitched.
+…twitch.
 
----
+—began to move.
 
-「Character's HP has reached 30%.」
+[The character’s hp has reached 30%.]
 
-「Status effect [Paralysis] removed.」
+[The status abnormality [Paralysis] is lifted.]
 
----
+I reached out my hand, grabbing any weapon that came within reach.
 
-I reached out and grabbed the nearest weapon.
+Then, pushing Aynar’s body off, I stood up.
 
-I pushed Ainar off me and stood up.
+Whooosh!
 
-Whoosh!
+I swung the weapon broadly.
 
-I swung the weapon.
+The soldiers, startled, stepped back, creating a slight gap. Seizing it, I hoisted Aynar onto my back and began to run.
 
-The soldiers flinched and backed away, creating a small opening.
+Just as Aynar had carried me before.
 
-I lifted Ainar onto my back and started running.
+“Uaaaaaaaaah—!!”
 
-Just like she had done for me.
+I ran through the corridor filled with soldiers.
 
-"Uwaaaaaaaaaaah!!"
+“Block them!”
 
-I charged through the passage.
+Weapons flashed, aimed to cut me off.
 
-"Stop him!"
+With each step forward, more wounds accumulated on my body.
 
-Swords and spears were thrust towards me, but I ignored them, tanking the damage as long as it wasn't aimed at Ainar.
+Even so, I neither blocked nor dodged.
 
-「Character's HP is below 15%.」
+As long as the blades weren’t aimed at Ainar, I took them head-on, relying on my tank-like endurance to keep charging.
 
-My body was battered and bruised, but I had broken through their lines.
+I don’t know how long I ran like that—
 
-"Huff... Huff..."
+[Character’s HP has fallen below15]
 
-I had some breathing room now.
+The body that had just recovered was once again ragged, but I managed to break through the encirclement.
 
-I checked on Ainar.
+“Huff… huff…”
 
-"Ainar! Are you okay?! Wake up! You can't sleep now! Get up—!"
+Finally, there was a brief respite.
 
-A faint voice reached my ears.
+I kept running as I checked Aynar’s condition.
 
-"...Bjorn..."
+“Aynar! Are you okay? Wake up! Don’t fall asleep! Come on—!”
 
-"...!"
+Just then, I heard a faint voice in my ear.
 
-She was alive.
+“…B–jorn…”
 
-"Th-Thank goodness... Are you okay? Just hold on a little longer! Eight more minutes!"
+“……!”
 
-Then we could leave this cave.
+So she was still alive.
 
-I wasn't sure if that was the clear condition, but considering the difficulty of this event, there had to be a way to recover.
+“Th–thank goodness. Y–you’re tired, right? But hold on just a little longer! Ten minutes! No, maybe eight minutes is enough!”
 
-"So...!"
+Then we could get out of this cave.
 
-Just trust me and hold on a little longer.
+I’m not sure if that’s the actual condition for clearing this place, but given how absurdly hard it is to escape, there’s a good chance we’ll find some means to recover in the next chapter.
 
-I was about to say that when Ainar spoke.
+“So—!”
 
-"...Let... me go..."
+Just keep trusting me a bit longer—
 
-What was she talking about?
+As I was about to continue, Ainar spoke in a low voice.
 
-Was she delirious?
+“…Let… go…”
 
-"L-Leave me... behind..."
+What on earth was she talking about?
 
-No, I had heard her correctly.
+Her speech was slurred and quiet, making me wonder if I had misheard.
 
-I was angry, but I couldn't bring myself to scold her.
+But then…
 
-"You're delirious. Just stay quiet. That's all you can do."
+“Leave me… go…”
 
-"..."
+…I had heard right.
 
-She didn't say anything more.
+For some reason, I felt angry, but I couldn’t bring myself to speak harshly to someone in such bad shape.
 
-Maybe she had agreed.
+So I decided to ignore it.
 
-Or maybe she was too weak to speak.
+“You must’ve lost too much blood, and it’s messing with your head.”
 
-'...Is she dead?'
+“…”
 
-I swallowed my anxiety.
+“Just stay still then. That’s all you can do.”
 
-And then I ran.
+Whether she chose to follow my advice or simply had no strength left, I couldn’t tell.
 
-I could smell the forest as I approached the entrance.
+But Aynar didn’t speak again.
 
-The light from outside seeped into the cave, illuminating the passage.
+‘…She’s not dead, is she?’
 
-I could see the entrance in the distance.
+I swallowed my anxiety with a dry gulp.
 
-"Ainar! Ainar! Wake up! We're almost there!"
+And I ran forward as if my heart would burst.
 
-"..."
+In the distance, I could see the dazzling cave opening.
 
-"Answer me!"
+“Aynar! Aynar! Get a grip! We’re almost outside!”
 
-"...Be... careful..."
+“…….”
 
-What was she talking about?
+“Say something!”
 
-Anyway, she was alive.
+“……Be… care…ful.”
 
-That was enough.
+What is she talking about?
 
-I had to get out of here—
+Anyway, at least she was alive. That was enough.
 
-"...?"
+So let’s just get outside—
 
-I stopped as I reached the entrance.
+“……?”
 
-I approached the transparent barrier and reached out.
+I reached the cave entrance and came to a stop. Moving closer, I stretched out my hand toward the translucent barrier.
 
-And then...
+For some reason—
 
-Thud.
+Thunk.
 
-The entrance was blocked.
+The way out of the cave was sealed off.
 
-"...You've got to be kidding me."
+“…………Don’t fuck with me.”
 
-If we couldn't escape, then what was the point?
+If escaping isn’t the goal, then what is?
 
-They had given us an invincible boss and then blocked the exit?
+What? Make a boss that can’t be defeated and then also block the exit?
 
-"Then what's the solution...?"
+“Then what the hell… are we supposed to do to clear this…?”
 
-I felt like something inside me had shattered.
+I felt like some crucial support I’d been clinging to had just crumbled inside me.
 
-"B-Bjorn..."
+“B–bjorn…”
 
-But I smiled.
+But I just smiled.
 
-"A-Ainar? Don't worry! I'll break through this barrier!"
+“A- Aynar? Don’t worry! I’ll smash this stupid barrier in no time!”
 
-A barbarian's spirit was unyielding.
+If something stands in your way, you break through it—that’s the barbarian way.
 
-Klang! Klang! Klang!
+Boom! Boom! Boom!
 
-I punched the barrier with all my might.
+I hammered my fists into the barrier with every ounce of strength.
 
-"Bjorn..."
+“B–bjorn…”
 
-But it didn't even budge.
+Unfortunately, the barrier didn’t budge an inch.
 
-But a barbarian never gave up.
+But a barbarian also never knows the meaning of surrender.
 
-"S-Stop..."
+“St–stop…”
 
-Fist, foot, forehead.
+Fists, feet, forehead…
 
-I even slammed my shoulder against it.
+I hurled myself at the barrier with every part of my body—shouldering it with my full weight—
 
-Kwaaang!
+Booom—!
 
-'Is this thing indestructible?'
+What, did they slap some kind of “invulnerable” trait on this thing?
 
-'Okay, Plan B.'
+Okay, time for Plan B.
 
-I changed my target and started attacking the wall next to the barrier.
+Changing strategies, I turned my attention to the wall beside the barrier.
 
-Even the strongest doors had weak points.
+No matter how sturdy the door is, the wall around it might not be.
 
-Maybe there was a hidden passage.
+Maybe there’s a way out that way.
 
-"Stop... and..."
+So—
 
-Klang-!
+“Sto…p… already…”
 
-"Just go..."
+Boom—!
 
-"..."
+“Just… go…”
 
-"Before he comes..."
+“……”
 
-I couldn't take it anymore.
+“Before… he shows up…”
 
-Kwaaang!
+I couldn’t hold back any longer.
 
-I slammed my forehead against the wall in frustration.
+Boooom—!
 
-But it didn't make me feel any better.
+I slammed my forehead against the immovable wall in frustration.
 
-"There he is...!"
+Far from feeling relieved, my chest still felt suffocating.
 
-The soldiers appeared behind us.
+“There they are…!”
 
-They had caught up to us already? I didn't even have time to be surprised. I charged at them.
+Soldiers appeared behind me.
 
-Crack-!
+Already? I didn’t even think about how they closed the distance so quickly. Instead, I felt relieved and immediately charged at them.
 
-I smashed the first soldier's head against the wall and took his weapon.
+Crack!
 
-And then the massacre began.
+I smashed the first one against the wall, crushed him, and snatched his weapon to begin a true slaughter.
 
-"...A-A demon!"
+“He’s a demon!”
 
-"Don't back down!"
+“Don’t retreat!”
 
-"For the Empire...!"
+“For the empire…!”
 
-One, two, three, four...
+One, two, three, four…
 
-'Five.'
+‘Five.’
 
-Six, seven, eight...
+Six, seven, eight…
 
-'...How many have I killed?'
+‘…How many was it?’
 
-I lost count.
+I didn’t know, so I started counting again from the beginning.
 
-One, two, three...
+One, two, three…
 
-Crack! Crack! Crack!
+Crack, crack, crack-!
 
-The cave fell silent.
+By the time I came to my senses, the surroundings were eerily quiet.
 
-Only corpses remained.
+Only corpses remained, and not even the faintest breath could be heard.
 
-I turned around.
+Realizing something belatedly, I turned around.
 
-"...Ainar."
+“…Aynar.”
 
-I rushed to her side and checked her pulse.
+I rushed over to check on her and thankfully, Aynar was still breathing.
 
-She was still breathing.
+Faintly and roughly, as if it could stop at any moment.
 
-Faintly.
+“Björn…”
 
-"Bjorn..."
+Sensing my presence, Aynar lifted her eyelids shakily.
 
-She opened her eyes, her body trembling.
+“…”
 
-"..."
+I couldn’t find the words.
 
-I couldn't speak.
+It should be words like, it’s okay, don’t worry, or we’ll be out soon.
 
-I wanted to tell her it was okay, that she would be fine, that we would get out of here...
+“Jandel’s, son… Björn.”
 
-But I couldn't.
+Staring down at her blankly, Aynar weakly curled the corners of her lips.
 
-"Bjorn... son of Yandel..."
+“My… precious… friend…”
 
-She smiled weakly.
+It felt like a thick stake was driven through my heart.
 
-"My... precious... friend..."
+Precious friend…
 
-Her words were like a stake through my heart.
+“You will be… a great… warrior…”
 
-Precious friend...
+A painful truth or a sweet lie.
 
-"You... will become... a great warrior..."
+It’s obvious which one you should offer to someone on the brink of death.
 
-Something inside me broke.
+But…
 
----
+“A precious friend,” huh…
 
-A painful truth, or a sweet lie.
+Even before I could make that simple judgment, my mouth opened of its own accord,
 
-It was clear which one was better for the dying.
+A confession and an apology all at once.
 
-But...
+“I… I’m not… that person…”
 
-'Precious friend...'
+There really is a Bjorn Jandel out there.
 
-Before I could even think, the words tumbled out of my mouth.
+I’m just a evil spirit that stole his body.
 
-It was a confession and an apology.
+Yes, the evil spirit you said you’d smash on the spot if you ever met it—
 
-"I'm... I'm not... like that..."
+That spirit is me.
 
-The real Bjorn Yandel was someone else.
+I kept mumbling these words to Aynar, who was staring at me with unfocused eyes.
 
-I was just an evil spirit who had stolen his body.
+At some point, I came back to myself.
 
-The evil spirit she should have killed on sight.
+“……”
 
-I mumbled those words, staring at her unfocused eyes.
+Aynar was no longer breathing.
 
-And then I realized...
+Her eyes, still open, were fixed on me, but there was no sense in denying the truth.
 
-"..."
+[The third pilgrim has died]
 
-...she had stopped breathing.
+Aynar was gone. And with that—
 
-Her eyes were still open, but there was no denying it.
+[All stats of surviving pilgrims have increased by +400]
 
-「The third pilgrim has perished.」
+My stats rose once more. From that, I understood:
 
-Ainar was dead.
+[You are the only survivor]
 
-And...
+So this was how stats were gained…
 
-「All stats of the surviving pilgrim increased by +400.」
+And then—
 
-My stats increased again.
+[Special Condition – Perfect Bond has been fulfilled]
 
-That's when I understood.
+[All stats are multiplied by 3]
 
-「You are the only survivor.」
+[Eliminate the Lord of Fear, Dread Fear]
 
-When the stats increased.
-
-And...
-
-「Special Condition - Perfect Bond has been met.」
-
-「All stats tripled.」
-
-「Slay Centurion Dreadfear.」
-
-What the clear condition of this hidden phase was.
+That’s what the real strategy for this hidden phase had been all along.

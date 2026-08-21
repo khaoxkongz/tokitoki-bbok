@@ -1,471 +1,447 @@
-# Proof 3
+Proof (3)
 
-「Character has entered the Witch's Cabin.」
+[The character enters the witch’s hut]
 
-It was my first time visiting the Witch's Cabin since the incident with Misha. It was much different from the last time I was here.
+It was my first time back at the witch’s hut after getting stranded with Misha. A lot of things have been changed since I was last here.
 
-Swaaaaaaaaaa!
+Swoooooosh—
 
-The lush green lawn and the trees with their thick foliage were gone.
+No more grass lawns filled with wildflowers, nor the lush green trees with abundant leaves.
 
-"...Snow?"
+“…Snow?”
 
-A white expanse of snow stretched out before me.
+It was a snow-white expanse.
 
-The trees were bare, their branches covered in snow, and in the distance, I could see a lone cabin.
+The trees were all dried up and looking pretty rough, and in the distance, one lone cabin stood between them.
 
-"Whoa! It's snow! It's so cold!"
+“Whoa! Is this snow?! Wow, it’s actually cold!”
 
-Ainar was like a child, excited by the snow.
+Aynar, seeing the snow on the ground, was thrilled like a child.
 
-Well, it didn't snow in Lafdonia.
+Well It’s understandable, as Raphdonia never experiences snowfall.
 
-Except for Ice Rock, a few islands on the 6th floor, and some rifts, snow was a rare sight. Even the Frost Canyon on the 5th floor was just a frozen wasteland.
+Besides a couple of islands on the 6th floor of Icelock and a few rifts, it’s tough to spot any snow. The Frost Canyon on the 5th floor feels more like an icy field than a snowy area.
 
-"Lokrok! Come here!"
+“Hey, Rokrok! Come over here!”
 
-"...It's Auyen Lokrob."
+“…It’s not ‘Rokrok.’ It’s Auyen Roklov.”
 
-"Don't be so uptight! This is how we bond! Anyway, come here!"
+“Ah, don’t be so stiff! This is how we become friends! Anyway, come over!”
 
-"...U-Uh...?"
+“…Ugh, ack?”
 
-Amelia tried to correct her, but Ainar ignored her and dragged Auyen away to play in the snow.
+Amelia tried to correct the mistake, but Aynar dragged Auyen off to have a snowball fight.
 
-"Ow! That hurts! Raines...!"
+“Ouch! Ah, it hurts! Miss Reinz…!”
 
-"...Yandel, are you just going to watch?"
+“…Jandel, you’re just going to stand and watch?”
 
-Amelia complained, but I ignored her.
+Amelia sounded like she wanted someone to stop them immediately.
 
-Barbarians could enjoy snowball fights too.
+Well, can’t a Barbarian enjoy a little snowball fight?
 
-"Just leave them alone. They'll be busy with Erwen's essence for a while."
+“Just leave them. We’ll be busy checking Erwen’s Essence for a while anyway.”
 
-"So you're not going to intervene?"
+“So basically, you have no intention of solving this.”
 
-"No, that's not what I meant..."
+“No, that’s not what I mea—”
 
-"Just go and check on the essence. I'll stay here."
+“Enough. Go check the Essence. I’ll stay here.”
 
-"...You're not coming?"
+“…You’re not coming with us?”
 
-"I need to teach them a lesson."
+“I’ve been thinking I’d need to put them in their place one day anyway.”
 
-Amelia didn't understand, but she went to check on Erwen.
+With that cryptic remark, Amelia leapt forward to where Auyen and Aynar were.
 
-And...
+And then…
 
-"Oh! You want to play too?!"
+“Oh! Are you joining us?!”
 
-"Yes."
+“Yes.”
 
-Amelia activated [Self-Replication] and started throwing snowballs at Ainar.
+After activating even [Self-Replication], she began hurling snowballs at Aynar in rapid succession.
 
-"Hahaha! Take this!!"
+“Hahaha! Hah hah! Take this!!”
 
-Ainar was enjoying herself at first, but her smile soon vanished.
+At first, Aynar was pleased to have another playmate, but it didn’t take long for his smile to vanish.
 
-"...U-Urgh! What are you—?!"
+“Ugh! Argh! What are you—?!”
 
-Amelia tackled Ainar to the ground and started rubbing her face in the snow.
+Not content with flipping her over by grabbing her arm and slamming her onto the snowy ground, Amelia proceeded to rub Aynar’s face into the snow.
 
-"Mmmmph...!"
+“Mmff…!”
 
-"Here's the snow you love so much."
+“There you go, you like snow so much.”
 
-"Th-This isn't the kind of snowball fight I imagined—!"
+“This—this isn’t the kind of snowball fight I heard abou—!”
 
-"Why do we need rules?"
+“Why would there be any rules in a fight?”
 
-"U-Urgh! I'm not going to just stand here and take this!!"
+“Agh, I won’t just sit back and take this!”
 
-Ainar struggled to get up, but Amelia pinned her down, her legs wrapped around Ainar's arms.
+Aynar quickly used his brute strength to get up, but Amelia jumped on his back, locking her arms with her legs.
 
-And...
+And then…
 
-"What are you going to do about it?"
+“What are you going to do if you won’t let me do this?”
 
-She used her clone to pelt Ainar's face with snowballs.
+Her clones mercilessly planted snowballs in his unguarded face.
 
-Thump! Thump! Thump! Thump!
+Thwack! Thwack! Thwack! Thud—!
 
-It was like a pitcher throwing at a target.
+It was like a skilled pitcher aiming at a perfect target.
 
-"...Mister?"
+“…Mister?”
 
-"...Let's go."
+“…Let’s just go.”
 
-"Okay."
+“Yes.”
 
-We left the three of them to their snowball fight and headed towards the back of the cabin.
+After watching for a while, we left the three of them alone and headed to the back of the cabin. After all, there’s no better training ground than the witch’s hut.
 
-The Witch's Cabin was the perfect training ground.
+Not only is it a private environment, but unlike a city training ground, there’s no risk of destroying anything we’d have to pay for later.
 
-It was a private location, and we didn't have to worry about breaking anything and paying for damages like we did in the city training grounds.
+“Erwin, have you gotten used to it?”
 
-"Erwen, have you adapted to the essence?"
+“Yes.”
 
-"Yes."
+“Noticing any changes?”
 
-"How do you feel?"
+“I’m not sure. It feels like all of my abilities have improved overall, but I don’t sense a dramatic increase in any single aspect…”
 
-"I don't know... I feel stronger overall, but I can't pinpoint any specific changes..."
+“There must be more?”
 
-"There must be other changes."
+“…I’ve been having a terrible headache.”
 
-"...My head hurts."
+Not just hurting—probably hard to endure.
 
-It wasn't just a headache, it was probably a mental strain.
+Still, if I compare it to the time before, the fact she isn’t making a big deal about it means she’s drastically improved.
 
-Well, it was still a huge improvement compared to her previous state.
+“Don’t worry too much. It’s because of the Essence.”
 
-"Don't worry, it's just the essence."
+“Wait… Because of the Essence?”
 
-"The essence...? What do you mean?"
+Erwin’s eyes lit up with curiosity, and I slowly began to explain.
 
-Erwen's eyes sparkled with curiosity, and I started explaining.
-
-The first thing I had to explain was the stat.
+First, I had to talk about the stat changes.
 
 [Chaos]
 
-Doubles the amount of negative stats possessed, and increases all stats proportionally to the increased negative stats.
+Your “negative stats” double, and all your stats increase in proportion to those negative stats.
 
-That's all it said in the game.
+In the game, the description in the base status window is basically just that. Figuring out the formula was, as always, up to the player.
 
-It was up to the players to figure out the formula.
+“By ‘negative stats,’ are you talking about the stats that reduce ability values?”
 
-"Negative stats... you mean debuffs?"
+Ah, I should explain from the start.
 
-Ah, I had to explain that first.
+“It includes those, but that’s not all.”
 
-"That's part of it, but not all of it."
+In [Dungeon and Stone], each stat has a coefficient, and according to that coefficient, physical, mental, and special ability stats increase.
 
-Each stat in [Dungeon and Stone] had a coefficient, and that coefficient determined how much it would increase your Physical, Mental, or Ability stats.
+For instance, for Dexterity, which has a coefficient of 0.5, increasing your Dexterity by +1 raises a special ability stat by 0.5.
 
-For example, Dexterity had a coefficient of 0.5, so if your Dexterity increased by +1, your Ability stat would increase by 0.5.
+‘High-value stats like Magic Resistance have a coefficient of 3.’
 
-'Magic Resistance, a high-value stat, has a coefficient of 3.'
+Anyway, that’s not the main point.
 
-Anyway, that wasn't important right now.
+Most stats have a coefficient above 0, but sometimes you see stats with a negative coefficient.
 
-Most stats had a coefficient of 0 or higher, but some had negative coefficients.
+I called them negative stats.
 
-I called them 'negative stats'.
+“For example, among the stats you have, Impulse and Distrust fall into that category.”
 
-"For example, you have Impulsiveness and Distrust."
+Basically if you get ‘+’ to a stat with negative coefficient, they have a negative effect on your Physical, Mental and Special ability stats.
 
-These stats would decrease your overall stats if they had a positive value.
+Conversely, when stats with a coefficient of zero or above are marked with a ‘-,’ they were what known as ‘debuff stats’
 
-And if a stat with a positive coefficient had a negative value, it would be considered a 'debuff', like the -30 Control from [Rupture].
+This was the case with the essence giving her Rupture, which gave her -30 control.
 
-"Ah..."
+“Ah…”
 
-Erwen seemed to understand the basic concept, so I started calculating.
+After quickly explaining to her the basics, I quickly moved on to her stat calculations.
 
-What was Erwen's current negative stat value?
+First, from Evan’s Essence: Physical Resistance decreased by -80.
 
-First, -80 Physical Resistance from the 'Evan' essence.
+From the royal reward Ritcanon—which I recommended—: Soul Regeneration decreased by -40.
 
-Then, -40 Soul Regeneration from the 'Lithcannon' essence I had recommended as a reward.
+And then from Rupture, Control decreased by -30.
 
--30 Control from [Rupture].
+From ‘Kalban,’ impulse is +30, and distrust is +30.
 
-'+30 Impulsiveness and +30 Distrust from 'Kalban'.
+‘There’s no need to include the Possessiveness from the Metcrow Essence since its coefficient is 0. She also erased the +40 Craving stat before we entered the Labyrinth…’
 
-'Greed from the 'Metcrow' essence has a coefficient of 0, so we don't need to include that. And I removed the +40 Deficiency before entering the labyrinth...'
+After multiplying her stat values by their respective coefficients and summing them up, I multiplied by the chaos essence coefficient of 0.2 to complete the calculation.
 
-I multiplied each stat by its coefficient, added them together, and then multiplied the sum by the Chaos Essence's coefficient of 0.2.
+The number came out.
 
-'53.8.'
+‘53.8.’
 
-That was the total stat increase Erwen had gained from the Chaos Essence.
+That’s how much Erwin’s Chaos Essence was boosting all of her existing stats.
 
-Well, not all of her stats.
+Well, not literally all stats…
 
-Stats like Luck and Bone Density, which she didn't possess, wouldn't increase.
+Innate stats like luck or bone density do not increase.
 
-'...She's already getting a lot out of it.'
+‘…Still, this efficiency is ridiculous.’
 
-I was impressed.
+It felt a bit surreal.
 
-I had recommended the 'Lithcannon' essence, but the rest were all essences she had chosen herself.
+‘Ritcanon’ was my recommendation, but the rest were chosen by Erwin herself.
 
-'It's a bit risky, considering how much her Mental stats are being reduced...'
+‘Losing so much of her mental stats might be dangerous…’
 
-But she had grown mentally stronger.
+But she seemed to be doing fine
 
-She was much calmer now, even though the essence's effects were stronger than before.
+Proof of that is: she’s still calm now, even though those negative stats were now higher than before.
 
-'I should replace it with a different essence soon.'
+‘Still, I’m worried, I should change her other essences soon.’
 
-Mental stats had low coefficients, so they weren't ideal for maximizing the Chaos Essence's potential. Control was decent, but 'Distrust' only had a coefficient of 0.6.
+Mental stats have low coefficients, so they weren’t very effective even when used with the essence of [Chaos]. Control is tolerable, but Distrust has a coefficient of only 0.6.
 
-It was more efficient to reduce high-value stats with high coefficients. If you could reduce Magic Resistance by 50, you could increase all your other stats by 30.
+Substituting it with a stat that has a greater coefficient value would be more beneficial over time. For instance, if she were given an item with a Magic Resistance of -50, all her stats would increase by +30.
 
-'...Well, technically it's a 100 reduction, considering the doubled negative stat effect.'
+Well anyway, thanks to this effect, the essence of chaos is great for any main damage dealer.
 
-Anyway, that was why the Chaos Essence was so popular among damage dealers.
+On the other hand, there aren’t that many good essences for tanks, as they tend to increase defence in exchange for low damage output.
 
-Tank essences rarely had negative stats that reduced damage and increased defense.
+“I see… Now that I think of it, you told me before to focus on what I’m best at…”
 
-"I see... You said it was better to specialize, right...?"
+I don’t remember, but it was time to move on. Even if it’s not the usual pub room we test abilities in…
 
-Hmm, did I say that?
+“All right, let’s test your abilities. Use your powers!”
 
-I couldn't remember, but it was time to move on.
-
-"Show me your abilities."
-
-Even though we weren't in the usual inn room, we still had to test her skills.
+We might not be in our usual place, but we still have to check.
 
 ---
 
-The Chaos Essence came with two skills.
+Chaos Essence consists of two skills.
 
 One passive and one active.
 
-That was all.
+That’s all.
 
-It seemed lacking compared to the Guardian essences, which could give you up to five active skills...
+Comparing it to Guardian Essences, which can sometimes offer five or more active skills, it might seem extremely lacking…
 
-But sometimes, one powerful skill was better than a hundred mediocre ones.
+But sometimes, one can be better than a hundred.
 
-(P) Chaos Circuit — All resources possessed by the character are combined into one. When all resources are depleted, the character can use the power of Chaos.
+[(P) Chaos Circuit — All resources held by the character are combined into one. You can use the power of chaos when all resources are depleted]
 
-The passive skill was unique.
+First, the passive is quite unique.
 
-It combined all your resources, such as mana, natural energy, Soul Power, and divine power, into one gauge.
+Simply put, it’s a skill where mana, natural power, soul power, divine power, etc., are integrated into one gauge…
 
-That alone made it incredibly valuable.
+It alone is worth a lot.
 
-Natural energy, which was required for spirit magic, was incredibly difficult to increase.
+Increasing Natural Energy, needed for Spirit Magic, is incredibly difficult.
 
-'That's probably why Erwen absorbed the Ertes essence. She could use its passive to convert Soul Power into natural energy.'
+‘Perhaps that’s why Erwin consumed the essence of Ertes. She can use its Passive to replace her Soul Energy with Natural Energy.
 
-I made a mental note to remove that essence when we got back to the city. [Elemental Fusion] wasn't a bad skill, but it wasn't worth keeping in the long run.
+In that sense, we need to erase that essence once we return. Active [Elemental Fusion] isn’t bad, but it’s not the kind of essence you’d want to keep forever.
 
-"So... about my abilities..."
+“Um… by ‘abilities,’ you mean…?”
 
-"[Focused Fire]. Use that. We need to deplete your resources anyway. And summon your spirit too."
+“Use Focused Shot. We’re testing how to completely empty your resource pool. Oh, and summon some spirits.”
 
-"...Wouldn't it be faster to summon Dicloe? He'll drain my energy much faster."
+“…In that case, wouldn’t it be faster to summon Di Cloe? It’ll burn through my energy quickly.”
 
-Oh, she was right.
+Oh, that’s a good point.
 
-I told her to summon Dicloe, and she reluctantly obeyed.
+I told her to hurry and summon it, and Erwin reluctantly used her ultimate move.
 
-「Erwen Fornachi di Tersia has summoned [Dicloe, the Dark Spirit King].」
+Erwin Fornaci di Tersia summons the [Dark Spirit King Di Cloe].
 
-A black mass emerged from a spatial rift, taking the form of a humanoid figure.
+A human-shaped mass of darkness emerged, tearing through space.
 
-Dicloe, at Erwen's command, fired a barrage of dark orbs at the opposite wall.
+At Erwin’s command, Di Cloe began blasting orbs of darkness in the direction away from the cabin.
 
-Kaboom! Kaboom! Kaboom!
+Boom, boom! BOOOOOM—!
 
-The barrier protecting the cabin didn't even flinch.
+They collided with the barrier in the distance and exploded.
 
-「All accumulated energy has been depleted.」
+As expected, the barrier didn’t show a scratch.
 
-Erwen's resources were depleted after about 30 seconds.
+[Accumulated energy has been depleted]
 
-It used to be 5 seconds when she used it at full power.
+All of Erwin’s resources ran out about 30 seconds after she started using them.
 
-'Her mana pool must have increased.'
+Previously, the limit was 5 seconds when used at full power.
 
-But that wasn't important right now.
+‘Her mana pool must’ve grown a lot, so she can maintain it far longer now.’
 
-「The empty vessel is filled with an unknown power.」
+Of course, that’s not the key point now.
 
-The [Chaos Circuit] activated.
+[A mysterious power infuses the empty vessel]
 
-「All resource consumption is nullified for 1 minute.」
+Triggered by fully depleting her resources, Chaos Circuit activated.
+
+[For 1 minute, no resource is consumed]
 
 The Infinite Power Mode.
 
-"...He's not being unsummoned."
+“…It really isn’t unsummoning”
 
-Erwen was amazed by Dicloe, who was still firing orbs.
+Erwin looked at Di Cloe, who was still emitting explosive firepower, in admiration.
 
-I was also impressed.
+I was just as impressed, honestly.
 
-'She can use this level of firepower for 90 seconds...'
+‘Maintaining this kind of firepower for a minute and thirty seconds…’
 
-And that wasn't all.
+And that’s not even the full extent of what she can do.
 
-Her MP was infinite now.
+Unlimited MP means you can still do more.
 
-"Erwen, use [Focused Fire]."
+She can let the Spirit King keep fighting while she casts her own skills.
 
-I gave her another order, and she drew her bow.
+“Erwin, now use Focused Shot.”
 
-Whoosh!
+I gave one more order, and Erwin silently lifted her bow, drawing back the string.
 
-A white light gathered at the arrowhead.
+Fwoooooosh—!
 
-This skill, which had played a significant role in the Riakis fight, was one of the rewards I had recommended to Erwen.
+White light formed at the tip of the arrow.
 
-The longer she charged it, the more MP it consumed...
+This skill, which had greatly contributed during the Riakis’s has a simple effect: the longer you charge, the more MP is exponentially consumed…
 
-Whoosh!
+Fwooooooosh—!!
 
-...but the damage also increased exponentially.
+And the more damage it deals.
 
-I usually limited her charging time to 15 seconds. After that, the MP consumption was too high, and the damage increase was negligible.
+Usually, I wouldn’t allow more than a 15-second charge. Past that point, the MP drain becomes enormous while the damage boost grows too slowly.
 
-It was more efficient to use the 60-second cooldown and fire another arrow.
+With a cooldown of about 60 seconds, it’s more beneficial to wait and shoot another arrow.
 
-But...
+But…
 
-'MP is infinite now.'
+‘If the MP is infinite, it’s a different story.’
 
-1 second, 2 seconds, 3 seconds, 4 seconds...
+1 second, 2 seconds, 3 seconds, 4 seconds…
 
-The energy at the arrowhead became more and more concentrated.
+As time passed, the density of energy gathering at the arrowhead increased.
 
-And then...
+And then some more time passed.
 
-"Now."
+“Now.”
 
-Erwen released the arrow.
+Erwin released her hand from the string.
 
-———!
+————!
 
-A blinding flash of light filled the room.
+A flash of light erupted, bleaching everything to white.
 
-The barrier didn't even flinch.
+Again, not a single scratch appeared on the barrier.
 
-But...
+But…
 
-'This is it.'
+‘Yeah, that’s it.’
 
-I knew it instinctively.
+I could intuitively feel it.
 
-Kwaaang!
+Whoooooooom-!!!
 
-The explosion was deafening.
+The instantaneous firepower was even greater than Di Cloe’s.
 
----
+[The energy contained in the vessel is escaping]
 
-「The unknown power within the vessel has been depleted.」
+[Temporarily, all stats decrease by 70%]
 
-「All stats are temporarily reduced by 70%.」
+Just as Erwin collapsed into my arms, exhausted, a frantic shout came from afar.
 
----
+“Bjorn—!! Where are you! Bjorn!!”
 
-Erwen collapsed onto me, exhausted.
+It was Aynar, who had been playing with Amelia.
 
-And then we heard a familiar voice calling our names.
+“What was that just now! Isn’t it a dimensional collapse? We might have to run!!”
 
-"Bjorn! Where are you?! Bjorn!!"
+She sounded like a frightened wild animal facing a natural disaster. In a way, her utter naivety was so pure it made me laugh.
 
-It was Ainar.
+“Don’t worry. It’s not a dimensional collapse.”
 
-"W-What was that?! Was it a dimensional collapse?! We might have to run away!!"
+“Really? I was so startled! Suddenly, the world flashed, and the ground seemed to shake!!”
 
-She was panicking, like a wild animal sensing a natural disaster.
+“Yes, yes. Calm down. It’s okay now.”
 
-I chuckled at her innocence.
+As I was soothing Aynar, Amelia came up beside me and asked.
 
-"Don't worry, it wasn't a dimensional collapse."
+“That thing just now… was Tersia the one who did it?”
 
-"R-Really?! It was terrifying! The whole world flashed, and the ground shook!!"
+“Yeah.”
 
-"Yeah, yeah. Calm down. It's over now."
+“…Remarkable. So that’s what a Floor Lord’s essence is.”
 
-I reassured Ainar, and then Amelia approached me.
+“Don’t worry. I’ll make sure you get one later, too.”
 
-"Was that Tersia?"
+I spoke reassuringly, but Amelia turned her head with a huff, as if to say, Don’t treat me like some Barbarian. Still, from the look on her face, I could tell she was secretly anticipating it.
 
-"Yes."
+“So, is everything done now?”
 
-"...The Chaos Essence is powerful."
+“Yeah, it’s all finished.”
 
-"Don't worry, I'll get you one eventually."
+We didn’t get to test out the active skill, but it’s not like I can test it here anyway.
 
-I tried to reassure her, but she just turned away, muttering something about not wanting to be treated like a barbarian.
+I’ll have to experiment with it later in the city.
 
-But I could tell she was looking forward to it.
+It’s quite an unusual skill, after all.
 
-"So, is it over?"
+“Erwin, can you walk?”
 
-"Yeah, it's over."
+“No… I can’t walk.”
 
-We hadn't tested her active skill, but that wasn't something we could do here.
+I tried to lift the exhausted Erwin, but someone was quicker to step forward.
 
-We would have to experiment in the city.
+“Oh! Then let me carry you!”
 
-It was a unique skill.
+Aynar had always performed admirably as a mount in the past.
 
-"Erwen, can you walk?"
+“Come on, get on!”
 
-"No... I can't..."
+“…”
 
-I was about to carry Erwen... but Ainar beat me to it.
+“Ah, thanks”
 
-"Oh! I'll carry her!"
+With Aynar carrying Erwin, we headed towards the hut. Unlike the outside which had turned into winter, the inside of the hut was just as it had been before.
 
-She had always been a reliable pack mule.
+A bookshelf, a dining table, a carpet.
 
-"Come on, hop on!"
+A small bed that my feet slipped out of when I lay down.
 
-"...."
+Flicker.
 
-"Hurry up."
+The fireplace was blazing.
 
-"...Okay... Thank you..."
+“Yandel, what do we do now?”
 
-Ainar carried Erwen on her back, and we headed towards the cabin.
+“Enter the flames, and it’s over.”
 
-The interior of the cabin was the same as before, despite the winter wonderland outside.
+Then the reward would come in, the witch’s hut would be closed, and the character would be banished to the forest.
 
-The bookshelf, the table, the carpet.
+“…Bjorn.”
 
-The small bed where my feet would always stick out.
+Suddenly, Aynar looked at me seriously.
 
-And...
+“I’ve been thinking it over, and really going into the flames doesn’t seem right.”
 
-Crackle, crackle, crackle.
+What is this betrayal?
 
-The fireplace.
+Since it wasn’t worth responding to, I simply said I would go first and squatted down, walking into the flames.
 
-"Yandel, what do we do now?"
+Flicker-!
 
-"We enter the flames."
+A warmth that could not be described as hot.
 
-Then we would receive the reward, the cabin would be closed, and we would be transported back to the forest.
+[Your mental resistance stat permanently increases by +50]
 
-"...Bjorn."
+Okay, so the stats should have increased well…
 
-Ainar suddenly looked at me with a serious expression.
+It was the moment I closed my eyes in an inexplicable comfort.
 
-"I've been thinking... It doesn't feel right to just enter the flames."
+“Uh…?”
 
-What? Was she betraying me?
+When I opened my eyes again, I was frozen.
 
-I didn't bother answering and walked towards the fireplace.
+It wasn’t the witch’s forest but a space I had never seen before.
 
-Crackle!
+“What are you?”
 
-The flames were warm, not hot.
-
-「Mental Resistance permanently increased by +50.」
-
-Okay, the stat boost was successful...
-
-I closed my eyes, enjoying the warmth.
-
-And then...
-
-"Huh...?"
-
-I opened my eyes and froze.
-
-It wasn't the Witch's Forest.
-
-It was a completely different place.
-
-"Who are you?"
-
-A pale, ghostly girl was staring at me.
+A girl with a ghostly pale complexion was staring at me.

@@ -1,511 +1,474 @@
-# Big Fish 5
+The Big Fish (4)
 
-The moment my teammates disappeared from view as the [Veil of Betrayal] reactivated…
+The moment[Veil of Betrayal] reactivated and my allies disappeared from sight—
 
-Crack—
+Bzzzzt—
 
-…the shell encasing Dreadfear shattered, and he reappeared.
+The shell surrounding Dread Fear cracked, revealing it once again.
 
-His skin looked as if it were covered in wax.
+Its skin looked like it was covered in wax. And its face was devoid of any recognisable features, save for a single, large eye planted right in the centre.
 
-A single, large eye sat in the middle of his featureless face, defying all proportions.
+And in its hands, it held a massive bone greatsword.
 
-And a bone greatsword gripped in both hands.
+Its appearance was the same as before it used the [Protective Mechanism].
 
-He looked the same as before he used [Protective Shell], but the resemblance was fleeting.
+「The feeling of hatred deepens.」
 
-「Hatred deepens.」
+A buff added as soon as its groggy state ended.
 
-A new buff was added as soon as the groggy state ended.
+「The memories etched into the bones deepen 」
 
-And from this point on, luck played a crucial role…
+Hmm, is that about average?
 
-「Memories etched in bone intensify.」
+Srrrrrlk.
 
-Phew, not bad.
+Sharp spikes began to protrude from its greatsword. This was one of the five types of buffs that exist in the third phase, and it affects the weapon…
 
-Screech.
+From now on I have to be really careful.
 
-Sharp thorns started to sprout from Dreadfear's greatsword. It was the weapon buff, one of the five possible buffs in the 3rd phase.
+Since it’s a damage-enhancing buff, I adjusted my battle strategy a bit.
 
-‘I need to be more careful now.’
+Kwaaaaang!
 
-It was a damage amplification buff, so I adjusted my strategy.
+I still focused on defending with my shield, but I avoided taking direct hits to my body.
 
-Kwaaang!
-
-I continued to focus on defense with my shield, but I avoided taking any unnecessary hits.
-
-The weapon buff was dangerous, even for me.
+Weapon buffs are tricky, even for me.
 
 Like this.
 
-「Sharp thorns pierce the character's body.」
+「Sharp spikes pierce the character’s body.」
 
-「Continuously drains the character's Soul Power.」
+「Continuously drains the character’s soul energy.」
 
-The buffed sword had an MP drain effect, and it stacked with each hit.
+The buffed sword now has an MP drain effect, and this effect stacks based on the number of hits taken.
 
-But there was one thing I had to be careful about.
+However, there’s one thing to be cautious about.
 
-「Dreadfear's Hatred increases proportionally to the drained MP.」
+「The Lord of Terror, Dreadfear’s hatred level increases in proportion to the amount of MP drained.」
 
-Whether it was the weapon, the armor, or the eye,
+Whether it’s from the weapon, the armor, or the eye itself, all buffs in Phase 3 contribute to the growth of the ‘hate’ stat. And once this stat reaches its maximum, an extremely troublesome additional buff will activate
 
-All the 3rd phase buffs increased his 'Hatred' stat. And when it reached its maximum, a very troublesome additional buff would activate.
+When Hate triggers, the raid may as well be over.
 
-‘If Hatred activates, the raid is as good as over.’
+At that stage, the raid itself is no longer the main issue – you have to worry about your own survival.
 
-At that point, survival would be our main concern, not the raid.
+So…
 
-Therefore…
+Whoosh!
 
-Whooosh!
+When it is difficult to block, step back and evade.
 
-I dodged his attacks whenever I couldn't block them.
+Tadah.
 
-Ttadat.
+[Lord of fear Dread Fear has cast [Inner Mirror]
 
-But I didn't just retreat. I circled around him, keeping him in the center of the area.
+「Fixed damage is dealt in proportion to your reduced mental stats.」
 
-「Dreadfear, the Lord of Terror, has cast [Inner Mirror].」
+Coughing up blood, I endure the unavoidable instant-cast skill.
 
-「Deals fixed damage proportional to the decreased Mental Power.」
+「The Lord of Terror, Dreadfear, has cast [Memories of the Dead].」
 
-I endured his unavoidable instant-kill skill, coughing up blood.
+Versil helped to deal with the bombs floating in the air like soap bubbles.
 
-「Dreadfear, the Lord of Terror, has cast [Memories of the Dead].」
+[Versil Gowland has cast Level 6 Summoning Magic [Life Doll]
 
-Bersil, the mage, helped me deal with the floating bombs.
+[Kyaaaaaaah—!]
 
-「Bersil Gowland has cast the 6th-grade Summoning Magic [Dolls of Life].」
+After meticulously following the strategy for quite a while
 
-The decoys would absorb the damage.
+Isn’t it almost over?
 
-[Kyiyeeeeeek!]
+Just as that thought popped into my head—
 
-I continued to fight, following the strategy.
+「A light of trust dispels the fear that dwells within」
 
-'It's almost time...'
+「[Shroud of Betrayal] is temporarily lifted.」
 
-I thought it was about time to move on to the next phase...
+As the brilliant light flashed again, illuminating the dark cave, Dreadfear screamed in pain and covered itself with its shell again.
 
-「The light of trust dispels the darkness of fear.」
+[The Lord of Terror, Dreadfear, has cast [Protective Mechanism]
 
-「[Veil of Betrayal] temporarily deactivated.」
+If we fail to break this shell again, it will receive another new buff, making the next phase even more difficult.
 
-...when the white light filled the cave, and Dreadfear shrieked in pain, retreating into his shell again.
+But I wasn’t too worried.
 
-「Dreadfear, the Lord of Terror, has cast [Protective Shell].」
+“Erwin.”
 
-If we couldn't break through his shell this time, he would receive another buff, making the fight even more difficult.
+At this point, it’s safe to say she’s nearly graduated.
 
-But I wasn't worried.
+Erwin fornacci de tersia has summoned [Dark Spirit King, Di Cloe]
 
-"Erwen."
-
-She was practically a graduate student now.
-
-「Erwen Fornachi di Tersia summons [Dicloe, the Dark Spirit King].」
-
-It was time for the final phase.
+It’s time to move on to the final phase.
 
 ---
 
-Dreadfear, the Lord of Terror.
+The Lord of Terror, Dreadfear.
 
-An unfortunate Floor Lord, often targeted for clan promotion tests, as he didn't offer much in terms of rewards, even if you cleared it with a full raid team.
+A floor boss that doesn’t usually give any special rewards, even when fought by a party of thirty. People usually only tackle it for clan rank assessments or attempts at subjugation.
 
-But he had a hidden piece.
+However, this guy has a hidden piece.
 
-Well, it wasn't exactly hidden. It was a well-known fact, thanks to the legends of old heroes.
+Well, it’s not exactly hidden, as it’s widely known in the city through the tales of ancient heroes.
 
-[If you defeat him with five or fewer members, you receive a great reward.]
+[If you succeed in defeating it with five people, you can obtain an incredible reward.]
 
-But there were two errors in that statement.
+Of course, there are two errors in this information.
 
-First, it wasn't about having exactly five members, but five or fewer.
+Firstly, it’s not that you need exactly five people – just fewer than five.
 
-'And the reward wasn't that 'great'.'
+And the reward isn’t really that incredible.
 
-It was just a normal reward.
+It’s more like a normal reward.
 
-But the reason why the rumor had spread was probably because of this.
+The reason the rumour was so inflated is probably this:
 
-[If they succeed, it will be the tenth such feat in history, after the Last Sage!]
+[If you succeed, it will be the tenth achievement since the Last Great Sage].
 
-Five-man clears were extremely rare.
+Five-person teams are extremely rare.
 
-And those who had achieved it had all left their mark on history.
+And those who have succeeded have all left their mark on history.
 
-Rimenin, the Abyss Seeker.
+The Abyss Seeker, Limenin.
 
-Armella, the Fairy King.
+The Fairy King, Armella.
 
-Mulmarin, the Seadragon Slayer.
+The Sea Dragon Slayer, Mylmarin.
 
-They were all legendary explorers.
+All these great explorers of the past have one thing in common.
 
-And that was enough to inspire countless others to challenge Dreadfear.
+It was enough to ignite the desire in later explorers to challenge them, and countless people summoned the Lord of Terror in their footsteps.
 
-Most of them never returned.
+And for most, it was their last appearance.
 
-'Well, it's not like you can clear a boss on your first try.'
+‘Well, that’s natural. How many bosses can you clear on your first try?’
 
-I had only succeeded because I had played the game countless times.
+I was only able to figure out the strategy because I had challenged it multiple times during the game.
 
-If I had challenged him blindly, I would have failed too.
+If I had gone in blind, it would have been the same for me.
 
-Reality was different from the game.
+Reality and games are different.
 
-You only had one chance.
+You only get one chance.
 
-And if you failed, it was game over.
+If you fail, it’s game over, and you don’t even get the opportunity to try again using the knowledge from your failure.
 
-'...I wonder how they did it.'
+‘……I’m actually curious how the people before me cleared it.’
 
-What strategies had they used?
+What strategy did they use?
 
 Was it the same as mine?
 
-Or did they just overpower him with their stats?
+Or did they just overpower it with sheer stats?
 
-I didn't know.
+I have no way of knowing.
 
-The ten teams that had succeeded had all kept their strategies secret.
+All ten teams that succeeded in defeating it remained completely silent about their strategies.
 
-'That's also something I don't understand...'
+‘This is also a bit hard to understand…’
 
-It was common for explorers to keep valuable information to themselves.
+It’s the explorers’ habit to monopolize high-level information and not share it publicly.
 
-But why had those legendary explorers, who had created the 6th-floor map and shared their knowledge about the 10th floor, kept this a secret?
+I don’t know why they kept this a secret when they made a map of the sixth floor, distributed it for free, and generously revealed information about the 10th floor, which was previously rare.
 
-'Well, it's not important right now.'
+‘……Well, it’s not something I need to worry about right now.’
 
-Hmm... was it?
+Hmm… Or is it?
 
-I suddenly felt a strange sense of—
+Suddenly, I felt something strange—
 
-Kwaaang!
+Kwa kwa kwa kwa bang—!
 
-As I was pondering the source of the strange feeling...
+While I was pondering the cause of this indescribable sensation…
 
-「Dreadfear's [Protective Shell] has been deactivated.」
+「The Lord of Terror, Dreadfear’s [Protective Mechanism] has been dispelled.」
 
-The shell shattered, and black smoke poured out.
+The thick shell shattered into pieces, and black mist began to seep out.
 
-I gave my teammates an order.
+So, I immediately gave the order.
 
-"Stop."
+“Stop.”
 
-There was no point in attacking anymore.
+There’s no point in attacking further—it’ll just waste MP.
 
-We had to conserve our MP.
+We need to conserve MP as much as possible.
 
-"Good work. You must be tired."
+“Good job. It must have been tough.”
 
-"Yes..."
+“Yes…”
 
-"Gather around!"
+“Everyone, gather up!”
 
-I called my teammates to my side and prepared for the next phase.
+I called my comrades to gather behind me and prepared for the impending shock.
 
-[Kyiyeeeeeek!]
+[Kyaaaaaah—!!]
 
-The black smoke shrieked as it poured out of the shell.
+The black mist flowed out, emitting a sound like nails scraping on a chalkboard.
 
-And then...
+Soon, the amount of mist decreased, and a pair of crimson eyes glowed from within the cracked shell.
 
-The smoke subsided, and two crimson eyes appeared in the gap.
+‘Wow, that’s one menacing glare.’
 
-'Those eyes are terrifying.'
+I took a deep breath and faced the creature.
 
-I took a deep breath and stared back.
+「The Lord of Terror, Dreadfear feels a great threat from your party.」
 
-「Dreadfear, the Lord of Terror, senses a great threat from your party.」
+We had now reached the beginning of the 4th phase.
 
-The 4th phase had begun.
-
-It was the turning point of the raid.
-
-Step, step.
-
-Dreadfear emerged from his shell.
-
-He had been covered in maggots...
-
-Then black smoke...
-
-And then a wax-like shell.
-
-But now...
-
-Step.
-
-...he looked human.
-
-Pale skin with blue veins.
-
-Ribs protruding from his thin chest.
-
-Long, gray hair.
-
-And a face with eyes, a nose, and a mouth.
-
-Unfortunately, they weren't in the right places.
-
-He was a humanoid monster, technically.
-
-Roll.
-
-An eyeball beneath his chin rolled around.
-
-Drip.
-
-Blood dripped from his nose, which was where his right eye should have been.
-
-Screech.
-
-His bone greatsword dragged across the ground, producing a grating sound.
-
-Step, step.
-
-He was covered in a viscous liquid, as if he had just been pulled out of amniotic fluid.
-
-Thud.
-
-He stopped and looked at us.
-
-[Kyiyeeeeeek!]
-
-He roared, his mouth, which was where his nose should have been, wide open.
-
-「There are five or fewer characters within range.」
-
-「Special Condition - Ancient Memories has been met.」
-
-「The terror within Dreadfear awakens.」
-
-The conditions for a 5-man clear had already been met.
-
-「Fragments of memory distort the surrounding space.」
-
-Now we just had to enter the special map and finish the raid—
-
-Flash!
-
-A blinding flash of light filled the cave.
-
-"..."
-
-And I froze.
-
-"...Where am I?"
-
-I was in a place I had never seen before.
-
----
-
-「Character is poisoned by [Goblin Paralyzing Poison].」
-
-「Special Condition - Distorted Memories has been met.」
-
-「Character is being transferred to the Pilgrim's Cave.」
-
----
-
-Hans... Hans Delbein...
-
-Amelia paused her interrogation, her mind racing as she repeated the name.
-
-It was an ominous name.
-
-But she quickly dismissed her worries.
-
-'...He'll be fine.'
-
-He had absorbed the Tranquility Essence from the leader of Orculus over 300 times.
-
-He had said he wouldn't be affected.
-
-'Let's focus on the task at hand.'
-
-She resumed the interrogation.
-
-She had finally gotten him to talk, and she couldn't let him clam up again.
-
-"Where do you live?"
-
-"...9th District."
-
-"Have you ever met Count Alminus?"
-
-"...No."
-
-She continued her questions, punishing him whenever she sensed a lie.
-
-And after a while...
-
-"I-I swear... I just received a request from the black market... I don't know who the client is..."
-
-She realized instinctively.
-
-That he was telling the truth, and that she wouldn't be able to get any more information from him.
-
-'...I couldn't find any connection to Count Alminus.'
-
-He would be disappointed.
-
-She felt a pang of sadness, but she quickly suppressed it.
-
-She was a professional.
-
-She couldn't afford to dwell on her emotions.
-
-"..."
-
-She checked his belongings again, just in case she had missed something.
-
-And then she noticed something strange.
-
-'...Paralyzing poison?'
-
-The weapon she had used to stab him was coated in poison.
-
-It tasted like a low-grade poison based on goblin venom...
-
-'Why would he use this...?'
-
-It didn't make sense.
-
-A high-level Guardian like him wouldn't be affected by such a weak poison.
-
-And there were much stronger poisons available.
-
-"Why did you use Goblin Paralyzing Poison?"
-
-"Paralyzing poison...?"
-
-The man's confused response only made her more suspicious.
-
-"I... I've never used paralyzing poison... Why would I...?"
-
-She looked at the other captive. He was still silent, his eyes fixed on the empty space before him.
-
-"..."
-
-She checked his weapon.
-
-It was also coated in paralyzing poison.
-
-And at that moment...
-
-Flash!
-
-A bright light erupted from the central area, followed by silence.
-
-Her companions had moved on to the next phase.
-
-She summoned a clone and sent it to the empty chamber.
-
-Four corpses.
-
-Their weapons were also coated in goblin poison.
-
-Was this a coincidence?
-
-No, it couldn't be.
-
-'Something...'
-
-Something bad was happening.
-
-She grabbed the other captive by the collar.
-
-"...Tell me. Why did you coat your weapons in goblin poison?"
-
-"..."
-
-He didn't answer.
-
-He hadn't even groaned when she had tortured him.
-
-Swoosh-!
-
-She drew her dagger and pressed it against his throat.
-
-A thin line of blood appeared.
-
-But his expression didn't change.
-
-He had seemed resigned before... but now he looked different.
-
-"Who... are you?"
-
-He finally spoke.
-
-"Who knows?"
-
-His answer was casual.
-
-She pressed the dagger deeper.
-
-And then...
-
-Clang!
-
-The dagger bounced off his skin, as if it had hit an invisible wall.
+This was effectively the biggest turning point in the raid.
 
 Thud, thud.
 
-The captive stood up, brushing the dust off his knees.
+The creature, which had been hiding inside the shell, slowly walked out.
 
-"He has a good woman by his side. To think she would notice something like this... Her perceptiveness will be a great asset in his journey."
+First, it was a maggot.
 
-His words were nonsensical.
+Then, it was black mist.
 
-Amelia's killing intent intensified.
+Third, it was covered in a waxy shell.
 
-"...Who are you? What's your purpose?"
+Now, it had taken on the distinct shape of a human.
 
-"You're worried about him, even in this situation... You seem loyal..."
+Thud.
 
-He looked down at her, a smirk on his face.
+Pale blue-veined skin.
 
-"Don't worry. I'm just here to guide him on the right path."
+Exposed ribs and bony limbs.
 
-"..."
+Long, ashen hair hung down, and now it had eyes, a nose and a mouth.
 
-"Bjorn Yandel has a fascinating destiny. He grows stronger through adversity."
+Unfortunately, they weren’t in the right places – as if they’d been put there at random.
 
-He patted her shoulder.
+But yeah, at this point it’s a humanoid monster, right?
 
-"For example, what if the mage hadn't died in the labyrinth? Do you think he would have become the hero he is today? He was always prioritizing his own survival."
+Roll, roll.
 
-He chuckled.
+An eyeball under its chin rolled around.
 
-"So don't worry. He'll be fine."
+Crackle.
 
-Amelia clenched her remaining dagger.
+Blood dripped from its nose, where its right eye should have been.
 
-"Why are you telling me this?"
+Drag, drag.
 
-Her eyes darted around, searching for an opening.
+Meanwhile, the bone greatsword attached to its hand dragged along the ground, making an irritating noise.
 
-But...
+Thud, thud.
 
-"The reason is simple."
+The creature was soaked in a sticky liquid, as if it had just been pulled out of amniotic fluid.
 
-...she couldn't find one.
+Thud.
 
-"Amelia Rainwales."
+It stopped and glanced at us.
 
-His voice was clear and distinct.
+[Kyehehehehek!]
 
-"You were always susceptible to illusions, weren't you?"
+It roared loudly, opening its mouth where its nose should be.
 
-"...!"
+「There are fewer than 5 characters within the radius.」
 
-"Rest now."
+「Special Condition – Ancient Memory has been fulfilled.」
 
-His finger touched her forehead.
+「The feeling of terror embedded within the Lord of Terror, Dreadfear, has been revived.」
+
+[Fragments of memory spill out and begans to warp the surrounding space.]
+
+All right, now we just need to move on to the 5-player clear exclusive map and finish the raid…
+
+Flash!
+
+A blinding light erupted and the world flickered.
+“…….”
+I froze.
+
+“Where… is this?”
+
+An unfamiliar field stretched out before me.
+
+---
+
+Hans… Hans Delvain…
+
+The more Amelia thought about that ominous name, the more uneasy she felt, and she paused the interrogation for a moment.
+
+Of course, that pause was extremely brief.
+
+‘……It’s probably nothing.’
+
+Yeah, so…
+
+‘Let’s focus on my task.’
+
+She put her worries aside and returned to the interrogation.
+
+Just when she had started the conversation, and it would be unfortunate if he clammed up again.
+
+“Where do you live?”
+
+“…Zone 9.”
+
+“Have you ever met Count Alminus?”
+
+“…No.”
+
+She continued to ask questions, and if she felt he was lying, she simply administered punishment without a word.
+
+After how many times did she repeat this?
+
+“I-I’m telling the truth… I only took the request from the black market… I don’t even know who the client is…”
+
+Soon, she intuitively realized.
+
+This was the truth, and she likely wouldn’t be able to extract any further information through interrogation.
+
+‘…Ultimately, I couldn’t find a connection with Count Alminas.’
+
+It was a shame, but what could she do?
+“……”
+
+Afterward, Amelia meticulously checked the belongings again, just in case she had missed something earlier.
+
+And she noticed something strange.
+
+‘…Paralysis poison?’
+
+The weapon that had stabbed him was coated with poison.
+
+From the taste, it seemed to be a low-grade poison based on goblin venom…
+
+‘Why would they use something like this…?’
+
+The more she thought about it, the more it didn’t make sense.
+
+First of all, a high-rank explorer like him wouldn’t be affected by such a low-grade poison.
+
+But… they used this?
+
+When there are so many other potent poisons available?
+
+“Why did you use goblin poison?”
+
+“goblin poison…?”
+
+The man’s answer, as if he knew nothing, only deepened her unease.
+
+“I… never used paralysis poison… Why would I use such a thing?”
+
+Amelia then shifted her gaze to the man next to him. He had been silent from the start, and even now he remained tight-lipped, staring into the void with a resigned expression.
+
+“……”
+
+Amelia quickly checked the man’s weapon as well.
+
+Surprisingly, it was also coated with goblin poison.
+
+And the moment she realised –
+
+Flash!
+
+A light spread from the centre of the battlefield, where the sounds of battle had been coming from, and silence followed.
+
+It meant that her comrades had already moved on to the next phase.
+
+Amelia summoned a clone and sent it into the empty cave.
+
+There were four bodies in the cave.
+
+When she checked their weapons, she found that they too were coated in goblin poison.
+
+Was this a coincidence?
+
+No, it couldn’t be.
+
+‘Something…’
+
+Something ominous was happening.
+
+Instinctively sensing this, Amelia grabbed the collar of the other man.
+
+“…Tell me. Why did you coat your weapons with goblin poison?”
+
+“……”
+
+Even now – just as he hadn’t uttered a single groan under all the brutal torture – the man remained silent.
+
+Srrng-!
+
+Amelia drew her dagger and pressed it against the man’s neck.
+
+Squish.
+
+As soon as she applied pressure, blood began to seep out.
+
+But the man’s expression didn’t change.
+
+While it had seemed like a look of resignation before, now it appeared different.
+
+“Who… are you?”
+
+At that question, the man finally spoke.
+
+“Who knows?”
+
+His calm reply.
+
+The moment Amelia pushed the dagger in a little harder—
+
+Clank—!
+
+An unknown force deflected the dagger.
+
+Thud, thud.
+
+The man, who had been lying on the ground, stood up, brushing off his knees.
+
+“That guy has good people with him. I didn’t even have to step in, you’ve already pieced things together. With such intuition, you’ll be a great help for the remaining journey.”
+
+His words made no sense in that context.
+
+Amelia, raising her killing intent, asked.
+
+“Who are you? What is your purpose?”
+
+“Since you still care for him in this situation, it seems you won’t betray him…”
+
+The man looked down, appraising her, then chuckled and continued.
+
+“Don’t see it that way. I’m just helping his fate move in the right direction.”
+
+“…”
+
+“You know? Bjorn Jandel has a very interesting destiny. He grows stronger through trials.”
+
+The man tapped Amelia’s shoulder.
+
+“For example, what if the mage hadn’t died that day in the labyrinth? Do you think he would have become the great hero he is today? For a guy whose priority was to survive on his own?”
+
+No, that can’t be.
+
+The man added these words with a smile.
+
+“So don’t worry. He’ll come back just fine this time.”
+
+Amelia grabbed the remaining dagger, ready for any sudden move.
+
+“So what’s your reason for telling me this?”
+
+Even as she asked, her gaze never stopped searching for an opening in the man.
+
+But.
+
+“The reason I told you kindly is simple.”
+
+She couldn’t find an opening.
+
+“Amelia Rainweilz.”
+
+A clear voice rang in her ears.
+
+“Haven’t you always been easily fooled by illusion magic?”
+
+“…!”
+
+“Rest now.”
+
+Even until the moment his fingertips touch her forehead

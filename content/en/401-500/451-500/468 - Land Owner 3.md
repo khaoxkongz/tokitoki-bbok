@@ -1,385 +1,353 @@
-# Land Owner 3
+Landowner(3)
 
-House Alminus's first move wasn't the lawsuit, but a smear campaign.
+Before the Count Alminas’s family took legal action, they first waged a public opinion war.
 
 Why?
 
-They could have just filed the lawsuit and waited for the court to rule in their favor.
+They could have simply filed a lawsuit and secured a cut through the verdict.
 
-My conclusion was this:
+The conclusion I reached was this:
 
-'Count Alminus doesn't want this to go to trial.'
+“Count Alminas doesn’t want this to reach the court either.”
 
-If that was true, the lawsuit was just a gesture.
+If I am right, the lawsuit itself is probably just a gesture – a form of pressure or intimidation. In essence, it’s a message: “Given the difference in our status, if you don’t want to lose more, comply quietly and hand over what’s ours.”
 
-Or rather, a threat.
+‘Someone of Count Alminas’ status wouldn’t act out of mere greed for money…’
 
-It was a message: You and I are in different weight classes, so if you don't want to lose even more, settle this quietly and pay up.
+It must be about pride.
 
-'Count Alminus isn't short on money...'
+Though my experience is limited, that’s what I’ve observed in the noble society.
 
-So it must be about his reputation.
+There are only winners and losers here.
 
-That's how the noble society worked.
+And letting this matter slide would be the clearest sign of defeat for them.
 
-It was a world divided into winners and losers.
+Therefore, I decided to flip the public narrative first.
 
-And backing down in this situation would be a clear sign of defeat.
+“Baron Jandel doesn’t have the capability to defeat a Floor Lord.”
 
-Therefore, I decided to turn public opinion in my favor.
+“If not for the Gearfang Clan, there’s no way they could have taken down the Floor Lord.”
 
-That's what they were focusing on, after all.
+Technically, that’s true, but the count is instilling these ideas into everyone’s heads—
 
-'The original Baron Yandel wasn't strong enough to slay a Floor Lord.'
+It’s a kind of groundwork.
 
-'If it weren't for the Sawtooth Clan, his clan wouldn't have been able to kill the Chaos Lord.'
+Starting with questioning competence, gradually more negative comments will emerge.
 
-Technically, both statements were true... but Count Alminus was using them to manipulate public opinion.
+“Bjorn Jandel stole the credit for the disaster recovery efforts of the Gearfang Clan at the last moment.”
 
-It was a setup.
+“Is this the behaviour of a hero?”
 
-He would start with questioning my abilities and then gradually escalate the accusations.
+Count Alminus has perfectly grasped where Baron Jandel’s power stems from: his reputation.
 
-'Bjorn Yandel stole the credit from the Sawtooth Clan, who risked their lives to slay the Floor Lord.'
+“Hmm. So you filed the subjugation request without even discussing it with us?”
 
-'Is that how a hero should act?'
+After returning home and announcing the raid plan, Amelia shot a cold glare at me.
 
-Count Alminus had correctly identified the source of my power.
+Though it didn’t last as long as usual.
 
-My reputation.
+“Haah…”
 
-"Hmm, so you filed the raid request without telling us?"
+She sighed as if looking at a misbehaving child, and searched for solutions first.
 
-"...Yes!"
+“Do you at least realize how many five member clans attempted to fight a Floor Lord and never came back?”
 
-I returned home and told Amelia about the raid plan. Her gaze was cold, but...
+“I’ve heard. People say it’s especially risky with only five. That’s why they usually gather between twenty and thirty people…”
 
-"Ha..."
+For reference, these numbers are based on explorers between the 6th and 7th floors.
 
-...it didn't last long. She sighed, like a parent looking at their troublesome child, and asked,
+However…
 
-"Do you even know how many clans have disappeared after attempting a five-man Floor Lord raid?"
+“Don’t worry. I have a plan.”
 
-"I heard about it. They said it's especially dangerous with only five people. That's why most raid teams have twenty to thirty members..."
+Typically the Lord of Terror is meant to be cleared by five. Only then does its proper reward drop.
 
-That number was based on the average level of 6th and 7th-floor explorers.
+The rewards were well known, so there were quite a few clans that would periodically go after the feat.
 
-But...
+Not a lot, about two or three every century.
 
-"Don't worry. I have a plan."
+‘It’s actually much easier to clear a 5-player raid than a 30-player raid if you know the strategy.
 
-Five-man clears were the standard for the Lord of Terror.
+That’s the reason I chose the Lord of Terror as the target for our next expedition.
 
-That's how you got the best rewards.
+Around here, people think a five-person clear against the Lord of Fear is harder than taking on Riakis.
 
-And the rewards were well-known, so there were always a few clans who attempted it.
+Succeeding here would silence all doubts about my capabilities.
 
-Not many, maybe two or three every hundred years.
+“…”
 
-'If you know the strategy, a five-man clear is actually much easier than a thirty-man raid.'
+Right then, I noticed Auyen—who’d been silently watching our Yandel Family meeting—fidgeting around.
 
-That's why I had chosen the Lord of Terror as our next raid target.
+I suddenly wondered why he was here, but didn’t say anything.
 
-People considered a five-man Dreadfear clear more difficult than a Riakis clear. If we succeeded, no one would question my abilities.
+Well, he did help out this time, so fair enough.
 
-"..."
+“Rokrok.”
 
-Auyen, who had been quietly listening, started fidgeting.
+“Yes, SIr? Please speak.”
 
-I suddenly wondered why he was even here... but I didn't say anything.
+I told him what he was probably hoping to hear:
 
-He had been through a lot with us in Ice Rock.
+“You can sit out on this one if you want, so don’t worry.”
 
-"Lokrok."
+“Ah… Indeed… R-right…”
 
-"Yes, Baron. What can I do for you?"
+He let out an obvious sigh of relief.
 
-I told him what he wanted to hear.
+“Then who’s going to fill that open spot?”
 
-"You don't have to join us for this expedition. Don't worry about it."
+After that, I sent Auyen back to his room and started discussing who to include in the team and the overall strategy for the raid.
 
-"Ah... I see..."
+And when it was all said and done.
 
-He looked relieved, letting out a sigh.
+“Jandel.”
 
-"Then who will fill the last spot?"
+Amelia called to me as I headed to my room to rest.
 
-After sending Auyen to his room, we discussed the raid plan and the remaining member.
+“You’ve been making more and more enemies lately… Are you sure you’re not pushing yourself too far?”
 
-And after a while...
+She basically meant: Aren’t you doing too much and stirring up trouble everywhere?
 
-"Yandel."
+“Just look at this mess with the Count’s family. In our current situation, it might be simpler to pay what they want rather than end up on bad terms with them.”
 
-As I was about to leave the room, Amelia called out to me.
+I understood Amelia’s concern completely.
 
-"You've been making a lot of enemies lately... Are you sure you can handle this?"
+They’ve been prominent in this region for a long time.
 
-In other words, wasn't I being too reckless?
+My becoming a noble chief, and now this lawsuit—it’s only natural she’d feel uneasy about us constantly clashing with them.
 
-"The Count, for example. It would have been better to just pay him off than to make an enemy out of him."
+But…
 
-I understood her concern.
+“Amelia.”
 
-They were the established powers of this world.
+I shook my head and answered firmly:
 
-She was probably worried about the potential consequences of my actions.
+“If you’re too afraid of a counterattack and refuse to expand your front yard, you’ll lose the game eventually.”
 
-Becoming Chieftain as a noble, challenging Count Alminus...
+It’s a long-held belief.
 
-But...
+This was one of my longest-standing beliefs.
 
-"Amelia."
+“…?”
 
-I didn't back down.
-
-"If you're scared of being attacked, you'll never be able to expand your territory."
-
-It was my long-held belief.
-
-"...?"
-
-Amelia looked at me as if I was speaking a different language.
+Amelia looked at me like what the hell was I talking about.
 
 ---
 
-The next day, I went out with Erwen.
+The next day, I went out alone with Erwin for the first time in a while.
 
-It was just the two of us.
+Our destination was Raven’s laboratory in the mage tower.
 
-Our destination was Raven's lab in the Mage Tower.
+“Ah, you came?”
 
-"Oh, you're here?"
+“It’s been a while, Raven.”
 
-"It's been a while, Raven."
+“I heard about your victory, congratulations. I tried visiting a few times, but you were always out.”
 
-"I heard about your promotion. Congratulations. I tried to visit you a few times, but you were never home."
+“I’ve been really busy these days.”
 
-"I've been busy lately."
+Her lab was as cluttered and dusty as ever.
 
-The lab was covered in dust, just like I remembered.
+“…The lab is a bit messy, isn’t it? Recently, I’ve been spending almost all my time at the military base in the capital. It’s been a really long time since I’ve been in the lab.”
 
-"...Sorry about the mess. I've been spending most of my time at the military base in the Imperial City. It's been a while since I've been here."
+“Thank you. I didn’t expect you to take leave to make time for this.”
 
-"Thank you. I didn't expect you to take time off for this."
+“Of course! Every mage would line up for a chance to study a Floor Lord’s Essence.”
 
-"Of course I would. It's a chance to see a Floor Lord essence. Any mage would jump at the opportunity."
+Hmm, that’s probably true…
 
-Well, she wasn't wrong.
+But none are as reliable as her..
 
-But there was no one I trusted more than Raven when it came to magic.
+Even Vercil Gowland, who specialized in magical tools, admitted she had no experience in handling such an essence.
 
-Bersil specialized in artifacts, not essences.
+“When you told me about Riakis’s essence, I did a bit of research on it. And it’s quite unusual.”
 
-"I did some research on the Riakis essence after you contacted me. It's quite a unique essence."
+“Yes, I’d say that’s accurate.”
 
-"It is."
+“Okay, shall we take a look…?”
 
-"Shall we begin...?"
+As Raven approached with a grin, Erwin took a step back.
 
-Raven approached Erwen with a grin, and Erwen took a step back, looking at me.
+“…Mister, can we just do it the two of us, like before?”
 
-"...Can't we just do this with the two of us? Like before?"
+Erwin seemed uncomfortable being treated like a test subject, but there was no helping it.
 
-Erwen didn't like being treated like a lab rat, but it couldn't be helped.
+“As I said, a mage’s help is essential to properly assess the power you’ve gained.”
 
-"As I said, we need a mage to properly analyze your new abilities."
+“…”
 
-"..."
+“Can you do it?”
 
-"Can you do this?"
+“Yes…”
 
-"Yes..."
+Erwin nodded at my persuasion.
 
-Erwen reluctantly agreed, and Raven chuckled.
+Seeing this, Raven chuckled.
 
-"...Erwen, you haven't changed at all."
+“Erwin, you’re still the same as ever.”
 
-"It's none of your business."
+“That’s none of your concern.”
 
-"Well, that's true. Come here."
+“Well, that’s fair enough. Come this way.”
 
-The atmosphere was stifling.
+Ugh, the tension is suffocating.
 
-We used to be so close...
+I think they used to just call each other by first names and get along pretty well.
 
-But things had changed.
+I wish their relationship would go back to the way it used to be.
 
-'She did try to separate us because she thought I was using Erwen...'
+Ah, forget it, they’ll figure it out themselves.
 
-Maybe Raven still cared about me.
+It’s silly for me to worry when they’re fine, so I just focused on the experiment.
 
-'Whatever, it's their problem.'
+“Here, wear this bracelet.”
 
-I didn't care about their relationship and focused on the experiment.
+It was the same bracelet Raven had forced me to wear to test the Corpse Golem essence.
 
-"Here, put this on."
+But I don’t think they could be called bracelets though.
 
-Raven handed Erwen a familiar bracelet. It was the same one she had used when we tested the Corpse Golem essence.
+“…Ugh.”
 
-Well, could you even call it a bracelet?
+As soon as Erwin sat down in the ominous chair, the bracelets(?) clamped shut and locked her arms in place.
 
-"...Ugh."
+“Don’t worry too much. It’s just inserting a mana conductor into your veins to check your vital signs.”
 
-As soon as Erwen sat down on the ominous chair, the 'bracelet' snapped shut, locking her in place.
+“…”
 
-"Don't worry. We're just going to insert a mana conductor into your vein and monitor your vital signs."
+“Shall we start the rest then?”
 
-"..."
+Raven continued to make various preparations for the experiment, and once everything was ready, she asked Erwin to activate her skill.
 
-"Shall we begin?"
+“It might be tricky, since it’s your first time using this ability. But try to visualize it clearly. It’ll be easier if you think of the name that the Great Sage gave the ability-”
 
-Raven made the necessary preparations, and then she instructed Erwen to use her new ability.
+“I’ll handle it, so just be quiet. Let me concentrate.”
 
-"It might be difficult since it's your first time, but just imagine it. Try to remember the name the Sage gave it..."
+“Sure, sure. Well, you’re probably a better expert on this than I am as a mage.”
 
-"I can do it myself, so be quiet. I need to concentrate."
+A few seconds after Erwin closed her eyes, something began to change.
 
-"Alright. You're the expert when it comes to abilities, after all."
+Although there were no visible changes on the outside…
 
-Erwen closed her eyes, and a few seconds later...
+Beep, beep, beep-beep-beep, beep—
 
-Beep, beep, beep, beep...
+The graph of the biometric signals connected to Erwin from the magical tool began to fluctuate.
 
-The graph displaying Erwen's vital signs started fluctuating wildly.
+The essence’s skill had been activated correctly…
 
-The essence's skill had activated.
+[Erwin Fornacci di Tercia casts [Fusion]
 
-「Erwen Fornachi di Tersia has cast [Fusion].」
+In short, [Fusion] is a Transformation-type ability. It’s similar yet distinct from my [Transcendence].
 
-[Fusion] was a Transformation ability, similar to my [Transcendence], but also different.
+[Transcendence] influences only my active skills—
 
-[Transcendence] affected active skills, while...
+「All Passive Skills will fuse into one.」
 
-「All passive skills are combined into one.」
+But [Fusion] targets passive skills.
 
-[Fusion] only affected passive skills.
+‘I wonder what the result will be.’
 
-'I wonder what it is...'
+I recalled the passive skills Erwin possessed one by one.
 
-I tried to remember Erwen's passive skills.
+[Energy of the chaos engulfs [Attribute Enhancement]
 
-「Chaos energy consumes [Elemental Enhancement].」
+The Level 5 essence from Evan, boosting damage of all four elemental attributes (water, fire, wind, earth).
 
-The 5th-grade Evan essence.
+[Energy of the chaos devours [Absolute Concentration].」
 
-It increased all four elemental damage types: fire, water, wind, and earth.
+The Level 4 essence from Ritcannon (royal reward), it doubled the damage by all casting-type skills.
 
-「Chaos energy consumes [Absolute Focus].」
+[Energy of the chaos devours [Harmony]
 
-The 4th-grade Lithcannon essence I had recommended as a reward.
+The Level 5 essence from scout Ertes that converted Soul Energy into Natural Energy.
 
-It doubled the damage of casting skills.
+[Energy of the chaos devours [Half’s Blessing]
 
-「Chaos energy consumes [Harmony].」
+The Level 5 essence from Wolf Beast, Kalban. It gives you buffs at regular intervals.
 
-The 5th-grade Patrol Ertes essence.
+[Energy of the chaos devours [Hunter’s Eye]
 
-It converted Soul Power into natural energy.
+The level 4 essence from Metcrow. It triples all vision-related stats and adjusts all long-ranged attacks.
 
-「Chaos energy consumes [Half-Blood's Blessing].」
+[Energy of the chaos devours Food Chain]
 
-The 5th-grade Kalban essence.
+The level 3 essence from Heavenly Adjudicator, she obtained with the help of Fairies after the team was disbanded.
 
-It gave her a random buff every few minutes.
+Its passive skill greatly increases all damage dealt to monsters proportional to one’s Rank.
 
-「Chaos energy consumes [Tracker's Eye].」
+While it’s not as valuable as its active skill [Rupture], the passive still holds significant value.
 
-The 4th-grade Metcrow essence.
+‘Since the Floor Lord’s essence isn’t included in [Fusion], this is all there is.’
 
-It tripled all vision-related stats and gave a bonus to ranged attacks.
+To be honest, I couldn’t precisely predict what the combination of these skills would produce.
 
-And lastly...
+There are so many essences in Dungeon & Stone.
 
-「Chaos energy consumes [Food Chain].」
+No matter how knowledgeable I am, it’s physically impossible to test every single combination among that astronomical number of possibilities. Even more so because I didn’t play the cheat version of the game.
 
-The 3rd-grade Heavenly Judge essence she had received from the fairy tribe after our team disbanded.
+‘…Well, I have tried most of the combinations involving high-level essences, though.’
 
-It increased damage against monsters proportional to their level.
+Thanks to that, I’ve found quite a few powerful combos.
 
-Even though it wasn't as powerful as [Rupture], the essence's active skill, the passive was still quite valuable.
+But attaining those combos would be far in the future.
 
-'The Floor Lord essence isn't included in the fusion, so that's all of them.'
+All we could do now was observe the results of her passive skills combination
 
-I didn't know what the combined skill would be.
+[Energy of the chaos resides in the flesh of Erwin Fornaci di Tercia]
 
-There were countless essences in [Dungeon and Stone].
+That’s why the help of a mage was essential.
 
-Even I, a seasoned player, couldn't possibly test every single combination.
+It’s not like I can ?I’m not sure.”
 
-I hadn't played the cheat version.
+“Really? Then we’ll have to go through the condition checklist”.
 
-'...Well, I've tested most of the higher-grade combinations.'
+Raven continued with experiments similar to those she had conducted on me before, and of course, the experiment wouldn’t end in just one day.
 
-I had found quite a few useful combinations.
+“I’ve taken leave for the entire month, so from now on, come here every day.”
 
-But recreating those combinations was a long-term goal.
-
-So what about now?
-
-What kind of skill had Erwen obtained?
-
-「Erwen Fornachi di Tersia's body is imbued with Chaos energy.」
-
-We needed a mage to analyze the skill's effects.
-
-I couldn't see the system logs.
-
-"So... how does it feel? Anything different?"
-
-"I don't know..."
-
-"Alright, then we'll test it out one by one."
-
-Raven began the experiment, just like she had done with me in the past.
-
-It wasn't something we could finish in a single day.
-
-"I've taken the rest of the month off, so come here every day."
-
-Erwen's schedule for the month was set.
+Erwin’s schedule for the month was set.
 
 ---
 
-「Erwen Fornachi di Tersia's body is imbued with Chaos energy.」
+[Energy of the chaos resides in the flesh of Erwin Fornacci di Tercia]
 
-「Soul Power and Natural Energy are greatly increased, proportional to the character's level.」
+[The character’s soul power and natural force greatly increase proportionally to the Rank]
 
-「When dealing elemental damage to monsters below 4th-grade, additional Chaos damage is inflicted.」
+[When inflicting elemental damage on monsters of Level 4 or lower, additional chaos elemental damage is dealt]
 
-「While concentrating, all received damage is absorbed using Soul Power.」
+[All damage taken while concentrating is absorbed using soul energy]
 
 ---
 
-I was busy after returning from the Mage Tower.
+Even after returning from the Mage Tower, busy times continued.
 
-[I've heard some strange rumors about you lately. Of course, I'll help. That should quiet them down.]
+[I’ve also heard some strange rumors lately about you, Baron Jandel. Of course I’ll help if you need witnesses to refute them. That should quiet those nonsensical claims.]
 
-I secured testimonies from the explorers I had rescued.
+I managed to get assurances from the low-rank explorers I met in the Labyrinth to testify if needed.
 
-[There was a fierce battle on the summit of Dragon's Mountain Range. One of the Seven Strengths died. And there's something else you should know—]
+[There seems to have been a fierce battle at the top of the Dragon Mountains. One of the Seven Powerful died there. Oh, and one more thing you should know—.]
 
-I received a report from Bersil about the war and other news.
+I checked war-related information from Vercil Gowland and anything else that I might have missed.
 
-[Bjorn!! Come to the sanctuary! We need you!]
+[Bjorn!! Hurry to the sanctuary! We need you!]
 
-I had to visit the sanctuary to deal with some tribal matters.
+In between, a situation arose within the tribe that required a visit to the sanctuary.
 
-[...It hasn't even been a month! What do you know about blacksmithing? To properly melt Mithril, you need to build a specialized forge... What? You're not rushing me? Don't lie!]
+[It hasn’t even been a month yet! What do you know about blacksmithing? Properly melting Mystium requires building the facilities first… Huh? You didn’t rush it? Stop lying!]
 
-I visited the dwarf's forge to check on the progress of the loot disposal and Mithril smelting.
+I also stopped by the dwarf blacksmith to check on the progress of smelting metals and disposing of loot.
 
-In idle games, you have to click on the progress bars to speed things up.
+After all, even in idle games, you have to click on those progress gauges frequently to speed things up.
 
-'...It's only been two weeks?'
+‘……It’s only been half a month.’
 
-I was exhausted.
+My body was getting more and more exhausted with each passing day.
 
-I returned home late at night and collapsed onto the bed.
+Today, after returning home late at night, I collapsed onto the bed and closed my eyes.
 
-I wanted to sleep...
+It wasn’t to rest and finish the day.
 
-But I couldn't.
+Unfortunately, I still had one more task to complete before I could get some sleep.
 
-「Character's soul resonates and is drawn to a specific world.」
+[The character’s soul resonates and is drawn to a specific world]
 
-I had one more task to complete.
+…Let’s go.

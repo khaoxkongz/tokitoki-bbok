@@ -1,389 +1,375 @@
-# Giant Step 2
+Giant Step (2)
 
-The green light that had momentarily flashed had long since faded, but a heavy silence lingered in the air.
+The flickering green light had died down a while ago, but a heavy silence followed.
 
-“…….”
+“……”
 
-“…….”
+“……”
 
-They looked like students who had just been scolded by a strict teacher.
+It was like the reaction of a student scolded by a scary teacher.
 
-It was a pitiful sight, but for some reason, it only made me more irritated.
+Seeing grown adults acting that way might normally stir up some sympathy, but for some reason, it only made me more annoyed.
 
-‘I should have just stayed home and slept.’
+If I’d known it was going to be like this, I should have just stayed at home and slept.
 
-They were all so complacent.
+Everyone’s completely out of it.
 
-How could they be so ignorant?
+How lazy have they been about gathering information all this time?
 
-I didn’t come here to listen to this garbage.
+I didn’t drag my tired body here just to listen to this kind of crap.
 
-‘Ugh, I’m so sleepy…’
+‘Ugh, more than that, I’m so sleepy I could die…’
 
-Maybe I was just being irritable because I was tired.
+Maybe I’m irritable because I’m tired.
 
-No, that had to be it.
+No, that must be it.
 
-If I were in my normal state, I wouldn’t be this easily annoyed, and even if I was, I wouldn’t let my emotions get the better of me.
+If I were in a normal state, I wouldn’t be this annoyed, nor would being annoyed make me this emotional.
 
-Thump, thump.
+Tap, tap.
 
-I was starting to regret coming here.
+I start thinking seriously.
 
-Should I just end this and go home?
+Should I just end this now, before I waste any more time?
 
-Hmm, that would be a shame…
+Hmm, it’s a bit regrettable though…
 
-Thud.
+Tap.
 
-I finally made my decision and spoke.
+After finishing my contemplation, I slowly opened my mouth.
 
 “One more time.”
 
-Right, let’s give them another chance.
+Yeah, let’s take one more look around.
 
-Maybe they’ll surprise me.
+Who knows what might turn up?
 
-“I’ll give you another opportunity.”
+“I’ll give you a chance.”
 
-I glanced around, and the members flinched, avoiding my gaze.
+With that, I looked around. The members whose eyes met mine flinched and began to watch each other.
 
 It was a satisfying sight.
 
-They would be more likely to reveal their hidden information if they felt pressured.
+Such an atmosphere means that the members will reveal information they have been holding back…
+
+‘Luckily, no one’s pointing it out.’
+
+They just skipped my turn so naturally.
+
+With just one comment “everything was garbage,” I managed to breeze through a whole round.
+
+‘Thinking this way does make me a bit less annoyed.’
+
+While I was thinking this, one of the members who had been exchanging glances took the initiative.
+
+“……then let’s go in reverse order this round. Pssit.”
+
+It was the clown who, even in this situation, kept looking at me with his characteristic laugh.
+
+I was actually looking forward to it.
+
+I could feel the determination in his voice.
+
+He must have volunteered to go first because he was somewhat confident.
+
+“Before we start, though…”
+
+He quickly scanned the room and spoke,
+
+“I hope no one here plans on sliding by on the bare minimum this time.”
+
+At first, I thought he was targeting me, but it was clear that wasn’t the case.
+
+He was giving a warning.
+
+He would bring out his reserved information, and so should you.
+
+“……”
+
+Unfortunately, no member responded to his warning.
+
+Maybe they took his silence as affirmation?
+
+The clown then placed his hand on the jewel.
 
 And…
 
-‘Thankfully, no one’s objecting.’
+“In Noark, they are planning a city invasion.”
 
-They had naturally skipped my turn.
+As soon as the green light lit up.
 
-‘It was all garbage.’
+“…!”
 
-That one statement had allowed me to skip an entire round.
+The pupils of the masked members widened dramatically. I was too tired to react, but I was just as surprised.
 
-‘Now I’m feeling a bit better.’
+Because…
 
-As I was thinking that…
+“A city invasion?”
 
-One of the members stepped forward.
+Not a battle within the labyrinth, but a real city invasion.
 
-“…Then let’s go in reverse order this time. Pfft.”
-
-Clown, still chuckling despite the tense atmosphere, looked at me.
-
-I had some expectations.
-
-There was a hint of determination in his voice.
-
-He must have been confident in the information he had prepared.
-
-“But before we begin…”
-
-He looked at the other members and said,
-
-“I hope no one’s planning to freeload this time.”
-
-At first, I thought he was targeting me…
-
-But I soon realized he was giving them a warning.
-
-He was telling them to bring their A-game, just like he was.
-
-“…….”
-
-No one responded to his warning.
-
-But he must have taken their silence as a yes.
-
-He placed his hand on the jewel.
-
-And…
-
-“Noark is planning to invade the city.”
-
-“……!”
-
-The moment the green light flashed…
-
-The members’ eyes widened in shock.
-
-I was also surprised, even though I didn’t show it.
-
-“I-invade the city?”
-
-He wasn’t talking about the war in the labyrinth, but an actual invasion of the city.
-
-It meant that the explorers who had escaped to the outside world were planning to attack Lafdonia.
+That means those who went outside are planning to invade Raphdonia.
 
 “…Why?”
 
-Fox asked, her voice trembling with confusion.
+The Fox mask, unable to hide her panic, asked the clown.
 
-“You said the outside world was safe. Why would they do that?”
+“You said everything was fine outside, why would Noark need to do that?”
 
-It was a valid question, and I had been wondering the same thing.
+A valid question, and I had been thinking the same.
 
-Why were they still in the labyrinth, even though they could escape to the outside world?
+They went out to the outside world but still forced their way back into the labyrinth to build their strength…
 
-And now they were planning to invade the city?
+And now they plan to invade the city?
 
-‘…Is the situation outside that bad? Or do they have a reason to destroy the royal family?’
+‘Is it because the situation outside is not so good, or is there a need to overthrow the royal family?’
 
-There were many questions, but Clown didn’t answer.
+There were many questions, but the clown held back on answering them.
 
-“Well… my turn is over. Pfft.”
+“Well… my turn is over, Pssit.”
 
-Right, that’s enough for one turn.
+Yeah, that‘s enough information to pass the turn.
 
-He glanced at me and then leaned back in his chair.
+After that, the clown glanced at me briefly, then leaned back in his chair as if he’d said all he needed to say.
 
-It was Queen’s turn.
+Which meant it was now the Queen’s turn.
 
-“…….”
+“…”
 
-She remained silent, her expression troubled.
+Even though it was her turn, she stayed silent for a while.
 
-She seemed to be deep in thought.
+She seemed to be lost in thought.
 
-Clown seized the opportunity and taunted her.
+Sensing this, the clown did not miss his chance to provoke her.
 
-“What are you thinking about? Don’t tell me you’re planning to skip your turn again?”
+“What are you hesitating about? Don’t tell me you plan to gloss over it again this time?”
 
-“…I was just thinking.”
+“……I was just thinking.”
 
-She placed her hand on the jewel, her voice curt.
-
-Clown’s words had spurred her into action.
+The Queen curtly replied and then placed her hand on the jewel. Whatever the clown said seemed to have pushed her.
 
 ‘Nice assist.’
 
-I mentally gave him a thumbs-up and waited.
+While I mentally gave the clown a gold star, the Queen finally opened her mouth.
 
-“This is something I only recently confirmed.”
+“This is something we only recently confirmed.”
 
-What is she talking about? Why is the introduction so long—
+But why is the introduction so long—
 
-“The Master of the Round Table is Auril Gabis.”
+“The Master of the Round Table is Auril Gavis.”
 
 …What?
 
 ---
 
-The Master of the Round Table.
+The one who recruited promising future players and formed this secret gathering.
 
-The one who had gathered promising explorers and created this secret gathering.
+I’d suspected it.
 
-I had suspected it.
+That old man I saw once, could it be Auril Gavis?
 
-That the old man I met in the past was Auril Gabis.
+My doubts began back in the past era.
 
-It all started in the past.
+[If you want to add that rule, it seems we’ll need to put more authority into it]
 
-[We’ll need to add more authority to implement the rule you suggested.]
+About 22 years ago, I helped that old man build a system similar to the Round Table.
 
-I had worked with him to create a system similar to the Round Table in the community 22 years ago.
+Of course, up to here, it’s merely suspicious, and it could just be a coincidence. It’s not a special idea; anyone could have thought of it.
 
-Of course, it could have been just a coincidence. It wasn’t a particularly unique idea, anyone could have come up with it.
+The truly curious part was something else.
 
-But the real coincidence was something else.
+‘Their actions are just the same.’
 
-‘They act the same.’
+Auril Gavis created this spiritual world and, indirectly, helped promising individuals grow, just as the Master at the Round Table had done.
 
-Auril Gabis had created this spiritual world and subtly helped promising explorers grow stronger.
+“What are you saying? That person… is Auril Gavis?”
 
-Just like the Master of the Round Table.
+The Fox, who seemed to have been particularly loyal to the Master from the beginning, muttered in shock, but the Queen’s response did not change.
 
-“W-what? H-he’s… Auril Gabis?”
+“It’s exactly as I said.”
 
-Fox, who had always been loyal to the Master, was speechless.
+“So, you’re saying he’s the one who brought us into this world…?”
 
-But Queen’s answer was firm.
+“As far as we’ve been able to confirm, yes.”
 
-“That’s right.”
+Knowing Queen worked with the GM, Fox mask didn’t try to deny it further and clammed up.
 
-“S-so he’s the one who brought us here…?”
+Swoosh.
 
-“That’s what we’ve confirmed.”
+As soon as the green light went out, the Queen removed her hand from the jewel and shot a glance at the clown. As if to say, “How’s that?”
 
-Fox couldn’t say anything more.
+It was kind of funny.
 
-She knew that Queen was backed by the GM.
+Seeing her check the clown first, it seemed like her pride was quite hurt.
 
-Swaaaaaaaaaaa.
+‘Those two actually have good synergy.’
 
-Queen removed her hand from the jewel as soon as the green light faded and glanced at Clown.
+Right, from now on, I should take every chance to pit them against each other.
 
-It was amusing.
+‘So the Master of the Round Table is Auril Gavys…’
 
-She was checking on Clown before even looking at me.
+I’d been suspecting it, but it’s still a bit shocking.
 
-It seemed like her pride had been hurt.
+Still, I’ll think more about that old man later.
 
-‘They’re a good match.’
+I’m too tired right now, and my brain isn’t working.
 
-Okay, I should try to instigate a fight between them whenever I get the chance.
+‘For now, I’ll just make sure I don’t forget all this new input…’
 
-‘The Master of the Round Table is Auril Gabis…’
+As I set my new goals, the attention shifted to the next person’s turn.
 
-It was shocking, even though I had suspected it.
+“Fox, it’s your turn now.”
 
-But I decided to think about the old man later.
+We had already reached the third turn.
 
-My head wasn’t working properly right now.
+Maybe it was because the first two pieces of information were so shocking?
 
-‘Let’s just focus on absorbing the information…’
+My mind was foggy, but I was more focused than before.
 
-As I was setting my new goals…
+‘Yes, this is what the Round Table should be like.’
 
-…the turn passed.
+People slack off, then you nudge them and they cough up great intel.
 
-“It’s your turn, Fox.”
+Oh, but hopefully the fox doesn’t go blabbing about the expedition’s intel…
 
-It was the third turn.
+‘…Let’s hope she’s got something else.’
 
-Maybe it was because the previous two pieces of information were so shocking…
-
-But I was more focused now, despite my drowsiness.
-
-‘This is more like it.’
-
-Maybe people need a bit of stimulation to stay motivated.
-
-They were revealing good information now that they felt pressured.
-
-Ah, but I hope Fox doesn’t reveal anything about the expedition force…
-
-‘…She’ll probably talk about something else.’
-
-I watched her with a mixture of worry and anticipation.
-
-“The Guild Master of the Explorer’s Guild, Iriya Adnus, sent a saboteur to sabotage the royal expedition.”
-
-If it weren’t for this situation, there would have been no reason for her to reveal this information.
-
-Damn it… this is my fault.
-
-‘Well, it’s not a big deal.’
-
-I tried to be positive.
-
-There was no guarantee that the Guild Master was on our side.
-
-And maybe this would lead to new information.
-
-‘Hmm… maybe she’s even thinking about that.’
-
-I focused on observing their reactions.
-
-Clown seemed surprised, while Queen’s expression was unreadable.
-
-Goblin glanced at Fox with concern, and…
-
-“Adnus… sent a saboteur…?”
-
-Stag Antlers, who seemed to be from the royal faction, was the most surprised.
-
-So they didn’t know anything about it.
-
-“Well, it’s a green light, but…”
-
-Crescent Moon, who had been silent until now, spoke cautiously.
-
-He was looking for any objections.
+With a mix of worry and anticipation, I watched Fox, and soon she brought up some information. It was about the big clan boycott she’d mentioned earlier. Since no one else seemed to know about it, the jewel glowed green.
 
 But…
 
-“Pfft, well… it’s a bit lacking, but…”
+“Ms. Fox, are you joking?”
 
-“The previous information was also something no one else knew.”
+“…If you’re going to do it like this, you may not be able to continue attending these gatherings.”
 
-Fox’s turn ended, barely passing the minimum requirement.
+The clown and the queen, who had just been arguing, now joined forces to object. In the end, the fox mask had to try again.
 
-Now it was Goblin’s turn.
+A truly unfortunate turn of events.
 
-“…I-it’s my turn now…”
+“The leader of the Explorers’ Guild, Iriya Adnerse, is hoping the royal expedition fails and has sent spies to ensure it.”
 
-Please, don’t say anything stupid.
+If it weren’t for this, there wouldn’t have been any information about the expedition at all.
 
-“Why are you so nervous? Pfft. No one’s expecting anything from you.”
+Tsk… a fitting example of reaping what you sow.
 
-“Well, that’s just your opinion, isn’t it?”
+‘Well, I guess it’s not something that’ll do major harm.’
 
-“Pfft, are you saying Queen is different?”
+I decided to look at it on the bright side.
 
-“…Even a squirrel has a nut hidden in its cheek during winter.”
+After all, there’s no guarantee the guild leader is on our side.
 
-It was an ambiguous statement.
+And by opening up this information, other members might investigate and come up with new information.
 
-Goblin seemed to have taken it as a compliment.
+‘Hmm… maybe she even mentioned it with that in mind.’
 
-“Pfft, this guy has no shame. Anyway, just get on with it.”
+I let go of my hesitation and focused on the members’ expressions.
 
-“Ah, y-yes… A d-divine message… a divine message was received, but—”
+The clown seemed to be thinking, ‘Guild Master?’ and the Queen was hard to read.
 
-“…Another divine message? Does the Goddess of the Leathlas Church have that much to say?”
+The goblin cast a worried glance at the fox…
 
-“I-it’s from the Tovera Church! Not our church!”
+“Lord Adner sent spies…?”
 
-“Hmm? The Tovera Church?”
+And deer horns, presumably affiliated with the royal family, showed the most alarm.
 
-“Yes! The Tovera Church! They’re known for rarely giving out divine messages—”
+So, you guys really didn’t know about that, huh.
 
-“Just tell us the content.”
+“Now, the green light is on but…”
 
-Goblin sighed and got to the point.
+The Crescent Moon, who had been quiet throughout the second round, glanced around and started speaking, wondering if anyone would challenge.
+
+But…
+
+“Pssit, well, it’s still quite lacking…”
+
+“She got a green light during her first attempt as well”
+
+Using two pieces of information, Fox barely made the minimum cut for her turn.
+
+So now it’s the Goblin’s turn?
+
+“…Now it’s my turn.”
+
+Please, don’t just bring up something strange.
+
+“Why are you so nervous? Pssit. No one here expects anything from you, anyway.”
+
+“Well, isn’t that just your opinion, clown?”
+
+“Pssit, do you think differently, Queen?”
+
+“ ……Even a squirrel in winter has an acorn hidden in its cheek if you look hard enough.”
+
+It was unclear whether that was a compliment or an insult.
+
+Unsure, the Goblin responded in a strange voice.
+
+“Uh… thank you…?”
+
+He seemed to take it as a compliment.
+
+“Pssit, are you clueless or just spineless? Enough already, just get on with it.”
+
+“Oh, yes… we’ve received a prophecy—”
+
+“…Another prophecy? Why does the Leatlas Church’s goddess have so much to say?”
+
+“T-this isn’t from our church. It’s from the Toberra Church!”
+
+“Huh? Toberra Church?”
+
+“Yes! The Toberra Church. I’m not sure if you know this, but they’re famous for almost never receiving oracles—”
+
+“I don’t need the background. How about you just tell us what the prophecy actually said?”
+
+Prompted by the Clown, the Goblin sighed and went straight to the point.
 
 “The Sage of Eternal Life has returned.”
 
-One sentence.
+It was an extremely brief one-line piece of information.
 
-It received a green light, but the reactions were lukewarm.
+The green light was on, but the reaction was not good.
 
 “…Is that all?”
 
-“Yes… that was the message.”
+“Yes… that was the content.”
 
-Clown chuckled, and Queen asked a follow-up question.
+The Clown laughed as if it was ridiculous, and the Queen asked a further question.
 
-“Was there any commentary from the Cardinal or the High Priests? That would help us evaluate the information.”
+“Was there any commentary or interpretation by the cardinals or high priests? That would help in assessing the value of the information.”
 
-“…No, there wasn’t. I-I only managed to… overhear the message itself…”
+“…There was none. I, I only managed to hear about the prophecy’s content…”
 
-Goblin sounded flustered.
+Goblin’s voice carried a clear tone of embarrassment.
 
-He hadn’t expected this reaction.
+It seemed he had not anticipated this kind of situation.
 
 Well, this round was a bit unusual.
 
-Normally, any divine message would be accepted without question.
+Normally, if the word ‘prophecy’ came up, it passed no matter what it was.
 
-‘…Should I help him out?’
+‘…Maybe I should lend him a hand.’
 
-I didn’t know what he would say if I left him alone.
+If I just leave him alone, who knows what random details he’ll start blurting out.
 
-I decided to intervene.
+As soon as I decided that, I cut off the Clown and jumped into the conversation.
 
-“Pfft, it seems like everyone thinks it’s a bit lacking. How about you try again with something else—”
+“Psiit. It seems everyone feels it’s a bit lacking. Why not try a different—”
 
-“The Sage of Eternal Life…”
+“The Sage of Immortality, you say…”
 
-“…………Yes?”
+“…Yes?”
 
-It was a tactic only I could use at this gathering.
+A bullshittery only I could pull off at this table.
 
-The…
+“Ah, so he’s returned…”
 
-“So he’s back…”
+The fifth style, Entertaining Judgment.
 
-…Lion Style.
+“Interesting.”
 
-Fifth Form, Interest Judgment.
+If I say it’s interesting, what can you all do?
 
-“This is interesting.”
+“…!!”
 
-What are you going to do about it?
-
-“……!!”
-
-[Dungeon and Stone] is a team game, after all.
+[Dungeon and Stone] is a team game after all.

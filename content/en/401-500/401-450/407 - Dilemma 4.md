@@ -1,469 +1,471 @@
-# Dilemma 4
+Dilemma (4)
 
-Before I started playing [Dungeon and Stone], the online game I enjoyed the most was a PvP-focused one.
+[Before Dungeons & Stones, the online game I used to enjoy had PvP as its main content.
 
-When you created a character, you had to choose one of two factions. You would then grow your character on a different continent and fight for dominance.
+It was a game where you chose one of two groups when creating your character and grew stronger while competing for power on another continent.
 
-The best part of the game was leading an expedition into the enemy faction's territory and stealing their field bosses.
+I remember the thrill of leading an expedition into enemy territory to steal field bosses. Nothing like it.
 
-The thrill of PK.
+And of course, the thrill of relentless PK.
 
-The satisfaction of landing the final blow on the boss.
+Landing the finishing blow on field bosses for sweet rewards.
 
-And the sweet, sweet praise from the enemy players.
+Plus, the bonus of getting all kinds of “praise” from enemy players.
 
-'It was a fun game.'
+“It was a pretty fun game, to be honest.”
 
-If it weren't for [Dungeon and Stone], I might still be playing that game.
+If I hadn’t come across Dungeon & Stone, I might still be playing that game.
 
-It was that good.
+Among the ones I played, that was the best.
 
-'...But if I had kept playing, I wouldn't have ended up here, would I?'
+‘…But if I had kept playing that, maybe I wouldn’t have been dragged here?’
 
-That thought crossed my mind, but it was too late for regrets.
+Not that there’s any point regretting it now.
 
-The reason that almost-forgotten game suddenly came to mind was simple.
+The reason that game suddenly came to mind is simple.
 
-The current situation was similar.
+In some ways, it shares many similarities with the current situation.
 
-The Dark Continent was currently occupied by Noark.
+Right now, the Dark Continent is occupied by the Noark bastards.
 
-Our expedition force had infiltrated their territory.
+Our expedition team is essentially sneaking into their territory.
 
-And most importantly...
+And, above all…
 
-'The same tactics work here.'
+‘The methods I used there work well here.’
 
-I could feel the same thrill as I did back then.
+I’m feeling the same thrill I felt while playing that game.
 
-"...A-ambush!"
+“An a-ambush!”
 
-"How did they get here?!"
+“How did the enemies get here…!”
 
-"Deal with the monsters first!"
+“Front! Deal with the monsters in front first!!”
 
-"Aaaaargh!"
+“Ahhh, aaaah!”
 
-The panicked reactions of the enemy explorers.
+The panicked movements of enemies who didn’t know what to do.
 
-"Y-you cowards...!"
+“Ugh! Cowards…!”
 
-"To think they would ambush us at a time like this!"
+“To strike at this time!”
 
-"I'll take you all with me!"
+“We will definitely take you down with us!”
 
-The sweet, sweet praise.
+All sorts of “praises” pouring in.
 
-「Bon Dragonian defeated. EXP +7」
+[You have defeated a Bone Dragonian. EXP +7]
 
-And the 3rd-grade monster kill, like a cherry on top.
+On top of that, defeating a level 3 monster like a piece of cake.
 
-But the best part was yet to come.
+Of course, the best part was yet to come.
 
-"Essence! Essence!"
+“It’s an essence!”
 
-Wow, did I get a reward for being a good Samaritan?
+Wow, did I get a gift for being good?
 
-Not only had we successfully ambushed the enemy without any casualties, but the monster we killed even dropped an essence.
+Not only did we succeed in PK without a single injury due to our ambush, but we also got an Essence drop from the monster we took down as a bonus.
 
-It was the second 3rd-grade essence we had obtained on this expedition.
+This is the second Level 3 essence we’ve obtained on this expedition.
 
-"Ashid, go secure the essence."
+“Ashid, go and collect the Essence.”
 
-"Yes, sir."
+“Yes.”
 
-While the mage secured the essence, I quickly finished cleaning up the battlefield.
+While I sent the mage to capture the essence in a test tube, we quickly cleaned up the battlefield.
 
-After all, the essence wasn't the only loot.
+Because the loot isn’t just the Essence, right?
 
-"Ugh, ugh... S-spare me..."
+As usual, the main dish of PvP lies elsewhere.
 
-"You know I can't do that."
+“Ugh, cough… s-save me…”
 
-What the hell, is he talking to a corpse?
+“You know we can’t spare you.”
 
-"Move aside."
+What’s he doing, talking to a corpse?
 
-I drew my hammer and ended their suffering.
+“Don’t waste words and step aside.”
 
-Crack, crack, crack!
+After taking out my hammer, I firmly pressed the ‘happiness button’ on those who were still clinging to life.
 
-Their bodies went limp.
+Crunch, crunch, crunch!
 
-I confirmed their deaths and then ordered the team members to strip them of their equipment. We stored everything in our shared subspace pocket.
+The sound of flesh squishing as bodies went limp.
 
-"Whew, with the equipment in their subspace pockets, this is a huge haul."
+After ensuring the kills personally, I had the team strip the equipment and store it all in our shared subspace.
 
-"We'll all be rich when we get back."
+“Whew,Considering the equipment they have in their subspaces, this is no small haul.”
 
-The team members were excited, even just from the visible loot.
+“When we get back, everyone will get a hefty share.”
 
-It was understandable.
+The team’s excitement was evident, even from a quick glance.
 
-Even a 3rd-grade essence couldn't compare to the equipment of fifteen 7th-floor explorers.
+It was only natural.
 
-And we hadn't even broken a sweat.
+As valuable as Level 3 essence is, it doesn’t compare to the gear of 15 elite soldiers on the seventh floor.
 
-"Loot secured."
+Besides, it didn’t require much effort on our part.
 
-"Any casualties?"
+“Loot collection complete.”
 
-"None, sir."
+“Injuries?”
 
-"Good."
+“None.”
 
-I couldn't hide my satisfaction.
+“I see. Very good.”
 
-A clean victory in under five minutes, without a single casualty.
+I couldn’t hide my satisfaction and a smile crept onto my face.
 
-"...Do you plan to fight like this every time?"
+A battle completed without a single injury, wrapped up in under five minutes.
 
-"Is there a problem with that?"
+“Are you planning to keep fighting like this from now on?”
 
-"No, but..."
+“Is there a problem?”
 
-Akuraba trailed off.
+“No, not really…”
 
-She knew.
+Akuraba hesitated to ask but fell silent.
 
-This was the most efficient way to ambush unsuspecting enemies.
+Having experienced it herself, she knew.
 
-Well, there was one drawback.
+That this is the best method to ambush those who are hunting carelessly in their own territory.
 
-'Thirty minutes...'
+Well, not that there aren’t any disadvantages.
 
-The battle itself was over in five minutes, but waiting for them to encounter a monster took a long time.
+‘Thirty minutes…’
 
-But it was a minor inconvenience compared to the benefits.
+The battle may have lasted five minutes, but it took considerable time to wait for them to encounter a monster.
 
-It would be a much bigger loss if someone was injured or killed.
+Still, it’s a minor flaw compared to the advantages.
 
-'But still...'
+If someone were injured or killed in the fight, the loss would be much worse.
 
-Kaislan cautiously approached me.
+Yet, I did feel a slight pang of dissatisfaction.
 
-"Schuitz, it was a bit hasty to kill them all. We should have captured one and interrogated him."
+Kaislan cautiously offered me advice.
 
-Ah, he's right.
+“Schuiz, killing them all was a bit hasty. We should have captured one to extract information.”
 
-"I'll keep that in mind for the next ambush."
+Ah, that’s true.
 
-Kaislan's expression brightened as I acknowledged his advice.
+“I’ll do that from the next ambush.”
 
-"Mages, incinerate the bodies and erase all traces!"
+Seeing that I listened to his advice, Kaislan’s face brightened noticeably.
 
-We cleaned up the battlefield and then hid ourselves in the darkness.
+“Mages! Burn the bodies and erase the traces!”
 
-And we continued our journey.
+After finishing the cleanup, we hid ourselves in the darkness once more and resumed our movement.
 
-The silence was broken by a conversation between two team members.
+Maybe because the surroundings were so quiet?
 
-"Did you see their equipment?"
+I overheard a conversation between some members and couldn’t help but chuckle.
 
-"If we can pull this off ten more times... We'll be rich beyond our wildest dreams."
+“Did you see that earlier? Those pieces of equipment?”
 
-Well, they'll find out soon enough.
+“If we keep fighting like this ten more times… Just how much will that be?”
+
+Well, I guess we’ll find out soon enough.
 
 ---
 
-Our routine in the Dark Continent was simple.
+After arriving on the Dark Continent, our routine was like this.
 
-Thud, thud.
+Step, step.
 
-We moved through the darkness, concealed by shadows.
+Moving while hiding in the darkness.
 
-"Enemies."
+“Enemies.”
 
-When we encountered an enemy group, we waited for them to engage with monsters.
+Upon spotting enemies, we wait for an opportunity until they engage a monster.
 
-And then...
+And then…
 
-"Now!"
+“Now!”
 
-We ambushed them while they were distracted.
+We launch an all-out ambush while they’re distracted by the monster.
 
-Kaboom!
+Boom, boom, boom!
 
-Whiiiiiish!
+Whoosh!
 
 Thud!
 
-We focused our ranged attacks on their backline, eliminating them before they could react.
+Our ranged firepower blasts their rear lines to pieces, making it even easier.
 
-"Let's go!"
+“Let’s gooooooo!”
 
-"Wipe them out!"
+“Wipe them all out!”
 
-The melee attackers then charged in, overwhelming the remaining enemies, who were pinned down by the monsters.
+Even if our melee fighters rush in and wreak havoc, their front lines can’t support them easily because of the monsters in front.
 
-Another easy victory.
+And just like that, another quick victory.
 
-'That's ten.'
+“Is that our tenth ambush?”
 
-We repeated this tactic throughout the Dragon's Lair, and by the time we reached the exit, we had ambushed ten enemy groups.
+Repeating this process as we move, we’ve already hit double digits by the time we leave the Dragon’s Depth.
 
-"Mages! Set up a sound barrier!"
+“Mages! Set up a sound barrier!”
 
-"Hey! Be careful when you're looting! You're ripping off their flesh!"
+“Hey! Strip them gently! You’re tearing off bits of flesh along with the equipment!”
 
-The team members efficiently collected the loot and erased all traces of the battles.
+As soon as the battle ends, the members skillfully proceed to collect loot and erase traces.
 
-A team member dragged a survivor before me.
+As I watched, a team member dragged a survivor by the hair to me.
 
-"Leader! Here's the one you asked for!"
+“Leader! Here’s the one you mentioned!”
 
-"Good work."
+“Good work.”
 
-"You're welcome, sir."
+“Not at all.”
 
-We had been capturing one survivor from each battle since the second ambush.
+From the second battle onwards, I always leave one man alive to extract information.
 
-We interrogated them for information.
+You never know what might come in handy.
 
-It's always better to be prepared.
+The labyrinth is unpredictable, after all.
 
-The labyrinth is a place where anything can happen.
+Besides, I’m not the one doing the interrogation anyway.
 
-And besides, I wasn't the one doing the interrogating.
+“Jun.”
 
-"Jun."
+“Leave it to me.”
 
-"Leave it to me."
+Our expedition’s official information extractor, Jun.
 
-I just had to hand the survivor over to Jun, our official information extractor. He would take care of the rest.
+If I leave it to him for a moment, the information gets extracted and organized smoothly.
 
-For example, that the explorers we had encountered on the 8th floor were Noark's elite.
+For example, we found out that the ones hunting on the 8th floor were Noark’s elite.
 
-And that their base was practically empty.
+And that their base is virtually empty.
 
-We had obtained a lot of useful information through these interrogations.
+All that kind of useful information.
 
-The only problem was that we hadn't encountered anyone with new information lately.
+The only problem is that none of the recent captives know anything new…
 
-"Schuitz, come here for a moment. It's urgent."
+“Schuiz, come here for a moment. This is urgent.”
 
-Jun called me during an interrogation.
+For the first time in a while, Jun called me during an interrogation.
 
-It was unusual.
+I rushed over to see what was going on and found the tightly bound survivor still alive.
 
-I rushed over to his tent.
+It meant that meaningful information had been obtained during this interrogation.
 
-The survivor was still alive.
+“Tell me quickly. What did you find out?”
 
-It meant he had obtained valuable information.
+“It’s hard to say.”
 
-"Tell me. What did you find out?"
+“What do you mean…?”
 
-"It's a bit ambiguous."
+Jun shifted his gaze. Following it, I saw a faintly glowing stone vibrating.
 
-"Ambiguous...?"
+A well-known tool among explorers.
 
-Jun pointed at a glowing stone on the ground.
+“A message stone…?”
 
-"It's a message stone."
+“This is an item he was carrying.”
 
-"A message stone?"
+“That means…”
 
-It was a familiar item.
+“Yes, someone is trying to contact him. What shall we do?”
 
-"He had it in his possession."
+As Jun asked the question, the stone vibrated again.
 
-"So...?"
-
-"Someone contacted him. What are your orders?"
-
-As Jun asked, the message stone vibrated again.
-
-Buzz.
+Bzzt—
 
 How many more times would it buzz?
 
-I didn't know.
+No way to tell.
 
-I had to make a decision quickly.
+Which meant a quick decision.
 
-Swoosh.
+I lifted my hand slightly, gesturing for time, and gathered my thoughts.
 
-I raised my hand, signaling for time to think.
+‘Is it nearby, or is the contact coming from far away?’
 
-'Is it a local contact, or from further away?'
+Message stones have a limited radius, depending on their quality.
 
-The range of a message stone was limited, depending on its quality.
+But this is Noark’s territory.
 
-But this was Noark's territory.
+There’s a possibility that this contact is coming from very far away.
 
-The contact could be from a distant location.
+The reason the royal expedition is targeting their base was to counter this very thing.
 
-That was why the royal family had sent us here.
+Magic Wave Transmitter.
 
-The mana wave emitter.
+In modern terms, it’s like a transmission tower.
 
-A device similar to a modern-day cell tower.
+Those who entered the seventh floor using a direct-entry ‘cheat code’ smuggled in a massive device too large for subspace.
 
-Noark had brought this massive device, which couldn't be stored in a subspace pocket, into the labyrinth.
+Thanks to that, they can freely communicate with their forces scattered across the continent and actively harass the royal army.
 
-It allowed them to communicate freely with their troops scattered throughout the continent and coordinate their attacks against the royal forces.
+Bzzzzz—
 
-Buzz.
+The nerve-wracking vibration sounded once more.
 
-The stone buzzed again.
+I finished contemplating and confirmed a few things.
 
-I had to make a decision.
+“Hey, you. Where do you think this contact is coming from?”
 
-"You, do you think this message is from someone trying to trick us?"
+“Uh, uh, it’s probably the regular check-in. To confirm the status of each unit!”
 
-"...I-it's probably a routine check-in. They're just confirming our status!"
+Hmm, I see.
 
-His overly enthusiastic response and stuttering made me suspicious.
+“Jun, is there a chance this guy will try to screw us over?”
 
-"Jun, what's the probability of him trying to deceive us?"
+“I think it’s highly unlikely.”
 
-"Very low."
+That was quite a confident answer given the situation.
 
-It meant he was confident, even though he couldn't guarantee it.
+“…I, I can do it! I’ll do whatever you say! Just please… let me die…”
 
-"...I-I can do it! I'll do whatever you ask! J-just please... kill me...!"
+Hearing the voice of someone yearning for death more than life, I concluded my judgment.
 
-The survivor's desperate plea helped me make my decision.
+Yeah, I think we can trust him enough.
 
-Alright, he seems trustworthy enough.
+Listening to his desperate plea for death, I made my decision.
 
-"Answer the call. If they ask if anything is wrong, tell them everything is fine."
+“Alright. Answer the call. If they ask about anything unusual, say there’s nothing to report.”
 
-I placed the buzzing stone in front of his face.
+I handed him the vibrating message stone, shoving it close to his face.
 
-And...
+Then…
 
 Click.
 
-He pressed the button.
+The instant he answered, a deep voice came from the stone.
 
-A man's voice came from the stone.
+A low bass voice that stuck somewhere in my ears.
 
-[Finally, we've reached you.]
+My heart began to pound.
 
-A deep, resonant voice that sent chills down my spine.
+Thump, thump, thump—
 
-I recognized it instantly.
+It was a voice I could never forget.
 
-"R-Regal Vagos... sir... is that you?"
+“Is… Is this Lord Regal Vagos?”
 
-Dragonslayer, Regal Vagos.
+The Dragon Slayer, Regal Vagos.
 
-Crack.
+Grit.
 
-So you're here too.
+So, you’re on the 7th floor somewhere too.
 
 ---
 
-I had encountered many enemies in this world.
+I’ve met many enemies since coming into this world.
 
-I had crushed most of their skulls, but some were too strong for me to handle.
+Most of them had their heads smashed by me, but unfortunately, there are some whom I couldn’t kill due to lack of power.
 
-The Lord of Chaos, Riakis.
+Lord of Chaos, Riakis.
 
-The Corpse Collector, Abet Necrapheto.
+Corpse Collector, Abet Necrapheto.
 
-The Ruin Scholar, Belvev Ruinjenes.
+Ruin Scholar, Belbev Ruinzenes and so on.
 
-I had a long list of enemies, but the one I hated the most was...
+Even just thinking about it now, there are quite a few that come to mind, but the one I hold the deepest grudge against is this guy.
 
-Dragonslayer, Regal Vagos.
+The Dragon Slayer, Regal Vagos,
 
-I felt my blood boil as I heard his voice.
+The moment I heard his voice, my reason paralyzed, and my blood boiled.
 
-But...
+But…
 
 Clench.
 
-I had to calm down.
+Now is not the time for that.
 
-Now wasn't the time for revenge.
+I clenched my fist tighter, suppressing my emotions.
 
-I focused on the conversation.
+And then…
 
-[Meiras, where are you?]
+[Meiras, where are you right now?]
 
-"I-I'm in the Dragon's Lair, hunting with my teammates!"
+I focused on the ongoing conversation.
 
-[...Really? Then do you know anything?]
+“W-We’re hunting in the Dragon’s Depth with my team!”
 
-"Know anything, sir...?"
+[…Is that so? Then do you know anything?]
 
-[None of the teams I sent to the Dragon's Lair are responding.]
+“Know anything?”
 
-"I-is that so? I, I don't know anything about that. We're... we're doing fine here. Really!"
+[All the guys who went to the Dragon’s Depth aren’t responding.]
 
-His excessive explanation and stuttering made me suspicious.
+“I-Is that so? I don’t really know. W-We are doing just fine without any problems. Really!”
 
-Swoosh.
+His speech was so exaggerated, it was as if he was begging to be suspected.
 
-Jun silently picked up an awl.
+I could overlook the stuttering, but this seemed a bit over the top.
 
-The survivor immediately corrected his tone and posture.
+Just as I was thinking that.
 
-"That's strange. I wonder what happened to them. Perhaps they were attacked by monsters?"
+Shing—
 
-He spoke calmly, without a hint of stuttering.
+Jun quietly picked up an awl that was lying nearby, and the guy’s speech and posture were immediately corrected.
 
-[Even those fools wouldn't be wiped out completely.]
+“However, it does seem strange. They aren’t responding, you say. Could they have fallen prey to monsters?”
 
-"...Right, sir. Is everything alright on your end?"
+[No matter how incompetent they are, they wouldn’t all be wiped out.]
 
-He even dared to ask for information.
+“…That’s true. By the way, is everything okay on your side?”
+
+He even went further to eagerly probe for information.
 
 [For now.]
 
-"..."
+“That’s a relief. I’ll go around here once more to check if anything happened, so please don’t worry.”
 
-[Don't do anything stupid and wait there. I'm sending reinforcements. Join them and follow their orders.]
+[You?]
 
-"Yes, sir."
+“……”
 
-[Tsk, useless fools.]
+[Don’t waste your time and wait. I’ve already sent troops your way. Join them and follow their orders.]
 
-He ended the call, clicking his tongue.
+“Yes, understood.”
 
-"It's a shame we couldn't find out how many reinforcements he's sending."
+[Tsk, useless bastards.]
 
-"I agree..."
+Then he clicked his tongue and abruptly ended the call. Jun cautiously spoke up.
 
-"...Are you alright? You look pale."
+“That’s unfortunate. It would’ve been good if we could’ve found out how many troops are being sent this way.”
 
-"It's nothing. Don't worry."
+“Yes, indeed…”
 
-I was just trying to control my anger.
+“Are you feeling unwell? Your complexion doesn’t look good.”
 
-His voice had triggered a flashback...
+“Don’t worry about it. It’s nothing.”
 
-"Oh, no."
+I’m just having a bit of a hard time suppressing my anger.
 
-I heard a gasp behind me.
+While listening to that voice, the events of that day resurfaced in my mind—
 
-Whoosh.
+“Ah, no.”
 
-I turned around, and Erwen was standing there.
+At that moment, I sensed someone behind me.
 
-Thud.
+Swish.
 
-She was holding something in her hands, but it had slipped from her grasp and fallen to the ground.
+When I quickly turned my head, there stood Erwin.
 
-Normally, she would have picked it up... but she just stared at me.
+Clatter.
 
-"Erwen? What's wrong?"
+She seemed to be holding something in both hands, but whatever it was slipped from her grip and fell to the floor.
 
-I approached her, and then I noticed it.
+Normally, she would have bent down to pick it up, but Erwin stood frozen, staring at me.
 
-"Wait, you're trembling..."
+“Erwin? What brings you here?”
 
-"T-that v-voice..."
+Just as I started to approach her, I noticed something unusual.
 
-"Calm down. What's wrong?"
+“Wait, you’re trembling…”
 
-"That was... t-that was him, wasn't it...?"
+“T-That voice…”
 
-For some reason...
+“Calm down. Are you alright?”
 
-"D-dragonslayer, R-regal Vagos..."
+“Just now! Th-That voice… that’s him, right?”
 
-Erwen was terrified.
+Though I didn’t yet understand her reaction.
+
+“Th-The Dragon Slayer, Regal Vagos…”
+
+Erwin was visibly shaken, paralyzed with fear.

@@ -1,335 +1,325 @@
-# Land Owner 2
+Landowner(2)
 
-House Alminus. It wasn't one of the great houses that had existed since the founding of the Lafdonia Kingdom. However...
+Count Alminas
 
-[Alminus Central Exchange]
+This family does not belong to the founding nobility of the Royal Family of Raphdonia.
 
-[Alminus Bank]
+But
 
-...the Alminus Trading Company, which owned these institutions, wielded influence comparable to the oldest noble families. They were also patrons of the Sawtooth Clan, one of the four largest explorer clans, extending their reach into the labyrinth.
+Alminas.
 
-"I knew they wouldn't stay quiet, but I didn't expect them to make it a public issue with Mozelan."
+[Alminas Central Exchange]
 
-Amelia chuckled, seemingly agreeing with my muttered comment.
+[Alminas Bank]
 
-"The Count is bolder than I thought. I didn't expect him to resort to this, especially considering the circumstances surrounding the unauthorized raid."
+The very fact that these institutions belong to the Alminas Merchants’ Guild, which in turn is controlled by the Count, shows that their influence rivals even the original families. And as the patron of one of the largest clans, the Gearfang Clan, their influence reaches far into the Labyrinth.
 
-"Emily, it's not your fault, so don't feel responsible."
+“I didn’t think they would stay quiet, but I never imagined they’d escalate this to Mozlan,”
 
-"...Responsible? Why should I feel responsible?"
+Amelia gave a small chuckle in agreement to my words.
 
-"Uh..."
+“The count’s family has more guts than I thought. Even though the circumstantial evidence is clear that they tried an unauthorized subjugation, I didn’t expect them to pull this kind of move.”
 
-I just thought it was the right thing to say...
+“Emily, it’s not your fault, you don’t need to feel responsible.”
 
-Well, whatever.
+“…Responsible? Why should I feel responsible?”
 
-I quickly changed the subject, feeling a little awkward.
+“Uh…”
 
-"Anyway, the letter was sent two days ago. Why didn't you tell me sooner?"
+I just said it because it seemed like the right time to say it…
 
-"I knew you were busy, and I had a few things to check first. If you hadn't come home today, I was planning to go find you."
+Never mind.
 
-"Things to check?"
+Feeling slightly embarrassed, I quickly changed the subject.
 
-Amelia then told me what she had been doing for the past two days. It wasn't good news.
+“The letter was sent two days ago. Why didn’t you tell me sooner?”
 
-"First, it seems like they've already started spreading rumors in the taverns."
+“I assumed you were busy, and I needed to verify a few things first. If you hadn’t come home today, I’d have gone to find you.”
 
-House Alminus had begun their smear campaign.
+“Verify what?”
 
-"I can guess what they're saying, but... what exactly are the rumors?"
+As if she’d been waiting for that question, Amelia told me about the few matters she’d looked into over the past two days.
 
-"They're all slightly different, but the gist of it is that we somehow managed to steal the Floor Lord they were raiding. Some even speculate that we were the ones who summoned him in the first place."
+And they weren’t exactly good news.
 
-"As expected..."
+“Rumors are already spreading in the pubs. The Alminas family has begun their propaganda campaign.”
 
-"But there are also those who dismiss the rumors. It seems like your reputation isn't completely worthless."
+“I expected as much. What exactly are they saying?”
 
-Right, it was thanks to the Fame I had accumulated.
+“The details vary, but they are claiming that we schemed to steal the Floor Lord away from them while they had nearly captured it. Oh, and there’s even speculation that we may have been the ones who summoned it in the first place.”
 
-I felt a little proud, but...
+“Still, there are plenty of people calling that nonsense. Fortunately, it seems that the path you’ve been following hasn’t been in vain.”
 
-"We still need to hurry."
+Yeah, thanks to the reputation points I’ve accumulated.
 
-"Huh?"
+This might be a little satisfying—.
 
-"I saw them approaching the explorers you helped that day. They're trying to bribe them into giving favorable testimonies."
+“But we need to hurry.”
 
-"...Bribe them? But they can't lie because of the Verification spell."
+“Huh?”
 
-"Are you unaware? You can plead the Fifth in Mozelan trials. They'll probably instruct them to avoid answering any unfavorable questions and only reveal the parts that benefit them."
+“I saw them approaching the explorers you helped back then. They’re likely trying to bribe them into giving favorable testimony.”
 
-"...Hmm, but wouldn't our testimony be more credible?"
+“…Bribe? But verification magic would expose lies, right?”
 
-"Not necessarily. In cases where testimonies contradict each other, the court often gives less weight to the testimonies themselves. It's a common strategy."
+“In case you didn’t know,
 
-Oh... I see...
+In Mozlan’s trials, one can exercise the right to remain silent. They’ll likely skip answering detrimental questions, only revealing truths that benefit them.”
 
-"But... how do you know all this?"
+“…Hmm, but our side is much more credible, isn’t it?”
 
-"I studied the relevant documents for the past two days."
+“Not necessarily. If testimonies conflict, the court often reduces the weight of the testimony in their decisions. It’s a common strategy.”
 
-"..."
+Oh… I see…
 
-Maybe Amelia's sister wasn't the genius of the family, after all.
+“How do you know all this?”
 
-Impressed by her thoroughness, I asked for her advice.
+“I’ve been studying the documents for the past two days.”
 
-"So what do you think I should do?"
+“…”
 
-"The trial is inevitable, so we need to find witnesses who will testify on our behalf. Among the explorers you helped that day."
+Maybe the real genius isn’t her older sister, but her.
 
-"And?"
+While admiring her secretly,I quickly asked Amelia for her advice.
 
-"Ask Melbeth for help. They've been around for a long time, they must have experienced similar disputes. They should have a competent lawyer."
+“So, what do you think I should do?”
 
-"Okay, and then?"
+“A trial is basically guaranteed, so your priority should be finding some of those people you helped who are willing to testify on your behalf.”
 
-I looked at her expectantly, and Amelia averted her gaze, seemingly burdened by my question.
+“And then?”
 
-"...I'm good at investigating, not finding solutions."
+“Seek help from Melbes. Given their long history, they must have experienced similar disputes before. They should have a competent lawyer.”
 
-Right, she didn't have any other ideas.
+“And then?”
 
-"Is there anything I can do to help?"
+Amelia averted her eyes under my expectant gaze.
 
-Erwen, who had been quietly listening, finally spoke up.
+“…I’m good at investigating, not coming up with solutions.”
 
-I appreciated her offer, but...
+So basically, she doesn’t have any more ideas.
 
-"I'll let you know if I need your help. Don't worry about it for now."
+“Mister, is there anything I can do to help?” Erwin, who’d been listening quietly, joined in.
 
-I had enough to do as Chieftain. It was time to focus on my role as Clan Master.
+I was grateful for the thought. But…
+
+“I’ll let you know if I need anything. So don’t worry about it until then”
 
 ---
 
-After four days of nonstop work, I finally had some time off.
-
-I wanted to stay home and relax, but I immediately left for Mozelan Headquarters.
+After four days without a proper break, all I wanted to do was collapse into bed, but instead I went straight to the Mozlan headquarters.
 
 Strike while the iron is hot.
 
-I needed to gather information before formulating a strategy.
+I need to gather information before I can formulate a strategy.
 
-I wasn't particularly worried about the trial itself.
+So far, I have no major complaints.
 
-The only thing that bothered me was...
+However, I did have one regret.
 
-'...Why did they have to summon me to Headquarters?'
+‘……Why call me to the main office?
 
-The Mozelan branch where Dwarkey had been detained was located in the 7th District, but Headquarters was in Karnon, the Imperial City.
+The Mozlan branch where Dwalki was arrested was located in District 7, but its headquarters is located in the Imperial capital of Carnon.
 
-'...Should I just use the military transfer station?'
+‘…Should I spend some money and use the military transport station?’
 
-I was tempted, but I ultimately decided against it. As Clan Master of Anabada, I couldn't be so wasteful.
+The temptation briefly flashed before my eyes, but as the clan leader of Anabada, I shook it off.
 
-It was expensive.
+“Welcome to Mozlan headquarters. Baron Jandel, please come this way. I will guide you.”
 
-And I could sleep on the way there.
+Once I arrived, the knights on duty greeted me politely, not even waiting for me to state my identity.
 
-"Welcome to Mozelan Headquarters, Baron Yandel. This way, please. We'll escort you."
+Is this what they call ‘the times have changed’?
 
-As soon as I arrived, the knights greeted me politely.
+Of course, it wasn’t a pleasant visit this time either, but in the past, when I went to their office about the Dwalki matter, they wouldn’t even let me set foot in the building.
 
-It was a strange feeling.
+And it wasn’t even the main office but a branch.
 
-The last time I had visited Mozelan, they wouldn't even let me inside. And that wasn't even Headquarters, but a branch office.
+Anyway, that’s not important now.
 
-Anyway, that wasn't important right now.
+“I am Christina Beallon, the chairperson of Mozlan.”
 
-"I'm Christina Bealon, the Chair of Mozelan."
+The person who greeted me was an elegantly dressed middle-aged woman. . Though she wore civilian clothes, she was part of Mozlan, so she must also be a knight.
 
-The head of Mozelan was a middle-aged woman with a refined appearance. She was dressed in casual clothes, but she was clearly a knight.
+“Bealon? As in the House of Bealon?”
 
-"Bealon...? Are you from House Bealon?"
+“Yes. Count Bealon is my elder brother.”
 
-"Yes. Count Bealon is my older brother."
+“I see. But do chairpersons usually handle matters like this themselves?”
 
-"I see... But isn't it unusual for the Chair to handle this kind of matter personally?"
+“Not normally. But since this is a dispute between titled nobles, it’s a sensitive matter. I decided to take care of it personally, just in case”.
 
-"Normally, it wouldn't be. However, disputes between titled nobles are a sensitive issue. I decided to handle this personally to avoid any mistakes."
+“Is that so? Well then, let’s hear it. The letter said you would explain in detail.”
 
-"I see. So... what did you want to talk about? The letter said you would explain everything in person."
+“Yes, since there’s a limit to what can be communicated through letters. Ahem, I’m not sure where to start…”
 
-"Yes, some things are difficult to discuss in writing. Hmm, where should I begin..."
+The lady glanced at me cautiously, then began her explanation.
 
-She looked at me cautiously and then started explaining the situation. As expected of a noble, her introduction was lengthy. She basically just reiterated the contents of the letter in more detail.
+“Normally, we would recommend a settlement. Count Alminas has clearly promised to reduce the demanded amount if Baron Jandel agrees. But…”
 
-"...In cases like this, we usually recommend a settlement. Count Alminus has also expressed his willingness to lower the requested amount if you agree."
+She then looked up at me.
 
-She paused and looked at me.
+“You wouldn’t want that, would you?”
 
-"But... I assume that's not what you want?"
+“Of course not.”
 
-Obviously.
+“Then I suppose we’ll have to refer the case to the Royal Court.”
 
-"Of course not."
+She went on to explain the procedures and what I would have to do once it reached the Court.\
 
-"Then we have no choice but to transfer the case to the Royal Court."
+This included writing a statement.
 
-She then explained the procedures involved in a Royal Court trial.
+One of those steps involved writing a statement…
 
-I would have to write a statement...
+“If you wish, I can call a scribe right now.”
 
-"We can summon a scribe if you wish."
+But I decided to postpone writing the statement.
 
-...but I decided to postpone it.
+After all, it’s something that will be used in the trial.
 
-I needed to consult with a lawyer and formulate a strategy before writing anything.
+Better to do it strategically with a lawyer present.
 
-So I left Mozelan Headquarters and went straight to Baroness Lirivia's mansion.
+So, after leaving the building, I went straight to Baroness Lirivia’s house.
 
-"Baron Yandel...? I wasn't informed of your visit..."
+“Baron Jandel…? I didn’t hear from Mother that you’d be visiting.”
 
-The Baroness's daughter greeted me.
+It was the Baroness’s daughter who greeted me.
 
-Unfortunately, the Baroness was currently at the royal palace for official business. She would be back later today, so I decided to wait.
+As it turned out, the Rabbit Baroness was currently busy at the royal palace.
 
-And after a few hours...
+Her daughter said she’d be back today, so I decided to just wait.
 
-"Baron Yandel, what brings you here? Minia tells me you've been waiting for half a day..."
+And how much time passed.
 
-"Baroness Lirivia, I need your help."
+“Baron Jandel, what brings you here? I heard from Minia that you have been waiting for half a day… … .”
 
-"Help...? Please explain."
+“Baron Lirivia, I need your help.”
 
-The Baroness, who had returned as the sun began to set, listened to my story and sighed.
+“Help… you say? Please explain in detail first.”
 
-"I don't mean to offend you, but... you really are a storm in human form."
+Baroness Bunny, who returned at dusk, heard my story and sighed deeply.
 
-"..."
+“No offense, Baron Jandel… but you were born in the eye of a storm.”
 
-"I know a competent lawyer, so don't worry too much. It's too late today, but you should be able to meet him tomorrow."
+“….”
 
-"Thank you. Do you have a spare room, by any chance?"
+“Anyway, I know a skilled lawyer, so there’s no need to worry too much. It’s not possible today, but you should be able to meet him by tomorrow.”
 
-"A spare room...?"
+“Thanks for arranging that. By the way, do you happen to have any vacant rooms?”
 
-"It's a bit of a hassle to go back to Ravigion and come back tomorrow."
+“Vacant rooms…?”
 
-"...You're staying in Ravigion? I understand. I'll have someone prepare a room for you."
+“It’d be a hassle to go home, sleep, and then come back again tomorrow, wouldn’t it?”
 
-"Thank you."
+“…Ah, you’re staying in Ravigion. Understood. I’ll have a room prepared.”
 
-Okay, so lodging was taken care of.
+“Appreciate it.”
 
-I had dinner with the Baroness's family, and then I borrowed a recording crystal to inform Erwen and Amelia that I wouldn't be coming home tonight.
+Okay, lodging sorted.
 
-And the next morning...
+After dining with the Rabbit Baroness’s family, I borrowed a communication crystal to inform Erwin and Amelia I’d be staying out.
 
-"It's a pleasure to meet you, Baron Yandel. I'm James Elk."
+And the next morning:
 
-I met with the lawyer the Baroness had recommended.
+“Nice to meet you, Baron Jandel. I am James Elk.”
 
-He listened to my story and frowned.
+Early in the morning, I met with the lawyer Baroness Lirivia had introduced and received a consultation.
 
-"...This is a complicated situation. Let me summarize. The formal charge filed by House Alminus is 'Request for loot distribution based on contribution', correct?"
+After hearing everything I had to say, the lawyer’s expression was grim.
 
-"That's right."
+“…This is quite a troublesome situation. So let me get this straight: : the official case filed with Mozlan is that they are demanding ‘a share of the spoils based on their contribution,’ correct?”
 
-They were spreading rumors about me behind my back, but the official charge was different.
+“That’s right.”
 
-"They're claiming that the Sawtooth Clan contributed to the raid, and therefore they're entitled to a share of the loot."
+Even though they’re spreading rumors as if I did something terrible, the lawsuit itself boils down to that.
 
-The basis for their claim was the Labyrinth Disaster Law.
+“Either way, the Gear tooth clan definitely contributed to the hunt, so they’re demanding their share based on that.”
 
-During a disaster, all explorers were obligated to cooperate and resolve the situation. And disputes over loot distribution were a common occurrence.
+The lawsuit was grounded in Labyrinth Disaster Law.
 
-Therefore, laws had been established to handle such situations.
+During disasters, each explorer is obligated to collaborate to overcome the disaster, and disputes over loot are a recurring issue.
 
-"...This will be difficult..."
+“Yes. Their demand is legally valid. And if they’re bold enough to file, they’ve likely secured proof of their ‘contribution.’”
 
-"...Is it that bad?"
+Speaking in a slightly quieter tone, the lawyer continued.
 
-"Yes. A request for loot distribution based on contribution is a legitimate claim under labyrinth law. And the fact that they filed a formal complaint means they have evidence to support their claim."
+“How about accepting the offer Count Alminas made? if this goes to court, the payout might be worse.”
 
-The lawyer looked at me and said,
+“…Even though there’s suspicion that they summoned the floor lord without permission?”
 
-"I recommend accepting Count Alminus's offer. Even if the case goes to trial, the court will likely rule in their favor, and you might end up paying even more."
+My voice turned inadvertently sharp.
 
-"...Even though there's evidence suggesting that they summoned the Floor Lord without permission?"
+However, the lawyer responded in a strictly professional tone.
 
-My voice was sharper than I intended.
+“That’s not relevant to this case. It’s just circumstantial evidence for now. It’s hard to prove, and even if proved, it would be a separate case from the distribution.”
 
-But the lawyer remained calm and professional.
+In other words, whether Count Alminas ends up paying a fine or serving time later has nothing to do with the fact that they’re entitled to a cut now.
 
-"That's irrelevant to this case. It's just circumstantial evidence. It would be difficult to prove, and even if you could, it would be a separate case."
+“Please don’t be upset. My job is simply to present all the facts so Baron Yandel can make an informed decision.”
 
-In other words, even if House Alminus was fined or imprisoned for the unauthorized summoning, they would still be entitled to a share of the loot.
+Well, there’s no point in lashing out at him.
 
-"I'm just stating the facts, so please don't misunderstand."
+“James, is there really no way around this?”
 
-Right, it wasn't his fault.
+“As I said before, I recommend negotiating. If you use the ‘circumstances’ you mentioned as leverage, you can reduce the share you have to pay. And the risk you take on will be far less.”
 
-"James, is there really no other way?"
+“And if I don’t care about the risk? Is there really no other way?”
 
-"As I said, I recommend a settlement. You can use the 'circumstantial evidence' you mentioned to negotiate a lower amount. It would minimize the risk."
+Even though I pressed him, James didn’t change his stance.
 
-"What if I don't care about the risk? Is there really no other way?"
+“No. That is the best we can do. Ultimately, you won’t be able to avoid paying some share. Unless Count Alminas withdraws his mediation request at Mozlan, that is.”
 
-"Yes. This is the best option. You can't avoid paying them. Unless Count Alminus withdraws his complaint."
+Right, so that’s how it is.
 
-I see...
+I ended the legal consultation at that point.
 
-That was it.
+It felt like I didn’t gain much, but thanks to James, I knew which direction to take.
 
-I ended the consultation.
+Essentially, we have to force them to withdraw.
 
-I hadn't gained much from it, but it had given me a direction.
-
-'I need to make him withdraw his complaint.'
-
-In other words, I needed leverage.
+In other words, I need some ammunition to pressure Count Alminas into backing off on his own.
 
 ---
 
-After the consultation,
+After the legal consultation.
 
-I went to Mozelan Headquarters and wrote my statement with the lawyer's help.
+I went straight to Mozlan, and with the help of the lawyer, I finished drafting the statement in my best interests.
 
-It was written in a way that would be most beneficial to me in court.
+Realistically, I’d prefer to avoid going to trial, but who knows how things will turn out.
 
-Avoiding a trial was the best option, but I had to be prepared for every possibility.
+I have to be prepared, just in case.
 
-'The trial won't start for a few months...'
+They said it would take at least two to three months for a trial to begin.
 
-I still had plenty of time.
+Time remained, so I postponed confronting the Alminas Count directly. Instead—
 
-So I postponed my meeting with Count Alminus.
+Ding!
 
-There was no point in meeting him now.
+On my way back, I dropped by the Explorer’s Guild.
 
-Therefore...
+I was received by the branch chief himself, and I filled out a subjugation request form.
 
-I went somewhere else.
+[Subjugation Target: Dreadfear, Lord of Terror.]
 
-"Welcome to the Explorer's Guild, Baron Yandel!"
+My target was none other than the Floor Lord on the first floor.
 
-I visited the Explorer's Guild and filed a raid request. The branch manager personally handled my request.
+“…It’s been a while since anyone put in a request to take that thing down.”
 
-[Dreadfear, the Lord of Terror.]
+Well, that’s not surprising.
 
-The target was the 1st-floor Floor Lord.
+There are many other ways for a Rank 5 clan to promote to a Rank 4 clan.
 
-"...It's been a while since we've had a Floor Lord raid request."
+Usually, only those who’ve just started a clan but have enough skill to rank up quickly aim to subjugate that one.
 
-It wasn't surprising.
+“The subjugation date is right after the next labyrinth opens….,, I see. I’ll rush out an official notice to all branches.”
 
-There were other ways for a 5th-grade clan to be promoted to 4th-grade.
+Fortunately, the permit went through without a hitch.
 
-Usually, only newly formed clans that were confident in their abilities would attempt a Floor Lord raid.
+“Do you know? The moment that notice goes up, there’s going to be an uproar.”
 
-"The raid will take place during the next labyrinth opening... We'll send out a notice to all branches immediately."
+Of course I know.
 
-The request was approved without any problems.
+That’s exactly what I’m counting on.
 
-"You know, this will cause quite a stir."
+“A total of five participants for the subjugation… If you succeed, you’ll be the tenth person since the ‘Last Great Sage’ to accomplish such a feat.”
 
-Of course, that was my intention.
-
-"A five-man raid team...? If they succeed, it will be the tenth such feat in history, after the Last Sage!"
-
-This was my first bullet.
-
-Aimed at Count Alminus.
+That was my first piece of ammunition to use against Count Alminas.

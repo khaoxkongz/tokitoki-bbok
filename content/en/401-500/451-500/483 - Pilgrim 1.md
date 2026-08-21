@@ -1,549 +1,509 @@
-# Pilgrim 1
+Pilgrim (1)
 
-When encountering an unexpected situation, the first thing to do is ‘wait’.
+When faced with an unexpected situation.
 
-Not to act rashly in panic, but to calmly assess the situation first.
+The first thing to do is to wait.
 
-This choice helps avoid the worst-case scenario.
+Instead of panicking and moving your body first, try to stay as calm as possible and assess the situation.
 
-Of course, depending on the outcome, there might be better choices, but at least…
+This decision will save you from the worst.
 
-It prevents irreversible mistakes.
+Of course, depending on the situation, there may be better options, but at least.
 
-So…
+It helps to avoid irreversible mistakes.
+
+Yes, so…
 
 “Phew…”
 
-I close my eyes and take a deep breath.
+I close my eyes and take a long breath.
 
-And when I feel like I’ve regained my composure…
+And when I feel that I have regained some composure.
 
-Slowly…
+Slowly.
 
-I open my eyes and gather visual information.
+I opened my eyes again to take in the visual information.
 
-“…….”
+“……”
 
-I’m at the entrance of a cave.
+I was standing at the entrance to a cave.
 
-At the cave entrance, where light is seeping in, countless soldiers are blocked by a transparent barrier, shouting something.
+At the cave’s entrance, where light seeps in, numerous soldiers are blocked by a transparent barrier, shouting something.
 
 “——— ——, ————!!”
 
-Like a muted TV, I can’t hear them, but their expressions are a mix of urgency and anger.
-
-But the real problem is…
+Like a muted TV, I can’t hear their voices, but judging by their expressions, they seem extremely agitated and angry… But there’s a real problem here.
 
 ‘Damn it.’
 
-I can’t see my companions.
+My comrades are nowhere to be seen. No, it’s not just my comrades.
 
-And it’s not just my companions.
+‘What the hell?’
 
-‘What is this?’
+My equipment is also missing.
 
-My equipment is also gone.
+The Demon Crusher, the expensive shield I bought, and several numbered items including the Guardian Corps emblem.
 
-The Demon Crusher, the expensive shield I bought, the Royal Guard Sigil, and all the other Numbered Items I was wearing…
+Everything I was wearing is gone.
 
-Everything has vanished.
+And in its place.
 
-And instead…
+I’m wearing a tattered old cloth robe, and in my hand I’m holding a weapon made from a monster’s bone.
 
-I’m wearing ragged, worn-out clothes.
+Then I realize.
 
-And I’m clutching a bone awl, a crude weapon made from monster bones.
+Ah, there’s an entirely different kind of problem here.
 
-That’s when I realize.
-
-The real problem is…
-
-‘…Is this for real?’
+“…This is insane.”
 
 My body feels heavy.
 
 “——, — ———— —!”
 
-Even though all my heavy equipment is gone…
+Even though all my heavy gear has vanished, instead of feeling lighter, I feel overwhelmingly weighed down.
 
-I feel sluggish and weak, as if I’m carrying a heavy burden.
+However, instead of questioning this, I simply organize it as a piece of information.
 
-I don’t question it. I just record the information.
+[All character stats are fixed at 15]
 
-「All character stats are fixed at 15.」
+Info 1: My stats have dropped.
 
-Information 1: My stats have been reduced.
+They’ve been reduced to the level of an ordinary person, not an explorer.
 
-To the level of an ordinary person, not an explorer.
+Gone is the robust physique that could lift a carriage; all I have left is a tired, worn-out body that makes even walking a chore.
 
-My powerful body, capable of lifting a carriage, is gone.
+Also—
 
-And…
+[All of the character’s essences are sealed.]
 
-「All character essences are sealed.」
+Info 2: All my skills are sealed.
 
-Information 2: My skills are sealed.
+Ogre, Bol-Herchan, Bayon, and all other core high-level skills that allowed me to perform shield-based combos are unusable.
 
-Ogre, Vol-Herchan, Bion…
+‘…Even my subspace won’t open.’
 
-All my skills, including the high-grade essences that made me a powerhouse, are deactivated.
+The subspace I obtained after defeating the Rose Knights is also inaccessible.
 
-‘…And my subspace pocket won’t open.’
+“Phew…”
 
-The subspace pocket I obtained from the Rose Knights is also unusable.
+My vision was spinning, but I forced myself to calm down. Even so, new information was being updated.
 
-“Haa…”
+Get out… According to the Empire’s laws… You will be judged…!”
 
-I feel a wave of dizziness, but I force myself to calm down.
+The semi-transparent barrier that was completely blocking sound is gradually fading, and I can start to hear the soldiers’ voices.
 
-New information is being updated.
+‘The Empire…?’
 
-“Uh… get out… by the imperial law… judgment…”
+On closer look, the soldiers’ uniforms look familiar. They resemble the Empire soldiers I saw in the Doppelgänger Forest.
 
-The transparent barrier that had been blocking the sound starts to weaken, and I can hear the soldiers’ shouts.
-
-‘Imperial…?’
-
-Their attire looks familiar.
-
-Like the Imperial soldiers I saw in the Doppelganger Forest.
-
-Anyway, to summarize…
+Anyway, to sum things up—
 
 “For the Empire…!”
 
-Information 3: They’re Imperial soldiers.
+Information 3: These guys are Empire soldiers.
 
-“Captain, the barrier is weakening!”
+“Captain, the power of the barrier is weakening!”
 
 Information 4: The barrier at the entrance is weakening.
 
-“Prepare yourselves! It’s time to judge the wicked pilgrim!”
+“Prepare yourselves! It is time to judge the evil pilgrim!
 
-Information 5: I’m a pilgrim.
+Information 5: I am a pilgrim. During the war against the witches, those who betrayed humanity and fought on the side of the witches were called pilgrims.
 
-A traitor to humanity who sided with the Witch during the Witch’s War.
+“……”
 
-“…….”
+With all this information piling up in my head, I can figure out what to do next.
 
-As the information is processed and organized in my mind, I reach a conclusion.
+If I get caught, I’ll die.
 
-‘I’ll die if I’m caught.’
-
-I have to run.
+In other words, I must run.
 
 ---
 
-In a five-man or fewer raid,
+For a raid with less than 5 people.
 
-Dreadfear, the Lord of Terror, drags the characters to a new field when he reaches his 4th phase.
+When the Lord of Terror, Dreadfear, reaches its 4th phase, it pulls the characters into a new field.
 
-The Bottomless Pit of Solitude.
+The Abyss of Solitude.
 
-A sealed room shrouded in darkness.
+A room-type field covered in darkness on all sides.
 
-The players have to fight him in that environment, and he uses much stronger skills than in a normal raid.
+Players must fight the boss there as it unleashes new patterns of attacks.
 
-His body grows larger, no longer restricted by the cave.
+During this phase, Dreadfear uses skills far more powerful than when fought by dozens of players.
 
-Token monsters swarm the area.
+The constraints of the cave disappear, and its body grows larger.
 
-Dangerous AoE attacks and unavoidable skills.
+Token-type monsters swarm from all sides.
 
-But I wasn't worried about the raid itself.
+High-risk area effects, ranged attacks, and several unavoidable skills as well.
 
-All his skills had clear countermeasures…
+However, I wasn’t too worried about the raid itself.
 
-And there was an escape route that could only be used right before the labyrinth closed.
+Because the methods to counter each skill are clear…
 
-It was a safety net.
+And there’s an escape method that can be used just before the labyrinth closes, so at least there’s a safety net in place.
 
 But…
 
-‘…An unexpected event.’
+An unexpected situation… huh.
 
-This kind of situation was common in [Dungeon and Stone].
+In fact, this is something you will encounter countless times while playing [Dungeon & Stone]. This game is full of hidden pieces.
 
-The game was filled with hidden pieces.
+Hidden pieces.
 
-‘A hidden piece.’
+Yes, that’s probably why this situation happened.
 
-That must be the reason for this situation.
+Information 6: A hidden piece I didn’t know about has been triggered.
 
-Information 6: A hidden piece I’m unaware of has been activated.
-
-I quicken my pace.
+So, I start moving quickly.
 
 Thud, thud.
 
-Sweat drips down my face, forming beads that roll down my cheeks and soak my clothes.
+As my steps increased, beads of sweat formed and rolled down the floor, soaking it.
 
-Drip—
+Drip-.
 
-My body is weak and frail, slightly better than Lee Hansu in the hospital.
+This body is so fragile, only slightly better than Lee Han-soo when he was in hospital.
 
-“Where is he?! Where did he go?!”
+“That bastard! Where did that bastard go!”
 
-The Imperial soldiers are chasing me.
+The Empire soldiers are chasing after me.
 
-But I don’t despair.
+But I don’t feel despair.
 
-I have faith.
+That’s because of a belief.
 
-There are no impossible hidden pieces in [Dungeon and Stone].
+No matter how irrational it may seem, there are no impossible hidden pieces in [Dungeon & Stone]. And as proof of that…
 
-And as proof…
+“He’s moving in the dark cave like it’s broad daylight.”
 
-“He’s moving as if he can see through the darkness.”
+“He must have gained some power by sacrificing his soul to that wicked witch.”
 
-“It must be one of the powers he gained from the wicked Witch.”
+The cave appears dark to the soldiers. But to me, the crystals are bright enough to make torches unnecessary.
 
-The soldiers seem to find the cave dark.
+Info 7: Being a Pilgrim comes with a few advantages.
 
-But it’s bright enough for me, thanks to the glowing crystals.
+Better vision is one thing, but the most crucial benefit is this:
 
-Information 7: Pilgrims have certain advantages.
+“Grrk, grrk!”
 
-Not just increased vision range, but also…
+The monsters in the cave.
 
-“Gurgle, gurgle!”
+They don’t attack me first. In fact, they seem almost protective of me, as if trying to protect me from the soldiers.
 
-…the monsters in the cave.
+Slash—!
 
-They don’t attack me.
+Well, all they can really do is buy me some time in the end.
 
-In fact, they seem to be protecting me from the soldiers.
+If not for these creatures, I would have already been caught by the soldiers and lost my head.
 
-Slash!
+“Grrrk—!”
 
-Well, they’re just buying me time.
+…It feels really strange.
 
-If it weren’t for them, I would have been captured by now.
-
-“Grrrr—!”
-
-…This feels strange.
-
-I never thought I would be saved by goblins.
+Who would have thought that I’d be in a situation where goblins are saving my life?
 
 Thud, thud.
 
-Of course, my tracking skills also played a significant role in my escape.
+Of course, having scouting skills was a big reason why I was able to escape safely.
 
-And that brings me to the next question.
+And in that sense…
 
-‘What happened to the others…?’
+‘I wonder how the others are doing…’
 
-I organized my thoughts as I ran.
+As I continued my flight, I organised various possibilities.
 
-The most likely scenario was that they were also separated and started alone, just like me.
+The most plausible scenario was that the rest of my party had also scattered and started alone, just like me.
 
-This place was similar to the Crystal Cave.
+This place was similar to the Crystal Caves after all.
 
-Except for the entrance.
+Although, technically, the Crystal Caves don’t have any “entrances” to begin with…
 
-‘…If this follows the same pattern, there should be entrances in all four directions.’
+‘…If it follows the same structure, there should be cave openings in all four directions.
 
-The basis for my theory was my starting location.
+The basis for this hypothesis was my starting location.
 
-The area beyond the barrier where the soldiers were gathered was a dense forest.
+Beyond the semi-transparent barrier where the soldiers were swarming, there was a dense forest.
 
-Like the Goblin Forest.
+Just like the Goblin Forest.
 
-“He’s this way!”
+“This way!”
 
-Damn it, I thought I could rest for a moment.
+Ha, just when I thought I could take a short break.
 
 Thud, thud.
 
-I quickly got up and continued running, my mind racing. I couldn’t keep running forever.
+I crouched down and caught my breath for a moment.
 
-Survival was a series of decisions.
+I quickly got up and continued down the passage, still thinking. I couldn’t keep running away like this forever.
 
-I had successfully escaped, so it was time for the next decision.
+Survival is a series of judgments.
 
-What should I do now?
+Since I’ve successfully fled so far, I need to quickly make the next decision.
+
+Now, what should I do?
 
 ‘Regroup.’
 
-That was the most obvious choice.
+That was the first option that came to mind.
 
-There were many events that separated party members. And most of them required regrouping to proceed.
+There are quite a few events in this game that scatter the party members. For most of those events, normal progression only resumes after regrouping.
 
-Considering our separate starting locations, it was highly likely that this situation followed the same pattern.
+Given that we all started out alone, there’s a good chance that this scenario will follow the same pattern.
 
-‘But… we might all die before we can regroup…’
+But we might get wiped out before we can regroup…
 
-Erwen would probably be fine.
+At least Erwin should be all right. Her scouting skills are excellent.
 
-She had tracking skills.
+The real worries are Aynar, who’s clueless with directions, and Vercil Gowland, who’s a pure mage…
 
-The problem was Ainar, who had no sense of direction, and Bersil, who was a mage and nothing else.
+…I’ll think about that later.
 
-‘…I’ll worry about that later.’
+I shelved the thought.
 
-I stopped thinking about it.
+Given how huge this cave is, I have no idea how we’d find each other anyway.
 
-It wasn't something I could do right now.
+And I need to focus on a more pressing question first.
 
-I didn't even know how to find them in this vast cave.
+If this was part of Dreadfear’s fourth-phase patterns, what defined victory? Wiping out all the Empire soldiers? Reaching the monument at the center? Or escaping the cave entirely?
 
-There was a more important question.
+With over a hundred rift clears under my belt, I’d seen countless mechanics, but nothing here clicked. I needed more clues.
 
-'What's the clear condition?'
+‘There’s gotta be a hint somewhere…’
 
-If this was part of Dreadfear's 4th phase, what was the objective?
+Time to get proactive.
 
-To kill all the Imperial soldiers?
+Tap.
 
-To reach the monument in the center of the cave?
+I stopped walking and hid behind a crystal that was emitting a fierce light.
 
-Or maybe I had to escape the cave?
+It didn’t seem like a good place to hide because it was so bright, but I tried to calm my fears.
 
-I had cleared over a hundred rifts and countless hidden pieces, but I couldn't figure this one out.
+The soldiers seemed to perceive the brighter crystals as darker.
 
-I didn't have enough information.
+If I wanted to ambush them, this was the perfect place.
 
-'There must be a clue...'
+“……”
 
-I made my decision.
+How long did I wait after making this decision and hiding?
 
-I had to be more proactive.
+Thud, thud.
 
-Therefore...
+A soldier with a torch appeared and entered the passage where I was hiding.
+
+There were three of them.
+
+Three…
+
+If I were in perfect condition, maybe, but with my current body, that number is quite a burden.
+
+Thump, thump, thump, thump -!
+
+My heart started racing like crazy.
+
+Should I do it?
+
+Or wait for a better opportunity?
+
+In that fleeting moment, countless thoughts filled my mind.
+
+But the time for decision was rapidly approaching.
+
+‘…Three is doable.’
+
+I quickly made up my mind.
+
+Waiting for a smaller group might not work, as the soldiers are unlikely to split up again.
+
+And these Empire soldiers don’t seem that strong – judging by the way they handled those goblins, they’re about the same as a 2nd level explorer.
+
+In other words, just ordinary people who can die if you stab them just right.
+
+Grasp.
+
+Still hidden by the crystal’s glow, I tightened my grip on the bone blade in my hand.
+
+And then …….
 
 Thud.
 
-I stopped running and hid behind a glowing crystal.
+The moment the three soldiers passed my hiding spot, I moved silently towards the rear soldier and drove my blade into his neck.
 
-It wasn't the best hiding spot, but the soldiers seemed to find the crystals blinding.
+Squelch-!
 
-It was the perfect place for an ambush.
+“……Ghk!”
 
-"..."
+A clear, gurgling sound.
 
-I waited.
+Before I could even pull the knife from his throat, the soldiers in front of me turned to look behind them.
 
-Step, step.
+“……You!”
 
-Three soldiers entered the passage, carrying torches.
+I pushed the knife-wounded soldier towards them, using his body as a shield, and yanked out my blade.
 
-'Three...'
+And before the element of surprise completely faded.
 
-It was a manageable number, even in my weakened state.
+Whoosh—!
 
-Thump, thump, thump, thump!
+I thrust the blade forward again.
 
-My heart pounded in my chest.
+“…Ugh!”
 
-Should I attack?
+I aimed for the neck, but the sword struck near the collarbone.
 
-Or should I wait?
+Since he was wearing leather armor, I couldn’t stab deeply, and the blade got stuck, refusing to come out.
 
-I hesitated for a split second.
+So…….
 
-'...Three is doable.'
+‘Abandon the knife.’
 
-I made my decision.
+I let go of the hilt and instead closed the distance with a dash.
 
-I didn't know how long it would take for a smaller group to appear.
+You don’t always need a weapon to kill someone.
 
-And the Imperial soldiers weren't that strong.
+Swish.
 
-They were probably around the level of 2nd-floor explorers, judging by their performance against the goblins.
+Grabbing the arm of the panicked soldier, I pulled him into a bear hug from behind, immobilizing his limbs.
 
-Which meant they were just ordinary people who would die if stabbed.
+Then I twisted his neck to expose the flesh.
 
-Clench.
+Crunch.
 
-I tightened my grip on the bone awl, hidden in the shadows cast by the crystal.
+I bit down with all my strength.
 
-And...
+Usually, when the artery is torn out like that, they die instantly.
 
-Step.
+“T-Troan!”
 
-As the three soldiers passed by my hiding spot...
+OK, that’s two down.
 
-I silently approached the last one and stabbed him in the neck.
+Now that it’s one-on-one, the pressure’s a lot less.
 
-Puk-!
+Sure, they have the advantage in stats and equipment.
 
-"...Gah!"
+But since when has combat been all about stats?
 
-The sound echoed through the passage.
+“Come at me, you piece of shit.”
 
-Before I could even retrieve my weapon, the other two soldiers turned around.
+A soldier who’s lost his nerve after being ambushed in a dark cave is no match for someone with real combat experience.
 
-"...You!"
+“Y-You bastard!”
 
-Their eyes widened in surprise.
+The last remaining soldier thrust his spear with a tense motion, but I ducked to avoid it.
 
-I pushed the dead soldier's body towards them and pulled out my awl.
+Then, I grabbed the shaft of the spear and pulled, throwing him off balance.
 
-And before they could react...
+That sealed the fight.
 
-Puk-!
+Crunch. Crunch. Crunch—!
 
-I stabbed again.
+I pinned him to the ground, grabbed his head and kept smashing it until his body went limp.
 
-"...Ugh!"
+“…Ptui.”
 
-I had aimed for his neck, but the awl only pierced his collarbone.
+I spat out the mouthful of flesh and blood and stood up.
 
-He was wearing leather armor, and the awl was stuck.
+Maybe it’s been too long since I’ve brawled like this.
 
-Therefore...
+Somehow, fighting these lowly grunts felt more mentally exhausting than taking on a Level 3 monster.
 
-'I'll have to give up on the weapon.'
+“Hah… Hah…”
 
-I let go of the awl and charged at him.
+Maybe it was the adrenaline, but I was dizzy even though I wasn’t hurt.
 
-I didn't need a weapon to kill.
+But there was no time to rest on my victory
 
-Swoosh.
+“Let’s finish the farming quickly.”
 
-I grabbed his wrist and pulled him closer, pinning his arms behind his back.
+There’s always loot after a hard fight.
 
-I twisted his neck, exposing his throat.
+The empire soldiers’ armor set is pretty basic.
 
-Crack.
+A vest-like leather armor with a piece of cloth bearing the empire’s emblem draped over it.
 
-And then I bit down with all my might.
-
-If you tore out the jugular vein, they would die instantly.
-
-"T-Trojan!"
-
-Okay, two down.
-
-It was a one-on-one fight now.
-
-He might have better stats and equipment...
-
-But battles weren't just about stats.
-
-"Come at me, you little shit."
-
-My experience in real combat was different from his.
-
-"...Y-You!"
-
-He thrust his spear forward, his movements stiff with tension.
-
-I dodged and grabbed the shaft of his spear, pulling him off balance.
-
-And that was the end of the fight.
-
-Crack, crack, crack!
-
-I jumped on his back, grabbed his head, and slammed it against the ground repeatedly.
-
-He stopped moving.
-
-"...Ptoo."
-
-I spat out the blood and flesh that had filled my mouth and stood up.
-
-It had been a while since I had last fought like this.
-
-I felt more mentally exhausted than when I fought 3rd-grade monsters.
-
-"Haa... Haa..."
-
-My vision was blurry, even though I wasn't injured.
-
-It must have been the adrenaline.
-
-But I didn't have time to rest.
-
-'I need to loot the bodies.'
-
-There was always loot after a hard-fought battle.
-
----
-
-The Imperial soldiers' equipment was standardized.
-
-A leather vest, and a cloth with the Imperial emblem on top.
-
-'It's a bit tight, even though I took the biggest one.'
+‘Even wearing the biggest guy’s armor, it’s a bit tight.’
 
 But the weapons were better.
 
-I could use them even if they didn't fit perfectly. And there were three different types:
+Even if the size didn’t fit, they were usable, and perhaps out of respect for personal preference, each soldier had a different type of weapon.
 
 A mace and shield.
 
 A spear.
 
-And a two-handed hammer.
+A two-handed hammer.
 
-My choice was obvious.
+Naturally, my choice of weapon was already decided.
 
-'Mace and shield, of course.'
+‘Of course, the starting weapon is the mace and shield.’
 
-The two-handed hammer was tempting, but I couldn't use it with one hand in my current state.
+Right. Starting weapons: mace and shield.
 
-'I'll keep the bone awl too, just in case...'
+The hammer was tempting, but I let it go. With my current strength, wielding it one-handed was impossible.
 
-I looted their belongings, taking food, water, and other necessities.
+I’ll keep the bone dagger too, just in case…
 
-I hid the bodies behind the crystals and left the area.
+After securing the weapons, I rummaged through their packs for bread, water, and other essentials.
 
-Step, step.
+That should cover the looting.
 
-The boots made walking much easier.
+I hid the bodies behind the crystal and hurried away.
 
-This was the power of civilization.
+Thud. Thud.
 
-I felt a sense of accomplishment, having upgraded from a bone awl to a proper set of Imperial soldier equipment.
+The boots were a bit snug, but still miles better than bare feet.
 
-'Now that I have equipment, I can capture someone alive and interrogate them.'
+Thud, thud.
 
-I started looking for my next target.
+Even if they were a bit small, having shoes made walking much easier.
 
-'Four...'
+Phew, this is the power of civilization.
 
-It was one more than before.
+After transitioning from using a bone knife to becoming a proper imperial soldier, I couldn’t help but feel a sense of grandeur.
 
-But it didn't matter.
+‘Now that I have proper equipment, next time I’ll capture one alive and gather some information.’
+
+With that thought in mind, I began searching for my next target, and it didn’t take long to find one.
+
+‘Four of them…….’
+
+One more than last time.
+
+But it wasn’t a big problem.
 
 Whoosh.
 
-I lit a torch, even though I didn't need it, and approached them.
+I approached them, holding a torch I didn’t really need to light my way.
 
-The Imperial soldier set had a hidden effect.
+Because the imperial soldier set has a hidden effect.
 
-"Hey! I'm lost. Can you help me?"
+“Hey! I got separated from my group and lost my way. Can you help me out?”
 
-If you were wearing the full set, the Imperial soldiers wouldn't attack you first—
+When wearing the full imperial soldier set, imperial soldiers won’t attack you fir—.
 
-'...Huh?'
+‘……Huh?’
 
-That's how it was supposed to work...
+“G-Get ready for battle!”
 
-"Alert!"
+Contrary to my expectations, as soon as the soldiers spotted me from a distance, they leveled their weapons at me.
 
-But they raised their weapons as soon as they saw me.
+How did they know right away?
 
-How did they know?
+I didn’t know the reason, but I made a mental note of it.
 
-I didn't understand, but I made a mental note of it.
+“A Pilgrim! It’s a Pilgrim…!”
 
-"A pilgrim! It's a pilgrim...!"
+Information 8: Imperial soldiers can recognize a Pilgrim.
 
-Information 8: Imperial soldiers can identify pilgrims.
+And then—
 
-And...
+Crunch—! Crunch, crunch!
 
-Slash! Slash! Slash!
+[Your character has defeated five Imperial soldiers.]
 
-「Character has slain five Imperial soldiers.」
-
-「All stats increased by +1.」
+[All stats have increased by +1]
 
 Information 9: Killing Imperial soldiers makes you stronger.
 
-'Okay, I'm starting to get the hang of this.'
-
-I finally understood the situation.
+Okay, I’m getting the hang of this.

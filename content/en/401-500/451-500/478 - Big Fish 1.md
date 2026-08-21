@@ -1,483 +1,453 @@
-# Big Fish 1
+The Big Fish (1)
 
-This was my second coming-of-age ceremony as Chieftain.
+This was the second coming-of-age ceremony I had conducted since becoming the chief.
 
-Since I had already done it once, the ceremony proceeded much more smoothly.
+Having done it once before, I was able to complete the entire ceremony in a much shorter time than last time.
 
-'No newbies this time, I guess.'
+“Hmm, seems like there are no newbies this time?”
 
-None of the young warriors acted suspiciously.
+None of the young warriors in this batch seemed to be acting suspiciously like players.
 
-It was a good thing.
+That was a relief.
 
-The warriors wouldn't have to worry about their bodies being stolen, and the players wouldn't have to suffer as evil spirits.
+The warriors didn’t have to be possessed, and the users wouldn’t be treated as evil spirits, struggling day by day just to survive.
 
-That damned game needed to disappear.
+That damned game should just disappear.
 
-"Charon."
+“Caron.”
 
-"Yes, Chieftain?"
+“Speak, chief.”
 
-I asked the 2nd Elder about the newbie from last month.
+Since the thought came to mind, I decided to check on the status of the newbies with the Second Elder.
 
-"Bekta, Kiltau's third son? Ah, the one who chose the shield!"
+“Vekta, the third son of Kiltau? Ah, you mean the boy who chose the shield at the last coming-of-age ceremony!”
 
-"Yes. How is he doing?"
+“Yes. How is he?”
 
-"Heh, worried about him, are we?"
+“Heh, seems like you’re worried about him because he chose the shield, huh?”
 
-"Just answer the question."
+“Just answer the question”
 
-"He's doing well. I heard he did quite well in the labyrinth..."
+“He’s doing well. I heard he was pretty impressive in the Labyrinth…”
 
-Charon, the tribe's gossip king, gave me a detailed report.
+When I pressed for more details, Caron, the Barbarian tribe’s social butterfly, immediately rattled off the latest gossip.
 
-"He's like a younger version of you. Just like you went to the 2nd floor on your first expedition, he also went to the 2nd floor with his teammates."
+“He’s somewhat like you. Just like you went to the second floor on your first expedition, he also managed to get to the second floor with his team.”
 
-"The 2nd floor...?"
+“The second floor…?”
 
-The newbie had made good use of the team system and starting items I had introduced.
+The newbie had actively used the team system and the starter items I introduced. He had swapped a potion with another explorer for some torches, used them to clear the Dark Zone, and on the second floor, he tanked with his shield while helping the other warriors…
 
-He had traded a potion for a torch and cleared the Dark Zone.
+“Chief, he didn’t make quite as much as you on your first go, but he still made a decent haul and left the checkpoint.”
 
-On the 2nd floor, he had acted as a tank, protecting his teammates...
+So he’s adapting quickly, just as I suspected. Even for someone with game knowledge, it couldn’t have been easy.
 
-"He earned quite a bit of money on his first expedition."
+Of course, there was one thing that worried me.
 
-So he was adapting well.
+If he’s so reckless, those Evil Spirit-Hunters from the Secret Security Bureau might notice…”
 
-It wasn't easy, even with game knowledge.
+Well, he’ll have to handle that on his own.
 
-But I was a little worried.
+If that bastard from the bureau suddenly comes up to him and says, “I’m from the US, where are you from?” and he starts talking nonsense, he’s doomed.
 
-'If he keeps showing off, he'll attract the attention of the Secret Police's Evil Spirit Hunters...'
+“From the next batch on, maybe I should add a torch to the starter kit, too.”
 
-Well, he would be fine.
+“Oh, that’s a good idea.”
 
-If he was foolish enough to reveal his identity, he wouldn't survive for long anyway.
+With that, our conversation ended, and I continued to lead the young warriors towards the city.
 
-"We should add a torch to the starting items from next month."
+It was then.
 
-"That's a good idea."
+“Chief.”
 
-Our conversation ended, and I escorted the young warriors to the city.
+Caron, who had been walking beside me, called to me in a tense voice.
 
-As we were walking...
+“I recently found out something…”
 
-"Chieftain."
+“What is it?”
 
-Charon called out to me, his voice tense.
-
-"I... found something."
-
-"...?"
-
-"I know why those warriors died. You asked me to investigate, didn't you?"
+“The cause of death of the warriors who died recently. Didn’t you ask me to look into it?”
 
 Ah, that.
 
-The first thing I had done after returning to the sanctuary was to check on the casualties.
+The first thing I did when I returned to the sanctuary was to check the casualties from that batch.
 
 Seven warriors had died.
 
-It was a record-high survival rate of almost 90% for a first expedition.
+A monumental survival rate of almost 90%.
 
-But I wasn't satisfied.
+But I wasn’t satisfied with that number.
 
-I had given them potions, shoes, and even formed teams of three or four... and yet three of them had died?
+I gave them potions, shoes, and even formed teams of three or four with the Binding spell, and still three died?
 
-"So what was the cause of death?"
+“So what was the cause of death?”
 
-Charon's voice was grim.
+At my question, Caron spoke in a heavy voice.
 
-"It seems like they were killed by looters. There were reports of barbarian corpses found in the Crystal Cave."
+” It seems to be plunderers. I looked into it and found that there have been several reports to the Guild about barbarian bodies being discovered in the Crystal Caves.”
 
-"..."
+“…….”
 
-"According to the reports, there were signs of foul play."
+“According to the reports, there were multiple signs that they were killed by humans, not monsters.”
 
-"As expected..."
+“I see… I suspected as much.”
 
-I had suspected as much.
+Of course, one thing puzzled me.
 
-But there was something that didn't make sense.
+“But that’s strange. They formed teams of four, yet they were defeated by plunderers. And on the first floor, too.”
 
-"It's strange. They were in teams of four, and yet they were killed by looters? On the 1st floor?"
+“I thought so too, so I dug a little deeper. And…”
 
-"I thought so too, so I investigated further. And..."
+Caron trailed off, then lowered his voice so the young warriors behind us wouldn’t hear.
 
-Charon lowered his voice so the young warriors wouldn't hear.
+“Lately, the price of our hearts has gone way up.”
 
-"The price of barbarian hearts has increased significantly."
+Hearing this, my own heart almost skipped a beat. As the chief responsible for the future of the barbarian tribe, I knew how serious this was.
 
-My heart sank.
+“The price has gone up……?”
 
-"Increased...? What do you mean?"
+“Yes. The Magic Tower’s posted standard price has increased several-fold.”
 
-"The standard price set by the Mage Tower has skyrocketed."
+“Damn.”
 
-"Damn it."
+Now I understood the situation.
 
-Now I understood.
+As we became harder to kill, the supply naturally decreased while the value increased, and the price of hearts must have been skyrocketing day by day.
 
-The supply of barbarian hearts had decreased, and the demand had increased.
+‘If one Barbarian heart can fetch millions of stones, it’s no wonder people are losing their minds.’
 
-'With each heart worth millions of stones... it's only natural that some would resort to looting.'
+No matter how many potions you distribute or how many people team up.
 
-It was more profitable than exploring the 4th or 5th floor.
+With professional plunderers operating on the first floor, it’s almost impossible for the young warriors to respond.
 
-No matter how many potions or teams I gave them,
+“Explorers] who saw the corpses said that most of them seemed to have been overwhelmingly defeated”.
 
-They couldn't stand against experienced looters who specialized in hunting lower-level explorers.
+Those damn bastards.
 
-"According to the witnesses, most of the bodies showed signs of being ambushed."
+“Crunch…”
 
-Those bastards.
-
-"...."
-
-I needed to take action.
+A harsh response was needed.
 
 ---
 
-I escorted the young warriors to the Dimension Plaza and had a guild mage cast the Bonding spell on them.
+After personally escorting the young warriors to the Dimensional Plaza, I had a waiting mage bind them in groups of three or four and cast binding spells on them.
 
-It wasn't the same mage as before.
+By the way, this time the mages weren’t from the guild.
 
-We had a mage in our clan now.
+Now we have our own mage in the team.
 
-"It's a low-level spell, but... it's still tiring with this many people."
+“It’s a low-level spell, but… with so many people, it’s a bit exhausting.”
 
-"Thank you, Bersil Gowland."
+“Thank you, Vercil.”
 
-"Ah... I wasn't trying to take credit..."
+“Ah… I wasn’t trying to brag…”
 
-"It's fine. You should be proud of your skills."
+But that doesn’t change anything. When you’re grateful, you should express it properly.”
 
-I patted Bersil's shoulder, and Amelia sighed.
+As I chuckled and patted Vercil on the shoulder, Amelia let out a sigh as if she was annoyed.
 
-"...There he goes again."
+“…Here we go again”
 
-I didn't know what she was talking about.
+I had no idea what she meant by “here we go again.”
 
-"Yandel, let's go."
+“Jandel, let’s head in now.”
 
-After the warriors were bonded, we entered the labyrinth.
+Anyway, now that the warriors have been escorted, we quickly entered the labyrinth.
 
-「Entered the 1st-floor Crystal Cave.」
+「You have entered the 1st floor: Crystal Cave.」
 
-The Crystal Cave. A familiar sight.
+The Crystal Cave on the first floor always brought back old memories.
 
-We headed straight for the central Dark Zone.
+We headed straight for the dark zone at the center.
 
-"...This feels strange. Coming back here..."
+“…It feels strange being back here.”
 
-Bersil muttered, looking around the cave.
+As soon as she saw the monument, Vercil muttered in a peculiar tone.
 
-But Erwen wasn't impressed.
+Perhaps it was unsettling for her?
 
-"What's so strange about it? You just opened a portal and ran away."
+“What’s so strange about it? If I recall correctly, you just opened a dimensional portal and fled comfortably back then.”
 
-"...Sorry."
+Erwin jabbed at her lightly, causing Vercil to flinch.
 
-Bersil flinched, but she apologized instead of getting angry.
+Fortunately, Vercil didn’t react sensitively and instead offered an apology.
 
-It made the atmosphere awkward.
+“I’m sorry.”
 
-"Don't apologize. It wasn't your fault."
+Ugh, the atmosphere is getting awkward.
 
-But Erwen didn't seem to agree.
+I deliberately interjected in a cheerful voice.
 
-"It was her fault. If she hadn't run away, more people would have survived."
+“What’s there to be sorry about? It’s not your fault.”
 
-She had lost her sister in that incident.
+But maybe that didn’t go down too well either.
 
-"There are always consequences for making the wrong choice."
+For the first time in a long while, Erwin disagreed with me directly.
 
-"...You're right. And I'm paying the price."
+“It’s her fault. If no one had run away and we had all fought together, more people would have survived.
 
-Bersil seemed genuinely remorseful, and Erwen didn't press her further.
+She threw a subtle barb at her; Bersil flinched, but she didn’t snap back,
 
-She even apologized to me.
+After all, Erwin had lost her sister back then.
 
-"...Mister, I'm sorry. I shouldn't have said that."
+“There’s always a price to pay for making the wrong choice.”
 
-"Huh...? It's fine. Don't worry about it."
+“You’re right. That’s why I had to pay the price too.”
 
-"Okay..."
+Vercil, genuinely sorry, answered Erwen’s harsh words gently.
 
-What? She was surprisingly calm.
+Erwin didn’t push any further.
 
-She usually held grudges for much longer...
+She even apologised to me.
 
-"Bjorn! When are we going to fight that monster?! I've been waiting for this!"
+“Mister, I’m sorry. I made things unpleasant for no reason.”
 
-Ainar's excited shout broke the awkward silence.
+“Huh…? No, it’s fine. It’s not unpleasant at all.”
+
+“Bjorn! So when is that guy coming out? I’ve been waiting so long for this day!”
+
+Aynar exclaimed at that moment.
 
 Amelia frowned.
 
-"Barbarian, you've asked that question countless times."
+“Barbarian, how many times have I told you during the meeting? And you’re still asking?”
 
-"...I forgot!"
+“I forgot!”
 
-"And?"
+“And?”
 
-"S-Sorry...?"
+“S-sorry…?”
 
-"That's better."
+“Much better.”
 
-Ainar had learned her lesson.
+Since we had clearly established the hierarchy last time, Aynar shrank back at Amelia’s words.
 
-But she still asked the same question.
+But she was still curious, so she asked the same question again.
 
-"So... when can we fight him? I remember the strategy!"
+“So… when can we fight? I remember most of how we’re supposed to do it!”
 
-Amelia sighed and answered,
+Eventually, Amelia reluctantly answered.
 
-"...On the 7th day."
+“That long?! I thought we could start summoning him from day three!”
 
-"W-We have to wait that long?! But we can summon him on the 3rd day!"
+“It’s fascinating how you’re saying the exact same thing as during the meeting.”
 
-"You're saying the same thing you said at the meeting."
+The first-floor Guardian can appear any time after day three, provided five or more people are gathered. It’s probability-based, but that probability escalates so quickly that it effectively becomes guaranteed before a full day has passed.
 
-The 1st-floor Floor Lord could be summoned on the 3rd day, as long as there were five or more explorers in the area.
+So..
 
-But the spawn rate increased exponentially over time, so it was practically a guaranteed spawn after the first day.
+‘From the evening of the 6th day, we will begin to prepare for the summoning.’
 
-Therefore...
+We scheduled it so that the summoning would be guaranteed by the 7th day, when the labyrinth closes.
 
-'We'll start the summoning ritual on the evening of the 6th day.'
+That’s the five-person strategy.
 
-That way, we could guarantee a spawn on the 7th day, the last day of the labyrinth cycle.
+“So… should we just wait here until then?”
 
-That was the standard five-man strategy.
+Aynar already looked like she was dying of boredom.
 
-"So... we just wait here until then?"
+I could see her complaining of boredom every day, but that wasn’t an issue.
 
-Ainar looked bored.
+“Aynar, don’t worry. You and I have something to keep us busy.”
 
-I could already imagine her complaining about it every day.
+“Oh! Really?”
 
-But I wasn't worried.
+At my words, Aynar brightened up, while Amelia tilted her head.
 
-"Ainar, don't worry. I have something for you to do."
+“…Jandel, what do you mean by something to do? You never mentioned this.”
 
-"Oh! Really?!"
+Well, of course not.
 
-Ainar's face lit up, while Amelia tilted her head.
+It was an idea I came up with on the way here.
 
-"...Yandel, what do you mean? I haven't heard anything about this."
+“We can’t have all five of us hanging around together until day six, right? I’ll make sure to come back on time.”
 
-Well, she wouldn't have.
+“…What are you planning?”
 
-It was a plan I had come up with on the way here.
+Amelia looked at me as if she thought I was about to cause some trouble again.
 
-"We can't stay together until the 6th day. You three can rest here. I'll be back soon."
+Geez, why doesn’t she trust me.
 
-"...What are you planning?"
+“Don’t worry. We’re just going for a nice, peaceful walk together.”
 
-Amelia looked suspicious.
+Oh, and of course, we’ll be taking off all our expensive gear.
 
-She thought I was going to cause trouble again.
-
-"Don't worry. We're just going for a walk."
-
-I would be removing my expensive equipment first, though.
-
-I would be disguised as a newbie.
+Just like beginners who have just entered the labyrinth.
 
 ---
 
-I left the group with Ainar.
+Aynar and I split off from the group.
 
-Erwen had offered to help, but I had politely declined.
+Erwin wanted to help too, but I gently declined.
 
-There was a simple reason.
+The reason was simple.
 
-Only barbarians could do what I was about to do.
+The tasks from now on were only possible for Barbarians.
 
-Therefore...
+Therefore…
 
-Step, step.
+Thud, thud.
 
-Ainar and I walked through the cave.
+Aynar and I walked through the cave alone.
 
-We didn't have a destination.
+Aimlessly, just following our feet.
 
-"..."
+“…”
 
-"..."
+“…”
 
-I had already stored my usual equipment in my subspace pocket and put on the barbarian newbie set.
+By the way, I had already removed my usual equipment and stored it in subspace, now I was wearing the barbarian beginner’s set.
 
 A pair of boots.
 
 A cloth backpack.
 
-A pouch.
+A pouch tied around my waist.
 
-And a random iron weapon from the coming-of-age ceremony.
+And a leftover iron weapon from the coming-of-age ceremony that no one had chosen.
 
-"...Bjorn, do you really think they'll fall for this?"
+“Bjorn, do you think they will really fall for this?”
 
-Ainar seemed skeptical, even though she had agreed to help.
+Even though Aynar followed my plan, he seemed a little doubtful.
 
-"We're both pretty well-known..."
+“You and I are pretty well known…”
 
-"They know our names, not our faces."
+“They know our names, not our faces.
 
-"You're naive! They'll recognize you, even if they don't recognize me!"
+“You’re underestimating yourself! Even if they don’t know me, they’ll recognise you for sure!”
 
-I didn't think so.
+Well, I’m not so sure.
 
-First impressions were based on appearance and demeanor, not just names.
+First impressions are determined by the situation, the appearance and the aura a person gives off.
 
-"We're too old for this... They'll think we're strange."
+“Even so, at our age… they will surely think it’s strange.”
 
-She was worrying too much.
+Honestly, she worries too much about the wrong things
 
-Barbarians all looked old. A few years wouldn't make a difference.
+Barbarians all look rugged anyway – other races can’t even tell the difference in age.
 
-Ah, the source of my confidence was my own experience.
+I know from experience: if I approach them like I look nice and tasty, they all start eyeing me hungrily—
 
-They all looked excited when I approached them...
+“Grrk, grrk.”
 
-"Gurgle, gurgle."
+Just then, a goblin emerged from a crack in the crystal rock.
 
-A goblin emerged from a crevice in the crystal wall.
+And…
 
-And...
+Slash!
 
-Slash-!
+It was swiftly decapitated by Aynar’s iron greatsword.
 
-...it was immediately slain by Ainar's iron sword.
+I couldn’t help but shout in exaggerated shock.
 
-I was shocked.
+“Aynar! What the hell are you doing!!”
 
-"Ainar! What are you doing?!"
+“Why, why? I just cut down a goblin that appeared…”
 
-"W-What?! I just killed a goblin..."
+Aynar flinched, her voice tinged with shock.
 
-She looked indignant.
+“That’s the problem! You killed it way too easily!”
 
-"That's the problem! You killed it too easily!"
+“…Then how am I supposed to do it?”
 
-"...Then what am I supposed to do?"
+“Let me show you.”
 
-"I'll show you."
+I then demonstrated how to “properly” fight a Level 9 monster.
 
-I found a 9th-grade goblin and demonstrated the proper way to fight.
+Grrk…!
 
-"G-Gurgle...!"
+The opponent was a single goblin.
 
-It was a single goblin.
+……
 
-"..."
+I tightened my grip on my weapon as I stared into the goblin’s fierce eyes.
 
-I focused my killing intent on the monster.
+Snap.
 
-Clench.
+The tip of my sword wobbled from putting too much force into it.
 
-My grip tightened on the sword hilt.
+“Be, Bethel-raaaa!”
 
-"B-Behel—laaaaa!"
+I swung my sword wildly, praying to the ancestral gods – naturally, the goblin dodged.
 
-I roared and swung my sword randomly.
+And then…
 
-The goblin dodged easily.
+Crash!
 
-And...
+After a few more clumsy swings, I finally got a hit and used my base stats to finish it off.
 
-Slash-!
+Whoosh-!
 
-After a few more swings, I finally landed a hit and killed it.
+As soon as the mana stone dropped, I dashed over to grab it like a starving man diving for food. That’s the key point.
 
-Swaaaaaaaaaa!
+“Bjorn… Even on their first expedition, no warrior fights so pathetically. I mean, when I…”
 
-I rushed to pick up the magic stone, as if I hadn't eaten in days.
+Ugh, why does she always have to talk back?
 
-"See? Can you do that?"
+“So, can you do it or not? That’s all I need to know.”
 
-"Bjorn... even newbies don't fight that badly... I mean, I—"
+“I’ll try.”
 
-She was arguing with me again.
+“Oh, and always shout your battle cry. It makes observers think we’re fighting seriously.”
 
-"Just tell me if you can do it or not."
+Shouting the names of our ancestral gods while fighting a mere level 9 monster was embarrassing, but Aynar swallowed her pride and obliged.
 
-"I'll try..."
+“B-BETHHELL… RAAH…!”
 
-"And always shout the war cry. It makes you look more convincing."
+Her enthusiasm was lacking, but it would do.
 
-She was shouting our ancestor god's name for a 9th-grade goblin... but Ainar suppressed her embarrassment and followed my instructions.
+With the basics covered, it was time for the real stuff.
 
-"B-Behel—la..."
+“All right, this is how it’s going to be from now on. Got it?”
 
-Her enthusiasm seemed to have waned, but it was good enough.
+“Got it…”
 
-That concluded the basic training.
+And so we began roaming the Crystal Caves, engaging in “intense” battles with Level 9 monsters.
 
-Now it was time for the real thing.
+We kept our distance from human explorers, wary and aloof. When hungry, we gnawed on rock-hard stone bread to fill our stomachs.
 
-"We'll be doing this from now on. Understand?"
+This was the Barbarian Fishing Mode.
 
-"Understood..."
+Surprisingly, it took a lot of mental energy to maintain this state.
 
-We began exploring the Crystal Cave, fighting 9th-grade monsters.
+No matter how much I controlled my power, even a grazing blow would kill a goblin…
 
-We avoided other explorers and ate rock bread when we were hungry.
+Day 1, day 2.
 
-It was the Barbarian Fishermen Mode.
+Time went by.
 
-It was surprisingly difficult.
+Unfortunately, there were still no “bites”.
 
-Even a glancing blow could kill a goblin...
+But there was no reason to doubt or despair.
 
-But I gradually got used to it.
+Plunderers will lay low during the busy first two days to avoid attention.
 
-Day 1, Day 2...
+By the third day, most explorers had left the first floor for the higher floors.
 
-Time passed.
+Rumble… rumble…
 
-But we hadn't encountered any looters yet.
-
-I wasn't worried.
-
-'They'll be more cautious on the first few days, when there are more explorers around.'
-
-Day 3. Most of the explorers had moved to the upper floors.
-
-It was our chance.
-
-Rumble, rumble...
-
-I was on watch duty, trying to stay awake, when I finally sensed them.
+While Aynar slept, I stood guard, half asleep – until the first bite arrived.
 
 Step, step.
 
-Four explorers approached us, their footsteps heavy and unhurried.
+Four explorers approached, they weren’t even trying to hide their presence.
 
-Their equipment was decent.
+Their gear suggested they’d cleared at least the fourth floor.
 
-'At least 4th floor...'
+Thud.
 
-It didn't matter.
+They spread out, surrounded us, then stopped.
 
-Step.
+“Seriously, there aren’t many of you, yet you’re so hard to find. What’s the deal?”
 
-They stopped a short distance away, surrounding us.
+One of them grinned as he looked at me.
 
-And...
+Amazingly, his words were exactly what I’d been thinking.
 
-"Finally, we found them. Those two have been running around like crazy."
+“I finally found you.”
 
-One of them grinned at me.
+Yes.
 
-It was exactly what I had been thinking.
+Smirk
 
-"We finally found you."
-
-Indeed.
-
-Smirk.
-
-We had finally found each other.
+Yes, Finally found you.

@@ -1,445 +1,479 @@
-# Eye of the Strom 3
+Eye of the Storm (3)
 
-A simple declaration, revealing my true identity.
+A short murmur that only revealed my name.
 
-But the impact was significant.
+Yet, the ripple effect was by no means small.
 
-"Holy shit...!"
+“Crazy…!”
 
-Some were shocked.
+Someone spat out a curse, almost gasping.
 
-"So that's why he was acting so naturally."
+“So that’s why you did those things as naturally as breathing.”
 
-Some were convinced.
+The one who is convinced.
 
-"Wait, but isn't this a big deal? Viscount Bjorn Yandel is..."
+“But wait a minute, isn’t this a big deal? If you’re Baron Bjorn Jandel, then surely…”
 
-And some were wary.
+And the wary one.
 
-I quickly intervened before the rumors could spread.
+I spoke up before any unnecessary words could spill out.
 
-"Don't worry, I'm not an evil spirit. I can't tell you the details, but I made a deal with the royal family and faked my death. That's why they announced it."
+“Don’t worry; the talk about me being an evil spirit isn’t true. I can’t tell you the detailed circumstances, but I faked my death after reaching an agreement with the royal family, and that’s how it was announced.”
 
-It was a lie.
+Of course, this isn’t the truth.
 
-But it was a plausible explanation, and the explorers seemed to accept it.
+But it was a convincing explanation, as the members showed a calmer reaction than I expected.
 
-"That makes sense. Why would they appoint an unknown explorer as the expedition leader?"
+“Now it makes sense. No way they’d put an unknown explorer in charge of something as critical as this expedition leader role…”
 
-"So that's why the Blood Spirit Marquis is following him."
+“So that’s why the Blood Spirit Queen was following you.”
 
-"I never believed he was actually dead."
+“Actually, I couldn’t believe that such a man suddenly died in the labyrinth.”
 
-"But what was the reason for spreading that false information about him being an evil spirit...?"
+“But what kind of circumstances led them to spread false information about you being an evil spirit…?”
 
-Their curiosity was piqued, but it wasn't the time for explanations.
+Perhaps due to their innate curiosity, even in this situation, the members showed interest in me. But now wasn’t the time to explain such things.
 
-"I'll tell you all about it later. It's not important right now."
+“I’ll explain someday, when I get the chance. Right now, that’s not what’s important.”
 
-I silenced them, and James Kala, who had been speechless, finally spoke.
+When I decisively cut off the growing commotion, James Carla, who had been standing there with his mouth agape came to his senses and asked me.
 
-"Schuitz... No, Bjorn Yandel... No, Viscount Bjorn Yandel!"
+“Schuiz… no, Bjorn Jandel… no, Baron Bjorn Jandel!”
 
-He was struggling to address me properly.
+His flustered reaction was oddly cute.
 
-"I... I don't understand. Why would the royal family use you as a pawn?"
+“I still don’t fully understand. Why would the royal family use you as a disposable pawn?”
 
-I chuckled at his question.
+At his question, I smirked.
 
-"Well..."
+“Well…”
 
-There were many possibilities.
+There are many things I can guess.
 
-"He's a hero who saved countless lives and earned a noble title after decades of service."
+“The hero explorer who saved countless lives and earned a noble title for the first time in decades.”
 
-I was a symbol of hope.
+It’s a bit awkward to say it myself, but that’s me.
 
-"They wouldn't want him to just disappear, especially if they had to retract their announcement about him being an evil spirit."
+“From their standpoint, wouldn’t it be much better if I just quietly disappeared? Especially if they have to retract their announcement that I was an evil spirit.”
 
-"Ah..."
+“Ah…”
 
-James Kala nodded.
+James Carla showed a face of understanding.
 
-But that wasn't the whole story.
+But that’s not the end of it.
 
-I couldn't tell them about my suspicions...
+I can’t share my suspicions with them, but…
 
-'The Marquis might have known all along.'
+Perhaps the Marquis knew I was an evil spirit long before.
 
-He probably did.
+No, he definitely did.
 
-He sent his son to confirm whether I was an evil spirit...
+Even so, sending his son at night to confirm whether I was an evil spirit or not…
 
-'It was all an act.'
+‘It was probably just to deceive me.’
 
-He wanted to deceive me.
+Those who deceive others rarely suspect they themselves are being deceived.
 
-"Anyway, that's all from me."
+“Anyway, that’s all there is to my story.”
 
-I looked at the explorers.
+Saying that, I glanced around at the members.
 
-It was time for them to make their choices.
+With eyes that asked, “So what about you all?”
 
-"I made a deal with the Marquis. But it seems like he wasn't planning to keep his promise."
+“I received a promise from the Marquis as compensation for this mission. But he… didn’t seem to have any intention of keeping that promise.” -Ravien.
 
-Raviyen was the first to speak.
+“I was sent into a coma and barely regained consciousness thanks to the ‘agent’ of the Toberra Church. In return, I was bound to the church. If they were looking for a disposable mage to use as a pawn, there wouldn’t be a better choice than me.”-Vercil Gowland
 
-"I was in a coma for over a year after the explosion. The 'Agent' saved me, and I've been indebted to the Tovera Church ever since."
+“Last year, my granddaughter died. There’s no evidence, but it was by a knight belonging to the Marquis’s household. I’ve been searching for that knight ever since. Perhaps they approached me knowing that.”-Our team’s support type, Old Diddy
 
-Bersil Gowland.
+“I happened to find out that the Tower Master was colluding with the royal family. To make it public, I needed power, and for that, I needed a lot of money, so I joined the expedition. But it seems he already knew about me.”-Riard Ashid, a mage from the Langman school where the Tower Master is the leader.
 
-"My granddaughter died last year. I suspect a knight from the Marquis's family was involved. I've been investigating him."
+“Wait a minute! I really have nothing! My life’s motto is to live quietly and for a long time!”
 
-Didi, the ability user.
+What is he saying? I know, and heaven knows, that you’re an evil spirit.
 
-"I found out that the Mage Tower Master is colluding with the royal family. I needed a powerful backer to expose them, so I joined the expedition. But it seems like he already knew about me."
+His secret must have been found out somehow.
 
-Liard Ashid, the mage.
+I quickly skipped over the outcry of the goblin mask, Sven Parab.
 
-"Wait! I'm not like them! I just want to live a long and peaceful life!"
+After that, whenever our eyes met, the members shuddered and began to confess their personal circumstances.
 
-Sven Parab, the Goblin Mask, protested.
+“…”
 
-I ignored him.
+Of course, there were those who remained silent.
 
-He was the only one who didn't seem to have a hidden agenda.
+But they just didn’t want to reveal their weaknesses, and they too had expressions suggesting they had some suspicions.
 
-He must have been caught up in something.
+When this unexpected confession time was continuing.
 
-The explorers continued to confess their secrets.
+Someone shouted out in frustration.
 
-"..."
+“Wait a minute! I… I have no reason to be abandoned by the church!”
 
-Some remained silent.
+Her name was Periton Eriavosti, and she was a priestess from Kaislan’s team.
 
-But even they seemed to understand.
+“This… this must be some kind of mistake. I only volunteered because I thought it was for the good of the people…”
 
-That they had been abandoned.
+It didn’t sound like a lie.
 
-"..."
+No, it probably wasn’t a lie at all.
 
-The atmosphere was heavy with despair.
+I spoke with genuine sympathy.
 
-"Is it true... that we've been abandoned?"
+“In that case, I express my regret. You simply had the misfortune of being caught up in this.”
 
-"But how could they... We're all elites..."
+“Wait! What do you mean, bad luck—”
 
-"Damn it!"
+“Aren’t there others besides you who are in similar situations?”
 
-Their eyes were filled with fear and anger.
+For instance, there’s Erwin and Amelia.
 
-"Are we going to die? Here? Like this...?"
+And then there’s Parsible Eric Coulson, a knight who served under Kaislan for nearly ten years. Or Rick Jaggersta, the childhood friend of James Carla.
 
-Some were consumed by despair.
+Though in their cases, they’re less unlucky than the priestess woman—more like victims of poor choices in friends.
 
-"I... I still have things to do!"
+“How… how could this happen?”
 
-Some were filled with rage.
+The priestess, who seemed truly innocent, hung her head.
 
-"...There's something that doesn't make sense! What about Pike Neldain?"
+And she wasn’t the only one.
 
-Some clung to a shred of hope, seeking answers.
+As expected, the atmosphere in the expedition was akin to a funeral.
 
-"If they were planning to abandon us, why would they send a saboteur to ruin the mission?!"
+“Are we really… abandoned?”
 
-Ah, that.
+“It’s hard not to believe it now…”
 
-I had been wondering the same thing.
+“Then… even if we return alive, will the royal family try to kill us somehow?”
 
-There were two possibilities.
+“Damn it all!!”
 
-First, the Guild Master wanted to prevent the Marquis from taking credit for the mission's success.
+Like a kite with its string cut, their eyes began to waver with anxious expressions.
 
-I was the expedition leader, after all.
+“Are we going to die? Really? Here like this…?”
 
-If we had lost all our supplies in Ice Rock, we would have died there.
+Some despaired.
 
-The Marquis would have lost his chance to claim the victory.
+“I… I have something I absolutely must do!”
 
-'It's plausible. They're rivals.'
+Some expressed anger.
 
-But...
+“…Logically, something doesn’t make sense! Then what about Pike Neldaine?”
 
-Thump, thump.
+Some voiced doubts, clinging to a thread of hope.
 
-I decided not to tell them.
+“If they were planning to abandon us all, why bother planting a spy to sabotage the mission?”
 
-It wasn't the time for that.
+Ah, that part.
 
-I had to focus on the present.
+I had thought about that myself.
 
-"Why did they send a saboteur?"
+There were two possibilities I could think of.The first was that the Guildmaster didn’t want the Marquis to claim credit for the mission.
 
-It was a question everyone wanted answered.
+After all, I’m the expedition leader.
 
-"It's simple, isn't it?"
+If we destroy the Eye of the Sky and are annihilated, most of the achievements we made will go to the Marquis, and maybe the Guild Master wanted to prevent that?
 
-Maybe they needed to hear this.
+‘It’s a plausible story. If we had lost all our food at Ice Rock, we wouldn’t have been able to even get through this place and would have all died.’
 
-Even if it was just a lie.
+That possibility certainly exists.
 
-"There's someone out there!"
+But…
 
-I shouted, my voice filled with conviction.
+Tap tap.
 
-"Someone who doesn't want us to die here!"
+It’s better not to mention this.
 
-"Someone who will help us fight the royal family!"
+I made a decision.
 
-Even if it was just a glimmer of hope.
+It’s enough for me alone to worry about the worst.
 
-We had to move forward.
+So…
 
-We were still alive.
+“Why did someone send a spy?”
+
+The fact that the spy was working under the Guildmaster was something only the team leaders knew for now.
+
+Let’s say what’s necessary now.
+
+“Isn’t it obvious?”
+
+Perhaps the very words everyone wanted to hear.
+
+“There’s someone out there in the city!”
+
+I said to everyone in a strong voice.
+
+“Someone who doesn’t want us to be meaninglessly consumed in a place like this!”
+
+Even if it’s a vain hope.
+
+“Someone who will help us fight against the royal family if we just return alive!”
+
+We have to keep moving forward.
+
+Because we’re still alive.
 
 ---
 
-The windows are all boarded up, blocking the sunlight.
+A room with all the windows closed, letting in not a single ray of light.
 
-Our current situation is no different.
+That’s what our expedition’s current situation is like.
 
-[What difference does it make if we escape?! We're all going to die anyway! Do you think we'll be able to live happily ever after once we get back to the city?]
+Half of it was my intention.
 
-I didn't stop him when he said that.
+[Even if we miraculously shake them off, what’s going to change? Do you think there’s a future where we can laugh and smile back in the city?]
 
-[...I'm Bjorn Yandel.]
+When he said those words in front of the members, I didn’t stop him.
 
-I revealed my identity.
+[…I am Bjorn Jandel]
 
-[Is it true... that we've been abandoned?]
+I uttered that name, which was nothing less than a death sentence to them.
 
-[This can't be happening...]
+[Really… we’ve been abandoned?]
 
-I crushed their hope.
+[It’s hard not to believe it now…]
 
-It was like closing the windows, one by one.
+I led the situation and erased hope from all the members’ minds. Like closing each window in an already dark room.
 
-I did it because...
+The reason I did such a thing is simple.
 
-Those who dream of a bright future are easily broken.
+Those who dream of a golden future crumble easily.
 
-So...
+So…
 
-A faint glimmer of light shining through a crack in the window.
+Through a slightly open window crack, a faint ray of light flows in.
 
-That's all they needed.
+I judged that, for now, that would be enough.
 
-"Will we survive if we get back to the city...?"
+At least I could make everyone look in the same direction and move forward.
 
-"But we don't even know who that person is... Can he really help us...?"
+“Are you saying we’ll live if we go back…?”
 
-They had seen the light.
+“But… we don’t even know who that person is. Does that person really have such power…?”
 
-Even if they doubted its existence.
+They clearly saw the light.
 
-So...
+They might doubt whether it was an illusion.
 
-"Listen up!"
+But that alone is certain.
 
-It was time to motivate them.
+Therefore…
 
-To crawl towards the light, even if it meant going through darkness.
+“Everyone, listen up!”
 
-Even if they didn't know what awaited them at the end.
+Now, I have no choice but to somehow encourage them.
 
-"I'm Bjorn Yandel!"
+Let’s crawl through the darkness and head toward the light.
 
-I declared my name.
+We don’t know if there will be a cliff at the end or what awaits us.
 
-And then I asked,
+But at least, let’s check it out.
 
-"Do you know who I am?"
+“I am Bjorne Jandel!”
 
-"Of course we do."
+I say my name.
 
-"He's the explorer who became a noble."
+And then ask.
 
-"He was a hero."
+“Have you heard of me?”
 
-Their voices were weak and lifeless.
+The members replied.
 
-So I shouted.
+“How could we not know that name?”
 
-"Good! I'm glad you know! I'll be blunt! We're in deep shit!"
+“An explorer who became a noble for the first time in decades.”
 
-"We have those bastards on our tail, and the city is filled with wolves waiting to devour us!"
+“When the news of your death came out, there was such a big commotion.”
 
-"But...!"
+Their voices were limp and weak.
 
-"I've never given up, and I'm not starting now!"
+All the more reason for me to shout with energy.
 
-I looked at them and made a promise.
+“I’m glad you’ve at least heard of me! I won’t talk for long! Our current situation is the worst!”
 
-I couldn't promise to save them all...
+“But…!”
 
-"I'll take on the most dangerous tasks!"
+“Never in my life have I ever given up—not once! And this time will be no different.”
 
-"I'll do the dirty work!"
+I told them.
 
-"I'll be the first to face the enemy, and I'll be the one who gets hurt!"
+“I, Bjorn Jandel, swear on the heart of a warrior.”
 
-"So...!"
+I can’t dare to say that I’ll save everyone.
 
-I pleaded with them.
+“I will do the hardest tasks.”
 
-"Follow me."
+“I will do the dirty work that no one else wants to do.”
 
-My voice was soft, but it reached them.
+“I will walk into the places reeking of blood first, and if someone has to get hurt, I’ll be the one.”
 
-"..."
+“So…!”
 
-"..."
+I politely requested.
 
-Silence.
+“Follow me.”
 
-They were still hesitant.
+My voice wasn’t loud, but it carried a resonance that surely reached everyone’s ears.
 
-They had heard my promises, but they were still afraid.
+“…”
 
-Damn it, they're making me angry.
+“…”
 
-"If you're going to die anyway, might as well die with me!"
+No one responded.
 
-I finally snapped.
+Should I say they were just busy watching each other’s reactions?
+
+Even after I’ve spoken so earnestly, they act like this.
+
+Ha, really makes me angry.
+
+“If you’re going to throw away your life in the gutter anyway, throw it away on me!!”
+
+In the end, I have to shout to get them to listen, right?
 
 ---
 
-"Alright, those who are ready, get ready. We'll be leaving in one minute."
+“Those who understand, get ready. We’ll depart in one minute.”
 
-I turned around.
+After saying that, I turned my back.
 
-And someone immediately stepped forward.
+Immediately, someone followed.
 
-"Let's go, sir!"
+“Mister, let’s go together!”
 
-Erwen.
+Erwin fornacci de tersia.
 
-"I'm coming too."
+“Good. If the departure was delayed any longer, I was going to set off alone.”
 
 Amelia.
 
-My precious companions, who would follow me even into fire.
+My precious comrades who would follow me even if I walked into the flames.
 
-"Jun, you were right."
+“Jun, in the end, you were right,” Kaislan spoke.
 
-Next was Kaislan.
+“Even when everyone crumbles, that man alone will stand firm. No matter what lies at the end, I will follow that back.”
 
-"He'll be the one standing strong when everyone else falls. I'll follow him, no matter what lies ahead."
+Kaislan stood behind me.
 
-He stood behind me.
+Next was Akuraba.
 
-Then Akuraba.
+“I never intended to give up from the start. I’ve been through worse situations than this. If I had given up each time, I wouldn’t be standing here now.”
 
-"I never planned to give up. I've been through worse. I wouldn't be here if I had given up every time."
+After Akuraba was Jun, and then James Carla joined, and the members began to stand up one by one.
 
-After Akuraba, Jun joined us. And then James Kala followed suit, and one by one, the other explorers started to rise.
+“Bjorn Jandel… turns out he’s an even more reckless guy than the rumors.”
 
-"Bjorn Yandel... he's more barbaric than I thought."
+“Hehe, I thought he was saying something cool, but at the end, he ended up yelling.”
 
-"Heh, I thought he would give us some inspiring speech, but he just ended up yelling."
+“We’ve rested enough; let’s get going again.”
 
-"We've rested enough. Let's go."
+“He said he’d handle the dangerous tasks himself, didn’t he? If we sit down even after hearing that, can we be called explorers?”
 
-"He said he would take care of the dangerous tasks, didn't he? We can't just sit here and watch."
+“Besides, we can’t just die here…”
 
-"We can't die here..."
+“Wait! Everyone, don’t just stand anywhere; let’s get into formation! Formation! Yes?”
 
-"Wait! Don't just stand there! Get into formation! Formation! Please!"
+Within a minute of me saying it, the whole unit was behind me.
 
-Before the minute was up, everyone was behind me.
+It wasn’t a particularly moving scene.
 
-It wasn't a heartwarming scene.
+Even when people are prepared to throw themselves into the abyss, they hesitate until the very last moment.
 
-Even those who stood on the edge of despair clung to a shred of hope until the very end.
+Even if I had set off alone, they all would have followed.
 
-They were just afraid to be left behind.
+But…
 
-But...
+“Jandel! So when are we departing?”
 
-"Yandel! When are we leaving?!"
+“Hey, you… what kind of way is that to talk to the commander…?”
 
-"Hey, you... show some respect to the leader..."
+“Ha, you pay attention to every little thing. Anyway, if things go wrong, we’ll all die, right?”
 
-"Respect? What's the point of respect when we're all going to die?"
+There’s a saying that the way you say things makes a difference.
 
-Words have power.
+The lifeless eyes that seemed like they couldn’t even cut down an orc began to show vitality.
 
-Their eyes, once dull and lifeless, were now filled with a spark of life.
+If they had followed just because they were afraid to be left alone.
 
-"Okay, there's one more thing we have to do before we leave."
+If they had followed reluctantly because they didn’t want to be abandoned again after already being abandoned once.
 
-"What is it?"
+Such motives would never have inspired this change.
 
-Sven Parab looked at me with an uneasy expression.
+“Alright, then before we depart, there’s one more thing to take care of.”
 
-I ignored him and walked towards the sleds.
+“Take care of?”
 
-And...
+Sven Parab next to me tilted his head with uneasy eyes, and I ignored him and headed toward the sled.
 
-"Wait! What are you doing? You're not going to carry them all by yourself, are you?"
+At this, a warrior hurriedly approached.
 
-A warrior rushed forward, offering to help.
+“Wait! Until now, you’ve been pulling it alone, haven’t you? From now on, we’ll also help…”
 
-What is he talking about?
+What is he saying?
 
-"Wait... why are you taking the supplies off the sleds?"
+When did I ever say I was going to pull it?
 
-"We can carry this much in our backpacks."
+“Wait a minute… Why are you unloading the food crates from the sled?”
 
-"...? In our backpacks? Then what about the rest...?"
+“I think we can carry this much in our stomachs and go.”
 
-What about the rest?
+“…Huh? Carry it in our stomachs? Then what about the rest…?”
 
-I threw the two remaining sleds over the cliff.
+What else can we do with the rest?
 
-Whoosh!
+We throw it away.
 
-Ten seconds later, a faint thud echoed from below.
+Whoosh—!
 
-"...He's crazy!"
+I pushed the two sleds I had been barely dragging to the bottom of the cliff.
 
-"What have you done?!"
+The cliff was so deep that it took over ten seconds before a faint “thud!” sound was heard.
 
-I had expected them to be shocked, but I didn't back down.
+“…C-crazy!”
 
-"If we travel with the sleds, they'll catch up to us soon."
+“What did you just do!”
 
-"I-I understand, but... the supplies..."
+What do you think I did?
 
-"What's the problem? We have enough food in our backpacks to last until we reach the end of Ice Rock."
+Why are those guys moving faster than us?
 
-"B-but what about after that?! What are we going to do then?!"
+“If we move while dragging the sled, we’ll be caught up by them soon.”
 
-It was a valid question.
+“Th-that’s true, but… but to throw away the food…”
 
-Even if we lighten our load and reach the end of Ice Rock in two days, we still have eight more days to survive until the labyrinth closes.
+“What’s the problem? The food in our backpacks should be enough until we get out of the Glacier’s Eye.”
 
-But...
+“But! What are we going to do after that!”
 
-'Don't worry.'
+A fair question, filled with genuine concern.
 
-I had a plan.
+Even if we get out of the Glacier Eye in two days since our load has lightened, we still have to survive for eight more days until the labyrinth closes.
 
-"Don't panic. We'll figure it out."
+But…
 
-I shared my plan with them before the panic could spread.
+‘Geez, they’re getting all worked up.’
 
-"There are monsters in Ice Rock, aren't there?"
+Did they think I did that without any thought?
 
-"Monsters...?"
+Before the commotion could grow any larger, I quickly shared the plan I had devised.
 
-"Wait, are you saying...!"
+“When we get past the Glacier Eye, won’t monsters start appearing?”
 
-I didn't deny it.
+“Monsters…?”
 
-"Yes, we'll hunt them and use Distortion magic to preserve their meat."
+“Wait a minute, you don’t mean…!”
 
-They looked even more shocked than before.
+I didn’t deny their suspicions.
 
-"He's serious..."
+“Yes, from that point on, we’ll use distortion magic to procure meat.”
 
-"This is insane..."
+For some reason, this seemed to cause even more agitation.
 
-"I... I think I'd rather die here..."
+“He seems to be serious about this…”
 
-It was the best option.
+“This is driving me crazy.”
+
+“Um… I… I’m starting to think it might be better to just die here.”
+
+This is the best method.

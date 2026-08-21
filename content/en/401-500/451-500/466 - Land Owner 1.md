@@ -1,355 +1,351 @@
-# Land Owner 1
+Landowner(1)
 
-The first real estate sale in barbarian history was about to begin. Ainar brought me good news, and a smile spread across my face.
+About 30 minutes before the first property sale in Barbarian history. My lips twitched at the good news Aynar had brought.
 
-"130 gathered?"
+“130 people have gathered?”
 
-"Yes! They're all clamoring, asking when the sale starts!"
+“Yes! They’re all screaming to know when we’re selling!”
 
-The number of prospective buyers was much higher than I'd anticipated. I quickly turned to the Minister of Urban Development for the Barbarian Tribe.
+There were far more people waiting than I had expected.
 
-"Rick, how many plots can we sell today?"
+I quickly asked the Barbarian Minister of Urban Development.
 
-"73."
+“Rick, what was the maximum number of plots we can sell?”
 
-One plot of land was 400 square meters, or roughly 1,300 square feet.
+“73 plots.”
 
-'So we have about 30,000 square feet available for sale today.'
+Each plot is 400 square meters.
 
-Rick had surveyed the land by himself, and I could only imagine how much work he'd put in.
+So, that means…
 
-"But... are you sure this unit of measurement is okay? One plot...?"
+‘The total area available for sale today is 8,833 square meters.’
 
-"Don't worry. This will be much easier for them to understand."
+Thinking of Rick running around measuring the land all by himself, I could almost see how much hard work he had put in.
 
-If we used larger units, it would only confuse the barbarians.
+“But… are you sure we can calculate it this way? Calling each 400 sq m area a single ‘plot’…?”
 
-It was much simpler to define one plot as a 20-meter by 20-meter square.
+“Don’t worry. It’ll be much simpler for everyone this way.”
 
-Of course, I planned to offer smaller and larger plots later, to give buyers more options.
+If we made the numbers unnecessarily large or complicated, it would just confuse the Barbarians.
 
-200 square meters would be half a plot.
+Yeah, it’s definitely easier to conceptualize one plot as a 20m x 20m(400 sq m) square.
 
-600 square meters would be one and a half plots.
+Of course, I plan to offer smaller or larger plots in the future.
 
-Much simpler, right?
+200 sq m would be half a plot.
 
-"Anyway, we'll only sell 40 plots today."
+600 sq m would be one and a half plots.
 
-"...What? We're not selling them all?"
+This way is much simpler.
 
-"Not yet."
+“Anyway, let’s sell about 40 plots this time.”
 
-I had prepared as much land as possible, just in case, but selling it all at once would disrupt my future plans.
+“…What? You’re not selling all of them?”
 
-"...Understood."
+“It’s not yet time.”
 
-Rick, who had worked tirelessly for this day, looked a little disappointed, but it couldn't be helped. The key to real estate was future value.
+Though we prepared as much land as possible just in case, selling it all now would disrupt future plans.
 
-"Alright, let's go."
+“…Understood.”
 
-After adjusting the number of lots in the lottery box, we headed to the sales location. It was a forest near the outer gate, convenient for travel to and from the city.
+Rick, who had rushed to prepare everything for today, looked a bit disappointed, but it couldn’t be helped.
 
-"Oh, it's the Chieftain!"
+The key to real estate is future value, after all.
 
-"Start selling! I've brought enough money!"
+“All right, let’s get moving.”
 
-The warriors who spotted me started calling out.
+After rearranging the lottery boxes to match the numbers, we headed to the location.
 
-I greeted them briefly, scanning their equipment as I did.
+A forest near the outer gate, conveniently located for travel to the city.
 
-'Their average level is around 5th floor.'
+“Oh, it’s the Chief!”
 
-They were among the higher-ranking warriors in the tribe.
+“Hurry up and sell! We’ve brought plenty of money!”
 
-They needed to be at least this strong to afford the 2 million stone price tag I'd set for each plot. Barbarians weren't known for their saving habits.
+As the warriors noticed my arrival, they started calling out to me. I returned their greetings in a casual manner while scanning their gear.
 
-Ainar had told me that some warriors had even sold their prized equipment to buy land.
+‘About level 5 on average’
 
-"Greetings, warriors who seized the opportunity!"
+That’s enough to put them in the middle to upper echelon of the tribe.
 
-I climbed onto the platform Ainar had prepared and began my sales pitch.
+It made sense: only those around this level would be able to purchase land priced at 2 million Stones without difficulty. Barbarians generally don’t have the habit of saving up money.
 
-"Do you see those four yellow flags over there?"
+According to Aynar, some warriors even sold their prized weapons to buy land today.
 
-"Yes!"
+“Welcome, warriors who haven’t missed this golden opportunity!”
 
-"The land within those flags is what we're selling today."
+Standing on a small platform Aynar had set up, I began my speech with a bit of an introduction.
 
-I needed to explain the concept first. Some of the warriors who had come might just be curious onlookers.
+“Do you see those four yellow flags?”
+“We see them!”
 
-I needed to stimulate their desire to buy.
+“Those four flags mark the boundaries of the land we’re selling today.”
 
-"It's quite spacious, isn't it? There's still room even with over a hundred of us here!"
+It was necessary to explain the concept.
 
-"Uh... is it?"
+Some here were just looking around, time to give them a nudge.
 
-"Think about the inn rooms you stay in! They're barely big enough for a single bed! This plot of land can easily fit a hundred beds!"
+“Well, how does it look? It’s pretty big, right? There are over a hundred of you here, and there’s still plenty of space left!”
 
-Of course, inn rooms had walls and a roof, unlike this open space... but that wasn't important right now.
+“Uh… really?”
 
-"Hmm... Now that you mention it, it does seem spacious!"
+“Think about the inn room you stay in! Just one bed fills it up, but here you could fit 100 beds easily!”
 
-Good.
+Of course, an inn room isn’t just a bare floor, and it has walls and a roof.
 
-"Yes, it's a vast land! You can build a house here, and turn the rest into a training ground. And since it's private property, you can even use the abilities you can't use in the city!"
+This wasn’t really the time for such details.
 
-"...Private property?"
+“Oh, right? It does seem spacious now that you mention it!”
 
-"It means it's completely yours!"
+Exactly.
 
-"...Oooooh!"
+“Yes, it’s spacious land! You can build a house here, and even turn the yard into a training ground. Oh! It’s private property, so you can freely use powers that you can’t use in the city!”
 
-The warriors seemed impressed by the fancy term.
+“…Private property?”
 
-"Ah, and by the way, land this size would cost hundreds of millions of stones in the city. And commoners can't even buy it!"
+“It means it’s completely your own land!”
 
-I casually omitted the fact that such prices only applied to Karnon, the Imperial City, and continued to stimulate their desire to buy.
+“…Oh!”
 
-And when the time was right...
+The warriors gave an impressed gasp, as if the term sounded important.
 
-"Ahem!"
+“Ah, by the way, in the city, land this size would cost several hundred million stones. And if you’re not a noble, you can’t even buy it!”
+
+I skipped mentioning that this was only true for the Imperial Capital of Carnon. Then I spent quite a while stirring up the Barbarians’ desire to buy. And once I judged the timing was right:
+
+“Ahem!”
 
 I cleared my throat and got to the main point.
 
-"Anyway, we're selling 40 plots today, all the same size as this one!"
+“Anyway, we’re selling a total of forty plots today. Each one is the same size as the one you see right here.”
+“…Forty plots? There are over a hundred of us here!”
 
-"...Forty plots? But there are over a hundred of us here?"
+Having been called out early in the morning, and now with a full buying appetite, the Barbarians expressed their dissatisfaction with the limited supply.
 
-The barbarians, summoned early in the morning and further motivated by my speech, complained about the limited supply.
+But the more they grumbled, the more shamelessly I pressed on.
 
-But I just doubled down.
+“Stop whining! Land is so scarce that it was hard enough to prepare even forty plots! If you don’t like it, don’t buy it!”
 
-"Stop complaining! Land is a precious resource! We barely managed to secure 40 plots! If you don't want it, don't buy it!"
+Being the supplier meant I had the upper hand.
 
-Limited supply meant the seller had the advantage.
+The warriors soon fell silent, and I proceeded as planned.
 
-The warriors immediately shut their mouths, and I continued as planned.
+“From now on, you’ll each take turns drawing lots. Anyone who draws a black lot will earn the opportunity to buy a plot of land!”
 
-"Now, each of you will come forward and draw a lot! Those who draw a black lot will have the opportunity to buy land!"
+We divided the 130 warriors into six groups and started the lottery. Before long, cries of victory and defeat rang out:
 
-We divided the 130 warriors into six groups, and they took turns drawing lots. Soon, cheers and groans filled the air.
+“B-black! I got a black one!!”
 
-"I got a black lot! A black lot!!"
+“W-white?! This is unfair! It’s because I drew later! Let me draw again!!”
 
-"A white one?! This is unfair! I drew last! Let me draw again!!"
+Once the draw was finished, the winning Barbarians were handed over to Rick Anderson, a member of the administrative corps, who collected their cash and sold them the plots.
 
-But complaining wouldn't change the outcome.
+“Hey, human…? I don’t know how to read.”
 
-After the lottery, the winners were led to Rick Anderson, who handled the sales and collected the payments.
+“That’s okay. This land is being sold by our Chief himself. There’s nothing to worry about.”
 
-"Hey, human... I can't read!"
+“…Really?”
 
-"Don't worry. It's the Chieftain's land. It's all legitimate."
+The land deed specifically states that only Barbarians can inherit it, and if no heir is designated, the ownership reverts to the tribe. But that was a minor detail for now.
 
-"...Is it?"
+“All right, we’ll seal it. Please press your hand here.”
 
-The deed stated that the land could only be inherited by other barbarians, and if there were no heirs, the ownership would revert to the tribe...
+The Barbarians happily pressed their ink-stained hands onto the paper.
 
-But that was a minor detail.
+And…
 
-"Now, just press your thumbprint here."
+‘Selling barren land for 80 million stones…’
 
-The barbarians happily pressed their inked thumbprints onto the documents.
+Considering that the average coming-of-age ceremony costs 10 million stones, this amount could easily cover nine more ceremonies.
 
-And...
+“Hey! What are you doing? This is my private property you’re standing on! Get out!”
 
-'80 million stones from selling undeveloped land... not bad.'
+“Sorry! I just wanted to look around for a bit…”
 
-The average income from the coming-of-age ceremony was about 10 million stones, so this was enough to cover eight ceremonies.
+“Tch, make it quick, understand? Preferably, don’t even breathe while you’re at it!”
 
-"Hey! What are you doing?! This is my land! Get out!"
+“I got it!!”
 
-"S-Sorry! I was just looking around..."
+Right away, those who had purchased land began pitching their tents on their plots, while those who didn’t manage to buy watched enviously.
 
-"Just for a moment. And don't even breathe while you're here."
+“By any chance, would you sell me that land if I add another 100,000 Stones on top?”
 
-"Understood!"
+“Hmm, an extra 100,000 Stones…?”
 
-The warriors who had bought land started setting up their tents, while those who hadn't looked on enviously.
+It was the exact scenario I’d been hoping for.
 
-"Shrive's son, Byukan! I'll give you 100,000 stones more. Sell me your land."
+Well, in the end, they didn’t close the deal.
 
-"Hmm, 100,000 stones...?"
+“Sorry, but I don’t think I can do it for that price.”
 
-The situation I had anticipated was already unfolding.
+“I see. Well, if you change your mind, come talk to me.”
 
-Well, the deal didn't go through in the end.
+The warrior backed out, not wanting to pay more than 100,000 stones for the land
 
-"Sorry, but that's not enough."
+“Aynar.”
 
-"I see... Let me know if you change your mind."
+.As I quietly muttered, Aynar nodded and vanished into the crowd without a sound.
 
-The warrior, reluctant to pay such a high premium, backed down.
+I watched her leave, then let out a heavy sigh.
 
-But that didn't matter.
-
-"Ainar."
-
-I called her name, and she nodded resolutely, disappearing into the crowd.
-
-I watched her leave and sighed.
-
-"Phew..."
+“Hoo…”
 
 There was no turning back now.
 
 ---
 
-The day after the forty plots were sold out,
+The day after all forty plots sold out…
 
-A rumor swept through the sanctuary.
+A certain rumor spread through the sacred land:
 
-"Did you hear? Shrive's son, Byukan, sold his land for 3 million stones!"
+“Did you hear? Shirib’s son Vukan sold the land he bought yesterday for 3 million stones!”
 
-"He earned a million stones in a single day!"
+“He made 1 million Stones of pure profit in less than a day!”
 
-"What?! A million stones?! That's enough to buy a Laithium breastplate! The one the Chieftain wears!"
+“What?! Are you sure? A million Stones is almost enough to buy a Litinium armor set! The same kind the chief likes to wear!”
 
-The land that had been sold for 2 million stones had doubled in value in a single day.
+Land that had cost 2 million Stones was sold the very next day for 3 million. Of course, it wasn’t a normal transaction.
 
-Of course, it wasn't a normal transaction.
+“Who in their right mind would pay that much? Sure, the Chief’s words about future value might make sense, but still. That’s insane.”
 
-"Is that guy insane? I mean, the Chieftain's words made sense, but... 3 million stones for a plot of land?!"
+“So who’s the one that bought it?”
 
-"Who bought it?"
+The buyer’s name was Seirik, the second son of Vutol.
 
-The buyer was Bytol's second son, Seirik.
+He was part of the “Comrades’ Society,” a private group formed under the tribe’s second elder Caron, who’d led the “backpack revolution.”
 
-A member of the 'Comrade Association', a secret organization within the tribe created by Charon, the 2nd Elder who had started the Backpack Revolution.
+“…I heard he made a fortune from a backpack raid before, but I never imagined he had that much money!”
 
-"...I heard he made a fortune from selling backpacks... but I didn't know he had that much money!"
+I heard from Caron that he was a very tight-lipped guy, so I supported him financially.
 
-I had secretly funded Charon, instructing him to choose a trustworthy warrior with a tight lip.
+For one simple reason.
 
-The reason was simple.
+“But… maybe what the chief said was true… … .”
 
-"But... maybe the Chieftain was right..."
+No matter how many times I might explain the land’s future value, not everyone in the tribe would be convinced.
 
-No matter how much I talked about the value of land, not all barbarians would believe me.
+But…
 
-"You mean when he said the land would become too expensive to buy later?"
+“Ah, do you mean when he mentioned it might become so expensive that we won’t be able to buy it anymore”
 
-"Yes! I heard he's selling more land this month! I'm thinking about buying some too."
+“Yeah! They say they’ll be selling more land within this month. I’m thinking of joining in this time.”
 
-"Hmm, I thought you didn't need land. What changed your mind?"
+“Hmm, I thought you said you didn’t need any land. Did you change your mind?”
 
-"I still don't need land! But think about it. We can buy it now and sell it later for a profit! It's like getting a free weapon! You should buy some too!"
+“I still don’t need land! But think about it. If I buy it now and sell it later, it’s basically a free ticket to a nice weapon, right? You should buy some too!”
 
-"Hmm... I'd rather save the money and buy a weapon! At least weapons are useful in battle. Land is just..."
+“I don’t know… I think I’d rather save up and just buy a weapon. At least a weapon can be used in battle against enemies. Land can’t do that!”
 
-There were still many warriors who were skeptical, but that was just a matter of time.
+Of course, many warriors still kept their minds closed to the idea, but that was only a matter of time.
 
-The land that had been sold for 2 million stones was resold for 3.5 million.
+2 million sold for 3.5 million the next day.
 
-And then 3.7 million.
+3.5 million sold for 3.7 million the next day, and 3.7 million for 4 million the following day.
 
-And then 4 million.
+“…What, paying that much for land! Are they all crazy!!”
 
-All thanks to our 'comrade'.
+The holy land began to buzz just three days later.
 
-"...W-What?! 4 million stones for a plot of land?! Are they all insane?!"
+“Why won’t you sell it! I’m offering 4 million stones!”
 
-In just four days, the sanctuary was in an uproar.
+While some Barbarians quickly tried to buy land, no landowners wanted to sell.
 
-"Why aren't they selling?! I'll pay 4 million stones!"
+After all, the landowners weren’t fools.
 
-Some barbarians were eager to buy, but no one was selling.
+Because the landowners weren’t fools either.
 
-They weren't fools.
+“Why would I sell now if I can sell for more tomorrow?”
 
-"It'll be worth even more tomorrow! Why would I sell it now?!"
+“Th-That’s…!”
 
-"B-But...!"
+Sure enough, the very next day, that land sold for four million stone, and seeing this, the warriors became even more eager.
 
-The next day, the land was sold for 4 million stones, and the warriors were hooked.
+It wasn’t because they were stupid. Even modern people who’ve studied economics can get swept up in a frenzy and lose their reason, after all.
 
-It wasn't just the barbarians who were caught up in the frenzy.
+“Four point three million! I’ll buy it for four point three million!!”
 
-Even the modern clerks, trained in economics, were starting to lose their minds.
+This was a change that happened in just four days.
 
-"4.3 million! I'll buy it for 4.3 million!!"
+The market had become so active that our “comrades society” no longer even needed to intervene. However, I instructed Caron to keep buying until he used up all 50 million stones we allocated to the comrades association’s fund.
 
-In just a week, the market had become self-sustaining.
+It was two-thirds of the net profit, but I had no regrets.
 
-I no longer needed to rely on 'comrades'.
+‘The next land we sell will go for 6 million each.’
 
-I instructed Charon to continue buying land until the 50 million stones I had given him were all spent. It was two-thirds of the profit, but I didn't mind.
+The reason for the price increase?
 
-'The next batch of land will sell for 6 million stones each.'
+Isn’t it natural for the land further inside to be more expensive than what we sold before?
 
-Why the price increase?
+They’ll want to buy it no matter the price.
 
-It was simple.
+Once they buy, it’s like printing money.
 
-The new plots were closer to the city center, so of course they were more expensive.
+‘Okay, then I don’t really need to worry about this anymore…’
 
-And the barbarians would buy them anyway.
+As I was about to leave the chief’s tent and wrap things up, Rick Anderson, who was handling the real estate business, approached me with a question.
 
-After all, they believed that buying land was a guaranteed profit.
+“Isn’t this strange?”
 
-'Okay, then I don't have to worry about this anymore...'
+“What do you mean?”
 
-I was about to leave the chieftain's tent when Rick Anderson, who was in charge of the real estate project, approached me.
+“The land prices. From what I see, there’s no reason for the land prices to rise. After all, the sanctuary is vast, isn’t it? Mathematically speaking, even if every member of the tribe owned one plot, there would still be land left.”
 
-"This is strange, isn't it?"
+“Hmm, is that so?”
 
-"What is?"
+“Yes. The warriors who bought the land will eventually regret it. Maybe you should advise against it, Baron.”
 
-"The land prices. I don't see any reason why they should be increasing. The sanctuary isn't that small, you know. Mathematically speaking, even if every warrior owned a plot of land, there would still be land left over."
+“Well, if they want to buy, why should I stop them?”
 
-"Hmm, is that so?"
+“That’s… true.”
 
-"Yes. The warriors who bought land will regret it later."
+“Anyway, I’m off now!”
 
-"Why should I stop them? They're the ones who want to buy it."
+Phew, how long has it been since I got home on time?
 
-"That's... true."
+I’m going to get another lecture from Amelia and Erwin.
 
-"Anyway, I'm leaving!"
+I headed straight home at a brisk pace, but to my surprise, there was no nagging this time.
 
-Finally, I could go home.
+“Emily, Erwin! I’m home—.”
 
-I rushed back to the city, expecting to be scolded by Amelia and Erwen... but there were no complaints.
+“Read this.”
 
-"Amelia, Erwen! I'm—"
+Amelia tossed a torn envelope at me.
 
-"Read this."
+“It’s a letter from Mozlan.”
 
-Amelia tossed me an open envelope.
+“…Huh?”
 
-"It's from Mozelan."
+I felt an inexplicable sense of unease, but I opened the letter and read it.
 
-"...?"
+Mozlan, who basically acts as a kind of police for the nobility, had written it in painstakingly formal language. It was unnecessarily long, but three lines were enough to understand.
 
-I felt a sense of unease as I read the letter.
+[…This is an official request by the representative of the Alminas Count House, a sponsor of the Gearfang, to the Mozlan Dispute Committee…]
 
-It was written in formal language, befitting a letter from Mozelan, the noble's police force. It was unnecessarily long, but the first three lines were enough.
+That told me who had reported me.
 
-[...This is a formal request from Count Alminus, acting as a representative of the Sawtooth Clan, to the Mozelan Dispute Resolution Committee...]
+[…Accordingly, they are demanding half the intrinsic value of the Lord of Chaos Riakis, which is 2.15 billion stones…]
 
-Who had filed the complaint.
+What they wanted from me.
 
-[...We demand compensation of 2.135 billion stones, half the appraised value of the Chaos Lord Riakis essence...]
+And…
 
-What they wanted.
+[…Baron Björn Jandel is requested to visit the main office of Mozlan within 15 days from the date of receiving this letter.]
 
-And...
+When I needed to be there.
 
-[...Baron Bjorn Yandel is requested to appear at Mozelan Headquarters within 15 days of receiving this letter.]
+Squeak, squeak.
 
-When I had to go.
+After reading, I tore up the letter and swallowed the pieces.
 
-I tore the letter to shreds and swallowed it.
+‘Never thought I’d receive a lawsuit here, something I never encountered back in the real world.’
 
-'I've never received a lawsuit in my life, and now I'm getting one here?'
+It was ironic, but I wasn’t scared.
 
-It was ironic, but I wasn't scared.
+After all, it’s already been four years since I arrived in this place.
 
-I had been in this world for four years now.
+Count Alminas, huh…
 
-'Count Alminus...'
+So far, I’ve never lost.
 
-I had never lost a fight.
-
-At least not to someone who had more to lose than me.
+At least not to someone who has more to lose than I do.

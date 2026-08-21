@@ -1,523 +1,504 @@
-# Proof 1
+Proof(1)
 
-The berserk pattern lasted for about 10 minutes.
+The time limit of the berserk pattern is about ten minutes.
 
-After that, Riakis would instantly recover, nullifying all our efforts.
+If that time passes, Riakis instantly recovers his body, rendering all of the hard work meaningless.
 
-But 10 minutes was a reasonable amount of time.
+However, 10 minutes was quite reasonable.
 
-At least, in the world of [Dungeon and Stone], where unreasonable situations were the norm.
+At least by the standards of [Dungeon and Stone], which is filled with far more unreasonable situations.
 
-「Purification rate: 3%.」
+[Purification rate: 3%]
 
-We just had to land one more hit within 10 minutes.
+We only need to land one more good hit within those ten minutes.
 
-Then the boss fight would be over, without any additional patterns or phases. I was trying to be patient and cautious, focusing on safety as we finished the job.
+If we do, there won’t be any additional patterns or phases, the boss battle would end. So I tried not to get too anxious and focused on safely finishing it off.
 
-But...
+However…
 
-Zwoong!
+Zwoong—!
 
-Erwen's fully charged arrow missed its target.
+Erwin’s fully charged arrow whizzed through the air, missing its target.
 
-Had his eyes been upgraded?
+Have both eyes been upgraded or something?
 
-It felt like he had dodged it intentionally...
+It seemed like Riakis saw the arrow coming and dodged accordingly…
 
-[...]
+[… …]
 
-Damn it, just die already.
+Ugh, can’t it just die already?
 
-We're running out of time.
+We don’t have much time left.
 
-「Purification rate: 7%.」
+[Purification rate: 7%.]
 
-I was getting more and more anxious as the battle dragged on.
+The longer the battle goes on, the more impatient I get.
 
-And it seemed like I wasn't the only one.
+But maybe it’s not just me feeling that way.
 
-"Erwen! Why did you shoot there?!"
+“Erwin! Why would you shoot your arrow there?!”
 
-"If you're so unhappy, do something about it!"
+“If you don’t like it, why don’t you do something about it yourself?!”
 
-"...Behel—laaaaaaaaaa!"
+“…Bethel—Raaaaaah!!”
 
-Ainar, who usually blamed the ranged attackers out of habit, leaped into the air, landing on Riakis's shoulder. She swung her greatsword down on his neck.
+Aynar, who habitually blamed our ranged dealer, let out a roar and leapt high into the air. She landed on Riakis’ shoulder and brought her greatsword down on its neck.
 
-Slash!
+Swish-!
 
-It didn't cut deep.
+Once again, the slash didn’t cut deeply.
 
-So Ainar got greedy.
+Perhaps because of that, Aynar became greedier than usual.
 
-Whoosh!
+Whoosh—!
 
-She swung her sword again, trying to land another hit.
+Maintaining her balance on Riakis’s shoulder, she pulled out her greatsword and tried another strike.
 
-But it didn't connect.
+However, this second attack failed to connect.
 
-"...Urgh!!"
+“…Urgh!!”
 
-Riakis's tail wrapped around Ainar's waist, lifting her into the air.
+Riakis’s tail, moving like a tentacle, wrapped around Aynar’s waist and lifted her casually into the air.
 
-Thankfully, Amelia was nearby and quickly cut her free with her daggers.
+Fortunately, Amelia, who was nearby, quickly swung her dagger to free Aynar.
 
-"Ugh... Th-Thanks—"
+“Uh, ugh! …Th-thank you—.”
 
-"Calm down, Barbarian. At least during battle."
+“Calm down, barbarian. At least during battle.”
 
-"S-Sorry!"
+“Ugh… Sorry!”
 
-"Apologize to her later. She's the one who's contributed the most after Yandel."
+“Apologize properly to that kid later. Aside from Jandel, she’s contributed the most.”
 
-"...Erwen! I'm sorry! I shouldn't have yelled at you!"
+“……Erwin! Sorry for scolding you for missing!”
 
-"...I don't care."
+“…I didn’t really care.”
 
-It was a heartwarming scene.
+Amelia scolded Aynar, and Erwin awkwardly accepted Aynar’s apology; it was a rather heart-warming scene.
 
-Amelia scolding Ainar, Ainar apologizing to Erwen, and Erwen accepting her apology.
+From a team leader’s perspective, it’s very desirable.
 
-It was what a leader wanted to see.
+Still, I don’t know why they’re behaving like this during combat.
 
-But why were they doing this during the battle?
+Especially when we’re running short on time.
 
-We were running out of time.
+“Instead of talking, how about you get in one more hit!”
 
-"Focus on attacking!"
+I shouted with a hint of irritation, and they seemed to snap back to reality, ending their conversation and focusing on the fight.
 
-I shouted, slightly annoyed, and they finally stopped talking and focused on the fight.
+Kwoong-!
 
-Kaboom!
+Right on cue, another forepaw swipe comes our way.
 
-Riakis swung his claw at me.
+Rather than absorbing the impact directly with the shield, I step back to deflect it.
 
-I dodged, stepping back to absorb the impact.
+‘It’s still manageable.’
 
-'We can still do this.'
+I forcefully calm my growing impatience.
 
-I tried to calm myself down.
+[Purification rate: 9%]
 
-「Purification rate: 9%.」
+Our current condition isn’t bad at all.
 
-We were still in good shape.
+Sure, after over 30 minutes of relentless attacking without rotation, the dealers’ MP is running low.
 
-The damage dealers' MP was almost depleted after 30 minutes of nonstop attacks... but that was all.
+But that’s about it.
 
-This kind of boss fight became much easier once you could hold aggro.
+This type of boss’s difficulty drops sharply the moment you can start holding it in place.
 
-[Grooooaaaaaaaaar!]
+[GRRRRROOOOOAAAAAARR—!!]
 
-Riakis roared again.
+Seeing that it has started making noise again, it seems the purification rate has reached 10%.
 
-His purification rate must have reached 10%...
+But that’s not particularly important.
 
-But that wasn't important right now.
+Who cares about the purification rate when the Gearfang Clan is approaching.
 
-The Sawtooth Clan was approaching.
+“Erwin, how much time until your next shot is ready?”
 
-"Erwen, how long until your next attack is ready?"
+“About 75 seconds!”
 
-"About 75 seconds!"
+Whew, so that’s basically our last chance.
 
-Damn, this was our last chance.
+“Uaaaargh!!”
 
-"Uwaaaaaaaaah!"
+I let out a cry and cling even closer to Riakis.
 
-I roared and charged at Riakis, getting closer.
+Normally, for this kind of boss fight, you periodically use [Wild Burst] to maintain the threat level, making sure the aggro doesn’t shift.
 
-In this kind of boss fight, you had to use [Wild Release] periodically to maintain aggro.
+Squeak-!
 
-Screech!
-
-I could block his attacks and step back...
+I could block it with my shield and step back, but the dealers couldn’t.
 
 [Purification rate: 15%]
 
-...but the damage dealers couldn't.
+If they get hit squarely by those forelegs, even someone sturdy like Aynar won’t last more than a few hits.
 
-If he landed a clean hit with his claw, even Ainar, with her high defense, wouldn't last long.
+That’s how lethal a floor lord’s basic attacks are.
 
-That's how strong the Floor Lord's basic attacks were.
+Why else would I have decided to just pull aggro and run during Phase 3?
 
-That was why I had planned to just dodge and run in his 3rd phase.
+“Mister!”
 
-I couldn't tank his attacks without a priest or a mage unless it was his 4th phase, when all his attacks were physical.
+Huh? Has her arrow finished charging already?
 
-"Mister!"
+It hasn’t even been 62 seconds.
 
-Huh? Was Erwen's attack ready?
+“They’re here!”
 
-It hadn't been 62 seconds yet...
+Although the shout was short and missing a subject, I understood immediately what it meant.
 
-"It's ready!"
+‘Shit.’
 
-Her shout was brief, but I understood what she meant.
+It’s been less than three minutes since I first sensed them.
 
-'Damn it.'
+How fast did they sprint over here?
 
-It hadn't even been three minutes since we first detected them.
+As I scanned my surroundings, fending off Riakis’s attacks, Erwin gave me the information I needed.
 
-How fast were they?
+“To the right!”
 
-Erwen gave me the information I needed.
+I shifted my gaze to the right and saw a group of dozens of people in the distance, growing in size in real time.
 
-"Right side!"
+So…
 
-I looked to my right and saw a group of dozens of explorers rapidly approaching.
+Boom—!
 
-Therefore...
+I toss my shield and hammer to the ground.
 
-Kaboom!
+“…?”
 
-I dropped my shield and hammer.
+Amelia, who met my eyes, flinched. Then, seeing me run toward her with my hands out, she widened her eyes.
 
-"...?"
+Yeah, you don’t see something like this every day.
 
-Amelia looked at me, startled, and then her eyes widened as I charged at Riakis.
+Tap tap.
 
-Yes, this was a rare sight.
+Pushing off the ground, I leap and sling an arm around the giant monster’s neck, as if about to tackle it.
 
-Thud.
+And then…
 
-I leaped into the air, wrapping my arms around the giant monster's neck.
+“Bethel—RAAAAAAAAHHHH!!!”
 
-And...
+Using the momentum of the run, I rotate onto the monster’s back.
 
-"Behel—laaaaaaaaaa!"
+Clench.
 
-I used my momentum to climb onto his back, wrapping my legs around his torso.
+With all my might, I tighten my arms around the monster’s neck.
 
-Squeeze.
+Its name will be…
 
-I squeezed his neck with all my might.
+“Bethel—raaaaaaaaaaaa!!!”
 
-The Giant Barbarian Chokehold.
+Giant Barbarian Choke.
 
-It was similar to when I wrestled the troll on the 4th floor... but there were two key differences.
+In some ways, it was similar to the time I wrestled with a troll on the fourth floor, but there were two differences now.
 
-First, both the attacker and the defender were much larger now.
+The first was that both the wrestler and the victim were several times larger.
 
-And secondly...
+And the second…
 
-'He's too strong...'
+‘What strength…’
 
-I couldn't hold him down completely.
+It wasn’t a perfect hold like last time.
 
-[Groooo—!!]
+“[Grooooooooo——!!]”
 
-He easily broke free from my grip.
+As I tightened my grip, my legs that were binding the front paws easily broke free. After all, similar size doesn’t mean similar strength.
 
-"Bjorn!!"
+“Bjorn!!”
 
-He stood up on his hind legs, like a bear, and grabbed my arms.
+Then the monster stood up on its back legs and grabbed my arms, which were strangling its neck.
 
-'72 seconds.'
+’72 seconds.’
 
-A battle of strength.
+A struggle between the one trying to hold on and the monster trying to break free.
 
-'73 seconds.'
+’73 seconds.’
 
-I tried my best to hold on, but it was futile.
+Despite my best efforts, it was in vain.
 
 Crack.
 
-My Laithium armor, already damaged, crumpled like a tin can, and my grip loosened.
+The wrist part of my already half-destroyed Litinium armor crumpled like a can, and my arms that were strangling the monster’s neck went limp.
 
-'74 seconds.'
+’74 seconds.’
 
-But what could I do?
+But, what could I do about it?
 
-"You're too late, you bastard."
+“You’re too late, bastard!”
 
 75 seconds.
 
-Erwen's attack was finally ready.
+Finally, Erwin’s charging is done.
 
-And Riakis was wide open, trying to get me off his back.
+And with the monster beautifully unguarded trying to get me off…
 
-'76 seconds...'
+’76 seconds…’
 
-Wait, why wasn't she shooting?
+What’s going on? Why isn’t she shooting?
 
-I looked back, and Erwen was frozen, her bow drawn.
+Feeling puzzled, I look forward to see Erwin frozen with the bow drawn.
 
-Phew, at least she hadn't miscalculated the time.
+Phew, so she hasn’t miscalculated the timing.
 
-"Shoot—!!!"
+“Fire—!!!”
 
-I shouted, and then a flash of light erupted.
+The moment I roar out the command, there’s a flash of brilliant light.
 
-Zwoong!
+Zwoong—!
 
-So this is what it looked like from this angle.
+From this angle, that’s what it looks like.
 
-It really was like a thunderbolt—
+It really is like thunder splitting the sky—
 
-Kwaaang!
+KABBOOOOOOOOOOM—!!
 
-The explosion was deafening, and I was thrown to the ground.
+A powerful explosion enough to momentarily knock out my consciousness followed, and when I regained my senses, I found myself rolling on the bare ground.
 
-Beeeeeeeep!
+Beeeeeeeeeeep—!
 
-My ears were ringing.
+My ears are ringing.
 
-But I didn't care.
+But my hearing doesn’t matter right now.
 
-「The Chaos Lord, Riakis, has cast [Tainted Heart].」
+[Chaos Lord Riakis has cast corrupted heart]
 
-I got up and looked at Riakis.
+I scramble to my feet and look toward the monster.
 
 [—, ———————!!!]
 
-His body was completely black, and he was roaring in pain... but I couldn't hear him.
+Its entire body stained black, it let out some sort of anguished cry, but I can’t hear a thing.
 
-「The Tainted Power is going berserk again.」
+[The corrupted power begins to run wild once again]
 
-His body was pulsating, expanding and contracting like a water balloon filled with too much pressure.
+Its body inflates and deflates in blotches of red, like an unstable balloon pressed under a fist.
 
-Ainar and Amelia were watching him from a safe distance, their weapons ready.
+Aynar and Amelia keep their distance, weapons drawn as if on guard.
 
-They didn't have to be so cautious.
+Well, it’s all over now, no need for that.
 
-It was over.
+[The Ancient Pilgrim rejects the corrupted power]
 
-「The Ancient Pilgrim rejects the Tainted Power.」
+Like an unstable substance, the monster’s body exploded outward.
 
-Riakis's unstable body suddenly expanded, as if it were about to explode.
+Then…
 
-And then...
+Flash-!
 
-Flash!
+Then…
 
-A blinding flash of crimson light erupted.
+Flash-!
 
-It was like a miniature nuclear explosion.
+As if a nuclear bomb had exploded right in front of me, a fierce flash bursts forth. Although the color was dark red, the brilliance was still blinding.
 
-「The Ancient Pilgrim has perished.」
+[The Ancient Pilgrim is extinguished]
 
-The light faded, and my vision returned.
+As the light subsided, my vision slowly returned.
 
-Everything had changed.
+Everything changes at once.
 
-"———, ———!!"
+“———, ———!!”
 
-The labyrinth was no longer glowing red.
+The labyrinth is no longer dyed red.
 
-And...
+Also…
 
-「The Chaos Lord, Riakis, has been slain. EXP +100」
+[You have defeated the Chaos Lord, Riaxis. EXP +100]
 
-「Floor Lord Kill Bonus. EXP +15」
+[Floor Lord Kill Bonus. EXP +15]
 
-Riakis was gone, replaced by a cloud of shimmering particles.
+In the place where the monster once stood, there are only countless fragments of light particles scattering in the air.
 
-「Achievement Unlocked」
+[Achievement Unlocked]
 
-Condition: First Floor Lord Kill.
+[Condition: Defeat your first Floor Lord]
 
-Reward: Soul Power permanently increased by +50.
+[Reward: Your Soul Power permanently increases by +50]
 
-The raid was over.
+This truly marks the end of the hunt.
 
-「Achievement Unlocked」
+[Achievement Unlocked]
 
-Condition: Chaos Lord Riakis slain.
+[Condition: Defeat Chaos Lord Riakis]
 
-Reward: ???
+[Reward: ???]
 
-I felt a strange sense of accomplishment.
+I felt a wave of emotion.
 
-I had finally slain the monster that had forced us to run away in fear a few years ago.
+Though I only landed the final blow, years ago I couldn’t even stand against this monstrous creature and had to flee.
 
-But there was no time to celebrate.
+However, there was no time to dwell on feelings.
 
-The raid was over, which meant it was time to collect the loot.
+The end of the raid meant it was time to gather the rewards.
 
-Swaaaaaaaaaa.
+Swooosh.
 
-I looked at the shimmering particles, hoping for the best.
+In the swirling light, fluttering like cherry blossoms in spring, I look around to see what’s left.
 
-What had dropped?
+What would it drop?
 
 Thump!
 
-My heart pounded with anticipation.
+My heart begins to beat like crazy.
 
-There were three possible rewards from a Floor Lord.
+A Floor Lord provides three rewards:
 
-The 'Floor Treasure', a superior version of a Numbered Item.
+A Floor artifact, which is a higher-tier version of a Numbers item.
+A Floor Stone, which can open that floor’s rift one time.
+And…
+Please, let it be an Essence… an Essence… an Essence… an Essence…!!
 
-The 'Floor Stone', which allowed you to open a rift on that floor.
+A Floor Essence, which in some ways is even more important than a Level-1 Essence.
 
-And...
+Sure, a Floor artifact is nice, but I want an Essence!!
 
-'Please, please, please, please... an essence!!'
+After waiting for a while with my heart in prayer, the brilliance of the light swarm softened, and the thing I had been waiting for finally appeared.
 
-The 'Floor Essence', which was more valuable than a 1st-grade essence in some ways.
+[No.9999 Beginner’s Luck has activated]
 
-'I'll take a Floor Treasure too, but... please, an essence!'
+…It’s an Essence.
 
-I waited, praying for good luck.
+Neither a Floor artifact nor a Floor stone had dropped.
 
-And then the light faded, revealing the item.
+“Bjorn—, —ssence is ——!!!!”
 
-「No. 9999 Beginner's Luck activated.」
+“——!”
 
-"...It's an essence!"
+An essence had dropped.
 
-It was an essence.
+The problem is…
 
-Neither a Floor Treasure nor a Floor Stone had dropped.
+…Look at their faces.
 
-But...
+The faces of the Gearflang Clan members, now close enough to see their expressions, grew desperate.
 
-"An essence...!"
+“———!! ———!!!”
 
-"It's an essence...!"
+They even seemed to be shouting something urgently at me.
 
-"...."
+Regrettably, I really couldn’t hear them.
 
-We were all speechless.
+Well, what now?
 
-'Look at their faces...'
+No need to waste precious time pondering.
 
-The Sawtooth Clan members, who had just arrived, looked devastated.
+As soon as I identified the essence, I moved my legs.
 
-"———!! ———!!!"
+“Erwin!”
 
-They were shouting something at me...
+“—, —”
 
-But I couldn't hear them.
+Erwin replied, but my hearing hadn’t fully recovered yet, so I couldn’t understand.
 
-I had lost my hearing.
+Therefore…
 
-So...
+“Are, —, am I supposed to— ————? Rather than, ah——, —!!”
 
-'What should I do?'
+After grabbing Erwin’s slender waist with both hands…
 
-I didn't have time to think.
+“Explanation later.”
 
-I grabbed the essence and ran.
+I threw Erwin straight up.
 
-"Erwen!"
+“…Ack!”
 
-"—, —"
+I vaguely hear a strange noise when my hearing starts to come back, but I don’t pay much attention to it.
 
-I couldn't understand her reply.
+After all, I’ve done this before.
 
-So...
+Kind of nostalgic…
 
-"S-—, — me— ————? — than, A——, —!!"
+I did the same thing when I fed her the goblin essence.
 
-I grabbed Erwen's waist and lifted her into the air.
+「The essence of Chaos deeply permeates the soul of Erwin Fornacci di Tercia.」
 
-"I'll explain later."
+“Uh, uh, uh…”
 
-And then I threw her.
+The first words from Erwin, who had absorbed the essence of Chaos, were these.
 
-"...Kya!"
+“Why, why did you give this to me… Y-you really should’ve taken it, Mister—”
 
-I heard a strange sound as my hearing returned, but I ignored it.
+So that’s what she was trying to say earlier.
 
-She was an experienced explorer.
+I appreciate her concern, but there’s no need for her to feel so burdened.
 
-'This brings back memories.'
+“I planned on giving you this Essence eventually anyway.”
 
-I had done the same thing when I gave her the Goblin essence.
+More precisely, ever since I found out she’d contracted with all four Elemental Spirits. The true value of this essence would be revealed from that point.
 
----
+Though I didn’t expect to give it to her so soon.
 
-「The Chaos Essence has seeped into Erwen Fornachi di Tersia's soul.」
+“B-but this is a F-Floor Lord’s Essence…”
 
----
+“Why, are you going to leave me right after you take the Essence, like when you got that Goblin Essence?” I asked her
 
-"Uh... Uh... Uh..."
+“No! Absolutely not! I’d never do that!”
 
-Erwen, after absorbing the Chaos Essence, looked around in a daze.
+Alright. That settles that.
 
-"W-Why... Why did you give this to me...? Y-You should have taken it..."
+A Barbarian doesn’t really pair well with a Chaos Essence anyway. Sure, it’s extremely valuable, and it’s far better than eating some random Level-3 Core Essence…
 
-So that's what she was trying to say.
+But a Floor Lord’s Essence is limited to one per character.
 
-Her heart was in the right place, but she didn't have to be so worried.
+And you can’t have it removed at a temple later on.
 
-"I was going to give it to you eventually."
+The Floor Lord Essence I’m going to consume is higher up,anyway.
 
-I had planned to give it to her after she formed contracts with all four spirits.
+Right, so…
 
-That's when the Chaos Essence truly shined.
+“Jandel.”
 
-Well, I didn't expect to give it to her this early.
+Time to focus on the present.
 
-"B-But... It's a Floor Lord essence..."
+Because they’ve just arrived.
 
-"Are you going to leave me after absorbing it, like you did with the Goblin essence?"
+“Baron Jandel, what is the meaning of this!”
 
-"No! Never! How could I?!"
+The dagger boy shouted as soon as he arrived.
 
-Okay, that's all I needed to hear.
+“I told you to stop, didn’t I?!”
 
-The Chaos Essence wasn't compatible with barbarians. Well, it would make you much stronger than most 3rd-grade essences...
+Wow, he’s not even bothering with proper courtesy anymore?
 
-But you could only absorb one Floor Lord essence.
+“Oh, that. I didn’t hear you.”
 
-'And you can't even remove it at the temple.'
+“That’s ridiculous—!”
 
-I had a different Floor Lord in mind.
+“Even if I had heard you, I wouldn’t have stopped.”
 
-"Yandel."
-
-It was time to focus on the present.
-
-The Sawtooth Clan had arrived.
-
-"Yandel, Baron! What have you done?!"
-
-The dagger user, their leader, shouted as soon as he arrived.
-
-"We told you to wait...!"
-
-He wasn't even using honorifics anymore.
-
-"I didn't hear you."
-
-"That's impossible—!"
-
-"Even if I had, I wouldn't have stopped."
-
-I cut him off, and he glared at me.
+I cut him off decisively, and he fell silent, glowering at me.
 
 Amelia quietly called my name.
 
-"Yandel."
+“Jandel.”
 
-"I know."
+“I know.”
 
-The Sawtooth Clan members had surrounded us.
+Before I realize it, the Gearflang Clan members have surrounded us in a perimeter.
 
-They were good at it.
+They look like they’ve done this more than a few times, a well-practiced maneuver.
 
-It seemed like they had done this many times before.
+The dagger boy didn’t even have to issue any commands, so it must be routine for them.
 
-But I wasn't intimidated.
+Still, I show no sign of backing down.
 
-"Malid Kevron, Vice-Captain of the Sawtooth Clan."
+“Vice Captain of the Gearfang Clan, Malrid Kevron.”
 
-"...Yes, Baron."
+“…Speak.”
 
-"Do you even realize what you're doing?"
+“Do you have any idea what you’re doing right now?”
 
-He boldly met my gaze and answered,
+He meets my eyes boldly and answers,
 
-"What do you mean? We're just asking you a simple question. Why did you steal the Riakis we were raiding?"
+“What we’re doing? We’re simply asking you, Baron, why you ‘stole’ Riakis when we were already in the middle of a raid.”
 
-"...."
+“…”
 
-"As you know, Baron, explorers don't show mercy to looters."
+“As Baron Jandel, a former explorer, you must know—no mercy is shown to pillagers in the dungeon.”dagger boy added
 
-I had thought they would back down after seeing the essence...
+Sigh. I thought once the essence is consumed, they’d have no choice but to back off.
 
-"Even if it's not worth much."
+“Even if it doesn’t profit us much.”
 
-...but they were furious.
+They’re seriously pissed off, aren’t they?

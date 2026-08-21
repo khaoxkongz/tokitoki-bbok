@@ -1,467 +1,437 @@
-# Barbarian Revolution 4
+Barbarian Revolution (4)
 
-The first day I woke up in this world was vivid in my memory, even compared to other memories.
+The first day I opened my eyes in this world remains the clearest of all my memories.
 
-I was dazed by the unfamiliar language, but I tried my best to understand the situation.
+Hearing an unfamiliar language I could somehow understand left me dazed. Even so, I tried to grasp my situation as best I could.
 
-And then I felt a sense of déjà vu.
+That’s when I felt déjà vu.
 
-This situation… it felt like the beginning of [Dungeon and Stone].
+Somehow, this situation reminded me of the beginning of [Dungeon and Stone].
 
-‘Someone… died that day.’
+‘There… one person died.’
 
-I even remembered his name.
+I remember his name clearly.
 
-Olm, son of Kadua.
+Orum, the son of Kadua.
 
-He had been beheaded less than five minutes after waking up in this world.
+He had barely opened his eyes in this world for five minutes before his throat was gruesomely cut.
 
-And…
+And then…
 
-‘There were many like him.’
+‘There were quite a few of them, actually.’
 
-After becoming chieftain, I looked through the past records, and found that an average of one player had been executed at the coming-of-age ceremony every year for the past ten years.
+Looking back at the records after becoming the tribe chief, it turns out that on average, one player has been executed at the coming-of-age ceremony over the past ten years.
 
-Well, the average had been decreasing lately, as the cheat version of the game had become less popular…
+Well, the average has been dropping recently as the cheat mod version of the game has lost some of its popularity.
 
-‘But there are still some who play it.’
+‘I guess there are still kids out there who play it.’
 
-It was a sad sight.
+It really is a pity.
 
-‘Tsk, why would they even start playing that game?’
+‘Tsk, tsk, how could they get their hands on such a game.’
 
-Of course, I wasn’t blaming them.
+Of course, it’s not their fault.
 
-If there was someone to blame, it was…
+If we’re to place blame, there’s only one.
 
-‘That damn old man.’
+‘That damn old bastard.’
 
-Auril Gabis.
+Auril Gavis.
 
 The creator of [Dungeon and Stone]…
 
-「You have reached the Abyss.」
+[You have reached the abyss.]
 
-「Tutorial complete.」
+[Tutorial completed.]
 
-…and the one who had kidnapped countless players with those two lines.
+He kidnapped countless players with just these phrases.
 
-‘If you’re going to have a tutorial, at least make it a proper one.’
+‘If you’re going to do a tutorial, do it right.’
 
-The newbie’s terrified expression reminded me of my past self.
+Looking at the frightened expression of a newbie, my old memories vividly return.
 
-But I quickly snapped out of my reminiscence.
+Of course, the nostalgia was short-lived.
 
-If I stayed like this, the other warriors would notice.
+If I continue like this, the other warriors will surely notice.
 
-“Everyone, quiet!”
+“Everyone quiet!”
 
-I shouted, and the young barbarians immediately fell silent.
+After shouting briefly, the baby barbarians immediately calmed down and shut their mouths, and I proceeded with the coming-of-age ceremony as usual.
 
-I continued the ceremony.
+Not in the old way, of course.
 
-But not in the traditional way.
+This will make it easier to sneak in some help. Just in case there’s a newbie lurking somewhere that I haven’t spotted.
 
-It would be much easier to help the newbie this way. And there might be other newbies I hadn’t noticed.
+“Makhal, second son of Putil!”
 
-“Makal, second son of Putil!”
+I walked right up to a young warrior, called his name, and gave him a reassuring pat on the shoulder.
 
-I approached a young warrior and patted his shoulder.
+“Come and choose your weapon!”
 
-“Come forward and choose your weapon!”
+“Understood!!!!!”
 
-“Yes, sir!!!!!”
-
-He roared, seemingly touched by my encouragement, and rushed towards the weapons.
+Seemingly touched by the tribe chief’s warm support, the young warrior shouted at the top of his lungs and darted forward.
 
 “A two-handed axe! Excellent choice!”
 
-I continued calling out the warriors’ names and encouraging them, subtly giving hints to the newbie.
+I continued to call each warrior by name, encouraging them and occasionally dropping hints to help the newbie figure out what was going on.
 
-“From this day forward, you are a warrior. May the blessings of ‘Lafdonia’ be with you!”
+“Starting today, you are a warrior. May Raphdonia’s blessing be with you!”
 
-After a while,
+And after some time had passed.
 
-It was finally the newbie’s turn.
+Eventually, it was the turn of the newbie I’d been eyeing.
 
-“Bekta, third son of Kiltau!”
+“Vekta, third son of Kiltau!”
 
-Thud.
+As I placed my hand on his shoulder a faint thud sounded; I could feel him trembling so much he couldn’t hide it.
 
-I placed my hand on his shoulder, and he trembled.
+But I pretended not to notice and continued.
 
-But I pretended not to notice and spoke.
+“Come and choose the weapon for your journey!”
 
-“Come forward and choose your weapon!”
+“…Understood!!”
 
-“…Yes, sir!!”
+Compared to the other warriors, he was slow to respond and spoke in a smaller voice. but—
 
-His voice was quieter and more hesitant than the others.
+‘At least he’s catching on.’
 
-But…
-
-‘At least he’s quick-witted.’
-
-He was imitating the other warriors, so he would probably survive once he gained some experience—
+He was imitating the other warriors, so given time and experience, I figured he’d manage to survive decently enough—
 
 ‘Huh?’
 
-I chuckled as I saw the weapon he had chosen.
+Upon seeing the weapon he chose, I couldn’t help but chuckle.
 
 “A shield…”
 
-I mumbled unconsciously, and he flinched as if he had done something wrong.
+I muttered to myself, and the kid flinched as if he had done something wrong.
 
-‘A newbie shield barbarian…’
+“Never thought he’d be a shield newbie.”
 
-I walked past him and approached the shield display.
+I walked past the stiff newbie to the rack where the shields were displayed.
 
-And I handed him the item he had left behind.
+“Take this.”
 
-“Here.”
+By my authority as the tribe chief, I’d put in a ‘patch’ so that if someone chose a shield, we’d also give them a small one-handed hammer.
 
-I had used my authority as chieftain to change the rules.
+“Vekta, third son of Kiltau! With this, you are a warrior!”
 
-Now, when a warrior chose a shield, they would also receive a small one-handed hammer.
+He was momentarily confused at how different all this was from the game, but after receiving the hammer from me, he returned to his spot.
 
-“Bekta, third son of Kiltau! You are now a warrior!”
+He tried to act nonchalant, but his expression was filled with unease.
 
-He was momentarily confused by the change, but he took the hammer and returned to his spot.
+‘Well, he probably needs time to sort out his thoughts.’
 
-He tried to hide it, but his expression was troubled.
-
-‘He needs some time to process this.’
-
-I ignored him and continued the ceremony, and soon the last warrior had chosen his weapon.
+I then turned my attention away from the newbie and continued with the ceremony, until the last warrior had chosen his weapon.
 
 “Warriors!”
 
-But before they left for the city, I gave them a short speech.
+Before heading into the city, however, I took a moment to give a speech.
 
-Or rather, a review.
+Well, it was more of a review.
 
-“Let’s all recite together. What’s a good looter?”
+“All together now! A good plunderer is—?”
 
-“A dead looter!!!”
+“A dead plunderer!!”
 
-“What about the Explorer’s Guild?”
+“What about the Explorers Guild?”
 
-“Don’t trust them!!”
+“We do not trust them!!”
 
-“What do you do when you meet a Hans in the labyrinth?”
+“And if you meet Hans in the Labyrinth?”
 
-“Run away! If you want to live!”
+“No! Go away, if you don’t want to get fucked!’
 
-I was reviewing these things with them because…
+There was a reason for making the young warriors review these points.
 
-Repetition is key.
+Review is always important, and we have a brand-new newbie here, after all.
 
-And there was a newbie among them.
+“Now, then…”
 
-“Now…”
+There was one last piece of information the newbie absolutely needed to know.
 
-There was one last thing I had to tell them.
+“When you encounter an ‘evil spirit’ that has taken over our body, what do you do?
 
-“What do you do when you meet an ‘evil spirit’ who stole our bodies?”
-
-It was probably the most important piece of information for a player’s survival.
+It might just be the single most important factor for a player’s survival.
 
 “Kill them!!”
 
-If you’re exposed as a player, you die.
+If a player is found out, they die.
 
 ---
 
 “Open the gates!”
 
-My shout echoed through the sanctuary, and the gates that separated us from the city opened.
+At my shout, the gates in the city walls—those that separated the sanctuary from the city—swung open.
 
-The young warriors, who had dreamed of this day since they were children, were trembling with excitement.
+The young warriors, who had grown up in the sanctuary dreaming of this day, began to tremble with excitement.
 
-“Lafdonia…!”
+“Raphdonia…”
 
-Normally, I would have just told them to go and find their destiny…
+Normally, I would have simply told them to march toward their fate. However, today, I personally led the young warriors into the city.
 
-But I decided to lead them into the city myself.
+“…What? The chief himself is playing the role of guide?”
 
-“…What? You’re escorting them yourself?”
+It was on the way anyway.
 
-I had to go to the labyrinth anyway.
+I had to enter the labyrinth myself.
 
-“Behel—laaaaaaaaaa!!”
+“Bethel—raaaaaaaaa!!”
 
-“We’ll become great warriors too!!”
+“We’re sure to become great warriors now!”
 
-They were touched by my gesture.
+The young warriors, once again moved by the tribe chief’s direct guidance, cried out in joy. Even as I admired their pure spirit, I led them to the center of the city.
 
-I chuckled at their naiveté and led them towards the city center.
+And then…
 
-And…
+“I greet you, Baron Jandel.”
 
-“Greetings, Baron Yandel.”
-
-I met with a guild mage at the designated location and had him cast the ‘Bonding’ spell.
+At a prearranged location, we met up with a Guild mage who performed the ‘Binding’ spell.
 
 Not on me, but on the young warriors.
 
-I grouped them into teams of three or four, and some of them questioned me.
+As I was pairing them up in threes and fours, some warriors voiced their doubts.
 
-“…Chieftain! I heard the first expedition should be done alone…”
+“…Chief! I heard that the first exploration should be done on our own strength…”
 
-“That’s right! That’s the tradition!”
+“That’s right! I heard it was tradition when I was younger!”
 
-Tradition?
+Tradition my ass.
 
-That damn tradition had killed countless warriors who tried to find companions for their first expedition.
+That damn tradition had led to the deaths of many warriors on their first exploration.
 
-I was about to scold them…
+I was about to scold them when…
 
-“You fools!!!”
+“Stupid Bastards!!!”
 
-…when Ainar stepped forward.
+A voice rose before I could, and it was Aynar, our first elder.
 
-“Bjorn, son of Yandel, is the chieftain!”
+“Bjorn, son of Jandel, is our chief!”
 
-“But even the chieftain has to follow tradition—”
+“But even if he is the chief, tradition—”
 
-“From this day forward, the chieftain’s words are tradition! So obey him!”
+“From today, everything the chief says is tradition! So follow whatever it is!”
 
-It was a bit of a dictatorial logic, but it was convincing.
+It might sound a bit dictatorial, but it’s actually quite persuasive. Our tribe does have a fair system for disputes, after all.
 
-After all, our tribe had a system for challenging the chieftain’s authority.
+“If you don’t like this new tradition, then you can become chief someday and change it yourself! Got it?”
 
-“If you don’t like the new tradition, become the chieftain and change it! Do you understand?!”
+Fortunately, warriors raised in the law of nature easily accepted this logic.
 
-In other words, if you don’t like it, fight me.
+“…I see. Understood!”
 
-Thankfully, the warriors, who had grown up in the natural world, easily accepted her logic.
+Okay, that settled that issue.
 
-“…I see. I understand!”
+“Now, about the payment…”
 
-Okay, that settles that.
+“Here it is.”
 
-“Um… the payment…”
+After the binding was complete, I paid the guild mage.
 
-“Here.”
-
-I paid the guild mage after the Bonding spell was complete.
-
-“Thank you for your hard work. I’ll see you next month.”
+“Good work today. I’ll be counting on you again next month.”
 
 “Ah… yes, Baron…”
 
-The mage, who had been forced to work overtime and even come to the sanctuary, left with a disgruntled expression.
+Despite the unusual overtime and travel, the mage left with a sour face, but we would meet again next month.
 
-But we would meet again next month.
+If I make a ‘request’ to the guild’s regional chief and ask for a ‘favor. What can a mere mage do?
 
-He wouldn’t be able to refuse if I went to the guild branch manager and ‘asked’ for him.
+“It’s the Labyrinth!!”
 
-“It’s the labyrinth!!”
+“Ooooh! So that’s it…!!!”
 
-“Oooooh! So that’s…!!!”
+“It feels like some unknown force is pulling at my body!!”
 
-“I feel something pulling me towards it!!”
+After paying up, I took the warriors to the dimensional plaza.
 
-I then escorted the warriors to the Dimension Plaza.
-
-My duty as chieftain was done.
-
-There was no need for further words.
+That’s where my duties as the chief ended.
 
 “Go, warriors!”
 
-At my command, they rushed towards the portal.
+As soon as I gave the word, they pushed through the crowd and hurled themselves toward the portal.
 
-“Woooooooooh!!”
+“Uwooooooo!!”
 
-Ainar chuckled as she watched them leave.
+Watching their retreating figures, Aynar turned to me and smirked.
 
-“Bjorn, why do you look so worried?”
+“Bjorn, what’s with that worried look on your face?”
 
-Well, they’re like children.
+Well, it’s like leaving a child by the water.
 
-I wanted them to survive. The stronger our tribe was, the better.
+The more they survive and return, the stronger our tribe will become…
 
-“Don’t worry. Back in my day, we survived even harsher environments!”
+“Don’t worry! Remember how in our time – despite worse conditions – everyone who was destined to make it came back alive!
 
-Her words were surprisingly comforting.
+A typical Barbarian-style consolation mixed with nostalgia.
 
-The barbarian tribe’s training methods had been too hardcore. I didn’t want to raise them like delicate flowers either.
+But, funnily enough, it did calm my mind.
 
-Adversity was the best teacher.
+After all, the harsh training of the Barbarian tribe was too extreme; I didn’t want to raise them like flowers in a greenhouse.
 
-The lessons learned in times of crisis were engraved in your bones, never to be forgotten.
+After all, it’s crisis that fosters the most growth.
+
+Lessons learned in crisis are etched into the bones and not easily forgotten, even if you wish to forget.
 
 “Mister!!”
 
-I joined my teammates after sending the warriors into the labyrinth.
+After sending the warriors off into the Labyrinth, I wandered around the dimensional plaza looking for my teammates.
 
 “You’re late.”
 
-Amelia scolded me, glancing at her watch, and Auyen Lokrob, the navigator, greeted me nervously.
+Amelia looked at her watch and grumbled, while the sailor, Auyen Roklov, greeted me nervously.
 
-“You’re here, Clan Master!”
+“You’re here, Clan Leader!”
 
-He was wearing his full set of armor.
+I hadn’t seen him in full gear for a while.
 
-“Thank you so much for letting me come with you!”
+“Thank you so much for letting me come along!”
 
-He sounded genuinely grateful.
+His voice was sincere.
 
-Well, he had been locked up in the basement for days.
+Well, he did spend quite a few days stuck in the basement.
 
-But he had tried to rob us, so…
+But perhaps because this is the same guy who once tried to plunder me, I can’t manage to work up even an ounce of sympathy.
 
-I couldn’t feel any sympathy for him.
-
-A good looter is a dead looter. And besides, I couldn’t trust him if I didn’t treat him harshly.
+Again, a good plunderer is a dead plunderer; And unless you treat them harshly, you can’t trust them to watch your back.
 
 “Emily.”
 
-“Don’t worry. I’ll keep an eye on him in the labyrinth.”
+“Don’t worry. I’ll keep an eye on him in the Labyrinth.”
 
-We had that conversation right in front of him, but he pretended not to hear.
+We said this openly in front of him, but Auyen just kept silent as though he didn’t hear a thing.
 
-He didn’t even try to reassure us or promise to behave.
+He made no attempt to say anything like “Trust me!” or “I’ll do my best!”
 
-‘He’s quick-witted.’
+‘He certainly knows how to read the room.’
 
-But I wasn’t sure if that was a good thing or a bad thing…
+Whether that’s a good thing or not… I’m not quite sure.
 
-“Um… Bjorn? Shouldn’t we be going?”
+“Um… Bjorn? Shouldn’t we be going now?”
 
-“Ah… right.”
+“Oh… right.”
 
-The portal was shrinking, so we headed towards it.
+The brilliant glow of the portal was already starting to fade, so we walked slowly towards it.
 
-And…
+And then…
 
-「Entered the 1st-floor Crystal Cave.」
+[You have entered the 1st Floor: Crystal Caverns]
 
-The first expedition of Clan Anabada had begun.
+Thus began the first expedition of Clan Anabada.
 
 ---
 
-The Crystal Cave, shimmering with a faint purple light.
+In the crystal cave shimmering with a purple glow.
 
 “North.”
 
-“North.”
+“North, then.”
 
-“The Goblin Forest.”
+“Looks like it leads toward the Goblin Forest.”
 
-We all spoke at the same time as soon as we entered.
+As soon as we arrived, three of us spoke simultaneously: me, still training under Rotmiller as a scout; Amelia, our scout; and Erwin, who’d also undergone scouting training from her sister.
 
-Me, the student of Lotmiller, Amelia, the Guide, and Erwen, who had received tracking training from her sister.
+“…….” “…….”
 
-“….”
-
-“….”
-
-It was a bit awkward, having three guides in a five-man party.
+With only five members in the team and three of them as scouts, there was an awkward moment.
 
 “Ahem.”
 
-“I was faster. Than her.”
+“I was a bit faster than that woman.”
 
-“…..”
+“…”
 
-“Hahaha! Are you two children? Competing over something like that!”
+Aynar laughed out loud, and Erwin glared at her, not bothering to hide her displeasure.
 
-Ainar laughed heartily, and Erwen glared at her.
+Of course, the glare didn’t work.
 
-But her glare was ineffective.
+“You have a nice look in your eyes, Erwin!”
 
-“That’s a good look, Erwen!”
+Aynar nodded as if she liked it.
 
-Ainar even nodded in approval.
+“…?”
 
-“……?”
+Erwin furrowed her brows as if she had encountered an incomprehensible creature, and Aynar shrugged.
 
-Erwen frowned, as if she had encountered an incomprehensible creature, and Ainar shrugged.
+“I mean you look like you’re having fun! Unlike the last time I saw you!”
 
-“You look happy! Unlike the last time I saw you!”
+Her comment made me flinch.
 
-Her words made me flinch.
+Because the last time they met… would have been that day Erwin heard from Raven about Misha.
 
-The last time… she must be talking about the day Raven told me about.
-
-Ainar had stepped on a landmine.
+It seemed Aynar had inadvertently stepped on a mine.
 
 But…
 
-“…What are you talking about?”
+“…What are you talking about.”
 
-Erwen didn’t seem angry.
+Surprisingly, Erwin didn’t react angrily.
 
-She just looked away, embarrassed.
+She just averted her gaze with an embarrassed look.
 
-‘Right, she’s weak to this kind of thing…’
+‘Yeah, she’s always been sensitive to this kind of thing…’
 
-Maybe Ainar’s presence was a good thing.
+It might be good that Aynar stepped in.
 
-Honestly, I was a bit worried that Amelia wouldn’t be able to handle Erwen alone.
+Honestly, Amelia alone seemed to have a hard time taking care of Erwin.
 
-‘And she’s become a bit more mellow these days…’
+‘She seems to have gone a bit soft these days, too…….’
 
-As I was thinking that…
+As I was thinking this when:
 
-“Alright, let’s go! I’m so excited to be exploring with Bjorn again!!”
+“Come on then, let’s go, I can’t wait to explore with Bjorn again”
 
-Ainar charged ahead, and I chuckled, stopping her.
+Aynar took the lead, and I stopped her with a chuckle.
 
-“Ainar, where are you going?”
+“Aynar, where are you going all by yourself?”
 
-“Huh? We started in the north, so we’re going north! I know how to plan a basic route! I can even read a compass now!”
+“Huh? We started from the north, so we go north! I know those basic directions by now! I can read a compass!”
 
-I was proud of her progress, but…
+I had to admit, she’s come a long way over the last few years…
 
-“We’re not going to the Goblin Forest today.”
+“But we’re not going to the Goblin Forest today.”
 
-Amelia’s firm words made Ainar tilt her head.
+“…Oh? Is that so? Then where? The Land of the Dead?”
 
-“…Oh? Really? Then where are we going? The Land of the Dead?”
-
-“The Rocky Desert. Hmm, that’s strange. I’m sure I shared the exploration plan with you…”
+“It’s the Rock Desert. Hmm, that’s strange. I’m sure I shared the exploration plan before…”
 
 “Ah, sorry! I forgot!”
 
 “…I see.”
 
-Amelia was speechless, and I quickly took control of the situation.
+While Amelia—who’d never dealt with a ‘true Barbarian’ before—was momentarily at a loss for words, I quickly sorted out the situation.
 
-We couldn’t waste any more time here.
+We can’t waste time here forever.
 
-“Hmm, then…”
+“Alright, then…”
 
-Who should I assign as the guide?
+Who should lead us?
 
-Amelia, the Guide? Or Erwen?
+Should I have Amelia guide, like last time? Or should Erwin do it this time?
 
-I hesitated for a moment, and then I made a decision.
+I hesitated briefly, but my decision came fast.
 
 “…I’ll be the guide!”
 
-The main objective of this expedition was to build teamwork.
+Our main goal for this expedition is to work on our teamwork.
 
-I had to minimize the chances of conflict.
+No matter which of the two I choose, it’s probably best to minimize any hard feelings.
 
-“Huh? You don’t have to do that, Mister—”
+“What? There’s no need for you to—”
 
-“What are you talking about! We have to share the burden! Come on, follow me!”
+“What are you saying! Such annoying tasks should be shared by all. Come on, everyone, follow me!”
 
-I cut Erwen off and led the way.
+Cutting off Erwin’s protest, I quickly took the lead.
 
-We had a lot to do this time.
+There was quite a bit of work to be done on this expedition anyway.
 
-Even though Ainar didn’t seem to remember anything…
+Although Ainar doesn’t seem to remember anything… … .
 
-‘At least she won’t be suspicious of me.’
+‘At least that means she doesn’t question anything I do.’
 
-It was actually an advantage.
+Oddly enough, it’s an advantage.
 
-In my old team, I couldn’t even use my game knowledge properly because I was worried about Raven’s reaction.
+Back in my old team, I couldn’t even put my ‘game knowledge’ to good use because I had to tiptoe around Raven.
 
-「Entered the 2nd-floor Rocky Desert.」
+[You have entered the second floor, Rock Desert]
 
-Alright, let’s start by clearing the low-level raids.
+Okay, let’s start working on our teamwork, by slowly taking on the lower flower raids.

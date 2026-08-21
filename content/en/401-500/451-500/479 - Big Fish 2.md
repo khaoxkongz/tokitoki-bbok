@@ -1,449 +1,451 @@
-# Big Fish 2
+The Big Fish (2)
 
-Two warriors, an archer...
+Two warriors and one archer.
 
-And...
+And…
 
-'Is the one without any armor an ability user?'
+‘The one without any gear—could he be an ability user?’
 
-Probably.
+Yes, that must be it.
 
-Mages rarely participated in looting, especially not high-level ones.
+Mages, who have a lot to lose, usually don’t get involved in this sort of thing.
 
-And priests were even less likely to be involved.
+And Priests are out of the question.
 
-'Anyway, looting on the 1st floor with this kind of team...'
+‘Anyway, such a team at this rank performing a raid on the first floor…’
 
-It was disheartening.
+It’s heart-wrenching.
 
-I couldn't imagine how helpless the young barbarians must have felt.
+I wonder how helpless our baby barbarians must have felt.
 
-"..."
+I can’t exactly judge their feelings, but…
 
-But I could at least make these bastards understand.
+“……”
 
-"What's so funny?"
+At least I can convey that feeling to these bastards.
 
-One of the looters frowned.
+“Are you laughing?”
 
-He didn't seem suspicious of my identity.
+One of them frowned.
 
-He was just mocking me.
+Judging by his tone, he doesn’t seem to suspect my true identity. Rather, it sounds more like he’s mocking me—thinking I’m just a clueless Barbarian.
 
-"Wow, barbarian hearts must be really valuable these days. These guys are fearless."
+“Wow! No wonder they say their hearts are special. These guys don’t show a speck of fear.”
 
-I decided to play along.
+I decided to play along for now.
 
-So...
+So…….
 
-I took a step back, as if I had just realized something was wrong.
+Swish.
 
-And I glanced at Ainar, who was pretending to be asleep on the ground.
+I took a step back as though I had finally sensed something amiss, glancing at Aynar, who was still lying on the bare floor.
 
-Snore... Snore...
+Snooore—! Snore…
 
-How long was she planning to keep up the act?
+How long is she going to keep pretending to sleep?
 
-I nudged her back with my foot.
+I kicked Aynar’s back with the tip of my foot, signalling that it was time to get up. Immediately, Aynar jolted awake.
 
-Ainar immediately jumped up.
+“……Ugh! Wha, what is it!”
 
-"...Whoa! W-What?!"
+A reaction so realistic that it couldn’t be acting.
 
-It was a surprisingly realistic reaction.
+…So she was really asleep.
 
-'She was actually asleep...'
+Sure, I can understand not noticing their presence, but sleeping on while we’re talking right next to her?
 
-How could she sleep through all the commotion?
+I don’t get it, but the situation isn’t too bad.
 
-I didn't understand, but it wasn't a bad situation.
+After all.
 
-"W-What?! Who are you?!"
+“Huh? Wha, what is it! Who are you guys!”
 
-How could they not be fooled by this?
+How could anyone not fall for this?
 
-"Ah! Y-You guys are...!"
+“Ah! You, you guys are……!”
 
-Ainar seemed to have realized who they were, so I quickly interrupted her.
+Of course, Aynar seemed to realize the identity of the uninvited guests, so I quickly cut her off.
 
-"Be careful what you say."
+“Be careful.”
 
-Ainar moved behind me, gripping her weapon.
+To be precise, I meant she should watch her mouth.
 
-I raised my iron greatsword and looked at the looters.
+“Ah, got it…….”
 
-They were smirking, stretching their muscles.
+Aynar grabbed her weapon and stood behind me as I raised my iron greatsword and scanned them cautiously.
 
-"Let me ask you one thing. Are you looters?"
+They laughed mockingly and began to stretch.
 
-They didn't answer.
+“Just one question. Are you plunderers?”
 
-"Hyungnim, let's just finish this quickly. I think the guild is on to us."
+They didn’t even bother to answer my question.
 
-They were treating me like I was already dead.
+“Boss, let’s finish this quickly before anyone sees us. I think the guild is starting to catch on.”
 
-Just try it.
+What, are they treating me like I’m already dead?
 
-I'll show you what happens when you underestimate a barbarian.
+All right, just throw the first punch.
 
-"Wait! That barbarian... he looks familiar... Where have I seen him before...?"
+From then on, it’s all up to me…
 
-The hunchbacked crossbowman narrowed his eyes, staring at me.
+“Wait a minute! That barbarian… he looks familiar. Where… where have I seen him …?”
 
-Had he recognized me?
+Suddenly, the hunchbacked crossbowman narrowed his eyes at me.
 
-I would have to switch to Plan B—
+Could he have recognised me?
 
-"Familiar? They all look the same. That's why he looks familiar."
+If so, I’ll have to go with Plan B-.
 
-One of his companions interrupted him.
+“Where would you have seen him? They all look the same. That’s why he looks familiar.
 
-"Hmm, that's not it..."
+Right on time, backup arrived.
 
-The archer's survival instincts were impressive, but unfortunately, the melee attackers had more say in the group.
+“Hmm, it doesn’t feel like that though…”
 
-"We'll think about it later. Let's just take care of these two first."
+The archer’s survival instincts were admirable, but unfortunately the melee types seemed to have more say in the team.
 
-That was their decision.
+“Think about it later. Let’s clean this up and get out of here first.”
 
-"Hehe."
+That was the decided course of action.
 
-They grinned and closed in on us.
+“Heh heh heh.”
 
-And...
+They grinned and began to close in.
 
-Thud.
+And…
 
-My back hit the wall.
+A thud.
 
-The swordsman on my left swung his sword.
+The moment my back hit the wall as I stepped back.
+
+The guy on my left swiftly swung his longsword.
 
 Whoosh-!
 
-It was a decent attack.
+A decent slash.
 
-But I just stared at it.
+But I just stared at the blade as it moved towards my neck. Perhaps he mistook my inaction for being unable to react to his surprise attack.
 
-"..."
+” … ”
 
-He smirked, thinking I couldn't react.
+The swordsman’s eyes curved into a grin.
 
-But his smile quickly vanished.
+Well, that expression didn’t last long on his face.
 
-Clang-!
+Clank-
 
-His sword bounced off my skin harmlessly.
+The blade stopped dead on my skin without even leaving a scratch.
 
-"...Huh?"
+“Huh?”
 
-That expression... it made all the waiting worthwhile.
-
-I grabbed his sword with my bare hand.
-
-And...
-
-"...!"
-
-I pulled.
-
-He hadn't let go of his weapon, so he was dragged towards me.
-
-I reached out with my other hand and grabbed his neck.
-
-The warrior with the double-bladed axe tried to attack me, aiming for my arm... but...
-
-Clang-!
-
-He had made the wrong decision.
-
-"Ainar."
-
-I gave her the signal, and she swung her greatsword.
-
-Whoosh-!
-
-The warrior's body exploded into a bloody mist.
-
-"...S-Storm Sword!"
-
-The ability user's shriek was his last.
-
-Kaboom-!
-
-He was blown to pieces.
-
-But one of them had made the right choice.
-
-The hunchbacked crossbowman had kept his distance.
-
-"...B-Bjorn Yandel!"
-
-He had recognized me.
-
-He turned and ran.
-
-But...
-
-「Character has cast [Transcendence].」
-
-Did he really think he could outrun me?
-
-「Character has cast [Eye of the Storm].」
-
-Not a chance.
-
----
-
-Crack.
-
-I twisted the swordsman's neck, and his body went limp.
-
-I let go, and he crumpled to the ground.
-
-I looked down at the crossbowman, who was prostrating himself before me.
-
-"...P-Please spare me! I'm not like them! I was tricked! I told them not to do this!"
-
-He was the only survivor.
-
-He was begging for his life.
+Yeah, judging by that expression, it looks like all my patience so far is paying off.
 
 Swoosh.
 
-Ainar raised her sword, and the crossbowman shrieked.
+I grabbed the blade with my bare hand, as if it were an annoying insect.
 
-"I-I have information!"
+And then –
 
-Hmm?
+“-Urk!”
 
-"Information?"
+I gave a quick flick of my wrist to pull him in.
 
-I stopped Ainar.
+The swordsman, following the fundamental rule of never letting go of your weapon, came stumbling straight at me.
 
-The crossbowman, seeing a glimmer of hope, offered a deal.
+Crunch.
 
-"...I-If I tell you... will you... swear to let me go...?"
+I shot out my other hand to grab his neck.
 
-"An oath...?"
+Then, right next to me, another of his comrade swung a double-bladed axe at my hand, probably thinking he had to save his comrade…
 
-He was amusing.
+Click
 
-I chuckled, and Ainar protested.
+Yes, it’s not easy to make the right decision in that split second.
 
-"Bjorn! Just kill him!"
+“Aynar.”
 
-"Calm down."
+The moment I gave the signal, Aynar swung her sword.
 
-"..."
+Her target was the warrior who’d just slashed at my arm.
 
-"Alright. I swear. If your information is valuable, I'll let you live."
+BOOM!
 
-I made the oath.
+As soon as the weapons clashed, an explosion erupted, and the warrior holding the axe was blasted into dozens of fragments, spraying blood everywhere.
 
-The crossbowman looked at me with a strange expression.
+“…Explosive blade!”
 
-He didn't seem entirely convinced.
+The ability user shrieked as if he were having a fit.
 
-But he eventually made up his mind.
+That was the ability user’s last words.
 
-"I-It's valuable information... I'm sure of it..."
+Boom!
 
-He seemed to think I wouldn't break my oath.
+The Ability User was torn to pieces without even putting up a fight.
 
-"Just tell me."
+On the other hand, one of them made the right decision.
 
-The crossbowman spoke, his voice trembling.
+Tap.
 
-"I-It's the mages..."
+Maybe it was his position, or maybe he instinctively sensed danger, but the crossbowman kept his distance from us.
 
-Mages?
+“Bjorn Jandel!”
 
-Why mages?
+The crossbowman seemed to have already figured out who I was, and as soon as one of his comrades was blown apart, he turned and ran.
 
-I gave him a look, and he continued.
+But—
 
-"Some mages... are placing requests on the black market. They're offering a high price for barbarian hearts..."
+[Your character has cast ‘Transcendence.’]
 
-"Hmm..."
+He thinks he can outrun me by just running on foot?
 
-So what?
+[Your character has cast ‘Eye of the Storm.’]
 
-"Is that all?"
-
-"...Yes?"
-
-His face fell.
-
-It wasn't valuable information.
-
-He hadn't told me which mages were involved. And even if he had, I couldn't do anything without proof.
-
-"If that's all—"
-
-Just die.
-
-I was about to say that when he interrupted me.
-
-"Th-There's more! Baron!"
-
-"...?"
-
-"Th-They're also after... your heart..."
-
-"...What?"
-
-I was shocked and asked for more details.
-
-The bounty on my heart was 2 billion stones.
-
-And the client was unknown.
-
-"The black market..."
-
-I thought about it for a moment, and the crossbowman, seeing my hesitation, spoke up.
-
-"...I-Is this... helpful...? Did I... help you...?"
-
-Ah, that.
-
-It was helpful.
-
-I had no connections to the black market.
-
-I would have to investigate this later.
-
-But...
-
-"No, not at all. Now die."
-
-I wasn't going to let him go.
-
-"B-But you promised—!"
-
-He protested, but I ignored him.
-
-I stepped on his head.
-
-He started squirming.
-
-I didn't feel any sympathy.
-
-And I didn't feel guilty about breaking my oath.
-
-"Oaths are for humans."
-
-I pressed down with my foot.
-
-Crack-!
-
-I collected their equipment and backpacks and stored them in my subspace pocket.
-
-It wasn't much, but it would be a nice addition to the tribe's funds.
-
-Thud.
-
-I heard a sickening thud, and I turned around.
-
-Ainar was stabbing the corpses with her greatsword.
-
-"What are you doing, Ainar...?"
-
-"Can't you see? I'm taking their hearts."
-
-"...?"
-
-"They should know. If they want our hearts, they have to risk their own."
-
-Hmm...
-
-Was she trying to make a point?
-
-"I'll be done soon, so don't worry about it."
-
-Ainar extracted the hearts from the two relatively intact bodies and then arranged the corpses on a nearby rock.
-
-"There, all done. Let's go, Bjorn. We have more looters to kill! I'm getting better at this!"
-
-She was terrifying.
+Like that’s going to happen.
 
 ---
 
-Day 4, Day 5, Day 6...
+As soon as I twisted the neck I was holding, the body went limp.
 
-Time flew by after our first successful hunt.
+As I released my grip, the swordsman’s body collapsed to the ground with a heavy thud.
 
-We spent every waking moment exploring the Crystal Cave.
+“Please spare me. I’m not like them. I, I was just tricked into joining them. I, I told them not to do this! Really!”
 
-Our disguises became more elaborate.
+The lone survivor, the crossbowman, lay on the ground, his head pressed to the ground, begging for his life.
 
-We smeared goblin blood on our clothes and wore pouches filled with 9th-grade magic stones.
+Swoosh.
 
-We couldn't fake injuries, though.
+Aynar raised her sword as if hesitating, and the crossbowman screamed in panic.
 
-They would heal too quickly.
+“I, I have information!”
 
-But our efforts paid off.
+Hmm?
 
-We found another group of looters before the end of the 5th day.
+“Information?”
 
-They were more cautious than the previous group. They had been following us, observing us from a distance.
+I raised my hand slightly to stop Aynar.
 
-"Damn it."
+Seeing a glimmer of hope, the crossbowman made a condition.
 
-It wasn't good news.
+“If I tell you, will you swear to… spare me?”
 
-We found four fresh hearts in their backpacks.
+“Swear, huh…”
 
-They had already killed some barbarians.
+What a funny guy.
 
-"...Ainar, calm down. We'll deal with this later."
+As I laughed softly, Aynar raised her voice in anger.
 
-"..."
+“Bjorn! It’s better to just kill this guy!”
 
-"Let's go. The others are waiting."
+“Enough. Calm down.”
 
-"Alright..."
+“…….”
 
-I calmed Ainar down, and we returned to the central area.
+“Fine. I’ll swear. If the information you give is valuable, I’ll let you go.”
 
-"Mister!"
+I made the oath coolly.
 
-Erwen had come to meet us.
+But the crossbowman’s expression was quite strange upon hearing the answer he wanted.
 
-We went to the Great Sage Monument and activated the Voice Control spell.
+He seemed to be debating whether to trust me or not.
 
-"Amelia, anything happen while we were gone?"
+However, the crossbowman quickly made up his mind.
 
-"Of course. The thing you were worried about."
+“Th, this will definitely be valuable to you, Baron…”
 
-"Worried about...?"
+I guess he figured that someone like me wouldn’t break an oath… …….
 
-"We're being watched."
+“All right, just spit it out.”
 
-As expected.
+As I urged him on, the crossbowman began to speak nervously.
 
-"What should we do? If they're from Count Alminus, it's too dangerous to summon the Floor Lord."
+“It’s… the mages……”
 
-Bersil looked worried.
+Mages?
 
-But I just smiled.
+Why mages all of a sudden?
 
-"Don't worry. It's all part of the plan."
+I glared at him, telling him to get to the point, and he continued.
 
-"...You planned this?"
+“Some mages… have posted requests on the black market. They’ll pay more if you bring them a barbarian’s heart…”
 
-Of course.
+“Hmm……”
 
-I had filed a raid request with the guild.
+What’s that about?
 
-They were bound to notice.
+“Is that all?”
 
-'And it wasn't something I was 'worried' about...'
+“Yes?”
 
-It was something I had 'hoped' for.
+When I answered indifferently, the crossbowman’s face stiffened.
 
-"We're summoning the Floor Lord as planned."
+But what of it?
 
-I told Bersil, and she looked at me with a puzzled expression.
+It wasn’t particularly valuable information.
 
-The bait had been taken.
+There was no explanation as to who the mages were, and even if I knew who they were, there’s no way to punish them outside without evidence.
+
+“If that’s all.
+
+Then just die now.
+
+As I was about to say that, the crossbowman interrupted me, shouting.
+
+“There’s more! There’s more, Baron!”
+
+“……?”
+
+“Th, there’s also a request on the black market… for your heart… ……”
+
+“…… What?”
+
+Startled, I asked for more details.
+
+The reward for the request was a whopping 2 billion stones.
+
+The requester was unknown, he said.
+
+“The black market, huh……”
+
+As I fell into thought, the crossbowman began to appeal to me, sensing an opportunity.
+
+“……So… what do you think? D-does this help you, Baron……?”
+
+Ah, that?
+
+It was definitely useful information.
+
+Since I had no connections in that area, this was the first I’d heard of it.
+
+I planned to investigate further once I returned to the city.
+
+But…….
+
+“No, not at all. Now, go ahead and die.”
+
+What are you going to do if I say no?
+
+“Th-this isn’t what we agreed—.”
+
+What the hell is this bastard talking about?
+
+Crunch.
+
+I stepped on the crossbowman’s head and pressed down, causing him to writhe in pain.
+
+I felt no pity.
+
+Nor did I feel any guilt for breaking the oath.
+
+“Promises are made between people.”
+
+With those words, I applied more pressure.
+
+Crack-
+
+After finishing off the last one, I collected their equipment and bags and stored them in my subspace.
+
+It wouldn’t be much, but it would be perfect to add to the barbarian treasury and use for the young barbarians—.
+
+Squelch.
+
+……Huh?
+
+I heard a squelching sound from beside me and turned to see Aynar stabbing a corpse with her greatsword, gripping it in reverse.
+
+“What are you doing, Aynar……?”
+
+“Can’t you tell? I’m cutting out their hearts.”
+
+“……?”
+
+“Shouldn’t they know? If they want our hearts, they’ll have to stake their own.”
+
+Hmm…….
+
+Is she trying to say an eye for an eye?
+
+“I’ll finish quickly, so don’t worry about it.”
+
+After saying that, Aynar carved out the hearts from the two relatively intact corpses and laid the bodies out on a rock as if displaying an art piece.
+
+“There, it’s done. Let’s go, Bjorn. We’ve got more bastards to kill, don’t we? I think I can act even better now!”
+
+Honestly, she is pretty scary too.
+
+---
+
+Days 4, 5 and 6…
+
+Time flew by quickly after the first successful fishing.
+
+We spent our days wandering endlessly around the Crystal Cave, not even allowing ourselves a proper rest.
+
+As time went on, our “fishing” strategy became more refined.
+
+We smeared ourselves with goblin blood for extra detail, and hung the Level 9 mana stones we’d collected on pouches so they dangled in plain sight.
+
+It would have been great if we’d been covered in real wounds, but that was realistically impossible.
+
+Any wound that severe would regenerate in under a minute.
+
+Anyway, the extra effort paid off. Before the end of Day 5, we managed to find another group of plunderers that felt similar to the first – and killed them.
+
+For reference, these guys were more cautious than the previous group, secretly following us for a while to observe –
+
+“Damn.”
+
+I couldn’t exactly call it good news.
+
+We found four fresh hearts in their packs.
+
+They’d already finished a job before they met us.
+
+“……Aynar, calm down. I’ll deal with this when we get back.”
+
+“…….”
+
+“So let’s go. Everyone’s probably waiting for us.”
+
+“Got it…….”
+
+After Aynar had calmed down, we went to the centre where our comrades were waiting.
+
+“Mister!”
+
+Erwin, who had sensed my presence from afar, came out to greet me.
+
+Following Erwin, we went to the cave with the monument, activated a sound control spell and began our conversation.
+
+“Emily, has anything unusual happened?”
+
+“As if. The thing you were worried about has happened.”
+
+“The thing I was worried about…”
+
+“There are people nearby watching us.”
+
+Yes, that’s what I thought…….
+
+“What should we do? If they’re sent by Count Alminas, summoning the Floor Master could be extremely dangerous.”
+
+Vercil spoke with a serious expression, offering advice.
+
+But I just grinned.
+
+“Don’t worry too much. It’s within the expected parameters.”
+
+“…… You expected this?”
+
+Yes, I even openly submitted a submission request to the guild, saying I’d be hunting somewhere, didn’t I?
+
+It would be strange not to expect this level of interference.
+
+Besides, it’s not something I was “worried” about.
+
+If anything, it’s something I ‘expected’.
+
+When Vercil asked about our next move, I answered decisively.
+
+“We will summon the Floor Master as planned.”
+
+The big fish has taken the bait.

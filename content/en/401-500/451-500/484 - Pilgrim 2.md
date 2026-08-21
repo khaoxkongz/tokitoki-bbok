@@ -1,541 +1,535 @@
-# Pilgrim 2
+Pilgrims (2)
 
-Four adult men with slightly better stats than me. Honestly, I was a little worried, as I usually relied on my stats and skills to crush monsters and looters. But it turned out to be a needless worry.
+Four adult males with slightly better stats than me.
 
-‘…This is easier than I thought.’
+As someone who has always relied on stats and skills to take down monsters and plunderers, I was a bit worried, but in the end, it was an unnecessary concern.
 
-If it had been a fistfight, it might have been a different story. But with a proper weapon and shield, being outnumbered wasn’t a big deal.
+‘……It’s easier than I thought.’
+
+If it were a bare-knuckle fight against four opponents, it might have been different. But with proper weapons and a shield, the numerical disadvantage wasn’t a big issue.
 
 I could see everything clearly.
 
-Well, I suppose it was only natural, considering I had been fighting monsters like Amelia since my newbie days.
-
-Clang!
-
-I deflected their attacks with my shield.
-
-And then I struck their openings with my mace.
+Well, I’ve been fighting monsters like Amelia since I was a low-level, so maybe it’s natural?
 
 Crack!
 
-I crushed one soldier’s skull with my mace, and then there was only one left.
+When the enemy attacked, I deflected with my shield.
 
-“…I-I don’t want to die…”
+When their openings appeared, I slammed my mace down. Repeat.
 
-The last soldier, a young man with a terrified expression, turned and ran.
+Crash!
 
-He abandoned his fallen comrades.
+After driving my mace into the skull of one soldier, only one soldier remained.
 
-I threw my shield like a boomerang.
+“……I, I don’t want to die.”
 
-Whizz!
+The young-faced soldier, who had been staying in the safest rear position during the fight, sensed defeat and started to turn and run.
 
-Shield Arrow.
+Well, your dead friends would be disappointed.
 
-A skill I had practiced diligently in my newbie days, hoping for a ranged attack… but I rarely had a chance to use it.
+I grabbed my shield like a boomerang and threw it forward with all my might.
 
-Thwack!
+Whoosh!
 
-The shield struck the back of the soldier’s head, and he collapsed.
+The skill name is Shield Arrow.
 
-I quickly approached him and captured him.
+It’s a skill I practiced hard during my low-level days because I wanted a ranged attack, but it ended up being a skill I rarely used.
 
-“L-Let me go…!”
+Thud!
 
-He struggled, panicking.
+The soldier, hit in the back of the head by the shield, fell forward, and I quickly approached and captured him.
 
-“I have a few questions.”
+“Let go, let go! Let me go……!”
 
-“I have nothing to say to y—Urgh!”
+The soldier, in a panic, struggled desperately.
 
-I punched him in the gut, and he calmed down.
+“I have some questions.”
 
-“Gah… Cough…!”
+“What makes you think I’d answer you… Ugh!”
 
-He was finally ready to talk.
+I punched him in the solar plexus, and he calmed down.
 
-I began my interrogation, starting with the most important question.
+“Cough, cough, ugh……!”
 
-“Where are we?”
+Now that the environment was somewhat conducive to conversation, I began to extract information from the soldier.
 
-“What… do you mean…?”
+First, the thing I was most curious about.
+
+“Where is this place?”
+
+“What… do you mean…….”
 
 What do I mean?
 
-I’m asking because I don’t know.
+I’m asking because I really don’t know.
 
-“Just answer the question. Where are we?”
+“Just answer. Where is this place?”
 
-“…The Pilgrim’s Cave.”
+“……The Pilgrim’s Cave.”
 
-Hmm, it looked exactly like the Crystal Cave.
+Hmm, it definitely looks like a crystal cave.
 
-“And what’s your objective?”
+“What’s your objective?”
 
-“To capture all the escaped pilgrims and bring them to justice—”
+“To capture all the escaped pilgrims and bring them to the judgment platform—”
 
 “Don’t shout. It echoes.”
 
-I continued my questions, clarifying the information I had gathered and confirming the facts.
+I continued to ask questions in rapid succession, resolving my doubts and turning uncertain information into confirmed facts.
 
-There were a few things to note.
+There was quite a bit of information to sort through.
 
-Information 10: There were other pilgrims besides me.
+Information 10: There are other pilgrims besides me.
 
-Four in total, including myself.
+Including me, there are four in total.
 
-It seemed like Erwen, Bersil, and Ainar were also in a similar situation.
+It seems that Erwin, Vercil, and Aynar are all in a similar situation to me……
 
-Information 11: The pilgrims’ objective was to activate the hidden Witch’s Altar.
+Information #11: The pilgrims’ goal is to activate the hidden Witch’s Altar in the cave.
 
-That seemed like the clear condition.
+This seems like the clear condition.
 
-Even if it wasn’t, it would probably lead to a reunion with my companions.
+Even if it’s not, going there would at least allow me to reunite with my team.
 
-‘They should be able to figure it out on their own. They just have to capture a soldier and interrogate him.’
+‘If it was this easy to get intel out of a single soldier, I’m sure the rest of them will figure it out, too.’
 
-Ah, of course, finding the Witch’s Altar was another problem.
+Ah, of course, the location of the witch altar is another problem.
 
-But I had a hunch.
+But I have a guess.
 
-It was probably in the same place where we had fought Dreadfear.
+The place where we were raiding.
 
-The Dark Zone in the center of the cave.
+The central dark zone.
 
-The chamber with the Gavrilius Monument.
+The chamber where the monument of Gavrilius the first person to set foot in the Labyrinth, is located.
 
-If there was something hidden in this cave, it would be there.
+If there’s something hidden in this cave, it’s got to be there.
 
-‘…They wouldn’t have started us on the outskirts otherwise.’
+‘…Otherwise, it wouldn’t have us start out on the outer edges.’
 
-I could see the overall concept of this event.
+The concept of this event is becoming clear in my mind.
 
-The Rocky Desert, the Goblin Forest, the Beast’s Lair, the Land of the Dead.
+The rocky desert, the goblin forest, the beast’s lair, the land of the dead.
 
-The four characters, starting at the entrances connected to the 2nd-floor fields, would overcome their trials and reunite in the central area.
+Four characters starting from the entrance connected to the original second-floor field, each overcoming their own trials and reuniting at the center.
 
-‘And then we’ll probably have a boss fight, or move on to the next phase…’
+‘It’s probably a boss fight there, or the next phase will start…’
 
-But how was this event triggered?
+How the hell did this event trigger anyway?
 
-Just because we had a four-man raid team?
+Just because there were four raid members?
 
-No, that couldn’t be it.
+No, that can’t be.
 
-I had raided Dreadfear with four people before, when one of our teammates died.
+There’ve been plenty of times in the game when one of my teammates died halfway through and we still took down the Lord of Terror with just four.
 
-‘…I’ll think about the trigger conditions later. Let’s focus on clearing this first.’
+‘…I’ll worry about the conditions later. For now, let’s focus on clearing it.’
 
 I finished the interrogation and left the area.
 
 ---
 
-The first try.
+First try.
 
-It was the most exciting moment for a true gamer, and I was no exception.
+For any serious gamer, there is nothing more exciting and exhilarating than this, and it always has been for me.
 
-But…
-
-Step.
-
-That was only true in games.
-
-In reality, it was different.
-
-Thump, thump, thump.
-
-Every moment was filled with fear and anxiety.
-
-The excitement was gone, replaced by a chilling tension and a single thought that wouldn’t leave my mind.
-
-‘I can’t make a mistake.’
-
-I had to succeed on my first try.
-
-This wasn’t a roguelike game where you learned from your deaths.
-
-There were no second chances here.
-
-「Character has slain ten Imperial soldiers.」
-
-「All stats increased by +1.」
-
-「Character has slain fifteen Imperial soldiers.」
-
-「All stats increased by +1.」
-
-「Character has slain twenty Imperial soldiers.」
-
-「All stats increased by +1…」
-
-I hunted down any soldiers I encountered, focusing on reducing their numbers, and my stats gradually increased.
-
-‘Every five soldiers…?’
-
-I wasn’t sure how much each stat increased, but that seemed to be the pattern.
-
-‘I don’t know what kind of boss monster we’ll be facing, but I should try to level up as much as possible.’
-
-I wanted to focus on hunting, but my priority was to reach the central area.
-
-It was a rational decision.
-
-‘There might be a time penalty.’
-
-The game wouldn’t be so kind as to give me both unlimited time and an easy way to level up.
-
-[Dungeon and Stone] wasn’t that kind of game.
-
-‘…I can hunt later if I have time. Let’s move.’
-
-I prioritized movement over hunting and headed towards the center of the cave.
-
-‘…It’s been at least seven hours…’
-
-New information was updated.
-
-Information 12: The labyrinth closure isn’t an escape route.
-
-The time when the labyrinth should have closed had long since passed.
-
-But I was still here.
-
-I was a little worried.
-
-‘…It’s not like I’ll be trapped here if I don’t escape in time, is it?’
-
-It was a possibility I couldn’t ignore.
-
-But there was no point in worrying about it now—
-
-“A pilgrim!”
-
-I heard a shout from a nearby passage.
-
-How did they know I was here?
-
-I prepared for battle, but no one appeared.
-
-Instead, the soldiers’ footsteps faded away.
-
-“Catch him!”
-
-“That filthy servant of the Witch!”
-
-I finally understood.
-
-There was someone else nearby.
-
-Ttadat.
-
-I ran towards the direction the soldiers had gone.
-
-'Ainar? Bersil? Erwen? Who is it?'
-
-As I wondered who was being chased, I saw a group of soldiers in the distance.
-
-'...They've gathered all the nearby soldiers...'
-
-Nine soldiers were blocking the passage.
-
-And Bersil Gowland was surrounded.
-
-"S-Stay back! Don't come any closer!"
-
-She was trembling, swinging her bone wand.
-
-It was a pathetic display of resistance.
-
-The soldiers didn't even flinch.
-
-"What are you waiting for?! Capture her!"
-
-"Kyaaa!"
-
-Bersil was quickly subdued.
-
-'How did she even survive this long?'
-
-I didn't have time to think about it.
-
-The soldiers were about to execute her.
-
-'Damn it, nine is a bit much...'
-
-I didn't have a choice.
-
-I couldn't just stand here and watch her die.
-
-Crack-!
-
-I smashed the last soldier's head with my mace.
-
-"...Ambush!"
-
-The other soldiers turned around.
-
-Well, there was no point in hiding anymore.
-
-"Behel—laaaaaaaaaa!"
-
-I charged forward, my shield raised.
-
-I couldn't just sneak around and rescue her one by one.
-
-"What are you doing?! Kill her first—!"
-
-I pushed two soldiers aside and reached Bersil.
-
-And as I lifted her into my arms...
-
-Puk-!
-
-...a sword pierced my side.
-
-"Y-Yandel...?"
-
-"...We'll talk later."
-
-The soldiers I had pushed aside had gotten back on their feet and blocked my escape route.
-
-I had to change positions.
-
-I couldn't fight them head-on in this narrow passage.
-
-"Hold on tight."
-
-"Huh? Ah, aaaaah!"
-
-I told Bersil to hold on to my neck, and then I turned around and ran.
-
-I pushed a soldier aside with my shield.
-
-And...
+But…….
 
 Thud.
 
-A sharp pain shot through my thigh.
+That’s only true when it’s in the game.
 
-Puk-!
+When it becomes reality, the situation is completely different.
 
-Damn spearman.
+Thump, thump, thump.
 
-I smashed the spear shaft with my mace and continued running. I managed to escape the encirclement with Bersil in my arms.
+Every moment is filled with fear and caution.
 
-But there was a problem...
+The thrilling excitement is gone, replaced by a chilling tension and a thought that’s stuck in my head.
 
-'I can't run with this leg...'
+‘I can’t make any mistakes.’
 
-Well, at least I didn't have to worry about being attacked from behind.
+I have to get it right the first time.
 
-I quickly put Bersil down and sent her away.
+This isn’t a roguelike game where you improve by dying.
 
-The soldiers were approaching from the passage.
+There’s no second chance here.
 
-'Only three can attack me at once in this narrow passage.'
+「Your character has defeated ten imperial soldiers.」
 
-And there were eight of them left.
+「All stats have increased by +1.」
 
-'...This is bad.'
+「The character has defeated fifteen imperial soldiers.」
 
-I had been injured in my side and thigh.
+「All stats have increased by +1.」
 
-And if the fight dragged on, more soldiers would arrive.
+「The character has defeated twenty imperial soldiers.」
 
-Clench.
+「All stats have increased by +1…….」
 
-I lowered my stance, preparing for a difficult battle.
+Moving around while hunting soldiers in groups of five or less, I could feel my stats gradually increasing.
 
-「Bersil Gowland has cast [Blooming Flesh].」
+‘Is it every five kills…….’
 
-...And then I felt a surge of healing energy.
+I’m not sure exactly how much my stats are increasing, but it seems to be the case.
+
+‘Whatever the boss might be, I need to grow as much as possible before facing it.’
+
+Ideally, I’d focus purely on hunting and keep raising my stats, but I decided that my top priority was moving towards the center of the cave rather than farming enemies.
+
+It was a completely rational decision.
+
+‘In a setup like this, there’s a chance there could be a time-based penalty.’
+
+Ways to get stronger and ample time, [Dungeon & Stone], isn’t kind enough to give both at the same time.
+
+‘…If there’s time left, I can hunt then. For now, let’s move.’
+
+Concentrating more on movement than hunting, I walked towards the centre, wondering how much time had passed.
+
+‘…It must have been at least seven hours.’
+
+That’s when the information was updated.
+
+Information #12: Even if the labyrinth is “closed,” it’s not a place you can actually escape.
+
+It’s already past the time when this place should have shut down completely, yet I’m still here.
+
+And, of course, there was some anxiety because of that.
+
+‘…It’s not like a rift that will permanently trap us if we don’t escape in time, right?’
+
+This was another variable I couldn’t ignore.
+
+But worrying over it now wouldn’t change anything—
+
+“A pilgrim!”
+
+Right then, a shout echoed from a side passage.
+
+How did they spot me when we can’t even see each other?
+
+Despite the confusion, I hurriedly prepared for combat, but no soldiers appeared from the side passage.
+
+No, rather, the sound of their footsteps grew distant.
+
+“Catch them!”
+
+“Filthy servants of the witch!”
+
+Only then did I understand the situation.
+
+Someone else is nearby, not me.
+
+Thud.
+
+Without hesitation, I ran in the direction the soldiers had gone.
+
+‘Aynar? Vercil? Erwin? Who is it?’
+
+As I wondered who the soldiers were chasing, I soon spotted a group of soldiers gathered and standing still in the distance.
+
+‘……They’ve gathered all the nearby soldiers.’
+
+Nine soldiers blocked three passages.
+
+In the centre, surrounded and trembling, was Vercil Gowland.
+
+“S-stay back! Don’t come any closer!”
+
+Vercil trembled as she swung her bone wand.
+
+From a warrior’s perspective, it seemed doubtful that she intended to hit them at all.
+
+Naturally, the soldiers didn’t move.
+
+“What are you waiting for? Capture her!”
+
+“Eek, eek!”
+
+In the end, Vercil was subdued by the soldiers without putting up much of a fight.
+
+‘How did he even make it this far in one piece?’
+
+I couldn’t figure it out, but there was no time to think about it.
+
+There was no time to think. The soldiers had already forced Vercil to her knees and were preparing a blade for execution.
+
+Nine against one… it’s going to be tough.
+
+But there was no choice. I couldn’t just watch Vercil die.
+
+Crunch.
+
+I slammed my mace into the back of the rear soldier’s skull.
+
+“Ambush!”
+
+“It’s an ambush!”
+
+As soon as I killed one, all eyes turned to me.
+
+Well, no need to move stealthily anymore.
+
+“Bethel-raaaaaaaaaaaaaah.”
+
+I charged forward with my weight behind my shield.
+
+It was a necessary decision.
+
+“What are you doing! Start with that woman-!”
+
+How do you approach and rescue a hostage while methodically taking them down?
+
+“Uh, ugh!”
+
+Based on the enhanced stats I had acquired on my way here, I pushed two soldiers aside and rushed towards the centre.
+
+And the moment I picked up the kneeling Vercil.
+
+Thrust!
+
+A longsword dug deep into my side.
+
+“Hey, Jandel?”
+
+“Greetings later.”
+
+The path I had cleared by charging was blocked again by soldiers who had gotten up after being pushed aside.
+
+First I had to change my position.
+
+With no resistance to physical attacks and surrounded on all sides, there was no chance of victory.
+
+“Hold on tight.”
+
+“Huh? Aah!”
+
+I made sure Vercil held on tight, then turned back the way I had come.
+
+I shoved one soldier aside with my shield.
+
+Thud.
+
+As I tried to dash away, a sharp pain shot through my thigh.
+
+Thud -!
+
+Damn spear-wielding bastard.
+
+I smashed the spear shaft in my thigh with my mace and continued my dash. This allowed me to rescue Vercil and break through the encirclement.
+
+The problem was….
+
+I can’t run with this leg.
+
+Well, at least I don’t have to worry about getting flanked.
+
+I quickly set Vercil down and pushed her behind my back.
+
+The soldiers were slowly approaching from the other end of the straight passage.
+
+‘Given the passage’s layout, they can only come at me three at a time.’
+
+And there are eight soldiers left.
+
+‘…This isn’t good.’
+
+I’ve taken one hit to the side and one to the thigh. If the fight drags on, more soldiers might hear the commotion and join in.
+
+Crack.
+
+As I braced for a tough fight, lowering my stance to keep my center of gravity low.
+
+「Vercil Gowland has cast [Rising Flesh].」
+
+……Healing began to flow into me.
 
 ---
 
-[Blooming Flesh].
+[Rising Flesh].
 
-An active skill of the 7th-grade monster, Dark Cultist.
+An active ability of a level 7 monster, the Dark Worshipper.
 
-Bersil Gowland had just cast it.
+It had been activated by Vercil Gouldland.
 
-'...What the...?'
+‘…What is this?’
 
-A mage using an essence skill?
+A mage using a vitality skill?
 
-It was unprecedented in [Dungeon and Stone].
+A phenomenon I’ve never seen in all my time playing [Dungeon & Stone].
 
-But I had more pressing matters to attend to.
+But there was something more urgent than satisfying my curiosity.
 
-'This changes everything.'
+‘This changes everything.’
 
-I had to ask Bersil one question.
+There’s only one thing I need to ask Vercil right now.
 
-Not how she had used the skill...
+Not how he could use that skill, but—
 
-"Bersil, how many more times can you use that?"
+“Vercil, how much more can you use that ability?”
 
-"One more time, in three minutes."
+“One more time in three minutes.”
 
-"Good."
+“Good.”
 
-My injuries had already healed completely.
+My injuries have already been completely healed.
 
-And even if I was injured again, I could be healed in three minutes.
+Even if I get hurt again, there’s a way to recover in three minutes.
 
-Which meant I could fight more aggressively.
+In other words, I can afford to fight much more aggressively now.
 
-Ttadat.
+Thud.
 
-I abandoned my defensive stance and charged forward, swinging my mace.
+I dropped my defensive stance and charged forward, swinging my mace.
 
-And...
+And then…
 
-Crack! Crack!
+Crunch, crunch-!
 
-I received a few minor injuries, but I won the battle.
+I took a few minor injuries as I increased the intensity of my attacks, but in the end, I won the fight.
 
-「Character has slain seventy Imperial soldiers.」
+[Your character has killed seventy imperial soldiers]
 
-「All stats increased by +1.」
+[All stats have increased by +1]
 
-I killed seven soldiers, and the remaining two ran away.
+After killing seven, the remaining two fled.
 
-I didn't bother chasing them.
+I didn’t bother to chase the ones who ran away.
 
-"Y-Yandel..."
+“Hey, Jandel…”
 
-"...Let's move. Before they call for reinforcements."
+“…before they bring reinforcements, let’s get out of here first”
 
-"O-Okay!"
+“Ah, right!”
 
-I looted a set of armor and a shield for Bersil and then left the area.
+I quickly looted a suit of armor that looked about the right size for Vercil to wear, plus a shield, and then got moving.
 
-And...
+And then..
 
-「Bersil Gowland has cast [Blooming Flesh].」
+「Vercil Gowland has cast [Rising Flesh].」
 
-We found a safe spot and healed our injuries before starting our conversation.
+In a safe spot, I let her heal me first, and then we talked.
 
-"What was that? How did you use an ability?"
+“What is this? How can you use abilities?”
 
-"I don't know... I could just use it naturally after I woke up... It's strange. It feels like I have a new organ or something. I think I'm the first mage to experience this."
+“I don’t know either. Ever since I woke up, I’ve been able to use them naturally… It’s strange. It feels like I’ve got a new organ in my body, you know? I’m probably the first mage to experience this.”
 
-Well, I didn't need a long explanation.
+Hmm, I didn’t need such a long explanation.
 
-"Anyway, the important thing is that I have another ability."
+Just as I was about to say something, Vercil coughed awkwardly and stopped herself.
 
-"What is it?"
+“A-anyway, that’s not the important part. There’s another ability I can use besides this one.”
 
-"I think it's [Assimilation]."
+“What is it?”
 
-[Assimilation] was a gnome skill.
+“I think it’s [Assimilation].”
 
-It created a 3-meter radius stealth barrier.
+[Assimilation] is a gnome skill.
 
-It seemed like Bersil had used it to reach this point...
+Its effect is to create a stealth barrier within a 3-metre radius.
 
-'So mages get a skill boost?'
+From what I heard, Vercil had been using this stealth skill diligently to make it this far…
 
-Hmm, it made sense.
+‘Are they giving mages skills as a form of balance adjustment?’
 
-A mage with no combat experience wouldn't survive without some kind of balance patch.
+Hmm, that seems likely.
 
-"It was a close call. I ran out of Soul Power, so I was resting when the soldiers found me... I couldn't use Stealth after I was discovered."
+A mage with no combat experience would need that kind of balance patch to survive.
 
-"Where did you start?"
+“It was really tough. I ran out of soul energy? So while I was resting, I ran into the soldiers… Once I was spotted, I couldn’t use stealth anymore.”
 
-"...Huh?"
+“Where was your starting point?”
 
-"You would have seen it if you looked outside before the barrier disappeared."
+“…Huh?”
 
-"Ah... sorry. I was too panicked to notice."
+“If you looked outside before the barrier disappeared, you should know.”
 
-"I see... Well, it's not important. But how did you know to come to the central area?"
+“Uh… Sorry. I was so panicked that I ran off without looking.”
 
-"Huh?"
+“Ah… I see. Well, that’s understandable. It’s not important anyway. By the way, how did you find out that you had to go to the centre?”
 
-"...?"
+“Huh?”
 
-Both Bersil and I tilted our heads in confusion.
+We both tilted our heads, confused.
 
-"You didn't come here on purpose?"
+“You came to the centre on purpose?”
 
-"Is this... the central area...?"
+“This is… the centre?”
 
-"..."
+“……”
 
-So she had just been running randomly.
+Right, she just ran off without direction and ended up here.
 
-It was a good thing I had found her.
+Well, good thing she ran into me, then.
 
-"...How did you manage to defeat ten soldiers, Yandel? And what about your equipment? I didn't even recognize you at first!"
+“So, Mr. Jandel, how’d you do all that? I can’t believe you took on ten soldiers by yourself and won. Where’d you get that gear? At first, I didn’t even recognize you!”
 
-After she finished her story, Bersil started asking me questions, and I shared my experience.
+Once her story was over, Vercil started asking me all sorts of questions, and I shared my story and the information I had gathered so far.
 
-0 minutes after waking up:
+Start: 0 minutes in.
 
-Confirmed skill seal, stat reduction, and equipment loss.
+Just before the barrier broke, I overheard the soldiers talking and realised that we were ‘pilgrims’.
 
-Overheard the soldiers' conversation and learned that we were 'pilgrims'.
+I also noticed that the area outside the barrier resembled the Goblin Forest, so I guessed that my companions might have started at the opposite location…
 
-Deduced that my companions had started at the opposite ends of the cave based on the forest outside the barrier.
+Seeing that the soldiers were using ‘language’, I decided that I could extract information through interrogation.
 
-Realized that the soldiers were using 'language' and decided to interrogate them for information.
+And then I escaped.
 
-Escaped.
+20 minutes later.
 
-20 minutes:
+I realised the monsters were helping me.
 
-Realized that the monsters were helping us.
+After watching the soldiers fight the monsters, I assessed the soldiers’ rank and learned that the cave appeared dark to them.
 
-Observed the soldiers fighting the monsters and assessed their strength.
+30 minutes in.
 
-Learned that the cave was dark to them.
+Deciding I needed more information, I hid behind the brightest crystal and ambushed them.
 
-30 minutes:
+I barely won a three-on-one fight, looted equipment and increased my combat power.
 
-Decided to gather information and ambushed three soldiers.
+45 minutes in.
 
-Won the battle and looted their equipment.
+Wearing the Imperial set, I ambushed more soldiers.
 
-45 minutes:
+After winning the battle, I started interrogating them.
 
-Ambushed more soldiers while wearing the Imperial soldier set.
+I gained a lot of information here, including the fact that the pilgrims’ goal was to activate a hidden witch’s altar in the cave, which helped me set my next objective.
 
-Won the battle and interrogated a captive.
+2 hours in.
 
-Obtained valuable information, including the pilgrims' objective: to activate the Witch's Altar.
+To increase my stats, I focused on moving while killing every soldier I encountered. I was worried about variables that might arise if I took too long.
 
-2 hours:
+And then…
 
-Focused on reaching the central area, killing any soldiers I encountered along the way.
+About 7 hours in.
 
-And...
+“That brings us to now. Got it?”
 
-About 7 hours later.
+Phew. I think we’re done exchanging information.
 
-"This is it. Are you ready?"
+“Alright, let’s move. We need to hurry to the center. There’s a high chance the witch’s altar is there.”
 
-I had shared all the information I had gathered.
+Despite my words, Vercil didn’t follow.
 
-"Let's go. We need to reach the central area. The Witch's Altar is probably there."
+She just stood there, staring at me blankly.
 
-But Bersil didn't move.
+“Did you know about this situation before?”
 
-She just stared at me, dumbfounded.
+“Huh?”
 
-"...Did you... know about this beforehand?"
+What’s she talking about?
 
-"Huh?"
+If I had, I wouldn’t have made such a mess.
 
-If I had known, I wouldn't have gone through all this trouble.
+“Of course not.”
 
-"Of course not."
+“Then how did you know all this…?”
 
-"But how did you know...?"
+It was such a ridiculous question.
 
-It was a ridiculous question.
+“…Isn’t she a player too?
 
-'...Isn't she a player too?'
-
-Why was she so surprised by my deductions?
+Why is she so surprised by such obvious deductions?

@@ -1,441 +1,475 @@
-Ice Rock 4
+Ice Rock (4)
 
-After confirming the existence of the traitor,
+After I became convinced of the traitor’s presence.
 
-I started asking around every day.
+I went around every day, gathering information.
 
-Of course, I wasn't acting like a detective. I just casually chatted with the members during breaks and at camp.
+Of course, I didn’t act like a detective; I just casually chatted with people during breaks or when we set up camp.
 
-Otherwise, he might have tried to hide—
+Otherwise, the culprit might get scared and hide—
 
-"Wait! Explain it so we can understand!"
+“Wa-wait! Please explain so we can understand!”
 
-As the team leaders restrained Pike Neldain, one of the explorers watching the scene interjected.
+As the team leaders rushed to restrain Pike Neldaine, one of the watching members interjected.
 
-"Explain...?"
+“An explanation…”
 
-Well, I could do that.
+Well, I suppose I can provide one.
 
-It would help clarify the situation.
+It would help clear up the situation.
 
-"I first suspected Pike Neldain because of Elcopson Liadkei."
+“I first began to suspect Pike Neldaine thanks to Elkopson Riadkay.”
 
-"Liadkei...?"
+“Riadkay…?”
 
-"The summoner on Akuraba's team?"
+“You mean the summoner from Lady Akuraba’s team?”
 
-The summoner flinched, embarrassed by the sudden attention.
+Perhaps not the boldest person, the summoner flinched noticeably when everyone’s eyes turned to him.
 
-"Y-yes? Me?"
+“Uh, y-yes? Because of me?”
 
-"Yes, you mentioned something strange when I asked you a few questions. You said the trolls were getting tired too quickly."
+“Yes. When I came to ask you a few things, didn’t you mention that the trolls seemed to tire unusually quickly?”
 
-"Ah, yes... I did say that, but..."
+“Ah, yes. I did say something like that, but…”
 
-He looked at me nervously.
+Why is he looking so nervous?
 
-Was he worried about being blamed?
+Is he worried the blame might fall on him?
 
-He didn't need to worry.
+If so, that’s a needless concern.
 
-I wouldn't punish the one who helped me the most with this investigation.
+I wouldn’t harm the biggest contributor to this deduction.
 
-"Anyway! That's where it all started."
+“Anyway! That’s where it all started.”
 
-It was a turning point.
+Should I say it was the trigger that changed my thinking?
 
-Before that, I had been focusing on the possibility of a spell or skill causing the ground to collapse.
+Before, I thought the ground collapses were due to magic or skills that destroyed the earth, but after hearing that testimony, my thoughts changed.
 
-But his testimony made me think differently.
+I began to focus on the trolls themselves rather than external factors.
 
-I started focusing on the trolls themselves.
+“Believing that something was wrong with the trolls, I checked to see if anyone had approached them around the time of the incidents.”
 
-"I suspected something was wrong with the trolls, so I investigated who had approached them before and after the incidents."
+It made me focus on the ‘trolls’ themselves rather than the external factors.
 
-I explained my deduction to the crowd.
+“Believing that something was wrong with the trolls, I checked to see if anyone had approached them around the time of the incidents.”
 
-"At first, I suspected Akuraba's team members or the mages who were always near the sleds because they had to maintain the 'Preservation' spell."
+I recited my reasoning before the crowd.
 
-It was the Barbarian Detective Mode.
+“Until then, I suspected Akuraba’s team members or the mages who always stayed near the sled to maintain the ‘Preservation’ magic.”
 
-"But I found out that there was one other person who had approached the trolls."
+Enter Barbarian Detective Mode.
 
-I pointed at the bound traitor.
+“But upon investigation, there was exactly one more person who had approached the trolls.”
 
-"Pike Neldain."
+I pointed to the man tightly bound with ropes.
 
-"...!"
+“And that was Pike Neldaine.”
 
-"He approached the trolls under various pretexts, and after the incidents, he mysteriously disappeared—"
+“……!”
 
-"T-that's just circumstantial evidence!"
+“He came up with all sorts of excuses to interact naturally with the trolls, and after the incidents, he stopped coming altogether—”
 
-Pike Neldain protested.
+“Th-that’s just circumstantial evidence!”
 
-"You're accusing me based on that?"
+At that moment, the bound Pike Neldaine objected.
 
-He wasn't done talking yet.
+“You’re going to do this to a person over mere circumstantial evidence?”
 
-Jun, the paladin, tried to gag him, but I stopped him with a gesture.
+Haha, I haven’t even finished talking yet.
 
-He was digging his own grave, there was no need to stop him.
+Paladin Jun tried to gag him, but I signaled him to stop.
 
-"Evidence! You don't have any evidence!"
+He’s digging his own grave; no need to stop him.
 
-That's right, I didn't have any evidence.
+“Evidence! So in the end, you have no evidence!”
 
-That's why I had to resort to this method.
+Yes, I had no evidence.
 
-People only believed what they saw.
+That’s why I had to use such a troublesome method.
 
-Akuraba stepped forward before I could say anything.
+People only believe what they see with their own eyes.
 
-"The ability you just used was [Overload]."
+Before I could respond, Akuraba stepped forward.
 
-"S-so? What about it?"
+“The ability you just used was [Overload].”
 
-"Why did you hide that ability?"
+“So what! What does that matter?”
 
-"E-everyone has their trump cards!"
+“Why have you been hiding that ability all this time?”
 
-"Hmm, and that's your trump card, as a 'warrior'? The 7th-grade [Overload]?"
+“E-everyone has a trump card, don’t they!”
 
-Her sarcastic tone made him shut his mouth.
+“A ‘warrior’ like you has a Level 7 Essence skill [Overload] as a trump card?”
 
-[Overload] was a skill that temporarily increased your weight, reducing your movement speed but increasing the damage of ranged attack skills.
+At her sarcastic words, the man shut his mouth tightly.
 
-It wasn't a suitable skill for a warrior.
+Because [Overload] is a skill that temporarily greatly increases body weight, reducing movement speed but increasing the damage of ranged attack skills.
 
-So...
+It’s a skill unsuitable for a warrior.
 
-"D-don't change the subject! [Overload] only affects the user!"
+Therefore…
 
-He was trying to find a loophole.
+“D-don’t change the subject! In the first place, [Overload] is an ability that only applies to oneself!”
 
-"Yes, [Overload] only affects the user."
+As expected, he tried to find an escape in this argument.
 
-"I've seen someone use it before."
+“Yes, I’ve seen someone use [Overload] before.”
 
-"It was definitely a skill that couldn't be used on others."
+“Certainly… it’s an ability that can’t be used on others.”
 
-"What? Then you've arrested the wrong person!"
+“What? Then we’ve caught the wrong person?”
 
-The members started to waver, swayed by his logic.
+The members murmured, swayed by his logic.
 
-"He's falsely accusing me! Help me! You could be next!"
+“He is oppressing an innocent member with absurd logic! Everyone, help me. Otherwise, you might be next!”
 
-He shouted, trying to turn the crowd against me.
+He shouted even more loudly.
 
-This was good.
+Well, how kind of him.
 
-The logic he had used to defend himself was now trapping him.
+Grin.
 
-There was no escape.
+Actually, I was waiting for that argument to come out.
 
-It was time to draw my sword.
+The logic he set up to protect himself will now shackle him.
 
-"Can I borrow your sword?"
+From now on, no matter what he does, he won’t escape.
 
-I took a sword from a nearby explorer and approached him.
+It’s about time to draw the sword.
 
-"W-what are you doing...? H-help—"
+“Hey, can I borrow your sword?”
 
-"Everyone, stay back!"
+I forcibly snatched the sword from a nearby member and approached him.
 
-"Gah—!"
+“W-what are you trying to do…? E-everyone, help—”
 
-I grabbed his neck and lifted him up for everyone to see.
+“Everyone, stay put!”
 
-The explorers flinched and looked at each other.
+“Guh—!”
 
-They seemed to be contemplating whether to intervene.
+I grabbed the neck of the bound man and lifted him high so everyone could see.
 
-I spoke before they could reach a consensus.
+The members flinched and looked hesitant.
 
-"What you just saw... is the physical ability of a 5th-grade monster, the Blood Roar! It's called [Blood Spring]!"
+Before they could unite, I raised my voice and shouted.
 
-Physical ability.
+“A skill that only applies to oneself? [Overload] is indeed such an ability. But—!”
 
-It meant a passive skill in this world.
+You think you can deceive me?
 
-"...[Blood Spring]?"
+After all the years I’ve spent in Dungeon & Stone?
 
-"What's that?"
+“It’s different if you possess a conversion ability like [Imbue].”
 
-"I read about it in a book. It makes you immune to death by bleeding."
+As I spoke, I brought the sword down on his forearm, aiming directly at his veins.
 
-"Wait, Blood Roar... wasn't that one of the monsters that had [Bestow]?"
+Splat.
 
-"Yes, it always travels in packs with other monsters, making that ability even more troublesome."
+Blood began to drip down.
 
-"Then...!"
+Thanks to the wide cut in the vein, the difference in pressure didn’t cause a fountain of blood, but the amount of blood flowing out was more than enough.
 
-They started to understand without me having to explain further.
+“At that rate of bleeding, he won’t last a few minutes.”
 
-I threw him to the ground.
+“…We need to t-treat him… P-priest!”
+
+The members panicked at the sudden execution scene.
+
+“Everyone, stay calm!”
+
+“Please trust us and wait. What you’re thinking won’t happen.”
+
+Since the team leaders intervened, they couldn’t act rashly.
+
+One minute, two minutes, three minutes…
+
+As time that felt like an eternity passed, a few sharp-eyed people noticed something odd.
+
+“…Why isn’t he dying?”
+
+“With that amount of bleeding, he still has consciousness?”
+
+“Look at the pool of blood on the ground. Even if all the blood in his body flowed out, it wouldn’t be that much…”
+
+As expected of explorers who are specialists in hunting and killing.
+
+They realized the truth faster than I expected.
+
+Anyway, the situation is ripe enough…
+
+“What you’re witnessing now is an ability called [Blood Well], a physicalization skill from a Level 5 monster, the Blood Lurker!”
+
+“Physicalization skill”—a term in this world for a passive skill.
+
+“…[Blood Fountain]?”
+
+“What’s that?”
+
+“I’ve read about it in a book before. It’s an ability that prevents death from blood loss.”
+
+“Wait, Blood Lurker wasn’t that one of the monsters with [Imbue]?”
+
+“That’s right. I remember that ability being quite troublesome because it always formed groups with other beasts.”
+
+“If that’s the case…!”
+
+The members began to understand without me having to persuade them further.
+
+Then I threw the man I was holding onto the ground.
 
 Thud.
 
-He didn't even groan, despite the impact.
+The impact must have been intense, but he didn’t even groan.
 
-He was too busy trying to survive.
+He must have judged that he didn’t have time for that.
 
-"W-wait! I-I have the Blood Roar's essence, but that doesn't prove I have [Bestow]!"
+“W-Wait! Yes, I consumed the essence of a Blood Lurker, but that doesn’t mean I have [Imbue]!”
 
-He was still clinging to the lack of evidence.
+Even now, he was trying to argue?
 
-But Akuraba was ready.
+I didn’t even need to say anything.
 
-"Then use another one of Blood Roar's abilities."
+“Then, show us the other Blood Lurker abilities.”
 
-"T-that's..."
+“That… I….”
 
-"There were four, if I remember correctly. All of them were easily recognizable."
+“I believe there were four in total. And all easily recognizable.”
 
-"I-I admit it! I have [Bestow]! But that doesn't mean I'm the traitor!"
+“I… I admit it! I have [Imbue]! But that doesn’t make me a traitor!”
 
-"Then why did you deny it at first?"
+“Then why did you deny it at first?”
 
-"I-I was scared...! I was afraid of being accused!"
+“I-I was just scared…! I was afraid I’d be accused of being a traitor!”
 
-His last desperate plea.
+His last plea, uttered with a trembling body.
 
-He looked pathetic, covered in blood and bound by ropes.
+His figure, rolling on the ground, body covered in blood and tightly bound with ropes, was pitiful, but I wasn’t worried.
 
-But I didn't feel sorry for him.
+“E-everyone, why are you doing this! Just because I have the ability to do such things doesn’t mean I’m the culprit!”
 
-"Why are you all just watching?! Just because I have that ability doesn't mean I'm the traitor!"
+Presumption of innocence.
 
-Innocent until proven guilty.
+If this were a modern trial.
 
-That would have worked in a modern court.
+No, even if it were a bit barbaric, it would have worked in a city’s trial where ‘law’ exists.
 
-Or even in a city court, where there was at least a semblance of law.
+But…
 
-But...
+“Pike Neldaine, are you still going to spout that naive nonsense?”
 
-"Pike Neldain, how long are you going to act so naive?"
+This is the labyrinth.
 
-This was the labyrinth.
+And more importantly—
 
-And most importantly...
+“What are you all hesitating about? His expression and tone clearly show he’s lying.”
 
-"What are you all waiting for? He's clearly lying."
+Explorers aren’t fools either.
 
-Explorers weren't stupid.
+“Come to think of it, it’s strange that the ground collapsed twice. That never happened when we came before.”
 
-"It was strange that the ground collapsed twice. It never happened when I came here before."
+“So, it was all because of that bastard?”
 
-They finally realized the truth.
+Pike Neldaine is indeed the traitor.
 
-"It was all his fault, wasn't it?"
+The fact that all the hunger and discomfort during the journey stemmed from him.
 
-Pike Neldain was the traitor.
+Step by step.
 
-And all the hunger and discomfort they had endured were because of him.
+The man who had been crawling towards the others to avoid me quickly changed direction and came towards me.
 
-Thud, thud.
+“P-please! Spare me! I’ll answer all your questions honestly!”
 
-He crawled towards the other members, trying to escape me.
+Good, then let’s move on to interrogation time.
 
-"W-wait! S-spare me! I'll tell you everything!"
+***
 
-It was time for interrogation.
+Rank 4 explorer Pike Neldaine
 
----
+An explorer who had worked here and there, from small elite teams to large clans.
 
-Pike Neldain, a 4th-grade explorer.
+Then why did he betray the expedition?
 
-He had been a member of various teams, from small groups to large clans.
+No, to be precise…
 
-Then why did he betray the expedition force?
+“Who is behind you? Noark? Alminus Trading Company? Or is it the Explorers’ Guild?”
 
-Or rather...
+Come on, hurry up and tell me.
 
-"Who's behind you? Noark? The Alminus Trading Company? Or the Explorer's Guild?"
+If you tell me honestly, I’ll press the happiness button on your head with this hammer. Okay?
 
-Tell me now, and I'll spare you.
+“…Th-there’s no one behind me! I just hated you…”
 
-I'll let you keep your head.
+Haha, this guy still hasn’t come to his senses.
 
-"...T-there's no one! I just hate you..."
+“Jun.”
 
-This idiot still didn't understand the situation.
+When I called his name briefly, Jun, who was waiting beside me, mercilessly drove a long awl under his fingernail.
 
-"Jun."
+“Aaaaagh!!”
 
-I called his name, and Jun, the paladin, immediately drove a long awl under his fingernail.
+“A body that doesn’t die no matter how much it bleeds—this is quite valuable.”
 
-"Aaaaaargh!!"
+“Ugh, ugh, ugh!”
 
-"It's fascinating to see a body that can't die from blood loss."
+“Even if you can endure bleeding, you won’t survive if your organs are damaged, so be careful.”
 
-"G-guh, g-guh, ugh!"
+“Understood. I doubt our expedition leader wishes him dead just yet.”
 
-"Be careful, he might not die from bleeding, but he can still die from organ damage."
+A paladin is like this…?
 
-"Don't worry, sir. He's not dead yet."
+His words were so merciless that I wondered if this was really a paladin, and his torture was unnaturally skillful.
 
-That's not something a paladin would say...
+‘What is this guy’s deal… was he an Inquisitor or something?’
 
-And he was surprisingly skilled at torture.
+It’s a matter worth suspecting.
 
-'Wait, was he an inquisitor in the past?'
+Given that he abandoned his family name, and the name ‘Jun’ wasn’t known in the city…
 
-It was a valid suspicion.
+It’s a bit suspicious, isn’t it?
 
-He had abandoned his secular name, and no one knew his real name...
+Well, for now, that ability is quite helpful.
 
-He was a bit suspicious, wasn't he?
+“S-stop…! I’ll tell you everything…!”
 
-Well, at least his skills were useful right now.
+The man who had held out for over an hour, being a warrior, finally broke and began to confess.
 
-"S-stop...! I'll tell you everything...!"
+“Who’s behind you?”
 
-He finally broke after over an hour of torture.
+“Iria Ardnus…”
 
-"Who's behind you?"
+“The guild master of the Explorers’ Guild.”
 
-"Iriya Adnus..."
+What the hell…
 
-"The Guild Master of the Explorer's Guild?"
+Suddenly such a big shot is mentioned?
 
-Damn it...
+“Speak properly. Are you sure?”
 
-Why is he suddenly bringing up a big shot like that?
+“I-I’m sure! I didn’t meet him directly, but it was his assistant who hired me for this job!”
 
-"Are you sure? Tell me the truth."
+Sigh, it doesn’t seem like he’s lying.
 
-"I-I'm sure! I didn't meet him personally, but his assistant contacted me and gave me the orders!"
+Leaving the Guild Master issue aside, I continued the interrogation.
 
-He didn't seem to be lying.
+“What were your orders?”
 
-I continued the interrogation, putting the Guild Master issue aside for now.
+“….”
 
-"What were your orders?"
+“Jun?”
 
-"..."
+“T-The order was to sabotage the expedition!”
 
-"Jun?"
+“What specifically were you instructed to do?”
 
-"He told me to sabotage the expedition...!"
+Soon I was asking a series of questions to get the details.
 
-"Be specific. What did he tell you to do?"
+In brief summary, this is what happened:
 
-I asked a series of questions, trying to get a clearer picture of the situation.
+The Guild Master knew about our journey to Ice Rock and tampered with the food and supplies to ensure we’d fail.
 
-To summarize:
+“I-I swear, I had no intention of harming anyone. If that were the case, I wouldn’t have done it!”
 
-The Guild Master knew we were going to Ice Rock and had planned to sabotage the expedition by targeting our supplies.
+“What are you talking about? Two of our members almost got caught up and fell below. If our team’s mage hadn’t acted in time, they would have surely died.”
 
-"I-I swear I didn't intend to hurt anyone! I wouldn't have done it if I knew..."
+“T-That…! I didn’t think they’d go to such lengths to protect the supplies!”
 
-"What are you talking about? Two members almost fell to their deaths! If our mage hadn't intervened, they would have died!"
+He shouted as if he was genuinely aggrieved.
 
-"T-that's...! I didn't think they would try so hard to protect the supplies!"
+Hmm, it doesn’t seem like he’s lying about that…
 
-He sounded genuinely regretful.
+Whack!
 
-Damn, I don't think he's lying...
+After hearing everything I needed, I knocked him out with a punch to the jaw. Then I called in the team leaders who were outside, shared the information, and we held a discussion.
 
-Thwack!
+“To think he was really the traitor…”
 
-I knocked him out after getting all the information I needed.
+“More than that, the fact that the Guild Master is behind this makes the situation even more serious. Who knows what will happen when we return…”
 
-I then called the team leaders and shared the information.
+“It would have been better if it had been Noark’s doing.”
 
-"He really was the traitor..."
+They had agreed to my request to help root out the traitor, but perhaps they secretly hoped I was wrong.
 
-"The Guild Master is behind this? This is going to be a big problem when we get back..."
+Their expressions were uniformly grim.
 
-"I wish it was Noark."
+However, unlike most people, they were quick to accept reality.
 
-They had agreed to help me find the traitor, but they must have been hoping I was wrong.
+“First, let’s discuss this. What do you think is the reason the Guild Master wanted the expedition to fail?”
 
-Their expressions were grim.
+“The most likely reason is political maneuvering. If the expedition fails, he can place the blame on the Marquis.”
 
-But they were different from ordinary people.
+“Perhaps the Explorer’s Guild didn’t want the tide of this war to turn in favor of either the royal family or Noark.”
 
-They accepted reality quickly.
+“I can’t believe it, but… it’s not entirely unreasonable. After all, the ones benefiting the most from this war are the explorers.”
 
-"Let's discuss this. Why would the Guild Master want the expedition to fail?"
+“Jun, what about you? No opinion?”
 
-"It's probably a political move. If the expedition fails, he can blame the Marquis."
+“……”
 
-"Maybe the Explorer's Guild wanted to remain neutral in the war between the royal family and Noark."
+The meeting didn’t yield any significant results.
 
-"I doubt that, but... it's not impossible. Explorers are benefiting the most from this war."
+We had various speculations, but there was no way to know the truth yet.
 
-"Jun, what do you think?"
+“Um… what should we do about Pike Neldaine?”
 
-"..."
+James Carla cautiously asked, and each team leader shared their thoughts.
 
-The discussion didn't lead to any conclusions.
+“Of course, we should execute him. If someone who disrupts military discipline walks free, morale will surely drop.” —Melend Kaislan.
 
-There were many speculations, but we didn't have enough information to confirm anything.
+“I think differently. If we let him live and return, it could help us corner the Guild Master back in the city. Jun, why aren’t you saying anything?”—Titana Akuraba.
 
-"Um... what are we going to do with Pike Neldain?"
+“This matter is solely for Sir Schuiz to decide.” —Paladin Jun.
 
-James Kala cautiously asked, and the other team leaders shared their opinions.
+“……”
 
-"We have to execute him. It will damage morale if we let him live."
+Their gazes all turned to me.
 
-Melend Kaislan.
+Well, isn’t it obvious what I’m going to do?
 
-"I disagree. If we take him back to the city, we can use him to pressure the Guild Master."
+“Execute him.”
 
-Titana Akuraba.
+We have a long journey ahead; we can’t afford to bring along a rat.
 
-"It's Schuitz's decision."
+***
 
-Jun, the paladin.
+The execution took place that night, witnessed by all the members.
 
-"..."
+We chose decapitation, the simplest method during wartime.
 
-They all looked at me.
+Hanging required too much preparation and was bothersome, plus I sensed everyone wanted blood.
 
-My decision was already made.
+Swish—!
 
-"We execute him."
+The execution ended with a single stroke, literally.
 
-I wasn't going to drag a rat along on this long journey.
+However, some were still unsatisfied and approached the lifeless corpse to spit on it.
 
----
+Well, explorers do hate traitors more than looters.
 
-The execution took place that night, with all the expedition members present.
+“Where are you going…?”
 
-I chose the most efficient method, beheading.
+“Patrol.”
 
-Hanging would take too much time and effort, and I could feel their bloodlust.
+After the execution, I immediately withdrew and headed to the outskirts.
 
-Swish!
+And then…
 
-It was over in an instant.
+[The character has equipped No.6111 Fate Tracker]
 
-Some members, still unsatisfied, spat on the cooling corpse.
+I put on the ring I had been carrying in my pocket.
 
-Explorers hated traitors more than looters.
+But what’s this now?
 
-"Where are you going...?"
+[The ring has detected character’s fate]
 
-"Patrol."
+I thought the light would go out now that we’d caught the traitor.
 
-I left the execution site and walked towards the edge of the camp.
+But as soon as I wore it, the ring emitted a soft glow.
 
-And...
+Swoooosh—
 
-「Character has equipped No. 6111 Fate Tracker.」
+Seeing the color, I let out a deep sigh.
 
-I put on the ring.
+Well, at least it’s turned yellow now, so I guess that’s some relief.
 
-But...
-
-「The ring has detected the character's fate.」
-
-The ring glowed again.
-
-Swaaaaaaaaaa!
-
-I sighed as I checked the color.
-
-Well, at least it had changed to yellow.
+Continue reading the chapters here

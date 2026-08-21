@@ -1,545 +1,532 @@
-# Big Fish 3
+The Big Fish (3)
 
-There are two types of people in this world.
+There are two types of people in the world.
 
-Those who focus on the results, and those who focus on the process.
+Those who value results, and those who value the process.
 
-I'm the former.
+If I had to choose, I belong to the former.
 
-As long as the outcome is good, I don't care about the process.
+As long as the result is good, the process doesn’t really matter.
 
-In that sense, the current situation wasn't bad.
+In that sense, the current situation isn’t too bad.
 
-'As long as the Count withdraws his lawsuit, it's a win.'
+‘After all, as long as the count withdraws the lawsuit, we’re good.’
 
-If they interfered with our raid and revealed their connection to Count Alminus, it would be enough to force him to back down.
+Simply put, if those guys directly interfere with our raid and we can prove they’re from the Count Alminas’ house, then our objective is met.
 
-Interfering with an authorized guild raid?
+If so, instead of just asking the Count to withdraw the lawsuit, it might be possible to extract some money from him as well.
 
-It was a serious offense.
+‘The success rate of the raid was low anyway, so this works well’
 
-I could even demand compensation from him.
+My strategy almost guarantees survival, but we would lack the firepower to finish things off at the last moment.
 
-'The raid's success rate was low anyway...'
+To be honest, if Erwin hadn’t absorbed Riakis’ essence this time, I wouldn’t have even dared to attempt this.’
 
-That's why I had been hoping for this scenario.
+Anyway, taking all these factors into account, I estimated the success rate of the raid to be around 20%.
 
-My strategy almost guaranteed survival, but we often lacked the firepower to land the final blow.
+With such a high chance of failure, the emergence of a higher-probability option is something to celebrate.
 
-'If Erwen hadn't absorbed the Riakis essence, I wouldn't have even considered this raid.'
+We can always go after the Floor Lord, but the lawsuit with Count Alminas is a quest that needs to be resolved as soon as possible.
 
-Anyway, considering all the factors, I estimated our chances of success at around 20%.
+[Something in the darkness is watching you]
 
-It was a risky gamble, but it was better than the alternative.
+OK, I can feel a chill running down my spine, which means the summoning condition has most probably been met.
 
-We could always try the raid again later.
+“Don’t let your guard down. From now on, it could be summoned at any moment.”
 
-But the lawsuit was a more pressing issue.
+We kept our formation, ready to fight at any moment.
 
-「Something in the darkness is watching you.」
+The reason is simple.
 
-Okay, I could feel the tension rising.
+We need to summon it and make it look like we’re actually going to defeat it – otherwise those guys won’t rush out.
 
-The summoning conditions were almost met.
+They know we’re wearing body cams, so they’ll probably wait for the most crucial moment.
 
-"Don't let your guard down. He could appear at any moment."
+“Vercil, how’s the recording crystal?”
 
-We maintained our formation, ready for battle.
+“Don’t worry. I’ve checked it several times and it works fine.”
 
-We had to summon the Floor Lord and make it look like we were actually trying to kill him.
+“Then I’m counting on it.”
 
-'They know we're recording this, so they'll probably wait for the most opportune moment.'
+As we went over our plan once more, a change occurred in our surroundings.
 
-"Bersil, is the recording crystal working?"
+「Something in the darkness harbors hatred towards you.」
 
-"Don't worry. I've checked it several times."
+Yes, the probability has increased again.
 
-"Good."
+“Bjorn… doesn’t it feel colder?”
 
-I briefed my teammates on the plan one more time.
+Surprisingly, Aynar was the first to notice the change. Well, they say animals sense earthquakes
+first.
 
-And then...
+“Get ready. It could appear at any moment now.”
 
-「Something in the darkness feels hatred towards you.」
+At my warning, everyone tensed and adjusted their positions.
 
-The probability had increased.
+And how much time had passed?
 
-"Bjorn... it's getting colder, isn't it?"
+Thud thud thud.
 
-Ainar was the first to notice the change.
+The cave walls shook violently, and the crystals that had lost their light began to emit a fierce red glow.
 
-She was surprisingly sensitive to environmental changes.
+[Special condition – the faith of the five has been fulfilled]
 
-"Get ready. He'll be here soon."
+[The Lord of Fear, Dreadfear, tests the faith of the pilgrims]
 
-My teammates tensed up, gripping their weapons.
-
-And after a while...
-
-Rumble.
-
-The cave walls shook, and the crystals that had lost their light began to glow crimson.
-
-「Special Condition - Five Believers has been met.」
-
-「Dreadfear, the Lord of Terror, tests the faith of the pilgrims.」
-
-He had appeared.
+It has appeared.
 
 ---
 
-Dreadfear, the Lord of Terror.
+The Lord of Fear, Dreadfear.
 
-The 1st-floor Floor Lord, summoned when five or more explorers gathered in a specific location after the 3rd day.
+A first floor floor lord that can be summoned by chance when five or more people gather in one place after the third day.
 
-His appearance was dramatic.
+Its summoning effect is simple.
 
-Rumble!
+Thud thud thud!
 
-The ground shook.
+The ground shakes.
 
-Swaaaaaaaaaa!
+Whoosh!
 
-The dark cave was bathed in crimson light.
+The dark field turns red.
 
-「Rising Terror.」
+[Creeping Fear]
 
-「The Bonding spell has been deactivated.」
+[The character’s binding magic has been dispelled]
 
-The Bonding spell of those who had met the summoning conditions was deactivated.
+The binding magic of those who meet the summoning requirements is dispelled.
 
-And...
+And then…
 
-「Character's vision is limited to a 2-meter radius.」
+With limited visibility, the creature slowly approaches.
 
-Our vision was restricted.
+“It’s this way.”
 
-"...He's over there."
+Through a dark, red-lit corridor.
 
-A dark, red-lit passage.
+Tsuk-!
 
-Squish-
+We quickly adjust our formation in the direction of the sound.
 
-We turned towards the sound.
+Tsuk.
 
-Squish.
+The sound of something hitting and falling came closer.
 
-A strange, wet sound, like something sticking to the floor and then being pulled away.
+Squelch.
 
-Squish-
+It was the sound of something sticking and peeling away from a flat surface, coming closer and closer.
 
-Our vision was limited to a 2-meter radius.
+Squelch
 
-And then, he appeared.
+Our field of vision was only about two meters.
 
-"...Ugh."
+Soon, at the very edge of that limited vision, the creature showed itself.
 
-Bersil gagged, covering her mouth.
+“…Urk.”
 
-She had a weak stomach.
+Vercil gagged and covered her mouth.
 
-"I've heard stories, but... it's truly horrifying."
+It seems our mage’s stomach isn’t strong.
 
-It was.
+“I’ve heard of it, but… it’s really terrible.”
 
-Even the best illustrators couldn't capture the true horror of these monsters.
+Yeah, tell me about it.
 
-Squish-
+Even well-drawn illustrations can’t compare to reality, as I felt with the corpse golem.
 
-He was about 5'4".
+Like the monstrosity in front of us now.
 
-Much smaller than Riakis, the Chaos Lord.
+Squelch
 
-Dreadfear was a humanoid monster.
+Its height is about 1.6 metres.
 
-Squish-
+Compared to Riakis, the Lord of Chaos, Dreadfear’s body is quite small. It’s a humanoid monster.
 
-Two arms, two legs.
+Squelch-
 
-He walked upright, wielding a bone greatsword.
+It has two arms and two legs.
 
-But that didn't mean he looked human.
+It walks upright and wields a greatsword made of bone.
 
-'Zombies are also humanoid monsters, technically.'
+But just because it’s humanoid doesn’t mean it’s in decent shape.
 
-Dreadfear was similar.
+Zombies are also technically humanoid monsters.
 
-He had the basic shape of a human, but the details were obscured.
+The Dread Fear gives off a similar vibe.
 
-He was covered in maggots.
+You can tell it has the basic structure of a human, but it’s hard to make out its exact shape.
 
-Squish-
+It’s covered in thumb-sized maggots.
 
-Each step he took produced a sickening sound.
+Squelch
 
-Thud.
+Which produce a revolting, wet sound every time it moves.
 
-The maggots that fell from his body wriggled on the ground.
+Plop.
 
-"...I understand why explorers avoid this place."
+As it walks, maggots fall to the ground behind it and squirm.
 
-"Phew..."
+“I can see why explorers avoid it.”
 
-Even Amelia and Erwen, who were usually unfazed by grotesque sights, looked uncomfortable.
+“Hoo…”
 
-Only Ainar seemed to be enjoying the show.
+Erwin and Amelia didn’t gag like Versil, but their expressions didn’t look good. They both had a look on their faces that said they’d rather die than deal with this.
 
-"Oh! That's him? He looks weaker than I expected."
+The only one who enjoyed the moment was Ainar.
 
-Right, someone had to be entertained.
+“Oho! Is that the thing? It looks weaker than I expected!”
 
-"Haha! What are you all so scared of?! He doesn't even smell that bad!"
+Yeah, we need at least one character like this.
 
-I sighed inwardly at his naive comment, but then I remembered the stench of the Corpse Golem, and I felt a little better.
+“Hahaha! Why is everyone like this? Cheer up! It might look like that, but it doesn’t smell, right.
 
-Maybe misery really did love company.
+I sighed to myself at the sight of Dreadfear’s appearance, but then I remembered the foul smell of the corpse golem and felt a little better.
 
-"Enough chatter."
+Maybe humans really are motivated by the fact that things could always be worse.
 
-It was time to focus.
+“Enough chatter.”
 
-Squish-
+It was time to focus on the situation.
 
-Dreadfear stopped at the edge of our vision.
+Squelch—
 
-He was small, but he exuded a powerful aura.
+Dreadfear stopped at the edge of our vision. Even though its body is smaller than mine, it exuded an enormous sense of pressure.
 
-Therefore...
+So…
 
-"Behel—laaaaaaaaaa!"
+“Bet-hel-Raaaahhhh!”
 
-I charged at him.
+I charged at it first.
 
-The best way to overcome fear was to face it head-on.
+The best way to overcome fear is to face it head on.
 
-[Kyiieeeeeeek!]
+[Kyaaaahhh-!]
 
-He roared and swung his maggot-covered greatsword.
+Just as I made my sudden dash, it opened its mouth – teeming with maggots – and swung its great sword.
 
-Klang-!
+Or should I say maggot sword?
 
-The impact was surprisingly powerful.
+Boom!
 
-It was almost as strong as Riakis's attacks.
+The impact is incredible for such a small body.
 
-But there was something more pressing.
+In terms of physical damage, it rivals Riakis.
 
-Thud, thud-
+But there’s something else to worry about.
 
-The maggots that fell from his body crawled towards me.
+Plop, plop –
 
-'In the game, it was just an aura skill...'
+Like shaking out a broom, maggots fell onto me in clumps.
 
-But this was different.
+‘Damn, in the game, this was just an aura skill.’
 
-「Character has been infected with [Gnawing Terror].」
+What kind of aura skill is this?
 
-「Mental stat continuously decreases.」
+「The character has been infected with [Gnawing Fear].」
 
-「Dreadfear's Rage increases proportionally to the damage received by the character.」
+「The character’s mental stat is continuously decreasing.」
 
-The maggots crawled on my skin.
+「Dreadfear’s rage increases proportionally to the damage the character takes.」
 
-It felt itchy and painful.
+The maggots crawl on my skin.
 
-My Physical Resistance didn't help.
+It’s not just itchy, it stings.
 
-「Bersil Gowland has cast the 5th-grade Sun Magic [Holy Flame].」
+Well, this isn’t something that can be blocked by physical resistance.
 
-Bersil, as instructed, cast a buff on me.
+「Vercil Gowland has cast Level 5 Sun Magic [Sacred Flame].」
 
-It was the key to the 1st phase.
+As per my earlier order, Vercil quickly buffed me.
 
-I had recommended the same strategy to the Ghostbusters when they were selling the Dreadfear guide.
+This is the key spell for the first phase.
 
-Well, there were other options...
+When I sold the Floor Lord strategy on the first floor of Ghost Busters, I also recommended it.
+
+Well, it’s not like there aren’t alternatives…
 
 Whoosh-!
 
-...but this was the easiest and most effective.
+But this is the easiest to get and the most effective.
 
-When in doubt, burn it.
+After all, if you’re worried about parasites, you need to cook them thoroughly, right?
 
-「[Gnawing Terror] has been dispelled.」
+「[Gnawing Fear] has been removed.」
 
-Okay, that took care of the aura.
+Okay, so that takes care of the aura problem.
 
-Klang-!
+Just as I was getting used to the pattern of dodging the Dreadfear’s blows, maggots the size of human heads started crawling out of the cave’s outer walls.
 
-I blocked Dreadfear's attacks, getting used to his patterns.
+These are the typical token-type monsters of Phase 1.
 
-And then...
+I didn’t worry about them, of course.
 
-Giant maggots, the size of human heads, started crawling out of the cave walls.
+Boooom-!
 
-They were the token monsters of the 1st phase.
+Aynar and Vercil, both specialising in wide-area attacks, handled those mobs.
 
-But I didn't have to worry about them.
+So now we have two people left.
 
-Kaboom-!
+But I’ve put them on standby.
 
-Ainar and Bersil, who specialized in AoE attacks, would handle them.
+“Emily, what about them?”
 
-So we had two people left.
+We’re not just dealing with the Floor Lord here.
 
-But I had ordered them to wait.
+We have to keep an eye on the situation.
 
-"Emily, where are they?"
+But…
 
-We weren't just fighting Dreadfear.
+“Not yet. They’re keeping their distance and watching.”
 
-We had to observe the situation.
+So they intend to watch during Phase 1.
+Well, that makes sense from their point of view. They don’t know if our strategy is going to work yet…….
 
-But...
+If they’re going to interfere, there’s a better time for that.
 
-"...They're still watching us from a distance."
+Yeah, in that sense.
 
-So they were waiting for the 1st phase to end.
+“Erwin, what time is it?”
 
-It made sense.
+I checked the current time.
 
-They weren't sure if we could actually kill him, and...
+“It’s 19:57.”
 
-The best time to interfere was later.
+About four hours left until the first floor closes.
 
-So...
+Man, if it had come a bit later, it would have been more convenient for everyone.
 
-"Erwen, what time is it?"
+I decided it was time to move on to phase 2.
 
-I checked the time.
+From the looks of it, they won’t interfere in the first phase…
 
-"7:57 PM."
+And the Dread Fear raid is all about time management.
 
-About four hours until the floor closed.
+This bastard gets buffs in every phase.
 
-'If they had waited a little longer...'
+‘In phases 1 and 2, every 5 minutes after being summoned.’
 
-It was time to move on to the 2nd phase.
+It’s best to skip the first buff if possible. The buffs in each phase stack until the raid ends.
 
-They weren't planning to interfere in the 1st phase...
+“Emily, keep watching them. Erwin, you start now.”
 
-And time was of the essence in a Dreadfear raid.
+So I began the real strategy.
+Even though Erwin is the only DPS, as the raid leader I didn’t feel any lack.
 
-He received a buff every five minutes in each phase.
+With the Floor Lord’s essence in hand, Erwin is now on a different level.
 
-'In the 1st and 2nd phases, it's every five minutes after he spawns.'
+[Erwin Fornaci di Tercia has summoned [Dark Spirit King Dichloe]
 
-Ideally, we would skip the first buff.
+The instant I gave the go-ahead, Erwin used her ultimate skill according to the raid plan.
 
-The buffs stacked throughout the raid.
+And then…
 
-"Emily, keep an eye on them. Erwen, you can start now."
-
-We began the raid.
-
-We only had one damage dealer, but I wasn't worried.
-
-Erwen had absorbed a Floor Lord essence. She was on a different level now.
-
-「Erwen Fornachi di Tersia has summoned [Dicloe, the Dark Spirit King].」
-
-As soon as I gave the order, Erwen unleashed her ultimate skill.
-
-And...
-
-Kaboom! Kaboom! Kaboom-!
+Boom, boom-boom, BOOOOM—!
 
 It took exactly 15 seconds.
 
-For Dreadfear's 1st phase to end and the next pattern to begin.
+From the moment Dreadfear’s first phase ended until its next pattern began.
 
-「The resentment within Dreadfear awakens.」
+「The grudge dwelling within the Lord of Fear, Dreadfear, awakens.」
 
-The echoes of Erwen's attack still lingered in the cave.
+In the cavern, still echoing with the aftermath of Erwin ’s barrage—
 
-Thud, thud-
+Squelch, thunk—
 
-The maggots that had covered his body fell to the ground, motionless.
+Like a snake shedding its skin, the maggots that had completely covered its body went still and fell to the ground.
 
-But we still couldn't see his face.
+Yet, even then, you still couldn’t see the creature’s face.
 
-Black smoke billowed from beneath the maggots, enveloping his body.
+Beneath the swarm of maggots that had wriggled all over it, black smoke now swirled and enveloped its body.
 
-'Okay, so the 1st phase is over...'
+So that’s the end of the first phase for now…
 
-I quickly assessed the situation.
+I made a quick status check.
 
-She had used about half of her MP in 30 seconds.
+I did a quick status check.
 
-"Erwen, you can rest now. And keep an eye on the outsiders."
+Last time she was able to maintain the summon for 30 seconds on full mana, so she must have used about half of her MP by now.
 
-I sent Erwen to the back to recover her MP.
+“Erwin, take a break now. If possible, keep an eye on those guys”.
 
-And...
+I pulled Erwin from combat to recover her MP.
 
-"Amelia."
+And then…
 
-As soon as Amelia took her place...
+“Emily.”
 
-Crack, crack.
+As soon as I switched roles with Amelia.
 
-The maggot corpses on the ground started hatching.
+Tududuk, tuduk.
 
-And...
+The bodies of the maggots scattered on the ground cracked open like eggs.
 
-[Kyiyeeeeeek!]
+At the same time…
 
-[Kihihihi! Kihihihihi!]
+[Kyaaaaah-!!]
 
-Black smoke emerged from the cracked shells, forming screaming, giggling figures.
+[Kihihihihi, kihihihihihi!!]
 
-Ainar shrieked.
+The black mist that came out of the maggots flew around, screeching and cackling grotesquely.
 
-"E-Eek! Bjorn! W-What is that?!"
+Startled, Aynar screamed.
 
-Right, she was afraid of ghosts.
+“Ew, ew, Bjorn, what the hell!”
 
-Whoosh! Whoosh!
+Then I remembered.
 
-She swung her greatsword wildly, but it passed through the smoke harmlessly.
+She’s not afraid of bugs, but she’s afraid of ghosts.
 
-They weren't monsters.
+Whoosh-! Whoosh-!
 
-「Character has been exposed to [Infiltrating Dread].」
+Aynar panicked and swung her greatsword wildly through the air.
 
-「Mental stat continuously decreases.」
+But the sword only passed through the mist, causing no damage to its target.
 
-「Accuracy is greatly reduced, and there is a chance of attacking nearby allies.」
+That’s because the mist is not classified as a monster.
 
-The aura effect of the 2nd phase.
+「The character has been exposed to [Seeping Fear].」
 
-"Erwen, where are they?"
+「The character’s mental stat is continuously decreasing.」
 
-"...Still there. They haven't moved."
+「Accuracy is significantly reduced, and there is a chance to attack nearby allies.」
 
-Hmm, they had noticed the end of the 1st phase, but they were still waiting...
+The aura effect of the second phase.
 
-They were planning to skip the 2nd phase too—?
+“Erwin, what about them?”
 
-[Kyiyeeeeeek!]
+“Still there. They haven’t moved.”
 
-They were wrong.
+Hmm, they must have noticed that the first phase has ended, but they’re still holding back…
 
-「Character has cast [Iron Fortress].」
+Looks like they’re planning to let the second phase pass as well…
 
-「The effect of [Evolved Hide] is increased by 1.5 times.」
+[Kyaaaaaah-!]
 
-Unlike the 1st phase, I activated [Iron Fortress] and blocked the attack with my sword.
+I was just thinking that, when—
 
-Klang-!
+「Your character has cast [Iron Skin] 」
+「The effect of [Evolved Shell] is increased by 1.5 times.」
 
-I had a reason.
+Unlike in Phase 1, I boosted my physical defense and took the brunt of the attack.
 
-His physical attack power hadn't increased much...
+Boom—!
 
-But there was something else I had to tank.
+There’s a simple reason for this.
 
-"Amelia Rainwales has cast [Abyssal Strength]."
+While its physical damage hasn’t increased drastically from Phase 1…
 
-"[Infiltrating Dread] causes Amelia Rainwales's attack to miss."
+It’s not the only thing hitting me now.
 
-Amelia's dagger, its trajectory distorted by the aura, flew towards me.
+Like this—
 
-Slash-!
+「Amelia Rainweilz has cast [Power of the Abyss].」
+「Amelia Rainweilz’s attack has missed due to [Creeping Fear].」
+
+Defying normal physics, Amelia’s dagger veered off course and flew straight at me.
+
+Slash!
 
 That damned aura.
 
-"...Are you okay?"
+“Are you OK?”
 
-"I'm fine, don't worry about me."
+“I’m fine, don’t worry about me.”
 
-The tank's role was crucial in the 2nd phase.
+In the second phase, the role of the tank is crucial.
 
-Whether it was a ranged or melee attack, the aura targeted the closest person to the boss.
+Whether it’s ranged or melee, when the aura bursts, the person closest to the boss mob becomes the target.
 
-So the standard strategy was to have multiple tanks and a healer, focusing on DPS.
+That’s why the standard strategy is to have multiple tanks and priests to quickly chip away at its health.
 
-But...
+But…
 
-"Behel—laaaaaaaaaa!"
+“Bethel-raaaaaaaaaaaaa!”
 
-We had to make do with what we had.
+If you don’t have teeth, chew with your gums.
 
-"Yandel, it's better to disable the aura—"
+“Jandel, it might be better not to use the aura at this point…”
 
-"I'm fine, just keep attacking."
+What is she talking about?
 
-I ignored Amelia's concern and stayed close to Dreadfear.
+“I’m fine, keep going.”
 
-It wasn't pleasant to be hit by my teammates' attacks... but it couldn't be helped.
+I brushed off Amelia’s concern and clung stubbornly to Dreadfear.
 
-A warrior's heart was unyielding.
+Although it wasn’t pleasant to be hit by a comrade’s weapon every time there was a miss, what could I do about it?
 
-I would endure as long as he did.
+What’s always important is an unbreakable spirit.
 
-「[Infiltrating Dread] causes Ainar Frenelin's attack to miss.」
+If I think, ‘Each time I’m hurt, that monster’s also taking damage,’ I can endure just about anything.
 
-「Dreadfear, the Lord of Terror, has cast [Plague Spread].」
+「Aynar Pheneline’s attack misses due to [Seeping Fear].」
 
-I stayed close to him, dodging his attacks and creating openings for my teammates.
+「The Lord of Fear, Dreadfear has cast [Plague Spread].」
 
-And then...
+Anyway, we kept pressuring it, backing off in time whenever it used a skill, carefully advancing our strategy.
 
-「Resentment deepens.」
+「The grudge deepens further.」
 
-The 2nd phase buff activated.
+That was the buff for the second phase.
 
 「All aura effects are permanently enhanced.」
 
-Five minutes had already passed.
+Huh, has another 5 minutes already passed?
 
-We had to minimize the number of aura buffs.
+It’s best to take as little of the second phase aura buff as possible.
 
-「Ability stat continuously decreases.」
+「The character’s mental stat is continuously decreasing.」
 
-I was getting anxious.
+I’m starting to feel a bit impatient.
 
-Dreadfear became more and more difficult the longer the fight dragged on.
+This is the tricky part about Dreadfear.
 
-But...
+This monster becomes unbeatable in a prolonged battle.
 
-'He's a glass cannon.'
+But…
 
-Amelia and Ainar had been focusing on DPS, ignoring the aura.
+‘On the flip side, it’s fragile.’
 
-「Resentment deepens.」
+Thanks to Amelia and Aynar swinging their swords throughout the fight without worrying about tanking…
 
-「Physical stat continuously decreases.」
+「The resentment grows deeper.」
 
-「Resentment deepens.」
+「The character’s physical stat is continuously decreasing.」
 
-「The decrease is amplified by 50%.」
+「The resentment grows deeper.」
 
-「Resentment deepens.」
+「Decreased stats are increased by 50%.」
 
-「Dreadfear's Rage increases proportionally to the decrease.」
+「The resentment grows deeper.」
 
-By the time the fourth buff activated, his HP was low enough for us to move on to the next phase.
+「Dreadfear’s rage increases proportionally to the decreased stats.」
 
-It was a little disappointing.
+By the time the fourth buff went off, we’d managed to push it into the next phase.
 
-'...We should have ended it at the third buff...'
+I still felt a little regretful.
 
-Our chances of success had decreased.
+Damn. We really should’ve finished it before the third buff ended.
 
-But I quickly dismissed the thought.
+This reduces our chances of succeeding in the raid.
 
-The raid wasn't our main objective.
+But I quickly shook off the feeling of disappointment.
 
-[Kyiyeeeeeek!]
+After all, the raid isn’t our real goal here.
 
-As Dreadfear shrieked in pain...
+[Kyaaaaah-!!!]
 
-Swaaaaaaaaaa!
+The moment Dreadfear let out a scream of agony –
 
-...the black smoke that had been swirling around him was sucked back into his body.
+Whooooosh-!
 
-And...
+All the black mist that was screeching and whooping around us was sucked back into its body.
 
-「The hatred within Dreadfear awakens.」
+And then…
 
-The 3rd phase began.
+[The hatred that dwells within the Lord of Fear, Dreadfear, awakens.]
 
-"Mister! They're moving!"
+Just as the third phase began –
 
-Finally, the fish had taken the bait.
+“Hey! They’re on the move!”
+
+Eventually the fish that bit the bait began to thrash.

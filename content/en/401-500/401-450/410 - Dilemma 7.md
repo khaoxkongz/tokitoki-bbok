@@ -1,467 +1,438 @@
-# Dilemma 7
+Dilemma (7)
 
 Once, twice, three times, four times.
 
-With each attempt to contact the main force, a sense of dread washed over me.
+The more we tried to connect with the main force, the deeper the ominous feeling sank into my bones.
 
-But there was nothing else I could do.
+There’s nothing else I can do.
 
-"Try again."
+“Try one more time.”
 
-"Yes, sir..."
+“Yes, sir…”
 
-We could only keep trying.
+All we can do is keep attempting.
 
-But no matter how many times we tried, we couldn't reach them.
+However, even after several more tries, we still failed to connect with the main force.
 
-'...What's going on?'
+‘…What in the world happened?’
 
-Our original plan was simple.
+Originally, our expedition plan was as follows:
 
-1. Infiltrate and attack Noark's base.
+Launch a surprise attack and infiltrate the enemy’s base.
+Use the Eye of the Sky to contact the main force waiting in the Dragon Mountain Range.
+Destroy the target and escape, then rendezvous with the main force who would come to meet us.
+The key point of this plan was that the main force would concentrate their power temporarily to break through a section of the front line, then meet us at the rendezvous point so we could retreat together.
 
-2. Contact the main force at the Dragon's Mountain Range using the Sky Eye.
+But…
 
-3. Destroy the target and escape, rendezvousing with the main force.
+“It’s no use. We can’t connect.”
 
-The main force would create a breach in the enemy lines and meet us at the rendezvous point. They would then escort us back to safety.
+The most crucial part of the plan—contacting the main force—had failed.
 
-But...
+‘Could it be… they’ve abandoned us?’
 
-"It's not working."
+For a brief moment, the worst-case scenario crossed my mind, but I quickly shook my head.
 
-We couldn't contact the main force.
+The royal family wouldn’t discard a force of this size so casually. They had no reason to.
 
-'Did they abandon us?'
+Something must have happened on their end. Even in the worst-case scenario, there was only one thing I could do.
 
-That thought crossed my mind, but I quickly dismissed it.
-
-Would they really abandon a force this large?
-
-It didn't make sense.
-
-Something must have happened to them.
-
-And even if they had abandoned us, there was only one thing I could do.
+The same thing I’ve done since the first day I opened my eyes in this body.
 
 Survive.
 
-"Leader! How long do we have to hold out?!"
+“Captain! How long do we have to hold out?!”
 
-"Priest Cambel says he's at his limit!"
+Before making my decision, I took a moment to organize my thoughts.
+
+“Priest Cambel says he’s reaching his limit!”
 
 Time was running out.
 
-We had to make a decision.
+We have to do the best we can with our limited resources.
 
-What was the best course of action for our survival?
+What will most aid our survival?
 
-I made my decision.
+It didn’t take me long to decide.
 
-It might not be the best choice...
+Though I’m not sure if this is the best possible choice.
 
-But it was the only one I could think of.
+Tuk, tuk.
 
-"Akuraba."
+Alright, let’s go with this for now.
 
-"Yes, sir."
+No better idea is coming to mind anyway.
 
-"Remove the communication coordinates."
+“Akuraba.”
 
-We had been trying to contact the main force at their designated frequency.
+“Yes?”
 
-But...
+“Deactivate the coordinate lock for communication completely.”
 
-"Sir? That means our messages will be broadcast across the entire continent..."
+So far, we’ve been attempting to contact the main force by dialing their designated communication coordinates.
 
-"That's what I want."
+But…
 
-There was no point in leaving unanswered calls.
+“What? If we do that, everything we say will be broadcasted without restriction across the entire region…?”
 
-"...I understand."
+“That’s exactly what I want.”
 
-Akuraba hesitated, but eventually agreed.
+There’s no point in leaving missed messages for someone who’s not answering.
 
-And...
+“…Alright.”
 
-"It's done. I've set the bandwidth to maximum."
+Akuraba, understanding my intentions perfectly, hesitated for a moment but eventually agreed without objection.
 
-She handed me the message stone.
+And…
+
+“All set. The bandwidth is also at maximum.”
+
+Akuraba handed me the message stone after adjusting the settings.
 
 Click.
 
-I pressed the button.
+I carefully pressed the button.
 
 I was a bit nervous.
 
-This was like broadcasting on a radio.
+Right now, this device is set to a broadcasting mode similar to a radio transmission.
 
-Anyone with a message stone, friend or foe, would hear our message.
+This means the transmission will be heard all over the continent by anyone who has their message stone activated, regardless of whether they are friend or foe.
 
-But...
+But…
 
-"Listen up."
+“Everyone, listen.”
 
-[Listen up.]
+[Everyone, listen.]
 
-The message echoed from every active message stone in the vicinity.
+Our transmitted voice echoed through all the activated message stones nearby.
 
-It was the main force's fault.
+This is all the main force’s fault for not responding.
 
-They weren't answering our calls.
+I don’t know what’s keeping them so busy, but what else can a barbarian do when the main force is ignoring us?
 
-What else could I do?
+“The Eye of the Sky has been destroyed.”
 
-"The Sky Eye is destroyed."
+[The Eye of the Sky has been destroyed.]
 
-[The Sky Eye is destroyed.]
-
-I had to force them to listen.
+At this point, I could only hammer my voice into their ears.
 
 ---
 
-A barren plain, shrouded in a gloomy haze.
+A dreary, barren plain stretching endlessly.
 
-And...
+And there…
 
-"..."
+“….”
 
-The shattered remains of the Sky Eye.
+…lay the shattered remains of the Eye of the Sky.
 
-Swoosh.
+A man pulled off his robe, revealing the face hidden beneath.
 
-A man removed his robe, revealing his disfigured face.
+His skin looked like it had been drenched in some acidic substance.
 
-His skin was scarred and blistered, as if it had been burned by acid.
+“…What happened here?”
 
-"...What happened here?"
+The man with the grotesque face glanced around, and those who met his gaze were quick to avert their eyes.
 
-The man's gaze swept across the area, and those who met his eyes quickly looked away.
+“You.”
 
-"You."
+The man reached out and grabbed the nearest explorer by the neck.
 
-He grabbed the nearest explorer by the throat.
+“Cough, cough! Pl-Please spare me, Lord Regal Vagos!”
 
-"G-g-guh! P-please spare me! Regal Vagos, sir!"
+“If you want to live, speak up. What happened here?”
 
-"If you want to live, tell me what happened."
+“I-I’ll tell you…! I’ll tell you everything without hiding anything!”
 
-"I-I'll tell you everything! Everything!"
+The trembling explorer spilled his story, and Vagos loosened his grip slightly, willing to hear him out.
 
-The explorer's desperate plea made Regal Vagos loosen his grip.
+[Let me repeat: the Eye of the Sky has been destroyed.]
+[We are heading to the extraction point now.]
 
-He had to hear his story before punishing him.
+The message stone had gone silent after that final transmission, leaving Regal Vagos in the dark about the events that had unfolded.
 
-[I repeat, the Sky Eye is destroyed.]
+“So, let me get this straight: they openly attacked, destroyed the Eye of the Sky, and escaped using mass teleportation—all while you just stood there and watched?”
 
-[We're heading to the rendezvous point.]
+As the details emerged, an overwhelming tide of fury surged within him.
 
-The message stone went silent.
+“Th-that’s because… when you took the main forces out on an expedition—”
 
-He had rushed back with his troops after receiving the message, but he still didn't know what had happened.
+“You’re blaming me?”
 
-So...
+“Gu- guhuck! No, that’s not what I mean! It-it’s just because they cowardly brought monsters with them…! We-we were outmatched!”
 
-"So you're telling me... they attacked, destroyed the Sky Eye, and escaped with mass teleportation, and you just stood there and watched?"
+“…Useless trash.”
 
-He felt a surge of anger.
+His grip tightened again. The explorer, sensing his death, blurted out a name in desperation.
 
-"Th-they... they outnumbered us... Regal Vagos, sir... you took most of our troops..."
+“T-Titana Akuraba!”
 
-"Are you blaming me?"
+“Titana Akuraba…?”
 
-"N-no, sir! I-I just meant... they ambushed us with monsters...! W-we were overwhelmed...!"
+Regal Vagos froze for a moment, recognizing the name.
 
-"...Useless fool."
+She was a legendary explorer from the era when he joined Orcules.
 
-Regal Vagos tightened his grip, and the terrified explorer blurted out a name.
+“That old crone was there?”
 
-"T-Titana Akuraba!"
+“S-she wasn’t the only one! The Golden Falcon, James Carla! The White Blade, Kaislan! There were so many famous explorers! Please, spare me!”
 
-"Titana Akuraba...?"
+The explorer begged for his life, trembling. At that moment, another man approached from a distance.
 
-He knew that name.
+“Lord Vagos, that’s enough. There’s nothing they could have done.”
 
-She was one of the most famous explorers of his generation.
+Kael Elvad Genegger.
 
-"That old woman was there...?"
+He was Vagos’s advisor and strategist.
 
-"N-not just her! J-James Kala, the Golden Mage! K-Kaislan! There were too many famous explorers! Please have mercy...!"
+He had been the one to urge caution and guard the Eye of the Sky when news of the royal forces infiltrating Ice Rock first broke.
 
-The explorer begged for his life, his voice trembling, and a man approached them.
+And perhaps because of that, Vagos felt a mix of regret and resentment toward him.
 
-"Vagos, calm down. They did their best."
+“Kael, stay out of this. I’m simply delivering justice.”
 
-Cale Elbad Jeneger.
+“Then why him? Everyone here is equally responsible for failing to defend this place. It’s not fair.”
 
-He was Regal Vagos's advisor.
+“So you think I should punish all of them?”
 
-When they received the news about the royal expedition infiltrating through Ice Rock, he had advised caution and suggested they defend their base.
+The surrounding explorers flinched, and Kael sighed, pulling out his trump card.
 
-That's why...
+“…If you do, the Commander won’t stand for it.”
 
-Regal Vagos felt a pang of regret, but also a surge of defiance.
+The commander of Orcules.
 
-"Cale, stay out of this. I'm just disciplining them."
+The traitor, Ricardo Lühensprache.
 
-"Then why him? Everyone is responsible for failing to protect the base. It's unfair."
+“You bastard…!”
 
-"Then I'll punish them all."
+The mention of that name made Regal Vagos seethe, but he restrained himself.
 
-The other explorers flinched, and Cale sighed, playing his trump card.
+No matter how furious he was, even Vagos couldn’t ignore that name.
 
-"...The Captain won't be happy."
+“This is already a significant event. The commander will likely return from the front lines to assess the situation. Please, act wisely for now.”
 
-The leader of Orculus.
+“…Tch.”
 
-The Traitor, Ricardo Liuhen Praha.
+In the end, Vagos swallowed his anger.
 
-"You bastard...!"
+He couldn’t afford to give the commander any more ammunition to use against him.
 
-Regal Vagos grabbed Cale's collar, but that was all.
+But…
 
-He couldn't ignore that name.
+“The Blood Spirit Queen’s man? Rihen Schuiz?”
 
-"The Captain will be back soon. He'll want to know what happened. We should wait for his orders."
+“Yes! He was definitely the leader of the expedition. I heard them call him Schuiz, and he even used [Gigantification]!”
 
-"...Tsk."
+Hearing this, Vagos stiffened.
 
-Regal Vagos calmed down.
+The mention of [Gigantification] triggered a powerful sense of familiarity.
 
-He had already disobeyed the Captain's orders by leaving the base.
+“Kael!”
 
-He didn't want to cause any more trouble.
+“Yes, my lord?”
 
-But...
+“Bring me a message stone!”
 
-"The Blood Spirit Marquis's man? Lihen Schuitz?"
+Without hesitation, Kael handed him the device. Vagos activated it and played back the recorded transmissions.
 
-"Y-yes! I'm sure! He was the expedition leader! I heard them call him Schuitz! And... he used [Gigantification]!"
+[Me? I’m right in front of your house]
 
-Regal Vagos flinched as he investigated the one who had tricked him.
+[If you want to know, come find out.]
 
-[Gigantification]...
+[Good luck with that.]
 
-He felt a strange sense of familiarity.
+Just hearing that voice caused his fists to clench — that damn voice.
 
-"Cale!"
-
-"Yes, sir?"
-
-"Bring me the message stone."
-
-Cale obeyed without hesitation.
-
-Regal Vagos snatched the stone from him.
-
-And...
-
-Click.
-
-He played the recording.
-
-[Your backyard.]
-
-[You'll find out if you come here.]
-
-[Yeah, good luck with that.]
-
-The familiar voice that made his blood boil.
-
-He replayed the recording over and over.
+At the same time, he felt as if he’d heard it somewhere before.
 
 Click, click, click.
 
-And then he chuckled.
+Regal Vagos replayed the recorded message several times over, then finally loosened his grip and let out a bitter laugh.
 
-"...No wonder it sounded familiar."
+“…No wonder it sounded familiar.”
 
-He finally remembered.
+So that was it.
 
-[I repeat, the Sky Eye is destroyed.]
+At last, Regal Vagos realized who the voice belonged to.
 
-[We're heading to the rendezvous point.]
+[Again, I repeat. The Eye of the Sky has been destroyed.]
 
-The enemy he had forgotten for over three years, thanks to Amelia Rainwales' betrayal.
+[We are heading to the rendezvous area now.]
 
-The thief who had stolen his precious sword.
+Due to Amelia Rainweilz’s betrayal, he had been unable to recall this sworn enemy for over three years. Once his body healed and his memory returned, he realized it was that precious sword that had been stolen.
 
-He thought he was dead.
+A thief who’d stolen a treasured sword that cost him so much to acquire.
 
-"So you're alive."
+He had always assumed the thief was dead.
 
-The royal family must have known.
+“It appears he’s still alive.”
 
-Or they wouldn't have appointed him as the expedition leader.
+He suspected the royal family knew about the thief’s identity.
 
-"Bjorn Yandel."
+No, maybe the royal family had engineered his supposed death.
 
-He muttered the name, his voice filled with anger.
+Or they wouldn’t have placed a man called ‘the Man of the Blood Spirit Queen’ as the leader of an expedition involving a big shot like Akuraba.”
 
-"Cale! Gather the troops! We're going after them!"
+“Bjorn Jandel.”
 
-"But the Captain isn't back yet—"
+Remembering the anger from that day, Regal Vagos quietly muttered the name and stood up.
 
-"I'll take responsibility."
+“Kael! Gather all the troops. We are going after those who escaped right now!”
 
-It was time for a rematch.
+“But, sir, the Commander hasn’t returned—”
+
+“Enough. I’ll take full responsibility for this.”
+
+It’s time to meet him again.
 
 ---
 
+Several Days Later…
+
 Deadwood.
 
-A field located in the western region of the Dragon's Mountain Range.
+A field located west of the Dragon Mountains, an area which Noark considers its territory and where the royal army never managed to set foot during the war…
 
-It was firmly under Noark's control, and the royal forces had never breached its defenses.
+It’s also the predetermined rendezvous area we’d agreed upon with the royal family in advance.
 
-And...
+“…..”
 
-Our rendezvous point.
+We hold our breath while waiting there.
 
-"..."
+Trusting that if they hear our message, they’ll come to our rescue.
 
-We waited in silence.
+“….“
 
-We believed that the main force would come for us.
+Curled up on a branch of a lifeless tree, we endured the restless hours.
 
-"..."
+This was now our third day.
 
-We hid among the branches of giant, withered trees, our hearts filled with anxiety.
+“If they moved immediately upon receiving the message, they should have arrived yesterday.”
 
-It had been three days.
+“Why… aren’t they here yet?”
 
-"They should have arrived yesterday if they left immediately after receiving our message."
+“Sir Kaislan, lower your voice. We don’t have the energy to use voice suppression magic anymore.”
 
-"Why... why aren't they coming?!"
+Until yesterday, everyone had been hopeful, encouraging one another with thoughts of an imminent rescue.
 
-"Kaislan, keep your voice down! We can't use the voice control magic anymore."
+But now, tensions are rising.
 
-We had been encouraging each other, hoping for a swift rescue... but the mood was starting to turn sour.
-
-It was understandable.
+And understandably so.
 
 That morning, we had our first casualty.
 
-'Philip Aintropy.'
+Philip Aintrophy.
 
-He was an explorer on Melend Kaislan's team.
+He was an explorer belonging to Melend Kaislan’s team.
 
-A navigator.
+Class: Scout.
 
-He had specialized in navigation skills like [Current Control], [Weight Reduction], and [Over Supply].
+He primarily learned skills that would help in navigation, such as [Current Manipulation], [Lightening], and [Excess Supply]. He died in the battle that took place in the morning.
 
-He had died during a battle that morning.
+While we still had some spare mana, the mages had run out of stamina, causing our Stealth Magic to briefly disengage.
 
-We had enough mana to maintain the stealth magic... but the mages were exhausted.
+The Noark guys searching below discovered us, and Philip’s head was crushed during an intense combat when he attempted to fight them off, leading to his immediate death.
 
-The spell had momentarily deactivated.
+A few more hours passed since that incident.
 
-Noark explorers, who were searching the area, had spotted us.
+“Shuiz, it’s not safe here either.”
 
-We had been forced to fight, and Philip had been killed instantly. His skull had been crushed.
+The anxiety among the members had reached its peak.
 
-And now...
+It wasn’t surprising. Noark would have noticed the absence of their patrol by now.
 
-"Schuitz, this place isn't safe anymore."
+As time passes, their search efforts would intensify.
 
-The team members were panicking.
+In fact, the frequency of Noark soldiers passing beneath us had already increased significantly.
 
-They knew that Noark would eventually realize that one of their members was missing.
+“We need to make a decision.”
 
-They would intensify their search.
+“Hold on, make a decision? What do you mean?”
 
-We had already noticed an increase in enemy patrols.
+“We can’t stay here forever. If rescue isn’t coming, it’s better to abandon this place.”
 
-"We have to make a decision."
+“W-what are you saying?! Are you implying the royal family has abandoned us?!”
 
-"Wait, what do you mean? A decision?"
+“I didn’t say that. It’s just… we failed to establish contact as well. If they have some situation on their end, it would be wise for us to act accordingly.”
 
-"We can't stay here forever. If the rescue team isn't coming, we have to leave."
+“You may have a point, but I disagree. In our current exhausted state, how far can we even go? If we’re discovered along the way, we’ll be annihilated.”
 
-"...What?! Are you saying the royal family abandoned us?!"
+“So you suggest we keep waiting here? For how long? In two days, our mages will run out of mana. At that point, won’t we face annihilation anyway?”
 
-"I didn't say that. But... they're not responding to our messages... If something happened to them, we have to adapt."
+As is always the case in emergencies, opinions were sharply divided.
 
-"That makes sense, but I disagree. We're exhausted. How far can we go in this state? We'll be wiped out if they find us."
+‘Haah….’
 
-"So you're saying we should just wait here? For how long? The mages' mana will run out in two days! We'll be wiped out then!"
+I let out a deep sigh internally.
 
-The team was divided.
+Even without Akuraba pointing it out, I knew it already.
 
-'Damn it...'
+We have to make some sort of decision now.
 
-I sighed inwardly.
+‘This is maddening.’
 
-I already knew.
+We essentially have three choices.
 
-We had to make a choice.
+The first one is to stay here and quietly wait.
 
-'This is driving me crazy.'
+In the best case scenario, we’d all remain safe until the rescue force arrives.
+In the worst case, however…
+‘…We’d die here like dogs, fighting a losing battle.’
+The second choice is not to wait but to move on, directly breaking through to the area under the royal family’s control.
 
-We had three options.
+Deadwood is far less critical than the Dragon Mountains, so the front lines here are weaker and troop presence is lower.
 
-First, stay here and wait.
+We chose this rendezvous area precisely for that reason.
 
-The best-case scenario was a swift rescue.
+It’s not an utterly unreasonable plan.
 
-But the worst-case scenario...
+But…
 
-'We'll die here.'
+‘With fewer than thirty of us remaining, it would still be very difficult.’
 
-Second, break through to the royal faction's territory.
+It would be a miracle if even 10% of us survived to reach safety.
 
-Deadwood was less important than the Dragon's Mountain Range, so the enemy defenses would be weaker.
+In the worst-case scenario, the result would be the same as the first option.
 
-That's why we had chosen it as the rendezvous point.
+‘That leaves only one other choice…’
 
-It wasn't a completely impossible plan.
+The third choice is a kind of endurance strategy.
 
-But...
+Just like how the enemy base near the frontline was left empty, maybe we can hide somewhere behind their main lines until the labyrinth closes.
 
-'We're outnumbered.'
+‘We’ve destroyed the Eye of the Sky, so any detailed information about us might not have been fully transmitted.’
 
-Even if 10% of us survived, it would be a miracle.
+However, this option exposes us to danger for an extended period. We will inevitably face countless variables along the way.
 
-And the worst-case scenario would be the same as the first option.
+Even if we execute everything perfectly, there will be many casualties.
 
-'Should we go somewhere else?'
+‘In every choice, if we face the worst outcome, we all die.’
 
-The third option was a waiting game.
+That thought almost made me laugh.
 
-Just like their base was empty while the main force was at the front lines... there might be a safe haven somewhere else in the Dark Continent.
+I briefly think, since a total annihilation ending is possible with the worst outcomes anyway, maybe the best choice is the one where everyone lives in the best-case scenario: staying put and waiting.
 
-'We destroyed the Sky Eye, so they won't know our exact location.'
+If it fails, at least we can blame the royal family for failing us.
 
-But it was the riskiest option.
+“…No, that’s nonsense.”
 
-We would be exposed to countless variables for a longer period of time.
+“Huh? What did you just say, Commander Shuiz?”
 
-Even if everything went perfectly, there would be casualties.
+Ignoring Kaislan’s puzzled look, I spoke up.
 
-'We're all dead if it goes wrong, no matter what we choose.'
+Even if I’m not entirely confident in the decision, someone has to make it.
 
-I couldn't help but laugh.
+Tuk, tuk.
 
-If we were all going to die anyway...
+We have to choose something.
 
-Shouldn't we choose the option with the best chance of a good outcome?
+“Everyone, get ready. We’re leaving this place now.”
 
-The royal family was responsible for this.
+“You mean… you won’t wait for the main force anymore?”
 
-They should take responsibility.
+“Yes, we’ve waited long enough and stood up. Oh, and don’t worry too much.”
 
-"...What?! No! We can't just give up! The main force will come for us...!"
+I gave Kaislan a slight smile.
 
-I ignored Kaislan's protest and spoke.
-
-Even if I wasn't sure about the choice.
-
-"Get ready. We're leaving."
-
-"You're not waiting for the main force?"
-
-"Yes. We've waited long enough."
-
-I looked at Kaislan and smiled.
-
-"Don't worry. I'll take responsibility."
+“I’ll take full responsibility for everything.”

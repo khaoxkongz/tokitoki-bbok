@@ -1,401 +1,399 @@
-# The Age of Exploration 1
+Age of Exploration(1)
 
-I first heard about the Record Stone during my conversation with the GM.
+The first time I heard about the Record Stone was during a conversation with the GM.
 
-[I have no reason not to believe him. At least, the story about the Record Stone was true.]
+[“I have no reason not to believe him. The ‘Record Stone’ supports his claim, anyway.”]
 
-That was the GM’s answer when I asked him why he believed Auril Gabis’s prophecy about a player opening the Gate of the Abyss.
+This was the GM’s response when I asked why he believed Auril Gavis’s almost prophetic words that one day a player would open the Door of the Abyss.
 
-I had concluded that Lee Baekho was also somehow connected to the Record Stone.
+After hearing this, I made a judgement.
 
-The basis for my theory was their shared obsession with the nickname ‘Elfnunna’.
+Lee Baek-ho must also somehow be connected to the Record Stone.
+
+The reason? Lee Baek-ho, like the GM, had an obsession with the nickname ‘Elfnuna’.
 
 But…
 
-[Hmm, is that so?]
+[Hmm, really?]
 
-I hadn’t mentioned it that day. I didn’t want to provoke him.
+I didn’t mention it that day because I didn’t want to provoke Lee Baek-ho.
 
-I also wanted to investigate it myself before bringing it up.
+Besides, I also wanted to investigate on my own before confronting him.
 
-But my investigation had been fruitless.
+But the investigation turned up the same.
 
-‘There were no records of it in the library. And Bersil had never heard of it either.’
+‘There is no record of it in the library. Even Versil seemed to hear it for the first time.’
 
-I had used my spare time to look into it, but I couldn’t find any information about the Record Stone.
+I used my spare time to look into it, but there was no trace of any information about the Record Stone.
 
-Therefore, I only had one option left.
+So, there was only one method left.
 
-To ask someone who might know the answer.
+To ask someone who could give me an answer directly.
 
 “…….”
 
-Lee Baekho remained silent when I asked him about the Record Stone.
+Lee Baek-ho remained silent when I asked him what the Record Stone was.
 
-But as he had said to Hyunbyul, silence was sometimes a form of agreement.
+But as he had told Hyun Byeol earlier, silence can sometimes be a strong affirmation.
 
-‘So he knows about it.’
+‘So he knows what the Record Stone is.’
 
-It seemed like my subtle probing had been effective. But he must have realized that the time for playing dumb was over.
+Asking him casually, without any context, proved worthwhile. Maybe he’d decided that the moment to lie his way out of it had already passed.
 
-He stared at me, as if trying to read my mind.
+Lee Baek-ho continued to watch me in silence, as if to gauge my intentions.
 
-And…
+And then…
 
 “Hyung.”
 
-He finally spoke.
+He slowly broke the silence.
 
-His usual smile was gone.
+Unaware that the smile on his lips had already vanished.
 
-“Where did you hear about that?”
+“Where did you hear that?”
 
-His voice was cold and sharp, sending a chill down my spine. But I didn’t react.
+His voice was cold and heavy.
 
-There was always an intention behind every word.
+Despite the chill down my spine, I did not show it.
 
-And his intention was clear.
+His words had intentions.
 
-‘He wants to know how much I know.’
+Why would he want to check the ‘source’ first?
 
-I knew his intention, so my response was simple.
+‘He’s curious about how much I know.’
+
+Knowing his intention, there was only one answer I could give.
 
 “Well.”
 
-I remained calm and ambiguous.
+Not rushing, keeping my composure and answering ambiguously.
 
-That way, I could control the conversation.
+By doing so, I firmly grasped the control of the conversation.
 
-“Does it matter?”
+“Is it really important where I heard it?”
 
-I shrugged, and his eyes narrowed.
+As I shrugged and answered, Lee Baek-ho’s eyes changed and became more meaningful.
 
 He seemed to be deep in thought.
 
-Did he really not know about the Record Stone?
+Is he really asking because he doesn’t know what the Record Stone is?
 
-Or was he just pretending?
+Or does he know something and just wants to cross check with me?
 
-How should I answer?
+If so, how should I respond?
 
-Should I just tell him I couldn’t reveal my source?
+Should I just dodge and say I can’t answer?
 
-As he was contemplating his next move, I decided to interrupt him.
+In that fleeting moment, I could feel him carefully choosing his next answer. Judging that giving him more time would be unwise, I continued speaking
 
-It was a sudden change of topic, but…
+I doubled him again, although it felt abrupt.
 
-That’s why it was so effective.
+But precisely because of that.
 
-“Elf Noona.”
+“Elfnuna.”
 
-I mentioned the nickname that would shake him the most.
+I brought up the topic that would most likely shake him.
 
-Even the largest trees could be felled with enough force.
+No matter how tall a tree is. If you shake it hard enough, at least one leaf will fall.
 
 “……!”
 
-His eyes flickered for a moment as the nickname, which had never been mentioned between us, was brought up.
+When I mentioned the name, which had never been brought up between us before, Lee Baek-ho’s eyes wavered ever so slightly.
 
-It wasn’t enough.
+Still his reaction wasn’t enough for me, so I made my next move.
 
-So…
+“You know it too, don’t you? That I’m that person.”
 
-“You know I’m that person.”
+I revealed another card I had been holding.
 
-I revealed another card.
-
-His reaction was immediate.
+Lee Baek-ho’s reaction was immediate.
 
 “…What are you talking about?”
 
-He didn’t deny or confirm it. He just asked a question.
+A question that was neither affirmation nor denial.
 
-It was a common tactic used by liars.
+It was a pattern often seen among those who lie.
 
-They felt safer just by asking a question, even though it was a lie.
+By simply asking back, they feel a psychological sense of ease thinking they haven’t actually lied.
 
-I had to push him further.
+I needed to push harder.
 
-“Baekho.”
+“Baek-ho.”
 
-“……?”
+“…?”
 
-“Do you know… you’ve never mentioned ‘Elf Noona’ before? Not even once.”
+“You know what? From the moment we first met until now. We’ve never once talked about ‘Elfnuna.’”
 
-I tapped my nickname, which was displayed above my head.
+As I said this, I tapped the nickname window floating above my head with my finger.
 
-“Don’t you find that strange?”
+“Don’t you think that’s weird?”
 
-It was a checkmate.
+Checkmate.
 
-Ttadat, ttadadat.
+Tap. Tap-tap.
 
-The sound of the crackling fireplace echoed through the silent room.
+In the heavy silence, only the crackle of burning firewood filled the air.
 
-I didn’t press him further and gave him time to think.
-
-Usually, the liar was the one who felt uncomfortable in this kind of situation.
+I didn’t push further, giving him time to think. In situations like this, the one lying is always the first to crack under the weight of silence.
 
 “Hyung…”
 
-He finally spoke, breaking the long silence.
+He finally broke the silence slowly.
 
-“What are you trying to ask me?”
+“…What exactly do you want to ask me?”
 
-He was still trying to play games.
+This guy still wants to walk the tightrope, huh? Only giving away as much as he needs to.
 
-He wanted to test the waters before revealing anything.
+But the solution was simple.
 
-The solution was simple.
+“I don’t want to ask anything.”
 
-“I’m not trying to ask you anything.”
+I restricted all information, handing the choice to him. It didn’t matter where I’d heard this story or how much I knew.
 
-I gave him the power to choose.
+“I just want to listen.”
 
-It didn’t matter where I had heard about the Record Stone, or how much I knew.
+Tap, tap.
 
-“I just want to hear…”
-
-Thump, thump.
-
-“…your answer.”
+“Whatever answer you’ll give.”
 
 The choice was his.
 
----
+Baek-ho made his decision faster than I expected.
 
-Lee Baekho made his decision surprisingly quickly.
+“Ugh, hyung! You’re seriously intense. I can never win against you!”
 
-“Ugh, hyung! You’re too much!”
+His tone abruptly changed back to his usual self.
 
-His voice was back to its usual cheerful tone.
+From my perspective, it felt like I was facing someone with a split personality, but I was used to it by now, so I didn’t mind too much.
 
-It was a jarring change, almost like he had multiple personalities… but I was used to it by now.
+“I’ll tell you everything. So, what do you want to know the most?”
 
-“I’ll tell you everything. What are you most curious about?”
-
-He was still playing games.
+Tsk. This bastard is still trying to play games with me.
 
 I almost fell for it.
 
 “…….”
 
-I just stared at him, and he shook his head.
+I stayed silent, staring him down until Baek-ho shook his head vigorously.
 
-“…Were you really an office worker?”
+“…Hyung, were you really just an office worker?”
 
 “…….”
 
-“I’m just curious… what kind of life did you live to become like this?”
+“Seriously, I’m curious. What kind of life did you live to become like this?”
 
-What? He was the one who had just been discharged from the military.
+What’s he talking about? He’s just a fresh-out-of-the-military buzz-cut kid.
 
-I didn’t answer, and he sighed.
+I didn’t answer this time either, and Lee Baek-ho let out a long sigh.
 
-“Ha… alright. I’ll tell you. Honestly, I think you’re just testing me… but this is making me nervous. I think I’ll just confess and be done with it.”
+“Ha… Fine. I’ll talk. Honestly, part of me thinks you’re just fishing… but I’d rather come clean and get this over with.”
 
 “Go ahead.”
 
 “Do you believe in fate?”
 
-“…….”
+“……”
 
-“Seriously… this is difficult. Should I just explain it, whether you understand or not?”
+“Ah, really, Can’t you say anything?. Then I’ll just explain, and you can take it or leave it, okay?”
 
-“I told you, I’m just curious about your answer.”
+“I told you. I’m here to hear your words.”
 
-“Fine.”
+“Right. Let’s go with that.”
 
-He seemed annoyed by my attitude, but it couldn’t be helped. I had to avoid any questions that might reveal my ignorance.
+He seemed frustrated by my silence, but I had my reasons. If you ask the wrong questions, you could tip your hand. Sometimes it’s safer to keep quiet.
 
-“You know how most of the ancient artifacts and myths were erased when this city was built? The Record Stone is one of those forgotten mythical objects.” 𝑅ãꞐȪ₿ƐS̩
+“You know, right? When the city was built, most of the ancient relics and myths were erased. One of those mythical items erased from the world is the Record Stone.”
 
-“It’s said to contain the entire history of the world. Not just the past, but also the future.”
+“The Record Stone is said to contain all the history of the world. Not just the past, but the future as well.”
 
-It sounded like something straight out of a myth.
+Sounds like something straight out of a myth, right?
 
-“Anyway, the Record Stone also has an end. And that end signifies the end of this world. And the beginning of that end… was the Witch… I don’t know the details. All I know is this.”
+Actually, what I’m about to tell you has that kind of vibe too.
 
-“Someone destroyed the Record Stone to prevent the apocalypse. That’s why this world still exists.”
+Muttering to himself, Lee Baek-ho continued.
 
-“And the important part is this. Fragments of the Record Stone are scattered throughout the world.”
+“Anyway, the Record Stone also has an end. Of course, that end signifies the destruction of this world. The beginning of that destruction was said to be caused by a witch… but I don’t know much about that part. All I know is this.”
 
-I immediately understood.
+“To prevent the destruction, someone destroyed the Record Stone, and because of that, this world didn’t perish.”
+
+“Here’s the important part. The fragments of the Record Stone that weren’t completely destroyed were scattered all over the world.”
+
+I immediately felt it.
+
+“Here’s the important part. The fragments of the Record Stone that weren’t completely destroyed were scattered all over the world.”
+
+I immediately felt it.
 
 ‘The Fragment of Records.’
 
-Gavrilius’s legacy, the artifact that had sent Amelia and me back in time.
+That artefact known as Gavrilius’s legacy—the one that had sent me and Amelia back in time.
 
-“Some of the fragments have been found. I’ve even seen three of them myself.”
+“Some of those fragments have actually been found. I’ve seen three of them myself.”
 
-I was a little annoyed.
+His words pissed me off a little.
 
-He had seen them himself?
+What do you mean, you’ve seen them?
 
-[The Fragment of Records…? I’ve heard of it, but I didn’t know it actually existed.]
+[The Fragment of Records…? I’ve heard of it, but it actually existed?]
 
-He had been lying to me from the beginning.
+This guy has been lying since back then.
 
-I wanted to call him out on it, but I decided to focus on the conversation.
+I wanted to call him out on it, but I kept my mouth shut not wanting to disrupt the flow of the conversation.
 
-He was about to reveal something important.
+The crucial part was just beginning.
 
-“One of the fragments said this.”
+“One of the fragments had this written on it.”
 
-He paused for a moment and then spoke.
+Lee Baek-ho paused for a moment before speaking.
 
-“And so, the evil spirit ‘————’ from another world opened the Gate of the Abyss and achieved his wish.”
+“And thus, the evil spirit from another world, ‘————,’ opened the Abyss Gate and finally achieved his wish.”
 
-It sounded like an ending scene.
+A line that sounded like it came straight from an ending scene.
 
-“The blanks are because there’s no way to translate it. The Record Stone uses unique patterns to represent names, not letters. It’s something about souls and names…”
+“Since the evil spirit’s name wasn’t mentioned, it’s impossible to say for sure who it is. It’s because the Record Stone refers to people’s names not with letters, but with unique symbols. Something about the true name attached to your soul or something.”
 
-“…….”
+“……”
 
-“Anyway, that’s not the important part. I saw the same pattern on another fragment. And it said this.”
+“Anyway, that’s not the important part. I’ve also seen this unique pattern on another fragment. And it said this.”
 
-Thump!
+Ba-dumb-!
 
-“…’————’, the first to pass the trial of the circle, has awakened in this world.”
+“…‘Blank’ the first to pass the Test, finally opened their their to this world.”
 
-I finally understood.
+This finally explained why Auril Gavis was so fixated on the person who had cleared the Original Difficulty.
 
-Why Auril Gabis had been so interested in the player who had cleared the original mode.
+It also suddenly made sense why the GM had become an Elfnuna fanatic.
 
-Why the GM had become a fanatic of ‘Elfnunna’.
+And why Baek-ho had been so afraid of antagonizing me.
 
-And why Lee Baekho had been so wary of me.
+“Hyung… You’ve been dead silent. If you really knew nothing about the Record Stone, this should be the part that shocks you.”
 
-“Hyung… you’ve been quiet. If you didn’t know about the Record Stone, this is the question you would be asking.”
+Even as I stayed quiet, sorting through my thoughts, Baek-ho pressed on.
 
-Lee Baekho continued, even though I was still processing the information.
+“What’s so important about some old record? It’s all broken anyway. Meaningless. That’s what I thought at first. But I was wrong. The last fragment I saw… actually came true.”
 
-“What’s so important about some old record? It’s all meaningless now that it’s broken.”
+“……What did it say?”
 
-“…….”
+When I finally broke my silence. Baek-ho smirked and replied.
 
-“I thought so too, at first. But then one of the prophecies came true.”
+“That’s a secret.”
 
-“…What prophecy?”
+“……What?”
 
-I finally spoke, and he chuckled.
+I gave him a sharp look, but he remained unconcerned.
 
-“It’s a secret.”
+“I’ll keep this one a secret. Believe it or not, this is a personal matter. It has nothing to do with you, hyung.”
 
-“…What?”
+Pushing further would’ve been pointless. Something in my gut told me his “personal” excuse wasn’t a lie.
 
-I glared at him, but he didn’t back down.
+“Ah… So, I guess we’re done talking about the Record Stone… Next up is ‘Elfnuna’, right?”
 
-“I’m not telling you. It’s a personal matter. It has nothing to do with you.”
+When I nodded, Lee Baek-ho resumed the story he had stopped.
 
-I couldn’t press him any further.
+“I created this chat room right after learning about the Record Stone. I waited. The person most likely to clear the original difficulty would be ‘Elfnuna.’ And that person would be Korean.”
 
-I had a feeling he was telling the truth about it being a ‘personal’ matter.
+“……”
 
-“Ah… so that’s it for the Record Stone… next is ‘Elfnunna’, right?”
+“After that, it’s as you guessed. From the moment you arrived, I had a feeling you might be that person. That expectation wasn’t wrong.”
 
-I nodded, and he continued.
-
-“I created this chat room right after I learned about the Record Stone. I was waiting. ‘Elfnunna’ was the most likely candidate to clear the original mode. And he had to be Korean.”
-
-“…….”
-
-“And the rest, you can probably guess. I suspected you from the moment we met. And I was right.”
-
-He looked at me intently and asked,
+Lee Baek-ho looked at me with clear eyes and asked.
 
 “Right?”
 
-It was a moment of truth.
+All this time we’ve been deceiving each other. And now that he was willing to share this much with me, there was no reason to pretend anymore, so I gave a straightforward confirmation.
 
-We had been deceiving each other for so long. There was no point in lying anymore.
+“Yeah.”
 
-“Yes.”
+Even though it was the first time I had admitted it directly, Lee Baek-ho didn’t show any reaction, as if he was already sure.
 
-He didn’t seem surprised.
+He just nodded with a slightly relieved voice.
 
-He had already been certain.
+“That’s all I have to say. So, hyung, did you get all your questions answered?”
 
-He just nodded, his voice filled with a strange sense of relief.
-
-“That’s all I have to say. So… are you satisfied now?”
-
-But I shook my head.
+However, I shook my head.
 
 “No, not yet.”
 
-Most of my questions had been answered, but the most important one remained.
+Most of my questions had been answered, but one crucial thing remained.
 
-The key to understanding a person.
+The most important thing in understanding a person.
 
-“Why did you hide this from me?”
+“Why did you hide this story from me until now?”
 
 The motive was missing.
 
-“There’s no reason for you to hide it.”
+“From what I’ve heard from you so far, there’s no reason to hide it.”
 
-He chuckled bitterly.
+When I pointed this out directly, Lee Baek-ho smiled bitterly and answered.
 
-“Fate… is like the Monkey’s Paw.”
+“Fate is like a monkey’s paw.”
 
-His voice was filled with a strange sadness.
+His voice sounded incredibly lonely.
 
 ---
 
-“…Monkey’s Paw?”
+I looked at him for an explanation, and he shrugged vigorously, as if he’d heard that before.
 
-I gave him a look, and he shrugged, his cheerful demeanor returning.
+“What? You don’t know what a monkey’s paw is?”
 
-“Huh? You don’t know about the Monkey’s Paw?”
+“I know, but why bring it up all of a sudden?”
 
-“I know what it is. I’m just wondering why you brought it up.”
+“It’s exactly what it sounds like. The stories written on the Record Stone are guaranteed to come true. However, it’s impossible for me to know whether what I want will actually happen.
 
-“It’s exactly what it sounds like. The prophecies in the Record Stone always come true. But the outcome… isn’t always what we expect.”
+“…Go on.”
 
-“…Continue.”
+“You will definitely open the Abyss Gate someday. But does that mean it’s a happy ending? Even if your wish is granted, does that include my wish?”
 
-“You’ll open the Gate of the Abyss someday. But will it be a happy ending? Will it fulfill your wish? And what about my wish?”
+“……”
 
-“…….”
+“That’s why I didn’t tell you. I wanted to handle it somehow before you learned anything. To make sure your wish would become my wish, too.”
 
-“That’s why I didn’t tell you. I wanted to control you. To make your wish… my wish.”
+I think I understood what he meant.
 
-I understood what he meant.
+After all, I’ve done something similar before.
 
-I had done something similar before.
+[Amelia’s older sister Laura dies.]
 
-[Amelia’s sister, Laura, will die.]
+I used every trick in the book to twist that fixed future, and in the end, I succeeded.
 
-I had used every trick in the book to change that fixed future. And I had succeeded.
+Lee Baek-ho had probably been planning something similar.
 
-Lee Baekho was probably planning to do the same.
+That’s why he had dropped the act the moment I said I didn’t want to return home.
 
-That’s why he had revealed his true colors as soon as I said I didn’t want to go back to Earth.
+“Then why team up with the Ruin Scholar?”
 
-“Then why did you team up with the Ruin Scholar?”
-
-I asked my final question.
+I asked the final question lingering in my mind.
 
 “You didn’t befriend him just because you needed a mage.”
 
-Lee Baekho froze for a moment and then chuckled.
+At this, Lee Baek-ho froze for a moment before letting out a hollow laugh.
 
-“Ha… do you have a lie detector in your head or something?”
+“Ha… Hyung, do you have a lie detector installed in your head or something?”
 
-A lie detector?
+A lie detector? Right, coming from the guy who practically acts like he’s got one himself.
 
-He was the one who had been using one all this time.
+“Whatever. Just answer me. This is my last question.”
 
-“Just answer the question. It’s my last one.”
+When I pressed again, Lee Baek-ho slowly began to speak.
 
-He finally spoke.
+“Hyung, y’know… I’m not sure how this’ll sound to you…”
 
-“Hyung… I don’t know how you’ll react to this, but…”
+“Just spit it out.”
 
-“It’s fine. Just tell me.”
-
-“The Ruin Scholar… don’t worry about him. He’s just Plan B.”
+“Don’t… worry too much about the Ruin Scholar. He’s just Plan B.”
 
 “Plan B…?”
 
-“Yes. The world doesn’t always go my way.”
+“Yeah. The world doesn’t always go the way you want, right?”
+
+As he said this, Lee Baek-ho grinned brightly—
+
+not bothering to hide the deranged madness beneath his words.
+
+“Gotta prepare for when Plan A goes to shit.”
+
+“……”
+
+“I’m getting the hell out of this world. No matter what.”
+
+Continue reading more chapters at henprogressive.com

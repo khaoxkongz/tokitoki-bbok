@@ -1,425 +1,437 @@
-# Dilemma 5
+Dilemma (5)
 
-Dragonslayer, Regal Vagos.
+The Dragon Slayer, Regal Vagos.
 
-Only a few people knew about my history with him.
+Only a few people know about my bad blood with him.
 
-My former teammates, a few high-ranking officials from the Leathlas Church, and the leaders of the Dragonkin tribe.
+Aside from the team members from that time, just a few high-ranking members in the Leatlas Church and the leaders of the Dragon tribe know.
 
-Erwen didn't know anything about it.
+Of course, Erwin knows nothing about it.
 
-She only knew that a mage named Dwarkey had died in the labyrinth.
+All she’s aware of is that a mage named Dwalkie met an unfortunate end in the labyrinth.
 
-'Could there be some connection between them?'
+“Do they have some kind of bad history?”
 
-Hmm, that seems unlikely.
+Hmm, if so, that’s a bit strange.
 
-She didn't react this way when the Marquis told me about the hidden mission to kill the Dragonslayer.
+When I shared her the hidden mission to help Ravien take down the Dragonslayer, her reaction didn’t seem quite—
 
-'...But she did look upset back then.'
+‘…On second thought, she did look uncomfortable back then too.’
 
-No, she definitely looked upset.
+Come to think of it, she genuinely looked unsettled.
 
-Her lips were tightly pressed, and Amelia even asked if she was feeling unwell.
+When Amelia asked her if she was sick, she stiffened up and said it was nothing and walked away.
 
-She quickly left, saying it was nothing.
+Well, I didn’t think deeply at the time…
 
-'I should have investigated further.'
+‘I should check on this.’
 
-I can't just ignore my companion's mental breakdown.
+I can’t just stand by and watch a comrade’s mental state crumble.
 
-I excused myself from Jun and calmed Erwen down.
+So, after asking Jun’s permission, I immediately left and calmed Erwin down.
 
-Then I asked her what had happened.
+And I listened to her story.
 
-"I-I'm s-sorry... I-I suddenly..."
+“I-I’m sorry. I suddenly… did that…”
 
-"It's okay. I'm not mad. I'm just worried. What happened between you and the Dragonslayer?"
+“I’m not here to get an apology. I’m worried about what made you react that way. What’s going on between you and that bastard, the Dragon Slayer?”
 
-"It's... it's a long story."
+“Well…”
 
-Erwen hesitated for a long time before speaking.
+Erwin hesitated for a long time before she began to speak.
 
-"It happened when I was ten."
+“It happened when I was ten years old.”
 
-"Ten years old..."
+“When you were ten…?”
 
-Thirteen years ago.
+That’s about thirteen years ago.
 
-A year after the war between the barbarians and the fairies ended.
+In other words, it would have been around a year after the war between the Barbarians and the Fairies ended.
 
-That triggered a memory.
+As soon as I heard that, something came to mind.
 
-"Could it be... related to the Bloodbath?"
+The terrorist attack that occurred at the Fairy sanctuary.
 
-The terrorist attack on the fairy sanctuary.
+The culprit was Dragon Slayer Regal Vagos, and I heard that over a thousand fairies died then.
 
-The culprit was Dragonslayer, Regal Vagos.
+And if my guess is correct…
 
-Over a thousand fairies had died that day.
+“…Yes, my parents died then. In front of me… while protecting my sister, me, and my younger sibling…”
 
-And if my guess was correct...
+“…I see.”
 
-"...Yes. My parents died that day. Protecting us... my sister, my brother, and me..."
+Erwin lost her parents that day.
 
-"...I see."
+Her uncle took in the three sisters as his adopted children and embraced them with love, but even so, the void couldn’t be filled.
 
-Erwen had lost her parents.
+Despite that, Erwin endured it.
 
-Her uncle had adopted all three siblings and raised them with love, but the void remained.
+Thanks to her eldest sister, Daria, who tried to fill that void as best she could.
 
-Still, Erwen endured.
+But…
 
-Her older sister, Daria, had tried to fill their parents' shoes.
+[That young lady has one of the heaviest fates I’ve seen, next to yours.]
 
-But...
+Reality was cruel and took Daria as well.
 
-[That young lady is fated to follow in your footsteps.]
+Though it wasn’t the Dragon Slayer this time, the perpetrator was a member of Orcules, the Ruin Scholar.
 
-Fate had taken Daria as well.
+“Damn it.”
 
-The culprit wasn't the Dragonslayer, but another member of Orculus, the Ruin Scholar.
+“I-I’m sorry. The moment I heard his voice, I panicked. I know he’s an enemy, and… if I want to protect what’s precious to me, I should be the one to fight him… But I’m scared that they’ll take it all away again…”
 
-"Damn it."
+It’s no wonder Erwin fell into panic.
 
-"I-I'm sorry... I-I was scared when I heard his voice. He's the enemy... but I have to fight him if I don't want to lose anything else... I-I'm afraid they'll take everything from me again..."
+“Haha, I’m pathetic, aren’t I? I’m stronger now… I’ve vowed countless times that if we met, I’d get my revenge. And yet, look at me…”
 
-It was understandable.
+That’s just how trauma is.
 
-Trauma was like that.
+It doesn’t follow logic but rather emotion. More accurately, it’s the memories that come rushing back, bringing with them an overwhelming fear.
 
-Fear overwhelmed reason, and memories of the past resurfaced.
+“You, pathetic? No way. If anyone here is pathetic, it’s me.”
 
-"I-I'm pathetic, aren't I...? I-I'm stronger now... I vowed to get my revenge... but I'm still so scared..."
+“W-What? No! You’re not pathetic! How could you say that? You’re an amazing person!”
 
-"Pathetic? You're not. I'm the pathetic one."
+Well… perspectives differ from person to person.
 
-"W-what? P-pathetic? You're not! You're amazing!"
+I thought I knew Erwin pretty well after all the time we’d spent together, but I didn’t know any of this.
 
-Well, everyone has their own standards.
+Actually, it was more like I hadn’t even tried to know.
 
-I had spent a lot of time with Erwen, but I didn't know anything about this.
+[“Actually, I know… that I have a problem…”]
 
-Or rather, I hadn't tried to find out.
+When I first found out about Erwin’s anxiety symptoms.
 
-[...I know I have a problem.]
+If I hadn’t simply dismissed it as a stat-related issue, things might have been different.
 
-When I first noticed her anxiety.
+[“It must have been hard, right? I know what it feels like to lose something.”]
 
-If I hadn't dismissed it as a stat issue...
+When I returned to the city after losing Dwalki.
 
-[I understand how you feel. Losing someone you care about.]
+If I’d thought more deeply about the meaning behind her words of comfort, I might have realized what the real problem was earlier.
 
-When we returned to the city after Dwarkey's death.
+But…
 
-If I had thought more deeply about her words...
+“Mister…”
 
-I might have realized the true problem sooner.
+But sulking like this isn’t really my style.
 
-But...
+If there’s a problem, then it’s just a matter of getting rid of it.
 
-"Mister..."
+“Erwin.”
 
-I couldn't dwell on the past.
+When I called her name, Erwin looked up at me with moist eyes and held my hand.
 
-It was time to solve the problem.
+As if waiting for me to say something.
 
-"Erwen."
+Yes, you were hoping I’d say this.
 
-She looked up at me with teary eyes and grabbed my hand.
+“Don’t worry too much. Whether it’s the Ruin Scholar, the Corpse Collector, or that damn lizard bastard.”
 
-She was waiting for me to say something.
+“………?”
 
-I knew what she wanted to hear.
+I quietly muttered as if making a vow.
 
-"Don't worry. The Ruin Scholar, the Corpse Collector, that damn lizard... I'll kill them all."
+“Someday, I’ll kill them all.”
 
-"...?"
+“………Eh?”
 
-I vowed, my voice firm and resolute.
+…Huh?
 
-"...Huh?"
+That wasn’t the reaction I expected.
 
-That wasn't the reaction I expected.
+“What, do you not believe me?”
 
-"What? You don't believe me?"
+When I glared at her, Erwin flinched.
 
-I glared at her, and she flinched.
+“N-no! I-I believe you!”
 
-"N-no! I-I believe you! I do!"
+It was a somewhat weak response, but I wasn’t too concerned.
 
-Her voice lacked conviction, but I didn't press her further.
+“…”
 
-"..."
+“…”
 
-"..."
+Erwin’s eyes, which had been filled with anxiety, had now calmed down.
 
-Her eyes, filled with anxiety, had calmed down.
-
-At least for now.
+It seemed she had finally settled.
 
 ---
 
-I returned Erwen to her position and took a moment to think.
+After sending the now-calm Erwin back to the team.
 
-'...This is strange.'
+I took a moment to organize my thoughts.
 
-Four members of our team had a grudge against the Dragonslayer, Regal Vagos.
+‘…It’s really strange.’
 
-Raviyen, myself, and now Erwen.
+Dragon Slayer Regal Vagos.
 
-And...
+In our team, there are as many as four people who have bad blood with this bastard.
 
-'Amelia was in a similar situation.'
+Not to mention Ravien, who is of the Dragon Tribe, and me, and as I just confirmed, Erwin has a grudge with him too.
 
-Well, Amelia's case was a bit different.
+And…
 
-She was the victim, not the aggressor.
+‘Amelia also has a similar situation.’
 
-The Dragonslayer had a grudge against her for robbing him and erasing his memories.
+Of course, Amelia is a bit different from the three of us.
 
-[If he remembers, he'll be furious.]
+In her case, it’s closer to a one-sided grudge on the Dragon Slayer’s end.
 
-I was surprised when I heard about the timing of the incident.
+Apparently, she once found the dragonslayer bastard after he fell through a dimensional portal, took his equipment, and fed him a memory-erasing drug.
 
-It happened right after the first thread was severed.
+[If he’s regained his memory, he’d be burning with desire to kill me by now.]
 
-'So Amelia was helping me from the beginning?'
+At that time, I was a bit surprised by the timing.
 
-It was a strange coincidence.
+Because that was when the first vine was cut.
 
-I chuckled and headed towards Jun's tent.
+‘Thinking back, Amelia started helping me from that point on, didn’t she?’
 
-"Aaaaaargh!"
+It’s an incredibly strange connection.
 
-I heard a scream as I entered.
+I smirked and headed to where Jun was.
 
-"K-kill me! Y-you promised! Aaaaaargh!"
+“Aaaaah!”
 
-"I believed you when you said you had confessed all your sins and found your true self. Or rather... I was deceived."
+As soon as I pulled back the curtain on the soundproofed tent, screams filled the air.
 
-"I-I didn't lie!"
+“You said you’d kill me! Aaaaargh!”
 
-"Then why didn't you mention the Dragonslayer? He's waiting at the base, isn't he?"
+“At that time, I believed you had confessed all your sins and regained a pure heart. No, I was deceived.”
 
-"Th-that's...!"
+“I-I didn’t lie about anything!”
 
-"You're still filled with malice—"
+“Then why didn’t you mention the Dragon Slayer? It seems he’s also waiting at the base.”
 
-"I-I didn't know! I swear! They didn't tell me anything! Aaaaaargh! Kill me! Just kill me!"
+“Th-that…!”
 
-The survivor, who had been screaming and thrashing, suddenly went silent.
+“I can still see the evil intent in your eyes—”
 
-Jun approached him and forcefully opened his mouth.
+“I-I didn’t know! I didn’t know! Those people don’t tell me when or where they’re doing things!! Aaaaargh! Kill me! Kill me!!”
 
-Blood was pouring out.
+Suddenly, the man who was thrashing around while tightly bound fell silent.
 
-He had bitten off his own tongue.
+Then Jun approached him, roughly grabbing his cheeks and forcing his jaw open.
 
-"...It seems he lacks the virtue to find enlightenment."
+Blood began to flow.
 
-Jun sighed and then healed the wound with divine power.
+He had bitten his own tongue in an attempt to kill himself.
 
-"...N-no! Please...!"
+“My, my… It seems you still lack the virtue to find salvation.”
 
-"Don't worry. I'll help you find your true self and guide you to enlightenment."
+Jun clicked his tongue regretfully and instantly healed the man’s injuries with his holy power.
 
-"...Demon! You're a demon! A demon!"
+“N-nooo!”
 
-"...My, my."
+“Don’t worry. I’ll be by your side to help you regain a pure heart and find enlightenment someday.”
 
-Jun's smile didn't waver as he picked up an awl.
+“…Devil! You devil! You’re a devil!!”
 
-And...
+“…My.”
 
-"Ah! You're here."
+Despite the insulting words, Jun didn’t erase his kind smile and quietly picked up an awl.
 
-He saw me and quickly gagged the survivor.
+And…
 
-"Mmm, mmm!"
+“Ah! You’ve arrived.”
 
-"...Did you find anything?"
+Upon seeing me, he quickly gagged the man.
 
-"Not much. Just that there are more troops waiting at the base than we expected."
+“Mmph, mmph!”
 
-"...More troops? How many?"
+“…Did you find out anything?”
 
-"Based on his testimony, it seems like twice our number."
+“Unfortunately, I haven’t learned much yet. Other than the fact that the reserve forces staying at the base are more numerous than we expected.”
 
-"What? Twice?"
+“…They have more troops?”
 
-This is bad.
+“According to him, about twice the expected number.”
 
-"Why didn't we hear about this from the others? Did they deceive us?"
+“What? Twice?”
 
-"No, they wouldn't lie to us. They're loyal to the cause. They probably just... didn't know."
+Wait a minute, this is quite serious.
 
-"...I see."
+I hurriedly continued.
 
-That made sense.
+“Why didn’t we hear about this from the others? Did they deceive us?”
 
-"But if that's the case, couldn't he be mistaken?"
+“No. They wouldn’t risk their lives due to loyalty and lie. It’s just… They truly believed what they said.”
 
-"Yes, it's possible. But... he said he overheard it during a communication. Routine check-ins are usually handled by the base. If the Dragonslayer is there, his team would be there as well."
+Hmm, that does make sense.
 
-"..."
+“By that logic, isn’t it possible that only this guy has the wrong information?”
 
-"What are your orders? We'll continue the interrogation, but if the enemy has twice our number, the mission will likely fail."
+“Yes, that’s true. We can’t deny that. But… this friend only guessed after receiving a message. Usually, regular communications come from the base, so he realized that if the Dragon Slayer is there, it’s likely that his troops are there too.
 
-"Even if we succeed, the casualties will be significant."
+“……”
 
-"...Yes."
+“What will you do? I’ll continue extracting information, but if the enemy’s forces are twice as high as expected, our mission is likely to fail.”
 
-What should I do?
+“Even if we succeed, we’ll suffer more damage.”
 
-Should we push forward with the original plan, regardless of the casualties?
+“……Yes, that’s right.”
 
-I contemplated for a moment and made my decision.
+So, what should we do?
 
-"Jun, stop the interrogation and call the team leaders."
+Should we push ahead with the original plan, regardless of how much damage we take?
 
-"You want to hold a meeting?"
+After thinking for a moment, I made a decision.
 
-"Yes."
+“Jun, stop the interrogation for now and call the team leaders.”
 
-Two heads are better than one.
+“You want to hold a meeting.”
 
-Maybe they'll have some good ideas.
+“Yes.”
+
+As the saying goes, ‘Two heads are better than one.’ Maybe someone will come up with a good idea.
 
 ---
 
-Another leadership meeting during the expedition.
+A leadership meeting that had happened countless times during the expedition.
 
-I shared the information from the interrogation, and the team leaders started discussing the situation.
+As soon as I shared all the intel from the interrogation, various opinions poured out.
 
-"Twice our number? That seems unlikely. The Dragonslayer's team is just a small clan."
+“It’s hard to say their forces are double. The Dragon Slayer’s unit is only mid-sized at best, isn’t it?”
 
-"Even if it's just twenty more explorers, we can't underestimate them. We're not that large of a force either."
+“Even if it’s just an additional twenty people, we can’t underestimate it. We have fewer than thirty people ourselves.”
 
-"Yes. They're not like the weaklings we encountered earlier. They're all elite."
+“Yes. Unlike the small fry we’ve encountered around here, each one of them is likely to be elite.”
 
-"So you're saying we should abandon the mission?"
+“So, are you suggesting we give up the mission?”
 
-"No one said that. We're just brainstorming for alternatives. That's why Schuitz called us all here."
+“No one said that. We’re just thinking about whether there’s another plan. That’s why Schuiz called us all.”
 
-"..."
+“….”
 
-Kaislan calmed down when I was mentioned.
+When my name was mentioned, Kaislan composed himself.
 
-Authority backed by strength demands respect.
+Authority born of strength is respected no matter the situation.
 
-"Anyway, if we continue with the original plan, the casualties will be significant, even if we succeed. Any ideas?"
+“At any rate, if we continue as planned, we might succeed, but we’ll likely take heavy casualties. Does anyone have a better solution?”
 
-I asked directly, and the suggestions came pouring in.
+I asked directly, prompting a flood of ideas.
 
-"How about we ambush them near the base and whittle down their numbers?"
+“What about an ambush nearby to slowly chip away at their numbers?”
 
-"That won't work. We'll miss the rendezvous time with the main force."
+“No. If we do that, we won’t be able to meet up with the main force at the appointed time.”
 
-"And they'll figure out what's going on. We'll lose the element of surprise. They'll be prepared."
+“Besides, by then, unless they’re completely clueless, they’ll know what’s happening. We’ll lose the element of surprise, and we’ll face a tougher battle as they prepare to counterattack.”
 
-"Kala, do you have any better ideas?"
+“So, Carla, do you have a better plan?”
 
-"...What about infiltration? We could use the survivor to gain access to their base. It might work."
+“……How about infiltrating? If we use the guy we’re interrogating, we might succeed unexpectedly.”
 
-"But if it fails, we'll all be captured. The mission will be a failure. It's too risky. We might as well—"
+“But if we fail, we’ll all be wiped out. Naturally, the mission will fail too. The risk is too high. In that case, we’d rather—”
 
-Ambush, infiltration, luring them out, assassination...
+From ambush to infiltration, luring, and assassination, various opinions came out, but there was no good plan that everyone could agree on.
 
-We discussed various strategies, but couldn't agree on a perfect solution.
+But humanity is the epitome of collective intelligence.
 
-But collective intelligence is a powerful force.
+“In the end, luring the enemy to disperse their forces seems the best strategy.”
 
-"Luring them out and dividing their forces seems like the best option."
+“Yes, using the enemy’s message stone would make it easy.”
 
-"We can use their message stones."
+After some discussion, everyone settled on a single strategy.
 
-We finally reached a consensus.
+Well, even that quickly split into two branches.
 
-Well, it was split into two options.
+“Wouldn’t it be better to call out the Dragon Slayer and attack him first? We can target the base afterward.”
 
-"We should lure out the Dragonslayer and eliminate him first. We can deal with the base later."
+“No, we should lure out the troops and attack the base. That’s our mission.”
 
-Eliminate the Dragonslayer first.
+Should we deal with the Dragon Slayer first?
 
-"No, we should lure them out and attack the base. That's our mission."
+Or prioritize the mission?
 
-Or prioritize the mission.
+Both had pros and cons.
 
-Both options had their pros and cons.
+In the former case, if successful, we could catch two birds with one stone.
 
-The former would allow us to achieve two goals at once.
+But…
 
-But...
+“Akuraba, this is no time to be greedy for achievements. Do you think they’ll die without even having time to send word to the rear? They’ll definitely alert others to our presence even if they die.” Kaislan spoke
 
-"Akuraba, this isn't the time to be greedy for achievements. Do you think they'll fall for it so easily? They'll alert their allies before they die."
+“Moreover, there’s no guarantee that the surprise attack will succeed. If they respond calmly, our damage will increase.” said Carla
 
-"And there's no guarantee that the ambush will succeed. If they react calmly, our casualties will be significant."
+“Yes, that’s what I was going to say! Even if we win, everyone will be exhausted and tired. Do you think we can attack the base in that state?” Kaislan asked
 
-"That's what I was going to say! Even if we win, we'll be exhausted. How can we attack the base in that state?"
+If things go wrong, the mission itself could fail.
 
-If it failed, the mission would be a failure.
+On the other hand, with the latter plan, at least we could ensure the success of our mission.
 
-The latter option, on the other hand, guaranteed the success of the mission.
+“Now, now, let’s calm down. Isn’t it ultimately up to Schuiz to decide?”
 
-"Everyone, calm down. It's Schuitz's decision."
+As Jun mediated the heated atmosphere, everyone’s gaze turned to me.
 
-Jun intervened, and all eyes turned to me.
+‘Hah, this is troubling.’
 
-'This is a tough one.'
+It had been a long time since I had to make such a difficult choice.
 
-It was the first time in a while that I couldn't make a decision easily.
+Of course, I knew in my head.
 
-I knew what the rational choice was.
+That choosing the latter was the right thing to do.
 
-To prioritize the mission.
+If it weren’t for the existence of the ‘Dragon Slayer’, I would have chosen the latter without any hesitation.
 
-But...
+Tap, tap.
 
-"We focus on the mission."
+When I unconsciously tapped my knee, the team leaders gulped.
 
-I couldn't ignore the Dragonslayer.
+“It seems Schuiz has made a decision.”
 
-"Good thinking! We'll be rewarded handsomely if we succeed!"
+“He always does that after he’s decided.”
 
-"Reward..."
+Wait… I have a habit like that?
 
-I chuckled.
+This was the first time I’d heard that, but it wasn’t a matter to concern myself with right now.
 
-Akuraba sensed something in my laughter and cautiously asked,
+I announced the decision I’d made:
 
-"Schuitz, can you tell us why? I thought you would be more ambitious."
+“We’ll focus on the mission.”
 
-She was right.
+It’s too early to be greedy for the dragon slayer.
 
-If I had been alone, I would have chosen the former option.
+“Good thinking! As long as we succeed in the mission, the royal family will reward us generously!”
 
-But...
+“Reward, huh…”
 
-"Because your lives are on the line."
+I smirked.
 
-"..."
+But perhaps sensing something odd in that smile?
 
-"The less we fight, the more of us will return alive."
+Akuraba cautiously spoke to me.
 
-That's why I gave up on my greed.
+“Schuiz, may I ask why? I thought you would be more ambitious.”
 
-That was the only reason.
+She’s not entirely wrong.
 
-"So, does that answer your question?"
+If I were alone, I would have done that.
 
-"...Yes, it does."
+But…
 
-Akuraba nodded, her eyes filled with understanding.
+“My decision holds your lives in the balance.”
 
-I let go of my last shred of regret.
+“…”
 
-'Dragonslayer, Regal Vagos.'
+“The fewer battles we engage in, the more of us will return alive.”
 
-It doesn't have to be today.
+That’s why I gave up my ambition.
 
-I'll get my revenge someday.
+That’s the entirety of my decision this time.
 
-[We'll meet again, Dragonkin.]
+“Now, does that answer your question?”
 
-That vow will be fulfilled.
+“…Yes, more than enough.”
+
+As I watched Akuraba nod in acceptance, I let go of the last of my lingering regrets.
+
+‘Dragon Slayer, Regal Vagos.’
+
+It doesn’t have to be today.
+
+I’d be lying if I said I wasn’t disappointed.
+
+[We will meet again]
+
+And when we do, I’ll fulfill the vow I made that day.

@@ -10,13 +10,13 @@ I’ll lose three comrades.
 
 Having seen the records, the thought of being separated from my companions makes me extremely uneasy.
 
-But……
+But......
 
 “You have to go, Captain.”
 
 As if he could read my mind, Kaislan spoke to me in a persuasive tone.
 
-“…Must go? What do you mean?”
+“...Must go? What do you mean?”
 
 “Judging from the official notice, it hasn’t been very long since the summons order was issued. It’s still before the deadline, so nothing is wrong yet, but if you fail to report once the deadline passes, it can grow into a major problem.”
 
@@ -30,7 +30,7 @@ In short, my name would be dragged through the mud.
 
 Considering how much I’ve benefited from my reputation over the years, it’s not like I don’t understand its value.
 
-But…
+But...
 
 “That doesn’t matter. Next.”
 
@@ -40,7 +40,7 @@ My instant answer made Kaislan pause for a moment, but he soon broke into a smir
 
 “Anyway, next.”
 
-“…Second, the clan itself will suffer. As I said, it will be regarded as desertion. Once the war ends, all of us will stand trial. And we’ll receive the harshest punishment. Desertion is treated as one of the gravest crimes under military law.”
+“...Second, the clan itself will suffer. As I said, it will be regarded as desertion. Once the war ends, all of us will stand trial. And we’ll receive the harshest punishment. Desertion is treated as one of the gravest crimes under military law.”
 
 “What exactly is that harsh punishment?”
 
@@ -50,9 +50,9 @@ Unlike the first point, this wasn’t something I could just brush off.
 
 Unless, of course, the entire group planned to hide in the sewers forever.
 
-“What if… Noark wins the war? Then we won’t be punished for desertion, right?”
+“What if... Noark wins the war? Then we won’t be punished for desertion, right?”
 
-“Well, yes, but…”
+“Well, yes, but...”
 
 Kaislan looked directly at me and answered firmly.
 
@@ -69,15 +69,15 @@ He would know the Royal Family’s strength better than anyone here.
 
 “Is there a third reason?”
 
-“The third reason… is you, Captain.”
+“The third reason... is you, Captain.”
 
-“…Me?”
+“...Me?”
 
 “Yes. You won’t be executed like we would, but in the worst-case scenario, they could use ‘desertion’ as justification to strip you of your title.”
 
 His expression was so serious that I wondered what he was getting at.
 
-“Losing my title, huh…”
+“Losing my title, huh...”
 
 Honestly, I couldn’t care less about the title itself.
 
@@ -93,7 +93,7 @@ Kaislan then looked at me with the eyes of a soldier.
 
 “We didn’t choose to follow you because we wanted to become your lackeys.”
 
-“……”
+“......”
 
 “We simply wanted to walk the same path as you.”
 
@@ -105,9 +105,9 @@ As soon as he finished speaking, the others nodded in agreement.
 
 I had no option but to agree with them.
 
-“…Fine. I’ll go. But before that, there’s something I need to do.”
+“...Fine. I’ll go. But before that, there’s something I need to do.”
 
-“…Something to do?”
+“...Something to do?”
 
 What else could it be? If I leave, we’ll be separated.
 
@@ -119,7 +119,7 @@ We need someone to lead while I’m gone.
 
 The vice-captain position had remained vacant since the clan was founded.
 
-I hadn’t left it empty on purpose; I had wanted to fill it for a long time, but…….
+I hadn’t left it empty on purpose; I had wanted to fill it for a long time, but.......
 
 ‘It just turned out that I’m only doing it now.’
 
@@ -137,13 +137,13 @@ There was a common saying in this world: an army of sheep led by a lion is stron
 
 That’s how important the leader’s role is.
 
-Therefore……
+Therefore......
 
 “Does anyone want to nominate themselves?”
 
 I glanced around, but no one raised a hand.
 
-Kaislan seemed a bit ambitious, but……
+Kaislan seemed a bit ambitious, but......
 
 ‘Those two are a bit unexpected.’
 
@@ -169,13 +169,13 @@ The vice-captain role wouldn’t be filled simply because I chose them. For inst
 
 Only someone who could establish their own authority within the clan through their own strength could take that position.
 
-In that sense…….
+In that sense.......
 
 Meland Kaislan.
 
 This guy at least had the minimum conditions fulfilled.
 
-He had experience leading a group, and being a former soldier, he had a certain charisma…….
+He had experience leading a group, and being a former soldier, he had a certain charisma.......
 
 ‘Above all, he’s skilled in strategy and tactics.’
 
@@ -197,7 +197,7 @@ Then:
 
 Versil Gowland.
 
-…She’s also a decent option.
+...She’s also a decent option.
 
 Having joined us shortly after the Ice Rock Expedition, she had been with us long enough, and she even had real experience serving as a proper vice-captain.
 
@@ -213,7 +213,7 @@ After reviewing the other members, I narrowed the candidates down to these three
 
 Erwin and Misha might be the original members, but they aren’t cut out to become leaders.
 
-“Um… Can I become the vice captain?!”
+“Um... Can I become the vice captain?!”
 
 And Aynar wasn’t even worth considering.
 
@@ -221,7 +221,7 @@ And Aynar wasn’t even worth considering.
 
 “Why! You said anyone who wanted to should speak up!!”
 
-“…You are excluded.”
+“...You are excluded.”
 
 “That’s too much! Bjorn!! How could you treat me—”
 
@@ -229,13 +229,13 @@ And Aynar wasn’t even worth considering.
 
 As Amelia narrowed her eyes, Aynar immediately quieted down like nothing had happened.
 
-“……”
+“......”
 
 Sigh. Moments like this made me think Amelia really was the perfect choice.
 
 “Let me say this ahead of time, I’m not doing it.”
 
-“…Huh?”
+“...Huh?”
 
 “It just doesn’t suit me.”
 
@@ -263,21 +263,21 @@ Misha pinched Aynar on the hip as she kept insisting, and that was enough to res
 
 “If you entrust me with it, I won’t shy away from its duty and weight.”
 
-“Me too… Someone has to take the role eventually anyway.”
+“Me too... Someone has to take the role eventually anyway.”
 
 Alright, since I had their approval, there was only one thing left for me to do.
 
 “We will begin the voting now. Each of you will come to me one at a time and whisper the name of the person you think is best suited to be vice-captain.”
 
-“Whisper…into your ear?”
+“Whisper...into your ear?”
 
 “Don’t worry! I’ll keep the secret!”
 
-“……”
+“......”
 
 James Carla looked like he couldn’t believe what he was hearing, but said nothing more.
 
-And then…
+And then...
 
 “Alright, let’s start!”
 
@@ -285,7 +285,7 @@ And so began our barbarian-style secret vote.
 
 The first to begin the voting was Erwin, whom I called forward.
 
-…Huh?
+...Huh?
 
 Did I mishear?
 
@@ -293,19 +293,19 @@ Did I mishear?
 
 “I just think she’d do the best job.”
 
-“No, but you have to pick between the two…”
+“No, but you have to pick between the two...”
 
 “Then just mark mine as abstaining. I don’t really care who gets it.”
 
-“…Understood.”
+“...Understood.”
 
 So, starting off with one abstention (Amelia).
 
-“I’ll go with Ms. Gowland……. She looks a little nicer than Kaislan…….”
+“I’ll go with Ms. Gowland....... She looks a little nicer than Kaislan.......”
 
 Second up, Misha chose Versil.
 
-…Though I’m not sure what being nice has to do with being the vice captain.
+...Though I’m not sure what being nice has to do with being the vice captain.
 
 It’s like picking a class representative in primary school.
 
@@ -331,7 +331,7 @@ That made five votes for Versyl.
 
 “I vote for Kaislan! A knight is better than a mage!”
 
-“Um… we can all hear you from here.”
+“Um... we can all hear you from here.”
 
 Aynar didn’t seem to grasp the idea of a secret vote, since she openly gave Kaislan her first vote.
 
@@ -339,27 +339,27 @@ In that case, the result is already decided.
 
 Since the candidates themselves couldn’t vote, the outcome was more or less already decided. Still, because I wanted to hear the opinions of the remaining member, I called the last person up to vote.
 
-“I, I……”
+“I, I......”
 
 Auyen Rocklob, the plunderer-turned-navigator.
 
 Who would this guy choose?
 
-“I… still think it has to be the Madam.”
+“I... still think it has to be the Madam.”
 
 A completely unexpected line.
 
-“Madam…?”
+“Madam...?”
 
-“Ah, no… I mean Ms. Raines. No matter how much I think about it, she seems the most suitable for the vice-captain position……”
+“Ah, no... I mean Ms. Raines. No matter how much I think about it, she seems the most suitable for the vice-captain position......”
 
-Heh…
+Heh...
 
 Well, that was unexpected.
 
 “Alright, return to your seat.”
 
-“Sorry for saying something unnecessary…”
+“Sorry for saying something unnecessary...”
 
 “It’s alright. You have every right to express your thoughts.”
 
@@ -371,7 +371,7 @@ The other members were also waiting eagerly for the results.
 
 “Haha, don’t flatter me so much. Miss Gowland is quite capable as well. We’ll only know after we hear the results.”
 
-Hmm… This had become a little awkward. Even so, I had no intention of skipping the announcement.
+Hmm... This had become a little awkward. Even so, I had no intention of skipping the announcement.
 
 “I’ll announce the results. Versil Gowland received five votes and will take on the role of vice-captain of our Anabada Clan with effect from today.”
 

@@ -16,7 +16,7 @@ Anyway—
 
 The moment the Level 3 monster appeared, Rex Aureus, the tank of Lee Baek-ho’s team, stepped forward.
 
-And……
+And......
 
 “Wooooooooo-!!”
 
@@ -42,7 +42,7 @@ This drawback also applies to Gigantification.
 
 However, unlike [Gigantification], the [Unity] effect from the Immortal Engraving does not apply to [Giant’s Blood].
 
-“So that’s why… the man who seemed to act as the team’s protector was always walking around shirtless.”
+“So that’s why... the man who seemed to act as the team’s protector was always walking around shirtless.”
 
 His build was quite similar to my own, so it didn’t take me long to recognize the familiar details.
 
@@ -102,7 +102,7 @@ That’s still a Level-3 monster.
 
 Aures was strong enough to lift it over his head and tough enough to walk away with only a scratch after it bit him at full strength.
 
-…Better than I expected.
+...Better than I expected.
 
 It made sense, though.
 
@@ -168,7 +168,7 @@ After linking [Transcendence] with [Gigantification]
 
 “Step aside.”
 
-“Ah, ah… y-yes, of course.”
+“Ah, ah... y-yes, of course.”
 
 Aureus, who seemed unfamiliar with looking up at someone, stepped back.
 
@@ -195,9 +195,9 @@ Or that this guy is a Level 3 monster.
 
 Kwaaaaaang-!
 
-With all these overpowered items and the target’s abilities sealed, I shouls…
+With all these overpowered items and the target’s abilities sealed, I shouls...
 
-“Grrrubble…….”
+“Grrrubble.......”
 
 What, why didn’t it die in one hit?
 
@@ -207,7 +207,7 @@ Feeling slightly embarrassed, I hit it three or four more times with [Swing]. On
 
 The moment that brief, intense scene of violence ended, a meaningful exclamation came from behind.
 
-“……Wow, a tank putting out that kind of damage?”
+“......Wow, a tank putting out that kind of damage?”
 
 Thankfully, it seemed like praise, and the way Baekho teased his ally told me something else as well.
 
@@ -223,7 +223,7 @@ They actually seem close.
 
 I half-ignored their bickering and looked down at the fallen Baiterion.
 
-This feels… strange.
+This feels... strange.
 
 In the labyrinth, monsters vanished into light when defeated.
 But here, there was no such effect.
@@ -238,7 +238,7 @@ Also, unlike in the labyrinth, it seems I’ll need to confirm the kill properly
 
 If I leave it thinking it’s dead, it might suddenly get up and attack.
 
-In many ways, it’s more inconvenient than the labyrinth……
+In many ways, it’s more inconvenient than the labyrinth......
 
 Honestly, that inconvenience is what makes it worthwhile.
 
@@ -256,13 +256,13 @@ At that moment, Lee Baek-ho stopped teasing his ally and turned to me.
 
 “Why are you taking the claws, Baron?”
 
-Well, it’s because they’re one of the materials for the 8th stage Engraving…
+Well, it’s because they’re one of the materials for the 8th stage Engraving...
 
 I hesitated for a moment, reluctant to be honest. Lee Baek-ho answered with a sly smile.
 
-“Ah, so it’s for your Imprint materials, huh? But those claws are only used for Berserker or Immortal path. You’re not taking the Berserker path, so…”
+“Ah, so it’s for your Imprint materials, huh? But those claws are only used for Berserker or Immortal path. You’re not taking the Berserker path, so...”
 
-“…”
+“...”
 
 “Must be the Immortal Imprint. If you’re hunting for this, that means you’re still Stage-7. Oh wait—so you can wear armor while using [Gigantification] thanks to [Unity] effect, right? That’s from Stage-5!”
 
@@ -271,17 +271,17 @@ Hah. This is why I can’t stand the brats who came from the game.
 ***
 Unfortunately, Lee Baek-ho’s rambling didn’t end there.
 
-“Man… so that’s how you did it? Fascinating.”
+“Man... so that’s how you did it? Fascinating.”
 
-“…”
+“...”
 
 “I already know which essences you’ve got, so maybe I’ll find a tame barbarian later and raise him exactly like you.”
 
-“Baek-ho…? You do realize I can hear you, right?”
+“Baek-ho...? You do realize I can hear you, right?”
 
 “Yeah? Then plug your ears.”
 
-“…”
+“...”
 
 He probably wasn’t serious about creating a replica of me, but it was still extremely irritating.
 
@@ -320,7 +320,7 @@ Some even tailed us for a while before giving up the ambush.
 
 Group-type monsters even had leaders who coordinated their underlings strategically.
 
-…Feels like a real wilderness out here.
+...Feels like a real wilderness out here.
 
 It felt like each one of them was a named elite boss monster. Even those similar in size had distinct differences, and one was limping around, covered in wounds.
 
@@ -332,7 +332,7 @@ As we wrapped up today’s journey and prepared to camp a little distance away f
 
 “Wahahah! Jayna! Wahahahaha!”
 
-“…Please stop, Aures.”
+“...Please stop, Aures.”
 
 “Stop? After burning our dinner? Hahahahaha!”
 
@@ -342,7 +342,7 @@ Well, that was mostly thanks to Aures, the warrior, who acted as the mood maker.
 
 Baek-ho was laughing and smiling, too. Even though he said he wouldn’t get attached to his allies.
 
-“…Huh? Where are you going?”
+“...Huh? Where are you going?”
 
 “There’s not much else for me to do.”
 
@@ -379,9 +379,9 @@ But that didn’t last long.
 
 The moment the GM asked that question, the atmosphere turned cold, and silence fell over the group.
 
-“……”
+“......”
 
-“……”
+“......”
 
 ‘What the? Did that question really deserve that kind of reaction?’
 
@@ -389,7 +389,7 @@ Just as I was straining my ears, still unable to figure out why—
 
 “Huh? Why is everyone making such faces?”
 
-Rex Aureus also tilted his head, as if he didn’t understand the situation. At that same moment…
+Rex Aureus also tilted his head, as if he didn’t understand the situation. At that same moment...
 
 “Right?”
 
@@ -399,4 +399,4 @@ Lee Baek-ho and the archer exchanged a brief conversation.
 
 “It’s not a monster. It’s a person.”
 
-……What in the world is going on now?
+......What in the world is going on now?

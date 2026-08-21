@@ -10,7 +10,7 @@ It was as if the building were under divine protection.
 
 Of course, that kind of uncertainty only made sense from a modern man’s perspective. This was a world where fantastical and mystical beings really exist. If locals saw such a sight, they would immediately think of defensive magic circles, artifacts, or holy spells.
 
-“Uh… well, it is a holy spell… so I guess it really is divine protection…?”
+“Uh... well, it is a holy spell... so I guess it really is divine protection...?”
 
 The thought crossed Sven Parav’s mind, but he shook his head.
 
@@ -18,19 +18,19 @@ As a paladin who wielded divine power, he knew better than anyone.
 
 Divine power was simply a resource.
 
-Within the church they preached that it was a blessing from the gods, and that if one lost their worthiness, the gods would take it away…
+Within the church they preached that it was a blessing from the gods, and that if one lost their worthiness, the gods would take it away...
 
 Bullshit.
 
 Sven Parav had seen it far too many times.
 
-Priests who didn’t act like priests. Archbishops who didn’t act like archbishops. Cardinals who didn’t act like cardinals. And…
+Priests who didn’t act like priests. Archbishops who didn’t act like archbishops. Cardinals who didn’t act like cardinals. And...
 
 Paladins who didn’t act like paladins.
 
 Their mouths preached nobility, mercy, and sharing, but their inner thoughts were filthy. Just like his own.
 
-“……”
+“......”
 
 Sven Parav often thought: If divine power truly couldn’t be granted to the unworthy, it should have been taken from him long ago.
 
@@ -44,13 +44,13 @@ However, even after leaving the church, he never lost the power others called di
 
 He was proof that divine power wasn’t granted only to those judged worthy, yet ironically, he also proved that the divine truly existed.
 
-[You received an oracle…?]
+[You received an oracle...?]
 
 Surprisingly, he had heard the voice of the Goddess before. This had happened in a dream, in which the Goddess showed him scenes of the future and allowed him to avoid an ill-fated destiny.
 
 But that only deepened his confusion.
 
-What exactly does she want from me…?
+What exactly does she want from me...?
 
 What do these gods actually want?
 
@@ -64,7 +64,7 @@ Whoosh!
 
 The flames shifted strangely.
 
-“…Damn it.”
+“...Damn it.”
 
 They were dying down.
 
@@ -104,7 +104,7 @@ Clank, clank.
 
 Before he knew it, the troops had reached the front of the building. Sven Parav sat down with his back against the wall beneath the window, focusing entirely on his hearing.
 
-‘Please, please, please, please, please…….’
+‘Please, please, please, please, please.......’
 
 Please, just pass by.
 
@@ -124,7 +124,7 @@ BAM—!
 
 A dull thud hit the door, and one of the evacuees let out a quiet yelp.
 
-“…Hic!”
+“...Hic!”
 
 But—
 
@@ -134,17 +134,17 @@ However quiet they tried to be, it seemed the soldiers outside were listening ju
 
 “Don’t let your guard down. Could be Jandel’s companions.”
 
-Jandel’s companions… Parav’s breath hitched.
+Jandel’s companions... Parav’s breath hitched.
 
-Did they come because of the two of us…?
+Did they come because of the two of us...?
 
 “Break the door!”
 
 Bang! Bang! Bang!
 “Captain! This thing won’t break!”
-“I don’t think it’s because of the material… There’s probably something magical about it.”
+“I don’t think it’s because of the material... There’s probably something magical about it.”
 
-“Well… the temple’s still standing, even though everything else around it burned down.”
+“Well... the temple’s still standing, even though everything else around it burned down.”
 
 “The second floor! Climb through the second-floor windows!”
 
@@ -152,7 +152,7 @@ Right, they weren’t going to stop until they got in.
 
 There was no longer any point in keeping quiet.
 
-“…What do we do?”
+“...What do we do?”
 
 “Miss Marone, please take the first floor. I’ll handle the second!”
 
@@ -200,13 +200,13 @@ Stab—!
 
 If blocking was impossible, he took the hit while minimizing damage to his vitals.
 
-And then…
+And then...
 
 Swishhhhhh—!
 
 He used holy spells to rapidly heal his wounds. However, he couldn’t secure any advantage in terrain while fighting them.
 
-‘Why the hell are the stairs right in the center…’
+‘Why the hell are the stairs right in the center...’
 
 Parav fought his ground at the top of the stairs leading to the first floor. However, as more enemies poured in, he couldn’t hold out for long.
 
@@ -237,7 +237,7 @@ Step.
 
 Moving forward was incredibly hard, while stepping back was far too easy.
 
-‘How am I supposed to stop this many enemies……’
+‘How am I supposed to stop this many enemies......’
 
 His will cracked.
 
@@ -249,7 +249,7 @@ He retreated again.
 
 When he came to his senses, he was already halfway down the stairs, close enough to see the refugees just by turning his head.
 
-“……!”
+“......!”
 
 The refugees were squeezed shut, praying that he would defeat the enemies. However, fiction and reality were different.
 
@@ -259,15 +259,15 @@ As he was steadily pushed back by the flood of enemies, Lyris Marone, assigned t
 
 [Lyris Marone has cast Level 5 defensive magic [Iron Wall]
 
-A massive wall rose between Sven parav and the enemy, temporarily blocking the stairs. It bought him a moment to breathe, but…
+A massive wall rose between Sven parav and the enemy, temporarily blocking the stairs. It bought him a moment to breathe, but...
 
 BANG!
 
-“…It won’t hold for long!” Marone warned
+“...It won’t hold for long!” Marone warned
 
 Even without her warning, the explosions from beyond the wall made it obvious.
 
-“…There are too many of them! What do we do?”
+“...There are too many of them! What do we do?”
 
 What should they do? He didn’t know either.
 
@@ -279,9 +279,9 @@ His heart pounded loudly, screaming that there was no escape. Even so, no matter
 
 After quickly scanning his surroundings, Parav’s eyes landed on the goddess’s statue once more.
 
-‘……What is it?’
+‘......What is it?’
 
-Sven Parav couldn’t take his eyes off the statue. For some reason, an intuition began to bloom inside him. He couldn’t explain it, but… it felt like that statue might hold a way to survive.
+Sven Parav couldn’t take his eyes off the statue. For some reason, an intuition began to bloom inside him. He couldn’t explain it, but... it felt like that statue might hold a way to survive.
 
 Dash—
 
@@ -291,7 +291,7 @@ While the magical wall held, Sven Parav dashed toward the statue.
 
 After searching around the goddess’s statue, he noticed a small indentation hidden in an inconspicuous spot. He pressed it firmly, and when he touched the statue, it slid back smoothly.
 
-‘Could it be… an escape tunnel……?’
+‘Could it be... an escape tunnel......?’
 
 Of course, there was no guarantee it was an emergency exit. But if there was a way to live, this was it.
 
@@ -319,15 +319,15 @@ Then—
 
 Something touched his right arm.
 
-“…?”
+“...?”
 
 He looked down.
 
 A small child was staring up at him, on the verge of tears.
 
-“Mister Paladin… does it hurt a lot…?”
+“Mister Paladin... does it hurt a lot...?”
 
-“….”
+“....”
 
 Sven didn’t answer.
 
@@ -341,13 +341,13 @@ Revealing the hidden passage to everyone.
 
 Even as he shouted, he thought:
 
-Ah… I’ve done it now…
+Ah... I’ve done it now...
 
 No matter how he looked at it, he wasn’t cut out to be some great hero.
 
 If he was going to do the right thing, he wished he could at least do it in a much cooler way.
 
-Well… maybe this suits me.
+Well... maybe this suits me.
 
 The evacuees hurried down the stairs beneath the statue.
 
@@ -357,7 +357,7 @@ As if it were only natural.
 
 But he didn’t feel disappointed.
 
-Yeah… people are all the same. They put themselves first.
+Yeah... people are all the same. They put themselves first.
 
 Though that thought contradicted him.
 
@@ -367,7 +367,7 @@ Why did he act for people he’d only just met?
 
 It wasn’t like he was some righteous holy knight.
 
-“Mr. Parav…?”
+“Mr. Parav...?”
 
 Why had he done it?
 
@@ -381,7 +381,7 @@ The goddess of the stars, said to govern adventure and relationships, the one wh
 
 Badump—
 
-Come to think of it, what was this intuition? He had never really thought about it before, but looking back, it didn’t make sense. He’d often thought he was lucky or had a good gut feeling, but…
+Come to think of it, what was this intuition? He had never really thought about it before, but looking back, it didn’t make sense. He’d often thought he was lucky or had a good gut feeling, but...
 
 It had never been this much.
 
@@ -399,7 +399,7 @@ Is there something I’ve lost because I followed this intuition?
 
 Badump—
 
-If I didn’t have this intuition…….
+If I didn’t have this intuition.......
 
 Badump—
 
@@ -413,7 +413,7 @@ Booom—!
 
 The magical wall blocking the stairs collapsed, and Marone, who had slipped beneath the goddess’s statue, cried out.
 
-“Mr. Parav…!!”
+“Mr. Parav...!!”
 
 At the same time, his intuition spoke again.
 
@@ -435,17 +435,17 @@ It was the strongest, most vivid intuition he’d ever felt.
 
 Because of that, the decision came more easily than ever before.
 
-“…I’m sorry.”
+“...I’m sorry.”
 
 Sven Parav shoved Marone inside and pushed the statue back into its original position.
 
 His pounding heartbeat became a sensation, the sensation took shape, and soon it turned into a sound. His intuition twisted into something like an auditory hallucination and began to speak to him.
 
-[ …Run ]
+[ ...Run ]
 
-[……Follow them quickly! And then, survive on your own!]
+[......Follow them quickly! And then, survive on your own!]
 
-This was the reason he hadn’t followed Marone down. If he had gone below, he felt he would succumb once again to the temptation he had only just managed to overcome. Yes, that was why…….
+This was the reason he hadn’t followed Marone down. If he had gone below, he felt he would succumb once again to the temptation he had only just managed to overcome. Yes, that was why.......
 
 [Hurry, go down—]
 
@@ -453,7 +453,7 @@ Striking his racing heart with his fist, he spoke.
 
 “Shut up.”
 
-Badump……?
+Badump......?
 
 “I decide where I go.”
 

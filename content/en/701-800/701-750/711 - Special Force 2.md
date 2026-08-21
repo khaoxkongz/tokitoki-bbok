@@ -10,7 +10,7 @@ Of course, that was just something I said.
 
 The marquis was not a lunatic. He practically acted as the king’s proxy and was the most powerful man in the kingdom. Why would he ever join hands with those bastards?
 
-‘…Still, I suppose it’s not entirely impossible.’
+‘...Still, I suppose it’s not entirely impossible.’
 
 In truth, I wasn’t completely sure.
 
@@ -20,7 +20,7 @@ That man was hiding something.
 
 And that was exactly why I wanted to search his house while I had the chance.
 
-“Umm… c-can I go to the restroom for a moment?”
+“Umm... c-can I go to the restroom for a moment?”
 
 Heh, it was obvious he was trying to step away so he could report this.
 
@@ -30,13 +30,13 @@ Heh, it was obvious he was trying to step away so he could report this.
 
 “So you’re saying relieving yourself is more important than saving the country?”
 
-“……”
+“......”
 
 As expected, Mumu couldn’t argue when the fate of the nation was at stake.
 
 “Do it in your pants.”
 
-“…….”
+“.......”
 
 After that, he didn’t brought up the restroom topic again.
 
@@ -62,27 +62,27 @@ After securing the special force, we immediately moved toward the marquess’s m
 
 “What are you spacing out for? Let’s go.”
 
-“Um… wouldn’t it be better if you stayed next to Baron Jandel?”
+“Um... wouldn’t it be better if you stayed next to Baron Jandel?”
 
 “No? I’m comfortable here. Why do you want me to move?”
 
-“….”
+“....”
 
 He should have given up and followed without a fuss, yet here he was, resisting until the very end.
 
 People like him usually do not live very long. Even a lizard knows when to let go of its tail—not because it wants to, but because it has to survive.
 
-“….”
+“....”
 
 When Mumu finally fell silent, the other members began whispering among themselves.
 
 Their topic of discussion was simple.
 
-“Is… is this really okay?”
+“Is... is this really okay?”
 
 “Then why don’t you try stopping him?”
 
-“But… doesn’t the baron have a point? Since the unit was created by the chancellor, we won’t have to worry about the aftermath—”
+“But... doesn’t the baron have a point? Since the unit was created by the chancellor, we won’t have to worry about the aftermath—”
 
 “What are you talking about? We’re going to ransack the Marquiss’s residence!”
 
@@ -96,13 +96,13 @@ But still—
 
 “Well, let’s go for now. What else can we do?”
 
-“…That’s true.”
+“...That’s true.”
 
 However, knowing that the law was far away and the barbarian was close, they only muttered their displeasure among themselves. History
 
 ***
 
-“Um… Baron Jandel, what brings you here…?”
+“Um... Baron Jandel, what brings you here...?”
 
 Having arrived at the Marquis’s estate, the butler, who had become quite familiar to me, expressed his confusion.
 
@@ -110,23 +110,23 @@ Having arrived at the Marquis’s estate, the butler, who had become quite famil
 
 “I am not here today as Bjorn Jandel.”
 
-“……Pardon?”
+“......Pardon?”
 
 “I am here today as the Captain of the ‘Special Search Squad’ under the Military Command.”
 
 The butler looked even more confused. Fair enough—he had no idea what kind of group the special search unit was in the first place.
 
-“Then…” he began carefully. “Why is the special search unit here?”
+“Then...” he began carefully. “Why is the special search unit here?”
 
 The butler probably couldn’t even imagine it. As the head servant of the Marquis’s household, someone more powerful than anyone else around, his imagination had likely grown rather dull.
 
 “The reason we are here is simple.”
 
-“…….”
+“.......”
 
 “We’re going to conduct a search.”
 
-“……What?”
+“......What?”
 
 Ignoring the butler’s reaction, I stepped inside.
 
@@ -134,7 +134,7 @@ Sure, some of the members hesitated and struggled to move at first, but—
 
 “What are you standing around for? Get inside.”
 
-“…Yes.”
+“...Yes.”
 
 The moment I glanced back, they hurriedly followed.
 
@@ -142,7 +142,7 @@ Naturally, the estate’s soldiers, who were initially unsure of what was happen
 
 Perhaps because I had caused chaos here once before—
 
-“B-Baron…”
+“B-Baron...”
 
 “You cannot do this here.”
 
@@ -176,9 +176,9 @@ Naturally, the moment they charged, I knocked them out cold with a flick to the 
 
 One might wonder if there was any point in charging when they were going to be defeated so easily, but I respected them for it. If they couldn’t stop me anyway, it was better to be knocked out fighting. At least you could keep your job that way. Unlike those dazed idiots over there.
 
-Uh…”
+Uh...”
 
-“Ah…”
+“Ah...”
 
 With each step I took, the remaining soldiers retreated. Looking at them, a thought crossed my mind
 
@@ -188,7 +188,7 @@ Of course, that was not my problem.
 
 There is no such thing as a lifetime job these days.
 
-“W-we’ve really entered the building…”
+“W-we’ve really entered the building...”
 
 The squad members who had followed me into the building were trembling, clearly worried about the consequences.
 
@@ -204,7 +204,7 @@ Because of my image, the members’ expressions improved a little.
 
 “From now on, you have only one task. Follow me and search this residence for anything suspicious.”
 
-“…….”
+“.......”
 
 “Now, let’s search! An opportunity like this doesn’t come every day!”
 
@@ -220,7 +220,7 @@ I tore apart a painting that might be hiding a Noarkan.
 
 “Hm. Nothing here either.”
 
-“Is… is this really acceptable?”
+“Is... is this really acceptable?”
 
 “It’s not a question of whether it’s acceptable. This is how searches are done.”
 
@@ -244,19 +244,19 @@ The butler who had greeted me at the start stood stunned, looking as if he’d b
 
 His reactions were quite amusing.
 
-“Ugh! Do you know how much that costs…!”
+“Ugh! Do you know how much that costs...!”
 
 He flinched as if his own money were disappearing.
 
 “There’s nothing! Nothing behind that painting, so don’t tear it down!”
 
-“That only makes it more suspicious. Tear it down… Huh. There really is nothing.”
+“That only makes it more suspicious. Tear it down... Huh. There really is nothing.”
 
 “Aaaaaaagh!”
 
 At times he screamed in rage.
 
-“I’m finished… it’s all over…”
+“I’m finished... it’s all over...”
 
 He even muttered to himself in despair, as if he were watching his future crumble right in front of him.
 
@@ -274,7 +274,7 @@ We began a rapid and thorough search of Marquiss Tercerion’s mansion.
 
 Maybe it was because I knew this was the mansion where the marquiss had grown up, and where his grandparents had lived as well.
 
-‘This…’
+‘This...’
 
 The stress relief was incredible.
 
@@ -304,7 +304,7 @@ Boooom!
 
 I swung my mace at the steel door repeatedly. However, the door was so thick that the mace only left deep dents without showing any signs of breaking.
 
-‘At this rate, it’ll take quite a while…’
+‘At this rate, it’ll take quite a while...’
 
 As I was thinking this, one of the search members stepped forward.
 
@@ -316,9 +316,9 @@ Ah, right. We had a few knights among us.
 
 When I stepped aside, the knights unleashed their aura and began hacking at the iron door. I didn’t know what metal it was made of, but it resisted the aura to some extent. However, in the end, the lock mechanism was slashed away and the door opened.
 
-“The Chancellor’s secret space, huh… ”
+“The Chancellor’s secret space, huh... ”
 
-I wondered what was hidden down those stairs. Just as my curiosity peaked and I was about to head down…
+I wondered what was hidden down those stairs. Just as my curiosity peaked and I was about to head down...
 
 “Baron, I won’t go in.”
 
@@ -340,7 +340,7 @@ They were about to glimpse the marquis’s secrets.
 
 “Understood. Then I’ll go alone.”
 
-“…Alone?”
+“...Alone?”
 
 Raven seemed ready to follow, but I shook my head.
 
@@ -354,7 +354,7 @@ The stairs weren’t very deep, and I soon reached a living space.
 
 However, since I didn’t know how to turn on the lights, I took out a candle from my bag.
 
-And then…
+And then...
 
 Whoosh!
 
@@ -368,11 +368,11 @@ At first glance, it looked like an ordinary secret study.
 
 But—
 
-“…Holy fuc*.”
+“...Holy fuc*.”
 
 I wouldn’t have reacted so strongly even if there had been a secret plan in here to kill me. Instead, on the bookshelves, on the desk, on the walls—and even on the ceiling when I looked up—
 
-“……What the hell is all this?”
+“......What the hell is all this?”
 
 Portraits of a single woman were plastered everywhere, covering every available inch of the room.
 

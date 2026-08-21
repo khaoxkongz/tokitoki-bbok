@@ -1,42 +1,44 @@
-62nd day since entering the labyrinth, Dragon’s Depths.
+Bad Blood (4)
+
+Day 62 Since Entering the Labyrinth — Dragon’s Depths
 
 When we were about 30 minutes away from the portal connected to the 8th floor.
 
-「The ring has sensed the character’s destiny.」
+[The ring has detected the character’s fate.]
 
-The traffic light ring lit up.
+The traffic-light ring lit up.
 
-“Mister, it’s… it’s a red light!”
+“Mister, it’s... it’s a red light!”
 
-So, it’s all negative events ahead.
+So, only negative events lay ahead.
 
-I thought there would be at least some green mixed in.
+I’d hoped there would at least be some green mixed in.
 
 Well, that’s disheartening.
 
-‘…What should we do, shouldn’t we turn around now?’
+‘...What should we do? Shouldn’t we turn around now?’
 
-Up until now, whenever the ring glowed red or Sven Parab’s intuition triggered, we immediately changed course to avoid the events.
+Until now, whenever the ring glowed red or Sven Parab’s intuition warned us, we had immediately changed course to avoid whatever was coming.
 
-But…
+But...
 
 “Erwin, changing the destination now won’t change anything.”
 
-“That’s… true, but still…”
+“That’s... true, but still...”
 
 The surroundings were already engulfed in crimson flames.
 
 Even if we tried to escape to another location, the flames would close in and suffocate us.
 
-There was only one way to escape the fire—go all in and push through it before it’s too late.
+There was only one way out—go all in and break through before it was too late.
 
 “Parab, what is it?”
 
 The goblin beside me, looking embarrassed, hesitated before speaking.
 
-“Well… I feel the safest next to you, Captain…”
+“Well... I feel the safest next to you, Captain...”
 
-“Safest,’ huh? It stings a bit, but I’ll let it go.”
+“‘Safest,’ huh? That stings a little, but I’ll let it go.”
 
 After all, he’s been a great help until now.
 
@@ -46,13 +48,13 @@ After all, he’s been a great help until now.
 
 “Is that so? But it’s unusual for you not to say anything. You always wanted to run away to another place at times like this.”
 
-“That’s… I do feel ominous, but I keep thinking this is the right path.”
+“That’s... I do feel uneasy, but I keep thinking this is the right path.”
 
 I see, so that’s how it is.
 
 “We’re almost at the portal. Everyone, pick up your pace!”
 
-Then I kicked into a final sprint.
+Then I broke into a final sprint.
 
 And after some time passed.
 
@@ -60,9 +62,9 @@ And after some time passed.
 
 In the distance, the portal shimmered, scattering multicolored light.
 
-And then…
+And then...
 
-“……Enemies!”
+“......Enemies!”
 
 In the light provided by the portal, we could see the enemies.
 
@@ -76,29 +78,29 @@ They too were heading toward the portal.
 
 Just as we saw them, they also noticed us and shouted.
 
-Phew, how did they know to come here?
+How did they know to come here?
 
 As I wondered that, I saw a familiar face among the enemies.
 
-“You…!!”
+“You...!!”
 
-The Dragon Slayer, Regal Vargos.
+The Dragon Slayer, Regal Vagos.
 
 “Yes, I knew you would come this way!”
 
 Just as I know him, he knows a little about me.
 
-Truly, it’s a persistent ill-fated relationship—
+Truly, this was one persistent ill-fated relationship—
 
 “This is where your escape ends!”
 
-What’s he on about? They just got here, too.
+What was he talking about? They had only just arrived too.
 
-Anyone listening would think they’d completely blocked the path.
+Anyone listening would think they had completely sealed the path.
 
-‘Good thing we picked up the pace’
+‘Good thing we picked up the pace.’
 
-I praised myself for my judgment twenty minutes earlier.
+I silently congratulated myself for the decision I’d made twenty minutes earlier.
 
 If we had hesitated even a little when the ring emitted the red light, they would have blocked us by now.
 
@@ -110,27 +112,27 @@ Breaking into a full sprint, I pushed my legs to the limit.
 
 The current situation is simple.
 
-Our expedition is heading east toward the portal.
+Our expedition was heading east toward the portal.
 
-The Dragon Slayer and his friends—in short, the Dragon Slayer Squad—are running north toward the portal.
+The Dragon Slayer and his men—in short, the Dragon Slayer Squad—were running north toward the portal.
 
 “Ruuuuuun!!”
 
-Whoever arrives first will have a huge advantage.
+Whoever arrived first would have a huge advantage.
 
-But perhaps because they also know that.
+But they knew that too.
 
-The Dragon Slayer Squad also ran desperately, closing the distance to the portal.
+The Dragon Slayer Squad sprinted desperately, closing the distance to the portal.
 
-But…
+But...
 
 ‘Good, we’re faster.’
 
-It’s obvious at a glance that we’re closer to the portal.
+It was obvious at a glance that we were closer to the portal.
 
 “What the fuck are you guys doing, attack!”
 
-To somehow keep us in check, the Dragon Slayer Squad began long-range bombardment.
+To slow us down, the Dragon Slayer Squad began a long-range bombardment.
 
 It was a strategy made possible by their numbers.
 
@@ -138,53 +140,53 @@ The ranged attackers would provide suppressive fire while melee fighters tried t
 
 Whoooosh— Boom—!
 
-Ratatatatata.
+Ratatatatata—!
 
-Phew, this feels like we’re in a real battlefield.
+This really felt like a battlefield.
 
-Countless arrows and abilities pour down from the sky like rain.
+Countless arrows and abilities poured down from the sky like rain.
 
 “What are you doing? Move faster! If you fall behind, it’s over!”
 
-“M-My legs have no strength…!”
+“M-My legs have no strength...!”
 
 “Damn it! Fine, get on my back!”
 
-“But…”
+“But...”
 
 “Just do it!”
 
-I could withstand this kind of area damage and keep moving forward with my body alone, but not everyone in the group was as resilient.
+I could withstand this kind of area damage and keep moving, but not everyone in the group was as resilient.
 
 “Gah!”
 
-An arrow struck a squad member, wounding them.
+An arrow struck one of our members, wounding them.
 
 “Hang in there! I’ll heal you soon!”
 
-Another member picked up the wounded and continued on his way.
+Another member hoisted the wounded explorer up and kept running.
 
-‘Damn it. At this rate, we’ll lose more people here…’
+‘Damn it. At this rate, we’ll lose more people here...’
 
 As I clenched my jaw at that thought.
 
 A shadow with the outline of a woman loomed over us as we ran.
 
-「Erwin Fornacci di Tersia summons [Di Cloe, the Dark Spirit King].」
+[Erwin Fornacci di Tercia summons [Di Cloe, the Dark Spirit King].]
 
-The strongest summoned creature that earned her the nickname “Blood Spirit Queen.”
+The strongest summoned creature in her arsenal—the one that had earned her the nickname “Blood Spirit Queen.”
 
 The Dark Spirit King, Di Cloe.
 
-Immediately, Dichloé began to pour huge dark spheres onto the enemies.
+Immediately, Di Cloe began raining enormous dark spheres down on the enemy.
 
 Boom boom boom boom boom—!
 
-An overwhelming firepower that even Akuraba, known for her burst damage, cannot produce.
+An overwhelming burst of firepower that even Akuraba couldn’t match.
 
 However, its duration is short.
 
-When pouring out full power, the available time is about five seconds.
+At full output, it could only last about five seconds.
 
 But five seconds was enough.
 
@@ -194,21 +196,21 @@ But five seconds was enough.
 
 As the Dragon Slayer Squad faltered to defend against the onslaught, our vanguard began to dive through the portal one by one.
 
-And then…
+And then...
 
 BOOM!
 
 After casting her final dark sphere, Di Cloe was unsummoned, and Erwin staggered.
 
-“Mister, you’re still here…”
+“Mister, you’re still here...”
 
 “Would I leave you behind?”
 
-“…No, you wouldn’t.”
+“...No, you wouldn’t.”
 
 “Good work.”
 
-By now, all team members except the two of us had gone up to the eighth floor.
+By now, every team member except the two of us had gone up to the eighth floor.
 
 I picked up the exhausted Erwin and quickly ran towards the portal.
 
@@ -216,21 +218,21 @@ And how much time had passed?
 
 “You think I’ll let you go!”
 
-From right behind me, I heard his voice.
+His voice came from right behind me.
 
-Indeed, being agility-based, he’s fast.
+As expected from an agility-based fighter, he was fast.
 
-When did he get here?
+When did he catch up?
 
 Well, even so, he’s already too late.
 
-Tap.
+Tap—
 
 The light of the portal enveloped me as I slid through it.
 
 [You have entered the eighth floor: Land of Dawn]
 
-When I rolled on the ground and opened my eyes, I saw the team members waiting in front of the portal.
+I rolled across the ground, and when I opened my eyes, I saw the team members waiting in front of the portal.
 
 “C-Captain.”
 
@@ -242,17 +244,17 @@ But only briefly.
 
 Their relief turned to urgency as they raised their weapons again.
 
-Since all of our expedition members had already entered.
+All of our expedition members had already entered.
 
-It’s obvious who would be coming through the portal now.
+So it was obvious who would come through next.
 
 ‘Huh, I didn’t expect they’d follow us all the way here.’
 
-Are they fearless, or have they just lost their minds?
+Were they fearless, or had they simply lost their minds?
 
 Either way, there’s no need to be scared.
 
-Why did we run ourselves to death?
+Why had we run ourselves half to death?
 
 “Prepare for battle!”
 
@@ -260,47 +262,47 @@ Why did we run ourselves to death?
 
 “Th-they’re coming.”
 
-“Kill them…!!”
+“Kill them...!!”
 
-Blocking the entrance is unbeatable.
+Blocking the entrance was unbeatable.
 
-Entrance blockers are invincible.
+Entrance blockers were invincible.
 
 ---
 
-I stand in front of the portal.
+I stood in front of the portal.
 
-No, to be precise, I’m guarding it.
+No, to be precise, I was guarding it.
 
-Holding a hammer in one hand and a shield in the other.
+A hammer in one hand and a shield in the other.
 
-“……”
+“......”
 
-Together with team members ready to cast skills and swing their weapons at any moment.
+The team members stood with me, ready to cast skills or swing their weapons at a moment’s notice.
 
 “It’s so quiet that it’s making me anxious instead.”
 
-It’s been over an hour since we blocked the portal.
+It had been over an hour since we blocked the portal.
 
-During that time, the portal spat out enemies only once.
+During that time, the portal had spat out enemies only once.
 
-Right after I entered the eighth floor, the Dragon Slayer and his subordinates came in simultaneously.
+Right after I entered the eighth floor, the Dragon Slayer and several of his subordinates came through at once.
 
 ‘If only we could’ve killed him then.’
 
-We killed eight of his subordinates, but unfortunately, the Dragon got away.
+We killed eight of his subordinates, but unfortunately, the Dragon Slayer escaped.
 
-Experiencing entrance-blocking for the first time, he got beaten up and fled back to the seventh floor, abandoning his subordinates and all.
+After experiencing entrance-blocking for the first time, he took a beating and fled back to the seventh floor, abandoning his subordinates.
 
 Since then, this stalemate has continued.
 
 It’s like the calm before the storm.
 
-‘They’ll probably try to rush in all at once when they’ve gathered enough troops.
+‘They’ll probably rush in all at once once they’ve gathered enough troops.’
 
-By then, entrance-blocking or not, we won’t be able to defend this place. Well, I never intended to block the entrance forever in the first place.
+By then, entrance-blocking or not, we wouldn’t be able to defend this place. Not that I ever intended to hold the entrance forever.
 
-All I wanted was time to regroup.
+All I wanted was enough time to regroup.
 
 Just like this.
 
@@ -310,13 +312,13 @@ Just like this.
 
 “We’ve gathered everything we have and need, and loaded them onto the sleds.”
 
-In other words, we can enter Ice Rock anytime we want.
+In other words, we could enter Ice Rock whenever we wanted.
 
-But I decided to push a little more.
+But I decided to stretch that time a little further.
 
 “We’ll watch over here, so let everyone rest a bit in turns.”
 
-“…Understood.”
+“...Understood.”
 
 Kaislan began to rotate the troops, giving priority to those in the worst condition, and seeing this, Akuraba approached me.
 
@@ -328,27 +330,27 @@ Her gaze kept turning backward, revealing her anxious heart.
 
 It’s obvious what she’s worried about.
 
-“…Schuiz, as you know, we don’t know when they will return.”
+“...Schuiz, as you know, we don’t know when they will return.”
 
-Right now, the elites of Noark must be inside the eighth-floor rift.
+Right now, Noark’s elites should still be inside the eighth-floor rift.
 
 If they clear the rift and come out, we’ll be surrounded on both sides.
 
 ‘But for now, luck is on our side.’
 
-Actually, what I feared most was the possibility that when we entered the eighth floor, those elites would be waiting.
+What I had feared most was entering the eighth floor only to find those elites already waiting for us.
 
-The problem is, we have no idea when they’ll come back…
+The problem was that we had no idea when they would return...
 
-It’s like lying in the middle of a probability-based instant-kill zone.
+It was like lying in the middle of a probability-based instant-kill zone.
 
-If luck turns against us, they’ll emerge right now and drag us into a dead end.
+If luck turned against us, they could emerge at any moment and trap us in a dead end.
 
-But…
+But...
 
 “We’ve been on a forced march for days without proper sleep. If we enter Ice Rock like this, we won’t last long before we’re wiped out.”
 
-There’s no other choice.
+There was no other choice.
 
 Perhaps understanding this, Akuraba agreed and left.
 
@@ -356,25 +358,23 @@ And about twelve hours later.
 
 Whoosh—!
 
-The portal shimmered and spat out a Noark explorer. Poorly equipped and completely unprepared, the explorer was quickly taken down by our side.
+The portal shimmered and spat out a Noark explorer. Poorly equipped and completely unprepared, he was quickly cut down by our side.
 
-“Only one person…?”
+“Only one person...?”
 
-“…A scout, perhaps.”
+“...A scout, perhaps.”
 
 A very Noark-like response.
 
-If the sacrificial pawn dies, it means we’re still blocking the entrance; if not, he can return alive and report.
+If the sacrificial pawn died, it meant we were still blocking the entrance. If he survived, he could return and report.
 
 ‘But even Noark wouldn’t keep sending people recklessly.’
 
 After thinking for a moment, I made a decision.
 
-The next scout would likely appear in an hour or three.
+The next scout would probably appear within one to three hours.
 
-If the next scout comes, it would be in one to three hours anyway.
-
-And we’d had just enough time to rest.
+And by then, we’d had just enough time to rest.
 
 “Everyone, pack your gear and suit up!”
 
@@ -382,7 +382,7 @@ Thirteen days remain until the labyrinth closes.
 
 “We’re entering Ice Rock!”
 
-It’s time to head toward the final chapter.
+It was time to head toward the final stretch.
 
 ---
 
@@ -390,13 +390,13 @@ Eighth floor, Land of Dawn.
 
 A peaceful place with green meadows and hills.
 
-However, the atmosphere there was far from peaceful.
+But the atmosphere was anything but peaceful.
 
-Because the bodies of the explorers filling the surroundings reeked of blood.
+Explorer corpses littered the area, reeking of blood.
 
-“Say that again. Kael Elvad Jeneger. What did you just say to me?”
+“Say that again, Kael Elvad Genegger. What did you just say to me?”
 
-“Give it up, Lord Vargos. We have already lost them.”
+“Give it up, Lord Vagos. We’ve already lost them.”
 
 “What!”
 
@@ -406,25 +406,25 @@ The Dragon Slayer rushed and grabbed his collar, but the man didn’t keep his m
 
 “What do you mean! We have several times their numbers; you think we can’t do what they did?”
 
-“You say that because you don’t know Ice Rock. No matter how many people we have, in Ice Rock, numbers only get in the way.”
+“You say that because you don’t know Ice Rock. No matter how many people we bring, numbers only become a burden there.”
 
-“……”
+“......”
 
 “If you’re about to ask whether we can just send an elite team, I’ll tell you in advance: it’s also dangerous. The reason they’ve been running away until now is that enemies were everywhere.”
 
-“You’re saying that if we go by ourselves… we’ll be counterattacked? Is that what you’re saying now?”
+“You’re saying that if we go in alone... we’ll be counterattacked? Is that what you’re telling me?”
 
-“Yes. Especially their leader—he’s a monster—”
+“Yes. Especially their leader. He’s a monster—”
 
 Despite the Dragon Slayer’s angry question, Kael responded firmly, only to have his neck grabbed immediately.
 
-“Gurk…!”
+“Gurk...!”
 
 “You worthless scum.”
 
 Even as the Dragon Slayer throttled him, Kael kept struggling to explain.
 
-“If… If the commander finds out about this—”
+“If... If the commander finds out about this—”
 
 “That damn commander.”
 
@@ -432,41 +432,41 @@ Even as the Dragon Slayer throttled him, Kael kept struggling to explain.
 
 “Between you and me, who do you think the commander would choose? You think he’d kill me for killing you?”
 
-“N-No…”
+“N-No...”
 
-The blood flow to his head was soon cut off, and Kael’s strangled body went limp. A few more seconds here, and he would surely die.
+Blood flow to Kael’s head was cut off, and his body went limp. A few more seconds and he would surely die.
 
 “Tch.”
 
 The Dragon Slayer threw him to the ground, spitting in disgust.
 
-He was pissed that the man kept climbing up on him, but he couldn’t kill him.
+He was furious that the man kept challenging him, but he still couldn’t kill him.
 
-‘Apart from his talkativeness, he’s a useful guy’
+‘Apart from his mouth, he’s a useful guy.’
 
 And the commander has a soft spot for him.
 
 “Damn it.”
 
-Even after venting his anger, the Dragon Slayer clenched his fist tightly, his rage still hadn’t subsided.
+Even after venting his anger, the Dragon Slayer clenched his fist. His rage still hadn’t subsided.
 
-The other subordinates all glared at him, but his mind was cold.
+The other subordinates glared at him, but Vagos’s mind had already gone cold.
 
-‘…What he said isn’t wrong.’
+‘...What he said isn’t wrong.’
 
 If numbers weren’t an option, following them like this was dangerous.
 
 If everyone were on his level, it might work, but the so-called elites were barely competent.
 
-The one who was slightly better was that guy who just fainted.
+The only one who stood noticeably above the rest was the man he had just choked unconscious.
 
-If things went sideways and he had to use his Dragon Speech, his barely-recovered body might collapse, leaving him incapacitated for months.
+If things went wrong and he had to use Dragon Speech, his barely recovered body might collapse, leaving him incapacitated for months.
 
 The commander would raise hell.
 
 It was a situation where losses seemed inevitable.
 
-But…
+But...
 
 So I’m just supposed to let that bastard go without doing anything?
 
@@ -480,35 +480,35 @@ In an attempt to avoid losses, he gave up things one by one, and eventually, it 
 
 And now, he was supposed to just let the root of all this walk away?
 
-The more he calmly organized his thoughts, the more his mind leaned toward not letting it happen.
+The more calmly he organized his thoughts, the more convinced he became that he couldn’t let that happen.
 
-Because now, it wasn’t simply a matter of revenge.
+Because this was no longer simply a matter of revenge.
 
 “He’s someone who became this strong in such a short time.”
 
-What will he be like the next time we meet?
+What would he be like the next time they met?
 
-He even destroyed the Eye of the Sky; if he just returns, the royal family will surely grant him a great reward.
+He had even destroyed the Eye of the Sky. If he returned safely, the royal family would surely reward him handsomely.
 
-If he becomes even stronger here…
+If he became even stronger...
 
-Will I be able to defeat him then?
+Would I still be able to defeat him then?
 
-Soon, Regal Vargos made up his mind.
+Soon, Regal Vagos made up his mind.
 
-“…I have to do it now.”
+“...I have to do it now.”
 
 He couldn’t give him any more time.
 
 No matter what losses he had to bear, he had to end this ill-fated relationship with him.
 
-That was the wise choice.
+That was the sensible choice.
 
 Clench.
 
 At the moment he made that decision.
 
-As if the heavens were cheering on his resolve.
+As if the heavens themselves were cheering on his resolve.
 
 Whooshhhh—!
 
@@ -516,34 +516,34 @@ A warm spring breeze blew fiercely, swirling into one place and forming a ring o
 
 It could only mean one thing.
 
-“…A rift! A rift is opening!”
+“...A rift! A rift is opening!”
 
 The most elite force secretly cultivated by Noark—a group so selective they refused to absorb any essence below Level 4.
 
-There’s even talk within Noark that once they start their full-scale activities, a generational shift will occur even within Orcules…
+There was even talk within Noark that once they began operating in earnest, they would trigger a generational shift within Orcules itself...
 
-Lucky bastards born in the right era.
+Lucky bastards, born in the right era.
 
-After all, while others clawed their way up from the first floor through grueling effort, these chosen few had been lavished with resources for their so-called potential and empty essence slots.
+After all, while others had clawed their way up from the first floor through sheer effort, these chosen few had been showered with resources simply because of their potential and empty essence slots.
 
 Well, no matter.
 
-Setting aside his envy, Vargos smirked and stepped forward.
+Setting aside his envy, Vagos smirked and stepped forward.
 
 Soon, the portal opened, revealing the raiding party.
 
 They looked worn out, as if they had been through a tough battle.
 
-“You are… Regal Vargos? What brings you here?”
+“You are... Regal Vagos? What brings you here?”
 
 At the raiding party’s question, the Dragon Slayer grinned and answered.
 
 “The Eye of the Sky has been destroyed.”
 
-“…What? The Eye of the Sky?”
+“...What? The Eye of the Sky?”
 
 “And the ones who broke it fled to Ice Rock over there.”
 
-“But why are we…?”
+“But why are we...?”
 
 “The commander’s order is to lead you in pursuit.”

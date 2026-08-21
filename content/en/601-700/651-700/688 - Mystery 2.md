@@ -6,7 +6,7 @@ Everyone looked confused. However, before making any decisions, I decided to hea
 
 “Yes, tell me. There might be some information that could help us understand the situation.”
 
-“Well, there’s not much to tell… After I woke up in the Venomous Magma Fields, I wandered around to see if anyone else had fallen there. I took a quick look around and, since it seemed like no one was there, I crossed over to the Primordial Land.”
+“Well, there’s not much to tell... After I woke up in the Venomous Magma Fields, I wandered around to see if anyone else had fallen there. I took a quick look around and, since it seemed like no one was there, I crossed over to the Primordial Land.”
 
 None of what he said gave me any clues.
 
@@ -22,7 +22,7 @@ He stretched in an exaggerated way before quickly letting his expression shift. 
 
 “So. Where’s our archer?”
 
-“……”
+“......”
 
 “Is he dead?”
 
@@ -36,7 +36,7 @@ It’s not like I did anything wrong.
 
 “He was alone and we found his body on the way to the Primordial Forest. It seemed he was killed by a monster.”
 
-“…Really?”
+“...Really?”
 
 Baek-ho fell silent for a moment after that.
 
@@ -48,7 +48,7 @@ Lee Baek-ho regained his usual composure as if nothing had happened.
 
 “Everyone must have had a rough time? Honestly, I thought maybe everyone except the Baron and gramps might have kicked the bucket.”
 
-“……”
+“......”
 
 “But what do we do about our archer? Even if he was a bit timid, his skills were decent.”
 
@@ -64,11 +64,11 @@ I couldn’t know, but the discussion about Bright ended there.
 
 “That’s right. Unless you’re playing a prank, Baek-ho.”
 
-“Why the hell would I joke about this? Seriously…it’s so creepy.”
+“Why the hell would I joke about this? Seriously...it’s so creepy.”
 
 Hmm. I don’t know if it’s that creepy.
 
-“…Unless we’ve got a traitor among us?”
+“...Unless we’ve got a traitor among us?”
 
 Baek-ho looked around at the group. The moment his eyes settled on Aures, Aures immediately started defending himself.
 
@@ -86,13 +86,13 @@ Reasonable my ass.
 
 “If none of us hung the cloth, then it makes more sense to suspect the other side.”
 
-“…Other side?”
+“...Other side?”
 
 “Did you already forget? We’re not the only ones in this area.”
 
 Something seemed to click in Baek-ho’s head
 
-“Ah! That bastard who lured us here! Wh-what was his name… Han… something? Right! Dalan! That Han—!”
+“Ah! That bastard who lured us here! Wh-what was his name... Han... something? Right! Dalan! That Han—!”
 
 “Enough.”
 
@@ -112,7 +112,7 @@ This time, Ruin-Gramps spoke before I even had the chance to answer.
 
 “Please refer to him by his family name if possible.”
 
-“……?”
+“......?”
 
 Ruin Gramps shot me a questioning look.
 
@@ -120,7 +120,7 @@ Ruin Gramps shot me a questioning look.
 
 He stared at me as if I’d lost it, but he didn’t bother to question me.
 
-“…Anyway, my opinion is that it’s highly likely we met some mysterious entity, disguised as Dalan.”
+“...Anyway, my opinion is that it’s highly likely we met some mysterious entity, disguised as Dalan.”
 
 “Then what does that unknown bastard want?”
 
@@ -138,7 +138,7 @@ We’re already trapped here. Our only option is to continue exploring this myst
 
 Baek-ho stepped towards me as if urging me to hurry up. But I didn’t move aside and I simply shook my head.
 
-“Why aren’t we going down…? Oh, right. You were coming up the stairs when I ran into you, right?”
+“Why aren’t we going down...? Oh, right. You were coming up the stairs when I ran into you, right?”
 
 It was only then that Baekho took notice and asked why.
 
@@ -150,19 +150,19 @@ The others followed because I insisted, but this guy probably wouldn’t.
 
 After I added a brief explanation, Lee Baek-ho seemed to think for a moment, then slapped his knee.
 
-“Something might be up there… Ah! Now that I think about it, this place resembles the ‘Golden Ruins’!”
+“Something might be up there... Ah! Now that I think about it, this place resembles the ‘Golden Ruins’!”
 
 Seriously, was it because he’d played the original mode for so long? Even though he came here after clearing the cheat version, he still knew quite a lot.
 
 “Heh, so that’s what you’re aiming for? Then I approve. It’s worth checking out!”
 
-“Um… What are you two talking about…?”
+“Um... What are you two talking about...?”
 
 “Quiet. You all just follow along.”
 
 In any case, since our goals aligned, Baekho rejoined the group, and we continued up the stairs.
 
-10 minutes, 20 minutes, 30 minutes…
+10 minutes, 20 minutes, 30 minutes...
 
 I wasn’t sure how much time had passed, but it was around when I began to wonder whether this place even had that event, since we technically weren’t inside the labyrinth.
 
@@ -170,11 +170,11 @@ Thud.
 
 Finally, the stairs ended, revealing a narrow passage.
 
-“…Huh?”
+“...Huh?”
 
-“It really ended…? I honestly thought it would just be some kind of illusion.”
+“It really ended...? I honestly thought it would just be some kind of illusion.”
 
-“What’s going to be in there…?”
+“What’s going to be in there...?”
 
 The atmosphere suggested they wanted an explanation, but as I started walking through the passage without saying anything, everyone quietly followed me.
 
@@ -200,7 +200,7 @@ Boooom!!
 
 The stone door shattered into pieces with a single blow.
 
-‘…What?’
+‘...What?’
 
 Even I was dumbfounded after smashing it.
 
@@ -234,13 +234,13 @@ Boom
 
 I raised my shield and readied myself, and the others formed up right after.
 
-But…
+But...
 
-“……”
+“......”
 
-“……”
+“......”
 
-“…Isn’t something supposed to come out?”
+“...Isn’t something supposed to come out?”
 
 Even after the dust had settled completely, the boss still didn’t appear.
 
@@ -262,13 +262,13 @@ As I stared down at it blankly, Baek-ho called Ruin Gramps.
 
 “What do you mean by that?”
 
-“The value in monster bones lies in the magical power preserved within them. However…”
+“The value in monster bones lies in the magical power preserved within them. However...”
 
 Ruin Gramps picked up one of the bones and continued.
 
 “There is no trace of mana here. These are worse than Goblin bones. They’ve decayed so much that they can’t even be used to make a staff.”
 
-“…I’ve never seen a creature’s bones feel this empty. There usually isn’t enough time for the mana density to drop all the way to zero.
+“...I’ve never seen a creature’s bones feel this empty. There usually isn’t enough time for the mana density to drop all the way to zero.
 
 “In that sense, it might be worth collecting a few pieces. As our friend here said, it’s a very peculiar case.”
 
@@ -310,16 +310,16 @@ The conversation about the bones went on for a bit, but it could be summed up ra
 
 It wasn’t worth discussing. What difference did it make how it died, or how long ago it happened?
 
-…Kind of a waste to miss that buff. And I was actually hoping to fight it, since there was a chance of getting a decent drop—
+...Kind of a waste to miss that buff. And I was actually hoping to fight it, since there was a chance of getting a decent drop—
 
-“Huh? Baron, what’s this? It looks like some kind of ‘box’……”
+“Huh? Baron, what’s this? It looks like some kind of ‘box’......”
 
 “What? A box?”
 
 At that, I snapped my head toward the voice.
 Aures was holding a pitch-black, cube-shaped box in his hand.
 
-“…Where did you find that?”
+“...Where did you find that?”
 
 “Find it? It was just lying over there in the corner.”
 
@@ -329,7 +329,7 @@ After practically snatching it from under him, I quickly examined its exterior f
 
 It was the real thing.
 
-“What is that supposed to be…?”
+“What is that supposed to be...?”
 
 “No. 777 — Makairo’s Storage Box.”
 

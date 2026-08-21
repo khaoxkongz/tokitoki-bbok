@@ -2,7 +2,7 @@ The Return of the Lion (4)
 
 A certain pub in District 7, always bustling with explorers.
 
-A place that sells cheap alcohol, leaving empty bottles rolling around the floor, and whenever there’s a spare moment, drunks start brawling.
+A place that sold cheap alcohol, where empty bottles rolled across the floor and drunks started brawls whenever they had a spare moment.
 
 Bang—!
 
@@ -26,7 +26,7 @@ At the sight of the boy who walked in, the burly, rough-looking pub owner rolled
 
 “Heh, do you think we, who sit here in broad daylight getting hammered, care about that?”
 
-“Are you sure you’re not interested? You were just grumbling about how the city’s in an uproar over nothing big”.
+“Are you sure you’re not interested? You were just grumbling about how the city’s in an uproar over nothing big.”
 
 “All right, kid, come back when you’re taller.”
 
@@ -38,9 +38,9 @@ And at that very moment—
 
 “Hahaha!”
 
-“Bjorn Jandel is back—alive…!”
+“Bjorn Jandel is back—alive...!”
 
-“Haha, ha… huh?”
+“Haha, ha... huh?”
 
 A sudden hush settled over the pub.
 
@@ -62,7 +62,7 @@ And then—
 
 One of the explorers showed interest, and the pub owner put the boy down.
 
-“Ugh, you guys reek of alcohol…”
+“Ugh, you guys reek of alcohol...”
 
 Brushing off his crumpled collar, the boy walked over to the explorer’s table. As if paying for the tale, the explorer tossed some coins onto the table.
 
@@ -70,9 +70,9 @@ Brushing off his crumpled collar, the boy walked over to the explorer’s table.
 
 “Of course, it’s certain. The Iron Chancellor himself acknowledged it in front of thousands of nobles!”
 
-“…The Iron Chancellor, you say?”
+“...The Iron Chancellor, you say?”
 
-“Yes, well, this is how it all went down…”
+“Yes, well, this is how it all went down...”
 
 The boy trailed off and glanced at the nearby explorers, who pricked up their ears as if they weren’t listening. With a sigh, they tossed him a few coins as well.
 
@@ -80,11 +80,11 @@ And so the real story began.
 
 Once you stripped away the boy’s flair for dramatic storytelling, it was a shorter story than expected.
 
-“So… the word that Bjorn Jandel had died was actually because he was carrying out a covert mission for the royal family, and declaring him an evil spirit was part of that operation?”
+“So... the word that Bjorn Jandel had died was actually because he was carrying out a covert mission for the royal family, and declaring him an evil spirit was part of that operation?”
 
 “Wait, Rihen Schuiz – wasn’t he called the Man of the Blood Spirit Queen? I heard he led the expedition!”
 
-“Right, that explains it. I’ve always wondered why someone whose name was not widely known was leading such a formidable group.
+“Right, that explains it. I always wondered why someone so unknown was leading such a formidable group.”
 
 Bjorn Jandel was a hero, etched in people’s memories even after all this time.
 
@@ -100,7 +100,7 @@ Thud, thud.
 
 A burly woman with a massive build stumbled forward, reeking of alcohol, but her gaze was unclouded and sharp.
 
-“What… what’s going on?”
+“What... what’s going on?”
 
 The explorers held their words in front of the imposing woman, and the boy cautiously asked her intentions.
 
@@ -108,41 +108,41 @@ She parted her lips to speak.
 
 “Boy, I was listening over there.”
 
-“…Is that so?”
+“...Is that so?”
 
 “Is it true? That Bjorn Jandel is alive. That he was Rihen Schuiz.”
 
 Her voice and expression carried a sort of urgency. The boy, puzzled by her intensity, answered dutifully.
 
-“…Yes! It’s all true!”
+“...Yes! It’s all true!”
 
-“I see… so that’s how it was… I never knew…”
+“I see... so that’s how it was... I never knew...”
 
 The woman, as if entranced, murmured to herself and pulled out some money, pressed it into the boy’s hands, and left the pub.
 
 The boy checked the sum and gasped.
 
-“Ten thousand stones…?”
+“Ten thousand stones...?”
 
 An enormous amount he’d never before earned as a wandering storyteller. The others in the pub stirred as well.
 
 “She gave that much just for telling a story?”
 
-“…I never thought there’d be such a wealthy person in this cheap pub.”
+“...I never thought there’d be such a wealthy person in this cheap pub.”
 
-“Who is she…?”
+“Who is she...?”
 
 “Hey, why have you been so quiet?”
 
 As everyone speculated about the woman’s identity, one man quietly muttered.
 
-“Insane…”
+“Insane...”
 
 “Do you know who she is?”
 
 “How many blonde female barbarians do you think there are? And how many of them carry a giant greatsword on their back?”
 
-“So… who is she?”
+“So... who is she?”
 
 “The Explosive Blade—Aynar Pheneline.”
 
@@ -160,15 +160,15 @@ As the man spoke her identity, the eyes of those around him widened once more.
 
 The pub flared back to life, each patron offering their own guess about the woman’s identity. Only the pub owner looked close to tears.
 
-“That lady… She just left without paying for her drinks…”
+“That lady... She just left without paying for her drinks...”
 
 ---
 
-Like a passing storm, the triumph ceremony ended. And we each returned home.
+Like a passing storm, the triumph ceremony ended, and we each returned home.
 
 I worried the Marquis might keep us around longer, but it seemed he had no intention of overstepping.
 
-“Did everything work out for the best, then…?”
+“Did everything work out for the best, then...?”
 
 We returned to our mansion after a long time.
 
@@ -180,7 +180,7 @@ Right after I revealed myself in front of thousands of nobles—without prior ag
 
 He announced that my supposed death had been a ruse so I could undertake a secret mission for the royal family, and that the claim of me being an evil spirit was also untrue.
 
-They originally planned to release the official documents two months from now, but the Marquis had no choice but to proclaim it early and publicly before the crowd.
+They had originally planned to release the official documents two months later, but the Marquis had been forced to make the announcement early, right there before the crowd.
 
 Because he had no other option.
 
@@ -188,25 +188,25 @@ Because he had no other option.
 
 That was exactly the trap I’d laid for him.
 
-Sure, they could throw a grand victory celebration for me. Normally, people would talk about it for a month or so, then gradually forget. If I wanted to remain firmly in people’s minds—and ensure I kept the public spotlight—this was the best way to do it.
+Sure, they could throw me a grand victory celebration. Normally, people would talk about it for a month or so and then gradually forget. If I wanted to stay firmly in the public mind—and keep the spotlight on me—this was the best way.
 
 For some reason, the royal family cares a lot about public opinion.
 
-Well, for the next few months at least, they can’t try anything underhanded, like framing me for a fake crime…
+Well, for the next few months at least, they can’t try anything underhanded, like framing me for a fake crime...
 
 All in all, the first step had gone well.
 
 Now the next step was to build up as much influence as possible in the time we had. That way, even if they find out what really happened in the Labyrinth, they’ll think twice about getting rid of us.
 
-‘We have a lot to do…’
+‘We have a lot to do...’
 
 With those thoughts, I finished changing and went downstairs, only to find the living room in chaos.
 
-“…Emily, what happened here?”
+“...Emily, what happened here?”
 
 “While we were away, there was an intruder.”
 
-“…What?”
+“...What?”
 
 “I had tied one of my hairs to the doorknob before leaving. When we got back, it was gone. I searched everywhere except your room, but thankfully I didn’t find any listening devices.”
 
@@ -214,47 +214,47 @@ With those thoughts, I finished changing and went downstairs, only to find the l
 
 We had something akin to CCTV in our home, which Erwin had installed in the living room and near the entrance.
 
-“But…”
+“But...”
 
 “That’s already been smashed. The record only lasts a day, and it’s not hard to tamper with. They might have already interfered with the magic circuit, so we couldn’t just leave it.”
 
-“…I see.”
+“...I see.”
 
 “Whoever they were, they were amateurs. They entered an empty house and didn’t even touch the basement.”
 
-“The basement…? Ah, the sailor!”
+“The basement...? Ah, the sailor!”
 
 I finally remembered someone I’d forgotten—Auyen Roklov, the plunderer-cum-sailor we’d captured on our previous Labyrinth expedition.
 
-I remember Amelia saying she’d stocked enough food for him before we left…
+I remember Amelia saying she’d stocked enough food for him before we left...
 
-It had been several days since the Labyrinth has closed.
+It had been several days since the Labyrinth had closed.
 
 “Is he all right?”
 
 “He’s fine, a bit thinner though. I prefer him that way.”
 
-That doesn’t seem right…
+That doesn’t seem right...
 
-“And unintentionally, his loyalty to us seems to have risen. Though he realized the daily antidote requirement is a lie, he’s grown more dependent on us after this close call.”
+“And unintentionally, his loyalty to us seems to have risen. Though he had realized the daily antidote requirement was a lie, this close call had only made him more dependent on us.”
 
-“Oh…”
+“Oh...”
 
 “If you want to see him, go ahead. He said that when he heard footsteps upstairs, he kept perfectly quiet and wanted praise for that.”
 
-“N-No… I’m good…”
+“N-No... I’m good...”
 
 “Hmm. Don’t leave it all to me, though. You should take an interest in him too.”
 
-“…Later.”
+“...Later.”
 
 At least he was fine, so for now I pushed Auyen out of my mind. After Amelia searched my room as well, the three of us regrouped in the living room.
 
-“So… is our house safe now?”
+“So... is our house safe now?”
 
 “For today, at least.”
 
-“Phew… coming home makes it all feel like a dream.”
+“Phew... coming home makes it all feel like a dream.”
 
 Erwin, relieved, slumped onto the sofa.
 
@@ -262,7 +262,7 @@ Erwin, relieved, slumped onto the sofa.
 
 “Oh, the subspace item.”
 
-“Yeah…”
+“Yeah...”
 
 Amelia’s eyes gleamed with anticipation—like a child on Christmas morning. I guess I felt the same way.
 
@@ -274,13 +274,13 @@ I began counting quietly. Then, as I reached ‘two’—
 
 Knock, knock.
 
-Visitors.
+We had visitors.
 
-I sighed and decided to postpone opening the subspace. We went to see who it was. The knock was loud enough to put me on guard, but fortunately it was a welcome face.
+I sighed and decided to postpone opening the subspace. We went to see who it was. The pounding was loud enough to put me on guard, but fortunately the visitor was a welcome face.
 
 “Raven.”
 
-“I’m sorry if you were busy. I just… I heard the news, and I couldn’t stand by without checking on you.”
+“I’m sorry if you were busy. I just... I heard the news, and I couldn’t stand by without checking on you.”
 
 “Come in.”
 
@@ -290,7 +290,7 @@ Was regaining my name and status part of the plan?
 
 What are my thoughts on the future?
 
-“And… I’m glad you’re safe, really…”
+“And... I’m glad you’re safe, really...”
 
 Then the topic of the expedition came up.
 
@@ -298,9 +298,9 @@ Then the topic of the expedition came up.
 
 “Alright?”
 
-“So many died… I was there at the Hall of Honor for the victory ceremony… I saw you apologizing to the families of the fallen, reading out every single name…”
+“So many died... I was there at the Hall of Honor for the victory ceremony... I saw you apologizing to the families of the fallen, reading out every single name...”
 
-“…Yeah.”
+“...Yeah.”
 
 “I’m worried about you. Are you really OK?”
 
@@ -310,13 +310,13 @@ I hesitated for a moment, then forced a bright smile and patted Raven’s delica
 
 “Why wouldn’t I be alright? I made it back alive.”
 
-“…What really happened out there?”
+“...What really happened out there?”
 
-Only ten returned alive from the expedition.
+Only ten of us had returned alive from the expedition.
 
-There was too much that happened to explain in a few words.
+Too much had happened to explain in a few words.
 
-“Nothing. It’s exactly as the marquis explained.”
+“Nothing. It’s exactly as the Marquis explained.”
 
 It was better not to tell Raven.
 
@@ -328,7 +328,7 @@ I couldn’t burden her with fighting the royal family.
 
 That was a burden for us alone.
 
-“Somehow… you feel more distant than ever. Then again, you always kind of did…”
+“Somehow... you feel more distant than ever. Then again, you always kind of did...”
 
 “It’s just your imagination.”
 
@@ -364,13 +364,13 @@ Grin.
 
 Yes, I’ve regained my name now.
 
-The time of separation has been long enough.
+We had been separated long enough.
 
-So…
+So...
 
 ‘Now it’s just Misha Mr. Bear remaining.’
 
-It’s about time we are all together again.
+It was about time we were all together again.
 
 ---
 
@@ -382,13 +382,13 @@ Biting down on the tip of his spoon, Lee Baek-ho spoke cautiously.
 
 “Hey, cat.”
 
-“…Don’t call me that.”
+“...Don’t call me that.”
 
 “But you hate it when I call you by your surname, or even your first name?”
 
 “Is it that hard to understand? Just don’t call me anything.”
 
-“C’mon, you’re so cold…”
+“C’mon, you’re so cold...”
 
 Lee Baek-ho muttered and cast a sideways glance.
 
@@ -398,11 +398,11 @@ Except for one person.
 
 “Hey, cat.”
 
-“……”
+“......”
 
 “You never go outside?”
 
-“……”
+“......”
 
 “I mean, not counting Labyrinth runs, you basically never step outside. Look at your skin, you’re pale—”
 
@@ -410,7 +410,7 @@ Clack—!
 
 The cat-tribe woman slammed her spoon down on the table in irritation.
 
-And then…
+And then...
 
 “I’m done.”
 
@@ -428,11 +428,11 @@ The first to answer was the Ruin Scholar.
 
 “We can’t hide it forever.”
 
-“Yeah, I know… But until then, everyone be careful with your words, okay?”
+“Yeah, I know... But until then, everyone be careful with your words, okay?”
 
-The Scout nodded.
+The scout nodded.
 
-“…Fine.”
+“...Fine.”
 
 “All right. Dinner’s done. Everyone’s free to go.”
 
@@ -442,15 +442,15 @@ Then—
 
 Thud.
 
-The moment he returned to his room…
+The moment he returned to his room...
 
-“……”
+“......”
 
 The expression he maintained in front of his colleagues turned cold.
 
 It couldn’t be helped.
 
-“Bjorn Jandel is alive…”
+“Bjorn Jandel is alive...”
 
 Actually, his feelings towards Bjorn Jandel weren’t bad.
 
@@ -462,7 +462,7 @@ He had even taken in Misha when she was like a wet cat because it was fascinatin
 
 His regret over the two being torn apart was definitely sincere.
 
-But…
+But...
 
 “This is interesting.”
 
@@ -470,15 +470,15 @@ It’s too late, far too late.
 
 Now, he couldn’t purely celebrate Bjorn Jandel’s survival.
 
-He would lose Misha, the Ice Swordswoman he’d worked so hard to raise to an unworthy person.
+He would lose Misha, the Ice Swordswoman he had worked so hard to raise, to someone he considered unworthy.
 
-Ah, of course, technically she would return to her original owner…
+Ah, of course, technically she would return to her original owner...
 
-“If that’s the case, you should have come back sooner. Doing this now will only cause trouble”.
+“If that’s the case, you should have come back sooner. Doing this now will only cause trouble.”
 
 Lee Baek-ho seriously considered it.
 
-“Maybe… should I just kill him?”
+“Maybe... should I just kill him?”
 
 If something obstructed his goals, he wouldn’t let emotions sway him and would eliminate it.
 

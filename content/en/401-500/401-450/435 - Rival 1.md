@@ -1,19 +1,18 @@
-Rival(1)
+Rival (1)
 
 Today, Lee Han-soo’s room felt unusually foreign.
 
-“It feels… cramped.”
+“It feels... cramped.”
 
-I felt an inexplicable sense of suffocation in this room that had always been filled with cosiness.
+An inexplicable sense of suffocation filled the room that had always felt so cozy.
 
-And I’m not even in my massive barbarian body.
-History
+And I wasn’t even in my massive barbarian body.
 
 Well, whatever. First, let’s turn on the computer.
 
 Temporarily setting aside the strange feeling of alienation, I quickly powered up the PC and logged into the community.
 
-Long Live Korean Independence-0 users currently online.
+[Long Live Korean Independence] — 0 users currently online.
 
 I checked the Korean chat room first, but it was empty.
 
@@ -21,19 +20,19 @@ I checked the Korean chat room first, but it was empty.
 
 There was no reason to enter an empty chat room, so I proceeded to check the message boards.
 
-Sure enough, posts were already generating rapidly.
+Sure enough, new posts were already appearing rapidly.
 
-From nonsense posts to advice queries.
+Everything from nonsense posts to requests for advice.
 
 Among the various topics, I clicked on the most eye-catching one.
 
-[Breaking] Bjorn Jandel, the man everyone thought was dead, is alive].
+[Breaking] Bjorn Jandel, the man everyone thought was dead, is alive.
 
-Content..
+Content.
 
 That’s literally the entire post. It’s as if the author really wanted to be the first to post, so they just wrote “Content” and hit submit.
 
-However, being the first post, the comments refreshed in real time.
+Still, because it was the first post on the topic, the comments were refreshing in real time.
 
 [Harbinn: Whoa! The Marquis must be shocked and the royal family must be stunned!]
 
@@ -49,11 +48,11 @@ After all, my return had already been announced, so no one was making a fuss.
 
 But there were still some who seemed to be hearing it for the first time.
 
-[showmustgone: Huh? Is this for real? How is Björn Jandel alive? He was dead, right?]
+[showmustgone: Huh? Is this for real? How is Bjorn Jandel alive? He was dead, right?]
 
-[└Sogeking33: Were you locked in a cellar or something? Jandel announced his return in the Palace of Glory ages ago.]
+[└Sogeking33: Were you locked in a cellar or something? Jandel announced his return in the Hall of Glory ages ago.]
 
-[└IsABot: I was there when he announced his return, honestly, it gave me goosebumps].
+[└IsABot: I was there when he announced his return. Honestly, it gave me goosebumps.]
 
 [└arolf5205: It was no joke to see him apologise to the family in front of the empty throne before even greeting us. I always thought I was a real man, but apparently real men are like him.]
 
@@ -77,13 +76,13 @@ Of course, the upper echelons of Noark would know I exist, but if they were clam
 
 Looks like they’ve taken care of the reporting, so I stopped reading and checked the chat room.
 
-And then…
+And then...
 
 Thump-
 
 I froze for a moment with the mouse in my hand.
 
-It’s not that I’m flustered—more that the inevitable has come.
+It wasn’t that I was flustered—more that the inevitable had finally arrived.
 
 [Long Live Korean Independence] – 2 users currently online.
 
@@ -91,16 +90,17 @@ Despite my being outside, two people were already in the chat room.
 
 There were three possibilities.
 
-A total stranger wandered in by accident.
-The GM approached Hyun byeol.
-Or…
+A total stranger had wandered in by accident.
+The GM had approached Hyun-byeol.
+Or...
+
 Thump—!
 
-Lee Baek-ho has returned.
+Lee Baek-ho had returned.
 
-“Phew…”
+“Phew...”
 
-If the GM granted my request to lift Baek-ho’s ban within three months, then there’s a solid chance the person in there is Baek-ho. But…
+If the GM granted my request to lift Baek-ho’s ban within three months, then there’s a solid chance the person in there is Baek-ho. But...
 
 “All right, let’s find out.”
 
@@ -114,13 +114,13 @@ The grand mansion, fully tailored to the tastes of the original room owner, Lee 
 
 Tack, tack, tack-
 
-Crackle, crackle, crackle…
+Crackle, crackle, crackle...
 
 Two figures sat on the sofa in front of the fireplace, which was crackling with peaceful sparks.
 
 “Oh, oppa!”
 
-One of them is, Hyun-byeol
+One of them was Hyun-byeol.
 
 “Why are you so late?!”
 
@@ -146,15 +146,15 @@ The person got up from the sofa with a grin and approached me.
 
 “It’s really been a while, hyung. I missed you.”
 
-He’s treating me completely differently compared to how he acted in the outside world. The change in his attitude is jarring, but of course I accept the greeting.
+He was treating me completely differently from how he acted in the outside world. The change in attitude was jarring, but I accepted the greeting anyway.
 
-“Yeah, it’s been a while, Baekho.”
+“Yeah, it’s been a while, Baek-ho.”
 
 I missed him too—after all, I have a mountain of questions to ask.
 
 ---
 
-Crackle, crackle, crackle…
+Crackle, crackle, crackle...
 
 The fireplace peacefully spat out sparks.
 
@@ -166,11 +166,11 @@ The three of us sat on the sofa, chatting cozily.
 
 “That’s crazy. Man, if someone I knew showed up, I’d totally roll out the red carpet for them.”
 
-Baek-ho tilted his head like why isn’t anyone I know showing up here?
+Baek-ho tilted his head as if wondering why no one he knew ever showed up here.
 
 Then, looking back and forth between us, his eyes narrowed mischievously.
 
-“But then… What was your relationship?”
+“But then... What was your relationship?”
 
 Hearing that, Hyun-byeol glanced at me before responding first.
 
@@ -180,19 +180,19 @@ Well, she didn’t like to talk about her personal life.
 
 That was something I liked about her.
 
-“Come on… It doesn’t seem like it was nothing special?”
+“Come on... It doesn’t seem like it was nothing special?”
 
 Lee Baek-ho’s voice was teasing as he persistently tried again. And this time, Hyun-byeol’s customer service smile disappeared.
 
 “Hey, Lee Baek-ho.”
 
-“Uh… yes?”
+“Uh... yes?”
 
 “Why are you suddenly using informal language?”
 
-“Uh… it’s not informal, it’s… you know, that thing… that semi-honourific… used between close people…”
+“Uh... it’s not informal, it’s... you know, that thing... that semi-honourific... used between close people...”
 
-“Oh, I see… But are we close?”
+“Oh, I see... But are we close?”
 
 Boy, it’s been a while since I’ve seen her get serious.
 
@@ -208,11 +208,11 @@ Of course, Hyun-byeol didn’t care.
 
 “Well, that’s true. But technically, I am older than you in real age, aren’t I?”
 
-Such a line would be unimaginable in the Confucian culture of Korea.
+That kind of line would be unthinkable in Korea’s age-conscious culture.
 
 Only Lee Baek-ho, who had lived in this world for over ten years, could be so audacious.
 
-“Ha…”
+“Ha...”
 
 Letting out an exasperated sigh loaded with annoyance, Hyun-byeol continued.
 
@@ -226,7 +226,7 @@ Letting out an exasperated sigh loaded with annoyance, Hyun-byeol continued.
 
 “Third, I don’t see you as a younger brother. To me, you’re just some guy I met for the first time today.”
 
-“Uh…”
+“Uh...”
 
 “That’s why I’m still using polite speech with you. Right?”
 
@@ -236,11 +236,11 @@ After finishing her points, Hyun-byeol’s stern expression softened back into a
 
 Ultimately, Lee Baek-ho was the one who backed down.
 
-“Uh… uh huh…”
+“Uh... uh huh...”
 
 “Can you do that?”
 
-“Yes…”
+“Yes...”
 
 Forcing a fake grin, Lee Baek-ho nodded meekly.
 
@@ -250,9 +250,9 @@ It seemed like even he found the situation absurd.
 
 That was quite useful information.
 
-Even though I think I’ve grown a lot mentally, I’ve found out that I shouldn’t mess with Hyun-byeol.
+Even though I thought I’d grown a lot mentally, I’d just learned that I still shouldn’t mess with Hyun-byeol.
 
-“Ahaha… But, Hyun-byeol… do you and Han-soo know each other?”
+“Ahaha... But, Hyun-byeol... do you and Han-soo know each other?”
 
 “Huh? What do you mean? Do we know each other?”
 
@@ -264,7 +264,7 @@ It seemed Lee Baek-ho wanted to change the subject, so I quickly responded to ke
 
 Not yet.
 
-There was no particular reason to hide it, so I was about to honestly answer when…
+There was no particular reason to hide it, so I was about to honestly answer when...
 
 “Why are you curious about that?”
 
@@ -274,11 +274,11 @@ Lee Baek-ho did the same.
 
 “Lee Baek-ho, you seem to have a lot of questions. You’ve been asking them non-stop.”
 
-“……Ahahaha. Have I? Me?”
+“...Ahahaha. Have I? Me?”
 
 “Yes.”
 
-“……”
+“...”
 
 Phew, this is really uncomfortable.
 
@@ -286,25 +286,25 @@ Phew, this is really uncomfortable.
 
 “But he keeps asking about personal information?”
 
-“……It wasn’t meant in a bad way.”
+“...It wasn’t meant in a bad way.”
 
 “Well, that’s unknown. He’s just a stranger to me today.”
 
-“I, a stranger… but we’re both Koreans! Sister!”
+“I, a stranger... but we’re both Koreans! Sister!”
 
 Lee Baek-ho cried out as if it was unfair, but it didn’t reach Hyun-byeol’s heart.
 
-“Are there no criminals in Korea? The Korea I lived in wasn’t like that?”
+“Are there no criminals in Korea? Was the Korea I lived in somehow different?”
 
-“……”
+“...”
 
 “If that’s the case, why doesn’t Lee Baek-ho tell us about himself first, who he is, what kind of person he is, and what he’s doing now?”
 
-“…Me? Why me?”
+“...Me? Why me?”
 
 “Wouldn’t that make me feel a bit safer?”
 
-“Uh… but even so, that’s a bit… you know? Men should have some mystery… Ahahaha……”
+“Uh... but even so, that’s a bit... you know? Men should have some mystery... Ahahaha...”
 
 “Lee Baek-ho, you’re an interesting person.”
 
@@ -324,7 +324,7 @@ And looked at me as if to say, ‘Are you crazy?’
 
 Of course, he didn’t know Hyun-byeol well.
 
-“…Alright. I’ll come back later then?”
+“...Alright. I’ll come back later then?”
 
 Hyun-byeol doesn’t like it when someone crosses a line without permission.
 
@@ -334,7 +334,7 @@ That’s why she never crosses the line that the other person has drawn. Though 
 
 “Okay. And thanks.”
 
-“……”
+“...”
 
 Was it that awkward for me to say thanks?
 
@@ -342,13 +342,13 @@ Hyun-byeol stared at me intently with a strange look and then left the chat room
 
 Now it was just the two of us left in the mansion.
 
-“Hyung…!! No, hyungnim!”
+“Hyung...!! No, hyung-nim!”
 
 Lee Baek-ho stood up as if in awe.
 
 “You were the dominating type! I knew it!”
 
-Dominant type? What on earth…
+Dominant type? What on earth...
 
 I didn’t know what to say, so I just laughed, and he quickly changed the subject.
 
@@ -358,7 +358,7 @@ I didn’t know what to say, so I just laughed, and he quickly changed the subje
 
 “Is that so? How about we take turns asking questions? I have a few things I’m curious about too.”
 
-A turn-based game, huh…
+A turn-based game, huh...
 
 Why does it always end up like this for me?
 
@@ -368,15 +368,15 @@ I don’t know, but I agreed to his suggestion anyway.
 
 “Yes, go ahead.”
 
-Okay, I’ve secured the first move…
+Okay, I’ve secured the first move...
 
 I started with some lighter questions.
 
 Actually, they weren’t light, they were more like decoys to conceal my real intentions.
 
-‘First of all, let me ask you this: the famous Lee Baek-ho in the city… is that you?’
+‘First of all, let me ask you this: the famous Lee Baek-ho in the city... is that you?’
 
-“Ah… so you’ve figured it out.”
+“Ah... so you’ve figured it out.”
 
 Lee Baek-ho did not deny it.
 
@@ -388,7 +388,7 @@ After all, how could he, when he’d been going around using his real name so op
 
 After passing the turn, Baek-ho asked carefully:
 
-“…So what’s your real relationship with Hyun-byeol noona?”
+“...So what’s your real relationship with Hyun-byeol noona?”
 
 For a moment, I felt completely deflated by the question.
 
@@ -396,7 +396,7 @@ For a moment, I felt completely deflated by the question.
 
 “Well, wouldn’t you be curious if you were me? What else should I be curious about?”
 
-He raised his voice in a frivolous way, but I know too much about him to be fooled by that casual tone.
+He spoke in his usual frivolous tone, but I knew too much about him to be fooled by it.
 
 “We used to date.”
 
@@ -424,21 +424,21 @@ I began to suspect that the only reason he wanted to take turns asking questions
 
 “Whoa, whoa, hyung-nim, that’s crossing a line.”
 
-“Oh… sorry, if that’s too personal. But I’m genuinely curious. So you don’t have anyone?”
+“Oh... sorry, if that’s too personal. But I’m genuinely curious. So you don’t have anyone?”
 
-“Well… it just didn’t work out.”
+“Well... it just didn’t work out.”
 
 “Really? Because they’re NPCs?”
 
-“You… could say that.”
+“You... could say that.”
 
 “Man, suddenly getting all serious makes the atmosphere weird.”
 
-“…….”
+“...”
 
 “Tsk, you’re stubborn about weird things. Think about it. I was joking about marriage, but you could date, right?”
 
-“Um… I’ll think about it.”
+“Um... I’ll think about it.”
 
 “Good, try to look around you. You have female colleagues, right?”
 
@@ -446,7 +446,7 @@ I began to suspect that the only reason he wanted to take turns asking questions
 
 “Yeah, that was her name.”
 
-“Hmm…….”
+“Hmm...”
 
 Lee Baek-ho stared at me for a moment and then asked,
 
@@ -454,7 +454,7 @@ Lee Baek-ho stared at me for a moment and then asked,
 
 That question was within my expectations.
 
-“That? I heard about her from the Watchers of the Round Table you introduced me to. They said you used her to spread rumors that Björn Jandel was a demon…”
+“That? I heard about her from the Watchers of the Round Table you introduced me to. They said you used her to spread rumors that Bjorn Jandel was an evil spirit...”
 
 “And?”
 
@@ -462,7 +462,7 @@ That question was within my expectations.
 
 I asked cautiously, showing some reserve.
 
-“If that’s true… Why did you do it?”
+“If that’s true... Why did you do it?”
 
 It was one of several questions I ultimately wanted to ask Lee Baek-ho.
 
@@ -472,25 +472,25 @@ Why did he do such a thing?
 
 I naturally added a reason for my question and calmly awaited his response.
 
-And then…
+And then...
 
 “Hyung.”
 
-Soon, Baekho opened his mouth.
+Soon, Baek-ho spoke.
 
 “It’s my turn now.”
 
-“…What?”
+“...What?”
 
 “You asked if I had a girlfriend. That was your question.”
 
-Ah…
+Ah...
 
 So that’s how it’s going to be?
 
 “So now it’s my turn.”
 
-“…Fine, go ahead.”
+“...Fine, go ahead.”
 
 When I nodded, Baek-ho looked at me steadily. Then he sighed with a frustrated expression.
 
@@ -502,19 +502,19 @@ Before I could pinpoint exactly what changed, Baek-ho spoke again.
 
 “Hyung, let’s cut the crap. Let’s stop testing each other.”
 
-“…Testing?”
+“...Testing?”
 
 There was a flaw in his statement.
 
 If he said I was testing, that would be one thing.
 
-‘Both of us…?’
+‘Both of us...?’
 
 Does that mean you were testing me too?
 
 My heart gave an uneasy thump.
 
-My mind started racing, blood rushing to my head. Time seemed to slow, and my thoughts accelerated.
+My mind started racing as blood rushed to my head. Time seemed to slow, and my thoughts accelerated.
 
 Baek-ho has been testing me.
 
@@ -534,7 +534,7 @@ What’s important is what I do next.
 
 What’s my choice going forward?
 
-Alright, fine. The order just got reversed, that’s all.
+All right, fine. The order had just been reversed, that was all.
 
 The moment I wrapped up my mental reorganizing—
 

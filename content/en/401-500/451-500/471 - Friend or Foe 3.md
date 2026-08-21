@@ -4,17 +4,17 @@ Fox, goblin, clown, queen, deer horns, crescent moon.
 
 Including myself, seven members had been part of this long-standing assembly, but now new masks had been added.
 
-“Oh, you must be Mr Lion. Nice to meet you!”
+“Oh, you must be Mr. Lion. Nice to meet you!”
 
 A wolf mask with a mischievous voice.
 
-“…….”
+“....”
 
 A black mask with no distinguishing features.
 
-“Hello…….”
+“Hello....”
 
-Finally, the butterfly mask with a youthful voice
+Finally, there was a butterfly mask with a youthful voice.
 
 As I glanced around, the fox mask subtly explained the situation.
 
@@ -28,19 +28,19 @@ As I glanced around, the fox mask subtly explained the situation.
 
 Okay, so the Wolf is a returning member.
 
-When I gave a look, the fox explained about the other two.
+When I glanced over, the Fox explained the other two.
 
-“These two… I’m seeing them for the first time today.”
+“These two... I’m seeing them for the first time today.”
 
-Right, so the black mask and butterfly are newbies.
+Right, so Black and Butterfly were newcomers.
 
-Coming from the fox mask with the most experience, it’s safe to assume it’s correct, but
+Coming from the most experienced member, that was probably reliable.
 
-The problem lies elsewhere.
+The real problem lay elsewhere.
 
-‘Newbies at this time…’
+‘Newbies at this time...’
 
-It’s suspicious.
+That was suspicious.
 
 The last newbie to join was the Queen, who entered thanks to the GM’s help without an invitation.
 
@@ -48,47 +48,47 @@ Essentially, it had been years since we’d had a new member officially invited 
 
 “Anyway, since we’ve all come together like this, how about some introductions? I’ve already said hi to the Queen over there, so— Huh?”
 
-The wolf extended his hand for a handshake, but I ignored it and sat down.
+The Wolf extended a hand to shake mine, but I ignored it and sat down.
 
-“Ha, haha… Right! Who needs a formal greeting, anyway!”
+“Ha, haha... Right! Who needs a formal greeting, anyway!”
 
 He looked slightly awkward as he withdrew his hand and returned to his seat.
 
-“…….”
+“....”
 
-Black Mask was quietly sitting in his place, not showing interest in anyone…
+Black sat quietly in her seat, showing no interest in anyone...
 
-“…Ahem…”
+“...Ahem...”
 
 The butterfly mask awkwardly coughed and averted her gaze when our eyes met.
 
-And then…
+And then...
 
 Thud—!
 
-The door to the round table closed, signalling the start of the meeting, but an eerie silence fell. Of course, the sudden appearance of new members was unsettling for the existing ones as well.
+The door to the Round Table hall closed, signaling the start of the meeting, but an eerie silence fell. Of course, the sudden appearance of new members was unsettling for the existing ones as well.
 
 Gulp.
 
 The sound of the goblin swallowing his saliva was unusually loud in the room.
 
-“Well… since Mr. Lion has arrived, should we continue our discussion from earlier?”
+“Well... since Mr. Lion has arrived, should we continue our discussion from earlier?”
 
-Queen, who had been watching the situation from earlier, finally spoke up.
+The Queen, who had been watching the situation, finally spoke up.
 
-“Mr. Wolf, I understand that you have returned, but I was wondering how the other two got here, Butterfly, and, um… what should I call you?’
+“Mr. Wolf, I understand that you’ve returned, but I was wondering how the other two got here. Butterfly, and, um... what should I call you?”
 
 She seemed to want to settle how we referred to each other. Then the black mask replied quietly.
 
-“…Black.”
+“...Black.”
 
-It was a deep voice that made me momentarily confused, but it definitely seemed to be of a woman’s.
+The voice was deep enough to confuse me for a moment, but it definitely sounded like a woman’s.
 
 “All right, Black, then. So, Black and Butterfly, how did you end up here? Did you meet someone called the ‘Master’?”
 
-“Ehehe….”
+“Ehehe...”
 
-The Butterfly Mask laughed awkwardly at the queen’s question, while the Black Mask spoke in a cold tone.
+Butterfly laughed awkwardly at the Queen’s question, while Black answered in a cold tone.
 
 “Why should I have to answer that?”
 
@@ -96,67 +96,67 @@ When Black took the lead like that, Butterfly quickly chimed in:
 
 “Yes, I agree with what Black said. Asking about each other’s identities—doesn’t that go against the rules here? Heehee.”
 
-The Butterfly mask smirked, seemingly satisfied to defend their right to remain silent. And that wasn’t even all.
+Butterfly smirked, seemingly satisfied with her defense of their right to remain silent. And that wasn’t even all.
 
 “Just because you wear a queen’s mask doesn’t mean you’re actually a queen. Hehe.”
 
-“…What did you say?”
+“...What did you say?”
 
 “Huh? Nothing!”
 
-The queen’s harsh comment left her speechless.
+The Queen was left speechless by Butterfly’s jab.
 
 It was quite a striking scene.
 
-‘Wow… She’s not as pushover as she first seemed.’
+‘Wow... She’s not as much of a pushover as she first seemed.’
 
 But I wondered if others had the same impression too.
 
 Suddenly, the clown started laughing out loud.
 
-“Pss! Pssit! Oh, excuse me… We’ve got an interesting new member here!”
+“Pss! Pssit! Oh, excuse me... We’ve got an interesting new member here!”
 
-“Thank you…”
+“Thank you...”
 
 “Pssit.”
 
-“Hehe…”
+“Hehe...”
 
 It seemed like these two were on the same wavelength.
 
 Well, maybe people who laugh strangely just get along? It’s a world I don’t want to understand.
 
-“Let me just give you a word of advice: here you just have to be careful what you say to Mr Lion.”
+“Let me give you one piece of advice: around here, you just have to be careful what you say to Mr. Lion.”
 
-“Heeey… is that so?”
+“Heeey... is that so?”
 
 “Aren’t you going to ask why?”
 
-“Well… with just one look I could tell I shouldn’t mess with him…”
+“Well... with just one look I could tell I shouldn’t mess with him...”
 
 The butterfly mask glanced at the queen as she said that.
 
-For some reason, it felt like I could hear the unspoken next words—something like, Unlike a certain someone over there…
+For some reason, it felt like I could hear the unspoken next words—something like, Unlike a certain someone over there...
 
-“…Ha!”
+“...Ha!”
 
 Maybe the Queen picked up the same vibe, because she responded with an incredulous snort. The Butterfly, meanwhile, paid her no mind.
 
-“So when are we going to start, hmm? I’ve been really looking forward to today….”
+“So when are we going to start, hmm? I’ve been really looking forward to today...”
 
-It sounded almost like she was urging us to begin. The other members’ eyes turned to me. They were checking my thoughts first. Wondering if I was okay with these mysterious newcomers participating.
+It sounded almost as if she were urging us to begin. The other members turned to me first, checking whether I had any objection to these mysterious newcomers participating.
 
 But there was only one possible answer from me. I didn’t have the authority to throw them out, anyway.
 
 “It should be interesting.”
 
-I’m curious too, after all.
+I was curious too, after all.
 
 “Pssit, it’s been a while, so I’m feeling a bit excited.”
 
-“…….”
+“....”
 
-“Hehe… So, who’s going first? It’s a bit intimidating to go first…”
+“Hehe... So, who’s going first? It’s a bit intimidating to go first...”
 
 Who are these people, really?
 
@@ -168,47 +168,47 @@ The mysterious black mask.
 
 The seemingly harmless butterfly.
 
-All three of these new members have suspicious aspects.
+All three newcomers had suspicious aspects.
 
-Of course, compared to the mysterious Black Mask and the Butterfly, the Wolf returning as a former member is a little less suspicious…
+Of course, compared to the mysterious Black Mask and the Butterfly, the Wolf returning as a former member is a little less suspicious...
 
-But to return after several years… that’s a red flag.
+But returning after several years was a red flag.
 
-Today’s return doesn’t seem like a coincidence.
+His return today didn’t feel like a coincidence.
 
-After all, he’s been gone for years, but he doesn’t seem particularly interested in the master’s whereabouts.
+After all, he had been gone for years, yet he didn’t seem particularly interested in the Master’s whereabouts.
 
 Just like this.
 
 “By the way, Mr. Wolf, you’ve returned after a long time, but you didn’t ask a single question about the Master?”
 
-Perhaps thinking the same thing, the queen asked the wolf on my behalf.
+Perhaps thinking the same thing, the Queen asked the Wolf on my behalf.
 
 “Hah, I’m sure he’s doing well wherever he is, right?”
 
 “Hmm, is that so?”
 
-“…But how about we decide the order first? Oh, and just for reference, I don’t mind as long as I’m not the first.”
+“...But how about we decide the order first? Oh, and just for reference, I don’t mind as long as I’m not the first.”
 
 Ugh, why is he acting so suspicious?
 
-It seems like Auril Gavis, the old man who once operated as the master of the Round Table, sent someone here to stir up trouble.
+It felt as though Auril Gavis, the old man who had once run the Round Table as its Master, had sent someone here to stir up trouble.
 
 Maybe not all three, but at least one of them.
 
-‘The most likely candidates are the black mask and the butterfly.’
+‘The most likely candidates are Black and Butterfly.’
 
 First, there aren’t many routes for new members to join now.
 
-Either they enter through the GM’s authority, like the queen, or they use an old invitation code, like me.
+Either they entered through the GM’s authority, like the Queen, or they used an old invitation code, like me.
 
-In fact, those are the only two options, and Auril Gabis, the former master of the round table, probably still has several codes.
+In fact, those were the only two routes I knew, and Auril Gavis, the former Master of the Round Table, probably still had several invitation codes.
 
-‘There’s also the possibility that the queen secretly brought her own people in and is pretending not to know.’
+‘There’s also the possibility that the Queen secretly brought in her own people and is pretending not to know them.’
 
 For now, all possibilities remain open.
 
-So…
+So...
 
 “Let’s just follow tradition and start with Mr. Wolf next to Mr. Lion. Pssit.”
 
@@ -222,18 +222,18 @@ Until they make a mistake and reveal a clue.
 
 The Clown’s sharp words made the Wolf mask frown.
 
-“Hmm…”
+“Hmm...”
 
 “Pssit, since you can’t leave, it seems like you didn’t just come here by chance, huh? Did you hear about this place somewhere?”
 
-It’s obvious the clown is trying to dig for clues while subtly provoking him…
+It was obvious the Clown was trying to dig for clues while subtly provoking him...
 
 “Haha, it’d be a shame to leave so soon after seeing old faces. Being first isn’t that difficult. Yes, if the rules have changed during my absence, I must follow them.”
-The wolf started his turn with a hearty laugh.
+The Wolf started his turn with a hearty laugh.
 
 “Well then, I’ll go first.”
 
-What would he do..
+What would he say?
 
 After pretending to think, the wolf finally spoke.
 
@@ -241,39 +241,39 @@ After pretending to think, the wolf finally spoke.
 
 “Wolf, you’re still as talkative as ever.”
 
-The clown cut him off, giving him a look that said to get to the point. The wolf awkwardly laughed, cleared his throat, and spoke in a low voice.
+The Clown cut him off with a look that said, Get to the point. The wolf awkwardly laughed, cleared his throat, and spoke in a low voice.
 
 “The master of the round table is Auril Gavis.”
 
-Immediately, an eerie silence fell over the round table.
+An eerie silence immediately fell over the Round Table.
 
 The reason was simple.
 
 “Isn’t it surprising? The person who gathered us here and taught us various things is the creator of [Dungeon & Stone]—”
 
-That’s the information the queen shared last month.
+That was the information the Queen had shared last month.
 
-“…Huh?”
+“...Huh?”
 
 As a red light filled the gem, the Wolf flinched, confused.
 
-“What’s this…?”
+“What’s this...?”
 
 “What do you mean? It means the majority already knows this information. Oh, did you forget that too since you’ve been gone for so long?”
 
-“…….”
+“....”
 
 “Instead of that meaningless information, why don’t you share something interesting?”
 
-It was a bit funny seeing the clown, who was shocked by this information last month, act like this now…
+It was a bit funny seeing the clown, who was shocked by this information last month, act like this now...
 
 But at least one thing was confirmed.
 
-The Wolf really didn’t know the current state of affairs within the round table.
+The Wolf really didn’t know the current state of affairs at the Round Table.
 
 He wouldn’t have offered information that was already shared if he’d been in close contact with the existing members. Unless he was pretending to be clueless, of course.
 
-“Fine… guess I’ll try again, then.”
+“Fine... guess I’ll try again, then.”
 
 The Wolf sighed, then gave us another piece of intel:
 
@@ -289,15 +289,15 @@ For a moment, no one replied. And for good reason.
 
 It was definitely a shock.
 
-There have been many rumors among the players, but the idea that the royal family summoned us was never one of them.
+There had been many rumors among the players, but the idea that the royal family had summoned us was never one of them.
 
-The royal family has no ‘motive’ to do so.
+The royal family had no obvious motive to do so.
 
-But…
+But...
 
 “Why would the royal family summon us and then brand us as evil spirits to be executed? This doesn’t make sense.”
 
-The deer antler’s question was met with a firm response from the wolf.
+Deer Horns’s question was met with a firm response from the Wolf.
 
 “I can’t go into details, but you can trust this. It’s the most reliable information.”
 
@@ -307,44 +307,44 @@ The clown’s jab didn’t yield much.
 
 “Ah, if you’re curious about that, I’ll share it in the next round.”
 
-“…….”
+“....”
 
-“‘Hehe, so it’s the next person’s turn, right?”
+“Hehe, so it’s the next person’s turn, right?”
 
-The next turn was the fox’s, who shared information related to the war.
+The Fox went next and shared information related to the war.
 
-I didn’t pay much attention.
+I didn’t pay much attention to it.
 
-I already knew most of it and…
+I already knew most of it and...
 
-The royal family summoned us…?
+The royal family summoned us...?
 
 I was still thinking about it.
 
 No, to be precise, I was thinking about the validity of this statement.
 
-To what extent can I believe what this guy said?
+How much could I believe what this guy had said?
 
 Of course, the jewel gave a green light.
 
-But that’s not enough to accept his words as truth.
+But that wasn’t enough to accept his words as truth.
 
 There’s a loophole in the round-table system.
 
-If the speaker believes what they’re saying is ‘true,’ the gem will glow green.
-Which means…
+If the speaker believed what they were saying was true, the gem would glow green.
+Which means...
 
 ‘There’s a possibility the information is wrong.’
 
-So, the next question is…
+So, the next question is...
 
-How did the wolf come to believe false information as truth?
+How had the Wolf come to believe false information was true?
 
 Actually, that’s not too important.
 
-‘What was the wolf’s intention in sharing that information at the round table?’
+‘What was the Wolf’s intention in sharing that information at the Round Table?’
 
-The answer lies in the information itself.
+The answer lay in the information itself.
 
 ‘He wants the players’ hatred to be directed at the royal family.’
 
@@ -352,13 +352,13 @@ The one who benefits the most from this information.
 
 ‘Auril Gavis gave the wolf false information and sent him here.’
 
-…Is that too far-fetched?
+...Is that too far-fetched?
 
 I don’t know, but I decided to clear my head and focus on the conversation.
 
-“…It’s your turn now.”
+“...It’s your turn now.”
 
-Before I knew it, the Fox, Goblin, Crescent Moon and Deer Antlers had finished their turns. The new members were next.
+Before I knew it, the Fox, Goblin, Crescent Moon, and Deer Horns had finished their turns. The new members were next.
 
 “Black, you’re up.”
 
@@ -368,13 +368,13 @@ Right. She was just as suspicious.
 
 “Aside from opening the Abyss Gate, there is another way to return to Earth.”
 
-The black mask spoke briefly and received a green light. Given the nature of the content, many members were in an uproar, asking all sorts of questions, but the black mask remained silent.
+Black spoke briefly and received a green light. Given the nature of the content, many members were in an uproar, asking all sorts of questions, but the black mask remained silent.
 
-‘…Another way to return to Earth.’
+‘...Another way to return to Earth.’
 
 There’s only one method that comes to mind.
 
-‘Is she talking about dimensional magic…?’
+‘Is she talking about dimensional magic...?’
 
 I first learned about dimensional magic at the Round Table I visited 20 years ago. The Ruin Scholar was researching dimensional magic to return to his homeland and seemed to have made some progress.
 
@@ -382,52 +382,53 @@ Perhaps the reason why Lee Baek-ho became friends with the Ruin Scholar was beca
 
 Anyway, the important part is something else.
 
-‘Black Mask… Could he possibly be a spy sent by Lee Baekho?’There are several grounds for suspicion.
+‘Black... Could she possibly be a spy sent by Lee Baek-ho?’
+
+There were several reasons for suspicion.
 
 First, if it’s Lee Baek-ho, he would know about ‘dimensional magic,’ and it wouldn’t be strange if he had another invitation code besides the one he gave me.
 
-‘…And above all, the motive is quite clear. He’s very curious about me.’
+‘...And above all, the motive is quite clear. He’s very curious about me.’
 
-“…Then, Queen, it’s your turn now, isn’t it? Pssit.”
+“...Then, Queen, it’s your turn now, isn’t it? Pssit.”
 
-The Queen, who had been competing with the Clown to share high-level information, seemed wary of the new members and instead shared some general information related to the political world.
+The Queen, who had been competing with the Clown to share high-level information, seemed wary of the newcomers and instead offered some general political news.
 
 It was somewhat interesting, but it was obvious she was trying to quickly pass her turn.
 
-“…Hehe, is it my turn now?”
+“...Hehe, is it my turn now?”
 
 The Butterfly Mask’s turn had arrived.
 
-As if she had already thought about what to say, the Butterfly spoke coolly without hesitation.
+As if she had already decided what to say, Butterfly spoke without hesitation.
 
-“The royal family… can intentionally cause dimensional collapse.”
+“The royal family... can intentionally cause dimensional collapse.”
 
-Ha, somehow the new members seem to be dropping more impactful information than the existing ones.
+Ha. Somehow the newcomers were dropping more impactful information than the existing members.
 
-“……So the rumors were true.”
+“...So the rumors were true.”
 
-Everyone looked surprised, but no one questioned the validity or source of the information this
-time.
+Everyone looked surprised, but this time no one questioned the validity or source of the information.
 
 Everyone seemed to believe it was true deep down, and there were already two cases earlier.
 
 “Pssit, then it’s my turn now.”
 
-Finally, the Clown, the last in the order, began his turn.
+Finally, the Clown—the last in the order—began his turn.
 
 “Pssit, not long ago, Noark officially began their assault on the 9th floor.”
 
-A rare piece of information that at least saved some face for the existing members.
+It was a rare piece of information that at least saved some face for the existing members.
 
 Naturally, it passed without any objections, and the attention naturally turned to me.
 
-“Then, I guess…”
+“Then, I guess...”
 
-Now it’s my turn, right?
+Now it was my turn.
 
 I had already decided what to say while waiting for my turn.
 
-So…
+So...
 
 [How could I feel at ease? Of course, I feel sorry. I also feel a sense of responsibility. I’ll probably live the rest of my life carrying this guilt and atoning for it.]
 
@@ -438,19 +439,19 @@ I fixed my gaze on the Wolf and spoke.
 
 Whether the royal family is truly behind summoning the players or not.
 
-With all my heart, according to what I believe.
+I spoke according to what I genuinely believed.
 
 “Auril Gavis is the enemy of the players.”
 
-I said, and…
+I said, and...
 
-Ssshhh…
+Ssshhh...
 
 As if to prove my belief, the gem emitted a green light.
 
 The reaction was immediate.
 
-“…..Mr. Lion, do you have proper evidence for what you just said?”
+“...Mr. Lion, do you have proper evidence for what you just said?”
 
 The Wolf cautiously challenged me.
 
@@ -458,8 +459,8 @@ Of course, there was no reason to worry.
 
 Do you know what kind of position I’ve built here in your absence?
 
-“…Pssit, if it’s Mr. Lion’s words, it must be true.”
+“...Pssit, if it’s Mr. Lion’s words, it must be true.”
 
-With the promise of the green light turned on.
+Backed by the green light and the reputation I had built here,
 
-To refute my words, you’d need dozens of pieces of evidence and documents.
+refuting my words would take far more than a simple objection.

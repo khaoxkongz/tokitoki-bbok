@@ -4,19 +4,19 @@ Beleg Shusia di Tersia.
 
 Erwin’s maternal uncle, and an evil spirit from another world who operated as crescent moon at the round table.
 
-In a way… no, not just in a way.
+In a way... no, not just in a way.
 
 No matter how I tried to justify it, the truth remained that I had deceived him.
 
-[It’s certainly not quite like the legends describe…]
+[It’s certainly not quite like the legends describe...]
 
-[…Thanks to you, I can finally let go of my futile dreams.]
+[...Thanks to you, I can finally let go of my futile dreams.]
 
 [Though I can’t exactly say I’m grateful.]
 
 On the day the Round Table ended, I revealed the usage conditions for the ‘Stone of Resurrection’—something I had deliberately kept from him until then. As I spoke, I saw a deep emptiness settle into his eyes.
 
-And now, he was bringing up the Stone of Resurrection again………
+And now, he was bringing up the Stone of Resurrection again.........
 
 ‘Had I picked the wrong person?’
 
@@ -26,25 +26,25 @@ The thought suddenly crossed my mind, so I had him sit down and confirmed it fir
 
 “I know.”
 
-Hmm, so he knew… that more or less confirmed he was Crescent.
+Hmm, so he knew... that more or less confirmed he was Crescent.
 
 I decided to cut straight to the point.
 
 “Who are you trying to bring back?”
 
-“…Myself.”
+“...Myself.”
 
 “I want you to use the Stone of Resurrection on me.”
 
-His absurd declaration left my mind blank. I could hardly believe what I was hearing…
+His absurd declaration left my mind blank. I could hardly believe what I was hearing...
 
 Noticing my reaction, he quickly added an explanation.
 
 “As someone making this request, I’ll be honest about everything. Originally, the ones I wanted to bring back with the Stone of Resurrection were Belua and Daria.”
 
-“…Belua?”
+“...Belua?”
 
-“The mother of those children… and my younger sister.”
+“The mother of those children... and my younger sister.”
 
 “And?”
 
@@ -52,13 +52,13 @@ Noticing my reaction, he quickly added an explanation.
 
 It was truly shocking. That meant, until quite recently, Daria’s body had remained intact inside the coffin.
 
-‘……Is he insane?’
+‘......Is he insane?’
 
 Hearing something so psychopathic spoken in such a calm tone sent chills down my spine.
 
 But those were two completely different problems.
 
-“…I understand that you fell into despair because you didn’t have their bodies. But how does that lead to wanting to use the Stone on yourself?”
+“...I understand that you fell into despair because you didn’t have their bodies. But how does that lead to wanting to use the Stone on yourself?”
 
 My reasoning felt like it was about to collapse under that absurd conclusion, yet in the end, I found myself accepting his explanation.
 
@@ -66,13 +66,13 @@ My reasoning felt like it was about to collapse under that absurd conclusion, ye
 
 “Ah”
 
-“…I need the Stone of Resurrection. If I want to keep living.”
+“...I need the Stone of Resurrection. If I want to keep living.”
 
 At his calm words, I slowly nodded.
 
 In many ways, it was ironic.
 
-That a living person would need the Stone of Resurrection just to keep living……………….
+That a living person would need the Stone of Resurrection just to keep living...................
 
 It sounded absurd, yet somehow it made sense.
 
@@ -90,7 +90,7 @@ I knew the best way to handle something like this was to break the problem down 
 
 “I doubt you’re asking for it for free. What’s your offer?”
 
-“I’ve lived my whole life without greed, so I have nothing to offer… except this body.”
+“I’ve lived my whole life without greed, so I have nothing to offer... except this body.”
 
 Surely I was just overthinking it—there was nothing strange about the way he said that, right?
 
@@ -110,7 +110,7 @@ His answer was so quick and resolute that it left me speechless.
 
 I let out a quiet sigh.
 
-Just like when he wore the Crescent Moon Mask… he really hadn’t changed. Even after being pushed around so much at the Round Table, he was now putting forward yet another absurd proposal.
+Just like when he wore the Crescent Moon Mask... he really hadn’t changed. Even after being pushed around so much at the Round Table, he was now putting forward yet another absurd proposal.
 
 “What if I squeeze everything I can out of you and don’t keep my promise?”
 
@@ -132,7 +132,7 @@ People who live as if they have nothing left tying them to life.
 
 They usually have that same look in their eyes.
 
-‘…Sigh.’
+‘...Sigh.’
 
 That only made it harder.
 
@@ -142,7 +142,7 @@ I’d reject them outright.
 
 No matter how strong Beleg was, he wasn’t worth something like the Stone of Resurrection.
 
-But the problem was…
+But the problem was...
 
 ‘He’s Erwin’s uncle.’
 
@@ -150,7 +150,7 @@ While talking to him, extreme scenarios kept popping into my head.
 
 If he were to suddenly hang himself, how much of a shock would Erwin receive?
 
-And what about me? If the one I had deceived for so long at the Round Table couldn’t bear failing to achieve his goal and, after one last moment of suffering, closed his eyes for good…
+And what about me? If the one I had deceived for so long at the Round Table couldn’t bear failing to achieve his goal and, after one last moment of suffering, closed his eyes for good...
 
 I didn’t need long to decide.
 
@@ -174,7 +174,7 @@ However, he didn’t move his residence. His only request was that, unless somet
 
 I only told Erwin after everything was settled, and her reaction was calmer than I had expected. Or rather, her reaction was a bit subtle.
 
-“Um… he’s in a different team than me, right…?”
+“Um... he’s in a different team than me, right...?”
 
 “That will likely be the case.”
 
@@ -192,7 +192,7 @@ Sometimes, for a wound to heal, you have to stop touching it.
 
 Keep picking at it, and it only festers.
 
-Anyway, I decided to keep an eye on their relationship moving forward…
+Anyway, I decided to keep an eye on their relationship moving forward...
 
 “Here’s the document listing the items registered at the Alminas Central Exchange today. If no issues arise during inspection, they’ll be put up tomorrow morning.”
 
@@ -220,7 +220,7 @@ And since the Sky Auction House—their exclusive playground—no longer had eno
 
 After I explained it, Amelia nodded in understanding.
 
-And then…
+And then...
 
 “For example, the Ruby of Nomilat?”
 
@@ -234,19 +234,19 @@ Amelia grinned, as if she had truly obtained the item.
 
 “There was no way an item like that would come up again. I infiltrated the exchange and secretly checked the registry. Then I tracked down the seller, asked him to sell it to us instead, and told him we’d cover the withdrawal fee.”
 
-“…And he accepted?”
+“...And he accepted?”
 
 Even as I asked, I felt it was a pointless question. If he hadn’t, Amelia wouldn’t have brought it up in the first place.
 
 “When I mentioned your name and said it was a necessary item, he agreed without asking any questions. Oh, but he did ask me to convey one name in return: It was Viscount Bertan.”
 
-“Viscount Bertan, huh……………….”
+“Viscount Bertan, huh...................”
 
 Even though I hadn’t dealt with him personally, I was familiar with his house. The House of Viscount Bertan had a long history, but it wasn’t particularly powerful or well-known—just one of the lesser noble families.
 
 “Oh, and I only asked out of curiosity, but apparently the ruby had been used as a decorative piece in the first-floor hall.”
 
-“…What?”
+“...What?”
 
 They used something this valuable as decoration?
 
@@ -258,7 +258,7 @@ Either way, it worked out for me.
 
 Items like this are the hardest to obtain.
 
-“But… what are you planning to use this for? I heard consuming it increases physical strength, but I don’t think that’s why you’re this happy.”
+“But... what are you planning to use this for? I heard consuming it increases physical strength, but I don’t think that’s why you’re this happy.”
 
 “Oh, the purpose?”
 
@@ -276,7 +276,7 @@ All except three.
 
 The three core materials for Stage 8 all came from rank-three monsters, making them extremely difficult to obtain.
 
-Still, when I went outside the walls before, I had gotten lucky and managed to acquire two of those drops…
+Still, when I went outside the walls before, I had gotten lucky and managed to acquire two of those drops...
 
 ‘So I’ve finally gathered them all.’
 
@@ -286,9 +286,9 @@ Well, it’s not like I’d become overwhelmingly powerful or anything.
 
 But being just one step away from Stage 9—that was what truly mattered.
 
-‘Because from Stage 9 onward… that becomes possible.’
+‘Because from Stage 9 onward... that becomes possible.’
 
-Once I reach Stage 9 and consume just two more essences, my big, precious shield barbarian build will be nearly complete…
+Once I reach Stage 9 and consume just two more essences, my big, precious shield barbarian build will be nearly complete...
 
 「Spirit Imprint Stage 8 has been activated.」
 

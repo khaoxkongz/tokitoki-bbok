@@ -10,9 +10,9 @@ It’s like chewing gum, isn’t it?
 
 Some people spit it out as soon as the sweetness is gone, while others enjoy the act of chewing itself and will gnaw on it all day long.
 
-So…
+So...
 
-“Then… I’ll do my best to study this.”
+“Then... I’ll do my best to study this.”
 
 Rather than expecting new discoveries, I simply thought of it as entrusting Raven with essence storage. If some results came out of it, all the better.
 
@@ -30,7 +30,7 @@ And just like that—
 
 At my question, Raven crossed her arms and puffed out her small shoulders proudly.
 
-And…
+And...
 
 “Do you know about the Level 3 monster, ‘Ramansis’?”
 
@@ -48,11 +48,11 @@ What is she talking about now?
 
 Raven, who had her words stolen, flinched her shoulders.
 
-“…Huh?”
+“...Huh?”
 
 I think her tilted chin dropped a few degrees.
 
-“So you knew…?”
+“So you knew...?”
 
 Of course I did.
 
@@ -64,13 +64,13 @@ Her reaction was so cute it made me chuckle, but Raven immediately resumed her u
 
 But what’s this now?
 
-“……”
+“......”
 
 For some reason, the chatterbox had gone quiet again. The tilt of her chin fell further than before, and her eyes no longer looked down on me.
 
 From that same posture, she spoke in a careful tone.
 
-“Could it be… Do you know what that achievement is?”
+“Could it be... Do you know what that achievement is?”
 
 “Of course.”
 
@@ -78,9 +78,9 @@ I answered as if it was obvious. Raven’s eyes widened in disbelief.
 
 From that reaction, there was something I could tell.
 
-“Wait… don’t tell me—you don’t know?”
+“Wait... don’t tell me—you don’t know?”
 
-“……”
+“......”
 
 As always, her silence served as my answer.
 
@@ -90,21 +90,21 @@ I wasn’t surprised.
 
 What, you were looking down on me like that without even knowing that?
 
-“W-well! It’s only natural I don’t know! Do you think such high-level information would be written in books…? Just the data on essence abilities is incredibly valuable! Moreover, even if you look at the people who have had this essence throughout history, they are few and far between… Why are you looking at me with those eyes…?”
+“W-well! It’s only natural I don’t know! Do you think such high-level information would be written in books...? Just the data on essence abilities is incredibly valuable! Moreover, even if you look at the people who have had this essence throughout history, they are few and far between... Why are you looking at me with those eyes...?”
 
-“Hmmm……”
+“Hmmm......”
 
-“……”
+“......”
 
 At some point, our positions had reversed. Now I was looking down with folded arms, and Raven was the one looking at the floor, dejected.
 
 Still, Raven forced herself to muster strength and squeezed out her voice.
 
-“So……”
+“So......”
 
-“…?”
+“...?”
 
-“…then what exactly is that arrangement?”
+“...then what exactly is that arrangement?”
 
 Typical mage.
 
@@ -114,7 +114,7 @@ Even now, that’s what she’s curious about.
 
 After I explained the hidden piece in the 9th-floor rift, Raven shared what she’d learned about Ramansis’s passive skill.
 
-I already knew about it, but…
+I already knew about it, but...
 
 ‘It’s Social courtesy.’
 
@@ -122,7 +122,7 @@ This time, I listened to Raven’s explanation without interrupting.
 
 “Ramansis’s embodied ability is [Soulmate]. Just looking at the name, you might wonder what it is, but upon examination, it’s a very peculiar ability.”
 
-Hmm, well…
+Hmm, well...
 
 Rather than saying [Best Companion] is a peculiar ability, it would be more accurate to say it has a peculiar activation condition.
 
@@ -130,9 +130,9 @@ Rather than saying [Best Companion] is a peculiar ability, it would be more accu
 
 “Oh?”
 
-“However, the ability cannot be activated voluntarily. It’s not active under normal circumstances either. A specific condition must be met for it to activate…”
+“However, the ability cannot be activated voluntarily. It’s not active under normal circumstances either. A specific condition must be met for it to activate...”
 
-“And that is…?”
+“And that is...?”
 
 “I’m not sure of the detailed conditions either. But looking at the data of previous owners, the odds were much higher for men and women who spent a lot of time together.”
 
@@ -150,7 +150,7 @@ Due to the system, players couldn’t have affinity towards NPCs.
 
 My gamer curiosity was triggered for the first time in a while, but I had no intention of taking [Best Companion] myself.
 
-For starters, I didn’t have a slot for it anyway…
+For starters, I didn’t have a slot for it anyway...
 
 Efficiency-wise, it’s better to give it to an ally and raise their favorability toward me.
 
@@ -158,9 +158,9 @@ Efficiency-wise, it’s better to give it to an ally and raise their favorabilit
 
 Anyway, now that I know about the passive skill, it seems useless.
 
-It’s true that it’s a good skill that performs above its level once activated, but…
+It’s true that it’s a good skill that performs above its level once activated, but...
 
-‘Is it even possible to activate it…?’
+‘Is it even possible to activate it...?’
 
 In the game, reaching 100% affinity wasn’t easy.
 
@@ -168,25 +168,25 @@ No, to be precise, it was almost impossible between same genders.
 
 When raising affinity, it would always hit a wall at 90%. After that, you needed those awkward, romantic events between opposite genders to slowly raise it further.
 
-But…
+But...
 
-‘Aynar…?’
+‘Aynar...?’
 
 I can’t even imagine Aynar being in that kind of relationship with another man. To her, we were all just male friends—including me.
 
-“So I’m thinking maybe it only works between a male–female lover’s relationship… Hey, I’m trying to explain something. Why are you zoning out?”
+“So I’m thinking maybe it only works between a male–female lover’s relationship... Hey, I’m trying to explain something. Why are you zoning out?”
 
 “Ah, I was just wondering how we can activate that ability.”
 
-“…That is also a concern.”
+“...That is also a concern.”
 
 It’s a problematic issue in many ways.
 
-It’s a waste to leave the skill unused…
+It’s a waste to leave the skill unused...
 
 But I can’t exactly flirt with her by buying her cream bread every day just to activate [Best Companion].
 
-‘…It’s better to just consider this skill as non-existent.’
+‘...It’s better to just consider this skill as non-existent.’
 
 So I decided to just seal away [Best Companion] in my mind.
 
@@ -198,7 +198,7 @@ Besides, the essence performs perfectly well even without the passive skill.
 
 “But you did find out that it’s not an embodied ability with negative factors, right? That alone has eased my worries considerably.”
 
-“Hmm… I suppose that’s true too?”
+“Hmm... I suppose that’s true too?”
 
 Does she want gratitude or is she just playing humble?
 
@@ -218,13 +218,13 @@ I got hungry in the middle of it and had a meal at the Mage Tower’s cafeteria.
 
 Raven tilted her head.
 
-“…But you don’t have any research scheduled today?”
+“...But you don’t have any research scheduled today?”
 
 I let out a sigh. She was oddly slow to grasp certain things.
 
 “Just say what I asked.”
 
-“Huh? Sure… but… why though?”
+“Huh? Sure... but... why though?”
 
 Trailing off, Raven looked up at me with curious eyes and asked.
 
@@ -234,11 +234,11 @@ Not wanting to bring up the topic of marriage and stir up trouble unnecessarily,
 
 “Just because.”
 
-“…Just because?”
+“...Just because?”
 
 “I just don’t want to go home today.”
 
-“…………Huh?”
+“............Huh?”
 
 “Let me sleep here.”
 
@@ -252,15 +252,15 @@ Raven, who had slept on a bed in one corner of the lab, woke up first and poked 
 
 “Get up. You’ll be late. You said there’s something important today.”
 
-“Ugh…”
+“Ugh...”
 
 “Did you sleep okay?”
 
 “Perfectly. The warm floor was nice. Huh? You’re already washed up?”
 
-“…Well yeah, obviously. What, you expect me to go around unwashed?”
+“...Well yeah, obviously. What, you expect me to go around unwashed?”
 
-Hmm… she used to look like she hadn’t bathed in days.
+Hmm... she used to look like she hadn’t bathed in days.
 
 Maybe military life made her more disciplined.
 
@@ -270,7 +270,7 @@ Maybe military life made her more disciplined.
 
 “Huh? Exhausting? Didn’t you fall asleep early too?”
 
-“…That’s not what I meant. Hurry up and leave, I’ve got work.”
+“...That’s not what I meant. Hurry up and leave, I’ve got work.”
 
 After being kicked out the next morning, I left the mage tower in a hurry, boarded a carriage at a nearby platform, and set off for the Imperial Capital, Karnon.
 
@@ -286,17 +286,17 @@ Though I’d long been the chief of the barbarians, I’d never attended this ev
 
 I had passed by the conference hall many times before; it stood out with its six towering pillars, reminiscent of a Roman temple.
 
-‘…Still some time left.’
+‘...Still some time left.’
 
 Since I got kicked out early, I arrived ahead of schedule and ate at a nearby restaurant.
 
-The prices in Carnon were outrageous, but… well, hunger is hunger.
+The prices in Carnon were outrageous, but... well, hunger is hunger.
 
 Do I get a food allowance as well?
 
 After eating, I patted my stomach and entered the hall.
 
-“…Bjorn Jandel, did you come alone?”
+“...Bjorn Jandel, did you come alone?”
 
 “Is that a problem?”
 
@@ -306,7 +306,7 @@ The guards at the entrance were of every race except barbarians.
 
 ‘Are these their personal bodyguards?’
 
-Never heard about this from the previous chief…
+Never heard about this from the previous chief...
 
 Not that I’d be surprised if he forgot to mention it.
 
@@ -334,7 +334,7 @@ Anyway, the man who holds the position of her father in the family tree.
 
 “Understandable. I know your imagination was always lacking.”
 
-“…Still holding a grudge, are we?”
+“...Still holding a grudge, are we?”
 
 “Of course not.”
 
@@ -356,7 +356,7 @@ A large round table stood in the center of the chamber.
 
 I quietly took the empty seat that was clearly meant for me. Resting my chin on one hand, I tapped the armrest with my finger.
 
-Though it was my first time attending such a council…
+Though it was my first time attending such a council...
 
 Tap, tap.
 

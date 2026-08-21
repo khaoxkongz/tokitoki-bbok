@@ -1,6 +1,6 @@
 Dilemma (4)
 
-[Before Dungeons & Stones, the online game I used to enjoy had PvP as its main content.
+Before Dungeon & Stone, the online game I used to enjoy had PvP as its main content.
 
 It was a game where you chose one of two groups when creating your character and grew stronger while competing for power on another continent.
 
@@ -18,7 +18,7 @@ If I hadn’t come across Dungeon & Stone, I might still be playing that game.
 
 Among the ones I played, that was the best.
 
-‘…But if I had kept playing that, maybe I wouldn’t have been dragged here?’
+‘...But if I had kept playing that, maybe I wouldn’t have been dragged here?’
 
 Not that there’s any point regretting it now.
 
@@ -30,7 +30,7 @@ Right now, the Dark Continent is occupied by the Noark bastards.
 
 Our expedition team is essentially sneaking into their territory.
 
-And, above all…
+And, above all...
 
 ‘The methods I used there work well here.’
 
@@ -38,7 +38,7 @@ I’m feeling the same thrill I felt while playing that game.
 
 “An a-ambush!”
 
-“How did the enemies get here…!”
+“How did the enemies get here...!”
 
 “Front! Deal with the monsters in front first!!”
 
@@ -46,7 +46,7 @@ I’m feeling the same thrill I felt while playing that game.
 
 The panicked movements of enemies who didn’t know what to do.
 
-“Ugh! Cowards…!”
+“Ugh! Cowards...!”
 
 “To strike at this time!”
 
@@ -56,7 +56,7 @@ All sorts of “praises” pouring in.
 
 [You have defeated a Bone Dragonian. EXP +7]
 
-On top of that, defeating a level 3 monster like a piece of cake.
+On top of that, we had taken down a Level 3 monster with ease.
 
 Of course, the best part was yet to come.
 
@@ -64,21 +64,21 @@ Of course, the best part was yet to come.
 
 Wow, did I get a gift for being good?
 
-Not only did we succeed in PK without a single injury due to our ambush, but we also got an Essence drop from the monster we took down as a bonus.
+Not only had our ambush let us wipe them out without a single injury, but the monster we killed also dropped an essence as a bonus.
 
-This is the second Level 3 essence we’ve obtained on this expedition.
+This was the second Level 3 essence we had obtained on the expedition.
 
-“Ashid, go and collect the Essence.”
+“Ashid, go collect the essence.”
 
 “Yes.”
 
-While I sent the mage to capture the essence in a test tube, we quickly cleaned up the battlefield.
+While Ashid sealed the essence in a test tube, we quickly cleaned up the battlefield.
 
-Because the loot isn’t just the Essence, right?
+Because the essence wasn’t the only loot, right?
 
 As usual, the main dish of PvP lies elsewhere.
 
-“Ugh, cough… s-save me…”
+“Ugh, cough... s-save me...”
 
 “You know we can’t spare you.”
 
@@ -94,7 +94,7 @@ The sound of flesh squishing as bodies went limp.
 
 After ensuring the kills personally, I had the team strip the equipment and store it all in our shared subspace.
 
-“Whew,Considering the equipment they have in their subspaces, this is no small haul.”
+“Whew. Considering the equipment they had in their subspaces, this is no small haul.”
 
 “When we get back, everyone will get a hefty share.”
 
@@ -102,7 +102,7 @@ The team’s excitement was evident, even from a quick glance.
 
 It was only natural.
 
-As valuable as Level 3 essence is, it doesn’t compare to the gear of 15 elite soldiers on the seventh floor.
+As valuable as a Level 3 essence was, it couldn’t compare to the equipment of fifteen elite explorers on the seventh floor.
 
 Besides, it didn’t require much effort on our part.
 
@@ -116,23 +116,21 @@ Besides, it didn’t require much effort on our part.
 
 I couldn’t hide my satisfaction and a smile crept onto my face.
 
-A battle completed without a single injury, wrapped up in under five minutes.
+We had finished the battle in under five minutes without a single injury.
 
 “Are you planning to keep fighting like this from now on?”
 
 “Is there a problem?”
 
-“No, not really…”
+“No, not really...”
 
 Akuraba hesitated to ask but fell silent.
 
-Having experienced it herself, she knew.
-
-That this is the best method to ambush those who are hunting carelessly in their own territory.
+Having experienced it herself, she knew this was the best way to ambush people who hunted carelessly in their own territory.
 
 Well, not that there aren’t any disadvantages.
 
-‘Thirty minutes…’
+‘Thirty minutes...’
 
 The battle may have lasted five minutes, but it took considerable time to wait for them to encounter a monster.
 
@@ -162,7 +160,7 @@ I overheard a conversation between some members and couldn’t help but chuckle.
 
 “Did you see that earlier? Those pieces of equipment?”
 
-“If we keep fighting like this ten more times… Just how much will that be?”
+“If we keep fighting like this ten more times... Just how much will that be?”
 
 Well, I guess we’ll find out soon enough.
 
@@ -176,13 +174,13 @@ Moving while hiding in the darkness.
 
 “Enemies.”
 
-Upon spotting enemies, we wait for an opportunity until they engage a monster.
+Whenever we spotted enemies, we waited until they engaged a monster.
 
-And then…
+And then...
 
 “Now!”
 
-We launch an all-out ambush while they’re distracted by the monster.
+Then we launched an all-out ambush while they were distracted.
 
 Boom, boom, boom!
 
@@ -190,25 +188,25 @@ Whoosh!
 
 Thud!
 
-Our ranged firepower blasts their rear lines to pieces, making it even easier.
+Our ranged firepower blasted their rear lines to pieces, making the rest even easier.
 
 “Let’s gooooooo!”
 
 “Wipe them all out!”
 
-Even if our melee fighters rush in and wreak havoc, their front lines can’t support them easily because of the monsters in front.
+Even when our melee fighters rushed in and wreaked havoc, the enemy front line couldn’t support the rear because monsters were pinning it down.
 
 And just like that, another quick victory.
 
 “Is that our tenth ambush?”
 
-Repeating this process as we move, we’ve already hit double digits by the time we leave the Dragon’s Depth.
+By repeating the process as we advanced, we had already reached double digits by the time we left the Dragon’s Depth.
 
 “Mages! Set up a sound barrier!”
 
 “Hey! Strip them gently! You’re tearing off bits of flesh along with the equipment!”
 
-As soon as the battle ends, the members skillfully proceed to collect loot and erase traces.
+As soon as each battle ended, the members efficiently collected the loot and erased our traces.
 
 As I watched, a team member dragged a survivor by the hair to me.
 
@@ -218,7 +216,7 @@ As I watched, a team member dragged a survivor by the hair to me.
 
 “Not at all.”
 
-From the second battle onwards, I always leave one man alive to extract information.
+From the second battle onward, I always left one person alive for interrogation.
 
 You never know what might come in handy.
 
@@ -232,7 +230,7 @@ Besides, I’m not the one doing the interrogation anyway.
 
 Our expedition’s official information extractor, Jun.
 
-If I leave it to him for a moment, the information gets extracted and organized smoothly.
+If I left it to him for a while, the information came out neatly organized.
 
 For example, we found out that the ones hunting on the 8th floor were Noark’s elite.
 
@@ -240,7 +238,7 @@ And that their base is virtually empty.
 
 All that kind of useful information.
 
-The only problem is that none of the recent captives know anything new…
+The only problem is that none of the recent captives know anything new...
 
 “Schuiz, come here for a moment. This is urgent.”
 
@@ -254,17 +252,17 @@ It meant that meaningful information had been obtained during this interrogation
 
 “It’s hard to say.”
 
-“What do you mean…?”
+“What do you mean...?”
 
 Jun shifted his gaze. Following it, I saw a faintly glowing stone vibrating.
 
 A well-known tool among explorers.
 
-“A message stone…?”
+“A message stone...?”
 
 “This is an item he was carrying.”
 
-“That means…”
+“That means...”
 
 “Yes, someone is trying to contact him. What shall we do?”
 
@@ -276,7 +274,7 @@ How many more times would it buzz?
 
 No way to tell.
 
-Which meant a quick decision.
+Which meant I had to decide quickly.
 
 I lifted my hand slightly, gesturing for time, and gathered my thoughts.
 
@@ -288,7 +286,7 @@ But this is Noark’s territory.
 
 There’s a possibility that this contact is coming from very far away.
 
-The reason the royal expedition is targeting their base was to counter this very thing.
+The royal expedition was targeting their base precisely to shut this system down.
 
 Magic Wave Transmitter.
 
@@ -316,7 +314,7 @@ Hmm, I see.
 
 That was quite a confident answer given the situation.
 
-“…I, I can do it! I’ll do whatever you say! Just please… let me die…”
+“...I, I can do it! I’ll do whatever you say! Just please... let me die...”
 
 Hearing the voice of someone yearning for death more than life, I concluded my judgment.
 
@@ -328,13 +326,13 @@ Listening to his desperate plea for death, I made my decision.
 
 I handed him the vibrating message stone, shoving it close to his face.
 
-Then…
+Then...
 
 Click.
 
 The instant he answered, a deep voice came from the stone.
 
-A low bass voice that stuck somewhere in my ears.
+A deep bass voice that lodged itself in my ears.
 
 My heart began to pound.
 
@@ -342,7 +340,7 @@ Thump, thump, thump—
 
 It was a voice I could never forget.
 
-“Is… Is this Lord Regal Vagos?”
+“Is... Is this Lord Regal Vagos?”
 
 The Dragon Slayer, Regal Vagos.
 
@@ -364,11 +362,11 @@ Ruin Scholar, Belbev Ruinzenes and so on.
 
 Even just thinking about it now, there are quite a few that come to mind, but the one I hold the deepest grudge against is this guy.
 
-The Dragon Slayer, Regal Vagos,
+The Dragon Slayer, Regal Vagos.
 
-The moment I heard his voice, my reason paralyzed, and my blood boiled.
+The moment I heard his voice, my reason froze and my blood boiled.
 
-But…
+But...
 
 Clench.
 
@@ -376,7 +374,7 @@ Now is not the time for that.
 
 I clenched my fist tighter, suppressing my emotions.
 
-And then…
+And then...
 
 [Meiras, where are you right now?]
 
@@ -384,7 +382,7 @@ I focused on the ongoing conversation.
 
 “W-We’re hunting in the Dragon’s Depth with my team!”
 
-[…Is that so? Then do you know anything?]
+[...Is that so? Then do you know anything?]
 
 “Know anything?”
 
@@ -406,9 +404,9 @@ Jun quietly picked up an awl that was lying nearby, and the guy’s speech and p
 
 [No matter how incompetent they are, they wouldn’t all be wiped out.]
 
-“…That’s true. By the way, is everything okay on your side?”
+“...That’s true. By the way, is everything okay on your side?”
 
-He even went further to eagerly probe for information.
+He even went a step further and eagerly probed for information.
 
 [For now.]
 
@@ -416,7 +414,7 @@ He even went further to eagerly probe for information.
 
 [You?]
 
-“……”
+“......”
 
 [Don’t waste your time and wait. I’ve already sent troops your way. Join them and follow their orders.]
 
@@ -428,7 +426,7 @@ Then he clicked his tongue and abruptly ended the call. Jun cautiously spoke up.
 
 “That’s unfortunate. It would’ve been good if we could’ve found out how many troops are being sent this way.”
 
-“Yes, indeed…”
+“Yes, indeed...”
 
 “Are you feeling unwell? Your complexion doesn’t look good.”
 
@@ -456,16 +454,16 @@ Normally, she would have bent down to pick it up, but Erwin stood frozen, starin
 
 Just as I started to approach her, I noticed something unusual.
 
-“Wait, you’re trembling…”
+“Wait, you’re trembling...”
 
-“T-That voice…”
+“T-That voice...”
 
 “Calm down. Are you alright?”
 
-“Just now! Th-That voice… that’s him, right?”
+“Just now! Th-That voice... that’s him, right?”
 
-Though I didn’t yet understand her reaction.
+I still didn’t understand her reaction.
 
-“Th-The Dragon Slayer, Regal Vagos…”
+“Th-The Dragon Slayer, Regal Vagos...”
 
 Erwin was visibly shaken, paralyzed with fear.

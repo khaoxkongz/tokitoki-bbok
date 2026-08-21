@@ -22,7 +22,7 @@ The Floor Lord of the fifth floor, armed with troublesome mechanics.
 
 For an “Explorer” like me, who uses Essences, it’s practically a disaster.
 
-I can’t even counter this guy by using the companion spell as we did against the traitor Ricardo Lühensprache who had this guy’s essence…
+I can’t even counter this guy by using the companion spell as we did against the traitor Ricardo Lühensprache who had this guy’s essence...
 
 ‘Why is it here?’
 
@@ -32,9 +32,9 @@ Tadat.
 
 The moment our eyes met, I stepped back and pulled Erwin into my arms.
 
-And then…
+And then...
 
-“…!”
+“...!”
 
 Instead of speaking, I gave Gahyun a simple hand signal, and he ended up meeting my eyes.
 
@@ -62,17 +62,17 @@ Kwoooong—!
 
 Not sound, but a massive vibration reverberated through my skin.
 
-At the same time…
+At the same time...
 
 [The character has exited the range of [Wordless Command]]
 
 The Lord of Silence, Siliart, who had been climbing the cliff, tumbled down, and sound returned.
 
-“Uh…”
+“Uh...”
 
 After casting his spell, Gahyun looked shocked. In contrast, the village chief remained calm.
 
-“Hmm… A fascinating monster.”
+“Hmm... A fascinating monster.”
 
 Come to think of it, the Floor Lords must not have existed in the labyrinth when this old man was alive.
 
@@ -82,7 +82,7 @@ According to records inscribed on the Stone of Honor, Floor Lords only began app
 
 “If my eyes didn’t deceive me, that thing we just saw was a Floor Lord of the Great Great Demon Realm.”
 
-“A Floor Lord…?”
+“A Floor Lord...?”
 
 The Village Chief tilted his head, unfamiliar with the term.
 
@@ -106,7 +106,7 @@ Tadat.
 
 As I picked up speed, I noticed another change: the monsters that had been blocking the path were now completely gone.
 
-“A small mercy amidst the misfortune…”
+“A small mercy amidst the misfortune...”
 
 Maybe the appearance of the Lord of Silence drove them away.
 
@@ -114,11 +114,11 @@ Maybe the appearance of the Lord of Silence drove them away.
 
 “Down.”
 
-“Down…? Isn’t the floor lord waiting below?!”
+“Down...? Isn’t the floor lord waiting below?!”
 
 “That’s why we’re going. It’s better to fight on flat ground than in a canyon.”
 
-“You can’t possibly… be planning to fight that thing, are you?”
+“You can’t possibly... be planning to fight that thing, are you?”
 
 Gahyun shouted as if the idea were absurd, but I had only one thing to say.
 
@@ -130,7 +130,7 @@ Honestly, his reaction was understandable.
 
 The floor lords are infamous, after all.
 
-His outburst… well, was probably due to the field effect.
+His outburst... well, was probably due to the field effect.
 
 No time for hammer-based discipline right now, so I decided to let it slide—just this once.
 
@@ -140,21 +140,21 @@ Then, the Village Chief’s shout echoed through the canyon.
 
 A sharp rebuke I’d never heard from him before.
 
-“Y-yes…?”
+“Y-yes...?”
 
 Fixing his gaze on Gahyun, who looked utterly taken aback, the village chief spoke sternly.
 
 “Stop complaining and follow the Baron’s lead. That’s an order.”
 
-“What? B-but…”
+“What? B-but...”
 
 “Are you refusing?”
 
-“N-no… It’s just that there must be another way besides fighting that thing—”
+“N-no... It’s just that there must be another way besides fighting that thing—”
 
 “Answer only with yes or no. But choose carefully. Today’s answer will shape your future.”
 
-“…I’ll comply.”
+“...I’ll comply.”
 
 Thanks to the Village Chief stepping in, the situation quickly stabilized.
 
@@ -166,7 +166,7 @@ Soon, the village chief sped up and took a position beside me at the front.
 
 “Given his reaction, that seems like an incredibly tough enemy. Do you have a plan?”
 
-“…Of course.”
+“...Of course.”
 
 Well, more accurately, I was still working on it.
 
@@ -176,15 +176,15 @@ We already had the essentials for a raid.
 
 ‘Priest, Mage, Knight.’
 
-The three essential roles for raiding the Lord of Silence. Of course, five people were still far too few…
+The three essential roles for raiding the Lord of Silence. Of course, five people were still far too few...
 
-But with infinite divine power and ancient magic…
+But with infinite divine power and ancient magic...
 
 The Village Chief, boosted by his inflated stats, had been overwhelming throughout this chapter.
 
 With this, we at least met the minimum requirements.
 
-‘The problem is me and Erwin…’
+‘The problem is me and Erwin...’
 
 But let’s think positively. There’s a high chance we had some “role” in this raid.
 
@@ -226,7 +226,7 @@ If so, there are too many variables—
 
 Suddenly, the High Priest spoke.
 
-‘Damn, that startled me…’
+‘Damn, that startled me...’
 
 I quietly stroked my chest and calmly assessed the situation.
 
@@ -238,9 +238,9 @@ If something was wrong, we needed to act fast—
 
 What the hell?
 
-“…What do you mean?”
+“...What do you mean?”
 
-“Exactly as I said. The miracle of God fills my entire being. I can’t recall ever feeling this fulfilled in my life…”
+“Exactly as I said. The miracle of God fills my entire being. I can’t recall ever feeling this fulfilled in my life...”
 
 His glassy eyes made it clear he wasn’t in his right mind.
 
@@ -254,7 +254,7 @@ As I debated how to handle him, he turned his gaze to me.
 
 The same question he’d asked me before the Lord of Silence appeared. But this time, something felt off.
 
-I wasn’t entirely sure yet, but…
+I wasn’t entirely sure yet, but...
 
 “Just to confirm.”
 
@@ -264,7 +264,7 @@ I needed to verify.
 
 The High Priest remained silent.
 
-Instead of answering…
+Instead of answering...
 
 Whoooosh
 
@@ -280,7 +280,7 @@ The High Priest stretched his hand toward the particles with a radiant smile.
 
 There was no point denying it anymore.
 
-It was too sudden, too unbelievable, but…
+It was too sudden, too unbelievable, but...
 
 “See? The grace of God?”
 
@@ -306,9 +306,9 @@ I had to decide quickly.
 
 If a Priest of Karui with unlimited divine power became our enemy, we are screwed.
 
-‘But… if I kill him, what then?’
+‘But... if I kill him, what then?’
 
-Setting aside the moral dilemma of killing the High Priest so easily…
+Setting aside the moral dilemma of killing the High Priest so easily...
 
 Without a Priest, we stood no chance against the Floor Lord.
 
@@ -354,7 +354,7 @@ I swung my hammer again, but unfortunately, the tentacles sprouting from the Hig
 
 It was too horrifying and disgusting to call it a divine spell.
 
-“…Wh-what in the world is going on?” Gahyun stuttered
+“...Wh-what in the world is going on?” Gahyun stuttered
 
 After a few more hammer strikes, I gave up and gave a brief explanation.
 
@@ -372,7 +372,7 @@ Wait, wasn’t he just yelling at me for attacking him?
 
 Without hesitation, the village chief unleashed his aura and swung his sword.
 
-But…
+But...
 
 Boom—!
 
@@ -380,7 +380,7 @@ Even aura couldn’t break through that shell.
 
 But the chief didn’t seem disappointed.
 
-“If I go all-out, I could manage… but afterward, count me out. It’s basically a finisher. Would you prefer that?”
+“If I go all-out, I could manage... but afterward, count me out. It’s basically a finisher. Would you prefer that?”
 
 Everyone looked to me.
 
@@ -390,17 +390,17 @@ He was making it clear that the decision was mine.
 
 I had to think—
 
-“None of you…”
+“None of you...”
 
 Suddenly, the high priest spoke.
 
-“…understand me at all.”
+“...understand me at all.”
 
 His voice was devoid of emotion, much like the chief’s had once been.
 
 “But worry not. You’ll understand soon enough.”
 
-As his ominous declaration ended…
+As his ominous declaration ended...
 
 Like a possession ritual, his spine bent backward, and his chest split open.
 
@@ -416,7 +416,7 @@ The ultimate skill of a Priest of Karui.
 
 Its effect was simple.
 
-For the duration of the cast, the caster becomes invincible…
+For the duration of the cast, the caster becomes invincible...
 
 ‘And then explodes.’
 
@@ -438,7 +438,7 @@ The ground trembled, and sound vanished again.
 
 [All Essence skills are sealed.]
 
-As if things couldn’t get worse, the Floor Lord we’d knocked down earlier reappeared…
+As if things couldn’t get worse, the Floor Lord we’d knocked down earlier reappeared...
 
 ‘Attack.’
 
@@ -446,7 +446,7 @@ As if things couldn’t get worse, the Floor Lord we’d knocked down earlier re
 
 I frantically signaled the Village Chief with the same instructions I’d given Gahyun earlier. But the Village Chief just shook his head with an apologetic look.
 
-Ah… Essence-sealing affects him too?
+Ah... Essence-sealing affects him too?
 
 “Goddammit.”
 
@@ -478,13 +478,13 @@ I was about to jump anyway, but then I noticed something strange.
 
 It wasn’t targeting us.
 
-“Wait…?”
+“Wait...?”
 
 The creature pulled itself onto the cliff and embraced the high priest tightly.
 
-Then…
+Then...
 
-“……”
+“......”
 
 It locked eyes with me, just for a moment—
 

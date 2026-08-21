@@ -4,7 +4,7 @@ An uneasy companionship that began outside the walls.
 
 Nevertheless, it had its advantages. After all, I’d already been handed a piece of valuable information before our journey had even begun.
 
-“Where this place is… hmm, would you like to take a look at the map we made?”
+“Where this place is... hmm, would you like to take a look at the map we made?”
 
 Baek-ho had been outside the walls before me.
 
@@ -14,13 +14,13 @@ Well, it’s not like I’d have done any better myself.
 
 Anyway—
 
-“…What’s this outline? Looks familiar somehow.”
+“...What’s this outline? Looks familiar somehow.”
 
 On the map, which was still a work in progress, had an odd border line running across it—something that looked suspiciously like the borders dividing nations on a world map.
 
 “Ah, that marks the terrain that matches the Dark Continent on the 7th floor.”
 
-…No wonder the shape of the border line looked familiar.
+...No wonder the shape of the border line looked familiar.
 
 It was the shape of the Dark Continent.
 
@@ -36,7 +36,7 @@ The Dark Continent was located in the southeastern part of the continent, and th
 
 “Ah, that? It’s an island.”
 
-“An island……?”
+“An island......?”
 
 “There’s that one island on the 6th floor, right? The one with some strange, unknown monument erected in the center.”
 
@@ -44,9 +44,9 @@ The Dark Continent was located in the southeastern part of the continent, and th
 
 “Ah, yes, yes, that one. The terrain is very similar to that island. The monsters that appear also match.”
 
-“Is that so…….”
+“Is that so.......”
 
-A strange coincidence… It felt too unsettling to dismiss it as just that. An island that should be in the middle of the ocean is landlocked here. Could this be linked to the hidden truth of the world I had yet to understand?
+A strange coincidence... It felt too unsettling to dismiss it as just that. An island that should be in the middle of the ocean is landlocked here. Could this be linked to the hidden truth of the world I had yet to understand?
 
 I couldn’t tell, but at least my knowledge was growing.
 
@@ -64,9 +64,9 @@ He pointed to a spot beyond the Dark Continent, somewhere deep within the unchar
 
 “And how long will that take?”
 
-“On foot, maybe… half a year?”
+“On foot, maybe... half a year?”
 
-“…What?”
+“...What?”
 
 So by the time we got there and back, a whole year would have passed?
 
@@ -76,7 +76,7 @@ When I frowned, Baek-ho just grinned playfully.
 
 “Don’t worry. We’ll be taking portals along the way. We should get there within a month.”
 
-“Portals…?”
+“Portals...?”
 
 What is he talking about now?
 
@@ -88,7 +88,7 @@ The more I hear about the outside world, the more I feel like I’ve gone back t
 
 “Alright, let’s get moving. We’ll aim to reach the portal by tonight, so everyone keep up.”
 
-…This makes it feel like we’re taking a bus or something.
+...This makes it feel like we’re taking a bus or something.
 
 ***
 
@@ -96,7 +96,7 @@ In [Dungeon & Stone], ‘time’ is very important.
 
 That’s because in the labyrinth, each floor has a set time when the field closes.
 
-If you can’t use time efficiently, it naturally becomes impossible to go up to higher floors……
+If you can’t use time efficiently, it naturally becomes impossible to go up to higher floors......
 
 Whoooooosh-!
 
@@ -106,7 +106,7 @@ Explorers, regardless of their position in the team, must master their own ‘Mo
 
 Unlike strength-based characters.
 
-‘Sigh… It’s just me again.’
+‘Sigh... It’s just me again.’
 
 Thud! Thud!
 
@@ -114,7 +114,7 @@ As I made my way through the forest, I kept slipping into moments of self-reflec
 
 I still hadn’t completed my movement system.
 
-Well, at least my stamina and energy stats were high enough that I didn’t tire easily…
+Well, at least my stamina and energy stats were high enough that I didn’t tire easily...
 
 Thud! Thud!
 
@@ -128,9 +128,9 @@ Whooooom—!
 
 The GM was using his levitation magic combined with other spells to fly quickly, while the healer, Jayna, was riding a summoned mount at a leisurely pace.
 
-And……
+And......
 
-‘…This is kind of humiliating.’
+‘...This is kind of humiliating.’
 
 I was barely keeping up from the back, and it was obvious that the whole party could move faster, but was deliberately slowing down for me.
 
@@ -138,7 +138,7 @@ Unspoken pity—how delightful.
 
 “Hahaha! How amusing! It’s been ages since I met someone slower than me!”
 
-…Damn it.
+...Damn it.
 
 This guy’s a tank. How the hell did he master movement so fast? Shouldn’t he be focusing on getting sturdier instead?
 
@@ -146,7 +146,7 @@ Tch.
 
 As I clicked my tongue in frustration, I looked at the woman seated leisurely on her mount ahead.
 
-‘A contract monster… So she is a Karui priestess.’
+‘A contract monster... So she is a Karui priestess.’
 
 Her mount gave away her class, but that didn’t matter. She wasn’t trying to hide it anyway.
 
@@ -154,7 +154,7 @@ Her mount gave away her class, but that didn’t matter. She wasn’t trying to 
 
 After travelling through the deep, dark night, we finally reached our destination and allowed ourselves some rest.
 
-“Let’s rest here for the day. It seems we have less time to recover our mana than we thought…”
+“Let’s rest here for the day. It seems we have less time to recover our mana than we thought...”
 
 “No need to change the schedule. We’ve got Havelion now, don’t we?”
 
@@ -166,7 +166,7 @@ After travelling through the deep, dark night, we finally reached our destinatio
 
 While everyone took a moment to rest, the Ruin Scholar signalled the GM and the two of them synced up in a way that was hard for me to understand.
 
-And……
+And......
 
 “Can we talk for a moment?”
 
@@ -174,11 +174,11 @@ Without saying a word, Baek-ho appeared and gestured for me to come with him.
 
 “Don’t you think it’s fate? I never thought I’d end up traveling with you like this.”
 
-“…”
+“...”
 
 “Ah, don’t worry, no one will overhear us!”
 
-“Ha…”
+“Ha...”
 
 After quickly glancing around, I let out a sigh and glared at Lee Baek-ho.
 
@@ -190,7 +190,7 @@ I had so much I wanted to say, starting from how he had given me the wrong way f
 
 “Wow, if he finds out your true identity, his expression is going to be something else, I bet?”
 
-Yeah… I was curious about that too, but it wasn’t worth finding out right now.
+Yeah... I was curious about that too, but it wasn’t worth finding out right now.
 
 I was curious to see what kind of expression he’d make, too, but it wasn’t worth finding out right now. So pass.
 
@@ -206,21 +206,21 @@ With his permission, I asked what had been bothering me.
 
 “What exactly did you mean by that?”
 
-“Ah, that…”
+“Ah, that...”
 
 “Come on, I’ve come all the way out here already—just tell me straight. Was it because of the ‘Gray world’?”
 
 At that, Baek-ho looked thoughtful for a moment, then nodded.
 
-“The gray world… that’s a pretty poetic, yet fitting way to put it.”
+“The gray world... that’s a pretty poetic, yet fitting way to put it.”
 
 “Enough with that, just answer the question.”
 
 “Actually, that’s not really related. It’s not even something that dangerous to begin with.”
 
-“…What do you mean it’s not dangerous?”
+“...What do you mean it’s not dangerous?”
 
-“Anyway, forget that… The reason the Noark guys went back to the city, knowing they might die, is something else.”
+“Anyway, forget that... The reason the Noark guys went back to the city, knowing they might die, is something else.”
 
 Then Lee Baek-ho paused for a moment and looked at me.
 
@@ -228,7 +228,7 @@ What on earth does he want to say, taking his time like—.
 
 “Because there’s a monster.”
 
-“…Huh?”
+“...Huh?”
 
 “A really, really terrifying monster.”
 
@@ -236,9 +236,9 @@ Even with all that emphasis, I couldn’t quite grasp what he meant.
 
 I shot him a look urging him to explain, and he shrugged.
 
-“It doesn’t seem to have a specific habitat. It ended up appearing no matter where we went. Every time it appeared, thousands died without even putting up a fight…”
+“It doesn’t seem to have a specific habitat. It ended up appearing no matter where we went. Every time it appeared, thousands died without even putting up a fight...”
 
-“Died…?”
+“Died...?”
 
 “We’ve only figured out one thing so far. The more people there are around, and the longer those people have stayed outside the walls, the higher the probability of that thing appearing.”
 
@@ -250,7 +250,7 @@ While I was trying to grasp it, Baek-ho spoke again.
 
 “Don’t you think it sounds familiar?”
 
-“…What?”
+“...What?”
 
 “The way it appears when certain conditions are met—it’s just like a floor lord, isn’t it?”
 
@@ -270,19 +270,19 @@ Zero and one are just different numbers. Once a probability exists, no matter ho
 
 If something can happen, it will.
 
-Maybe I’d be less anxious if I hadn’t heard this at all…
+Maybe I’d be less anxious if I hadn’t heard this at all...
 
 The thought crossed my mind, but I’ve always preferred knowing what’s coming to being caught off guard.
 
 So I pressed him for more details about this ‘monster’.
 
-“Actually, it’s not that it’s super destructive or overwhelmingly powerful or anything…”
+“Actually, it’s not that it’s super destructive or overwhelmingly powerful or anything...”
 
 “Yeah?”
 
 “But you can’t deal damage to it. None. At all.”
 
-“…What?”
+“...What?”
 
 “Exactly what I said. Whether you use magic, aura, or skills—it’s all immune.”
 
@@ -294,7 +294,7 @@ A monster that’s completely immune to all forms of attack?
 
 The name fit perfectly, an entity humanity had no means to resist.
 
-“I see…”
+“I see...”
 
 “How about it, sends a shiver down your spine, doesn’t it?”
 
@@ -306,7 +306,7 @@ I felt fear, yes, but I also felt something else: an uncontrollable surge of cur
 
 It was an unavoidable instinct as a gamer.
 
-Tch. There’s gotta be a way to counter it somehow…
+Tch. There’s gotta be a way to counter it somehow...
 
 There always was, after all.
 
@@ -316,13 +316,13 @@ In reality, though, brute forcing isn’t an option.
 
 Even so, it was only natural that those thoughts led to the next.
 
-“I wonder what it drops if you kill it…”
+“I wonder what it drops if you kill it...”
 
 I muttered that without realizing, and Baek-ho tilted his head before his jaw dropped.
 
-“Wow… You’re really a crazy guy too, hyung.”
+“Wow... You’re really a crazy guy too, hyung.”
 
-…What’s he talking about?
+...What’s he talking about?
 
 Where else would you find a barbarian as sane and sound as me?
 
@@ -334,7 +334,7 @@ Then I changed the subject and asked a new question.
 
 “You said something about an event happening a year from then.”
 
-“Ah… that……?”
+“Ah... that......?”
 
 “We might not even make it back by then, so can’t you just tell me?”
 
@@ -350,7 +350,7 @@ When the magic circle was destroyed, he was furious and tried to find a way back
 
 This suggests it’s connected to that ‘event’.
 
-And also…
+And also...
 
 ‘He doesn’t want me to know the details.’
 
@@ -364,7 +364,7 @@ Just as expected.
 
 The moment the conversation got uncomfortable, Lee Baek-ho ran away.
 
-And then…
+And then...
 
 “Oh, you seemed to be doing something with the old man. Is it all finished?”
 
@@ -384,6 +384,6 @@ I pretended to be clueless and followed him until we stopped at a secluded spot.
 
 “Just get on with it, speak freely.”
 
-“What is your relationship with Lee Baek-ho……?”
+“What is your relationship with Lee Baek-ho......?”
 
 Sigh, how am I supposed to explain this?

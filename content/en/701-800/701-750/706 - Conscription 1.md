@@ -2,9 +2,9 @@
 
 My first impression after taking the portal back to the underground Noark fortress was how quiet it was.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Aside from the rough breathing of my allies, who had just come through a tense situation, the surroundings were eerily silent.
 
@@ -12,7 +12,7 @@ Not a single royal army soldier, who was supposed to be occupying the fortress s
 
 Before taking the portal, Sven Parav, our human fate tracker, had caused such a ruckus that I’d secretly worried something might be waiting for us on the other side.
 
-“Ah… Ugh… Ah……”
+“Ah... Ugh... Ah......”
 
 By the way, this guy is still at it.
 
@@ -20,9 +20,9 @@ By the way, this guy is still at it.
 
 I walked up to him and spoke, but his body kept trembling and showed no signs of improving.
 
-As I was wondering what to do while watching him…
+As I was wondering what to do while watching him...
 
-“…Are you okay? Mr. Parab, please try to pull yourself together. Okay?”
+“...Are you okay? Mr. Parab, please try to pull yourself together. Okay?”
 
 Lilith Marone, the military mage who joined our clan after the Ice Rock Expedition, approached him and gently held his hand.
 
@@ -32,29 +32,29 @@ It seemed pointless to me.
 
 Tha-that’s not going to make him snap out of—.
 
-“A-ah… M-M-M-Ms. Marrone?”
+“A-ah... M-M-M-Ms. Marrone?”
 
 Huh?
 
-“M-M-M-Ms. Marrone? C-Could you please let go of my hand for now……”
+“M-M-M-Ms. Marrone? C-Could you please let go of my hand for now......”
 
-…That worked?
+...That worked?
 
 What was the difference between me and her?
 
 “A-Ah! I’m sorry! You looked cold so I thought—”
 
-“N-No! You don’t need to apologize! I-I’m the one who’s sorry…!”
+“N-No! You don’t need to apologize! I-I’m the one who’s sorry...!”
 
 Marrone quickly pulled her hand back and an awkward silence formed between them.
 
-“….”
+“....”
 
-“….”
+“....”
 
 What’s with these two? Are they like Rotmiller and Shabin Emur—secretly flirting or something?
 
-‘Hmm… Looking at Marrone, that doesn’t seem to be the case……’
+‘Hmm... Looking at Marrone, that doesn’t seem to be the case......’
 
 I’m not sure.
 
@@ -64,19 +64,19 @@ What matters is that the guy finally regained his senses. That’s all.
 
 “Parav, if you’ve come to your senses, stand up. Don’t keep lying there looking pathetic.” I barked, grabbing him by the shoulder and forcing him to his feet.
 
-“Huh? Ah! Yes…!”
+“Huh? Ah! Yes...!”
 
 Okay, seems like we can have a conversation now.
 
 “Is that intuition of yours still the same?”
 
-“Yes……”
+“Yes......”
 
-Sigh… So that means something really is going to happen soon…
+Sigh... So that means something really is going to happen soon...
 
-“…Got it. If something changes, tell me immediately. Things are going to get hectic, so you stay in the back, get yourself together, and follow slowly.”
+“...Got it. If something changes, tell me immediately. Things are going to get hectic, so you stay in the back, get yourself together, and follow slowly.”
 
-“…I’m sorry.”
+“...I’m sorry.”
 
 I ended my conversation with Parab and called for Amelia and Versyl.
 
@@ -86,7 +86,7 @@ I ended my conversation with Parab and called for Amelia and Versyl.
 
 “I also have no idea why the royal army pulled out. Nothing comes to mind.”
 
-Hmm… so no clues.
+Hmm... so no clues.
 
 I’d even prepared excuses in case we ran into them on our return.
 
@@ -106,7 +106,7 @@ Or head up to the city to find out what’s going on.
 
 Obviously, I had already made my decision.
 
-“…We go back to the city.”
+“...We go back to the city.”
 
 Closing our eyes won’t change anything.
 
@@ -126,9 +126,9 @@ With that, we left the silent underground city and climbed up into the sewers, w
 
 Our formation was not meant for moving quickly. It was a defensive formation we used whenever we entered a new part of the labyrinth or traveled through an area we knew was extremely dangerous.
 
-“……”
+“......”
 
-“……”
+“......”
 
 They didn’t say anything, but most of the clan members had questionable looks on their faces.
 
@@ -146,17 +146,17 @@ The vibration was faint, but it was enough to make the already wary members tens
 
 “That came from very far away.”
 
-“…Is something really happening above the city?”
+“...Is something really happening above the city?”
 
 If they had been skeptical at first, the members all now had serious expressions on their faces. And it didn’t take long for that feeling to intensify.
 
-“…Blood?”
+“...Blood?”
 
 Red blood was visible on the sewage water in the sewer.
 
-We followed it a little further and, of course…
+We followed it a little further and, of course...
 
-“…A corpse.”
+“...A corpse.”
 
 Bodies were scattered carelessly in the sewer.
 
@@ -166,19 +166,19 @@ Identifying them wasn’t difficult.
 
 Perhaps the killers had been in a rush and only took the most valuable equipment, because much of the victims’ gear was still left behind.
 
-“…It’s a royal army soldier.”
+“...It’s a royal army soldier.”
 
 A Royal Army soldier had died.
 
 Even if the sewers were not a place people visited often, a soldier had still died within Raphdonia’s territory.
 
-“There’s no chance they were robbed by vagrants… right?”
+“There’s no chance they were robbed by vagrants... right?”
 
 Impossible.
 
 No vagrant would dare attack the royal army inside the city’s sewers.
 
-Therefore…
+Therefore...
 
 “Emily, keep guiding. We need to get to the surface quickly.”
 
@@ -188,7 +188,7 @@ However, we did not feel another tremor like the one that had shaken the entire 
 
 Hmm, just what in the world is going on?
 
-“……It’s unexpectedly quiet, isn’t it?”
+“......It’s unexpectedly quiet, isn’t it?”
 
 Upon reaching the sewer exit, we didn’t rashly go out but observed the outside from inside the tunnel. Our view was restricted by the angle, but the street straight ahead was very quiet.
 
@@ -198,7 +198,7 @@ Even considering that the sewer entrance was on the outskirts, it was strange fo
 
 Especially in broad daylight.
 
-“……What will you do?”
+“......What will you do?”
 
 “For now, we’ll wait here. Moving this many people will immediately draw attention. Emily, take a few people and scout—”
 
@@ -212,7 +212,7 @@ Hmm, that did not change the fact that I was still uneasy. But since she was the
 
 “Alright. Be careful. I’m not expecting much—don’t take any risks.”
 
-“…I’ll be back.”
+“...I’ll be back.”
 
 Amelia organized herself for a moment before slipping out through the sewer entrance. She moved so quietly and stealthily that I lost sight of her almost immediately.
 
@@ -224,9 +224,9 @@ We had to use our time efficiently.
 
 “That is to be expected. When I examined it, it looked like a barrier was covering the entire city and blocking all mana signals. I cannot reach the remote video recording crystal in my research lab either.”
 
-“No wonder! I could feel the mana dispersing mid-cast…”
+“No wonder! I could feel the mana dispersing mid-cast...”
 
-“Ah! I heard the military has magic tools that can do that. But I thought they only used them during wartime…Huh. Something really must have happened to the city.”
+“Ah! I heard the military has magic tools that can do that. But I thought they only used them during wartime...Huh. Something really must have happened to the city.”
 
 “Just what could have happened during the two months we were outside?”
 
@@ -244,27 +244,27 @@ Still, just in case.
 
 “Are you hurt anywhere?”
 
-“…No, don’t worry.”
+“...No, don’t worry.”
 
 At my question, Amelia chuckled and shared the information she had gathered while outside with us.
 
 “I couldn’t get close to the city walls because soldiers are deployed all over and are constantly using detection-type magic tools and abilities. However, one thing is certain: the incident occurred on the Bifron side, which is occupied by the Noark forces.”
 
-“Bifron…?”
+“Bifron...?”
 
 “You’ll see when we go out, but the barrier that was covering Bifron is gone.”
 
-“So… a war is really going on.”
+“So... a war is really going on.”
 
 “Most likely. Especially since something like this was sitting in our clan house letterbox.”
 
 Amelia pulled out a letter she had found in the clan house we had been using as our base. From the seal, it was clear that it was from the palace, and Amelia had already opened it.
 
-“This is…”
+“This is...”
 
 As you would expect with an official royal document, the preface was unnecessarily long.
 
-But to summarize it briefly……
+But to summarize it briefly......
 
 “It’s a mobilization order.”
 
@@ -276,7 +276,7 @@ Well, that made sense.
 
 What country would fight a war using only regular soldiers?
 
-Kaislan, who had once served in the army, sighed with a grim look. “But it seems the situation is really severe. Even about a year ago, when the Noark people invaded, no mobilization order was issued…”
+Kaislan, who had once served in the army, sighed with a grim look. “But it seems the situation is really severe. Even about a year ago, when the Noark people invaded, no mobilization order was issued...”
 
 “Why was that?”
 
@@ -286,19 +286,19 @@ Is that so
 
 “In simple terms, if it were something the royal family could handle on their own, they would never have issued a mobilization order?”
 
-“That is what I think… assuming I am correct.”
+“That is what I think... assuming I am correct.”
 
 Kaislan’s confirmation made my head spin. Still, that did not mean I could just sit there thinking with my hand on my chin.
 
-“But honestly, things have gotten pretty complicated… Uh… Ms. Raines? Did you happen to find any document in the letterbox that was addressed not to the clan, but to the captain?”
+“But honestly, things have gotten pretty complicated... Uh... Ms. Raines? Did you happen to find any document in the letterbox that was addressed not to the clan, but to the captain?”
 
-“I did not… but what do you mean by troublesome?”
+“I did not... but what do you mean by troublesome?”
 
 “Well, our captain is a titled noble. When a mobilization order is issued, all titled nobles are transferred to the ‘Military Command.”
 
-“The Military Command…?”
+“The Military Command...?”
 
-“Hmm, it’s a bit complicated, so I’m not quite sure how to explain it…”
+“Hmm, it’s a bit complicated, so I’m not quite sure how to explain it...”
 
 Kaislan frowned for a moment, then slowly organized his thoughts before explaining as simply as possible.
 

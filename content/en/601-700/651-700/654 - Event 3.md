@@ -12,17 +12,17 @@ The crowd’s cheers turned into screams.
 
 Soldiers who had been standing by in case something happened rushed toward the spot where the magic had been cast.
 
-“M-move…!”
+“M-move...!”
 
 Chaos erupted as people scrambled from their seats, terrified of being caught in the attack.
 
-“…Lord Marquis! Are you okay?”
+“...Lord Marquis! Are you okay?”
 
 It was a terrorist attack.
 
 A bold attempt to target the prime minister of a nation right in the middle of such a major event.
 
-“…It’s been a long time since something like this happened.”
+“...It’s been a long time since something like this happened.”
 
 Unexpectedly, he seemed to have plenty of experience with this sort of thing.
 
@@ -47,7 +47,7 @@ Something about it felt very unfamiliar.
 
 Come to think of it, had the Marquis ever thanked me before?
 
-‘…I don’t think so.’
+‘...I don’t think so.’
 
 I might recall a moment if I tried hard enough, but none would resemble what I was hearing now. Besides, I’d never done anything to deserve his sincere gratitude.
 
@@ -55,9 +55,9 @@ I might recall a moment if I tried hard enough, but none would resemble what I w
 
 With those words, the Marquis left, escorted by the knights, and I was left alone, replaying the events that had just happened.
 
-Not that I intended to do this after receiving his thanks, but…
+Not that I intended to do this after receiving his thanks, but...
 
-‘…Why did I even do that?’
+‘...Why did I even do that?’
 
 Honestly, I regretted it a little.
 
@@ -71,9 +71,9 @@ If I had just let it be, the Marquis would’ve died—
 
 When I asked if Lee Baek-ho could kill the marquis, he had answered with this.
 
-[Uh, that’s tricky… Even if you kill that bastard, he’ll revive in the royal palace.]
+[Uh, that’s tricky... Even if you kill that bastard, he’ll revive in the royal palace.]
 
-[…Revive? What do you mean?]
+[...Revive? What do you mean?]
 
 [Oh, you don’t know about that? Guess it wasn’t in the game. Anyway, the royal family has a relic like that. And the Marquis has it now.]
 
@@ -85,7 +85,7 @@ I could use this to build favor, then later stab him in the back.
 
 After all, betrayal cuts deepest when it comes from someone you trust.
 
-‘Still… I really should fix this habit of throwing myself into danger.’
+‘Still... I really should fix this habit of throwing myself into danger.’
 
 Regardless of how this incident turned out, I recognized a bad habit of mine.
 
@@ -93,7 +93,7 @@ Perhaps because of how things work in the Labyrinth, I’ve internalized the ide
 
 “Th-Thank you.”
 
-“…Huh?”
+“...Huh?”
 
 Now what?
 
@@ -109,13 +109,13 @@ Come to think of it, he was standing right next to the Marquis when the spell hi
 
 I responded casually. Then, Count Langleston cautiously asked me:
 
-“Pardon me for the blunt question, but… why did you save me?”
+“Pardon me for the blunt question, but... why did you save me?”
 
 It was the same question the Marquis had asked.
 
 I smirked and answered, “Why shouldn’t I have saved you?”
 
-“Well…”
+“Well...”
 
 The Count hesitated before continuing honestly.
 
@@ -125,7 +125,7 @@ I almost laughed.
 
 Did he think this contest was some kind of battle royale?
 
-‘Or maybe… it’s just how noble minds work.’
+‘Or maybe... it’s just how noble minds work.’
 
 “Even putting that aside, Baron, you have no reason to think fondly of me, do you?”
 
@@ -143,17 +143,17 @@ I patted his shoulder heartily as I said it.
 
 The Count looked up at me with a strange expression.
 
-“Baron Jandel… you really are just as the rumors say. I sincerely apologize for my past rudeness.”
+“Baron Jandel... you really are just as the rumors say. I sincerely apologize for my past rudeness.”
 
-Hearing such words from someone who had disliked me…
+Hearing such words from someone who had disliked me...
 
-…it was surprisingly satisfying.
+...it was surprisingly satisfying.
 
 [Your character’s Fame has increased by +10.]
 [Your character’s Fame has increased by +10.]
-[Your character’s Fame has increased by +10…]
-[…]
-[…]
+[Your character’s Fame has increased by +10...]
+[...]
+[...]
 
 The construction competition that had drawn so much attention.
 
@@ -173,7 +173,7 @@ Or maybe that his son sought his position and orchestrated it himself.
 
 Wild rumors circulated on the streets, but the press made no such claims.
 
-Even the third-rate newspapers that usually thrived on stirring controversy kept silent on this matter…
+Even the third-rate newspapers that usually thrived on stirring controversy kept silent on this matter...
 
 ‘The Marquis’s influence really is immense.’
 
@@ -185,13 +185,13 @@ Anyway.
 
 Three days after the incident—
 
-“Wow… they still haven’t caught the culprit?”
+“Wow... they still haven’t caught the culprit?”
 
 As I flipped through the newspaper to check for updates, Misha peeked over my shoulder.
 
 “Bjorn, who do you think it was? Noark? A political rival? Or that annoying son of his?”
 
-“Don’t know. Probably Noark if I had to guess… but can you back up a bit?”
+“Don’t know. Probably Noark if I had to guess... but can you back up a bit?”
 
 “What, am I too close?”
 
@@ -199,7 +199,7 @@ I’d noticed that Misha’s mood had improved a lot lately.
 
 Turns out, there was a reason behind her good vibes.
 
-“Me? Not doing anything special. I’ve been exercising with Aynar during the day… and doing some painting after dinner…”
+“Me? Not doing anything special. I’ve been exercising with Aynar during the day... and doing some painting after dinner...”
 
 “Painting?”
 
@@ -209,11 +209,11 @@ If she was comfortable enough to go to art museums with Amelia, then her days of
 
 Her old personality seemed to be returning, too.
 
-‘Though honestly, the shy, quiet version of her was kinda cute too…’
+‘Though honestly, the shy, quiet version of her was kinda cute too...’
 
 As we kept chatting, I learned that she’d also improved her relationships with others.
 
-“I’m not that close to Gowland yet, but she doesn’t seem so bad… As for Erwin… I’m not sure. Looking back, I think I was more at fault, so I apologized recently, but she avoided me…”
+“I’m not that close to Gowland yet, but she doesn’t seem so bad... As for Erwin... I’m not sure. Looking back, I think I was more at fault, so I apologized recently, but she avoided me...”
 
 “I see.”
 
@@ -227,13 +227,13 @@ Two days ago, I went to the Royal Intelligence Office to answer some questions a
 
 Damn. If I’d known they had plans like that, I would’ve postponed.
 
-“So… what are you doing today?”
+“So... what are you doing today?”
 
 “Today?”
 
-“Yeah. If you’re free, want to come with me to Commelby? My sword hilt is all worn out—I need to replace it…”
+“Yeah. If you’re free, want to come with me to Commelby? My sword hilt is all worn out—I need to replace it...”
 
-“Ah… but I can’t come back with you. Is that okay?”
+“Ah... but I can’t come back with you. Is that okay?”
 
 “Huh? Why not?”
 
@@ -249,15 +249,15 @@ After leaving her sword at the forge, we grabbed a quick meal, and since we were
 
 “Since the labyrinth’s shut down, demand’s collapsed. Prices for exploration tools will keep dropping. Just wait a bit longer.”
 
-Mm… Still, that was fun.”
+Mm... Still, that was fun.”
 
-“Yeah, I enjoyed it too. I’d love to stay longer, but…”
+“Yeah, I enjoyed it too. I’d love to stay longer, but...”
 
 “You have to go, right?”
 
 “Yeah. I promised the Marquis.”
 
-“Alright… Take care.”
+“Alright... Take care.”
 
 After parting with Misha, I went straight to Karnon.
 
@@ -277,11 +277,11 @@ Sliiide.
 
 I followed the butler, and as the door opened, I stepped into a meeting room that was both elegant and imposing.
 
-‘…How many reception rooms does this house have?’
+‘...How many reception rooms does this house have?’
 
 Come to think of it, the reception room is different every time I come.
 
-It Seems they choose the reception room according to the guest…
+It Seems they choose the reception room according to the guest...
 
 ‘This one looks the finest so far.’
 
@@ -293,11 +293,11 @@ The Marquis himself rose to greet me.
 
 It felt different, there was a time when he only spoke to me through crystal orbs, even when I visited in person.
 
-“…Sit down. Your legs must be hurting.” I said
+“...Sit down. Your legs must be hurting.” I said
 
 “Haha, you sit first. Aren’t you the guest?”
 
-“If you say so…”
+“If you say so...”
 
 The Marquiss took his seat once I had sat down, and from there, our conversation began naturally.
 
@@ -307,19 +307,19 @@ The Marquiss took his seat once I had sat down, and from there, our conversation
 
 Anyone would’ve done the same.
 
-…Serious trouble, huh.
+...Serious trouble, huh.
 
 So he’s still not planning to tell me about that resurrection item?
 
 I couldn’t read his intentions, but his compliments toward me continued.
 
-“Anyone could have done it, you say… Well, there were many nobles and many knights there that day, but when things exploded, you were the only one who threw yourself forward for me.”
+“Anyone could have done it, you say... Well, there were many nobles and many knights there that day, but when things exploded, you were the only one who threw yourself forward for me.”
 
 “You were just lucky, Marquis.”
 
 “I heard about the conversation you had with Count Langleston through the newspaper. You answered that you saved him simply because you could? Is that true?”
 
-“Well… it is true, but…”
+“Well... it is true, but...”
 
 Since I wasn’t fond of being complimented so directly, I tried to change the subject.
 
@@ -331,7 +331,7 @@ So that’s settled. It’s a relief.
 
 “But that’s not the main point, so let’s move on quickly.”
 
-“…Huh?”
+“...Huh?”
 
 If this isn’t the main point, then what is?
 
@@ -343,6 +343,6 @@ The Marquis wiped away the gentle smile he had worn until now and called my name
 
 “Bjorn, son of Jandel.”
 
-“……?”
+“......?”
 
 “I believe you are an evil spirit.”

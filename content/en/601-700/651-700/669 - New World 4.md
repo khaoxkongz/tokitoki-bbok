@@ -8,7 +8,7 @@ We’d gotten the location of the dimensional stone from Rek Aures’s “friend
 
 After finding the Dimensional Stone, we took the portal, thinking we’d just have a look and turn back if it didn’t seem right.
 
-But…
+But...
 
 “In other words, that bastard tried to screw us over, huh?”
 
@@ -26,9 +26,9 @@ We didn’t even know if “Dailan” was his real name. All we knew was that he
 
 I clenched my fist before I even realized it.
 
-There was no way to know if that was really his name—but if it was…
+There was no way to know if that was really his name—but if it was...
 
-‘Is it L…?’
+‘Is it L...?’
 
 It would be my first encounter with ‘that’ in a very long time.
 
@@ -38,7 +38,7 @@ I need to be on high alert from now on.
 
 It’s the only way to safely navigate this crisis.
 
-So, in that sense…
+So, in that sense...
 
 “He probably hasn’t got far yet—”
 
@@ -74,7 +74,7 @@ Tap. Tap.
 
 I walked up to the cave wall and knocked, hearing a dull thud in response.
 
-‘I don’t think there’s anything behind this wall…’
+‘I don’t think there’s anything behind this wall...’
 
 Slick.
 
@@ -86,15 +86,15 @@ The cave floor was covered in thick, wet sludge, as though there had been a land
 
 It didn’t seem to have any special effect, like slowing our movement speed.
 
-But the problem was…
+But the problem was...
 
 “We should get out of here first.”
 
-“…Right? If we follow the path long enough, we’ll figure out something—”
+“...Right? If we follow the path long enough, we’ll figure out something—”
 
 “The cave might flood completely if we’re not careful.”
 
-“…What?”
+“...What?”
 
 Seeing Lee Baek-ho tilt his head, I pointed to the cave walls and ceiling.
 
@@ -108,15 +108,15 @@ Why is this guy so positive?
 
 “Do you know how long this cave is? What if it takes three days and nights of walking just to reach the exit? What if the structure changes into a maze-like pattern and we have to wander for ages?”
 
-“…So shouldn’t we start moving quickly then?”
+“...So shouldn’t we start moving quickly then?”
 
-Hmm… That’s true.
+Hmm... That’s true.
 
 But first things first.
 
 “Let’s reorganize our formation.”
 
-“Our formation…?”
+“Our formation...?”
 
 “It’s dangerous to split into two groups in a place like this. In a narrow passage like this, a solid formation will solve half our problems before they even start.”
 
@@ -158,7 +158,7 @@ This wasn’t just outside the wall anymore.
 
 If it were, I’d have let him take the lead as usual — he had more experience out there.
 
-But this time…
+But this time...
 
 “What’s different?”
 
@@ -174,7 +174,7 @@ And he wanted him to take the wheel?
 
 “We don’t have any intel on this place, and we have no idea what kind of variables might appear. Every single decision here could be critical.”
 
-“…So what?”
+“...So what?”
 
 “That means we should leave command to the most qualified person.”
 
@@ -182,7 +182,7 @@ I phrased it diplomatically, but the meaning was clear: I could make better judg
 
 Naturally, Baek-ho didn’t look convinced.
 
-“The most qualified… meaning you?”
+“The most qualified... meaning you?”
 
 He stared at me in disbelief.
 
@@ -212,7 +212,7 @@ I approached him and spoke quietly,
 
 “I’ll ask you one last time, Lee Baek-ho.”
 
-“…”
+“...”
 
 “Do you really believe you’re the right person for this?”
 
@@ -222,7 +222,7 @@ Because he knew the truth, too.
 
 He knew it just as well as I did — that there was a clear difference between us, too obvious for him to deny.
 
-“……”
+“......”
 
 As I waited silently, watching him, he eventually looked away and shrugged.
 
@@ -235,9 +235,9 @@ Calling it a “power struggle” would be an exaggeration — our little disput
 
 But as we started moving again, I could hear whispers behind me.
 
-“What kind of person is Baron jandel…? Even Baek-ho backed down…”
+“What kind of person is Baron jandel...? Even Baek-ho backed down...”
 
-“I was shocked too… I didn’t think he’d yield like that…”
+“I was shocked too... I didn’t think he’d yield like that...”
 
 Lex Aures muttered, and the GM answered in a hushed voice.
 
@@ -245,7 +245,7 @@ Of course, Baek-ho’s ears caught every word.
 
 “Hah! What, you think I’m a snake or something? I didn’t back down! I just wanna see what makes him so confident!”
 
-“…Ahaha.”
+“...Ahaha.”
 
 “I didn’t say anything, Baek-ho!”
 
@@ -265,7 +265,7 @@ It would be so much better if they were all like Amelia. I’m sure we’d get m
 
 After about twenty minutes of walking, the archer spoke up. Sure enough, we reached the exit soon afterwards.
 
-“It’s dark…”
+“It’s dark...”
 
 Outside the cave, visibility wasn’t much better.
 
@@ -275,21 +275,21 @@ It was pitch black, like the inside of the labyrinth.
 
 Baek-ho didn’t seem too worried, but I felt differently.
 
-“…I don’t think it’s dark just because it’s night.”
+“...I don’t think it’s dark just because it’s night.”
 
 “Huh?”
 
 “Look — the light doesn’t travel far. Like in the labryinth.”
 
-“Now that you mention it… yeah, that is weird.”
+“Now that you mention it... yeah, that is weird.”
 
-It was only then that Baek-ho frowned, noticing the same difference in the darkness. “Uh… then, could it be that we’re inside the labyrinth?”
+It was only then that Baek-ho frowned, noticing the same difference in the darkness. “Uh... then, could it be that we’re inside the labyrinth?”
 
-“Well… We’ll find out.”
+“Well... We’ll find out.”
 
 “Alright. I’ll trust you on this, Baron. You’ll figure it out on your own, right?”
 
-…Is he a kid or something?
+...Is he a kid or something?
 
 He came to this world much earlier than I did, so his mental age should be higher than mine.
 
@@ -301,15 +301,15 @@ Regardless, I focused on my task.
 
 I mean, we’d just moved from one field to another. Naturally, the first thing to do was scout the area.
 
-“No signs of water…”
+“No signs of water...”
 
 Contrary to my expectations, there were no rivers or lakes near the cave.
 
 Then how would the cave even fill up with water?
 
-It doesn’t seem like rain would cause water to pool there specifically…
+It doesn’t seem like rain would cause water to pool there specifically...
 
-‘There must be some other reason…’
+‘There must be some other reason...’
 
 As I contemplated this, I continued the search.
 
@@ -321,15 +321,15 @@ And after some time had passed.
 
 “9:18. The sun should have come up a while ago.”
 
-“Right, that’s what I thought…”
+“Right, that’s what I thought...”
 
 Even though considerable time had passed, there was no sign of the surroundings getting brighter.
 
-Therefore…
+Therefore...
 
 “There’s a good chance we’re no longer outside the wall.”
 
-“You mean… we’re inside a labyrinth?”
+“You mean... we’re inside a labyrinth?”
 
 “Well, it’s not impossible.”
 
@@ -343,7 +343,7 @@ Just then, the archer Bright called out.
 
 When I rushed over, I saw an artificial structure I couldn’t spot from where I’d been standing.
 
-“…A monument?”
+“...A monument?”
 
 It wasn’t a dimensional stone, but something else.
 
@@ -403,8 +403,8 @@ Brachiaistelro.
 
 A mere Level 5 mob monster.
 
-but…
+but...
 
-“…Star Graveyard.”
+“...Star Graveyard.”
 
 It appears only on the 9th Floor.

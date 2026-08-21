@@ -4,7 +4,7 @@
 
 The white-haired old man took a calm sip of his tea before answering. “No trouble at all. Go ahead.”
 
-“…Why did you stop him from going to the sanctuary? With my limited insight, I simply cannot understand it.”
+“...Why did you stop him from going to the sanctuary? With my limited insight, I simply cannot understand it.”
 
 “What part don’t you understand?”
 
@@ -16,13 +16,13 @@ At the old man’s question, the man in the wolf mask replied.
 
 “In the end, he lost a useless guide and gained a far more helpful companion for his journey. So, I’m curious—why did you tell him not to go to the sanctuary?”
 
-“Ah, that’s what you meant…”
+“Ah, that’s what you meant...”
 
 The old man smiled kindly. But if one looked closely, there was a mischievous glint in his eyes, like that of a playful child.
 
 “It wouldn’t be fun if I just told you.”
 
-“…Pardon?”
+“...Pardon?”
 
 “Think about it yourself. Why do you think I did that?”
 
@@ -40,7 +40,7 @@ Faced with the counter-question, the wolf masked man pondered briefly before spe
 
 “Then, the second?”
 
-“The second is… that no matter which path he chose, Brown Rotmiller would have died.”
+“The second is... that no matter which path he chose, Brown Rotmiller would have died.”
 
 “Oh?”
 
@@ -58,11 +58,11 @@ A proud smile spread across the old man’s face. “I’m glad I asked for your
 
 “You’re wrong. If he had gone to District 7, Sven Parab would have died.”
 
-“I see…”
+“I see...”
 
 The wolf masked man continued in a dejected voice, as if he had missed a test question.
 
-“My third possibility is that Brown Rottmiller was more valuable than Sven Parab as a Saint…”
+“My third possibility is that Brown Rottmiller was more valuable than Sven Parab as a Saint...”
 
 Even as he said it, the idea seemed absurd.
 
@@ -70,7 +70,7 @@ How could a retired, Rank-7 former scout possibly be more valuable than a paladi
 
 “Correct.”
 
-“…What?”
+“...What?”
 
 “I judged that, for his journey, Brown Rotmiller would have been far more helpful.”
 
@@ -78,7 +78,7 @@ The wolf masked man couldn’t understand.
 
 Still, based on his experience observing countless fates alongside the old man, he offered another guess.
 
-“…Then Sven Parav must have been a negative influence on his journey.”
+“...Then Sven Parav must have been a negative influence on his journey.”
 
 He spoke with conviction.
 
@@ -86,17 +86,17 @@ That was the only explanation that made sense. The blessing would, in truth, be 
 
 “Wrong yet again.”
 
-“…What?”
+“...What?”
 
 The wolf-masked man let out an involuntary, strangled sound, and the elder turned to look out the window.
 
 “Sven Parab will contribute to his journey exactly as much as we expect.”
 
-“Even so… you chose Brown Rotmiller over him.”
+“Even so... you chose Brown Rotmiller over him.”
 
 “Judging a person’s future solely by their present is a very foolish thing to do. Greatness is born from effort, not origin. This is a world where even a beggar can become a king.”
 
-“…Then did Rotmiller possess that much talent?”
+“...Then did Rotmiller possess that much talent?”
 
 At such simplistic thinking, the old man chuckled and shook his head.
 
@@ -136,7 +136,7 @@ Before I went to the sanctuary, Wolf told me that if I went to District Seven, A
 
 After all, I went to the sanctuary and managed to save A—Rotmiller—who had been in danger.
 
-So B… was Rotmiller?
+So B... was Rotmiller?
 
 As a result of going to the sanctuary, Rotmiller died.
 
@@ -172,13 +172,13 @@ What? Did something bad happen to her?
 
 Just as the rage I had barely suppressed began to flare again—
 
-“…I-I’m sorry.”
+“...I-I’m sorry.”
 
 Then I saw Raven avoid my gaze, and I understood what had happened.
 
 She was afraid of me.
 
-“I—I’ll step outside. Until you’ve calmed down…”
+“I—I’ll step outside. Until you’ve calmed down...”
 
 I let out a deep breath, as though purging the poison that had built up inside me, and stopped Raven as she panicked and tried to leave the barracks. “Don’t go. I’ve calmed down now.”
 
@@ -198,11 +198,11 @@ However, there was one thing I had to ask.
 
 “Do you know what happened to Rottmiller’s body?”
 
-“I… I think it would be better if you didn’t hear that…”
+“I... I think it would be better if you didn’t hear that...”
 
 “Don’t worry about it, just tell me. I told you I’ve calmed down.”
 
-“Uh… I-I really think it’s better if you don’t hear…”
+“Uh... I-I really think it’s better if you don’t hear...”
 
 “I said it’s fine.”
 
@@ -226,13 +226,13 @@ Seeing Raven tremble again, I forced myself to calm down and changed the subject
 
 “What happened to you guys? Where is Viviane now?”
 ‘
-“After you disappeared while fighting the Corpse Collector, the commander of Orcules appeared. There was a battle…”
+“After you disappeared while fighting the Corpse Collector, the commander of Orcules appeared. There was a battle...”
 
-“…And?”
+“...And?”
 
 “Long story short, we retreated first.”
 
-“…What?”
+“...What?”
 
 “Let me correct that. We didn’t run away. We withdrew at the appropriate time.” He went on to say it was to protect Raven, and that if the fight had been fair, he would have won. In the end, though, only Astarotta knew the truth.
 
@@ -256,7 +256,7 @@ What should I do now?
 
 It didn’t take long to make a decision.
 
-“First… we have to save Aynar”
+“First... we have to save Aynar”
 
 “I see.”
 
@@ -276,7 +276,7 @@ Right. It means I have to secure information first.
 
 “No need to even ask. That is already in progress.”
 
-“I see…”
+“I see...”
 
 Although he usually seemed rigid and inflexible, he was smart in how he handled his work.
 
@@ -290,7 +290,7 @@ If more of my allies had been dropped into the heart of enemy territory.
 
 In a situation like this, there was no choice but to rely on the army’s intelligence network. Just as my heart was growing restless from the lack of new information-
 
-“…Wait. Hold on.”
+“...Wait. Hold on.”
 
 The information I had been desperately searching for came from a place I never would have expected.
 
@@ -306,7 +306,7 @@ The contents could be summarized in just two lines:
 
 Aynar’s presumed current location.
 
-And…
+And...
 
 [Scheduled for Execution]
 

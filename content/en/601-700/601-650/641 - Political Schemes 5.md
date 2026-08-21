@@ -6,7 +6,7 @@ Honestly, it was laughable that this man would even say such things.
 
 From the start, he was never on good terms with Misha as a father, and he had always despised me.
 
-‘But to butt in at this timing…’
+‘But to butt in at this timing...’
 
 Well, he must have seen some political value in taking advantage of the situation.
 
@@ -27,7 +27,7 @@ As for Mr. Dragon, he was bearable enough since I had no personal connection wit
 Ha, Why are these two so uncomfortable to deal with?
 I’d rather sit on a bed of nails. Both physically and mentally.
 
-…Should I not have come here?
+...Should I not have come here?
 
 Just as I was starting to regret attending this multi-racial council, an unexpected light of salvation appeared.
 
@@ -37,13 +37,13 @@ The dwarf chief spoke up making his dissatisfaction known to everyone.
 
 “I understand the feelings of a father with a daughter, but anyone watching would think this is a matchmaking meeting.”
 
-“……”
+“......”
 
 “Aside from the humans, our five races have avoided forging deep ties with one another, and that’s what has preserved our balance and stability. But once someone starts crossing that line, that line will lose all meaning.”
 
 The dwarf elder’s rebuke was flawless, both in logic and justification.
 
-But…
+But...
 
 “Hmm. I believe that so-called line lost its meaning a long time ago.”
 
@@ -55,7 +55,7 @@ Mister Dragon didn’t see it that way and immediately countered.
 
 Judging by his words, it seemed the dwarf chief had protested to the royal family as soon as I became a titled noble and the tribe chief of the barbarians.
 
-Well, dwarves are known for narrow hearts, so I guess it’s understandable he couldn’t accept it…
+Well, dwarves are known for narrow hearts, so I guess it’s understandable he couldn’t accept it...
 
 Still, I couldn’t help but feel the petty urge to to snatch away his worthless chair all the more.
 
@@ -71,7 +71,7 @@ What seemed at first like a rebuke toward the dwarf elder suddenly shifted towar
 
 As though the entire discussion had been a build-up for this question.
 
-“Haha, how could I know what the royal family is thinking…?”
+“Haha, how could I know what the royal family is thinking...?”
 
 But the viscount simply slipped away with a hollow laugh, like a slippery eel.
 
@@ -89,9 +89,9 @@ When Mr. Dragon said nothing more, the viscount, after a moment of seriousness, 
 
 “Haha, I’m embarrassed. But it’s my first council, I came to learn today, so too much attention feels overwhelming.”
 
-“Learning, eh… That tells me enough. I now understand how the royal family views us.”
+“Learning, eh... That tells me enough. I now understand how the royal family views us.”
 
-“……”
+“......”
 
 The viscount kept his silence, as if telling everyone to interpret it themselves. With that, the topic closed.
 
@@ -119,7 +119,7 @@ Of course, that didn’t mean I’d just smile and let it pass.
 
 In short: no Erwin, no Misha.
 
-“Political concern, huh…”
+“Political concern, huh...”
 
 At first, I just listened because it was funny. However, the more he spoke, the harder it became for me to stay quiet.
 
@@ -131,13 +131,13 @@ With the dwarf chief responding in a grandfatherly tone, I asked directly:
 
 “Why do you keep telling me what to do?”
 
-“……?”
+“......?”
 
 “Are you my superior or something?”
 
 I lifted my head and glanced around. Naturally, from that angle, the dwarf fell below my line of sight.
 
-“…I apologize if I offended you. It was merely advice—.”
+“...I apologize if I offended you. It was merely advice—.”
 “Oh, then let me give you some advice too.”
 
 Looking at the Dwarf Chief, who wore a puzzled expression, I stated clearly.
@@ -154,7 +154,7 @@ I looked down at the slightly shaken dwarf chief and added:
 
 “So don’t—”
 
-“……”
+“......”
 
 “Ever try to command me again.”
 
@@ -164,11 +164,11 @@ Still, I couldn’t shake the feeling that he didn’t fully understand.
 
 Yep, that should be enough.
 
-“……”
+“......”
 
-Whether it was the dwarf chief who had never once stepped into the labyrinth…
+Whether it was the dwarf chief who had never once stepped into the labyrinth...
 
-“……”
+“......”
 
 Or Karlstein, who once immobilized me with one burst of his killing intent.
 
@@ -238,7 +238,7 @@ His resourcefulness was lacking, but he too tried in his own way.
 
 Like when he begged the council to ban the Mage Tower’s research on barbarian hearts.
 
-“…So that was it? That day is why you hold resentment against us?”
+“...So that was it? That day is why you hold resentment against us?”
 
 The dwarf elder finally looked as though he understood, then spoke as though consoling a child.
 
@@ -274,11 +274,11 @@ I wasn’t angry or bitter that they hadn’t helped us when we were desperate, 
 
 “I simply dislike it.”
 
-“……”
+“......”
 
 “This two-faced attitude of talking about balance now.”
 
-So…
+So...
 
 “I’d prefer if you never spout that nonsense about harmony and balance in front of me again.”
 
@@ -290,9 +290,9 @@ Perhaps because I’d finally said aloud what I’d always kept in my heart, in 
 
 Even this silence felt refreshing.
 
-But…
+But...
 
-“Hmm…”
+“Hmm...”
 
 Unfortunately, that time didn’t last long.
 
@@ -304,7 +304,7 @@ The fairy representative nodded.
 
 Mr. Dragon agreed as well.
 
-“But then…?”
+“But then...?”
 
 Finally, the head of the Kalstein family spoke up as if taking charge.
 

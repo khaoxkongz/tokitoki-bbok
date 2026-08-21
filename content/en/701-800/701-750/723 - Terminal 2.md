@@ -10,9 +10,9 @@ The founding king of Raphdonia, whom I met inside the Rift.
 
 Revered by the people as the Immortal King, or simply the Immortal, he was a tyrant who ruled the city for thousands of years across countless generations.
 
-When I saw him in the Rift back then, I was utterly shocked. First, it didn’t feel real to meet such a giant from history, but more than that…
+When I saw him in the Rift back then, I was utterly shocked. First, it didn’t feel real to meet such a giant from history, but more than that...
 
-‘The king of Raphdonia always appears wearing a mask…’
+‘The king of Raphdonia always appears wearing a mask...’
 
 Whether in the royal palace or in propaganda pamphlets, the king always appeared masked.
 
@@ -24,7 +24,7 @@ As if it were a tradition, the Kings of Raphdonia always hid their faces with a 
 
 I snapped myself out of my thoughts and, in a split second, chose how to answer the King of the New World’s question.
 
-“…Yes. I suppose so.”
+“...Yes. I suppose so.”
 
 There was no need to mention the Immortal king I had seen within the rift. Bringing it up felt like I’d just be asking for trouble.
 
@@ -34,7 +34,7 @@ Fortunately, once I agreed with him, the King of the New World didn’t press th
 
 And then—
 
-“Before we go to that place… let’s step outside for some fresh air.”
+“Before we go to that place... let’s step outside for some fresh air.”
 
 ‘I will guide you.’ As soon as the knight heard the King’s words, he began leading us, and I followed behind the two of them.
 
@@ -44,7 +44,7 @@ As we walked on, a path leading to the garden opened up, and for the first time 
 
 It was an unexpected question at an unexpected moment.
 
-“…What do you mean by that?”
+“...What do you mean by that?”
 
 “Exactly what it sounds like. Is it strange to talk about this? Even the King of the New World failed to achieve eternity in the end.”
 
@@ -52,9 +52,9 @@ Well, put that way, I couldn’t exactly argue.
 
 He had lived a life close to immortality, yet ultimately he was just another mortal who failed to attain eternal life.
 
-“…Still, you seem quite healthy, despite the rumors.”
+“...Still, you seem quite healthy, despite the rumors.”
 
-“What the rumors say…”
+“What the rumors say...”
 
 I’d tossed that out without much thought, but his reaction caught me off guard.
 
@@ -64,13 +64,13 @@ In a subtle tone, the King of the New World asked me a question in return.
 
 Nodding here would have been amateurish.
 
-“I am curious… but not to the point where I must know.”
+“I am curious... but not to the point where I must know.”
 
 “Why not? I am the king of a nation, you know.”
 
-“Well, frankly… it’s none of my business.”
+“Well, frankly... it’s none of my business.”
 
-“…What?”
+“...What?”
 
 As if he’d heard something completely unexpected, the King of the New World burst into laughter, while I stood there awkwardly.
 
@@ -78,7 +78,7 @@ I felt a bit sorry since he genuinely seemed amused, but honestly, I didn’t me
 
 In truth, I didn’t think it was none of my business at all.
 
-‘There has to be a reason for this…’
+‘There has to be a reason for this...’
 
 And that hidden reason was driving me—
 
@@ -90,13 +90,13 @@ Flash—!
 
 For a moment, the whole world flickered.
 
-And then…
+And then...
 
 BOOM!
 
 It wasn’t until I heard the rumble of thunder a few seconds later that I realized what had happened.
 
-“…Huh?”
+“...Huh?”
 
 Lightning had struck right where we had been standing!
 
@@ -110,17 +110,17 @@ I couldn’t help but tilt my head at his grumbling. Something about what he’d
 
 ‘A bolt of lightning just fell from a clear sky, and he’s this calm?’
 
-“…Does this… happen often?”
+“...Does this... happen often?”
 
 When I asked carefully, the King of the New World chuckled and replied playfully.
 
 “Who knows? Perhaps even the heavens are desperate to kill me.”
 
-“……”
+“......”
 
 “Don’t worry. It’ll be quiet for a while now.”
 
-Hmm… now I was even more curious. Was this connected to the ‘sleep’ he’d mentioned earlier?
+Hmm... now I was even more curious. Was this connected to the ‘sleep’ he’d mentioned earlier?
 
 “I haven’t been here in a long time.”
 
@@ -130,15 +130,15 @@ After walking through the garden for a while, we arrived at an open space furnis
 
 “What? Haha! Were you thinking about that the entire way over here?”
 
-“……”
+“......”
 
 “Still, despite all this time passing, this place hasn’t changed. Perhaps this is what people mean by eternity.”
 
 “It seems this place holds many memories for you.”
 
-“…Yes. Many things happened here. Since we’re already here, let’s rest for a bit.”
+“...Yes. Many things happened here. Since we’re already here, let’s rest for a bit.”
 
-“Yes…”
+“Yes...”
 
 I replied and sat down on the grass.
 
@@ -146,9 +146,9 @@ The first reason was that I worried I might damage a chair filled with the king�
 
 The second was that even sitting like this, our eye levels matched.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Even after we sat down, the King of the New World merely stared into the distance, lost in thought. An awkward silence followed.
 
@@ -156,7 +156,7 @@ About five minutes passed.
 
 “The one who started this war was the chancellor.”
 
-“…What?”
+“...What?”
 
 “He pretended to oppose the Noark in public while secretly joining hands with them to devour this country. Is it really so surprising?”
 
@@ -166,15 +166,15 @@ I wish he’d at least given me a hint.
 
 “Hmm, you truly didn’t expect it? The Intelligence Department thought you’d already suspected as much.”
 
-“Uh… honestly, it wasn’t entirely unexpected, but I wouldn’t say I actually expected it. I just didn’t rule out the possibility.”
+“Uh... honestly, it wasn’t entirely unexpected, but I wouldn’t say I actually expected it. I just didn’t rule out the possibility.”
 
 “Seeing you speak so logically in that body feels strange. What were you originally?”
 
-“…Just an ordinary office worker.”
+“...Just an ordinary office worker.”
 
 The rulers of your world must have been blind.”
 
-“Uh… office workers aren’t slaves…”
+“Uh... office workers aren’t slaves...”
 
 “Hm? That’s not how it was explained to me.”
 
@@ -182,17 +182,17 @@ It seemed the modern person who explained the idea of a company employee to the 
 
 But that wasn’t the important part.
 
-“Um… do you know why the prime minister did it?”
+“Um... do you know why the prime minister did it?”
 
 “There is nothing in this world that I do not know.”
 
-…Should I allocate +7 points to narcissism?
+...Should I allocate +7 points to narcissism?
 
 That thought crossed my mind, but on second thought, it was probably less narcissism and more sheer bad luck.
 
 Honestly, he really did seem like someone who knew everything.
 
-“So… why did he do it? It’s not like he suddenly went insane.”
+“So... why did he do it? It’s not like he suddenly went insane.”
 
 “Do you have any guesses?”
 
@@ -200,9 +200,9 @@ Honestly, he really did seem like someone who knew everything.
 
 “Why not?”
 
-“Because I couldn’t think of a motive. If I had to force one, maybe greed for power… but even that felt off. From what I saw, he wasn’t someone that ambitious.”
+“Because I couldn’t think of a motive. If I had to force one, maybe greed for power... but even that felt off. From what I saw, he wasn’t someone that ambitious.”
 
-“Haha! True enough. From my perspective as well, the prime minister is timid and modest. However…”
+“Haha! True enough. From my perspective as well, the prime minister is timid and modest. However...”
 
 The King of the New World’s playful tone suddenly turned serious.
 
@@ -216,7 +216,7 @@ This made me even more curious. Just what was inside the Marquis’s mirror?
 
 “What is that one thing for the marquess?” I swallowed nervously and asked, but the answer I received was utterly anticlimactic.
 
-“Who knows… heh. As I said before, it would be better to hear that story from him directly.”
+“Who knows... heh. As I said before, it would be better to hear that story from him directly.”
 
 Damn it.
 
@@ -224,7 +224,7 @@ A curse nearly slipped out of my mouth.
 
 Still, it wasn’t a complete loss.
 
-“‘Then… it seems I was right in thinking the “fox carrying the tiger” referred to the prime minister?’”
+“‘Then... it seems I was right in thinking the “fox carrying the tiger” referred to the prime minister?’”
 
 I asked, subtly seeking confirmation, and received an affirmative answer.
 
@@ -232,7 +232,7 @@ I asked, subtly seeking confirmation, and received an affirmative answer.
 
 “Well, I wouldn’t know. To be honest, we’re not exactly close.”
 
-“Not close… hahaha! You really are an interesting one.”
+“Not close... hahaha! You really are an interesting one.”
 
 Even as he said that, the King of the New World never once wiped the smile from his face.
 
@@ -240,7 +240,7 @@ What exactly was so funny about this conversation?
 
 Was he just happy to be talking to someone after such a long time?
 
-‘At least… the atmosphere doesn’t seem bad.’
+‘At least... the atmosphere doesn’t seem bad.’
 
 I wasn’t entirely sure, but it felt like continuing the conversation this way was the right move.
 
@@ -258,21 +258,21 @@ At a signal from the King of the New World, the knight stepped ahead to lead us,
 
 We didn’t even go to a different part of the palace; we went straight back to the audience chamber where he’d been holed up. Then, we went straight to the lower floor again, using the same lift I took when I first arrived.
 
-Tsk… so that’s what he wanted to show me.
+Tsk... so that’s what he wanted to show me.
 
 When the elevator doors opened, I saw a massive vat, similar to the ones I had seen at the Panthelion Research Center.
 
 I wondered what the point was of keeping it hidden from me if he was going to show it to me anyway, but I kept my mouth shut and simply stood there. Since he had brought me here himself, there was a good chance he would explain.
 
-“So… what is this exactly?”
+“So... what is this exactly?”
 
 “A life-preservation device.”
 
-“…Pardon?”
+“...Pardon?”
 
 “Even someone at the very end of their life can escape the world’s gaze and delay their final breath by entering this place.”
 
-“I see…”
+“I see...”
 
 “‘Ah, by the way, this is the secret that allowed the Immortal to live an almost eternal life. I’ve heard that, in the past, this device could be used to extend one’s lifespan. But since he died without passing on the secret, we lost the ability to use it ourselves.’”
 
@@ -306,9 +306,9 @@ Of course, any inhumane acts committed along the way deserved every bit of conde
 
 “I believe that desire itself is more human than anything else.”
 
-“…Fascinating. Especially since it doesn’t sound like flattery.”
+“...Fascinating. Especially since it doesn’t sound like flattery.”
 
-“Then… does that mean you’ll cancel the plan to imprison me for a week?”
+“Then... does that mean you’ll cancel the plan to imprison me for a week?”
 
 “Well, that will depend on how you answer from here on out.”
 
@@ -318,11 +318,11 @@ The King of the New World simply stared at me, looking both amused and intrigued
 
 “It has been quite a long time. To think that someone I actually want to sit and talk with has appeared—and that it’s none other than you.”
 
-“Uh…”
+“Uh...”
 
-It sounded like a compliment, but…
+It sounded like a compliment, but...
 
-‘…Why does his gaze feel so sinister?’
+‘...Why does his gaze feel so sinister?’
 
 Regardless of the goosebumps breaking out across my back, the King of Genesis continued, unbothered.
 
@@ -338,6 +338,6 @@ I asked for the terms before signing the metaphorical contract, and the King ans
 
 Perhaps because of everything I had just heard, the condition itself wasn’t surprising. I simply nodded, thinking, ‘Here we go.’
 
-‘He’s making me do something he could easily do himself…’
+‘He’s making me do something he could easily do himself...’
 
 I don’t know what it is yet, but there’s definitely some dirty scheme hidden behind this.

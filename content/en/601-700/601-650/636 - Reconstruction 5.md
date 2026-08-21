@@ -30,7 +30,7 @@ The room went quiet when I announced that I was thirsty. No one knew how to reac
 
 He made sure I knew the order came from him. With that, things settled right away. The one who gave that order was the leader of Melbeth.
 
-“Yes? Ah, yes… Council Leader.”
+“Yes? Ah, yes... Council Leader.”
 
 He made sure I understood it was his command. With that, the situation was clearly resolved.
 
@@ -38,13 +38,13 @@ After all, the one who spoke was the Council Leader.
 
 A baron sitting next to the leader went outside the meeting room, placed an order with the servants, and returned.
 
-And after a few seconds later…
+And after a few seconds later...
 
 “Place it over there for him.”
 
 I had no idea how they trained their servants, but one appeared almost instantly with tea. The ice clinked as he placed it before me.
 
-It was quite different from the sweet one I used to drink at the gaming cafe, but…
+It was quite different from the sweet one I used to drink at the gaming cafe, but...
 
 ‘Not bad.’
 
@@ -52,7 +52,7 @@ As I took a long sip, savoring its coolness and aroma, the Council Leader spoke 
 
 “Now, shall you tell us your story?”
 
-“Hmm… You say that, but I don’t even know what you expect me to say.”
+“Hmm... You say that, but I don’t even know what you expect me to say.”
 
 “Then, let’s start with this. Baron, is it true you’ve obtained the right to attend the Royal Council?”
 
@@ -62,11 +62,11 @@ I took out the letter I’d kept with me and showed it to everyone. Their expres
 
 No one doubted me, of course, but—
 
-“It’s genuine…”
+“It’s genuine...”
 
 “The royal seal is here.”
 
-“The seat is lowly for now, but still…”
+“The seat is lowly for now, but still...”
 
 Still, seeing the evidence with their own eyes must have felt different.
 
@@ -74,7 +74,7 @@ Still, seeing the evidence with their own eyes must have felt different.
 
 When I phrased “Any other questions?” in a barbarian manner, the council leader paused for a moment before cautiously asking his next question.
 
-“By any chance… have you decided to join hands with the royal family, Baron?”
+“By any chance... have you decided to join hands with the royal family, Baron?”
 
 “What a strange question. Aren’t we are all servants of the royal family.”
 
@@ -82,7 +82,7 @@ Those were just empty words. But if you ask like that, what else can I say?
 
 The leader seemed to realize his mistake and quickly corrected his question.
 
-“…Then let me ask again. I know it’s an impudent question, but…”
+“...Then let me ask again. I know it’s an impudent question, but...”
 
 “It’s fine. Go ahead.”
 
@@ -96,11 +96,11 @@ He must have been anxious, wondering if I was going to abandon Melves and become
 
 I didn’t expect him to express that anxiety so openly in front of everyone, though.
 
-“…What made you think that?”
+“...What made you think that?”
 
 “Even today, Baron. You wanted the rewards for the reconstruction contract, and when we asked about the information on Basement Floor 1, you said you’d tell us later.”
 
-Ah, that…
+Ah, that...
 
 ‘From their perspective, it definitely must have looked that way.’
 
@@ -114,7 +114,7 @@ However, the reason I was reticent about the 1st basement floor exploration was 
 
 “It seems there’s been a misunderstanding, so let me be clear here. I have made no promises with the royal family.”
 
-“Then the Royal Council…?”
+“Then the Royal Council...?”
 
 “I don’t know. The letter arrived without any prior notice.”
 
@@ -122,7 +122,7 @@ This was true. There had been absolutely no contact from the Marquis before the 
 
 And perhaps they believed me.
 
-“I see…”
+“I see...”
 
 “Is your curiosity satisfied?”
 
@@ -138,7 +138,7 @@ It was filled with a passion I hadn’t seen before.
 
 He looked like a man who refused to let go of something valuable.
 
-‘It’s a bit burdensome, but…’
+‘It’s a bit burdensome, but...’
 
 Objectively speaking, it’s a very positive situation.
 
@@ -150,23 +150,23 @@ But the moment I said that, the passionate flame in the Council Leader’s eyes 
 
 “The questions end here. Marquis Maryblack, please continue the discussion.”
 
-“Huh? Ah, yes… Understood.”
+“Huh? Ah, yes... Understood.”
 
 The Viscount took over, and the nobles spoke cautiously, glancing between me and the Council Leader.
 
 For the rest of the meeting, however, the Leader did not direct any more words or glances my way.
 
-‘…What’s this? Is he trying to play hard to get?’
+‘...What’s this? Is he trying to play hard to get?’
 
 That burning gaze, followed by this cold restraint, left me uneasy. But it didn’t take long for me to realize that the Leader was deliberately keeping his emotions in check.
 
-“Then, with thanks to the family heads who graced this gathering with their presence, we hereby conclude…”
+“Then, with thanks to the family heads who graced this gathering with their presence, we hereby conclude...”
 
 As the gathering completely ended and I was about to get up.
 
 “Baron, could you stay behind for a moment?”
 
-“……?”
+“......?”
 
 “The tea from the Maryblack family is quite good.”
 
@@ -176,7 +176,7 @@ A noble’s way of asking for a private talk.
 
 After I agreed and waited, the nobles who had attended the gathering tactfully skipped the formal greetings and left the chamber.
 
-And then…
+And then...
 
 “I’ll have tea brought to you as soon as it’s ready. Please make yourselves comfortable.”
 
@@ -206,19 +206,19 @@ Since he had tested me, I tested him back.
 
 He looked genuinely surprised by the question.
 
-“Ha… what do I think of Melbes, you ask…”
+“Ha... what do I think of Melbes, you ask...”
 
 He paused to consider his response and answered so frankly that even I was caught off guard.
 
 “I think we’re rabble.”
 
-“……What?”
+“......What?”
 
 An outrageous choice of words, unbelievable coming from the Leader of Melbes.
 
 “What, were you expecting the usual ‘we can do it,’ ‘united we are stronger than anyone’ positive talk?”
 
-“It’s not that… I just didn’t expect you to be this honest.”
+“It’s not that... I just didn’t expect you to be this honest.”
 
 “Truthfully, Baron Jandel, this is the first time I’ve been this open about my inner thoughts. I couldn’t and shouldn’t say this to anyone else.”
 
@@ -236,7 +236,7 @@ He poured out his pent-up frustration.
 
 “Do I truly look like that to you?”
 
-He’s certainly respected and all… but if he tried to lead with a vision, would all thirty-one houses follow? Not likely.
+He’s certainly respected and all... but if he tried to lead with a vision, would all thirty-one houses follow? Not likely.
 
 Seeing me press my lips shut, the Leader chuckled dryly.
 
@@ -252,7 +252,7 @@ I was starting to get an idea of what the Leader wanted to say.
 
 “Truthfully, Melbes is too small a nest to contain someone like you, Baron Yandel.”
 
-“…Well, I think you might be the only one who thinks that?”
+“...Well, I think you might be the only one who thinks that?”
 
 “Heh heh, everyone knows it in their hearts. They just refuse to admit it yet due to personal feelings.”
 
@@ -264,11 +264,11 @@ The Leader continued without stopping, heaping on the praise.
 
 “Baron Jandel, you are the chief of a tribe, a Baron. You are also one of the most famous explorers in the city, and rumor has it you are a powerhouse whose skills are on par with the strongest in this world.”
 
-Well… Nothing he said was wrong, but…
+Well... Nothing he said was wrong, but...
 
 “However, I think you greatly underestimate yourself, Baron. Aside from your title, which of the 31 families do you think possesses even one of these things?”
 
-“…I get it. Stop the gilding and tell me what you want to say.”
+“...I get it. Stop the gilding and tell me what you want to say.”
 
 “I know it must seem ridiculous to say this to a Baron who has just joined Melbes. But if I miss this opportunity, we will surely wait meaninglessly again for thousands of years, wasting time.”
 
@@ -292,11 +292,11 @@ What is this person’s desired wish?
 
 Hearing my question, the Leader let out a hearty laugh and answered immediately without a moment’s hesitation.
 
-“My wish is to one day say to those insolent nobles of human descent… ‘If you’re weak humans, then act like weak humans.'”
+“My wish is to one day say to those insolent nobles of human descent... ‘If you’re weak humans, then act like weak humans.'”
 
-“…….”
+“.......”
 
-“…’Know your place.'”
+“...’Know your place.'”
 
 This old man is more extreme than I thought.
 
@@ -314,7 +314,7 @@ The Council Leader, having revealed his extreme and radical tendencies, proposed
 
 “If a vote is ever needed, the thirty-one houses of Melbes will stand with you. Furthermore, if there is anything obstructing what Baron Jandel wishes to do, we will all join forces to remove that obstruction.”
 
-Oh… now that was reassuring—
+Oh... now that was reassuring—
 
 “But, there is one condition.”
 
@@ -326,10 +326,10 @@ And then—
 
 “What’s the condition? Let’s hear it.”
 
-“No matter who it is…”
+“No matter who it is...”
 
 The words that followed made my mind go blank for a moment.
 
-“…Just get married and produce an heir as soon as possible.”
+“...Just get married and produce an heir as soon as possible.”
 
-……I did not see that condition coming.
+......I did not see that condition coming.

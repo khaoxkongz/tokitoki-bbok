@@ -22,13 +22,13 @@ Although it would take around three years to max out, my odds were solid. In Dun
 
 Simply put, as long as I started building stacks steadily from now on, I would eventually hit full stacks—
 
-‘The problem is that the Labyrinth is currently closed…’
+‘The problem is that the Labyrinth is currently closed...’
 
 Since the condition is killing one monster per day, there is currently no way to build stacks.
 
 Well, even if the labyrinth opens, it won’t be easy.
 
-‘Even if I explore for 100 days at a time, that’s only ten times…’
+‘Even if I explore for 100 days at a time, that’s only ten times...’
 
 It’s definitely not an easy condition.
 
@@ -38,7 +38,7 @@ I’d only ever completed one hundred-day expedition, and it was on the first un
 
 I had that thought, but there was no way to confirm it right now, so I chose to leave it for later.
 
-“Whew…”
+“Whew...”
 
 I turned my head to see the shaman exhaling a long breath. He had worked so hard that beads of sweat were rolling down his cheeks.
 
@@ -48,35 +48,35 @@ I turned my head to see the shaman exhaling a long breath. He had worked so hard
 
 The Stage 8 imprint process took longer than any of the previous stages, stretching over three full days.
 
-The shaman said it was only natural for a high-level imprint like this to take time, but from my perspective…
+The shaman said it was only natural for a high-level imprint like this to take time, but from my perspective...
 
 ‘It didn’t take this long in the game, though.’
 If you ask me, it seems like a skill issue.
 Even so, the imprint itself appeared to have been upgraded without any issues.
 
-“By the way… Chief, there’s something you need to know.”
+“By the way... Chief, there’s something you need to know.”
 
 Just as I was growing weary of sitting idle and was about to step out of the stuffy tent, the shaman called out to me.
 
 Trying to ignore an inexplicable sense of unease, I looked at him.
 
-And then…
+And then...
 
-“I can’t perform Stage 9 imprints with my power…”
+“I can’t perform Stage 9 imprints with my power...”
 
 As expected, he dropped a shocking statement.
 
 “You can’t do it with your power? You are a shaman, aren’t you?”
 
-“That is… I haven’t fully learned up to the 9th stage from my master yet.”
+“That is... I haven’t fully learned up to the 9th stage from my master yet.”
 
 “You haven’t learned it?”
 
-“It’s not that I haven’t le-learned it… I just lack confidence. From the 9th stage, the engraving is carved deep into the soul, so it is much, much more difficult!”
+“It’s not that I haven’t le-learned it... I just lack confidence. From the 9th stage, the engraving is carved deep into the soul, so it is much, much more difficult!”
 
 It was a sudden piece of bad news, and the situation was more serious than it seemed.
 
-“I roughly know how to do it, so if I had to, I could try… but if it fails, you would have to risk your life as well, Chief…”
+“I roughly know how to do it, so if I had to, I could try... but if it fails, you would have to risk your life as well, Chief...”
 
 If Stage 9 is already like this, then Stage 10 is essentially impossible.
 
@@ -86,7 +86,7 @@ The abilities tied to spirit imprints—so vital to our people—could vanish fr
 
 “Is there no way?”
 
-“Well… it’s not that there isn’t one……………….”
+“Well... it’s not that there isn’t one...................”
 
 “What? There is?”
 
@@ -98,13 +98,13 @@ Lately, I’d only encountered problems with no solutions, so this felt unfamili
 
 “Get to the point.”
 
-“…We need to restore my master’s health.”
+“...We need to restore my master’s health.”
 
 “My master, the previous shaman, can perform even the highest-tier engravings without difficulty. In fact, it was my master who performed the engravings for the previous Chief.”
 
 “If I can learn just a bit more from him, I will be able to perform the subsequent highest-tier engravings on my own!”
 
-Hmm… I understood what he was trying to say. It would also benefit me if one of the tribe’s two shamans recovered. But was that even realistically possible?
+Hmm... I understood what he was trying to say. It would also benefit me if one of the tribe’s two shamans recovered. But was that even realistically possible?
 
 “How do you plan to restore his health? I thought the priest said last time that he couldn’t be cured.”
 
@@ -112,7 +112,7 @@ Hmm… I understood what he was trying to say. It would also benefit me if one o
 
 “Then tell me that way quickly. Don’t beat around the bush like a human.”
 
-“It’s… because it might be a difficult task for you, Chief.”
+“It’s... because it might be a difficult task for you, Chief.”
 
 “Ah, just say it already!”
 
@@ -120,9 +120,9 @@ I snapped, letting a trace of irritation seep into my voice to drive the point h
 
 The young shaman hesitated, then carefully spoke.
 
-“…We need a dragon’s heart.”
+“...We need a dragon’s heart.”
 
-…I’d have been better off not hearing it.
+...I’d have been better off not hearing it.
 
 ***
 
@@ -136,9 +136,9 @@ Condition: Dragon’s Heart
 Reward: Unlock Stage 9+ Spirit Imprints
 Failure Penalty: The former shaman dies, and the Barbarian tribe permanently loses the ability to perform high-level spirit imprints
 
-The quest was simple. Bring a dragon’s heart to get the reward; fail to do so and suffer the penalty. However, the problem was…
+The quest was simple. Bring a dragon’s heart to get the reward; fail to do so and suffer the penalty. However, the problem was...
 
-‘A dragon’s heart…’
+‘A dragon’s heart...’
 
 The difficulty of the quest was just too high.
 
@@ -146,9 +146,9 @@ While there were plenty of cases where people sold the hearts of dragon-like cre
 
 First of all, true dragons began appearing on the ninth floor, and even if I gathered my entire clan, we still wouldn’t have the strength to take one down.
 
-Maybe after a long time…
+Maybe after a long time...
 
-‘…And we’d need to apply distortion magic too.’
+‘...And we’d need to apply distortion magic too.’
 
 Given the success rate of distortion magic, this was a task that could only be completed if we were strong enough to defeat not just one, but several dragons safely and consistently.
 
@@ -160,13 +160,13 @@ Most likely, he won’t.
 
 ‘I found myself wondering why the answer had come so easily, but it turns out this is more hopeless than anything else.’
 
-The only possible way to complete the quest was to receive a dragon’s heart from someone else…
+The only possible way to complete the quest was to receive a dragon’s heart from someone else...
 
-‘…The royal family might have one.’
+‘...The royal family might have one.’
 
 But there’s no way they’d hand over something that valuable for free.
 
-“Sigh…”
+“Sigh...”
 
 It almost felt better for my mental health to just give up on the tribe’s future altogether.
 
@@ -180,7 +180,7 @@ And the most urgent matter right now was—
 
 “Jandel, a letter has arrived from the royal family.”
 
-“…Hmm.”
+“...Hmm.”
 
 “What does it say?”
 
@@ -194,13 +194,13 @@ I didn’t know the details, but it felt like Astarota, the king’s representat
 
 That guy hated hassle.
 
-“Ohhh! So Bjorn’s going to be a count now? Count Yandel… that actually sounds pretty cool!”
+“Ohhh! So Bjorn’s going to be a count now? Count Yandel... that actually sounds pretty cool!”
 
-“…Not count. Viscount.”
+“...Not count. Viscount.”
 
-“…Huh? What’s that?”
+“...Huh? What’s that?”
 
-“…Sigh.”
+“...Sigh.”
 
 I didn’t bother explaining the noble hierarchy to Aynar. There was no way she’d remember it anyway.
 
@@ -222,7 +222,7 @@ Telling her that Ragna was royalty and was currently detained in the royal palac
 
 “These are sweets from a bakery in Karnon. Eat them while you work.”
 
-“Ah… thank you.”
+“Ah... thank you.”
 
 With that, I wrapped up our conversation by giving her a few thoughtful gifts I had picked out for her.
 
@@ -230,13 +230,13 @@ After that, I sat down with Amelia to go over our team compositions.
 
 After all, the war had left gaps in our power, and new members had joined to fill those gaps.
 
-“Surprising. To think Alluva Raven would leave the military and join us…”
+“Surprising. To think Alluva Raven would leave the military and join us...”
 
 “Hmm? Shouldn’t Erwin’s uncle be more surprising than Raven?”
 
 “Not particularly. He is just an ordinary middle-aged man.”
 
-“……Huh?”
+“......Huh?”
 
 Amelia seemed more focused on Raven’s return than on Beleg. Well, given the prophecy about betrayal, that made sense.
 
@@ -244,7 +244,7 @@ Amelia seemed more focused on Raven’s return than on Beleg. Well, given the pr
 
 “Right. We’ll also need to fill the deputy commander position.”
 
-“Vice Captain…”
+“Vice Captain...”
 
 “You don’t want it? If you lead the second team, it would be reassuring.”
 
@@ -252,7 +252,7 @@ Amelia seemed more focused on Raven’s return than on Beleg. Well, given the pr
 
 Tsk, why does she hate the Vice-Captain’s position so much?
 
-‘In terms of personality and experience, Raven is perfect… but it also feels off to suddenly give that position to someone who just rejoined…!’
+‘In terms of personality and experience, Raven is perfect... but it also feels off to suddenly give that position to someone who just rejoined...!’
 
 I fell into thought.
 
@@ -282,4 +282,4 @@ In other words, the person who came looking for me must have at least some stand
 
 “Ilya Adnus! The Master of the Explorers’ Guild!”
 
-…An interesting guest had arrived.
+...An interesting guest had arrived.

@@ -24,11 +24,11 @@ Humans are creatures driven by imagination.
 
 Especially when it benefits them.
 
-At last, he broke the silence. “……How is the chemistry with your new team members? Do they work well with you?”
+At last, he broke the silence. “......How is the chemistry with your new team members? Do they work well with you?”
 
 Our team composition likely fueled his growing greed as well. Erwin and Aynar, both among the Seven Powerful, weren’t present. On top of that, Beleg had been retired for some time, and Misha wasn’t known for her combat ability either.
 
-‘Raven and Kaislan are somewhat famous, but…’
+‘Raven and Kaislan are somewhat famous, but...’
 
 From their perspective, it probably looked doable. After all, they had over forty members, while we were only six.
 
@@ -36,9 +36,9 @@ From their perspective, it probably looked doable. After all, they had over fort
 
 “Haha, why so aggressive? I just wanted to tell you to be careful.”
 
-When I shot him a skeptical look, he elaborated, “Those stories about you taking on twenty members of Orcules alone, or defeating the Demon Eye in a single blow… maybe fools would buy into that, but there’s no one in the labyrinth right now who’d believe such nonsense.”
+When I shot him a skeptical look, he elaborated, “Those stories about you taking on twenty members of Orcules alone, or defeating the Demon Eye in a single blow... maybe fools would buy into that, but there’s no one in the labyrinth right now who’d believe such nonsense.”
 
-Ah… so that was it.
+Ah... so that was it.
 
 Now it made sense.
 
@@ -54,7 +54,7 @@ I cut him off and continued.
 
 “Total strength 121, but only 48 entered this expedition. You seem to have an agreement with the Dvoard Clan, who are of similar size, but since you’re still separate, I assume you planned to merge on the 6th floor.”
 
-“How do you…?”
+“How do you...?”
 
 “When you reach my position, there are things you just come to know. For instance, the fact that your clan has been suspected of looting several times, even if you were acquitted at trial.”
 
@@ -66,7 +66,7 @@ It was almost laughable.
 
 When I stayed quiet, he saw me as easy prey, but the moment I pushed back, he froze.
 
-“…Haha, what are you saying? I was only giving advice—”
+“...Haha, what are you saying? I was only giving advice—”
 
 “Prepare for battle.”
 
@@ -74,7 +74,7 @@ I cut him off and addressed my team.
 
 “As of now, the leader of the Meiruta Clan is deemed a plunderer and a murderer of nobility. He is to be executed on the spot.”
 
-“……W-what are you talking about!”
+“......W-what are you talking about!”
 
 “Anyone who attempts to aid the leader will be treated as an accomplice and disposed of accordingly.”
 
@@ -98,13 +98,13 @@ He knew it, too. Even if they were technically innocent and I slaughtered them a
 
 “Ilya Adnus.”
 
-“…Ha. So it comes to this.”
+“...Ha. So it comes to this.”
 
 I had only called his name, but the Guild Leader understood my intent and took off his helmet.
 
-“G-guild master…?”
+“G-guild master...?”
 
-“Why is the guild master with the Anabada Clan…?”
+“Why is the guild master with the Anabada Clan...?”
 
 They were all shocked, but the real question they should have been asking wasn’t why the guild master was here.
 
@@ -120,7 +120,7 @@ The members of the Meiruta Clan answered with actions rather than words. One by 
 
 When making a move, it’s important not to give the opponent time to think. The moment the members stepped back, I rushed forward.
 
-And……
+And......
 
 I grabbed the Meiruta Clan leader by the head with one hand.
 
@@ -144,7 +144,7 @@ The defeated had no choices left. All they could do was wait for the victor’s 
 
 “There would be no issue executing him here. He has a bad reputation; if we dig through his affairs back in the city, something will turn up. Besides, they were the ones who broke the unwritten rule by approaching us first.”
 
-“S-spare me… Please… I was wrong.”
+“S-spare me... Please... I was wrong.”
 
 “So, what’s the call?”
 
@@ -176,11 +176,11 @@ I didn’t particularly care for his praise and simply glanced over my companion
 
 With her military background, Raven kept her emotions completely hidden, and Beleg was no different. Kaislan, on the other hand, seemed quietly satisfied with my decision. Only Misha, who had been by my side the longest, looked at me with a trace of concern, though she said nothing.
 
-“W-what… will happen to us?”
+“W-what... will happen to us?”
 
 “Are you the vice-captain?”
 
-“Y-yes… Baron—no, Viscount…”
+“Y-yes... Baron—no, Viscount...”
 
 The vice-captain trembled, unable to even meet my eyes.
 
@@ -192,13 +192,13 @@ Well, they had just lost their captain in a place they never expected. To them, 
 
 “That’s not what I’m asking about.”
 
-“Huh? Then…”
+“Huh? Then...”
 
 “I understand you chose to regroup on the fifth floor, but how did you manage to get here so fast?”
 
 It was honestly one of the first things I wondered when I saw them. We’d been moving at a fast pace ourselves, yet they still managed to get here ahead of us—all forty-eight of them.
 
-“Well… the leader assigned six members with the [Flag of Swiftness] skill to the expedition. It’s a—”
+“Well... the leader assigned six members with the [Flag of Swiftness] skill to the expedition. It’s a—”
 
 “Spare me the explanation. I know it.”
 
@@ -212,21 +212,21 @@ As I was deep in thought, the guild master stepped in and voiced the very doubts
 
 “It’s a strategy that only reaches maximum efficiency once everyone gathers on the 5th floor. Sure, you can breeze through the 5th floor, but it’s meaningless from the 6th floor onwards since you’ll be on boats. And from the 7th floor, stability becomes more important than speed. It was briefly popular in the past, then abandoned.”
 
-“…A-ah, is that so? I had no idea. I heard the leader paid a lot of money to learn this strategy…”
+“...A-ah, is that so? I had no idea. I heard the leader paid a lot of money to learn this strategy...”
 
 “Then he wasted his money.”
 
 Regardless, the mystery was solved. Honestly, I had been a bit surprised myself when we suddenly ran into such a large group on the fifth floor.
 
-“Then we…”
+“Then we...”
 
 “Let’s move together. You’re going to the 6th floor anyway, right?”
 
-“Huh…?”
+“Huh...?”
 
 “Do you have a problem with that?”
 
-“N-no, sir…”
+“N-no, sir...”
 
 Since things turned out this way, we might as well get to the 6th floor quickly and rest.
 
@@ -248,14 +248,14 @@ Along the shoreline, quite a few clans were either preparing to set sail or wait
 
 “That’s a relief. It looks like Team 2 hasn’t arrived either, so let’s head to the mountain first.”
 
-“Excuse me…”
+“Excuse me...”
 
 “You guys come along, too.”
 
 Upon reaching the 6th floor, we took the Meiruta Clan with us and climbed the mountain located in the center of the island.
 
-And then…
+And then...
 
-“I could see it from below, but… I don’t think I’ve ever seen this many trees growing here before.”
+“I could see it from below, but... I don’t think I’ve ever seen this many trees growing here before.”
 
 “Everyone, grab your axes.”

@@ -8,7 +8,7 @@ Confirmed abilities: 3.
 
 But two of those abilities didn’t matter.
 
-‘[Gigantification] on a monster with 2nd-grade stats…?’
+‘[Gigantification] on a monster with 2nd-grade stats...?’
 
 How could I resist that?
 
@@ -16,7 +16,7 @@ The important thing wasn't the abilities themselves, but its essence.
 
 Its passive skill.
 
-If the passive skill was also useful…
+If the passive skill was also useful...
 
 ‘I could replace my Orc Hero essence.’
 
@@ -32,7 +32,7 @@ As I was thinking about the possibilities, another thought occurred to me.
 
 ‘What happens if you absorb two identical essences? Does only one activate? Or can you not absorb it at all?’
 
-Hmm… I had a feeling it was the former.
+Hmm... I had a feeling it was the former.
 
 But it would be interesting if both activated.
 
@@ -40,7 +40,7 @@ I decided to consider the worst-case scenario as well.
 
 There was one major problem.
 
-Besides the monster’s estimated 2nd-grade strength…
+Besides the monster’s estimated 2nd-grade strength...
 
 ‘I don’t know if it even drops an essence.’
 
@@ -62,37 +62,37 @@ And the natives collected those magic stones and used them to create ‘life wat
 
 I would think about the Hippermachant later. For now, I had to focus on reading.
 
-‘I didn’t expect there to be so many new species…’
+‘I didn’t expect there to be so many new species...’
 
 The monsters I had encountered so far were just the tip of the iceberg.
 
-From the creatures that appeared during the ‘rainy season’ to the ones that washed ashore…
+From the creatures that appeared during the ‘rainy season’ to the ones that washed ashore...
 
-‘I should write this down somewhere… I might forget.’
+‘I should write this down somewhere... I might forget.’
 
-I had been reading for hours…
+I had been reading for hours...
 
-“Bjorn…”
+“Bjorn...”
 
-…when I heard a voice.
+...when I heard a voice.
 
 “Misha? I thought you went out with Emily.”
 
-“We just got back…”
+“We just got back...”
 
 I checked the time. It was much later than I thought.
 
 “Really? Why didn’t you tell me sooner? I would have stopped reading.”
 
-“She… told me not to disturb you. She said you were busy…”
+“She... told me not to disturb you. She said you were busy...”
 
 “Amelia?”
 
-“…Yes.”
+“...Yes.”
 
 Misha nodded and then asked cautiously,
 
-“Can we… talk for a moment?”
+“Can we... talk for a moment?”
 
 “Of course.”
 
@@ -102,13 +102,13 @@ If a teammate came to see me alone, it meant there was a reason.
 
 “Is there a problem?”
 
-“…Not really.”
+“...Not really.”
 
 “Then why?”
 
-“I just… we haven’t had a proper conversation since we met again…”
+“I just... we haven’t had a proper conversation since we met again...”
 
-“Ah…”
+“Ah...”
 
 I opened my mouth to say something, but Misha spoke first, her voice bitter.
 
@@ -124,7 +124,7 @@ So I hadn’t tried to cross it.
 
 Time was needed to heal old wounds.
 
-“Right… I did…”
+“Right... I did...”
 
 She didn’t say anything more.
 
@@ -132,27 +132,27 @@ An awkward silence followed.
 
 I finally spoke.
 
-“…Is there anything you’re uncomfortable with?”
+“...Is there anything you’re uncomfortable with?”
 
 It was a signal to change the subject.
 
 Misha’s voice brightened, as if she was putting on an act.
 
-“Ah, no… I’m just… a little surprised…”
+“Ah, no... I’m just... a little surprised...”
 
 It was understandable.
 
-Floating objects in the sea, monsters that claimed to be human, monsters raining from the sky, and the Last Sage’s companion trapped in the labyrinth…
+Floating objects in the sea, monsters that claimed to be human, monsters raining from the sky, and the Last Sage’s companion trapped in the labyrinth...
 
 It was a lot to take in.
 
-“It’s just… strange… being back in the labyrinth with you…”
+“It’s just... strange... being back in the labyrinth with you...”
 
-Ah… we were back to that topic again?
+Ah... we were back to that topic again?
 
 I didn’t interrupt her.
 
-“So… don’t worry too much… I’m just… surprised… it’s still hard to believe… I never imagined this would happen…”
+“So... don’t worry too much... I’m just... surprised... it’s still hard to believe... I never imagined this would happen...”
 
 She glanced at me, as if checking my reaction, and I chuckled.
 
@@ -160,7 +160,7 @@ She glanced at me, as if checking my reaction, and I chuckled.
 
 Misha smiled faintly.
 
-“What’s that supposed to mean…?”
+“What’s that supposed to mean...?”
 
 “I’m serious. You’re nothing compared to Erwen.”
 
@@ -170,11 +170,11 @@ Amelia and I had also been constantly bickering.
 
 “So just relax and do whatever you want. We’ll get along eventually.”
 
-I was about to tell her about my experiences with Erwen and Amelia…
+I was about to tell her about my experiences with Erwen and Amelia...
 
 “Amelia and Erwen fight a lot—”
 
-…but she interrupted me.
+...but she interrupted me.
 
 “What’s that book?”
 
@@ -188,11 +188,11 @@ We talked about the island, and whether Elder Brugrid was really one of the anci
 
 It felt like old times.
 
-But…
+But...
 
 “Yandel, are you busy? We should share the information we’ve gathered today.”
 
-…the conversation ended when Amelia knocked on the door and Misha excused herself.
+...the conversation ended when Amelia knocked on the door and Misha excused herself.
 
 ‘Someone told me you were a traitor. What does that mean?’
 
@@ -200,7 +200,7 @@ I couldn’t ask her today either.
 
 ---
 
-One day, two days, three days…
+One day, two days, three days...
 
 Time flew by.
 
@@ -212,11 +212,11 @@ Amelia and Erwen searched the village for hidden facilities and locations.
 
 Bersil, Auyen, and Misha investigated the natives’ lifestyle, culture, social structure, and military strength.
 
-And Ainar…
+And Ainar...
 
 “I’ll be back!”
 
-…was busy making friends.
+...was busy making friends.
 
 “Where are you going today?”
 
@@ -224,15 +224,15 @@ And Ainar…
 
 I didn’t understand how she had made so many friends in such a short time.
 
-“Frenelin is… amazing. She can’t even speak their language, and yet she’s so close to them.”
+“Frenelin is... amazing. She can’t even speak their language, and yet she’s so close to them.”
 
 “It’s nothing! And who needs words? Warriors can communicate with gestures!”
 
-“I-Is that so? But how can you make such detailed plans…?”
+“I-Is that so? But how can you make such detailed plans...?”
 
 “It’s because you lack sincerity! You mages are always reading books! Try looking someone in the eye and focusing on their words! Then you’ll understand their true feelings!”
 
-“Ah… okay…”
+“Ah... okay...”
 
 It was a strange sight, a barbarian lecturing a mage.
 
@@ -252,11 +252,11 @@ And in the evening, we would gather at the house the Elder had provided and shar
 
 “Don’t be reckless. We have to be careful until the rainy season is over.”
 
-“The Silver Lion Clan… they’re in a worse state than I thought. The relationship between those who escaped and those who were left behind is deteriorating.”
+“The Silver Lion Clan... they’re in a worse state than I thought. The relationship between those who escaped and those who were left behind is deteriorating.”
 
 “It seems unlikely that they’ll be able to continue exploring after the rainy season. Auyen, anything to report?”
 
-“Well… I’ve been feeling this for a while now, but… Brugrid… he’s not just the Elder, he’s practically the king of this village.”
+“Well... I’ve been feeling this for a while now, but... Brugrid... he’s not just the Elder, he’s practically the king of this village.”
 
 “More like a god. They obey his every command without question.”
 
@@ -274,7 +274,7 @@ I had finished reading all the books in the Elder’s study, so I started explor
 
 I couldn’t let the only person who could communicate with the natives stay cooped up in a room all day.
 
-As I was walking around…
+As I was walking around...
 
 I ran into Marupichi again.
 
@@ -284,7 +284,7 @@ We chatted for a while, and it told me about a local legend.
 
 [Did you know? A long time ago, a giant dragon lived on this island!]
 
-A giant dragon…
+A giant dragon...
 
 Day 5.
 
@@ -314,7 +314,7 @@ We finished our investigation of the village and returned to our house to prepar
 
 The ‘rainy season’ would be over today.
 
-As I was preparing for tomorrow…
+As I was preparing for tomorrow...
 
 The Elder summoned us. He just gave us some words of encouragement.
 
@@ -330,7 +330,7 @@ Covered in magic stones.
 
 If they didn't disappear after 30 minutes, the entire island would be covered in essences.
 
-The Elder had told us to leave the magic stones on the ground for the patrol team to collect, but…
+The Elder had told us to leave the magic stones on the ground for the patrol team to collect, but...
 
 I couldn’t resist picking up a few.
 
@@ -342,7 +342,7 @@ And then I found an essence.
 
 I didn't fight for it. I just picked it up.
 
-It must have been dropped by a monster that had been killed by another monster…
+It must have been dropped by a monster that had been killed by another monster...
 
 It had to be a high-grade essence, since it had survived the rainy season.
 
@@ -388,7 +388,7 @@ Day 27.
 
 We discovered another island before nightfall.
 
-Or rather… could you even call it an island?
+Or rather... could you even call it an island?
 
 A giant tree, rising from the silver sea.
 
@@ -436,7 +436,7 @@ We couldn’t survive on magic water like the natives.
 
 We needed meat.
 
-…Should we start rationing our food?
+...Should we start rationing our food?
 
 Day 35.
 
@@ -456,9 +456,9 @@ But we couldn’t find one.
 
 Everyone looked tired, so we set up camp and went to sleep.
 
-And…
+And...
 
-“…….”
+“.......”
 
 I suddenly woke up.
 
@@ -466,6 +466,6 @@ I suddenly woke up.
 
 I was back in my room.
 
-“What the… why am I here?”
+“What the... why am I here?”
 
 I was genuinely confused.

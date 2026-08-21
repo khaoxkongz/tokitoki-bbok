@@ -1,27 +1,27 @@
 # Scout (8)
 
-“We have lost track of Baron Jandel…….”
+“We have lost track of Baron Jandel.......”
 
 The subordinate who had served at his side for decades bowed his head deeply as he delivered the report, shame written across his face.
 
 However, the Marquis did not explode in rage. He simply closed his eyes, as if to steady his emotions, and let out a long breath.4
 
-“…I see.”
+“...I see.”
 
 It wasn’t that he wasn’t angry about the failure, but every emotion must have a clear target to be unleashed upon. For the Marquis, that target was himself—and, at the same time, the world itself. A world that pulled invisible strings as if everything were part of some elaborate game.
 
-‘Does this world wish for him not to die…?’
+‘Does this world wish for him not to die...?’
 
 Thunder was fired. Whatever method he had used, that barbarian had not only blocked it he had saved everyone, and the price he paid was complete incapacitation.
 According to the reports, he looked as though it would not have been strange for him to die at any moment. History
 
 That was why they believed one more strike would be enough.
 
-But……
+But......
 
 “Explain it to me. What happened?”
 
-“That is….”
+“That is....”
 
 According to the account, an unfamiliar magic circle activated, and when the dust settled, everyone was gone.
 
@@ -29,7 +29,7 @@ According to the account, an unfamiliar magic circle activated, and when the dus
 
 “There is no need. I already know what it was.”
 
-“…Pardon?”
+“...Pardon?”
 
 As the chancellor of Raphdonia, the marquis knew the city better than anyone.
 
@@ -43,7 +43,7 @@ Though the Marquis was only hearing about the situation through reports, he coul
 
 The Marquis continued, organizing his thoughts out loud.
 
-“He wouldn’t have had time to prepare for Thunder’s first impact, but after that, he would’ve been on guard. He would’ve realized we were targeting Baron Yandel. At that point, he would’ve done everything possible to stop the second strike. Still, activating that magic circle should have taken a considerable amount of time…”
+“He wouldn’t have had time to prepare for Thunder’s first impact, but after that, he would’ve been on guard. He would’ve realized we were targeting Baron Yandel. At that point, he would’ve done everything possible to stop the second strike. Still, activating that magic circle should have taken a considerable amount of time...”
 
 Tap, tap. The marquis drummed his fingers against the desk.
 
@@ -51,7 +51,7 @@ Tap, tap. The marquis drummed his fingers against the desk.
 
 “Yes. Dozens of barbarians who were on the outskirts did not disappear and were left behind.”
 
-“I see… so the magic circle was hastily activated after they saw our forces pull back…” Fire flared again in the marquiss’s eyes.
+“I see... so the magic circle was hastily activated after they saw our forces pull back...” Fire flared again in the marquiss’s eyes.
 
 “Then it’s not too late yet.”
 
@@ -73,7 +73,7 @@ The previous Commander of the 3rd corps, and the Marquis’s son. Despite their 
 
 His tone was colder than when he addressed his subordinates. He even knit his brows in irritation, but his expression quickly brightened.
 
-“…Divine Spear, Aynar, has been discovered at the dimensional plaza in District Four and is currently causing a disturbance!”
+“...Divine Spear, Aynar, has been discovered at the dimensional plaza in District Four and is currently causing a disturbance!”
 
 Hearing his son’s report, the corners of the Marquis’s mouth curled up. If the summoning magic had worked normally, all the people within the designated area would have been transported to the Imperial Capital. But that was clearly not the case.
 
@@ -81,7 +81,7 @@ Hearing his son’s report, the corners of the Marquis’s mouth curled up. If t
 
 Of course, even so, if Bjorn Jandel happened to be transported into Raphdonian-controlled territory, there would be nothing he could do.
 
-But……
+But......
 
 ‘It’s too early to give up.’
 
@@ -113,7 +113,7 @@ If a chain of coincidences could be called fate, then his entire life had been n
 
 Yes—perhaps even this very moment.
 
-“…How… annoying.”
+“...How... annoying.”
 
 Once again, Rotmiller felt the hands of fate.
 
@@ -128,13 +128,13 @@ The fairy who had made a contract with the Spirit King carved a path forward.
 
 The dual-wielding beastwoman darted from place to place, shielding those in danger, while the mage who had become the group’s de facto leader rapidly cast spells in search of an escape route.
 
-And then…
+And then...
 
 [Th-the enemies are pulling back!]
 
 The enemies who had surrounded them and clung relentlessly withdrew like a receding tide.
 
-[It’s thunder…!]
+[It’s thunder...!]
 
 As the attack appeared in the sky once again, geometric patterns suddenly formed beneath their feet and began to glow with brilliant light.
 
@@ -142,11 +142,11 @@ After that, his memories were incomplete.
 
 When he came to his senses, he found himself standing before a statue of the Goddess.
 
-[Teleportation…?]
+[Teleportation...?]
 
 Looking around, he saw that the temple was little more than a ruin. Through the shattered windows, he could see Noark troops marching down the streets.
 
-And…
+And...
 
 Bjorn Jandel.
 
@@ -158,17 +158,17 @@ Holding onto that hope, Rotmiller waited quietly. Suddenly, however, the situati
 
 The soldiers he’d occasionally seen through the windows had started out on simple patrol, but at some point, they began searching the area with clear intent. It wouldn’t be long before the two of them were exposed.
 
-[…Jandel! Jandel! Can you hear me?]
+[...Jandel! Jandel! Can you hear me?]
 
 Rotmiller hurried to wake Bjorn Jandel, and thankfully, the barbarian roused himself from his deep sleep.
 
 [Don’t worry. I can still move—]
 
-For some reason, Jandel collapsed, blood pouring from every opening in his body. Rotmiller’s mind went completely blank at the sight. The enemies would burst in here soon. They had to leave this place before then. But how…?
+For some reason, Jandel collapsed, blood pouring from every opening in his body. Rotmiller’s mind went completely blank at the sight. The enemies would burst in here soon. They had to leave this place before then. But how...?
 
 He didn’t know. Therefore, Rotmiller scoured the inside of the ruined temple for information.
 
-Their current location was the Central Branch of the Church of Reatlas, District Four. They could reach the imperial capital by following the main road in front of the temple. And if they could just make it there…
+Their current location was the Central Branch of the Church of Reatlas, District Four. They could reach the imperial capital by following the main road in front of the temple. And if they could just make it there...
 
 ‘We’ll live.’
 
@@ -188,15 +188,15 @@ As if by some miracle, he locked eyes with a single horse standing outside the f
 
 It didn’t matter why the horse was still there—maybe it had jumped the broken fence and avoided being looted by sheer luck. What mattered was that he now had a horse and a cart.
 
-“There, there… good boy…….”
+“There, there... good boy.......”
 
 Since Rotmiller had experience handling horses from his time at the orphanage, he took hold of the reins and hitched the horse to the cart so it could pull it. After securing the horse to the cart, he began his task.
 
-“Ugh…!”
+“Ugh...!”
 
 He barely managed to haul the massive barbarian onto the cart and folded his body so that his feet wouldn’t stick out. He filled the remaining space with bundles of hay and draped a large cloth over everything, making it look like an ordinary transport vehicle.
 
-The problem was……
+The problem was......
 
 Would this really work?
 
@@ -206,7 +206,7 @@ As his hesitation grew, a sense of unfairness welled up inside him.
 
 Why him?
 
-This man had countless allies far more capable and talented than he was. Even without asking, many in the city would have stepped forward to help him. So why, when he needed help the most…
+This man had countless allies far more capable and talented than he was. Even without asking, many in the city would have stepped forward to help him. So why, when he needed help the most...
 
 ‘Why was it me who happened to be by his side?’
 
@@ -216,7 +216,7 @@ Frustrated words spilled from his lips.
 
 He shook Jandel’s body, hoping he would wake up. When there was no response, he stared blankly. He cursed fate for putting him in this situation and then felt ashamed of his own helplessness.
 
-“But…”
+“But...”
 
 Inside the ruined temple, he locked eyes with a broken statue of the goddess and hardened his resolve.
 
@@ -224,9 +224,9 @@ Inside the ruined temple, he locked eyes with a broken statue of the goddess and
 
 In life, such moments suddenly appear—paths that are terrifying, yet must be taken.
 
-So…
+So...
 
-“May the Twilight Star guide us…”
+“May the Twilight Star guide us...”
 
 He climbed onto the horse and headed into the enemy-filled street, the cart rattling along behind him.
 
@@ -244,19 +244,19 @@ Blood rushed to his head, a wave of dizziness washing over him, but he forced hi
 
 He was not as strong as the allies who had shared Jandel’s grand adventures. He lacked the raw power to carve through waves of enemies by force alone, and he did not possess the cleverness or ingenuity of the gifted wizards who could slip free from danger.
 
-And so……
+And so......
 
-‘Please……!’
+‘Please......!’
 
 He prayed, again and again, that this petty trick would work. That was the best he could do.
 
 Perhaps that effort paid off.
 
-“……”
+“......”
 
 The first Noarkan he encountered only gave him a brief glance. He didn’t find him suspicious or try to speak to him. Apparently, walking slowly and boldly while driving a cart didn’t seem particularly out of place.
 
-“Phew…”
+“Phew...”
 
 Still, he had only passed one person.
 
@@ -264,15 +264,15 @@ Rattle, rattle—
 
 Just as the speed was slow, the road ahead was long and painful. But that was nothing new. His life had always been like this.
 
-Two people, three people…….
+Two people, three people.......
 
 It took him eight years of struggling just to become a Rank-7 explorer.
 
-Four people, five people, six people…….
+Four people, five people, six people.......
 
 He had started later than others. Most entered the labyrinth as soon as they came of age, but he took his first step at twenty-six.
 
-Ten people, twenty people, thirty people…….
+Ten people, twenty people, thirty people.......
 
 Because he started late, he ran with everything he had. Yet, he was always left behind and forced to endure the pain of being unable to keep up. That was why there was nothing unfamiliar about this endeavor either.
 

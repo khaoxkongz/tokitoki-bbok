@@ -2,27 +2,27 @@ Proof (4)
 
 The hidden reward for defeating Riakis is straightforward.
 
-After the raid, if you step into the flames at the cabin, your mental resistance greatly increases, and your character is transported to the Witch’s Forest.
+After the raid, stepping into the cabin’s flames greatly increases Mental Resistance and transports the character to the Witch’s Forest.
 
-And then…
+And then...
 
 [Achievement Unlocked]
 
-Condition: Defeat the Lord of Chaos, Riakis
+[Condition: Defeat the Lord of Chaos, Riakis.]
 
-Reward: Mental Resistance +50 (Permanent)
+[Reward: Mental Resistance +50 (Permanent).]
 
-If you open the achievement window again, you will see that ‘???’ has changed.
+If you opened the achievement window again afterward, the ‘???’ entry would have changed.
 
-It was a very unique hidden piece in [Dungeon & Stone].
+It was a very unusual hidden piece in [Dungeon & Stone].
 
-The fact that it’s an achievement reward that requires you to go to a specific place, and the fact that it’s a time-limited reward if you don’t visit later.
+For one thing, it was an achievement reward that required visiting a specific location. For another, the opportunity expired if you waited too long.
 
-Above all…
+Above all...
 
-[Your mental resistance permanently increases by +50.]
+[Mental Resistance permanently increases by 50.]
 
-The phrase ends carelessly in one line.
+The message ended there, almost carelessly.
 
 No mention of unknown powers inhabiting the body.
 
@@ -30,19 +30,19 @@ No blessings bestowed by hidden beings.
 
 The usual phrases that pop up when you discover hidden pieces are completely absent.
 
-So, I tried various experiments wondering if I missed something, but the result was the same.
+I had tried all sorts of experiments, wondering if I had missed something, but the result was always the same.
 
-So I just thought there was nothing hidden…
+So I just thought there was nothing hidden...
 
-[Error Occurred]
+[An error has occurred.]
 
 Where am I?
 
 This definitely isn’t the Witch’s Forest.
 
-[Unable to locate character]
+[Unable to locate character.]
 
-[Character log transmission temporarily suspended.]
+[Character log transmission has been temporarily suspended.]
 
 Who is this girl?
 
@@ -50,19 +50,19 @@ Tap, tap, tap.
 
 The campfire burned and dimly lit the place.
 
-Despite looking around, the girl did not answer my first question.
+Even as I looked around, the girl did not answer my first question.
 
-Just when the girl was breaking her silence.
+Then the girl finally broke her silence.
 
-“[…Elise Groundia.]”
+“[...Elise Groundia.]”
 
-It sounded like a voice in my head, not through my ears.
+The voice sounded directly inside my head rather than through my ears.
 
 The voice itself was surprisingly ordinary.
 
-But…
+But...
 
-“…What the fuck—?”
+“...What the fuck—?”
 
 The words came out of my mouth with goosebumps all over my body.
 
@@ -80,7 +80,7 @@ Is she really the Earth Witch?
 
 It’s just too hard to believe.
 
-Yet, I decided to coolly acknowledge it.
+Still, I forced myself to accept the possibility calmly.
 
 After all, why shouldn’t I believe it?
 
@@ -88,11 +88,11 @@ Wasn’t the witch supposed to be alive?
 
 After all, a girl I met in such a place couldn’t be just any girl.
 
-So…
+So...
 
 ‘This could actually be a good thing.’
 
-If she really is the earth witch, I might get a chance to have a long conversation and gather valuable information—
+If she really was the Earth Witch, I might get a chance to talk with her and gather valuable information—
 
 [You must not open the Gate of the Abyss.]
 
@@ -100,33 +100,33 @@ Huh?
 
 What on earth does that mean?
 
-Before I can ask, it happened:
+Before I could ask, it happened.
 
 Whooosh—!
 
-A strangely eerie wind blew, and the space mixed like clearing fog.
+A strangely eerie wind blew, and the space around us blurred like dispersing fog.
 
-I reached out desperately towards the blurring witch.
+I reached desperately toward the fading witch.
 
-But in the end, what my fingertips meet is—
+But in the end, what my fingertips touched was—
 
-“…Jandel, what in the world are you doing?”
+“...Jandel, what in the world are you doing?”
 
 —Amelia’s angry face.
 
-[Character position confirmed]
+[Character position confirmed.]
 
-[Resuming character log transmission]
+[Resuming character log transmission.]
 
 We returned to the Witch’s Forest.
 
 After a moment of feeling like I was possessed by a ghost, I checked with my companions to see if they had experienced a similar phenomenon.
 
-“…A field covered in fog? What are you talking about?”
+“...A field covered in fog? What are you talking about?”
 
 “We just came out here!”
 
-So, they experienced nothing of the sort…
+So, they experienced nothing of the sort...
 
 “Guess I must have been seeing things.”
 
@@ -142,19 +142,19 @@ After checking the time, we decided to end the exploration here and spent the ti
 
 “Pheneline, don’t bother him. He looks like he needs to think.”
 
-“Oh… alright…”
+“Oh... alright...”
 
 Although it was only a few minutes, thanks to Amelia, I could peacefully organize my thoughts.
 
-The event I just experienced was definitely not a dream.
+What I had just experienced was definitely not a dream.
 
-That girl I met must be the earth witch.
+That girl had to be the Earth Witch.
 
 There was no doubt about it.
 
-But…
+But...
 
-‘Do not open the door to the abyss.’
+‘Do not open the Gate of the Abyss.’
 
 What was that supposed to mean?
 
@@ -162,25 +162,25 @@ And why did it only happen to me?
 
 Auril Gavis was the same, and for some reason, everyone seems to have bizarre expectations of me.
 
-‘…Is it just because I’m an original-clear user?’
+‘...Is it just because I’m an original-clear user?’
 
 Phew, I think hard every day, but why does it feel like there’s always more to consider?
 
-[The labyrinth has been closed]
+[The Labyrinth has closed.]
 
 In the end, I didn’t find the answer to my thoughts until the labyrinth closed.
 
-[The character is moving to Raphdonia]
+[The character is moving to Raphdonia.]
 
 As usual, the city’s sky was blurry.
 
-“Wait, is that him…….”
+“Wait, is that him.......”
 
-“It’s Baron Jandel…”
+“It’s Baron Jandel...”
 
-Returning to the Dimensional Plaza, explorers who recognized me whispered. By now, it’s basically routine, so I pay them no mind and look around.
+Returning to the Dimensional Plaza, explorers who recognized me whispered. By now, it was basically routine, so I paid them no mind and looked around.
 
-“…This time was really dangerous.”
+“...This time was really dangerous.”
 
 “At least no one died. Let’s hurry and get some rest.”
 
@@ -190,17 +190,17 @@ Their equipment was in terrible condition.
 
 ‘Was there some incident?’
 
-Must’ve been some big incident…
+There must have been some major incident...
 
-I’ll ask about it later.
+I could ask about it later.
 
 I don’t even have to go to the Round Table for that kind of intel anymore—I can just ask Vercil in person.
 
-The more fame I get, the less I need the Round Table.
+The more fame and connections I gained, the less I needed the Round Table.
 
 ‘Still, that clown bastard and the GM’s side chick are there, so I can’t skip it entirely.’
 
-I slowly started walking towards the checkpoint.
+I slowly started walking toward the checkpoint.
 
 In the past, I’d have rushed to line up as soon as possible, but not now.
 
@@ -212,21 +212,21 @@ At this level, most groups are clans, so there’s basically no line. Groups of 
 
 ‘I should probably raise our clan rank soon, I don’t want to waste time at checkpoints later.’
 
-Because the line is short and we didn’t pick up many magic stones, it doesn’t take long to get through.
+Because the line was short and we hadn’t picked up many magic stones, it didn’t take long to get through.
 
-So…
+So...
 
 “Aynar, you heading straight to the pub?”
 
 “Yeah. See you later!”
 
-After parting ways with Ainar, I headed directly home.
+After parting ways with Aynar, I headed directly home.
 
-‘Right, I have to deal with this house by the end of the month…’
+‘Right, I have to deal with this house by the end of the month...’
 
-Even though I’m home, which is a place to relax, I have to think about the tasks I need to handle next
+Even though home was supposed to be a place to relax, I still had to think about the tasks waiting for me.
 
-I’ve literally just returned from catching Riakis.
+I had literally just returned from defeating Riakis.
 
 “I’m going to wash up first. You guys take care of yourselves and get some rest.”
 
@@ -234,13 +234,13 @@ I’ve literally just returned from catching Riakis.
 
 “Get some rest, Jandel.”
 
-I wash off all the grime from our expedition, then collapse onto my bed.
+I washed off the grime from the expedition, then collapsed onto my bed.
 
-“Phew…”
+“Phew...”
 
 Time to sleep.
 
-I’ll need to get up early tomorrow.
+I would need to get up early the next morning.
 
 ---
 
@@ -250,13 +250,13 @@ Trying not to wake Amelia and Erwin, I quietly washed up and went out to the str
 
 “Yawn.”
 
-I’m so sleepy.
+I was so sleepy.
 
-‘I went to bed around 2 p.m., so I’ve slept about 15 hours…’
+‘I went to bed around 2 p.m., so I’ve slept about 15 hours...’
 
-Thanks to the 15-day exploration ending at the 3rd floor, it’s a bit better, but my body was still tired.
+Because our fifteen-day expedition had ended on the 3rd Floor, I was in better shape than usual, but my body was still exhausted.
 
-Phew. Usually, the day after an exploration is “stay home and relax” time…
+Phew. Usually, the day after an exploration is “stay home and relax” time...
 
 “It’s an honor to have you aboard, Baron Jandel.”
 
@@ -264,11 +264,11 @@ Soon after reaching the public station, I boarded the noble’s carriage and hea
 
 It had been a while since I took a carriage to the capital.
 
-When meeting the marquis, the marquis paid, and when attending a royal event, the royal family covered the costs.
+When I met the Marquis, he paid; when I attended royal events, the royal family covered the cost.
 
 ‘I might as well sleep on the way.’
 
-Thinking I saved 700,000 stones despite the slight inconvenience made me comfortable enough to drift off to sleep.
+Knowing I had saved 700,000 stones despite the inconvenience was enough to let me drift off to sleep.
 
 [13:10]
 
@@ -278,7 +278,7 @@ Chew, chew.
 
 As I made my way to the manor’s gates, stuffing my face with jerky, a rabbit-eared guard approached me.
 
-There were no problems with him not recognising my identity.
+He had no trouble recognizing me.
 
 “Welcome to the house of Lirivia, Baron Jandel.”
 
@@ -286,7 +286,7 @@ The guard, welcoming me to the baroness’s estate, led me inside.
 
 I was struck by the extreme hospitality.
 
-‘…So this is the dignity of a noble house.’
+‘...So this is the dignity of a noble house.’
 
 Every little part seemed to contain unseen efforts.
 
@@ -296,7 +296,7 @@ Even if I buy land, erect a building, and call it House Jandel someday, it would
 
 Following the guard, I arrived in a room where the baroness I had met during the ceremony entered.
 
-“Long time no see. Baroness Lirivia. Your home is quite nice”
+“Long time no see, Baroness Lirivia. Your home is quite nice.”
 
 “Hehe, thank you for your kind words. But it seems you’re not nervous?”
 
@@ -308,9 +308,9 @@ Following the guard, I arrived in a room where the baroness I had met during the
 
 “Such words make you sound like a true explorer.”
 
-A veteran of high society, Baroness Lirivia has excellent communication skills. She kept the conversation flowing even though I was basically just answering her questions.
+A veteran of high society, Baroness Lirivia had excellent conversational skills. She kept the conversation flowing even though I was basically just answering her questions.
 
-“Oh my, time’s running short. I have some work to do as host for today’s meeting, so I’ll be going. I also have to greet the other families”
+“Oh my, time’s running short. I have some work to do as today’s host, so I’ll be going. I also have to greet the other families.”
 
 “So, where should I go?”
 
@@ -318,23 +318,23 @@ When I asked, she tilted her head and laughed.
 
 “You don’t need to worry about that, Baron. When the time comes, someone will come to guide you. Until then, please make yourself at home.”
 
-“…Got it. See you later, then.”
+“...Got it. See you later, then.”
 
-About 30 minutes after the rabbit Baroness spoke, the guide came.
+About thirty minutes after the Rabbit Baroness left, a guide arrived.
 
 “The heads are waiting for you.”
 
 We soon arrived at a large study that instantly reminded me of the Round Table.
 
-It’s no wonder, a round table was placed at the center of the study.
+No wonder—it had a round table at its center.
 
 ‘Does this world not have meetings without a Round Table?’
 
 The thought made me laugh, but I controlled myself.
 
-I couldn’t leave a first impression of being a weirdo..
+I couldn’t let my first impression be that of a weirdo.
 
-“……”
+“......”
 
 Without looking around, I noticed that everyone in the room was looking at me.
 
@@ -344,7 +344,7 @@ Everyone seemed curious about the new member.
 
 But apparently they didn’t come because they feared drawing attention.
 
-Recalling what the rabbit Baroness had said and seeing this scene, I can’t help but think: They really are a bunch of shy herbivores.
+Recalling what the Rabbit Baroness had said and seeing this scene, I can’t help but think: They really are a bunch of shy herbivores.
 
 “Pardon me, Baron Jandel, but could you stand over there for a moment? It won’t take long.”
 
@@ -352,11 +352,11 @@ Recalling what the rabbit Baroness had said and seeing this scene, I can’t hel
 
 “Well, now that everyone’s here, let’s open with our first agenda item.”
 
-The rabbit Baroness, sitting at the head of the table, acted as the moderator for the meeting.
+The Rabbit Baroness, sitting at the head of the table, acted as the moderator for the meeting.
 
 “Today’s first agenda item is Baron Jandel’s admission. In keeping with our council’s principle of equality, anyone may freely speak before we vote. Once a majority is reached and the motion is approved, we will accept that result graciously.”
 
-So this is the vibe here.
+So this was how things worked here.
 
 No wonder they’re using a big round table where everyone can face each other.
 
@@ -376,7 +376,7 @@ As soon as the meeting started, a fairy man with a mustache raised his hand. His
 
 There’s no point in hiding it, so I gave an immediate nod.
 
-None of the other house heads look surprised. It seems they’re already aware.
+None of the other house heads looked surprised. It seemed they were already aware.
 
 After all, the important part was what came next.
 
@@ -386,11 +386,11 @@ After all, the important part was what came next.
 
 Recognizing my cool acknowledgment, the family heads seemed intrigued.
 
-“You knew, and yet you still did it…”
+“You knew, and yet you still did it...”
 
 “Because that unwritten rule wasn’t benefiting me in any way.”
 
-“…Those words can’t be taken lightly.”
+“...Those words can’t be taken lightly.”
 
 “Why not?”
 
@@ -404,17 +404,17 @@ It was time to leave my first impression with them.
 
 “But so what.”
 
-I interrupted the mustached Baron.
+I interrupted the mustached baron.
 
-This behavior might seem rude to those born and raised in noble houses…
+That behavior might have seemed rude to those born and raised in noble houses...
 
 “What has changed, really?”
 
 After all, I am a Barbarian.
 
-“……”
+“......”
 
-Silenced by my question, the fairy gentleman looked bewildered and I looked around the room.
+Silenced by my question, the fairy gentleman looked bewildered. I swept my gaze around the room.
 
 It was the perfect moment to make my character known.
 
@@ -426,21 +426,21 @@ It was more like turning a blind eye, hoping no one would notice.
 
 They simply avoided directly sitting in the seat of power in their respective tribes; nonetheless, every single noble house here maintains some sort of behind-the-scenes connection with their sanctuary.
 
-‘The reason they were so eager to bring me on board was precisely because they can gain the support of the barbarians’
+‘The reason they were so eager to bring me on board was precisely because they could gain the support of the barbarians.’
 
 If you’re going to bow down, do it completely. If you’re going to stand up, do it quickly and decisively. That’s the way politics usually works.
 
-How come these so-politicians seem to know less about it than I do?
+How did these so-called politicians seem to know less about it than I did?
 
 “Right, then—any more questions?”
 
-“None from me. At least… I feel I now know what sort of person Baron Jandel is.”
+“None from me. At least... I feel I now know what sort of person Baron Jandel is.”
 
 Once Baron Heskaira ended his turn, Baroness Rabbit continued the proceedings.
 
 “Does anyone else have questions for Baron Jandel, or any other opinions to express?”
 
-“……”
+“......”
 
 “If not, we shall begin the vote. Those in favor of Baron Jandel’s admission, please raise your hand to show your support.”
 
@@ -448,7 +448,7 @@ The vote began unexpectedly.
 
 I had no problem with it not being a secret ballot, but I never imagined it would be done simply by a show of hands.
 
-“……”
+“......”
 
 In the silence, the heads of each household began to raise their hands one by one, much to my astonishment, given the outdated method.
 
@@ -478,25 +478,25 @@ The applause stopped as I made my way to the only empty seat and sat down, and B
 
 Essentially, the outcome of this was also predetermined.
 
-Supporting the establishment of Baron Jandel’s house was a foregone conclusion.
+Support for establishing House Jandel was a foregone conclusion.
 
 However, discussions continued on how much to invest, which lands to purchase, and how much support would follow.
 
-And…
+And...
 
-‘This much is certain, I’ve drawn the maximum support possible…’
+‘One thing’s certain—I’ve drawn out as much support as possible...’
 
 Thanks to Baroness Rabbit’s vigorous representation, the support funds were set a bit higher than expected.
 
 So, onto the next item.
 
-“The third agenda is…”
+“The third agenda is...”
 
 Baroness Rabbit glanced at me nervously and continued.
 
 “The formal support for Baron Jandel and Clan Anabada.”
 
-“…Clan Anabada, that’s the clan under Baron Jandel’s command, right?”
+“...Clan Anabada, that’s the clan under Baron Jandel’s command, right?”
 
 “Yes, that’s correct.”
 
@@ -504,7 +504,7 @@ As expected, the room buzzed with whispers as she finished speaking.
 
 “We accepted that Baron Jandel’s house would benefit us, but this is a completely different matter.”
 
-“Support for a private entity not a noble house? There is no precedent for that!”
+“Support for a private entity rather than a noble house? There is no precedent for that!”
 
 Questions flew from all directions, and they all converged on one critical point.
 

@@ -6,11 +6,11 @@ Even when I woke up in the body of a barbarian and had to undergo a coming-of-ag
 
 A brief silence stretched between us.
 
-“…….”
+“.......”
 
 Misha looked up at me, her eyes filled with a mixture of fear and hope. Unable to bear her gaze, I opened my mouth.
 
-“…I see.”
+“...I see.”
 
 It was a meaningless mutter, neither accepting, refusing, nor questioning her.
 
@@ -28,25 +28,25 @@ No, given that Misplaced Trust is active, it must be true. But that only makes i
 
 “Then.”
 
-“……Huh?”
+“......Huh?”
 
-“Then… why did you push me away back then?”
+“Then... why did you push me away back then?”
 
 It was a question I’d held in my heart for a long time.
 
 Why had Misha rejected me that day? At the time, I could convince myself that she just didn’t like me that way. But now, judging from what she said, that didn’t seem to be the case.
 
-“Ah… that…”
+“Ah... that...”
 
 The answer to my question came from Misha herself.
 
-“It’s because… I found out you were an Evil Spirit… no, wait… a Player……”
+“It’s because... I found out you were an Evil Spirit... no, wait... a Player......”
 
-“A Player……?”
+“A Player......?”
 
 I tilted my head in confusion, and Misha hesitantly asked,
 
-“I heard… you don’t like being called an evil spirit. Is that true?”
+“I heard... you don’t like being called an evil spirit. Is that true?”
 
 Well, I’d never really thought about it, but Player definitely sounds better than Evil Spirit. Self-Help& Motivational
 
@@ -54,11 +54,11 @@ But did she hear that from Lee Baek-ho?
 
 If so, for some reason, that just irritates me even more.
 
-“I-I’ll stop if you don’t like it… Sorry……”.”
+“I-I’ll stop if you don’t like it... Sorry......”.”
 
 I steered the conversation back on track and said.
 
-“…Never mind that. What does finding out I was an Evil Spirit have to do with anything? Did you… think that, regardless of your feelings, you couldn’t be with an Evil Spirit?”
+“...Never mind that. What does finding out I was an Evil Spirit have to do with anything? Did you... think that, regardless of your feelings, you couldn’t be with an Evil Spirit?”
 
 I tried my best to suppress my emotions as I spoke, but maybe something slipped through.
 
@@ -70,7 +70,7 @@ She was so flustered that she even slipped back into her old way of speaking.
 
 Misha seemed surprised and a little embarrassed for raising her voice, averting her eyes as she spoke.
 
-“It’s just… it was hard to watch… watching you get weaker because of me…”
+“It’s just... it was hard to watch... watching you get weaker because of me...”
 
 “You’ll need to explain that more.”
 
@@ -80,17 +80,17 @@ To summarize, it was a simple story.
 
 “You thought I went as far as swapping appearances with Karon and fulfilling my ‘duty’ because of you—and that none of it was for my own benefit and that it might expose my identity someday?”
 
-“Mhm……”.”
+“Mhm......”.”
 
 Misha hung her head like a scolded student, but her eyes remained fixed on me.
 
-“But… did I maybe… misunderstand?”
+“But... did I maybe... misunderstand?”
 
 Sigh. What was I supposed to say to that?
 
 Strictly speaking, it was the GM who made me switch faces with Karon that day. I needed an alibi to avoid arousing suspicion as an evil spirit.
 
-Still…
+Still...
 
 ‘She’s not wrong.’
 
@@ -100,19 +100,19 @@ I’ve never fulfilled my “duties” at the sanctuary. The first reason was my
 
 Somehow, it felt like committing a grave sin. That’s why I couldn’t do it.
 
-“So it wasn’t a misunderstanding… That’s a relief…”
+“So it wasn’t a misunderstanding... That’s a relief...”
 
 As if reading the answer in my expression, Misha let out a sigh of relief. Suddenly, I checked the Misplaced Trust—there wasn’t much time left.
 
-It felt meaningless to confirm this so late…
+It felt meaningless to confirm this so late...
 
 But even if it came off as cowardly, I wanted to clear up any remaining doubts.
 
 “So that’s all?”
 
-“Huh…?”
+“Huh...?”
 
-“I mean, maybe there’s more to why you pushed me away….”
+“I mean, maybe there’s more to why you pushed me away....”
 
 I trailed off, glancing at her, and Misha flinched.
 
@@ -120,19 +120,19 @@ Ah, so there is more.
 
 When I silently urged her to continue, Misha finally spoke, her face burning red.
 
-“Well… you know……”.”
+“Well... you know......”.”
 
-“…….”
+“.......”
 
-“I… can’t have children……”.” FamilyLaw
+“I... can’t have children......”.” FamilyLaw
 
 For a moment, my mind went blank.
 
 Not even an ogre hit in the head with a tree would look this shocked.
 
-“Children……?”
+“Children......?”
 
-“D-Don’t get the wrong idea! It’s not that I can’t have them, just that… any child I bear wouldn’t be a barbarian……”.”
+“D-Don’t get the wrong idea! It’s not that I can’t have them, just that... any child I bear wouldn’t be a barbarian......”.”
 
 I understood what she meant intellectually.
 
@@ -146,7 +146,7 @@ But while I grasped the meaning, I still didn’t understand.
 
 The absurdity of the question was evident in my tone, and Misha flinched.
 
-“Huh……? It… doesn’t matter?”
+“Huh......? It... doesn’t matter?”
 
 Of course it doesn’t.
 
@@ -156,7 +156,7 @@ Whether my child is a barbarian or a Red cat member, I’d love them all the sam
 
 But Misha couldn’t easily believe my words.
 
-“You’re lying… Don’t all men care about that……?”
+“You’re lying... Don’t all men care about that......?”
 
 Well, given the world she grew up in, that might be a natural assumption.
 
@@ -164,7 +164,7 @@ But.
 
 “The world I come from is different.”
 
-“But… you’re a noble now too, right…? People will definitely talk, they’ll say—”
+“But... you’re a noble now too, right...? People will definitely talk, they’ll say—”
 
 “Enough.”
 
@@ -174,11 +174,11 @@ It was already awkward enough to be talking about children, and the whole thing 
 
 “Let’s drop this topic.”
 
-“Ah… Mhm……. R-Right… It’s not like you still… l-like me or anything……”.”
+“Ah... Mhm....... R-Right... It’s not like you still... l-like me or anything......”.”
 
 “To be precise, I haven’t given my answer yet.”
 
-“……Then? What’s… your answer?”
+“......Then? What’s... your answer?”
 
 “Before that, one last thing.”
 
@@ -198,19 +198,19 @@ Click.
 
 The hand of the Misplaced Trust reached the end, and the glow faded.
 
-“So… will you give me your answer now?”
+“So... will you give me your answer now?”
 
 For some reason, I found it hard to meet her eyes.
 
 Misha was staring at me as though nothing in the world mattered more than my reply.
 
-‘I have to answer…’
+‘I have to answer...’
 
 Misplaced trust was deactivated.
 
 Even if it were still active, it wouldn’t have made much difference to me.
 
-“My answer is…”
+“My answer is...”
 
 I told her the truth in my heart.
 
@@ -218,15 +218,15 @@ I told her the truth in my heart.
 
 It felt like she’d been cursed—and not just by any spell, but something truly sinister.
 
-[Bjorn… I like you too.]
+[Bjorn... I like you too.]
 
-[Bjorn… I like you too.]
+[Bjorn... I like you too.]
 
-[Bjorn… I like you too.]
+[Bjorn... I like you too.]
 
 Even after pouring cold water on her head and slamming her helmeted head against the wall, that voice kept echoing in her ears. And that last thing Bjorn said.
 
-[……I see.]
+[......I see.]
 
 It wasn’t a yes.
 
@@ -236,7 +236,7 @@ But, Erwin sensed something in that voice—relief. If she was right, then in th
 
 Relieved at the answer from that ungrateful woman, Misha Karlstein. People& Society
 
-“……………….”
+“...................”
 
 What happened between them after that?
 
@@ -246,7 +246,7 @@ No matter how much Erwin thought about it, she wouldn’t know.
 
 She had fled the moment she heard Bjorn’s voice from inside the room.
 
-“……………….”
+“...................”
 
 Why had she done that?
 
@@ -270,7 +270,7 @@ A plunderer from Noark who, after conecting with Bjorn, had taken on a new life 
 
 “If you’ve got something on your mind, just say it. I’ll listen if you want me to.”
 
-“……Never mind.”
+“......Never mind.”
 
 Erwin eventually turned to leave, and Amelia didn’t stop her, simply telling her to come back when she felt like talking.
 
@@ -278,7 +278,7 @@ But Erwin had no intention of returning.
 
 She had only come today because she had lost her mind for a moment and ended up here by chance.
 
-“…….”
+“.......”
 
 Erwin returned to her own room, alone with her pain. Eventually, she came to a decision.
 
@@ -292,13 +292,13 @@ What did that woman have that Erwin didn’t?
 
 Once she came to that conclusion, her heart felt lighter, and she found the strength to leave her room again.
 
-But…
+But...
 
-“Huh…?”
+“Huh...?”
 
 As she came downstairs to the first floor, she saw two people chatting warmly over a meal.
 
-“Agh… Stop laughing! You’re the one who asked me to make it! It’s been a while, so of course I’d mess up a little… And we don’t even have the right ingredients in this damn labyrinth… But… is it too salty?”
+“Agh... Stop laughing! You’re the one who asked me to make it! It’s been a while, so of course I’d mess up a little... And we don’t even have the right ingredients in this damn labyrinth... But... is it too salty?”
 
 “Don’t worry. It’s delicious enough.”
 
@@ -306,11 +306,11 @@ It seemed like she’d made him some kind of nostalgic dish.
 
 While Erwin stood on the stairs, dazed, Misha looked up and their eyes met.
 
-“Ah, Erwin…”
+“Ah, Erwin...”
 
 Caught in that awkward moment, Misha began spooning food onto a plate.
 
-“If you haven’t eaten yet, would you like some? I… made a lot, so there’s leftovers…”
+“If you haven’t eaten yet, would you like some? I... made a lot, so there’s leftovers...”
 
 That gesture reminded Erwin of an old memory.
 
@@ -332,7 +332,7 @@ That time when she left Bjorn’s side to learn under her “sister.”
 
 Back when that red cat woman had acted like the lady of the house, treating her like an unwelcome guest. People& Society
 
-“…I need your help.”
+“...I need your help.”
 
 She could never go back to those days.
 
@@ -340,15 +340,15 @@ She could never go back to those days.
 
 After Erwin disappeared back up the stairs, Misha looked at me with concern.
 
-“Um… is she going to be okay……?”
+“Um... is she going to be okay......?”
 
-“I’ll talk to Erwin later, so don’t worry about it. And… you did well.”
+“I’ll talk to Erwin later, so don’t worry about it. And... you did well.”
 
-“…Huh?”
+“...Huh?”
 
 “I mean offering her food. Even knowing she dislikes you, that’s not easy.”
 
-“O-Oh… it’s nothing. We can’t go on like this forever… We’ll be living together after all…”
+“O-Oh... it’s nothing. We can’t go on like this forever... We’ll be living together after all...”
 
 Misha scratched the table awkwardly, but to me, even that looked admirable.
 
@@ -356,15 +356,15 @@ I had just told her not to isolate herself and try to get along with the other c
 
 That said, things had gotten a little awkward between us.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 The silence was far from natural, but it wasn’t uncomfortable either. In that quiet, I recalled the final exchange between Misha and me.
 
 Even now, it feels a little pathetic, but my answer back then had been “I don’t know.”
 
-[You… don’t know? What’s that supposed to mean?]
+[You... don’t know? What’s that supposed to mean?]
 
 It’s definitely not that I dislike her.
 
@@ -372,29 +372,29 @@ The remnants of the feelings I once had were still there.
 
 But that’s all they were—remnants.
 
-[It’s been a long time since then…]
+[It’s been a long time since then...]
 
 Since that day, I’d tried countless times to let go of my feelings for Misha—and I’d succeeded.
 
 I didn’t know what would happen going forward, but right now, my feelings were more like a comrade’s than anything romantic.
 
-Amelia, Erwin, Aynar, Raven…
+Amelia, Erwin, Aynar, Raven...
 
 If any of them were in Misha’s place, I’d have reacted the same.
 
 Anyway, that wasn’t the important part.
 
-[Ha, haha… W-Well, I guess it can’t be helped…]
+[Ha, haha... W-Well, I guess it can’t be helped...]
 
 After hearing my honest feelings, Misha looked hurt but accepted it with maturity. Psychology
 
-[Still… we can be friends, right?]
+[Still... we can be friends, right?]
 
 [Huh?]
 
-[Right? I mean… we started out as friends, didn’t we…?]
+[Right? I mean... we started out as friends, didn’t we...?]
 
-[Y-Yeah…]
+[Y-Yeah...]
 
 For the record, my brilliant response back then was a stuttered “Y-Yeah, sure.”
 
@@ -414,21 +414,21 @@ Having apparently been out since morning, she delivered a message from the front
 
 “Count Saint-Red has summoned you. It seems the research on the dimensional stone is finally complete. He’s asked you to come.”
 
-“‘Complete’…? Does that mean they’ve figured something out?”
+“‘Complete’...? Does that mean they’ve figured something out?”
 
 “I’m not sure, but it sounds like they failed.”
 
-“I see… Well, we’ll find out when we get there. I’ll be back.”
+“I see... Well, we’ll find out when we get there. I’ll be back.”
 
-“Mhm… Take care.”
+“Mhm... Take care.”
 
 As I stood up, Misha bid me farewell, and Versil tilted her head curiously.
 
-“You two……”
+“You two......”
 
 “Got something to say?”
 
-“…No. Nothing at all.”
+“...No. Nothing at all.”
 
 I smirked at Versil’s words.
 
@@ -442,7 +442,7 @@ I already had a good idea what she wanted to discuss.
 
 She’d probably bring up concerns about Misha, and the incident on the community board yesterday.
 
-I can tell her then that she doesn’t need to worry anymore…
+I can tell her then that she doesn’t need to worry anymore...
 
 When I arrived at the mansion with the dimensional stone, the village chief was already waiting for me on the first floor.
 
@@ -452,7 +452,7 @@ When I arrived at the mansion with the dimensional stone, the village chief was 
 
 I pressed him to speak, and he explained that their ten-day study of the stone had failed and that we would leave the village today.
 
-“Today, already…?”
+“Today, already...?”
 
 “I held out some hope, but since it’s a complete failure, there’s no point wasting any more time.”
 

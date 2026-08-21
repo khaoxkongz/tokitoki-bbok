@@ -4,7 +4,7 @@ Verzak, the Lord of the Abyss.
 
 A hidden field boss that appeared after the ninth Lord of Terror was slain.
 
-‘I had a feeling this might happen… but I didn’t expect it to actually happen.’
+‘I had a feeling this might happen... but I didn’t expect it to actually happen.’
 
 I quickly gathered information from the explorers gathered in front of the portal.
 
@@ -12,7 +12,7 @@ Verzak had been summoned about an hour ago.
 
 Thankfully, there hadn’t been many casualties among the 1st-floor explorers.
 
-Most of them had sensed the danger and moved to the 2nd floor on the 4th day…
+Most of them had sensed the danger and moved to the 2nd floor on the 4th day...
 
 “But there must have been some who couldn’t escape, or didn’t want to.”
 
@@ -24,7 +24,7 @@ Most of the explorers gathered here had been rescuing explorers near the portal 
 
 “So you don’t have to worry too much, Baron Yandel. By the 6th day, we could barely find anyone on the 1st floor.”
 
-I see…
+I see...
 
 “You did a great job. It must have been difficult.”
 
@@ -36,23 +36,23 @@ I wasn’t that kind of person.
 
 I had known about the possibility of Verzak being summoned, and yet I had gone to the 3rd floor to pursue my own goals.
 
-But then…
+But then...
 
 “But if you came from that direction, doesn’t that mean you were also rescuing explorers?”
 
-One of the explorers suddenly asked, and before I could even answer…
+One of the explorers suddenly asked, and before I could even answer...
 
 “Ah, so that’s why!”
 
 “He didn’t just bring them to the 2nd floor, he also guided them!”
 
-“Baron Yandel doesn’t even need guild achievement points… and yet he went to such lengths…”
+“Baron Yandel doesn’t even need guild achievement points... and yet he went to such lengths...”
 
-“I’m ashamed. I was hoping to get some achievement points for rescuing them…”
+“I’m ashamed. I was hoping to get some achievement points for rescuing them...”
 
-Uh…
+Uh...
 
-“…….”
+“.......”
 
 I just smiled awkwardly.
 
@@ -60,13 +60,13 @@ I just smiled awkwardly.
 
 「Character’s Fame has increased by +1.」
 
-「Character’s Fame has increased by +1…」
+「Character’s Fame has increased by +1...」
 
-「….」
+「....」
 
 I didn’t care about the Fame, but at least it would serve as an alibi.
 
-‘If this is the way to the hidden area, there will be more people investigating my movements…’
+‘If this is the way to the hidden area, there will be more people investigating my movements...’
 
 Well, it couldn’t be helped.
 
@@ -84,7 +84,7 @@ And the first person I asked was Amelia, the pillar of our clan.
 
 “Emily, what do you think we should do?”
 
-“…It’s a little disappointing to give up now, even though it’s dangerous.”
+“...It’s a little disappointing to give up now, even though it’s dangerous.”
 
 “So you think we should try to reach the hidden area?”
 
@@ -106,7 +106,7 @@ And the longer we stayed on the 1st floor, the higher the chances of encounterin
 
 “Yes.”
 
-Okay, so Amelia was conditionally in favor…
+Okay, so Amelia was conditionally in favor...
 
 I asked the others for their opinions.
 
@@ -118,7 +118,7 @@ I asked the others for their opinions.
 
 Erwen, Ainar, and Bersil were all in favor.
 
-“I… will follow your lead, Clan Master.”
+“I... will follow your lead, Clan Master.”
 
 “Tell me what you think. You’re a member of this clan too.”
 
@@ -126,25 +126,25 @@ My words seemed to have had an effect.
 
 Auyen hesitated for a moment and then spoke cautiously.
 
-“I… disagree. Verzak… he killed thousands of people back then… If something happens to you or the ladies, it would be a great loss for humanity—”
+“I... disagree. Verzak... he killed thousands of people back then... If something happens to you or the ladies, it would be a great loss for humanity—”
 
 What was he talking about?
 
 “So you’re against it.”
 
-“Yes… I’m just expressing my opinion, so please don’t take it personally.”
+“Yes... I’m just expressing my opinion, so please don’t take it personally.”
 
 Three votes in favor, one against, and one conditional vote.
 
 I didn't need to ask the last person, but I did anyway.
 
-“Me? Ah… I… I…”
+“Me? Ah... I... I...”
 
 Misha, who had been unusually quiet throughout the expedition, stammered for a long time before finally speaking.
 
 For some reason, she had reverted to her old speech pattern.
 
-“I-It’s okay… either way… I-It’s dangerous… but if the portal opens… it’ll be good for you… and even if it doesn’t… it’s still worth trying… I-It’ll be helpful… either way…? I-I think…”
+“I-It’s okay... either way... I-It’s dangerous... but if the portal opens... it’ll be good for you... and even if it doesn’t... it’s still worth trying... I-It’ll be helpful... either way...? I-I think...”
 
 What was she even trying to say?
 
@@ -152,17 +152,17 @@ I had just asked for her opinion.
 
 “So you’re abstaining?”
 
-“N-No…”
+“N-No...”
 
 “Then what? Just tell me what you think.”
 
 I reassured her, and she finally answered, avoiding my gaze.
 
-“I think… it’s better to go… if you’re sure it will work…”
+“I think... it’s better to go... if you’re sure it will work...”
 
 So she was also conditionally in favor. But why was she glancing at Amelia?
 
-‘…Was that really her opinion?’
+‘...Was that really her opinion?’
 
 I was suspicious, but I didn't press her.
 
@@ -186,7 +186,7 @@ Anyway, that wasn’t important.
 
 A land of milk and honey awaited us.
 
-…Probably.
+...Probably.
 
 ---
 
@@ -198,11 +198,11 @@ We returned to the Crystal Cave through the portal.
 
 It was a Dark Zone, so there wasn’t any light.
 
-But as soon as I lit the torch on my helmet…
+But as soon as I lit the torch on my helmet...
 
 Whoosh!
 
-…a dark fog filled the cave.
+...a dark fog filled the cave.
 
 「Field Effect - Abyssal Fog applied.」
 
@@ -240,11 +240,11 @@ I heard a click as I stepped on something.
 
 A random skill below 5th-grade would be activated.
 
-And this one…
+And this one...
 
 Whoosh!
 
-…was [Tail Flame], a 6th-grade skill, judging by the damage and the shape of the flames.
+...was [Tail Flame], a 6th-grade skill, judging by the damage and the shape of the flames.
 
 “Yandel, are you okay?”
 
@@ -252,7 +252,7 @@ It stung.
 
 My overall stats were much higher than before, but there was one stat that had decreased significantly.
 
-‘I need to increase my Magic Resistance…’
+‘I need to increase my Magic Resistance...’
 
 My Magic Resistance had plummeted after I removed the Manticore essence.
 
@@ -286,9 +286,9 @@ The higher your stats were, the less effective potions became.
 
 「Character’s HP is below 50%.」
 
-After about 40 minutes of running…
+After about 40 minutes of running...
 
-…my passive skill activated.
+...my passive skill activated.
 
 「Passive skill [Hero’s Path] increases all Resistance stats.」
 
@@ -300,11 +300,11 @@ As I was thinking that, I heard my teammates whispering behind me.
 
 “Now I understand why he’s so famous.”
 
-“Me too. I’ve heard stories, but… I didn’t expect it to be this bad…”
+“Me too. I’ve heard stories, but... I didn’t expect it to be this bad...”
 
 Amelia and Bersil, who had only heard about that day, were looking at me with a mixture of awe and horror.
 
-‘Well, it sounds like they’re praising me…’
+‘Well, it sounds like they’re praising me...’
 
 But I felt a little embarrassed.
 
@@ -314,9 +314,9 @@ And besides, I had the ability to survive.
 
 [Are you all insane?! Do you think anyone will acknowledge this?! A hero?]
 
-[Damn it… I’m going. Someone has to do it.]
+[Damn it... I’m going. Someone has to do it.]
 
-Unlike those who had died triggering traps…
+Unlike those who had died triggering traps...
 
 I didn’t have to worry about dying.
 
@@ -332,9 +332,9 @@ Just like now.
 
 「Passive skill [Hero’s Path] reaches its maximum effect.」
 
-By the time my passive skill reached its maximum effect…
+By the time my passive skill reached its maximum effect...
 
-…we arrived at our destination.
+...we arrived at our destination.
 
 My HP was low, but that was all.
 
@@ -342,17 +342,17 @@ I hadn’t encountered Verzak.
 
 And my teammates were in perfect condition.
 
-But…
+But...
 
 ‘Damn it.’
 
 Just because the process had been smooth didn’t mean the outcome would be.
 
-The problem was… the destination itself.
+The problem was... the destination itself.
 
-“…Hey, Baron Yandel?”
+“...Hey, Baron Yandel?”
 
-“…It’s the Giant! The Giant has brought his clan members here!”
+“...It’s the Giant! The Giant has brought his clan members here!”
 
 “Did he find a way to open the portal?”
 
@@ -380,22 +380,22 @@ He tilted his head, as if he didn’t understand my question.
 
 “Waiting for the portal to open? Someone might slay the Lord of the Abyss. Or maybe it will open right before the labyrinth closes!”
 
-“…What if Verzak appears here?”
+“...What if Verzak appears here?”
 
 “It’s a risk we have to take! We’re searching for a hidden area!”
 
 His naive response left me speechless.
 
-“As Baron Yandel knows…”
+“As Baron Yandel knows...”
 
-“…….”
+“.......”
 
-“…that’s what exploration is all about!”
+“...that’s what exploration is all about!”
 
 I felt a sudden surge of disillusionment towards the explorer profession.
 
-I had always known there were a lot of idiots in this field, but…
+I had always known there were a lot of idiots in this field, but...
 
-“If I may be so bold… do you know how to open the portal?”
+“If I may be so bold... do you know how to open the portal?”
 
 I couldn’t believe there were so many of them.

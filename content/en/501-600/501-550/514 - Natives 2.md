@@ -14,7 +14,7 @@ As Erwen’s cynical comment suggested, most explorers had entertained the thoug
 
 What if there were other intelligent beings in this labyrinth of secrets?
 
-“Interesting… Very interesting…”
+“Interesting... Very interesting...”
 
 Unlike Erwen, Amelia’s eyes sparkled with curiosity as she listened to the story about the ‘natives.’
 
@@ -22,23 +22,23 @@ Unlike Erwen, Amelia’s eyes sparkled with curiosity as she listened to the sto
 
 Amelia’s question made the female explorer tilt her head.
 
-“Bodies… at the entrance?”
+“Bodies... at the entrance?”
 
 “You didn’t see them? There were three.”
 
 Amelia described the bodies, and the explorer flinched.
 
-“MacHoldin, Prenton, Rick… Those were the three who were captured in the first attack… We didn’t see them in the village… So that’s what happened to them…”
+“MacHoldin, Prenton, Rick... Those were the three who were captured in the first attack... We didn’t see them in the village... So that’s what happened to them...”
 
-“The first attack… Tell me everything. From the moment you separated from the Hex Clan.”
+“The first attack... Tell me everything. From the moment you separated from the Hex Clan.”
 
-“But… how did you know about that…?”
+“But... how did you know about that...?”
 
 “The Hex Clan told us about this island.”
 
-“…I see.”
+“...I see.”
 
-“We should have followed them…”
+“We should have followed them...”
 
 The explorer muttered softly and then began her story.
 
@@ -50,7 +50,7 @@ And encountered new species.
 
 The battles had been challenging, and there had been several close calls, but they had been filled with excitement and anticipation.
 
-“Tentakulan, Diamond, Squirrel, Papagonas, Bailonta… We named the new monsters we encountered, feeling like we were on a grand adventure.”
+“Tentakulan, Diamond, Squirrel, Papagonas, Bailonta... We named the new monsters we encountered, feeling like we were on a grand adventure.”
 
 Papagonas and Bailonta.
 
@@ -64,9 +64,9 @@ A trail of footprints.
 
 They were much larger than human footprints, and there were many of them.
 
-But…
+But...
 
-“They were different shapes. And… flat. As if they were wearing shoes…”
+“They were different shapes. And... flat. As if they were wearing shoes...”
 
 They had followed the trail, convinced that it belonged to a new species.
 
@@ -74,7 +74,7 @@ The already dense jungle became even thicker.
 
 And the monsters that had been appearing occasionally disappeared completely.
 
-And then…
+And then...
 
 “That’s when the first attack happened.”
 
@@ -88,7 +88,7 @@ The Silver Lion Clan had pursued the monsters, venturing deeper into the jungle.
 
 The biggest problem was that they hadn't been able to kill a single monster, despite their losses.
 
-“I don’t know why we didn’t realize it sooner, but… they were intelligent. They communicated with each other and used complex strategies.”
+“I don’t know why we didn’t realize it sooner, but... they were intelligent. They communicated with each other and used complex strategies.”
 
 The Silver Lion Clan had retreated.
 
@@ -96,15 +96,15 @@ The clan leader, whose girlfriend had been captured, had been furious, but he ha
 
 But it had been too late.
 
-“There were traps on the way back. We had taken the same path, but there hadn’t been any traps before…”
+“There were traps on the way back. We had taken the same path, but there hadn’t been any traps before...”
 
 They had been captured and taken to the monster village, blindfolded.
 
 “But how did you escape?”
 
-“One of the… monsters… freed us…”
+“One of the... monsters... freed us...”
 
-“Freed you…?”
+“Freed you...?”
 
 It had been a small monster, much smaller than the others.
 
@@ -112,11 +112,11 @@ They thought it was a child.
 
 “Were you close?”
 
-“No… We couldn’t even communicate.”
+“No... We couldn’t even communicate.”
 
 “Then why did it free you?”
 
-“We… don’t know. It just came to our cell and stared at us… and talked to us… but that’s all.”
+“We... don’t know. It just came to our cell and stared at us... and talked to us... but that’s all.”
 
 I pondered their story, and Amelia spoke her mind.
 
@@ -124,13 +124,13 @@ I pondered their story, and Amelia spoke her mind.
 
 Erwen agreed.
 
-“My sister did something similar. She was fascinated by the monsters during the festival preparations, and she kept visiting the stables… and then she freed them all the night before the festival.”
+“My sister did something similar. She was fascinated by the monsters during the festival preparations, and she kept visiting the stables... and then she freed them all the night before the festival.”
 
 The explorers’ faces hardened, but they didn’t argue.
 
 They knew, deep down, that they had been spared because of a child’s sympathy. They had been treated like animals in cages.
 
-“Well… children are like that…”
+“Well... children are like that...”
 
 That was the end of their story.
 
@@ -152,27 +152,27 @@ Just like human society.
 
 Not all of them were warriors.
 
-The problem was that they had the home-field advantage…
+The problem was that they had the home-field advantage...
 
 Well, if things got dangerous, we could always retreat.
 
 “Lead the way. To the village.”
 
-“…Are you sure…?”
+“...Are you sure...?”
 
 “We’re here to explore.”
 
-“….”
+“....”
 
 I patted their shoulders reassuringly, but they looked like they were about to cry.
 
-“Um… We can tell you the location… but please… don’t go there yourself…”
+“Um... We can tell you the location... but please... don’t go there yourself...”
 
-“Yes! We’ll be a burden…!”
+“Yes! We’ll be a burden...!”
 
 They didn't want to go back.
 
-But…
+But...
 
 “Do you have a ship?”
 
@@ -180,7 +180,7 @@ But…
 
 “Good. You’re dismissed.”
 
-“…What?”
+“...What?”
 
 “If you can make it back to the rocky island and summon a ship, then go. It’s your choice.”
 
@@ -188,7 +188,7 @@ We had encountered 3rd and 4th-grade monsters on the way here.
 
 Thankfully, they were explorers, so they understood what I meant.
 
-“…We’ll lead the way.”
+“...We’ll lead the way.”
 
 “Good.”
 
@@ -218,27 +218,27 @@ And she was right. She found and disarmed the traps with ease.
 
 It was a strange feeling for a tank.
 
-‘Being protected… it’s not that bad…’
+‘Being protected... it’s not that bad...’
 
 After about two hours of walking, we reached our destination.
 
-But…
+But...
 
-“This is it… This is where we escaped… Huh?”
+“This is it... This is where we escaped... Huh?”
 
 There was no entrance.
 
-The tree roots they had climbed out of… there was nothing there.
+The tree roots they had climbed out of... there was nothing there.
 
 “What happened?”
 
-“I… I don’t know…”
+“I... I don’t know...”
 
 “Did you make a mistake?”
 
 “No! I’m sure this is the place! You saw it yourself, Baron! I found my shoe here!”
 
-He seemed to be telling the truth…
+He seemed to be telling the truth...
 
 We checked the other trees nearby, just in case, but there was no entrance.
 
@@ -248,7 +248,7 @@ I wasn't sure how it worked, but there was definitely a village hidden somewhere
 
 The child we had just met was proof of that.
 
-As I was thinking that…
+As I was thinking that...
 
 Swoosh!
 
@@ -274,13 +274,13 @@ But it didn't last long.
 
 Amelia pressed her dagger against its throat, and it stopped struggling, looking up at me.
 
-[P-Please… spare me…]
+[P-Please... spare me...]
 
 It spoke in ancient language.
 
 ---
 
-If you could read and write ancient language…
+If you could read and write ancient language...
 
 You could also speak it.
 
@@ -294,11 +294,11 @@ It had been begging for its life just a moment ago.
 
 [Answer me.]
 
-[Y-Yes… I freed them…]
+[Y-Yes... I freed them...]
 
 [Why?]
 
-[They looked… sad…]
+[They looked... sad...]
 
 That reminded me of a common trope.
 
@@ -310,9 +310,9 @@ A kind-hearted child inadvertently causing a disaster with a single act of kindn
 
 I answered Amelia, but the four explorers who had overheard our conversation looked displeased.
 
-“That damned monster… how dare it…”
+“That damned monster... how dare it...”
 
-“Baron… can you tell it that we’re not grateful? It killed our comrades… and now it’s acting like it did us a favor…”
+“Baron... can you tell it that we’re not grateful? It killed our comrades... and now it’s acting like it did us a favor...”
 
 I didn't translate their words.
 
@@ -324,7 +324,7 @@ I had to be polite and extract as much information as possible.
 
 [They’re thanking you for helping them.]
 
-[…Really…?]
+[...Really...?]
 
 The little monster seemed to accept my words without question.
 
@@ -336,13 +336,13 @@ It was filled with curiosity.
 
 [How can you speak our language? You’re a monster.]
 
-[Monster…?]
+[Monster...?]
 
 Its boldness was amusing, but I couldn't let that comment slide.
 
 [Why are we monsters?]
 
-[Because… you look different… Even though we can communicate…]
+[Because... you look different... Even though we can communicate...]
 
 It was like Gulliver’s Travels.
 
@@ -352,6 +352,6 @@ A normal person becoming a giant in a land of Lilliputians.
 
 I asked, and the little monster answered without hesitation, as if stating a simple fact.
 
-[We’re… humans.]
+[We’re... humans.]
 
 It had become a strangely philosophical conversation.

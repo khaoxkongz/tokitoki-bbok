@@ -20,13 +20,13 @@ The same research that started over ten days ago on the possibility that the mag
 
 “You’ve been holding onto it that long. I thought maybe there was a result.”
 
-“Result, huh…”
+“Result, huh...”
 
 Trailing off, the chief said something ambiguous.
 
 “To be honest, there was something.”
 
-“…There was?”
+“...There was?”
 
 “I gained certainity that I can escape this place using the [Heretic Altar]”
 
@@ -78,7 +78,7 @@ Don’t play dumb. You know exactly why
 
 “Same boat? You haven’t told me anything about how to activate that portal stone yet.” I grumbled.
 
-“Ah… I suppose it’s natural for you not to trust me.”
+“Ah... I suppose it’s natural for you not to trust me.”
 
 The village chief nodded as if he understood and lightly tapped my forearm like a superior.
 
@@ -90,7 +90,7 @@ Does this bastard even realize?
 
 That every time he says something cryptic like that, it just makes me more uneasy?
 
-…Should I just kill him first?
+...Should I just kill him first?
 
 The thought flashed across my mind, but I decided to wait a little longer.
 
@@ -98,7 +98,7 @@ Just as I turned to leave—
 
 “Ah, by the way, did you use that item I gave you this morning? The [Misplaced Trust].”
 
-“……Ah, I forgot to return it—.”
+“......Ah, I forgot to return it—.”
 
 “No need to return it. It seems more necessary for you than for me.”
 
@@ -124,7 +124,7 @@ I was slightly dumbfounded.
 
 “A rumor, you say?”
 
-“Yes. Well… it’s not like there aren’t any evil spirits among us.”
+“Yes. Well... it’s not like there aren’t any evil spirits among us.”
 
 No, I mean, where did you hear that rumor from?
 
@@ -138,11 +138,11 @@ As a leader, that was a bit concerning.
 
 In any case, after we discussed the “rumor,” the conversation naturally shifted to Misha.
 
-“But about this morning…what was that about?”
+“But about this morning...what was that about?”
 
 “You mean Misha?”
 
-“Yes. The information that Karlstein might be a traitor—it’s still valid. I just thought… maybe you’re getting too close.”
+“Yes. The information that Karlstein might be a traitor—it’s still valid. I just thought... maybe you’re getting too close.”
 
 Versil voiced her concerns gently.
 
@@ -150,7 +150,7 @@ But because of that, I responded all the more firmly.
 
 “You don’t need to worry about that. I confirmed something that proves it wasn’t betrayal.”
 
-“…Really? Then why didn’t you tell me—?”
+“...Really? Then why didn’t you tell me—?”
 
 “It wasn’t a big deal. And after hearing her side, it wasn’t even meant to harm us.”
 
@@ -166,17 +166,17 @@ Of course, she looked curious about what exactly had happened, but I had no inte
 
 “Anyway, there’s no issue with Misha now. You don’t need to keep an eye on her—just treat her like a normal teammate.”
 
-“…Alright. I will.”
+“...Alright. I will.”
 
 Okay, topic closed.
 
 I then asked Versil to gather all of Squad 4. Once everyone was assembled, I informed them we’d be leaving the island today and told them to get ready.
 
-“Ah… so we’re starting exploration again?”
+“Ah... so we’re starting exploration again?”
 
-“Then I guess the monument research failed…” EducationalResources
+“Then I guess the monument research failed...” EducationalResources
 
-“Sigh… my family will be worried.”
+“Sigh... my family will be worried.”
 
 Some were disappointed that they couldn’t return home immediately, but the overall mood wasn’t too bad.
 
@@ -196,7 +196,7 @@ Anabada’s ship—infinitely smaller and precious to me was positioned at the v
 
 Sitting at the bow, I stared blankly at the warships ahead.
 
-‘How much more money do I need to earn to afford a ship like that…?’
+‘How much more money do I need to earn to afford a ship like that...?’
 
 Honestly, if I sold my Aegis’ Barrier and Milayel’s Spear, I could afford one.
 
@@ -218,7 +218,7 @@ Man, it’s kind of funny when she stares up at me like that.
 
 “What’s that look for?”
 
-“…Nothing.”
+“...Nothing.”
 
 I stretched and glanced around the deck, spotting other familiar faces:
 
@@ -230,7 +230,7 @@ Before leaving, I’d asked the village chief about the rearrangement, and he’
 
 “By the way, Raven, I have a question.”
 
-“…What is it?”
+“...What is it?”
 
 “What happened during the stone research in the village? You were part of that, right? What happened?”
 
@@ -240,11 +240,11 @@ Since we had time during the voyage, I asked about something I’d been curious 
 
 No idea what she’s talking about.
 
-Dimensional severance, spatial coordinates… There’s no way a modern man wearing barbarian skin could understand that.
+Dimensional severance, spatial coordinates... There’s no way a modern man wearing barbarian skin could understand that.
 
 As I I just sat there, letting the words go in one ear and out the other, Raven, sensing my confusion, changed the subject.
 
-“Hmmm, I guess I made that too difficult……. But, Mr Jandel, can I ask you a question?”
+“Hmmm, I guess I made that too difficult....... But, Mr Jandel, can I ask you a question?”
 
 “Go ahead.”
 
@@ -272,7 +272,7 @@ When I asked the village chief if he knew anything about this island, he replied
 
 I didn’t yet know what made it strange, but his words made it feel mysterious.
 
-“Hmm… I wonder what it’s like. I hope there’s a clue to uncovering this floor’s secrets…”
+“Hmm... I wonder what it’s like. I hope there’s a clue to uncovering this floor’s secrets...”
 
 Maybe it was because it was an unexplored island.
 
@@ -288,7 +288,7 @@ Then—
 
 After a week-long journey, I finally understood why the chief had called it a strange Island.
 
-“…That’s supposed to be an island?”
+“...That’s supposed to be an island?”
 
 No trees. No soil.
 
@@ -311,7 +311,7 @@ The village chief looked at me as if I were being ridiculous.
 
 “Why? Didn’t you say it yourself? That I need it more than you.”
 
-“That’s not what I meant…”
+“That’s not what I meant...”
 
 “Whatever. Just answer me. We don’t have time to waste.”
 
@@ -321,7 +321,7 @@ Perhaps sensing my resolve, the village chief readily answered.
 
 “That’s not a stone pillar—it’s a door.”
 
-“A door…?”
+“A door...?”
 
 “If you touch it, the door will open, allowing passage into an unknown space.”
 
@@ -333,7 +333,7 @@ The village chief paused before answering.
 
 Not the answer I’d hoped for.
 
-“…You don’t know?”
+“...You don’t know?”
 
 “That’s right. My previous body couldn’t even open it, let alone enter.”
 
@@ -341,7 +341,7 @@ Not the answer I’d hoped for.
 
 “I ran experiments. Unlike you, there were times when survivors happened to drift into this place. I used them. And before you ask, I couldn’t enter it myself—so I don’t know what’s inside.”
 
-“…”
+“...”
 
 “The one who went inside never returned alive.”
 
@@ -357,7 +357,7 @@ But I pushed aside the ominous feeling and focused on confirming the facts.
 
 In response, the village chief pulled out a black stone from his pocket.
 
-“Back then, I hadn’t gathered enough sacrifices to satisfy this stone. Truthfully, it’s only recently that I’ve collected the required amount. As you know… quite a few people arrived this time.”
+“Back then, I hadn’t gathered enough sacrifices to satisfy this stone. Truthfully, it’s only recently that I’ve collected the required amount. As you know... quite a few people arrived this time.”
 
 He was referring to the Silver Lion Clan members who had gone missing in the village and were later found dead in the basement.
 
@@ -365,7 +365,7 @@ His gaze, devoid of any regard for human life, felt particularly annoying today,
 
 “The explorer who went inside was as strong as you. But even he never returned. That’s all I can tell you. I’m not even sure how many people can enter.”
 
-“…….”
+“.......”
 
 “Even so, do you still intend to explore inside as planned?”
 
@@ -381,7 +381,7 @@ But the chief kept quiet, so I had no choice but to settle for what I’d gotten
 
 Next, I selected who would enter first, how many would go, and in what order, then relayed the plan to the village chief.
 
-“I’ll arrange the personnel as you suggested. But… are you sure about this?”
+“I’ll arrange the personnel as you suggested. But... are you sure about this?”
 
 “Sure about what?”
 

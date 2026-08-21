@@ -8,13 +8,13 @@ Contrary to my expectations that it would be the marquess or one of his close ai
 
 Or perhaps they were not so entirely unrelated after all.
 
-“Bjorn… Jandel…?”
+“Bjorn... Jandel...?”
 
 As soon as he entered the room and saw my face, the man muttered as if he’d just seen a ghost.
 
 But honestly, I was just as surprised.
 
-“…Glasses?”
+“...Glasses?”
 
 He was the guy who had tried to recruit me a few days ago, right before my duel with Demon Eye.
 
@@ -42,7 +42,7 @@ Living up to the Noarkans’ pragmatic reputation, he calmly accepted my direct 
 
 Considering that Thunder belonged to the marquis, it was a rather sly argument.
 
-Still… I could understand the logic. Firing Thunder required an enormous amount of sacrifice.
+Still... I could understand the logic. Firing Thunder required an enormous amount of sacrifice.
 
 The lord’s faction must have worked hard gathering those sacrifices too, so they couldn’t claim to have no stake in it.
 
@@ -84,25 +84,25 @@ Which meant he could no longer protect Ragna on his own.
 
 It felt a little unreal.
 
-‘So this is how it ends…?’
+‘So this is how it ends...?’
 
 All Auyen had done was knock the marquis unconscious for two days.
 
 Yet because of that one incident, the marquis’s grand plan collapsed before it had even properly begun.
 
-‘Well, if the relationship between the lord and the marquis had been stronger, things wouldn’t have ended like this just because he was knocked out…’
+‘Well, if the relationship between the lord and the marquis had been stronger, things wouldn’t have ended like this just because he was knocked out...’
 
 In this ruthless world, showing any weakness was the same as inviting others to tear you apart down to the bone. Unfortunately for the Marquis, he had shown vulnerability, and he had no choice but to sacrifice his flesh and blood.
 
 The chain of consequences was far too large to have started from the capture of a single navigator.
 
-“…Wh-why are you looking at me like that all of a sudden…?”
+“...Wh-why are you looking at me like that all of a sudden...?”
 
 “Just because I’m proud of you.”
 
 Auyen’s small act had given rise to a guiding star that would shine throughout this era.
 
-Anyway…
+Anyway...
 
 Leaving the marquis’s situation aside, one question still bothered me. I had not even started interrogating the man, so why was Glasses, the noark lord’s fixer, telling me everything so freely?
 
@@ -116,7 +116,7 @@ I let out a scoff of disbelief, but the man simply asked back calmly:
 
 “Is there any reason you wouldn’t?”
 
-“…Huh?”
+“...Huh?”
 
 “We know. Noark isn’t exactly your enemy, is it?”
 
@@ -124,7 +124,7 @@ That was quite a thing to say to a titled noble of Rafdonia and a man hailed as 
 
 My goal in this war was to keep as many of my allies alive as possible while getting through this mess. And this mess would only end once the Marquis was dealt with.
 
-Right, so…
+Right, so...
 
 “Tell me what you want. There must be a point where we can compromise.”
 
@@ -134,7 +134,7 @@ Before making a decision, I listened to the news from the outside first—starti
 
 “Lee Baek-ho? He maintained the front for a while after you disappeared, then retreated. We pursued them, but despite their numbers, they managed to give us the slip.”
 
-Hmm, so Lee Baek-ho disappeared…
+Hmm, so Lee Baek-ho disappeared...
 
 Still, it seemed that some kind of ceasefire had been reached. The walls separating each district had become the battle lines, and both sides simply held their ground without daring to make a move.
 
@@ -142,7 +142,7 @@ Still, it seemed that some kind of ceasefire had been reached. The walls separat
 
 “Oh? Even if I ask for the lord’s head?”
 
-“…”
+“...”
 
 “I’m joking. I’m not that unreasonable.”
 
@@ -154,7 +154,7 @@ I figured it was time to put the jokes aside and confirm one last thing.
 
 “Is that so? I understand your stance for now.”
 
-“……It’s not just my stance; the Lord will make the same judgment. You can trust me, as I have served him for a long time.”
+“......It’s not just my stance; the Lord will make the same judgment. You can trust me, as I have served him for a long time.”
 
 “We’ll see about that when the time comes.”
 
@@ -170,11 +170,11 @@ Amelia, who had heard everything with me, answered clearly.
 
 “What kind of person is the lord of Noark? Can he be trusted?”
 
-“Of course not. He’s a polite man, but that’s different from being trustworthy. Still… he’s not the type to make unnecessary enemies.”
+“Of course not. He’s a polite man, but that’s different from being trustworthy. Still... he’s not the type to make unnecessary enemies.”
 
 “Well, he did try to recruit me before. So, are you in favor?”
 
-“Personally… I think there’s a higher chance the deal will go through smoothly and we’ll part ways without issues.”
+“Personally... I think there’s a higher chance the deal will go through smoothly and we’ll part ways without issues.”
 
 Amelia’s judgment was the deciding factor.
 
@@ -182,11 +182,11 @@ Amelia’s judgment was the deciding factor.
 
 Ignoring Aynar’s nonsense, I restored the man’s sight and hearing.
 
-And then…
+And then...
 
 “I’ll speak with the Lord first. You have a means of communication, right?” I asked the man.
 
-“Of course. Right now… ah, it doesn’t work well in here. Let’s go outside first.”
+“Of course. Right now... ah, it doesn’t work well in here. Let’s go outside first.”
 
 “Fine.”
 
@@ -204,7 +204,7 @@ With that, we left the rubble of the building and immediately contacted the noar
 
 “No, what do you take me for? I’ll meet the Marquis myself.”
 
-[……You are being greedy.]
+[......You are being greedy.]
 
 What nonsense.
 
@@ -220,13 +220,13 @@ The lord fell silent for a moment before finally conceding.
 
 “Fine. But aren’t you going to see me in person?”
 
-[Haha! Well… I’m not foolish enough to meet someone that even Demon Eye could not stop. Oh, and make sure to bring all your allies with you.]
+[Haha! Well... I’m not foolish enough to meet someone that even Demon Eye could not stop. Oh, and make sure to bring all your allies with you.]
 
 Normally, one would tell the other party to come alone, so I found it odd, but I understood once he continued.
 
 [It’s a minimum precaution. Even for you, escaping safely while protecting all your allies would be impossible.]
 
-Sigh… now everyone knows my weakness.
+Sigh... now everyone knows my weakness.
 
 [I hope to hear good news when we speak again.]
 
@@ -240,7 +240,7 @@ Step. Step.
 
 As we climbed the stairs inside the building, Amelia whispered quietly to me.
 
-“Andel. The entire building… no, the whole area is covered with enemies.”
+“Andel. The entire building... no, the whole area is covered with enemies.”
 
 “How many?”
 
@@ -254,7 +254,7 @@ The lord really did prepare thoroughly in such a short time.
 
 Glasses looked back at us once before slowly opening the door.
 
-And then…
+And then...
 
 The middle-aged man lying on the bed sat up and widened his eyes when he saw me.
 
@@ -264,11 +264,11 @@ Chancellor of Raphdonia.
 
 The moment I saw him from a distance, I frowned.
 
-Something about him felt… wrong.
+Something about him felt... wrong.
 
 As if he were a different person.
 
-‘Was the marquis always this frail…?’
+‘Was the marquis always this frail...?’
 
 He didn’t seem thinner.
 
@@ -282,11 +282,11 @@ His eyes.
 
 The gaze that once felt like staring into a beast was nowhere to be seen.
 
-‘Well… he’s been stripped of all military authority and locked in a room. I suppose that’s natural.’
+‘Well... he’s been stripped of all military authority and locked in a room. I suppose that’s natural.’
 
 While I was watching from a distance, the marquis seemed to understand the situation and slowly nodded.
 
-“…So you came after all.”
+“...So you came after all.”
 
 His voice sounded like someone resigning himself to a fate he had long expected.
 
@@ -304,4 +304,4 @@ So that’s the kind of sound the marquis’s head makes.
 
 Ever since the Ice Rock expedition, I had been looking forward to this moment and imagining it every single day.
 
-‘…That was kind of anticlimactic.’
+‘...That was kind of anticlimactic.’

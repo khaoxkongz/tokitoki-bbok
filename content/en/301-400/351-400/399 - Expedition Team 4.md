@@ -12,7 +12,7 @@ While each member went to their assigned cabins to unpack, Amelia approached the
 
 “Excuse me.”
 
-“So… you must be Emily Raines, what can I do for you?”
+“So... you must be Emily Raines, what can I do for you?”
 
 “How long will it take to get to the Ice Rock?”
 
@@ -40,9 +40,9 @@ Hmm, thinking about it that way, it’s understandable that Kaislan arrived last
 
 “I’m afraid information about the warship is classified and cannot be shared.”
 
-“Of course… I understand.”
+“Of course... I understand.”
 
-“…However, since we’re on the same ship, I can’t really stop you from observing nearby.”
+“...However, since we’re on the same ship, I can’t really stop you from observing nearby.”
 
 “I promise not to interfere.”
 
@@ -110,7 +110,7 @@ Next up was the knight.
 
 Next in line was the knight, who swallowed nervously, probably because the previous two had received their assignments.
 
-He’s kind of cute, too, if you ask me……..
+He’s kind of cute, too, if you ask me........
 
 “You’re responsible for maintaining order within the expedition. If any disputes arise among the members, you must mediate immediately, and if any serious incidents occur, it’s your job to resolve them.”
 
@@ -126,7 +126,7 @@ With Kaislan assigned, Paladin Jun looked at me with a slight smile.
 
 Ever since that fight we had, he’s been oddly amiable.
 
-Sometimes, I wonder, ‘Could it be that guy…?’
+Sometimes, I wonder, ‘Could it be that guy...?’
 
 But without showing it, I spoke up.
 
@@ -142,7 +142,7 @@ Right, that’s true.
 
 Because the Three Churches is a religion for humans.
 
-But…
+But...
 
 “That’s more than enough.”
 
@@ -186,7 +186,7 @@ Crack! Crack! Crack! Crack!
 
 Even though it’s not classified as a special area like the ‘Frozen Sea,’ the ship plowed through floating ice chunks,smashing them as it went.
 
-“We’ve really arrived…”
+“We’ve really arrived...”
 
 The members gathered on the deck exhaled visible breaths as they looked at the approaching continent.
 
@@ -194,11 +194,11 @@ Whether wearing leather, plate, or cloth armor, everyone had thick fur coats ove
 
 These were also supplies we received from the royal family.
 
-“Hmm, I prefer heat over cold…”
+“Hmm, I prefer heat over cold...”
 
 I too prepared myself like the others.
 
-And then…
+And then...
 
 “Hold on tight! The ship is about to enter the portal!”
 
@@ -332,7 +332,7 @@ That creature, classified as colossal type and three of them at that.
 
 Boom—!
 
-Well, even for Ice Rock, this is…
+Well, even for Ice Rock, this is...
 
 What’s with Level 3 monsters crawling out like this from the very beginning?
 
@@ -350,7 +350,7 @@ Thinking that, I commanded the battle, but it didn’t take long for that expect
 
 Even after the first battle ended, there were no cheers; only a funeral-like silence enveloped the expedition.
 
-“……Report the damage.”
+“......Report the damage.”
 
 Suppressing my miserable feelings, I asked the team leaders, and they replied while cautiously watching my expression.
 
@@ -366,11 +366,11 @@ There were three Level 3 monsters appearing at once; it’s understandable.
 
 It’s a problem that can be resolved by getting treatment from the priest.
 
-But…
+But...
 
 “And?”
 
-“…One sled was half-destroyed, and the loaded supplies were lost.”
+“...One sled was half-destroyed, and the loaded supplies were lost.”
 
 This is the biggest problem.
 
@@ -378,7 +378,7 @@ The colossal monster managed to reach the area where the supplies were, and unfo
 
 “What was the proportion of food among the supplies loaded on the sled?”
 
-“…It was all food.”
+“...It was all food.”
 
 The moment the words I least wanted to hear came out of Akuraba’s mouth, a curse slipped out.
 

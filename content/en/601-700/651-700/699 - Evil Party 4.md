@@ -10,7 +10,7 @@ The only uncertainty left was whether it would work at all.
 
 But so what? All I could do was give it everything I had.
 
-“A-allies…?”
+“A-allies...?”
 
 But it seemed my suggestion caught them off guard, because they all just stood there staring at me with wide eyes. Out of all of them, Baek-ho’s reaction was the best.
 
@@ -22,7 +22,7 @@ Even if my allies’ lives were on the line, I should have proceeded calmly and 
 
 “Baron, what did you do with the old man?”
 
-“……Nothing much.”
+“......Nothing much.”
 
 “Oh, come on. Who would believe that? You expect me to buy that you had such a huge attitude shift over nothing?”
 “It just occurred to me that we’ve been traveling together for a while now, and it would be reassuring to enter the labyrinth with you.”
@@ -33,7 +33,7 @@ The labyrinth is the place where you need to watch your back more than anywhere 
 Even without me, they treated each other like they had daggers hidden behind their backs.
 If I joined them, that would turn into a full-blown circus.
 
-“Hmm… but if you travel with us, what about your clan, Baron?”
+“Hmm... but if you travel with us, what about your clan, Baron?”
 
 Lee Baek-ho asked, testing the waters. He clearly didn’t believe a word I said, but he was at least willing to hear me out.
 
@@ -41,18 +41,18 @@ Lee Baek-ho asked, testing the waters. He clearly didn’t believe a word I said
 
 I brushed it off, acting as if I hadn’t thought deeply about it.
 
-However…
+However...
 
 “Oh! The giant Baron Jandel wants to join us? We might have to seriously consider this!”
 
 Baek-ho recited the words in a flat tone, as if reading from a book.
 Anyone could tell he was being sarcastic, except for one person.
 
-“U-um… Baekho…? If the Baron joins the team, won’t… my spot become unstable…?”
+“U-um... Baekho...? If the Baron joins the team, won’t... my spot become unstable...?”
 
-Rex Aures, the tanker of Baek-ho’s team. He still had the explorer instinct to protect his position…but if only he had the instinct to read the room, he’d do much better.
+Rex Aures, the tanker of Baek-ho’s team. He still had the explorer instinct to protect his position...but if only he had the instinct to read the room, he’d do much better.
 
-“Aures… Please, just stay still for a moment…”
+“Aures... Please, just stay still for a moment...”
 
 “H-how am I supposed to stay quiet? My position is under threat—!”
 
@@ -60,7 +60,7 @@ Jayna tried to subtly rein him in, but when it didn’t work, Baek-ho let out an
 
 “No, it’s not like that! Just be quiet! Do you really want to get kicked out?”
 
-“……”
+“......”
 “Ah, this is really annoying.”
 
 Baek-ho finally snapped at Aures for not getting the situation. He sighed, then spoke in a tone nothing like the flat, mocking voice he’d used earlier.
@@ -75,7 +75,7 @@ When I gave him a look asking what it was, Lee Baek-ho stared straight at me and
 
 “Figuring things out.”
 
-“……?”
+“......?”
 
 “Figuring out whether I’m at an advantage or disadvantage. Whether the other side is stronger or if I’m stronger.”
 
@@ -85,7 +85,7 @@ Even before he had finished speaking, I felt a terrible sinking sensation in my 
 
 “You need to know that in order to do things properly.”
 
-“…Do what?”
+“...Do what?”
 
 “What do you mean, what? You already know.”
 
@@ -101,7 +101,7 @@ It was obvious he felt cornered; the situation was moving too quickly for him to
 
 Ah, but of course, being ‘human’, it didn’t take long for him to make a choice. A tanker and a mage going up against those four? It was practically hopeless.
 
-“I-I’m sorry…”
+“I-I’m sorry...”
 
 Even so, GM looked guilty. He muttered an apology and quickly went to stand beside Baek-ho. I didn’t feel betrayed or anything. We were never colleagues to begin with, after all.
 
@@ -111,7 +111,7 @@ Rather than ask what they were up to, I raised my shield and took my battle stan
 
 “I mean, come on. It’s so obvious you talked about something with that old man. And while I don’t care about the rest, I really need to hear what he told you.”
 
-“……”
+“......”
 
 “Even if I have to use an explorer’s methods.”
 
@@ -137,7 +137,7 @@ Lee Baek-ho muttered in mild surprise. From my perspective, however, there was n
 
 “Don’t tell me you think I can’t kill you?”
 
-Well, it’s not like I haven’t thought about that. Baek-ho wants me to open the Abyss Gate, so he absolutely cannot kill me. But…
+Well, it’s not like I haven’t thought about that. Baek-ho wants me to open the Abyss Gate, so he absolutely cannot kill me. But...
 
 “But so what? I may not be able to kill you, but I can come up with dozens of ways to ruin you.”
 
@@ -151,7 +151,7 @@ Ah. Um.
 
 Yeah, I wasn’t expecting that.
 
-“…….”
+“.......”
 
 Okay, maybe I should just tell him everything.
 
@@ -165,7 +165,7 @@ I let out a roar, steeling my weakening heart.
 
 “What the hell are you barking about?”
 
-Baek-ho is a wild dog. A wild dog that will pick the bones clean if the opponent seems weak. Yes, that’s why…
+Baek-ho is a wild dog. A wild dog that will pick the bones clean if the opponent seems weak. Yes, that’s why...
 
 So—
 
@@ -180,19 +180,19 @@ Baek-ho seemed to realise that if he carried on talking, he would just come acro
 The standoff continued in the heavy silence.
 And during that time, perhaps Lee Baek-ho finally finished organizing his thoughts.
 
-“I figured you were acting so bold because you had someone backing you… but whatever. We’ll find out soon enough.”
+“I figured you were acting so bold because you had someone backing you... but whatever. We’ll find out soon enough.”
 
-“……”
+“......”
 
 “Let’s start by taking off the Baron’s clothes.”
 
-“……?”
+“......?”
 
 “We can’t neuter you or do anything else unless we strip you first.”
 
 With those words, Baek-ho’s figure disappeared from before my eyes.
 
-“……!”
+“......!”
 
 He was so fast that my Agility couldn’t even keep up with him. However, my warrior instincts honed through countless battles kicked in, and I thrust my shield out toward him.
 
@@ -214,7 +214,7 @@ Before I could even let out a groan, my enlarged body fell forward.
 
 And before I could recover—
 
-“…Huh?”
+“...Huh?”
 
 By the time I realized what was happening, another blow crashed into my jaw, and my body was sent flying backward again.
 
@@ -224,7 +224,7 @@ I had no idea how he had hit me from that angle, but one thing was certain.
 
 This time the damage landed properly. It was enough to make me want to vomit everything inside.
 
-“Amazing, right? Hitting like this makes the perceived damage feel at least double. Ah, for your information, it’s an added effect that wasn’t in the game… Rah!”
+“Amazing, right? Hitting like this makes the perceived damage feel at least double. Ah, for your information, it’s an added effect that wasn’t in the game... Rah!”
 
 I tried to steady myself and swing the Demon Crusher, but Baek-ho evaded it with an annoyingly agile jump.
 
@@ -256,7 +256,7 @@ After realizing that, I quickly lifted my shield toward the sky and activated dr
 
 The Bellarios active skill that served as the Magic Resistance ability in the Invincible Barbarian’s final build.
 
-Right as I activated the skill…
+Right as I activated the skill...
 
 Flash!
 
@@ -266,7 +266,7 @@ Ssssss—!
 
 Steam hissed from between my scales, like my entire body had been tossed into a massive pot that had finished boiling.
 
-It burned, stung, and seared… but—
+It burned, stung, and seared... but—
 
 “Wow, he’s completely fine even after taking that.”
 
@@ -296,7 +296,7 @@ THUD—!
 
 Baek-ho paused mid-combo, tilting his head.
 
-“…What the? Your neck won’t even turn anymore?”
+“...What the? Your neck won’t even turn anymore?”
 
 Well, that was obvious.
 
@@ -304,7 +304,7 @@ Shield-Barbarians grew tougher the more they got hit.
 
 「Physical resistance increases proportionally to absorbed magic damage.」
 
-After all the spells I’d eaten so far…
+After all the spells I’d eaten so far...
 
 「Physical resistance exceeds 750.」
 
@@ -324,7 +324,7 @@ This was why I could stay confident despite being at a disadvantage in this one-
 
 Star Annihilation was not an option, and the strange ability he used in the Golden Ruins to capture Bright was also unusable with his allies standing nearby.
 
-Well, conversely, it means he can use it without hesitation if there are no allies around…
+Well, conversely, it means he can use it without hesitation if there are no allies around...
 
 “I will not have much to worry about if this is what you can do. Baron, are you really sure you want to go through with this? Hey! All of you, fall back!”
 

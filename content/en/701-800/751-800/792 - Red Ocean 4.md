@@ -4,7 +4,7 @@ Whenever someone is faced with a decision, their first instinct is to imagine po
 
 My imagination, for instance, was running wild.
 
-“Five days over the estimated arrival date…!”
+“Five days over the estimated arrival date...!”
 
 The mobility of Teams 1 and 2 isn’t so different that it would cause such a significant time difference.
 
@@ -24,7 +24,7 @@ This is exactly why I dealt with the leader of the Meiruta Clan so severely. I w
 
 That’s why I executed him as an example. It’s also why I told the vice-leader to spread the word about what happened as soon as they left the labyrinth.
 
-“B-Bjorn…?”
+“B-Bjorn...?”
 
 No, maybe I was thinking too narrowly.
 
@@ -34,7 +34,7 @@ What if it wasn’t just a chance encounter with plunderers? I had enemies—Bae
 
 Someone smacked me on the back, snapping me out of my thoughts.
 
-“…Misha?”
+“...Misha?”
 
 “Listen to me!” she snapped.
 
@@ -44,15 +44,15 @@ Ah, she had been talking to me this whole time.
 
 “Please! Stop thinking weird thoughts! They’ll be fine!”
 
-“…How can you be so sure?”
+“...How can you be so sure?”
 
-“Because I trust them.” Misha continued, “Emily, Erwin, Aynar, and the rest… Honestly, I’m a bit worried about Mr Roklov, but never mind! They are all people who can take care of themselves!”
+“Because I trust them.” Misha continued, “Emily, Erwin, Aynar, and the rest... Honestly, I’m a bit worried about Mr Roklov, but never mind! They are all people who can take care of themselves!”
 
-“No, well… it’s not that I don’t trust them—”
+“No, well... it’s not that I don’t trust them—”
 
 “Bjorn, I think you’re seriously misunderstanding something. We aren’t your children. We’re your allies.”
 
-“……I’ll go cool my head for a bit.”
+“......I’ll go cool my head for a bit.”
 
 “Yeah, yeah. Go ahead.”
 
@@ -68,7 +68,7 @@ I don’t know how much time had passed since I stepped away, but Misha called o
 
 “Tell the team to prepare to move.”
 
-“…Huh? Prepare to move?”
+“...Huh? Prepare to move?”
 
 She tilted her head in confusion, and I took the opportunity to explain the plan I had come up with after a brief but intense moment of thought.
 
@@ -86,17 +86,17 @@ My mind went blank for a moment. Seeing my expression, Misha quickly explained e
 
 For a brief moment, relief washed over me. Then another emotion, one I couldn’t quite name, rose up as I made my way toward the portal, toward where Team Two was.
 
-“…Huh? Hey! Where are you going while I’m still talking!”
+“...Huh? Hey! Where are you going while I’m still talking!”
 
 I hurried to the portal and found the members of Team Two gathered in front of it. Amelia was calmly explaining something to the others, while Ainar loudly bragged about what she had gained.
 
 Only then did I realize what that indescribable emotion was.
 
-It was… irritation.
+It was... irritation.
 
 Even I didn’t understand why.
 
-“…Oh? Jandel? You’re here. I heard you were quite worried about us being late.”
+“...Oh? Jandel? You’re here. I heard you were quite worried about us being late.”
 
 Amelia spoke with a slightly teasing tone.
 
@@ -106,9 +106,9 @@ Erwin chimed in as well.
 
 Despite their welcoming words, I kept my mouth shut. I felt that if I said even a single word, I would give away my feelings. Or had I already?
 
-“Emily… Why were you so late?”
+“Emily... Why were you so late?”
 
-“Ah… did Karlstein not tell you? A rift opened right in front of us on the fourth floor, so we talked it over and decided to go in.”
+“Ah... did Karlstein not tell you? A rift opened right in front of us on the fourth floor, so we talked it over and decided to go in.”
 
 Noticing my silence, Amelia added, “But didn’t we already agree on this? From the fourth floor onward, we’d enter any rift we could.”
 
@@ -116,11 +116,11 @@ She was right. We had agreed on that.
 
 That was why, even though Team Two was late, the others tried to reassure me by suggesting they had entered a rift. They had done exactly what I, as their captain, should have done.
 
-The problem was…
+The problem was...
 
-“Still… wasn’t it too late?”
+“Still... wasn’t it too late?”
 
-“…With your level, it shouldn’t take five days to clear a 4th floor rift.”
+“...With your level, it shouldn’t take five days to clear a 4th floor rift.”
 
 Amelia noticed the subtle tone in my voice and frowned.
 
@@ -128,13 +128,13 @@ Only then did I snap back to my senses.
 
 The problem was clearly with me.
 
-Or rather…
+Or rather...
 
 “We took our time because we moved as carefully as possible. Are you really blaming us for that?”
 
 A faint frown formed on Amelia’s face as she picked up on the emotions behind my question, and only then did my mind begin to clear.
 
-“Jandel… what on earth is making you so impatient?”
+“Jandel... what on earth is making you so impatient?”
 
 There was something wrong with my head.
 
@@ -142,7 +142,7 @@ There was something wrong with my head.
 
 Day 21 in the labyrinth, we ran into an incident upon reaching the sixth floor, but it was handled without issue, and we were finally able to board a ship and head out into the open sea. It was also where we parted ways with the Meiruta Clan.
 
-“We’re finally setting sail…”
+“We’re finally setting sail...”
 
 “It looks like the Royal Family is getting ready to leave too?”
 
@@ -182,7 +182,7 @@ My emotions were overtaking my reason, making me overly sensitive and aggressive
 
 It was the kind of thing that could happen to anyone, even ordinary people who seemed fine until something set them off.
 
-Am I just too stressed…?
+Am I just too stressed...?
 
 That might have been the simplest explanation, but I couldn’t just dismiss it like that.
 
@@ -194,7 +194,7 @@ But how do I fix something like this?
 
 “Jandel.”
 
-“Ah… Emily…”
+“Ah... Emily...”
 
 “It’s fine. It’s only natural.”
 
@@ -208,9 +208,9 @@ After some time passed—
 
 “So, what kind of Rift was it on the 4th floor?”
 
-“…It was the Doppelganger Forest.”
+“...It was the Doppelganger Forest.”
 
-“…I see. Shame it wasn’t the Golden Ruins.”
+“...I see. Shame it wasn’t the Golden Ruins.”
 
 “From what I heard, didn’t you tell Raven you were certain it was the Doppelganger Forest?”
 
@@ -224,13 +224,13 @@ Day 29 of the Labyrinth.
 
 Nine days after departing from the coast of Limia, we finally reached another island, our first after crossing the ocean. It marked the first destination of our expedition route.
 
-Naturally, since we were already five days behind schedule, I thought about skipping it, but…
+Naturally, since we were already five days behind schedule, I thought about skipping it, but...
 
 It would be a waste. It’s right on our path.
 
 Well, we just have to finish it as quickly as possible.
 
-“Ugh… I’d heard about it, but it’s way creepier than I imagined. The whole island is made of bones…”
+“Ugh... I’d heard about it, but it’s way creepier than I imagined. The whole island is made of bones...”
 
 “Ooooh!! It’s Skull Island! Skull Island!”
 
@@ -240,17 +240,17 @@ Skull Island, Catacoma.
 
 Although this was our first time visiting as a team, I had a rather peculiar connection to the island. When I first visited Ghost Busters, one of the pieces of information I sold for GP was about Skull Island, and I had even shared details about it at the Round Table.
 
-“Um… captain?”
+“Um... captain?”
 
 Just as I was about to disembark, Sven Parab approached me.
 
-“Do you happen to know? They say if you defeat the boss monster of skull Island and reach the 10th floor, you can experience something special…”
+“Do you happen to know? They say if you defeat the boss monster of skull Island and reach the 10th floor, you can experience something special...”
 
 Wow, talk about an obvious Round Table member. That was information I had shared.
 
 I pretended ignorance as I replied, “A special experience?”
 
-“Yes. I don’t know the details, but… according to a reliable source, such a thing exists. Of course, we won’t be going to the 10th floor this time, but I thought you should know…”
+“Yes. I don’t know the details, but... according to a reliable source, such a thing exists. Of course, we won’t be going to the 10th floor this time, but I thought you should know...”
 
 “Is that so? I’ll keep it in mind. Though, as you said, we won’t be heading to the 10th floor.”
 
@@ -258,11 +258,11 @@ After finishing the conversation and stepping onto the island, Beleg, who had go
 
 “We have company.”
 
-“Company…?”
+“Company...?”
 
 I had expected this to some extent. Right now, every floor of the labyrinth was like a gold mine. This sort of thing was likely happening all over the Great Sea, not just here. Where there is treasure, there are bound to be competitors.
 
-“I can’t say for certain… but at least one other clan is already on this island. Look over there at the entrance. They’ve planted their flag like they want everyone to see it.”
+“I can’t say for certain... but at least one other clan is already on this island. Look over there at the entrance. They’ve planted their flag like they want everyone to see it.”
 
 “I can tell their personality already.”
 
@@ -276,9 +276,9 @@ Still, before going in recklessly, I confirmed one thing:
 
 “It is. The clan is led by one of the Seven Powerful—the Golden Ghost.”
 
-I had my suspicions when I saw the emblem, and they proved correct. I was quite familiar with the Golden Tree Clan. For one, its leader was a member of the Seven Strong, the same group Erwin and Aynar belonged to…
+I had my suspicions when I saw the emblem, and they proved correct. I was quite familiar with the Golden Tree Clan. For one, its leader was a member of the Seven Strong, the same group Erwin and Aynar belonged to...
 
-“Huh? The Golden Tree? Then that clan must be…”
+“Huh? The Golden Tree? Then that clan must be...”
 
 When Misha glanced at me as if seeking confirmation, I nodded.
 

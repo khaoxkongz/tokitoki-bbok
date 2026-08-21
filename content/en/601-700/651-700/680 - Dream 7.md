@@ -12,7 +12,7 @@ A sharp ringing filled my ears as new information flooded my mind.
 
 Well, it wasn’t exactly new information.
 
-“Finally… I feel alive.” I gasped, slipping into Raphdonian.
+“Finally... I feel alive.” I gasped, slipping into Raphdonian.
 
 When the psychiatrist in the dream told me to try speaking in Raphdonian, I was utterly ashamed because I couldn’t say anything and just kept opening and closing my mouth like a fish.
 
@@ -30,7 +30,7 @@ I clenched and unclenched my fists, testing the condition of my body.
 
 Click, click.
 
-Just then, I heard the familiar sound of heels. I looked in that direction, and sure enough…
+Just then, I heard the familiar sound of heels. I looked in that direction, and sure enough...
 
 The girl I’d seen when I was first pulled into the dream world appeared like a ghost, walking straight toward me.
 
@@ -40,7 +40,7 @@ When I called her name, the Earth witch stopped walking and stared intently at m
 
 “I told you not to come back.”
 
-“……”
+“......”
 
 “Why did you return?”
 
@@ -56,7 +56,7 @@ But my answer didn’t seem to satisfy her. If anything, she looked angry as she
 
 “You know it wasn’t fake.”
 
-Hmm… perhaps.
+Hmm... perhaps.
 
 The longer I stayed there, the clearer it became that it wasn’t just an ordinary dream.
 
@@ -98,13 +98,13 @@ That’s life, isn’t it?
 
 It’s hard and painful, and it always makes you want to run away.’
 
-And Lee Han-soo… always ran away from reality.
+And Lee Han-soo... always ran away from reality.
 
 He lived his whole life not knowing that running away isn’t the answer.
 
 The life of a warrior taught me that.
 
-Yeah, so…
+Yeah, so...
 
 “No matter how much it hurts, I will move forward.”
 
@@ -128,15 +128,15 @@ She didn’t retreat.
 
 She simply stood still and spoke quietly.
 
-“So you’ve chosen… the life of Bjorn Jandel.”
+“So you’ve chosen... the life of Bjorn Jandel.”
 
 Step.
 
 The witch, who’d been staring up at me all this time, finally smiled—a tired, defeated smile.
 
-“So you, in the end… were no different from us.”
+“So you, in the end... were no different from us.”
 
-…Huh?
+...Huh?
 
 “Us? What are you suddenly talking about?”
 
@@ -166,7 +166,7 @@ Click—.
 
 And when even that faint sound of her heels vanished and the world filled completely with light—
 
-“Jan… dam…! Del… Baron…!”
+“Jan... dam...! Del... Baron...!”
 
 A man’s voice thundered through the air.
 
@@ -174,7 +174,7 @@ At first, it was distorted by static, but it soon became clear and sharp.
 
 “Hey! Baron Jandel, you bastard!”
 
-“Haa…”
+“Haa...”
 
 The ending had been a little unsettling, but—
 
@@ -182,7 +182,7 @@ The ending had been a little unsettling, but—
 
 “I’m awake. Stop shaking me.”
 
-“…Huh?”
+“...Huh?”
 
 At last, I’d returned.
 
@@ -226,9 +226,9 @@ The last thing I remember is being chased by Draizen and falling into the water.
 
 “Exactly how long?”
 
-“Uh… about thirty minutes?”
+“Uh... about thirty minutes?”
 
-Thirty minutes, huh…
+Thirty minutes, huh...
 
 I felt relieved, but also somewhat empty. After all, I’d spent what felt like half a year in there.
 
@@ -242,7 +242,7 @@ So, I took my time and listened to what had happened during that period.
 
 “Tell me everything that happened after I fell overboard. Don’t leave out a single detail.”
 
-Recognising the importance of sharing information, Baekho promptly delivered his report. In summary…
+Recognising the importance of sharing information, Baekho promptly delivered his report. In summary...
 
 “As soon as you fell, I jumped in after you.”
 
@@ -258,7 +258,7 @@ He said it was lucky the barbarian’s skeleton was heavy and that I’d been in
 
 “After that, we barely made it back onto the ship and ran for it.”
 
-“So easily…?”
+“So easily...?”
 
 It sounded too convenient.
 
@@ -270,13 +270,13 @@ And the fact that “we just escaped somehow” was even more suspicious.
 
 Baek-ho’s account of the Draizen’s behavior didn’t sit right with me. That creature just wasn’t supposed to be that docile.
 
-But, since he says so, I’ll let it pass for now…
+But, since he says so, I’ll let it pass for now...
 
 ‘But why were you so desperate to wake me up? It didn’t seem like there was any particular danger.’
 
 At this, Baek-ho’s face twisted into a strange expression.
 
-“You really don’t know? Oh… right, you don’t.”
+“You really don’t know? Oh... right, you don’t.”
 
 “What’s that supposed to mean?”
 
@@ -284,7 +284,7 @@ He cleared his throat awkwardly before continuing, pretending nothing was wrong.
 
 “Ahem! Well, of course I was desperate! Your heart stopped, you know!”
 
-“…What?”
+“...What?”
 
 “Seriously! I thought you were dead!”
 
@@ -294,13 +294,13 @@ He was drenched from head to toe and his gear was battered and broken in places.
 
 He’d nearly died diving after me, and then my heart had stopped. No wonder he’d freaked out.
 
-Still…
+Still...
 
 ‘So he really did all that to save me?’
 
 For a moment, I felt ashamed, remembering that I had considered pushing him overboard earlier.
 
-But then again…
+But then again...
 
 ‘He had a reason. It wasn’t out of kindness.’
 
@@ -336,7 +336,7 @@ After all, this guy once planned to kill me and resurrect me using the ‘Stone 
 
 If I died today, he could use the ‘Stone of Resurrection’ I possessed to resurrect me. Then, he could manipulate me, with my memories erased, as he pleased.
 
-But…
+But...
 
 ‘He probably wasn’t sure.’
 
@@ -350,7 +350,7 @@ Well, since he’s a smart guy, he probably judged that the probability of me ha
 
 And if I mention this, he will know that I have the Stone of Resurrection. That could cause problems later.
 
-‘Yeah… this really makes it feel like I’m back.’
+‘Yeah... this really makes it feel like I’m back.’
 
 I laughed quietly at the thought, and Baek-ho suddenly spoke up.
 
@@ -358,7 +358,7 @@ I laughed quietly at the thought, and Baek-ho suddenly spoke up.
 
 “Go ahead.”
 
-“You were smiling while you were out cold…”
+“You were smiling while you were out cold...”
 
 “And?”
 
@@ -366,7 +366,7 @@ I laughed quietly at the thought, and Baek-ho suddenly spoke up.
 
 I paused.
 
-‘What kind of dream, huh…’
+‘What kind of dream, huh...’
 
 Even if I told him the truth, he’d think I was crazy.
 
@@ -378,9 +378,9 @@ If I mentioned witches, parallel worlds, and all that, he’d say it was just ha
 
 But the funnier part was—I wasn’t even sure myself.
 
-Whether what I’d seen was really a dream… or another reality altogether.
+Whether what I’d seen was really a dream... or another reality altogether.
 
-Whether that witch was real… or just a phantom.
+Whether that witch was real... or just a phantom.
 
 Badump—
 
@@ -390,7 +390,7 @@ In fact, ever since I woke up, the memories from there have been gradually fadin
 
 It’s just like when you wake from a dream and only remember a few striking scenes.
 
-illusion full of, you know, decadent pleasures or something…”
+illusion full of, you know, decadent pleasures or something...”
 
 “It wasn’t anything like that. Stop talking nonsense.”
 

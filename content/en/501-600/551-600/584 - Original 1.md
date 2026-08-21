@@ -72,7 +72,7 @@ In other words, two people can enter.
 
 Conversely, this means that floors 1 through 4 are strictly solo—you must clear them alone.
 
-Regardless, the last point…
+Regardless, the last point...
 
 5. Even if you stack buffs before entering the portal, they’re all removed upon entry.
 
@@ -93,7 +93,7 @@ Thanks to that, we were able to bring in hundreds of elite personnel.
 
 And since each of them is skilled, we could select the explorer with the best compatibility and send them in.
 
-‘Well… let’s give it a try.’
+‘Well... let’s give it a try.’
 
 It was time to start clearing this place.
 
@@ -119,7 +119,7 @@ Still, it wasn’t a complete waste.
 
 After a few kills, I was certain: Guardian bonuses apply here as well.
 
-But…
+But...
 
 “Too bad.”
 
@@ -128,7 +128,7 @@ You can’t enter a rift you’ve already cleared again.
 Even if someone else opens the portal for you, you just go through the portal and come out the other side.
 Standardized& Admissions Tests
 
-‘If it weren’t for that, I could’ve farmed EXP infinitely…’
+‘If it weren’t for that, I could’ve farmed EXP infinitely...’
 
 It was disappointing, but I decided to look on the bright side. Setting aside the ones I couldn’t defeat, how much experience would I earn from those I could?
 
@@ -142,9 +142,9 @@ Apparently, other explorers had the same idea.
 
 Just as we were about to move on to the second-floor Guardians, someone approached me.
 
-“Um… May I try challenging too?”
+“Um... May I try challenging too?”
 
-“Your name…?”
+“Your name...?”
 
 “Miles Humbreak, Baron.”
 
@@ -152,7 +152,7 @@ Ah, right.
 
 He wasn’t a knight but a recruited explorer, so I remembered him.
 
-Now that I think about it, there were quite a few explorers like him in the expedition force…
+Now that I think about it, there were quite a few explorers like him in the expedition force...
 
 “I haven’t earned Guardian achievements for any of the first-floor rifts, except for the Crimson Fortress. If you would permit it—”
 
@@ -162,7 +162,7 @@ Now that I think about it, there were quite a few explorers like him in the expe
 
 So the village chief was going to play the role of a puppet leader here too.
 
-“Hmm…”
+“Hmm...”
 
 What should I do?
 
@@ -172,7 +172,7 @@ As I hesitated, he spoke earnestly.
 
 “I understand your concern, Baron. Of course you’d be wary of someone insisting to enter an already-cleared rift.”
 
-“…”
+“...”
 
 “But don’t worry. Even if it’s a Guardian, I’m not weak enough to lose to a mere Rank 7 monster.”
 
@@ -184,7 +184,7 @@ I smirked at the serious-looking explorer.
 
 “No need to be so tense. Just go to the mages and study everything they know about the Guardian before entering. That’s my condition.”
 
-“…Huh? Ah, understood! Thank you! Truly, thank you!”
+“...Huh? Ah, understood! Thank you! Truly, thank you!”
 
 The adventurer seemed to have expected something else, as he thanked me profusely .
 
@@ -192,17 +192,17 @@ I didn’t understand it back then.
 
 Why judges always emphasized precedents in trials.
 
-“Um… Baron?”
+“Um... Baron?”
 
-“Would it be alright if I also attempted a challenge…?”
+“Would it be alright if I also attempted a challenge...?”
 
 Following his lead, others who had been watching cautiously also approached me.
 
-‘Hah… I already allowed the first guy, so I can’t just refuse these ones…’
+‘Hah... I already allowed the first guy, so I can’t just refuse these ones...’
 
 Answering each one individually was too tedious, so I eventually delegated the task to Raven.
 
-“Whether you can attempt a challenge or not, go ask… that one over there, Alluva Raven. If Raven permits it, so will I.”
+“Whether you can attempt a challenge or not, go ask... that one over there, Alluva Raven. If Raven permits it, so will I.”
 
 “Huh? Why am I suddenly involved?”
 
@@ -216,7 +216,7 @@ I quickly cut him off with a firm tone.
 
 “It’s not laziness.”
 
-“…?”
+“...?”
 
 “I trust you.”
 
@@ -226,11 +226,11 @@ There were plenty of other mages I could’ve assigned, but none were as meticul
 
 Plus, she was weak to compliments.
 
-“Haah…”
+“Haah...”
 
 Raven sighed but nodded reluctantly.
 
-“…I’ll only send those who are absolutely certain to return alive. Is that acceptable?”
+“...I’ll only send those who are absolutely certain to return alive. Is that acceptable?”
 
 Good, just as I expected.
 
@@ -244,13 +244,13 @@ Amelia called me.
 
 Was she going to ask if she could help Raven filter people as well? The timing made it seem likely.
 
-But…
+But...
 
-“Could I… try the challenge as well?”
+“Could I... try the challenge as well?”
 
 Her unusually hesitant tone completely defied my expectations.
 
-“…What?”
+“...What?”
 
 “Ahem.”
 
@@ -260,7 +260,7 @@ As I stared at her, Amelia awkwardly cleared her throat and calmly explained her
 
 It wasn’t something I could dismiss.
 
-“Hmm… She does have a point.”
+“Hmm... She does have a point.”
 
 I didn’t deliberate for long.
 
@@ -286,31 +286,31 @@ Eight 2nd-floor Guardians.
 
 One “Doom Knight of the White Temple” of the 3rd floor.
 
-“Two of the 4th floor…”
+“Two of the 4th floor...”
 
 So, including the unique rift on the fifth floor, that brought the total to twelve.
 
-Then…
+Then...
 
 ‘Including Cambormier, there are 14 unconfirmed Guardians.’
 
 Adding the four guardians from the first floor brought the total to forty-one.
 
-‘Since I’ve already defeated four…’
+‘Since I’ve already defeated four...’
 
 That left thirty-seven Guardians to defeat.
 
-‘…Let’s start with the easier ones.’
+‘...Let’s start with the easier ones.’
 
 There’s no time limit here, right?
 
-It’s not like I have to defeat them all within a few days or anything…
+It’s not like I have to defeat them all within a few days or anything...
 
 [Guardian Slayer Bonus. EXP +3]
 [Guardian Slayer Bonus. EXP +3]
 [Guardian Slayer Bonus. EXP +3]
 [Guardian Slayer Bonus. EXP +3]
-[Guardian Slayer Bonus…]
+[Guardian Slayer Bonus...]
 
 When I returned outside after defeating all eight Guardians of the second floor, the surroundings were quite chaotic.
 
@@ -324,7 +324,7 @@ Come to think of it, they’d been doing that earlier too.
 
 “What are you writing?”
 
-“…W-Well, just recording the time it took for the Baron to defeat the Guardians and return.”
+“...W-Well, just recording the time it took for the Baron to defeat the Guardians and return.”
 
 For some reason, that answer sparked a sudden sense of irritation.
 
@@ -334,21 +334,21 @@ Like I was a racehorse at a betting track.
 
 I glared as I asked, and the mage frantically waved his hands.
 
-“N-No, of course not! Absolutely not! It’s just… out of curiosity… We’ve been recording everyone’s times, not just yours.”
+“N-No, of course not! Absolutely not! It’s just... out of curiosity... We’ve been recording everyone’s times, not just yours.”
 
 Hmm, if that’s the case, getting angry would be unfair.
 
-“It’s… important data, you see…”
+“It’s... important data, you see...”
 
 A mage who doesn’t keep a journal is not a mage.
 
 In a world where such things are said, and knowing how fond mages are of recording everything, I didn’t press him further and carried on.
 
-‘Misha and Erwin are still raiding… Amelia must be in the middle of her lecture.’
+‘Misha and Erwin are still raiding... Amelia must be in the middle of her lecture.’
 
 As I sat down to rest and organize my thoughts, a portal opened and the explorer who had challenged the Ice Cave returned.
 
-And then…
+And then...
 
 “How long did it take?”
 
@@ -384,7 +384,7 @@ After receiving a whispered response from the mage, the explorer walked off towa
 
 “3 minutes and 27 seconds, apparently.”
 
-“…If you were going to tell me anyway, why ask?”
+“...If you were going to tell me anyway, why ask?”
 
 It was a bit ridiculous, but I didn’t feel any particular shame over the record.
 
@@ -402,17 +402,17 @@ It’s just pathetic—
 
 “For reference, my record was 47 seconds.”
 
-“…Huh?”
+“...Huh?”
 
-“…And I’m also ranked first.”
+“...And I’m also ranked first.”
 
-“Ah…”
+“Ah...”
 
-Am I just deluded, or…?
+Am I just deluded, or...?
 
 With that extra context, it didn’t seem pathetic—it was actually kind of cute.
 
-“…Are you leaving already?”
+“...Are you leaving already?”
 
 “I’ve rested enough.”
 
@@ -428,7 +428,7 @@ The reason was simple.
 
 “It’s about time I checked out the unidentified ones.”
 
-“I see…”
+“I see...”
 
 Amelia simply nodded, saying nothing more.
 
@@ -464,7 +464,7 @@ Thud-thud-thud!
 
 I sprinted down the hallway toward the boss chamber visible straight ahead.
 
-It couldn’t be helped—I was only human. And while I didn’t want to dwell on the records…
+It couldn’t be helped—I was only human. And while I didn’t want to dwell on the records...
 
 But I also didn’t want to become someone else’s joke or consolation prize. So, unless something unexpected happened, I planned to defeat the Guardian as quickly as possible this time and get out.
 
@@ -474,8 +474,8 @@ Boom!
 
 The sound of the door bursting open forced me to abandon my plan as the vampire rose to its feet.
 
-“How curious… truly curious…”
+“How curious... truly curious...”
 
 The vampire looked at me with sleepy eyes and spoke.
 
-“…Have we met before?”
+“...Have we met before?”

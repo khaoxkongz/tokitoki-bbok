@@ -1,4 +1,4 @@
-Giant Step(3)
+Giant Step (5)
 
 The morning after I fell asleep drunk.
 
@@ -8,13 +8,13 @@ Gulp, gulp. Strangely enough, it tasted sweet.
 
 Almost as if someone had mixed honey into it.
 
-“…Ugh, but at least drinking it helps me feel alive.”
+“...Ugh, but at least drinking it helps me feel alive.”
 
 After tossing and turning in bed for a bit, I slowly got up. The first thing I saw was a neatly folded letter on the nightstand.
 
-[I had to visit the sanctuary, so I left first. Don’t worry too much, though. I think the withdrawal issue will work out surprisingly well. Oh, and… if you have any trouble, be sure to tell me! Okay?]
+[I had to visit the sanctuary, so I left first. Don’t worry too much, though. I think the withdrawal issue will work out surprisingly well. Oh, and... if you have any trouble, be sure to tell me! Okay?]
 
-[PS. …I heard that you kept the first seat slot vacant on purpose. Thank you, really.]
+[PS. ...I heard that you kept the first member slot vacant on purpose. Thank you, really.]
 
 [PS2. Oh, and it was today, right? Take care and have a safe trip!]
 
@@ -26,11 +26,11 @@ If only she had come back earlier yesterday, we could’ve talked a bit.
 
 Ugh, why did I drink so much?
 
-“……”
+“......”
 
 I sat there for a moment, trying to sober up and recall the events after I parted ways with Mr. Bear. I remembered coming home and being greeted by Erwin and Amelia.
 
-‘And then they helped me up to the second floor…’
+‘And then they helped me up to the second floor...’
 
 Perhaps it was the fatigue mixed with alcohol, but I couldn’t remember the conversation we had.
 
@@ -44,7 +44,7 @@ I would have remembered if that were the case.
 
 “Get up and wash. You’re heading to the royal capital today, aren’t you?”
 
-“…Alright.”
+“...Alright.”
 
 “I’m heading out as well, so make sure you handle everything yourself today.”
 
@@ -54,7 +54,7 @@ After hearing Amelia descend the stairs, I slowly made my way to the bathroom to
 
 Given today’s quest, I had to pay special attention to my outfit.
 
-“…Tsk, I knew it.”
+“...Tsk, I knew it.”
 
 After I showered and came out to put on my suit, Amelia snuck up on me without a sound and started helping me get dressed.
 
@@ -62,9 +62,9 @@ It felt a bit surreal.
 
 “How are you so good at this?”
 
-“…Who do you think picked out those clothes you’re wearing?”
+“...Who do you think picked out those clothes you’re wearing?”
 
-“Oh… You were the one who bought them.”
+“Oh... You were the one who bought them.”
 
 It seemed she had learned everything, from sourcing to dressing. Amelia always had a knack for delicate tasks.
 
@@ -72,7 +72,7 @@ It seemed she had learned everything, from sourcing to dressing. Amelia always h
 
 “Right, I should get going. I’ll see you tonight.”
 
-“…Take care.”
+“...Take care.”
 
 After receiving Amelia’s farewell, I left the house and boarded the waiting carriage. I made my way to the military transport hub, then they used the teleportation magic circle to instantly arrive in the royal capital.
 
@@ -86,7 +86,7 @@ Years of frequent visits to the Hall of Glory.
 
 A small ceremony was being held here today, and my quest for the day was tied directly to that ceremony.
 
-“Mia Arbelto, Head Butler. I warmly welcome Baron Jandel to the palace.”
+“I am Mia Arbelto, head butler. I warmly welcome Baron Jandel to the palace.”
 
 Following an attendant into the building, a grand hall revealed itself.
 
@@ -100,7 +100,7 @@ That’s about it.
 
 Even when everyone’s here, probably just the front seats will be occupied.
 
-“…This way, please.”
+“...This way, please.”
 
 I was then led past the Hall of Glory to a room where the head butler briefed me on the ceremony’s proceedings.
 
@@ -112,11 +112,11 @@ The door opened, revealing an elderly man I’d never met.
 
 Though I didn’t recognize him, the attendant who’d been instructing me apparently did; he stopped what he was doing and gawked in surprise.
 
-“…Your Grace the Duke. If I may ask, what brings you here…?”
+“...Your Grace the Duke. If I may ask, what brings you here...?”
 
 “I came by to have a brief chat with our guest of honor. If you’re not too busy, would you mind stepping out for a moment?”
 
-“…Of course. I will wait outside.”
+“...Of course. I will wait outside.”
 
 The attendant bowed politely, as if addressing a superior, and left the room. Only then did my official meeting with the old man begin.
 
@@ -134,7 +134,7 @@ And then—
 
 What the hell’s with this geezer?
 
-“…?”
+“...?”
 
 I scowled, and the old man let out a hearty laugh.
 
@@ -146,11 +146,11 @@ So I held back and listened carefully to what else he had to say.
 
 “Though your casual way of speaking has been formally permitted by the king, you still need to get your identity straight.”
 
-“……”
+“......”
 
 “Keep in mind that you’re no longer ‘someone’s son, Bjorn.’ Nor are you merely some barbarian from anywhere. You are Lord Bjorn Jandel of Raphdonia.”
 
-“……”
+“......”
 
 “Ah, I suppose I should say Baron Jandel now, yes? And look, your attire is out of place here.”
 
@@ -160,17 +160,17 @@ It stung a bit.
 
 Damn, shrinking down in height means even this geezer can reach my shoulder.
 
-“I appreciate the advice. But it doesn’t seem like you came just to say hello, does it…?”
+“I appreciate the advice. But it doesn’t seem like you came just to say hello, does it...?”
 
 As annoyed as I was, I couldn’t very well knock out a Duke of the kingdom. So I nudged him toward the main topic.
 
 Perhaps my directness felt strange to him?
 
-“…What? Hah-hah-hah-hah!”
+“...What? Hah-hah-hah-hah!”
 
-“……”
+“......”
 
-“Ahem… Don’t get me wrong. It’s not that I’m looking down on you; I’m just not used to such straightforwardness. It’s rather intriguing.”
+“Ahem... Don’t get me wrong. It’s not that I’m looking down on you; I’m just not used to such straightforwardness. It’s rather intriguing.”
 
 I understand.
 
@@ -178,7 +178,7 @@ Nobles always love their introductions, don’t they?
 
 It’s not often that they get straight to the point after formalities.
 
-“Anyway… To answer your question, you’re right. If it were just for greetings, any other time would have worked. I came to ask you a few things.”
+“Anyway... To answer your question, you’re right. If it were just for greetings, any other time would have worked. I came to ask you a few things.”
 
 Oh, here we go again.
 
@@ -188,9 +188,9 @@ Like this.
 
 “What’s the question?”
 
-“…”
+“...”
 
-“…Are you having trouble hearing me?”
+“...Are you having trouble hearing me?”
 
 I asked again, cautiously. After a pause where he seemed lost, the duke regained his focus.
 
@@ -206,25 +206,25 @@ Apparently he’d already picked up on how best to deal with me.
 
 That wasn’t exactly brief, but it was indeed the main question.
 
-[…The royal family has offered to grant Bjorn Jandel a noble title for his contributions in this expedition.]
+[...The royal family has offered to grant Bjorn Jandel a noble title for his contributions in this expedition.]
 
 Deer Horns had shared this piece of intelligence, but the promotion in rank wasn’t the only reward the royal family had proposed.
 
 They’d also offered a huge sum of money—enough to build a large estate from scratch.
 
-Two Level 3 essences
+Two Level 3 essences.
 
-And double numbered items.
+And two numbered items.
 
 In total, the Ministry of Veterans Affairs had laid out four choices. After much deliberation, I picked the promotion in rank.
 
 The reason is simple.
 
-While I could get the first three options with my own strength…
+While I could get the first three options with my own strength...
 
 This one would be more beneficial.
 
-For my immediate survival that is.
+For my immediate survival, that is.
 
 “Let’s hear the truth. Why did you want the promotion?”
 
@@ -236,7 +236,7 @@ Seeing how he was practically urging me to answer, I let out a short laugh and r
 
 I made a point of sounding enthusiastic, but the Duke simply froze, as though he’d just heard something he absolutely shouldn’t have.
 
-“Wives… you say?”
+“Wives... you say?”
 
 Does he really have hearing issues?
 
@@ -254,15 +254,15 @@ Buuurp—
 
 “Oh, sorry. I ate too much breakfast.”
 
-Judging by how elegantly he was raised, he must have thought it rude that I burped in front of him. I hastily apologised, but the Duke didn’t seem to mind.
+Judging by how elegantly he was raised, he must have thought it rude that I burped in front of him. I hastily apologized, but the Duke didn’t seem to mind.
 
 He simply mumbled, as though he had realized something:
 
-“Indeed… I heard you have many women.”
+“Indeed... I heard you have many women.”
 
 Specifically, female companions.
 
-Because we shared the same place, the city was rife with scandalous rumors and gossip.
+Since we lived under the same roof, the city was rife with scandalous rumors and gossip.
 
 Anyway.
 
@@ -286,29 +286,29 @@ But given its importance, I verified first.
 
 “Yes. Haven’t you spent a significant time working with him, especially during the period you were reported missing?”
 
-“…That’s true.”
+“...That’s true.”
 
 It was a somewhat meaningful question.
 
-Bjorn Jandel, supposedly dead, had in fact been working under the Marquis’ command for two and a half years on various special missions.
+Bjorn Jandel, supposedly dead, had in fact been working under the Marquis’s command for two and a half years on various special missions.
 
 The evil spirit announcement was part of that mission.
 
 At least, that’s what it’s known to the outside world.
 
-But…….
+But...
 
-“Even the Duke doesn’t know the real truth, huh…?”
+“Even the Duke doesn’t know the real truth, huh...?”
 
 A certain unease crept over me.
 
-“I’ve gone over all the documents pertaining to your missions. You’ve done plenty of work. Your reports are thorough. At first, I suspected some sort of collusion, but it seems all those missions were legit after all…”
+“I’ve gone over all the documents pertaining to your missions. You’ve done plenty of work. Your reports are thorough. At first, I suspected some sort of collusion, but it seems all those missions were legit after all...”
 
 So the Marquis even had the official reports ready?
 
 And apparently he had done it with such perfection that he even convinced the Duke?
 
-“…Back at the victory parade, they said they needed two more months to finish all the documents, so I just had to wait…”
+“...Back at the victory parade, they said they needed two more months to finish all the documents, so I just had to wait...”
 
 Could a country’s Chancellor really pull off such a thing?
 
@@ -316,17 +316,17 @@ New doubts arose, but I focused on the conversation with the duke.
 
 “I’m not someone who takes orders from the Marquis.”
 
-“…Then could I ask exactly what sort of relationship you have with him?”
+“...Then could I ask exactly what sort of relationship you have with him?”
 
 “We’re kind of like friends. If either of us is in trouble, we help each other out.”
 
 Judging by his subtle sigh of relief, that must have been the answer he was hoping for.
 
-“Friends, you say… An interesting choice of words. You’re more clever than I expected—quite perceptive, too.”
+“Friends, you say... An interesting choice of words. You’re more clever than I expected—quite perceptive, too.”
 
 Muttering to himself, the duke asked another question.
 
-“So, your answer means… I can consider us friends as well?”
+“So, your answer means... I can consider us friends as well?”
 
 As if there was no chance of refusal, he extended his hand. I brushed my palm against my thigh and grasped his.
 
@@ -336,7 +336,7 @@ Though in reality, actual friends usually don’t go for things like handshakes.
 
 ---
 
-Duke Keallunus.
+Duke Keallunas.
 
 In the hierarchy of power within the royal court, he’s roughly the third most influential figure after the marquis. Unlike the marquis, he doesn’t hold a high-ranking government position with real authority, but his family is so powerful that it hardly matters.
 
@@ -344,7 +344,7 @@ He sponsors dozens of clans, including several medium-to-large ones.
 
 One of his children is even the master of a Mage Tower.
 
-“So… becoming friends with a Duke, huh?”
+“So... becoming friends with a Duke, huh?”
 
 It was certainly unexpected, but there was no downside.
 
@@ -358,17 +358,15 @@ At least until it’s no longer necessary.
 
 “Sure.”
 
-He made small talk with me until just before the ceremony began and then left. Most of our conversation was just friendly chit-chat, but one topic stood out:
+He made small talk with me until just before the ceremony began and then left. Most of our conversation was just friendly chit-chat, but one topic stood out: his suggestion that the expedition had survived only because the Rose Knights—stationed on another mission—happened to clash with Noark’s forces.
 
-That perhaps the expedition’s survival was only possible because the Rose Knights—stationed on another mission—happened to clash with Noark’s forces?
-
-“I can’t tell if he was fishing for info or not…”
+“I can’t tell if he was fishing for info or not...”
 
 I don’t know the Duke’s true intentions, but one thing is clear:
 
 The royal family’s intelligence bureau is interpreting the incident in a way that suits me.
 
-“As for that sly bastard, the Marquis… I wonder what he’ll do…”
+“As for that sly bastard, the Marquis... I wonder what he’ll do...”
 
 That’s really what I’m most curious about.
 
@@ -390,13 +388,11 @@ Hmm, just the first two rows or so.
 
 Thud, thud.
 
-Unlike the previous triumph ceremony.
+Unlike the previous triumph ceremony, not all the seats in the palace were filled. There was no grand music, nor were there knights following behind us.
 
-Not all seats in the palace were filled, there was no grand music, nor were there knights following.
+The scale was incomparable to before.
 
-It was incomparable in scale to before.
-
-But…
+But...
 
 Thud, thud.
 
@@ -412,13 +408,13 @@ After all, everyone here was a titled noble.
 
 “You haven’t been a noble for long, have you?”
 
-“It hasn’t been that long, but… yes, promotions like this are rare.”
+“It hasn’t been that long, but... yes, promotions like this are rare.”
 
 Nobles murmured as I walked on the carpet.
 
 Some seemed to enjoy this rare event of a ‘promotion ceremony,’ but others felt the opposite.
 
-“…A barbarian, of all people.”
+“...A barbarian, of all people.”
 
 Those who looked down on me.
 
@@ -426,7 +422,7 @@ Those who looked down on me.
 
 Those who envied me.
 
-And then…
+And then...
 
 “I do hope this wraps up quickly.”
 
@@ -448,7 +444,7 @@ The Marquis greeted me in a voice so low that only I could hear him, and then he
 
 This ritual was only performed when a Junior Baron was elevated to Baron. After all, there was a world of difference between the two titles.
 
-It was an historic moment – one more noble house added to the thousands that had long supported the royal family.
+It was a historic moment—one more noble house added to the thousands that had long supported the royal family.
 
 Rustle.
 
@@ -474,7 +470,7 @@ I stood up.
 
 I received a quiet applause, free of cheers or whistles.
 
-And then…
+And then...
 
 “With that, we conclude the promotion ceremony!”
 

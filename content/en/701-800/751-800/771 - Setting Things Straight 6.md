@@ -30,7 +30,7 @@ The fifth through second basement floors of a building that could easily be call
 
 On the bright side, however, the debris helped reduce the damage we took from Thunder.
 
-But seriously, how heavy is this thing…?’
+But seriously, how heavy is this thing...?’
 
 Even after using Gigantification and chaining various skills to maximise my strength, it wasn’t easy.
 
@@ -42,41 +42,41 @@ On the bright side, the debris helped reduce the damage we took from Thunder.
 
 Still, I couldn’t just sit still.
 
-I attempted to lift the debris and was able to remove a few smaller fragments from the heap. And because of that…
+I attempted to lift the debris and was able to remove a few smaller fragments from the heap. And because of that...
 
-‘…I should’ve just stayed still.’
+‘...I should’ve just stayed still.’
 
 The debris collapsed further, leading to my current situation.
 
 If I so much as relaxed or shifted even a little, everything would come crashing down, and there’d be no coming back from that.
 
-“…Bjorn! Are you alright? Y-your complexion looks terrible… I’ll help too!!”
+“...Bjorn! Are you alright? Y-your complexion looks terrible... I’ll help too!!”
 
 I tried to appear strong in front of my allies, but honestly, I felt like I was dying.
 
-It was so heavy that I worried my spine might snap again. More than anything, I just wanted to rest, even if only for a moment….
+It was so heavy that I worried my spine might snap again. More than anything, I just wanted to rest, even if only for a moment....
 
 “Aynar, come scratch here. It’s itching.”
 
 Since I couldn’t use my arms, I had to rely on my allies for even something as simple as scratching an itch.
 
-“No, higher… a bit more…”
+“No, higher... a bit more...”
 
-“Ugh… the armpit? No! It’s going to smell!”
+“Ugh... the armpit? No! It’s going to smell!”
 
-Why, you little…!
+Why, you little...!
 
 “If you can’t, then I guess I’ll have to?” I said dryly. Aynar quickly backtracked, noticing my mood.
 
-“…Forget it. I’ll do it. Move aside, Aynar Pheneline.”
+“...Forget it. I’ll do it. Move aside, Aynar Pheneline.”
 
-Sigh… I wish she wouldn’t make that kind of expression.
+Sigh... I wish she wouldn’t make that kind of expression.
 
 Also, I had asked Aynar to scratch me, so why was Amelia the one doing it instead?
 
-…Well, it did feel good.
+...Well, it did feel good.
 
-‘Sigh… how did I end up like this…?’
+‘Sigh... how did I end up like this...?’
 
 Looking back, the biggest problem was my carelessness.
 
@@ -92,19 +92,19 @@ After all, I had never once felt lacking in strength. Even if a building collaps
 
 “Harin Savy, do you have any ideas?”
 
-“No, not really………………..”
+“No, not really....................”
 
 While I held up the debris, my allies continued to brainstorm solutions, though the effort ultimately proved unnecessary.
 
 It wasn’t that they failed to find an answer; rather, the answer came to us suddenly from an unexpected outside source.
 
-“Wait. Everyone, be quiet.” I said, cutting off their discussion. As I focused my hearing—no, all my senses—I picked up on something faint. At first, I thought it might be hallucination from being pushed to my limits, but…
+“Wait. Everyone, be quiet.” I said, cutting off their discussion. As I focused my hearing—no, all my senses—I picked up on something faint. At first, I thought it might be hallucination from being pushed to my limits, but...
 
-“…No. I am sure of it. It’s getting lighter.”
+“...No. I am sure of it. It’s getting lighter.”
 
 Small tremors shook the rubble above me, and each time they did, the weight I was holding seemed to grow lighter.
 
-“Wow! Is it a rescue team…?”
+“Wow! Is it a rescue team...?”
 
 “It could be the opposite. District 4 is occupied by Noark.”
 
@@ -122,7 +122,7 @@ If what was written on the Records Stone was to come true, there were still two 
 
 I couldn’t help but worry that someone here might die while trying to get out of this situation.
 
-“…This should be enough. I can lift it now.”
+“...This should be enough. I can lift it now.”
 
 I waited for the right moment to push upward, and when it came, I shoved the debris with all my strength.
 
@@ -140,9 +140,9 @@ I scrambled up to the surface, and my allies followed, taking up their battle po
 
 The soldiers who had been clearing the debris shouted at me favorably.
 
-“Baron Jandel! It’s Baron Jandel…!”
+“Baron Jandel! It’s Baron Jandel...!”
 
-…The Royal Army?
+...The Royal Army?
 
 ***
 
@@ -200,7 +200,7 @@ We headed toward the palace in our new carriage. As I gazed out the window at th
 
 No, more like dazed.
 
-‘Is it really… over? Just like this?’
+‘Is it really... over? Just like this?’
 
 It didn’t feel real.
 
@@ -208,7 +208,7 @@ We had been trapped under rubble, escaped, and I had even prepared myself for a 
 
 And yet it ended like this, without anything happening?
 
-‘…Don’t let your guard down. It’s not over until it’s truly over.’
+‘...Don’t let your guard down. It’s not over until it’s truly over.’
 
 With that in mind, I resumed gathering information after a brief pause.
 
@@ -218,7 +218,7 @@ He barely spoke at all.
 
 “Which unit are you from?”
 
-“…I serve His Majesty.”
+“...I serve His Majesty.”
 
 Ah, a member of the Royal Guard.
 
@@ -228,7 +228,7 @@ No wonder he was so quiet. He had no need to curry favor with me. I tried asking
 
 The carriage continued and entered the Royal Palace.
 
-And finally…
+And finally...
 
 “Please step out.”
 
@@ -240,7 +240,7 @@ Since I had expected it, I simply signaled to Amelia with my eyes that it was fi
 
 And after walking for a while—
 
-“…It’s been a while, Bjorn Jandel.”
+“...It’s been a while, Bjorn Jandel.”
 
 After a short while, I opened the door and entered the room, where Astarota welcomed me. As he had mentioned, it had indeed been a long time since we’d seen each other.
 
@@ -264,7 +264,7 @@ Tsk, so that’s how the count goes. I tried pushing my luck just in case.
 
 Astarotta smirked and changed the subject.
 
-“So… what exactly happened there?”
+“So... what exactly happened there?”
 
 “So there are things even you don’t know?”
 
@@ -278,7 +278,7 @@ The Marquis did the same at the start of this war.
 
 I summarized the key points in response to Astarotta’s request.
 
-Rescuing Aynar, forming an alliance with the Marquis’s traitorous son, fighting Demon Eye, discovering the Marquis’s secret garden, encountering Glasses…
+Rescuing Aynar, forming an alliance with the Marquis’s traitorous son, fighting Demon Eye, discovering the Marquis’s secret garden, encountering Glasses...
 
 And ultimately deceiving him to reach the Marquis.
 
@@ -296,7 +296,7 @@ It was already too late to hide Ragna; she had been exposed during our escape.
 
 “That’s it. You already know what happened afterward, don’t you?”
 
-“Hm… I see.”
+“Hm... I see.”
 
 Astarotta stroked his chin, organizing his thoughts, before speaking again.
 
@@ -312,7 +312,7 @@ The moment I got permission, my heart tightened.
 
 Before killing the marquis, I was hit directly by Thunder, and my allies were scattered throughout the city. A few landed in safe zones under palace control, but more than a few ended up in dangerous areas, like Ainar, who fell into the center of District 4.
 
-“…Have you confirmed the status of everyone who was caught in the teleport with me?” I asked cautiously.
+“...Have you confirmed the status of everyone who was caught in the teleport with me?” I asked cautiously.
 
 Astarotta nodded calmly.
 
@@ -320,7 +320,7 @@ Astarotta nodded calmly.
 
 At those words, an indescribable emotion welled up inside me.
 
-Alright, so we know what happened to everyone…
+Alright, so we know what happened to everyone...
 
 So far, the only death I had confirmed around me was Rotmiller.
 
@@ -328,7 +328,7 @@ And because of that, I didn’t want to hear what he was about to say next.
 
 But ignoring it wouldn’t change reality.
 
-“…Hoo.”
+“...Hoo.”
 
 I took a deep breath, then asked him:
 

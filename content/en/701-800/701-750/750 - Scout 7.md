@@ -20,7 +20,7 @@ They were always the winners.
 
 They survived and came back to share their stories.
 
-Right, so…
+Right, so...
 
 “Alright, alright, just collapse already and rest!”
 
@@ -28,7 +28,7 @@ No one would be sharing his story.
 
 And because of that.
 
-“…Aaaaaagh!”
+“...Aaaaaagh!”
 
 He could be as hideous as he wanted.
 
@@ -38,7 +38,7 @@ He spat blood-mixed phlegm into an enemy’s eye. He staggered on his exhausted 
 
 “Hey! Over there!”
 
-“…Huh? Aagh!”
+“...Huh? Aagh!”
 
 He used a childish feint and drove his sword into the enemy’s neck.
 
@@ -60,7 +60,7 @@ Badump!
 
 Even if what he felt wasn’t courage but fear—
 
-“Ha… I really don’t want to die like this…”
+“Ha... I really don’t want to die like this...”
 
 He could voice that fear aloud without worrying about anyone watching.
 
@@ -110,9 +110,9 @@ But—
 
 There was nothing left to hold him back.
 
-Therefore…
+Therefore...
 
-“Argh! This… this bastard…!”
+“Argh! This... this bastard...!”
 
 He could use techniques that were banned.
 
@@ -160,15 +160,15 @@ Thud!
 
 Parav was struck on the head by a club he couldn’t block and collapsed to the ground. Helpless on the floor, he was hit again.
 
-“Tena…cious bastard…!”
+“Tena...cious bastard...!”
 
 The moment he got hit, his head went numb.
 
-“Make… sure… he’s dead…!”
+“Make... sure... he’s dead...!”
 
 The words reached him in fragments.
 
-“…It’s over.”
+“...It’s over.”
 
 The moment he thought this was the end.
 
@@ -176,7 +176,7 @@ Through the legs of the enemies surrounding him and the burning flames, he saw t
 
 He suddenly grew curious.
 
-‘I…’
+‘I...’
 
 Where would my soul go?
 
@@ -194,7 +194,7 @@ Thump.
 
 His dying heart trembled.
 
-[…I will grant you power.]
+[...I will grant you power.]
 
 What was this now?
 
@@ -204,7 +204,7 @@ This was distinctly different from the sensation of time flowing slowly during e
 
 The blazing flames no longer flickered, the ash hanging in the air was suspended in place, and even the nameless thugs pounding at his head stood frozen.
 
-[…I will grant you the power to slaughter those who tormented you, survive, and accomplish whatever you desire.]
+[...I will grant you the power to slaughter those who tormented you, survive, and accomplish whatever you desire.]
 
 He felt it instinctively.
 
@@ -252,7 +252,7 @@ He now knew who the owner of that voice was.
 
 The ancient evil god did not deny it.
 
-[…Take my hand.]
+[...Take my hand.]
 
 Another deep rumble resonated in his mind, and Parav responded silently in his heart.
 
@@ -260,7 +260,7 @@ Another deep rumble resonated in his mind, and Parav responded silently in his h
 
 Because it was the shortest refusal of all, it expressed his will most clearly.
 
-[…The only way for you to live is to become my servant.]
+[...The only way for you to live is to become my servant.]
 
 Hmm. Yes.
 
@@ -284,7 +284,7 @@ Just as ordinary people’s intuition was built upon accumulated experience and 
 
 Listen carefully to your enemies and do the exact opposite. That alone would carry you far. That was what his clan leader once told him over drinks.
 
-And…
+And...
 
 “An ancient evil god that has never brought good fortune to anyone who follows it versus the hero of this city, who is performing mythical feats even now and cares for his allies more than anyone else.”
 
@@ -332,7 +332,7 @@ It was the very same voice he had once heard in a dream.
 
 「The character permanently gains the ‘Perfection’ bonus.」
 
-Uh…
+Uh...
 
 He wasn’t sure, but it felt like he had become incredibly strong—
 
@@ -348,7 +348,7 @@ And then—
 
 “W-what?!”
 
-“How…?!”
+“How...?!”
 
 “What was that light just now—?!”
 
@@ -356,17 +356,17 @@ The Noarkans gaped as the man they thought was dead stood up without a scratch.
 
 Sven Parav smiled leisurely.
 
-‘…As expected, it pays to live righteously.’
+‘...As expected, it pays to live righteously.’
 
 Holy knights and priests received divine spells from their god once they accumulated enough “merit.” Because of that, some people could wield these spells like mages, while others never encountered a situation where they could use them at all.
 
 But that wasn’t important right now.
 
-‘A new divine spell…’
+‘A new divine spell...’
 
 Holy knights and priests could naturally perceive when they were granted a new spell. The same went for the name of that authority.
 
-‘…Agent of the Star, huh.’
+‘...Agent of the Star, huh.’
 
 What kind of spell was it?
 
@@ -376,13 +376,13 @@ Since the Goddess gave it to him along with her “voice,” it certainly wasn�
 
 And so Sven Parav could smile even while facing countless enemies.
 
-“Heh heh heh…”
+“Heh heh heh...”
 
-“…?”
+“...?”
 
 Most of the enemies looked at him as if he had finally gone mad. A few of the sharper ones grew wary at the sudden change.
 
-‘Smarter than the others, heh…’
+‘Smarter than the others, heh...’
 
 He smirked.
 
@@ -392,9 +392,9 @@ Then Sven Parav cast the divine spell.
 
 Since it was his first time using it, he even recited the command aloud.
 
-“May the twilight star guide us…”
+“May the twilight star guide us...”
 
-“……”
+“......”
 
 “[Agent of the Stars].”
 
@@ -406,7 +406,7 @@ The brilliance was dazzling and sacred beyond measure. The Noark troops recoiled
 
 And then—
 
-“…Huh?”
+“...Huh?”
 
 That was it.
 
@@ -416,7 +416,7 @@ The intense light quickly faded, and the enemies remained exactly as they were.
 
 He didn’t feel any particularly noticeable increase in strength either.
 
-So then…
+So then...
 
 What on earth had just happened?
 
@@ -426,32 +426,32 @@ What on earth had just happened?
 
 Sven Parav had no way of knowing why. But there was one thing he did know
 
-‘…I’m screwed.’
+‘...I’m screwed.’
 
-Ah, but the silver lining was that the enemies seemed just as confused…
+Ah, but the silver lining was that the enemies seemed just as confused...
 
-“…?”
-“…?”
+“...?”
+“...?”
 
 Drip.
 
 Even as a few beads of sweat rolled down unnoticed, Sven forced himself to stay sharp. He awkwardly smiled and extended his sword forward.
 
-“Heh heh heh… Listen well, you wicked fools.”
+“Heh heh heh... Listen well, you wicked fools.”
 
-“…?”
+“...?”
 
 “I shall grant you mercy and spare you this once. So, uh—be quick and begone!”
 
 He spoke in the most dignified voice he could muster, but the enemies looked confused rather than frightened.
 
-‘…Was it because I stammered at the end?’
+‘...Was it because I stammered at the end?’
 
 He regretted the slip-up, but it was too late; the enemies had already sniffed out the truth.
 
-“…Looks like something didn’t work.”
+“...Looks like something didn’t work.”
 
-“Ha… Seriously, you scared me. Thought something big was coming.”
+“Ha... Seriously, you scared me. Thought something big was coming.”
 
 “Don’t know how he healed, but he’s still just one guy.”
 
@@ -459,7 +459,7 @@ He regretted the slip-up, but it was too late; the enemies had already sniffed o
 
 After making swift and accurate judgments, they charged at him all at once.
 
-‘…Now what?’
+‘...Now what?’
 
 Could he run away if he tried?
 
@@ -467,7 +467,7 @@ But realistically, it didn’t look promising.
 
 The first-floor exit was swarming with enemies, and to reach the second-floor windows, he would have to break through all of them.
 
-‘You’ve got to be kidding me…’
+‘You’ve got to be kidding me...’
 
 He had just been chosen by a goddess, and now he was going to die like this? If that was the case, she should have just let him die heroically earlier!
 
@@ -477,7 +477,7 @@ BOOM—!
 
 An explosion erupted. The goddess statue shattered into pieces, revealing an underground passage beneath it.
 
-And then……
+And then......
 
 [ROOOOAAARRR—!!]
 
@@ -485,19 +485,19 @@ Something massive burst up from below. It roared as it flew through the air and 
 
 THUD—!
 
-Uh…
+Uh...
 
-What was this…?
+What was this...?
 
 It seemed to be helping him, at least.—!!]
 
-“A bear beastman… riding a giant bear…?”
+“A bear beastman... riding a giant bear...?”
 
 As his mind went blank trying to process it, the bear beastman riding the larger bear perked up its ears and spoke.
 
 “My wife owes you a debt, I hear. I’ve come to repay it.”
 
-“…Ah.”
+“...Ah.”
 
 “Don’t refuse. Even if it weren’t for my wife, a comrade of Jandel’s could be called my comrade as well.”
 
@@ -507,7 +507,7 @@ But one thing was certain.
 
 “Come. Quickly. I’ll open the way.”
 
-…I’m saved.
+...I’m saved.
 
 ***
 
@@ -529,9 +529,9 @@ But one thing was certain.
 
 [Abman Urikfrit has cast <Lord of the Jungle>.]
 
-[Iron Bear’s stats greatly increase…]
+[Iron Bear’s stats greatly increase...]
 
-[…]
+[...]
 
 ***
 He didn’t speak to himself. Most self-talk tended to carry gloomy thoughts, and saying such things changed nothing in reality. If anything, it only made a person darker and more depressed.
@@ -544,15 +544,15 @@ At least, not until now.
 
 It had been a long time since he’d muttered to himself like this. Before him lay a man clinging to life, coughing up litres blood.
 
-“I wish you would get up now… but realistically, the chances are low. Even knowing that, I still think these selfish thoughts. I… I believed I was allowed to have more stories. But it seems that’s no longer true. Fate really is fickle, isn’t it? Hah… I don’t know why, but whenever I’m with you, I feel like a terrible person.”
+“I wish you would get up now... but realistically, the chances are low. Even knowing that, I still think these selfish thoughts. I... I believed I was allowed to have more stories. But it seems that’s no longer true. Fate really is fickle, isn’t it? Hah... I don’t know why, but whenever I’m with you, I feel like a terrible person.”
 
-“I…”
+“I...”
 
 He apologized to the man lying there.
 
 “I’m sorry. I know you would never have agonized over something like this, yet even now I haven’t been able to make up my mind.”
 
-“But…”
+“But...”
 
 The man slowly closed and opened his eyes.
 
@@ -568,10 +568,10 @@ Even so, he spoke.
 
 It felt like if he didn’t, he would grow weak again. He believed his resolve wouldn’t waver until the very end, and that had to be true for him to stand by his convictions.
 
-“It feels nostalgic, carving out another path for you… though I suppose that’s only natural. I am your scout, after all.”
+“It feels nostalgic, carving out another path for you... though I suppose that’s only natural. I am your scout, after all.”
 
 Even though he knew which path was right, he couldn’t choose any other.
 
-“The stars of twilight shall guide us……”
+“The stars of twilight shall guide us......”
 
 With that, Brown Rottmiller made his final decision.

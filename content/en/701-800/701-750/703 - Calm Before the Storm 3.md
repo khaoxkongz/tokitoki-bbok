@@ -6,7 +6,7 @@ A stifling atmosphere.
 
 Expressions so hard they weren’t just dark; they were downright frightening.
 
-Step…
+Step...
 
 All of this made the four walking through the forest resemble worn-out survivors who had just escaped a battlefield.
 
@@ -22,11 +22,11 @@ However, that silence lasted only a moment.
 
 The large man, who had been stealing glances and looking unsure of what to do, opened his mouth as if deciding he should say something.
 
-“Uh… Baekho……?”
+“Uh... Baekho......?”
 
-“…….”
+“.......”
 
-“It might be a meaningless question now… but why didn’t you go all the way……?”
+“It might be a meaningless question now... but why didn’t you go all the way......?”
 
 “‘Why didn’t I go all the way?’”
 
@@ -44,19 +44,19 @@ Considering this difference, Lee Baek-ho should have had the advantage in the ea
 
 He got his answer from Jayna, who spoke up in place of the still-silent Baek-ho.
 
-“…You probably didn’t see it.”
+“...You probably didn’t see it.”
 
 “Didn’t see what?”
 
 “His eyes.”
 
-“His… eyes?”
+“His... eyes?”
 
 Jayna continued, explaining, “You wouldn’t be questioning this if you’d seen his eyes.”
 
 “What on earth does that mean? What about his eyes? Did he use some kind of special ability?”
 
-“No, not at all… You could see it the moment you looked at them. Baron Jandel is someone who won’t break. Even less so when he’s being threatened.”
+“No, not at all... You could see it the moment you looked at them. Baron Jandel is someone who won’t break. Even less so when he’s being threatened.”
 
 Aures still didn’t seem to understand, so the Ruin Scholar added his own comment from the side.
 
@@ -68,9 +68,9 @@ The Ruin Scholar raised his hand and a small flame appeared above his palm.
 
 “People usually don’t touch fire, since they know how hot it burns. But what about someone who’s seeing fire for the first time?”
 
-“Well… I’m not sure, but if it were me, I might touch it out of curiosity.”
+“Well... I’m not sure, but if it were me, I might touch it out of curiosity.”
 
-“That’s what ignorance is. Some fear things because they don’t understand them… while others gain courage because they don’t understand.”
+“That’s what ignorance is. Some fear things because they don’t understand them... while others gain courage because they don’t understand.”
 
 “And what exactly are you trying to say?”
 
@@ -84,7 +84,7 @@ However, the Ruin Scholar didn’t seem offended at being interrupted. Instead, 
 
 “It was written in Peprok’s book.”
 
-“……”
+“......”
 
 “Seeing it today, I think I understand why the barbarians call Baron Jandel a great warrior.”
 
@@ -96,15 +96,15 @@ However, the Ruin Scholar didn’t seem offended at being interrupted. Instead, 
 
 “I’m just warning you to be careful from now on. You no longer have the ‘leash’ you thought you had over that man.”
 
-“I know, I know… So stop talking. It’s irritating.”
+“I know, I know... So stop talking. It’s irritating.”
 
 Baek-ho seemed to have calmed down enough to return to his usual tone. He sighed exaggeratedly and grumbled.
 
-“Damn… this is a real problem. If threatening his comrades doesn’t work anymore, what am I supposed to use to control him?”
+“Damn... this is a real problem. If threatening his comrades doesn’t work anymore, what am I supposed to use to control him?”
 
 His anger had subsided enough for him to voice his thoughts. He then fell silent, thinking hard, while the other three looked at him and resumed their own conversation.
 
-“He was… unbelievably strong.” Aures began
+“He was... unbelievably strong.” Aures began
 
 “The Baron?”
 
@@ -118,7 +118,7 @@ His anger had subsided enough for him to voice his thoughts. He then fell silent
 
 Aures started folding his fingers one by one, as though trying to think of people who fit the description.
 
-One, two, three, four, five, six…
+One, two, three, four, five, six...
 
 He lowered them slowly, but by the time he finished, he hadn’t put down many fingers at all.
 
@@ -134,7 +134,7 @@ Was it even possible for him to grow stronger than he already was?
 
 The Ruin Scholar shifted his gaze.
 
-“Those who have nothing to lose merely become ruthless, but…” he said, his eyes on Baekho’s back, who seemed too lost in thought to notice their conversation. “But those who have many things to protect are the ones who truly grow stronger.”
+“Those who have nothing to lose merely become ruthless, but...” he said, his eyes on Baekho’s back, who seemed too lost in thought to notice their conversation. “But those who have many things to protect are the ones who truly grow stronger.”
 
 It was a truth he’d learned over a long life.
 ***
@@ -167,7 +167,7 @@ Amelia must have noticed me shifting under the blanket. When I sat up to look fo
 
 “It’s been two days since you fell asleep”
 
-“…What?”
+“...What?”
 
 So I slept on the bare ground for two days?
 
@@ -202,17 +202,17 @@ I had nothing to say.
 
 I didn’t expect things to go this way, but because of me, they had suffered.
 
-“Bjorn Jandel… I entrusted my life to you.”
+“Bjorn Jandel... I entrusted my life to you.”
 
-“….”
+“....”
 
 “Do not make me regret that choice.”
 
-“…I won’t. This kind of thing will never happen again.”
+“...I won’t. This kind of thing will never happen again.”
 
 I pulled the most pitiful face I could manage. At that Amelia pressed her fingers to her forehead and let out a long sigh.
 
-“…That’s enough scolding.” Returning to her usual voice, Amelia looked at me and spoke, “You probably have plenty of questions too, so I’ll start by explaining what happened on our side.”
+“...That’s enough scolding.” Returning to her usual voice, Amelia looked at me and spoke, “You probably have plenty of questions too, so I’ll start by explaining what happened on our side.”
 
 She then gave a concise summary of what had happened in the city after I disappeared.
 
@@ -234,7 +234,7 @@ After all, I also gained a lot from exploring outside the walls, and in the end,
 
 From the rest of her account, it turned out that nothing significant had occurred. My absence created some trouble, but my business operations in the city were running fine.
 
-“My disappearance hasn’t been revealed yet…?”
+“My disappearance hasn’t been revealed yet...?”
 
 This part surprised me.
 
@@ -246,17 +246,17 @@ This part surprised me.
 
 “I told everyone that you acquired a new essence and were dedicating all your time to researching it.”
 
-“Still… I suppose anyone who realized I was missing would already know that much.”
+“Still... I suppose anyone who realized I was missing would already know that much.”
 
 “That’s probably true. It’s that kind of city. Even if they accept our excuse on the surface, they’ll still be suspicious. And this isn’t the first time we’ve disappeared like this.”
 
-“…Ah! Right! How did you get out? Is the magic circle fixed?” I asked, thinking I could finally return home, but Amelia shook her head and began explaining how she managed to leave.
+“...Ah! Right! How did you get out? Is the magic circle fixed?” I asked, thinking I could finally return home, but Amelia shook her head and began explaining how she managed to leave.
 
 Only the return circle was destroyed. Leaving the city is still possible.
 
 My heart grew even warmer.
 
-“…Why are you looking at me like that?”
+“...Why are you looking at me like that?”
 
 Because I was grateful.
 
@@ -266,7 +266,7 @@ Unlike me, they had no way to return, yet they still ventured outside the wall i
 
 Seeing me smile silently, Amelia awkwardly changed the subject.
 
-“Oh, me? Well… where do I even start—”
+“Oh, me? Well... where do I even start—”
 
 “As I said, I heard a general outline from the Mage Engineer earlier. What I want to know is something else.”
 
@@ -278,19 +278,19 @@ Ah, that.
 
 “I heard you met Auril Gavis. And that you came out late in the end.”
 
-That alone should’ve answered everything, but…
+That alone should’ve answered everything, but...
 
 “What happened? Why hide it from Baek-ho even at the cost of fighting him in such a disadvantageous situation?”
 
 Seeing Amelia’s serious expression, I let out a small laugh.
 
-“There seems to be a misunderstanding… The reason I hid it from Lee Baek-ho was different.”
+“There seems to be a misunderstanding... The reason I hid it from Lee Baek-ho was different.”
 
-To be honest, there was no reason to keep it a secret from Lee Baek-ho. In fact, if he had politely asked while offering compensation first, I might have told him. But…
+To be honest, there was no reason to keep it a secret from Lee Baek-ho. In fact, if he had politely asked while offering compensation first, I might have told him. But...
 
 “Since he came at me trying to start a fight, I decided there was no way I could back down.”
 
-“…I see.”
+“...I see.”
 
 Having grown up in a world ruled by survival of the fittest, Amelia understood my meaning without needing a long explanation. Even so, that alone didn’t satisfy her curiosity.
 

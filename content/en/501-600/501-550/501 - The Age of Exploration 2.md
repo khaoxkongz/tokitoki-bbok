@@ -4,7 +4,7 @@ Plan B.
 
 An ominous premonition filled my mind the moment I heard those words.
 
-But regardless…
+But regardless...
 
 “So? Are all your questions answered now?”
 
@@ -18,7 +18,7 @@ I preferred someone who was honest about their intentions, even if they were mal
 
 “No way. I need a trump card.”
 
-Right…
+Right...
 
 It was a little disappointing, but I understood.
 
@@ -32,7 +32,7 @@ I answered without hesitation.
 
 “A collaborator, I guess.”
 
-“…Collaborator?”
+“...Collaborator?”
 
 “Yes, collaborator.”
 
@@ -50,7 +50,7 @@ He sounded unusually cautious, and I chuckled and shrugged.
 
 “Then we’ll part ways. It’s not a big deal. I’d rather avoid that, but like you said, you never know what might happen.”
 
-“…You’re very… casual about this.”
+“...You’re very... casual about this.”
 
 “That’s why you can do whatever you want with your Plan B. I’ll be doing the same.”
 
@@ -58,13 +58,13 @@ Preparing for the worst-case scenario was a natural instinct.
 
 And I believed that someone who didn’t do that was a terrible collaborator.
 
-“Collaborator… I like it. Let’s do that.”
+“Collaborator... I like it. Let’s do that.”
 
 He extended his hand.
 
 It was a little embarrassing, but I shook his hand.
 
-“…Hyung, I just got goosebumps.”
+“...Hyung, I just got goosebumps.”
 
 “Don’t mention it. Me too.”
 
@@ -74,7 +74,7 @@ We both chuckled after the brief handshake and sat back on the sofa.
 
 “Right?”
 
-It felt strangely… good.
+It felt strangely... good.
 
 ---
 
@@ -90,13 +90,13 @@ The main topic was the ‘hidden area’, of course.
 
 “Oh, really?”
 
-“Ah, you didn’t know? You really don’t know much about this game besides the stuff you can learn from playing it…”
+“Ah, you didn’t know? You really don’t know much about this game besides the stuff you can learn from playing it...”
 
 Well, it couldn’t be helped.
 
 I had practically lived in the library for a while, but that was just common knowledge.
 
-“…It’s almost time. I should be going now.”
+“...It’s almost time. I should be going now.”
 
 We chatted for a while, and then it was time for Lee Baekho to log out.
 
@@ -104,7 +104,7 @@ We chatted for a while, and then it was time for Lee Baekho to log out.
 
 “I’d like that, but I can’t for now. I’m going outside for a while.”
 
-“…Outside? You mean outside the walls?”
+“...Outside? You mean outside the walls?”
 
 “Yes. I finally figured out how to get out. I’ve been searching the city’s underground tunnels for ages.”
 
@@ -128,13 +128,13 @@ So, back to the main topic.
 
 “I think Auril Gabis is out there.”
 
-“……?”
+“......?”
 
 “So I’m going to look for him. He’ll have the answers to most of my questions.”
 
 Right, I should have asked him about Auril Gabis too. He would be more honest now that we were on better terms.
 
-‘Well… I can ask him next time…’
+‘Well... I can ask him next time...’
 
 “I’ll be going now, hyung. See you next month!”
 
@@ -150,17 +150,17 @@ Hyunbyul returned after a while.
 
 “You think I would just sit here and wait?”
 
-Oh… she hadn’t?
+Oh... she hadn’t?
 
 I had assumed she had been waiting outside the chat room because she always came back immediately after leaving.
 
-“Anyway… you look happy.”
+“Anyway... you look happy.”
 
 “Huh?”
 
 “You look like you’ve solved a problem.”
 
-“Ah… really?”
+“Ah... really?”
 
 She was surprisingly perceptive.
 
@@ -168,11 +168,11 @@ I didn’t deny or confirm it, and she chuckled and lay down on the sofa.
 
 I didn’t know where to look.
 
-“Hyunbyul…? You’re wearing a skirt…”
+“Hyunbyul...? You’re wearing a skirt...”
 
 “So? I’m wearing stockings.”
 
-“Uh…”
+“Uh...”
 
 R-Right?
 
@@ -184,11 +184,11 @@ I felt strangely convinced, and she chuckled.
 
 She pulled out a book and started reading.
 
-“…What’s that? Where did you get it?”
+“...What’s that? Where did you get it?”
 
 “Don’t you know? It’s all the rage these days.”
 
-“……?”
+“......?”
 
 “You know how you can buy clothes and stuff in the community with GP?”
 
@@ -202,7 +202,7 @@ Ghostbusters had microtransactions. You could buy clothes, furniture, and other 
 
 “No, it’s not. It’s written by one of the forum users. It was so popular that they decided to publish it.”
 
-“Wow… that’s interesting. Is it good?”
+“Wow... that’s interesting. Is it good?”
 
 “Do you want to read it? I have the previous volumes.”
 
@@ -212,17 +212,17 @@ She handed me a book, and I started reading. It was a modern fantasy novel, quit
 
 But I couldn’t focus.
 
-‘…This is driving me crazy.’
+‘...This is driving me crazy.’
 
 Why was she fidgeting with her feet?
 
 “I’m stretching. My legs are numb.”
 
-“…Did I say anything?”
+“...Did I say anything?”
 
-“No, but your expression…”
+“No, but your expression...”
 
-…I couldn’t think straight in front of her.
+...I couldn’t think straight in front of her.
 
 I turned away from her and continued reading.
 
@@ -230,11 +230,11 @@ The only sound in the room was the rustling of pages.
 
 “Oppa.”
 
-“…Yeah?”
+“...Yeah?”
 
 “It’s almost time. Aren’t you going to the Round Table?”
 
-“Ah…”
+“Ah...”
 
 Damn it, this novel was too interesting.
 
@@ -250,7 +250,7 @@ I quickly got dressed and walked through the hallway. Eight members were already
 
 “You’re here, Lion. Pfft.”
 
-Clown greeted me, followed by Fox, Crescent Moon, Stag Antlers, Queen, Butterfly, and Wolf…
+Clown greeted me, followed by Fox, Crescent Moon, Stag Antlers, Queen, Butterfly, and Wolf...
 
 ‘Eight?’
 
@@ -260,7 +260,7 @@ Swoosh.
 
 She entered through the other door, glanced around the room, and then sat down at an empty seat.
 
-“Welcome, Black…”
+“Welcome, Black...”
 
 Goblin, who was sitting next to her, greeted her, but she just crossed her arms and said nothing.
 
@@ -270,7 +270,7 @@ Swoosh.
 
 I went to my seat, and the door closed with a bang.
 
-“Ten members… it feels strange. There are so many of us now.”
+“Ten members... it feels strange. There are so many of us now.”
 
 Queen muttered, and Crescent Moon replied in a gentle tone,
 
@@ -284,7 +284,7 @@ Wolf, the returning newbie, answered Queen’s question.
 
 “You were too busy kissing up to the Master back then. Pfft.”
 
-“…….”
+“.......”
 
 “Just like you, Clown?”
 
@@ -300,7 +300,7 @@ Swoosh.
 
 I looked at Fox, and she, sensing my gaze, took control of the situation.
 
-“Shall we begin…?”
+“Shall we begin...?”
 
 “Haha, let’s. We’re not here to chat.”
 
@@ -330,7 +330,7 @@ Queen, who had anticipated the objections, didn’t react emotionally and just a
 
 “Then how about this? There are credible records that suggest the Stone of Honor itself has a hidden piece, Gavrilius’s arrangement.”
 
-A hidden piece…
+A hidden piece...
 
 “That’s not bad.”
 
@@ -340,7 +340,7 @@ The members seemed satisfied, and the turn passed.
 
 Crescent Moon also finished his turn without any problems.
 
-‘The Mage Tower Master… representing the humans…’
+‘The Mage Tower Master... representing the humans...’
 
 I didn’t even know about the Tribal Council, and he already knew who the human representative would be.
 
@@ -362,21 +362,21 @@ The information wasn’t particularly valuable, but no one objected.
 
 Bjorn Yandel was a hot topic these days.
 
-“So she finally…”
+“So she finally...”
 
-“Isn’t she… his companion? Something must have happened.”
+“Isn’t she... his companion? Something must have happened.”
 
-“Pfft… Fox, you’re good. I didn’t even know that.”
+“Pfft... Fox, you’re good. I didn’t even know that.”
 
 Fox’s turn ended, and it was Goblin’s turn, followed by Black Mask and Stag Antlers.
 
 But there wasn’t any shocking information.
 
-I was starting to get bored…
+I was starting to get bored...
 
-“Hehehe, my topic is similar to Fox’s…”
+“Hehehe, my topic is similar to Fox’s...”
 
-…when Butterfly spoke, and my body reacted before my mind could process her words.
+...when Butterfly spoke, and my body reacted before my mind could process her words.
 
 “Misha Carlstain.”
 

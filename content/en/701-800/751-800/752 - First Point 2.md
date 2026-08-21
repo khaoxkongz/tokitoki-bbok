@@ -8,7 +8,7 @@ Hearing that, Rotmiller understood immediately.
 
 This man’s goal was nothing more than satisfying his own greed.
 
-“…It’s just food supplies.”
+“...It’s just food supplies.”
 
 Rotmiller spoke in hopes that the man would lose interest and move on, but the Noarkan only smirked at his excuse.
 
@@ -28,7 +28,7 @@ Having come to that conclusion, Rotmiller took out several items with high monet
 
 The items he handed over were part of his precious assets, but he didn’t consider them a waste. If such trifles could save Bjorn Jandel, it was an incredibly cheap price to pay.
 
-But…
+But...
 
 “Oh? Such valuable items?”
 
@@ -36,7 +36,7 @@ There was one flaw in Rotmiller’s solution. Having retired from life as an exp
 
 And because of that—
 
-“Bro, the more I think about it…”
+“Bro, the more I think about it...”
 
 If you look weak, you get bitten.
 
@@ -52,7 +52,7 @@ And from the Noarkan’s perspective, that could only mean Rotmiller was hiding 
 
 “What do you have that you’d hand these over? Let me take a quick look inside.”
 
-“…Didn’t you hear me? I said I want to look inside.”
+“...Didn’t you hear me? I said I want to look inside.”
 
 The man, who had initially kept his distance, was now approaching in a threatening manner. It seemed he intended to inspect the cart’s contents, even if he had to resort to force.
 
@@ -76,7 +76,7 @@ Thuck—!
 
 Rotmiller drove a dagger pulled from his [Treasure Vault] deep into the man’s neck.
 
-“…Huh?”
+“...Huh?”
 
 The man stared blankly, not even understanding what had happened, before collapsing to the ground.
 
@@ -106,9 +106,9 @@ Squish.
 
 Rotmiller pulled the dagger out of the man’s neck.
 
-And then…
+And then...
 
-‘Damn it, damn it, damn it…’
+‘Damn it, damn it, damn it...’
 
 Cursing endlessly in his mind, he began sawing through the dead man’s neck.
 
@@ -118,7 +118,7 @@ After cutting through flesh and even severing the hard cervical bone, the dead m
 
 Rotmiller shoved it onto the spike mounted on the left side of the cart.
 
-Then…
+Then...
 
 “What? You want to hang on the right side instead?”
 
@@ -140,7 +140,7 @@ But they were, in fact, extremely practical tools of barbarism.
 
 Just like this.
 
-“…What’s with that guy?”
+“...What’s with that guy?”
 
 “Where’s he going with that cart? Should we ask?”
 
@@ -162,9 +162,9 @@ He did not seem particularly bothered by the head on the cart. In fact, he looke
 
 A powerful gust of wind swirled up before him. The cloth covering the cart tore free and was hurled into the air, exposing what lay underneath.
 
-“Bjorn Jandel………………!!!”
+“Bjorn Jandel..................!!!”
 
-“It’s Bjorn Jandel……………!!!”
+“It’s Bjorn Jandel...............!!!”
 
 There was no one in this city who didn’t recognize his face.
 
@@ -178,7 +178,7 @@ Boom!!
 
 With the destruction of the well connected to the secret tunnel, the danger of pursuit was eliminated. He also caught sight of the people waiting for him at the well.
 
-“Mr. Parav…”
+“Mr. Parav...”
 
 Lyris Marone rushed into his arms in tears, followed by refugees offering their thanks, and Lady bear.
 
@@ -188,17 +188,17 @@ And then—
 
 Even a dwarf clasped his hand, letting out a hearty laugh.
 
-“Senior…?”
+“Senior...?”
 
 “Oh! Mr. Murad used to be one of Mr. Jandel’s companions!”
 
 At Marone’s explanation, Sven Parav nodded. Now that he thought about it, he had heard of such a person before.
 
-“Oh!” he exclaimed as realization dawned on him. “I heard you took up work at a forge after retiring…”
+“Oh!” he exclaimed as realization dawned on him. “I heard you took up work at a forge after retiring...”
 
 “That’s me! Well, right now I’m on the verge of losing my entire fortune again! Hahaha!!”
 
-“It’s an honor to meet you. But what brings you here……………….?”
+“It’s an honor to meet you. But what brings you here...................?”
 
 “Because of that friend over there. He said he was going to save his wife alone, but how could I let a man who can’t even find his way around go by himself?”
 
@@ -206,11 +206,11 @@ The dwarf tipped his chin toward the bear husband and wife, and only then did Pa
 
 “I am Abman Urichfrit.”
 
-“Ah…! I’ve heard of you! I’m Sven Parav.”
+“Ah...! I’ve heard of you! I’m Sven Parav.”
 
 “Again, thank you so much. I heard you saved my wife and child?”
 
-“Ah… I only did what needed to be done.”
+“Ah... I only did what needed to be done.”
 
 “Still, I’m grateful. If you ever need help, no matter what it is, come to me. I’ll drop everything to help.”
 
@@ -236,7 +236,7 @@ Even this moment was happening thanks to the shared bond of having been Jandel�
 
 “So who was on your team, Mr. Murad? I know about Mr. Jandel, Ms. Karlstein, and that mage, but the last name doesn’t ring a bell.”
 
-“Ah, Brown Rotmiller. He was our scout. In a way, he’s this guy’s direct senior. I heard he now teaches scouting to young warriors at the sanctuary…”
+“Ah, Brown Rotmiller. He was our scout. In a way, he’s this guy’s direct senior. I heard he now teaches scouting to young warriors at the sanctuary...”
 
 “Oh, is that so?”
 
@@ -250,9 +250,9 @@ The whirlwind that swept through the cart tore away the cloth, overturning the s
 
 Everyone fell silent, even the mage who had just moments ago flipped the cloth with a joking tone.
 
-“Bjorn Jandel……………”
+“Bjorn Jandel...............”
 
-“It’s Bjorn Jandel……………!!!”
+“It’s Bjorn Jandel...............!!!”
 
 “Then, as time began to move again, they burst into shouts.”
 
@@ -266,15 +266,15 @@ Control of the wall still lay with the royal family, and the Noark army was hold
 
 Furthermore, aside from the area around the main gate, the battle line was not particularly wide.
 
-‘If I can just break through here…….………….!
+‘If I can just break through here....................!
 
 Then somehow, it would work out.
 
 The royal army would be watching this area from atop the wall. They would open the gate, send reinforcements—do anything to rescue Jandel.
 
-Yes. So that meant……………….
+Yes. So that meant...................
 
-“…I’m sorry.”
+“...I’m sorry.”
 
 Thwack—!
 
@@ -286,7 +286,7 @@ Startled by the sharp pain, the horse lunged forward like a bolt.
 
 The mage, who had frozen after seeing Bjorn Yandel, quickly rolled aside to avoid being trampled, clearing the way.
 
-Of course, the chances of breaking through the enemy ranks and reaching the city wall were vanishingly small……
+Of course, the chances of breaking through the enemy ranks and reaching the city wall were vanishingly small......
 
 ‘But it’s not zero.’
 
@@ -308,6 +308,6 @@ And at that exact moment—
 
 As if answering his cry, a true battle cry thundered from somewhere. Having heard the shouts of countless barbarians before, Rotmiller instantly recognized the voice’s owner.
 
-‘Wait, this voice is……………!
+‘Wait, this voice is...............!
 
-Aynar………………?’
+Aynar..................?’

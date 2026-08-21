@@ -1,16 +1,15 @@
 Bad Blood (3)
+“Well... I’ve always had a good intuition since I was young...”
 
-“Well… I’ve always had a good intuition since I was young…”
+As I stared at him in disbelief, the Goblin Mask began recounting various experiences as examples.
 
-As I looked at him incredulously, the goblin began to share various experiences as examples.
+His story was so scattered that I wondered whether even he knew what he was saying, but one example stood out.
 
-His words were so scattered that I wondered if he even knew what he was saying, but among them, one thing stood out.
-
-“On the day that pillar of fire shot up! I was supposed to enter the labyrinth, but I had the exact same feeling as today…”
+“On the day that pillar of fire shot up! I was supposed to enter the labyrinth, but I had the exact same feeling as today...”
 
 At first, I thought he might be crazy, but if what he’s saying is truly based on his experiences, it’s hard to dismiss it outright.
 
-After all,’Sixth Sense’ is a stat that actually exists in [Dungeon & Stone].
+After all, ‘Sixth Sense’ is a stat that actually exists in Dungeon & Stone.
 
 “Alright, go back to your place.”
 
@@ -22,15 +21,15 @@ After all,’Sixth Sense’ is a stat that actually exists in [Dungeon & Stone].
 
 “Right. But I’ll consider it.”
 
-Leaving some room for consideration, he walked away with an expression that seemed to say, “Well, this is the best I can hope for.” Only then did my companions around me start to speak up.
+After I left some room for consideration, he walked away with an expression that seemed to say, ‘Well, this is the best I can hope for.’ Only then did my companions begin to speak.
 
 “What an interesting fellow.”
 
-First was the support type, Old Didi, who said, “Are you crazy?” in a polite way.
+First was Old Didi, our support-type, who essentially said, ‘Are you crazy?’ in the politest way possible.
 
-“Perhaps he received a revelation. After all, he’s a paladin who serves a god.”
+“Perhaps he received a revelation. He is a paladin who serves a god, after all.”
 
-The mage Ashid made a comment that seemed to defend him, while Erwin had a somewhat displeased look on her face.
+Ashid offered a comment that sounded almost defensive of him, while Erwin wore a displeased expression.
 
 “Who is that guy? Everyone’s exhausted and resting, and he’s being annoying.”
 
@@ -40,11 +39,11 @@ As I was calming Erwin, Amelia approached me and started a conversation.
 
 “Schuiz, what are you going to do? You didn’t seem to dismiss his words as mere nonsense.”
 
-“Explorers always have reasons for believing in superstitions.”
+“Explorers usually have reasons for believing in superstition.”
 
 “So, are you going to follow his advice?”
 
-“Well…”
+“Well...”
 
 I needed to think about it.
 
@@ -52,25 +51,25 @@ In fact, as soon as I heard his words, I started having a bad feeling.
 
 Swish.
 
-With that in mind, I glanced down at the traffic light ring I was wearing. It was still not emitting any light.
+With that in mind, I glanced down at the traffic-light ring I was wearing. It was still not emitting any light.
 
 However, it was too early to feel relieved just because of that.
 
 ‘This ring doesn’t predict every event.’
 
-Even in the game, the traffic light ring was like that.
+Even in the game, the traffic-light ring was like that.
 
-Even if there was an event nearby, it didn’t activate with a 100% probability; it worked randomly.
+Even if an event was nearby, the ring didn’t activate with one-hundred-percent certainty; there was still an element of randomness.
 
 If the green light came on, there was definitely something good nearby.
 
-But just because the light didn’t come on doesn’t mean there’s no good thing nearby…
+But just because the light stayed off didn’t mean there was nothing good nearby...
 
 ‘What should I do?’
 
 As I was deep in thought.
 
-“The ring has sensed the character’s fate.”
+[The ring has detected the character’s fate.]
 
 Suddenly, the ring activated and began to emit light.
 
@@ -78,17 +77,17 @@ Whoooosh.
 
 I quickly looked down to check the color of the light—it was a vivid red.
 
-“Sir…?”
+“Sir...?”
 
 Ignoring Erwin’s startled voice behind me, I quickly stood up.
 
-And then…
+And then...
 
 “Everyone, prepare to move!”
 
 We ended our rest and hurriedly resumed our march.
 
-“But… we haven’t even rested for ten minutes.”
+“But... we haven’t even rested for ten minutes.”
 
 “The members are really tired.”
 
@@ -104,15 +103,15 @@ Whoooosh.
 
 The ring’s light went out.
 
-I don’t know what negative event was approaching us but…
+I don’t know what negative event had been waiting for us, but...
 
-I was baffled and dumbfounded.
+I was completely baffled.
 
 ‘Who on earth is Sven Parab, that guy?’
 
 Was it just a coincidence?
 
-How could anyone’s instincts surpass the detection radius of the traffic light ring?
+How could anyone’s instincts reach farther than the traffic-light ring’s detection range?
 
 Despite these thoughts, I couldn’t forget the sincerity in his expression as he tried to convince me of his “gut feeling.”
 
@@ -122,17 +121,17 @@ So, while we were moving, I fell back a bit and approached the goblin.
 
 If he still felt uneasy, I could just dismiss it as a coincidence.
 
-He doesn’t know about the traffic light ring—
+He didn’t know about the traffic-light ring—
 
-“Ah, yes… I feel at ease.”
+“Ah, yes... I feel at ease.”
 
-What is with this guy…?
+What is with this guy...?
 
 ---
 
 Seventh Floor, Dark Continent.
 
-A human male with a physique as sturdy as a barbarian bent down and touched the ground.
+A human man built almost like a barbarian crouched down and touched the ground.
 
 “Baek-ho, there are traces of someone staying here.”
 
@@ -142,7 +141,7 @@ A human male with a physique as sturdy as a barbarian bent down and touched the 
 
 But one thing’s certain—they left not long ago!”
 
-The large man thundered, his voice matching his size.
+The large man boomed, his voice matching his build.
 
 An elderly man grimaced at the noise but murmured softly.
 
@@ -152,7 +151,7 @@ An elderly man grimaced at the noise but murmured softly.
 
 “You know, those who destroyed the Eye of the Sky and are now on the run.”
 
-“Ah, those guys…”
+“Ah, those guys...”
 
 “Shall we follow them? If it really is them, we can demand quite a bit from Noark this time.”
 
@@ -164,15 +163,15 @@ At the old man’s suggestion, the blond man stroked his chin thoughtfully and s
 
 A voice full of mischief.
 
-The beast tribe woman frowned in displeasure but remained silent.
+The beast-tribe woman frowned in displeasure but remained silent.
 
-“…It’s a waste of time.”
+“...It’s a waste of time.”
 
 “Waste of time? You just don’t want to mess with people from the city.”
 
-“……”
+“......”
 
-“Not fun.”
+“No fun.”
 
 As their conversation ended, the warrior who had discovered the traces asked quietly,
 
@@ -198,17 +197,17 @@ With that, the blond man waved his hand dismissively and pulled out a chair from
 
 “Haha! Just give me a moment! I’ll grill some tasty meat for you in no time!”
 
-Before long, the smell of roasting meat began to waft around them.
+Before long, the smell of roasting meat drifted through the air.
 
 ---
 
-60th Day Since Entering the Labyrinth
+Day 60 Since Entering the Labyrinth
 
-In other words, 15 days left until the 7th floor is closed.
+In other words, fifteen days remained until the 7th floor closed.
 
 “Somehow, we’ve ended up here.”
 
-We arrived at the Resting Place of the Defeated, a field west of the Dragon’s Depth, where the portal was located.
+We arrived at the Resting Place of the Defeated, a field west of the Dragon’s Depths where the portal was located.
 
 Whoooosh.
 
@@ -218,19 +217,19 @@ Countless old swords stuck in the endless plain.
 
 It was an eerie place, but no one spoke of it.
 
-No one had the time to indulge in such sentimentality.
+No one had the energy to indulge in sentimentality.
 
 “Schuiz, we need to keep moving. If we stay here and get surrounded—”
 
 “I know, so keep quiet.”
 
-“……”
+“......”
 
 Hmm, perhaps I was too sharp.
 
 I felt a pang of regret but didn’t bother apologizing.
 
-There was no time for such things—
+There was no time for that—
 
 “Schuiz, don’t let the pressure get to you. If the commander falters, everyone will fall apart.”
 
@@ -240,11 +239,11 @@ I let out a bitter sigh with a faint smile.
 
 ‘Asking me not to be anxious is a tall order.’
 
-My plan had already gone awry.
+My plan had already fallen apart.
 
 Instead of heading south where our allies were, we were in the north—in enemy territory.
 
-I thought we could hold out by hiding here, on the principle that the darkest place is under the lamp.
+I thought we could hold out by hiding here, following the principle that the darkest place is beneath the lamp.
 
 But in reality, how had it been?
 
@@ -254,9 +253,9 @@ If we slowed down even a bit, the pursuit team would quickly catch up.
 
 Because of them, we hadn’t been able to rest properly or get decent sleep for several days, pushing ourselves relentlessly.
 
-“I just can’t understand. How do they manage to track us so precisely, no matter where we go…”
+“I just can’t understand. How do they manage to track us so precisely, no matter where we go...”
 
-Kaislan wondered how Noirark’s forces could keep tracking us so relentlessly, but I already knew the answer.
+Kaislan wondered how Noark’s forces kept tracking us so precisely, but I already knew the answer.
 
 Because I’d experienced it once before.
 
@@ -264,21 +263,21 @@ Because I’d experienced it once before.
 
 In Larkaz’s Maze, that dragonslayer used the priests of Karui to track us.
 
-They probably used a similar method this time.
+They were probably using a similar method this time.
 
 They’re the type who would offer sacrifices without hesitation to achieve their goals.
 
 “Parab, how are you feeling now?”
 
-“Ah, I still feel fine…”
+“Ah, I still feel fine...”
 
 The fact that we hadn’t lost a single person on our way here was largely thanks to the goblin.
 
 Somehow, even when we were resting, if the pursuit team was getting close, he’d sense it like a ghost.
 
-When we were proceeding smoothly and he’d cautiously ask if we could take a different route, we’d find enemies lying in ambush ahead.
+When things seemed to be going smoothly and he cautiously suggested another route, we would later discover enemies lying in ambush along the original path.
 
-After realizing this, I’d started keeping him right by my side during our movements.
+After realizing that, I started keeping him right by my side whenever we moved.
 
 “Then let’s rest a bit longer. If you notice anything strange, let me know immediately.”
 
@@ -288,19 +287,19 @@ With that, he flopped onto the ground without hesitation.
 
 If he could relax like that, the area must truly be safe.
 
-I wanted to lie down and get a moment of shut-eye myself, but…
+I wanted to lie down and steal a few minutes of sleep myself, but...
 
 ‘I can’t afford to do that.’
 
 I pushed away my weakness and summoned the team leaders for a command meeting.
 
-“Karla, Kaiislan, Jun, Akuraba. First of all, I owe you all an apology.”
+“Carla, Kaislan, Jun, Akuraba. First of all, I owe all of you an apology.”
 
-“…?”
+“...?”
 
 “I thought we’d be able to hide here until the floor closed, but I was wrong.”
 
-My sudden apology seemed to catch them off guard. They looked confused at first, but one by one, they offered words of reassurance.
+My sudden apology caught them off guard. They looked confused at first, but one by one, they offered words of reassurance.
 
 “I don’t think there’s anything to apologize for.”
 
@@ -308,27 +307,27 @@ My sudden apology seemed to catch them off guard. They looked confused at first,
 
 “If it weren’t for you, even more people would have died.”
 
-“To be honest, I was relieved that I wasn’t the commander when this situation unfolded. As I said earlier, a commander is someone who must never falter…”
+“To be honest, I was relieved that I wasn’t the commander when this situation unfolded. As I said earlier, a commander is someone who must never falter...”
 
-Oh, hearing that makes me feel a bit lighter.
+Hearing that made me feel a little lighter.
 
-Lately, I’ve been tormented by such thoughts.
+Lately, thoughts like these had been tormenting me.
 
-Maybe we should have stayed at Deadwood and waited for the rescue team.
+Maybe we should have stayed in Deadwood and waited for the rescue team.
 
 Perhaps we should have headed south, risking heavy casualties to escape enemy territory.
 
-And…
+And...
 
-Is everyone going to die because of my wrong decisions?
+Was everyone going to die because I made the wrong decisions?
 
 Thud—
 
-It’s like carrying a mountain-sized boulder on my chest.
+It felt like carrying a mountain-sized boulder on my chest.
 
 But even so, I can’t shy away from what needs to be done.
 
-Even if it means that an even heavier burden weighs upon me.
+Even if it meant taking on an even heavier burden.
 
 “Ahem.”
 
@@ -348,7 +347,7 @@ Well, that’s true.
 
 Even so, I couldn’t just make the decision on my own without consulting them first.
 
-Therefore…
+Therefore...
 
 “As you all know, we probably won’t be able to hold out for long even if we hide here.”
 
@@ -358,11 +357,11 @@ I laid some groundwork before getting to the main point.
 
 Like a shark that can only breathe by moving forward.
 
-If we complacently stop, it’s game over at that moment.
+If we stopped and grew complacent, it would be game over.
 
 Once they fully surround us, our exhausted forces won’t be able to break through.
 
-Therefore…
+Therefore...
 
 “So, where are you planning to go?”
 
@@ -374,11 +373,11 @@ Exactly as they said.
 
 I do have a place in mind.
 
-It wasn’t something that came to me after I got here, it was something I had in mind from the planning stage.
+It wasn’t something I came up with after reaching this point. I’d had it in mind since the planning stage.
 
-Yes, to put it simply, it’s Plan B.
+Simply put, it was Plan B.
 
-An option I didn’t want to choose unless it was an extremely dire situation.
+An option I never wanted to choose unless the situation became truly dire.
 
 “I’m curious. Where are you planning to go in this situation?”
 
@@ -386,6 +385,6 @@ In the end, I voiced my option.
 
 “We’re going back to Ice Rock.”
 
-A path that’s difficult for us will be difficult for them as well.
+A path that’s difficult for us will be difficult for them too.
 
-Let’s see if they can follow us all the way there.”
+‘Let’s see if they can follow us all the way there.’

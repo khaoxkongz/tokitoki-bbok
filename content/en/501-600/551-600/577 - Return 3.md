@@ -24,17 +24,17 @@ In a world where evil spirits are executed on the spot, that’s an incredibly d
 
 So, I expected a game of chicken to unfold.
 
-But…
+But...
 
 The clown and the black mask left right from the start, Butterfly quickly cut her losses, and the fox gave up, saying living in this world wasn’t so bad.
 
-Before the game could even properly begin, the players were dropping one by one…
+Before the game could even properly begin, the players were dropping one by one...
 
 “Then, let’s continue,”
 
 Just as Auril Gavis was about to resume the game, goblin hesitantly raised a hand.
 
-“Um… I’d like to quit too…”
+“Um... I’d like to quit too...”
 
 The third player to declare their withdrawal, following Butterfly and Fox.
 
@@ -42,21 +42,21 @@ Auril Gavis clicked his tongue.
 
 “Is that so? Then leave quickly.”
 
-“Aren’t you going to ask me why…? I-I’m not complaining or anything… I’m just curious…”
+“Aren’t you going to ask me why...? I-I’m not complaining or anything... I’m just curious...”
 
-“…Fine. What’s the reason? Did Fox’s words change your mind or something?”
+“...Fine. What’s the reason? Did Fox’s words change your mind or something?”
 
-“Uh… Well, I can’t say it didn’t affect me at all, but…”
+“Uh... Well, I can’t say it didn’t affect me at all, but...”
 
 “But?”
 
-“It’s… kind of hard to explain…”
+“It’s... kind of hard to explain...”
 
 “Enough. Just spit it out.”
 
 At Auril Gavis’s irritated tone, goblin averted his gaze and muttered softly.
 
-“I just… have a bad feeling about this.”
+“I just... have a bad feeling about this.”
 
 Hmm, if it’s goblin’s intuition, it’s probably reliable.
 
@@ -64,7 +64,7 @@ That was my first thought upon hearing it, but Auril Gavis, on the other hand, s
 
 “I see. Now that I know the reason, hurry up and leave. Ah, do you also need time to say your goodbyes?”
 
-“Ah, yes… Just for a moment…”
+“Ah, yes... Just for a moment...”
 
 The goblin then addressed everyone.
 
@@ -72,21 +72,21 @@ The goblin then addressed everyone.
 
 A long preamble.
 
-“So… if you ever have a reason to kill me, please spare me. Aren’t we all fellow players?”
+“So... if you ever have a reason to kill me, please spare me. Aren’t we all fellow players?”
 
 Wait, what kind of speech is this?
 
-“…Is that all?”
+“...Is that all?”
 
-“Huh? Oh, yes… That’s all I wanted to say.”
+“Huh? Oh, yes... That’s all I wanted to say.”
 
 “Then go.”
 
-“Ah… Yes… Well then, goodbye, everyone…”
+“Ah... Yes... Well then, goodbye, everyone...”
 
 With that, Goblin left, leaving Queen and Wolf to exchange awkward glances.
 
-Somehow, only two remained, turning this into a final showdown….
+Somehow, only two remained, turning this into a final showdown....
 
 ‘Are they really going to see this through to the end now?’
 
@@ -96,7 +96,7 @@ That was my first thought, but then the situation took another completely unexpe
 
 At those words, Auril Gavis showed genuine emotion for the first time.
 
-“…And what’s your reason?”
+“...And what’s your reason?”
 
 His voice carried not just displeasure but something closer to anger.
 
@@ -104,7 +104,7 @@ Well, of course. He must have prepared so much for this, only for it to fall apa
 
 “The reason is simple. I don’t trust you.”
 
-“Distrust… I have the power to send you home, you know.”
+“Distrust... I have the power to send you home, you know.”
 
 “Sure. Maybe you do. Actually, I think you probably do have that ability. But I still can’t trust you.”
 
@@ -124,13 +124,13 @@ Though, it was only possible because she’d seen the others quickly cut their l
 
 Without any farewells, the queen left the room, and just like that, the winner of the quiz was decided in the most anticlimactic way.
 
-“Uh… Huh…?”
+“Uh... Huh...?”
 
 The winner was Wolf mask.
 
 Looking stunned as if it hadn’t sunk in, the Wolf finally seemed to gather his wits and asked in an excited voice:
 
-“M-Mr. Gavis… Does this mean I can go home now?”
+“M-Mr. Gavis... Does this mean I can go home now?”
 
 Has this guy never learned to read a room?
 
@@ -138,25 +138,25 @@ I couldn’t tell, but as an observer, it was definitely an entertaining show.
 
 “Of course. A promise is a promise.”
 
-“Th-thank you…! Really, I’m so—”
+“Th-thank you...! Really, I’m so—”
 
 “So can you shut your mouth for a moment?”
 
-During the quiz, he’d seemed full of energy, but now…
+During the quiz, he’d seemed full of energy, but now...
 
 ‘He’s pissed. Really pissed.’
 
 It was a very rare sight.
 
-“…”
+“...”
 
-“…”
+“...”
 
 The wolf, belatedly sensing the mood, shut his mouth, and a heavy silence settled in.
 
 And yet, the Wolf mustered up some courage again.
 
-“Um… then… when will I receive my reward…?”
+“Um... then... when will I receive my reward...?”
 
 He brought up the prize again.
 
@@ -166,7 +166,7 @@ His voice was thick with irritation.
 
 The Wolf didn’t press further and bowed deeply.
 
-“…Yes. Then I’ll wait outside. Mr. Gavis.”
+“...Yes. Then I’ll wait outside. Mr. Gavis.”
 
 With the Wolf gone too, only the two of us remained at the round table.
 
@@ -190,7 +190,7 @@ Then maybe he should’ve acted more trustworthy in the first place.
 
 “‘Amusing,’ huh? You’ve got quite the unique taste.”
 
-“I won’t deny that… but isn’t that a bit rich coming from you?”
+“I won’t deny that... but isn’t that a bit rich coming from you?”
 
 Well, I couldn’t deny it either.
 
@@ -210,7 +210,7 @@ What was the reason?
 
 “And?”
 
-“There was something I wanted to show you before our conversation. But… given how things turned out, explaining it in words feels a bit ridiculous.”.
+“There was something I wanted to show you before our conversation. But... given how things turned out, explaining it in words feels a bit ridiculous.”.
 
 You really know how to talk in circles when all you really mean is that you’re not going to tell me
 
@@ -252,7 +252,7 @@ I smirked as I asked, and Auril Gavis responded in a pleased tone.
 
 I smirked as I said it, and Auril Gavis responded in a pleased tone.
 
-“Oh… Would you? Now that everyone else is gone, there’s no need to keep pretending to be the Lion.”
+“Oh... Would you? Now that everyone else is gone, there’s no need to keep pretending to be the Lion.”
 
 It seemed my way of speaking had been bothering him.
 
@@ -270,7 +270,7 @@ It was a convincing enough explanation, but it also raised another contradiction
 
 “And that ‘little longer’ would be now, I assume?”
 
-“Something like that. Up until now, I’d been doing my best to avoid interacting with you directly… but there’s something I need to confirm as soon as possible.”
+“Something like that. Up until now, I’d been doing my best to avoid interacting with you directly... but there’s something I need to confirm as soon as possible.”
 
 Ah, right—he said he had a question for me earlier.
 
@@ -294,7 +294,7 @@ Yeah, it definitely felt that way.
 
 This meant that this piece of information was important enough for him to alter his plans.
 
-From another angle…
+From another angle...
 
 ‘That means I’m the one in control here, doesn’t it?’
 
@@ -302,7 +302,7 @@ The moment I realized that, I found myself leaning back in my chair, crossing my
 
 It’s the instinctive behavior of a K-barbarian sensing they have the advantage.
 
-“……”
+“......”
 
 Auril Gavis gave me a questioning look at my sudden change in demeanor, but he didn’t say anything.
 
@@ -320,6 +320,6 @@ With that in mind, I licked my lips and made a “request” for Auril Gavis.
 
 “Hey, old man? My throat’s a bit dry—how about pouring me a glass of soda?”
 
-“……?”
+“......?”
 
 “Oh, and make sure it’s nice and cold, with ice floating on top.”

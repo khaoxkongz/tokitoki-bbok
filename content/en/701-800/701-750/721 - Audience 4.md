@@ -18,9 +18,9 @@ Because I didn’t know what this bastard’s “objective” was.
 
 Psychological warfare only works when you know what cards the other person is holding.
 
-Right. So…
+Right. So...
 
-“…What do you want from me?”
+“...What do you want from me?”
 
 Let’s hear it first.
 
@@ -36,7 +36,7 @@ No matter how many times I heard it, I couldn’t get used to that tone. He didn
 
 “So, what do I have to do? Do you not want me to open the Gate of the Abyss?”
 
-I asked casually. I had a rough idea of what the ‘King’s’ objective might be. It was a probe to see his reaction, but…
+I asked casually. I had a rough idea of what the ‘King’s’ objective might be. It was a probe to see his reaction, but...
 
 “What? Pwahaha! Pwahahahaha!”
 
@@ -46,7 +46,7 @@ As I glared through the silk in disgust, the King of the New World offered a hol
 
 “Ah, sorry, sorry. It was just too funny watching you talk like you know everything when you don’t know a thing. But come to think of it, you’ve probably always been like this.”
 
-“…”
+“...”
 
 “Because you knew nothing, you would have taken cautious steps forward, keeping a close watch on everything you could just to survive. There would have been times when you lost something due to your mistakes. And at some point, without even realizing it yourself, you must have begun obsessing over the things you didn’t know.”
 
@@ -70,9 +70,9 @@ I continued to listen, all the while building a character profile of the King of
 
 ‘Okay, Desire for Recognition +7.’
 
-I was going to give him a +6, but considering he’s saying this to someone he just met, I bumped it up to +7. And then…
+I was going to give him a +6, but considering he’s saying this to someone he just met, I bumped it up to +7. And then...
 
-“…What exactly do you mean by sacrifice?”
+“...What exactly do you mean by sacrifice?”
 
 I asked a relevant question to show that I was paying attention. To be honest, I also asked because I was dying of curiosity! Unfortunately, he cut me off instantly.
 
@@ -88,9 +88,9 @@ Need for recognition +7, Middle School Syndrome +4
 
 For some reason, I had the feeling he was just a trash mob, but I quickly told myself that couldn’t be right. There was no way the final boss would be trash right.
 
-“…That look in your eyes is unpleasant.”
+“...That look in your eyes is unpleasant.”
 
-Wow, suddenly lowering his voice like that. Anyway, if he’s that sharp, I should probably add +3 to his Perception…
+Wow, suddenly lowering his voice like that. Anyway, if he’s that sharp, I should probably add +3 to his Perception...
 
 “I wasn’t thinking about anything!”
 
@@ -98,7 +98,7 @@ I quickly brushed aside the king’s suspicions and continued thinking.
 
 What would happen if he found out about the status window I was mentally writing?
 
-‘…Death penalty, for sure.’
+‘...Death penalty, for sure.’
 
 Yeah, no question about it. People obsessed with acting “cool” are usually the ones who flip out instantly over stuff like this.
 
@@ -108,31 +108,31 @@ Desire for Recognition +7, Middle School Syndrome +4, Cool-guy Syndrome +4
 
 Okay, that’s three stats checked off.
 
-“Whatever… It’s not like I don’t understand. From your perspective, I must look like the mastermind behind everything.”
+“Whatever... It’s not like I don’t understand. From your perspective, I must look like the mastermind behind everything.”
 
-“…Are you saying you aren’t?”
+“...Are you saying you aren’t?”
 
 “A meaningless question. Would you believe me if I said no?”
 
 There was a hint of self-deprecation in his voice. Based on the stats I had compiled, I threw out a line.
 
-“Of course I wouldn’t believe you immediately. But if you’re really sacrificing yourself for this world…”
+“Of course I wouldn’t believe you immediately. But if you’re really sacrificing yourself for this world...”
 
-“…If I am?”
+“...If I am?”
 
-“Then I think that’s… admirable.”
+“Then I think that’s... admirable.”
 
-“……”
+“......”
 
 “Before judging whether the method is right or wrong, it’s not something just anyone can do.”
 
 A carefully aimed line meant to stimulate that +7 need for recognition. His response came after a brief silence.
 
-“……Tsk, it’s not like I did it to be recognized by someone.”
+“......Tsk, it’s not like I did it to be recognized by someone.”
 
 Man, anyone can see you’re loving this.
 
-‘Should I have gone with +8 instead of +7……?’
+‘Should I have gone with +8 instead of +7......?’
 
 While I was debating that, the King of the New World spoke up.
 
@@ -140,7 +140,7 @@ While I was debating that, the King of the New World spoke up.
 
 “You can lead a horse to water, but whether it drinks or not is up to the horse.”
 
-“……”
+“......”
 
 “Bjorn, son of Jandel. I have a proposal for you.”
 
@@ -154,13 +154,13 @@ The figure behind the silk veil shifted and opened his palm.
 
 “If you grant me my ‘requests’ exactly five times, I will not interfere with whatever you choose to do.”
 
-Hah…
+Hah...
 
-‘Five times, huh…’
+‘Five times, huh...’
 
 Well, it was far better than being a slave forever.
 
-But still…
+But still...
 
 My heart raced.
 
@@ -176,7 +176,7 @@ Seeing this, the King of the New World showed no excitement, as if he had expect
 
 “A double.”
 
-“…Again?”
+“...Again?”
 
 Is this rigged or something?
 
@@ -190,13 +190,13 @@ The King of the New World then tossed the dice the knight had picked up back ont
 
 The city where I was born and raised, now filled with hotels.
 
-“Let’s see, the toll is…”
+“Let’s see, the toll is...”
 
 “I shall use the Free Pass.”
 
-“Ah…”
+“Ah...”
 
-This guy… he really plays like a jerk.
+This guy... he really plays like a jerk.
 
 ‘A Free Pass now?’
 
@@ -228,7 +228,7 @@ But his interest faded fairly quickly, and before long he declared he was bored 
 
 On the third day, the King of the New World put away the board games and brought out comic books. These too were modern goods created by probing modern people, and he seemed to have put considerable effort into it, with at least a few hundred volumes on hand.
 
-‘But the content is slightly… off.’
+‘But the content is slightly... off.’
 
 Among them were comics I had never seen, and some I recognized. In the latter case, the art was sloppy and the story felt crude, like it had only borrowed the basic setting.
 
@@ -236,7 +236,7 @@ It was probably the work of a captured aspiring artist who had roughly copied fa
 
 The real problem was when I found that one comic among the hundreds.
 
-“This art style…”
+“This art style...”
 
 An unmistakably familiar style.
 
@@ -246,7 +246,7 @@ Even the title and story matched the comic I knew exactly.
 
 “Oh? You know it? I heard from other evil spirits that the artist was quite famous.”
 
-“This is insane…!!!”
+“This is insane...!!!”
 
 This time, I could not hold back.
 
@@ -256,7 +256,7 @@ I asked with a rage boiling up from my gut, but the King of the New World just c
 
 “I tore him to pieces the moment I saw the scene where the man the protagonist treated like a brother forced himself on the woman he loved.”
 
-Ah… that part. Honestly, I get why he was mad, but…
+Ah... that part. Honestly, I get why he was mad, but...
 
 Sigh, what did that author do to end up in a game like this?
 
@@ -276,7 +276,7 @@ When we got hungry, he got the knight to bring us food.
 
 I don’t know for sure, but I imagine this is how Wuxia fans feel when they see a waiter serving carbonara or an Elder talking about double jumps.
 
-‘Zhu Ye Qing in a fantasy world…’
+‘Zhu Ye Qing in a fantasy world...’
 
 The Dungeon and Stone I knew was not like this.
 
@@ -298,7 +298,7 @@ The third day, comics.
 
 At a glance, the King of the New World’s actions seemed completely erratic, but in truth, it was not that hard to read his intentions.
 
-‘…Time is the key.’
+‘...Time is the key.’
 
 Keeping me company was nothing more than a pretext.
 
@@ -322,7 +322,7 @@ Countless people swung their swords on the battlefield while arrows and magic ra
 
 [“Aaaaargh—!”]
 
-[“P-please… save me…”]
+[“P-please... save me...”]
 
 Amidst the chaos, filled with screams—
 

@@ -12,15 +12,15 @@ Trembling hands.
 
 Eyes locked in one place, burning with rage.
 
-And then…
+And then...
 
-“Killing intent…?”
+“Killing intent...?”
 
 How could an ordinary person radiate such killing intent?
 
-I had no idea, but…
+I had no idea, but...
 
-“So… I quit—.”
+“So... I quit—.”
 
 Before she could finish her sentence, I hurriedly cut her off.
 
@@ -28,15 +28,15 @@ Before she could finish her sentence, I hurriedly cut her off.
 
 “If a place collapses just because one person leaves, wouldn’t it have been better off collapsing from the start?”
 
-…Uh.
+...Uh.
 
-Well, she’s not wrong…
+Well, she’s not wrong...
 
 “W-Why are you acting like this? Haven’t I treated you well all this t—”
 
 “Are you saying I haven’t treated you well?”
 
-“No, that’s not what I meant…”
+“No, that’s not what I meant...”
 
 The “family-like workplace culture” is a hallmark of small and medium-sized businesses. But I instantly discarded the idea of persuading her with loyalty or sentiment.
 
@@ -44,7 +44,7 @@ When a short-staffed company wants to retain its people, it’s not lofty words 
 
 “Double.”
 
-“…Double?”
+“...Double?”
 
 “Yes, I’ll pay you double the salary you’ve been receiving!”
 
@@ -56,21 +56,21 @@ Now was the time for the follow-up.
 
 “And that’s not all!”
 
-“…?”
+“...?”
 
 “I’ll also pay you double for all the time you suffered alone in the sanctuary while I was gone!”
 
-“…!!!”*
+“...!!!”*
 
 A staggering bonus promise—one that could make even the most grumpy employee’s eyes light up.
 
-“…”
+“...”
 
 She didn’t answer right away, perhaps because she was embarrassed, but the look on her face made it clear that she had already surrendered.
 
 So I simply waited patiently without pushing any further.
 
-“…Fine.”
+“...Fine.”
 
 A voice as quiet as an ant’s footsteps.
 
@@ -82,15 +82,15 @@ Having made up her mind, Shabin shouted loudly before suddenly turning red with 
 
 Then, as if making an excuse, she added:
 
-“It’s just… I’m at the age where I should start preparing for marriage.”
+“It’s just... I’m at the age where I should start preparing for marriage.”
 
-That was… completely unexpected.
+That was... completely unexpected.
 
-“Uh…”
+“Uh...”
 
-…Shouldn’t she be way past the age for that?
+...Shouldn’t she be way past the age for that?
 
-As far as I know, she’s almost forty…
+As far as I know, she’s almost forty...
 
 In modern society, late marriages might be common, but given the social norms of this era, she’s definitely late—
 
@@ -100,7 +100,7 @@ At that moment, Amelia nodded in agreement.
 
 “That’s around the age when people start thinking about it.”
 
-…Good thing I kept my mouth shut.
+...Good thing I kept my mouth shut.
 
 ***
 
@@ -112,13 +112,13 @@ As of today, she held the highest authority in administrative and clerical affai
 
 For someone who had been on the verge of quitting, Shabin managed to accommodate all 8,712 refugees as though she had been preparing for it all along.
 
-“The roofs might be an issue… but we have materials stockpiled, so setting up temporary shelters shouldn’t take long.”
+“The roofs might be an issue... but we have materials stockpiled, so setting up temporary shelters shouldn’t take long.”
 
 “Not take long? With this many people? Are you sure?”
 
-“Of course. You’ve been away for a while, Mr. Bjorn, so you might not know this, but… Barbarians? They’re born workers. Honestly, they might be even more suited for labor than combat.”
+“Of course. You’ve been away for a while, Mr. Bjorn, so you might not know this, but... Barbarians? They’re born workers. Honestly, they might be even more suited for labor than combat.”
 
-“…What?”*
+“...What?”*
 
 As the chief of the barbarians, those words struck a nerve. But when I saw the results, I couldn’t help but agree.
 
@@ -142,17 +142,17 @@ Not on the dwarves’ level, of course.
 
 Perhaps this was the limit of their nature.
 
-But…
+But...
 
 “Fast, right?”
 
-“Indeed…”
+“Indeed...”
 
 With every Barbarian in the Holy Land pitching in, the speed of the work was nothing short of insane.
 
 At this rate, it wouldn’t take more than a few days to complete enough temporary shelters for all the refugees.
 
-‘Though they’ll probably collapse within a year from shoddy construction…’
+‘Though they’ll probably collapse within a year from shoddy construction...’
 
 Still, this made me realize one thing:
 
@@ -164,7 +164,7 @@ Extremely cheap labor.
 
 Physical specs allowing one person to do the work of many.
 
-And most importantly… they don’t complain.
+And most importantly... they don’t complain.
 
 Even when exploited for cheap labor, they just accept it with a positive mindset.
 
@@ -180,7 +180,7 @@ Just as I was getting chills from this realization, someone called out from behi
 
 A familiar voice.
 
-“…Rotmiller?”
+“...Rotmiller?”
 
 “Long time no see. I meant to visit sooner, but you seemed busy.”
 
@@ -190,7 +190,7 @@ I asked out of genuine curiosity, but Rotmiller just gave me a strange look and 
 
 “Bjorn, wasn’t it you who asked me to teach tracking skills to the young warriors here?”
 
-“Ah…”
+“Ah...”
 
 Right. That did happen.
 
@@ -198,35 +198,35 @@ Right. That did happen.
 
 “No need to apologize. I understand. You’ve been through quite a lot, haven’t you?”
 
-“I appreciate the sentiment, but… Anyway, so you’ve been staying here the whole time?”
+“I appreciate the sentiment, but... Anyway, so you’ve been staying here the whole time?”
 
 “Unless I had business in the city. Teaching the young warriors has been surprisingly fulfilling. It suits me.”
 
 “Oh, really?”
 
-“I’m not exaggerating—it really does. When I see them survive the labyrinth thanks to what I taught, or when they bring me a stone loaf as thanks, my heart swells…”
+“I’m not exaggerating—it really does. When I see them survive the labyrinth thanks to what I taught, or when they bring me a stone loaf as thanks, my heart swells...”
 
 He trailed off mid-sentence, then cleared his throat, looking embarrassed.
 
 “Ahem! Anyway, life here has been good enough, so don’t worry.”
 
-“…I see.”
+“...I see.”
 
 “Oh, and lately, I’ve had some spare time after my duties, so I’ve been helping out with administrative work.”
 
-“Administrative work…?”
+“Administrative work...?”
 
-“Miss Emure has been struggling. It’s hard to watch someone so young work so hard…”
+“Miss Emure has been struggling. It’s hard to watch someone so young work so hard...”
 
-“Huh? Shabin Emure is… young?”
+“Huh? Shabin Emure is... young?”
 
-“You didn’t know? She’s two years younger than me. Not that age matters, of course. Despite being younger, she’s accomplished far more than I ever have…”
+“You didn’t know? She’s two years younger than me. Not that age matters, of course. Despite being younger, she’s accomplished far more than I ever have...”
 
 Rotmiller let out a self-deprecating laugh.
 
 And suddenly, a thought struck me like lightning.
 
-“…Could her talk about preparing for marriage have been…?”
+“...Could her talk about preparing for marriage have been...?”
 
 Though curious, I restrained myself from asking anything tactless about their relationship. They’re adults. They can figure it out themselves.
 
@@ -234,11 +234,11 @@ Though curious, I restrained myself from asking anything tactless about their re
 
 “I’ll let you know if I find out. Right now, I’m as in the dark as you are.”
 
-“I see…”
+“I see...”
 
 We chatted like that for about half an hour, until Shabin Emure came looking for me.
 
-“Mr. Bjorn…! Oh? Mr. Rotmiller, you’re here too?”
+“Mr. Bjorn...! Oh? Mr. Rotmiller, you’re here too?”
 
 “Good to see you, Miss Emure. I just finished the surveying work you asked for yesterday and happened to run into Bjorn on the way.”
 
@@ -246,7 +246,7 @@ We chatted like that for about half an hour, until Shabin Emure came looking for
 
 “No reason to delay. I know how busy you are.”
 
-“Yes… Thank you, as always, Rotmiller…”
+“Yes... Thank you, as always, Rotmiller...”
 
 With that, Shabin smiled bashfully and covered her mouth.
 
@@ -260,7 +260,7 @@ My instincts as a warrior told me so. But it wasn’t my business, so I changed 
 
 I took the letters from her and checked who they were from. Each sender was different.
 
-“One was from the royal family, one was from Melbes, and one was from…”
+“One was from the royal family, one was from Melbes, and one was from...”
 
 I wasn’t sure about the last one.
 
@@ -270,7 +270,7 @@ As I puzzled over it, Shabin provided an explanation.
 
 “That seal indicates an official communication from one of the races. Given the timing, it’s likely an invitation to the Racial Summit.”
 
-“The Racial Summit…”
+“The Racial Summit...”
 
 Ah, right. That was a thing.
 
@@ -282,7 +282,7 @@ I was supposed to attend a long time ago but got trapped on the basement floor 1
 
 “No. From what I’ve heard, the tradition is that all must attend, or it doesn’t convene at all.”
 
-“…I see.”
+“...I see.”
 
 With my question answered, I opened and read the remaining letters one by one.
 
@@ -294,13 +294,13 @@ With my question answered, I opened and read the remaining letters one by one.
 
 Perhaps because I was both a chief and a baron, receiving such letters almost made me feel like a real high-ranking politician.
 
-…Which, technically, I was.
+...Which, technically, I was.
 
-“Wow…”
+“Wow...”
 
 After checking the senders and contents, Sabin let out an impressed sigh and muttered in a strange tone,
 
-“Seeing this, it’s clear you really are an incredible person…”
+“Seeing this, it’s clear you really are an incredible person...”
 
 It sounded like praise, but I sensed another layer beneath it.
 
@@ -308,7 +308,7 @@ It sounded like praise, but I sensed another layer beneath it.
 
 “Nothing. It’s just strange, realizing someone like you is standing right here in front of me.”
 
-“…Now you’re just making it weird.”
+“...Now you’re just making it weird.”
 
 Feeling oddly embarrassed, I refocused on the letters.
 
@@ -324,7 +324,7 @@ Feeling oddly embarrassed, I refocused on the letters.
 
 Ah, that part wasn’t really up to me.
 
-“Let’s see… the earliest one is…”
+“Let’s see... the earliest one is...”
 
 I picked up a letter.
 
@@ -337,34 +337,34 @@ But if I had to pick the most urgent task, it would be this:
 
 [Make money using the refugees now living in the Barbarian Sanctuary.]
 
-It wasn’t originally part of the plan, but…
+It wasn’t originally part of the plan, but...
 
 All the refugees had become my retainers.
 
 And under royal law, vassals of noble houses are forbidden from taking side jobs to earn money.
 
-Well, they could do it under the table, but…
+Well, they could do it under the table, but...
 
 With the royal family already watching me like a hawk, I couldn’t possibly have all 8,712 of them working side gigs.
 
-‘I need to generate profit to pay next year’s taxes…’
+‘I need to generate profit to pay next year’s taxes...’
 
 That was the biggest issue.
 
 If I were a grand noble with my own businesses, I could simply put them to work there.
 But I wasn’t.
 
-“What should I do…?”
+“What should I do...?”
 
 Surprisingly, the solution came from the Melves Regular Assembly, which I attended to check in.
 
 “Now, the next topic of discussion concerns the reconstruction contracts for Districts 7 and 13. As you know, the royal family has announced that three noble houses will be selected to oversee the reconstruction projects.”
 
-“……”
+“......”
 
 “As enormous profits are at stake, countless noble houses will no doubt compete for these contracts. Therefore, our Melbes alliance intends to support a single house from among us.”
 
-“……”
+“......”
 
 “For this purpose, we plan to put forward the Goldbeard Count’s family, which owns multiple construction businesses, as our representative in the bidding. If there are no objections, we will move directly to a vote—”
 

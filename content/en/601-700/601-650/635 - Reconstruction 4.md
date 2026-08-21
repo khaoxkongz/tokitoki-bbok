@@ -2,7 +2,7 @@
 
 When I jumped to my feet and objected, all the heads of the noble houses turned their attention to me.
 
-“Objection…?”
+“Objection...?”
 
 Even Mariblack, the Viscount hosting and moderating today’s meeting, trailed off in confusion.
 
@@ -22,31 +22,31 @@ With the moderator’s approval, I confidently voiced my opinion.
 
 “Count Goldbeard’s family is not the right fit for this construction contract!”
 
-“Pardon……?”
+“Pardon......?”
 
 Mariblack and the other heads reacted as if I had just said something absurd.
 
 Count Goldbeard is not only one of the thirty-two families and the only Count among them, but he also holds a position akin to vice-leader of Melbes. That alone makes him more than qualified to represent Melbes, and since he owns several construction-related businesses, even I agree that he’s the right person for this job.
 
-But…
+But...
 
-“Uh… then, perhaps Baron Jandel, are you taking the position that we should not participate in this construction project bid?”
+“Uh... then, perhaps Baron Jandel, are you taking the position that we should not participate in this construction project bid?”
 
 “No! Of course we’ll participate! It’s a chance to make a fortune, why would we just sit back and watch?”
 
-“Then the reason you opposed this agenda item…”
+“Then the reason you opposed this agenda item...”
 
 “The reason’s simple! Count Goldbeard isn’t a bad choice, but I believe there’s someone even more suitable.”
 
-“A more suitable candidate… Who might that be?”
+“A more suitable candidate... Who might that be?”
 
 Mariblack asked as though he couldn’t even begin to guess. I shamelessly pointed a thumb at myself.
 
 “Baron Yandel’s house, of course!”
 
-“……”
+“......”
 
-“……”
+“......”
 
 What? Why is no one saying anything?
 
@@ -62,9 +62,9 @@ I was trying hard to make my case when someone cut me off with a mocking laugh.
 
 I looked around and saw a dwarf fiddling with his beard while perched on a chair. It was Count Goldbeard himself.
 
-“…What’s so funny?”
+“...What’s so funny?”
 
-“Ah, my apologies. It’s not that I look down on your Barbarians… it’s just that what you said was somewhat amusing.”
+“Ah, my apologies. It’s not that I look down on your Barbarians... it’s just that what you said was somewhat amusing.”
 
 “Amusing how?”
 
@@ -90,17 +90,17 @@ Time to dig a little deeper.
 
 “Oh, that’s true. You’ve had plenty to eat and drink for centuries, and yet you’ve never gotten taller.”
 
-“……Heh.”
+“......Heh.”
 
-“Ah, Count, maybe it’s not like that for you? I still sometimes get Goblins and Dwarves mixed up. Wait… maybe you wouldn’t know, since you’ve never been to a labyrinth? You’d see how similar goblins and Dwarves look.”
+“Ah, Count, maybe it’s not like that for you? I still sometimes get Goblins and Dwarves mixed up. Wait... maybe you wouldn’t know, since you’ve never been to a labyrinth? You’d see how similar goblins and Dwarves look.”
 
-“……”
+“......”
 
 “Uh, Baron Yandel? Maybe calm down a little—”
 
 “Calm down? I think it’s Count Goldbeard who needs to calm down. Look, his beard’s trembling.”
 
-“……”
+“......”
 
 “Speaking of which, why do all Dwarves grow beards? It’s not like it makes them taller—”
 
@@ -116,13 +116,13 @@ While I clicked my tongue internally, I looked him in the eye and casually asked
 
 “So what if you don’t tolerate it?”
 
-“……”
+“......”
 
 “What are you going to do? Challenge me to a duel?”
 
 Of course, there was only one answer he could give to such an obvious bait.
 
-“…How barbaric.”
+“...How barbaric.”
 
 Dismissing me by mocking my lack of refinement.
 
@@ -130,7 +130,7 @@ Kinda funny, actually.
 
 “What? Isn’t that why you people brought me in? To charge at other noble bastards when they look down on you?”
 
-“Even then… I opposed you”
+“Even then... I opposed you”
 
 “Huh? But the vote was unanimous back then, wasn’t it?”
 
@@ -138,7 +138,7 @@ Kinda funny, actually.
 
 “Ah, so you can’t voice your own opinion if everyone else agrees?”
 
-“……”
+“......”
 
 “Well, I guess if you’re small, your guts are probably small too—”
 
@@ -154,7 +154,7 @@ I heard from the Rabbit Baroness that he is highly respected within Melbes.
 
 He’d never once raised his voice before.
 
-‘Whoa… He’s scary when he’s mad.’
+‘Whoa... He’s scary when he’s mad.’
 
 Even Count Goldbeard flinched.
 
@@ -170,19 +170,19 @@ I mean, we’re about the same size since he’s a Black Bear.
 
 “Differences of opinion? Fine! But I will not tolerate infighting! Do I make myself clear?!”
 
-“…I got a bit carried away. My apologies, Chief.”
+“...I got a bit carried away. My apologies, Chief.”
 
 “And what about you, Baron Jandel?! Why are you silent?!”
 
-“…I’ll behave.”
+“...I’ll behave.”
 
 As I took a step back, the Chief sat back down, calm and gentle as if he’d never been angry.
 
-So…
+So...
 
 “Can I continue where I left off?” I asked in an innocent voice.
 
-“Left off…?”
+“Left off...?”
 
 “There was an interruption earlier. I was explaining why Baron Jandel’s house is the best choice for the contract.”
 
@@ -192,11 +192,11 @@ I continued my explanation as though I had prepared a PowerPoint presentation in
 
 I explained why Barbarians were excellent laborers—cost-effective and abundant, and mentioned that I could mobilize all 8,712 residents of Bifron as workers.
 
-“Hm… Are Barbarian warriors really that good at building houses?”
+“Hm... Are Barbarian warriors really that good at building houses?”
 
 “Not as delicate or sturdy as Dwarves, I admit. But much faster.”
 
-I glanced at Count Goldbeard while saying this, and he coughed awkwardly. Judging by his expression, he didn’t seem to mind the compliment itself…
+I glanced at Count Goldbeard while saying this, and he coughed awkwardly. Judging by his expression, he didn’t seem to mind the compliment itself...
 
 “Ahem. Our speed isn’t slow either.”
 
@@ -208,7 +208,7 @@ Still, the fact that he felt the need to add that told me he was the kind who ju
 
 “That’s what I meant. Why I said I was the most optimal candidate for this reconstruction project.”
 
-“Certainly… there is some logic to it…”
+“Certainly... there is some logic to it...”
 
 After the briefing, people’s reactions were mixed.
 
@@ -258,7 +258,7 @@ They were already wealthy. We were the ones desperate for opportunities.
 
 Since these families have maintained their noble status for hundreds, or even thousands, of years, they all have plenty of money.
 
-And in that sense…
+And in that sense...
 
 “The next agenda item is an open discussion regarding the recent Noark invasion incident and the occupation of Bifron.”
 
@@ -270,11 +270,11 @@ Their attitudes were incomparably more serious than during the previous project 
 
 As the meeting began, the family heads, who had been silently keeping their seats, began voicing their opinions with enthusiastic voices.
 
-“Regarding the Noark invasion incident, there is circumstantial evidence that the royal family knew in advance. This is information obtained from a highly reliable source…”
+“Regarding the Noark invasion incident, there is circumstantial evidence that the royal family knew in advance. This is information obtained from a highly reliable source...”
 
 “Let me preface this by saying this information is unconfirmed. There’s talk that Noark tampered with the protective magic circle in Bifron.”
 
-“Good heavens… How dare those ruffians lay hands on the Great Sage’s legacy…”
+“Good heavens... How dare those ruffians lay hands on the Great Sage’s legacy...”
 
 With no clear answers, the discussion dragged on, and I continued to get bombarded with questions.
 
@@ -296,7 +296,7 @@ I admitted honestly.
 
 They looked disappointed—but not entirely surprised.
 
-Hm… I see…”
+Hm... I see...”
 
 “Well, it’s not like the Baron would know everything.”
 
@@ -304,17 +304,17 @@ Hm… I see…”
 
 “But we never hear anything real from them. Just scraps.”
 
-“They’ll monopolize the real profits of this mess too…”
+“They’ll monopolize the real profits of this mess too...”
 
 As if on cue, the atmosphere turned bitter and frustrated.
 
 Seeing this, I tilted my head and said:
 
-“Uh… I mean, I could tell you in a few days if you want…”
+“Uh... I mean, I could tell you in a few days if you want...”
 
 They all looked puzzled.
 
-“…Excuse me? What do you mean, Baron Jandel?”
+“...Excuse me? What do you mean, Baron Jandel?”
 
 “Exactly what I said.”
 
@@ -324,9 +324,9 @@ They all looked puzzled.
 
 It wasn’t something I needed to hide, so I answered indifferently. But it seemed like this was something they couldn’t just let slide.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 A brief silence.
 
@@ -334,15 +334,15 @@ A brief silence.
 
 “Baron! I-Is that true?!”
 
-“…Good heavens! Someone from Melbes received royal assembly access?!”
+“...Good heavens! Someone from Melbes received royal assembly access?!”
 
 The room suddenly erupted in chaos.
 
-“This… isn’t this the first time in nearly 600 years?”
+“This... isn’t this the first time in nearly 600 years?”
 
 What the hell—how is it that they’ve been unable to do so many things for hundreds of years?
 
-Honestly, it was getting to the point of being absurd…
+Honestly, it was getting to the point of being absurd...
 
 “Baron! Baron! Tell us! How exactly did you obtain that right?”
 
@@ -356,7 +356,7 @@ My warrior’s instinct for competition was telling me this.
 
 “My throat.”
 
-“…Huh?”
+“...Huh?”
 
 “My throat’s suddenly dry. Isn’t there anything cold to drink?”
 

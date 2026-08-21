@@ -4,11 +4,11 @@
 
 The moment I heard that condition, I lost my composure. But, thinking about it from the perspective of the Council Leader, it was a reasonable request.
 
-“What Baron Jandel has accomplished in just a few years is something no hero could rival. Neither I nor anyone else can deny that. However…”
+“What Baron Jandel has accomplished in just a few years is something no hero could rival. Neither I nor anyone else can deny that. However...”
 
 The Council leader snapped his fingers.
 
-“…such things could vanish at any moment.”
+“...such things could vanish at any moment.”
 
 House Jandel still has no successor.
 
@@ -26,13 +26,13 @@ A kind of minimum risk management, perhaps?
 
 If something were to happen to me, all their plans would undoubtedly go awry. However, if the barony could at least be maintained, then, for Melbes, where the number of affiliated families is important, the losses could be reduced by that much.
 
-“…What if I said I have no intention of getting married immediately?”
+“...What if I said I have no intention of getting married immediately?”
 
 “Then, unfortunately, this proposal would have to be put on hold. If even a condition of this level cannot be established, then even I would find it difficult to persuade the other families.”
 
 I had been nudging him for a response, but when he finally answered, it was firmer and more final than I had expected. There was no room left for discussion.
 
-“Nonetheless, our Welbeit house will continue to support you. But… as I said, gaining Melbes’s full support will take much longer.”
+“Nonetheless, our Welbeit house will continue to support you. But... as I said, gaining Melbes’s full support will take much longer.”
 
 “I see.”
 
@@ -46,7 +46,7 @@ In other words, I can choose a spouse who’s not a barbarian.
 
 Perhaps it’s because he’s lived in the noble society long enough for his hair to turn white? Instead of feeling he was being nosy, I found myself thinking he was just incredibly rational.
 
-But…
+But...
 
 “That’s something I’ll decide for myself.”
 
@@ -80,7 +80,7 @@ He nodded with a kind smile.
 
 “That is all for today.”
 
-…As expected, you can’t ignore age and experience.
+...As expected, you can’t ignore age and experience.
 ***
 
 After the marriage talk ended, a servant came in with tea, almost like they had been waiting for that moment, and we moved on to other topics while sipping our drinks.
@@ -93,7 +93,7 @@ The roof was nearly complete and looked ready for move-in.
 
 If only it hadn’t been utterly destroyed.
 
-‘I guess the move-in date has been delayed again…’
+‘I guess the move-in date has been delayed again...’
 
 When will my house ever be completed?
 
@@ -111,13 +111,13 @@ It felt hopeless again, but I tried to look on the bright side. If the original 
 
 From there, the conversation turned casual. And we spent time discussing and adjusting minor details.
 
-And…
+And...
 
 “Once you’ve sorted out your thoughts, please let me know as soon as possible. There are many things to prepare if we are to hold a grand wedding.”
 
 After finishing my private meeting with the Council Leader, I boarded the carriage to return to the holy site and stared blankly out the window.
 
-“Marriage…”
+“Marriage...”
 
 It was a topic I had never once thought about.
 
@@ -127,7 +127,7 @@ Once, a long time ago, I had seriously considered it, too.
 
 But in the end, it didn’t conclude well.
 
-“Sigh…”
+“Sigh...”
 
 My head is complicated.
 
@@ -145,7 +145,7 @@ Even on the shaky carriage ride—
 
 Even at the sanctuary, where I was welcomed by the warriors.
 
-“…The Bifron citizens have settled in well. No major issues so far. But it seems like a waste to let all that manpower go unused, so I was thinking of involving them in various projects around the grounds starting tomorrow. Is that okay?”
+“...The Bifron citizens have settled in well. No major issues so far. But it seems like a waste to let all that manpower go unused, so I was thinking of involving them in various projects around the grounds starting tomorrow. Is that okay?”
 
 Even while listening to the administrative secretary’s report—
 
@@ -153,7 +153,7 @@ Even while listening to the administrative secretary’s report—
 
 “Thanks.”
 
-“…How is it? I added a bit more lemon juice than usual today. Does it suit your taste?”
+“...How is it? I added a bit more lemon juice than usual today. Does it suit your taste?”
 
 “It’s good.”
 
@@ -165,17 +165,17 @@ Even while eating with my companions—
 
 That one word kept sticking in my throat like a thorn, and I couldn’t concentrate on the conversation.
 
-“Marriage…”
+“Marriage...”
 
 Just how should I handle this?
 
 I had no intention of marrying for political reasons, but I kept thinking about it anyway.
 
-“……!!”
+“......!!”
 
-“……?!!”
+“......?!!”
 
-“……??”
+“......??”
 
 If I’m not planning to return to Earth—
 
@@ -183,29 +183,29 @@ And if I’m going to keep living in this world—
 
 Then eventually, I would have to marry someone, wouldn’t I?
 
-Have children, see my grandchildren… live out my days peacefully…
+Have children, see my grandchildren... live out my days peacefully...
 
 Yeah, maybe something like that—
 
-“…Wouldn’t be so bad.”
+“...Wouldn’t be so bad.”
 
 The moment I said that out loud—
 
 I suddenly realized that an awkward silence had descended over the room.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Everyone was looking at me.
 
 One person sat frozen with their spoon suspended mid-air, while another dropped theirs.
 
-“…Hic!”
+“...Hic!”
 
 Someone else hiccupped as if they had choked on something.
 
-“……….Oh?”
+“..........Oh?”
 
 Another person hurriedly swallowed their food and blurted out something I couldn’t make sense of.
 
@@ -215,7 +215,7 @@ That was the trigger.
 
 “Yeah?”
 
-“…What did you just say?”
+“...What did you just say?”
 
 It was like someone had pressed the play button after pausing time.
 
@@ -229,11 +229,11 @@ Realizing I’d spoken my thoughts aloud, I was at a loss for words.
 
 Then, Auyen cautiously spoke beside me.
 
-“It is true that it’s about time you found a partner. In fact, most people in the city wonder why you haven’t already. But…”
+“It is true that it’s about time you found a partner. In fact, most people in the city wonder why you haven’t already. But...”
 
 “But?”
 
-“Bringing it up suddenly like this… Does that mean you already have someone in mind?”
+“Bringing it up suddenly like this... Does that mean you already have someone in mind?”
 
 At that direct question, everyone at the table swallowed hard.
 
@@ -241,7 +241,7 @@ Well, it wasn’t surprising.
 
 No one knew what the future held, but right now, we were practically bound together as comrades in fate.
 
-Yeah, so…
+Yeah, so...
 
 Might as well tell them honestly at this point.
 
@@ -261,21 +261,21 @@ It was a short, simple proposal.
 
 But the reactions from my companions? That would take pages to summarize.
 
-“Ah… s-so that’s what it was?”
+“Ah... s-so that’s what it was?”
 
 “Just an old man overstepping his bounds, it seems.”
 
-“S-So what will you do? If you have to find someone, then…”
+“S-So what will you do? If you have to find someone, then...”
 
 “Ooooh! Bjorn’s son?! He’ll definitely have great talent! I’ll raise him to be a mighty warrior!”
 
-“Ainar… what exactly do you mean by that?”
+“Ainar... what exactly do you mean by that?”
 
 “Yeah. That’s not something you just casually say. You’ll raise his son?”
 
 “What? What’s wrong? Bjorn’s son would practically be like my own.”
 
-“No, I mean…!”
+“No, I mean...!”
 
 “E-everyone calm down! I don’t think that’s what he meant!”
 
@@ -283,15 +283,15 @@ The situation was beyond chaotic.
 
 But it finally calmed down—or rather, entered a temporary lull—because of a question from an unexpected someone.
 
-“So… have you accepted the proposal?”
+“So... have you accepted the proposal?”
 
 Amelia asked bluntly, and the room fell quiet again.
 
-“……”
+“......”
 
-“……”
+“......”
 
-“……”
+“......”
 
 Even someone accustomed to public speaking would have a hard time speaking under this much pressure.
 
@@ -309,9 +309,9 @@ Come to think of it, it was a rather strange question.
 
 I mean, it’s not like barbarians could reproduce via mitosis.
 
-“Well…!”
+“Well...!”
 
-“…Well?”
+“...Well?”
 
 “I’d need the other party’s consent too!”
 
@@ -321,11 +321,11 @@ One second, two seconds, three seconds.
 
 How long did that silence last?
 
-“S-so… does that mean you intend to seek consent going forward…?”
+“S-so... does that mean you intend to seek consent going forward...?”
 
-“Uh…”
+“Uh...”
 
-“I—I might be misunderstanding! But the way you spoke just now… it almost sounded as if you already had someone in mind—”
+“I—I might be misunderstanding! But the way you spoke just now... it almost sounded as if you already had someone in mind—”
 
 The moment Auyen finished his question, I pushed back my chair and stood up.
 
@@ -333,11 +333,11 @@ And for good reason. My life as a warrior had taught me one thing:
 
 A clever warrior chooses their own battlefield.
 
-Therefore…
+Therefore...
 
 “I’m full, so I’m getting sleepy!”
 
-“…Huh?”
+“...Huh?”
 
 “I’m off to bed now!!”
 
@@ -349,7 +349,7 @@ It was a little embarrassing to have shown my colleagues such a flustered escape
 
 A warrior is someone who overcomes any adversity.
 
-But even for a Barbarian, who values honesty…
+But even for a Barbarian, who values honesty...
 
 How could a K-Barbarian, with Confucian principles engraved in their soul, possibly say it?
 
@@ -357,6 +357,6 @@ How could a K-Barbarian, with Confucian principles engraved in their soul, possi
 
 Ugh, I can never tell this to anyone.
 
-‘Get a grip, Hansu…’
+‘Get a grip, Hansu...’
 
 It’s not like only one person came to mind.

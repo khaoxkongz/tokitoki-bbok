@@ -14,7 +14,7 @@ Like me, he’s a tank. We crossed paths once in the past, and we even have a sm
 
 Back when I was disguised as Rihen Schuiz, he was the one who ingested the ‘Deep Sea Giant’ essence that Yi Baek-ho took from me.
 
-And…
+And...
 
 ‘Ruin Scholar.’
 
@@ -28,7 +28,7 @@ Fearing she might act rashly, I caught Erwin’s wrist and felt it trembling vio
 
 Well, that was to be expected.
 
-“That person… my sister…”
+“That person... my sister...”
 
 Erwin’s sister, Daria, died.
 
@@ -48,16 +48,16 @@ His mumbling was unsettling, like the ramblings of a heartless psychopath.
 
 I shifted my gaze and saw two other figures.
 
-Judging by his appearance, that must be the archer Misha mentioned…
+Judging by his appearance, that must be the archer Misha mentioned...
 
 The other was wrapped head-to-toe in a robe.
 
-Judging by his build, probably male…
+Judging by his build, probably male...
 
 Anyway, he must be that new companion Baek-ho mentioned.
 The one who wasn’t supposed to be revealed publicly just yet.
 
-Given the team’s composition, he’s probably a healer…
+Given the team’s composition, he’s probably a healer...
 
 Of course, that’s not something to worry about right now.
 
@@ -69,19 +69,19 @@ The way he said the word ‘baron’ made my hair stand on end with awkwardness,
 
 However, the reactions of his allies were quite noteworthy.
 
-“…Baek-ho, did you eat something weird?” The gatekeeper asked bluntly, while the archer looked genuinely shocked.
+“...Baek-ho, did you eat something weird?” The gatekeeper asked bluntly, while the archer looked genuinely shocked.
 
-“You… you can use that kind of speech…?”
+“You... you can use that kind of speech...?”
 
-For people to react this way simply because he spoke politely… just how arrogantly had he been living all this time?
+For people to react this way simply because he spoke politely... just how arrogantly had he been living all this time?
 
 I was genuinely baffled, though given how he’d carried himself in the past, I could understand it.
 
 Though, phrasing it that way made it sound as if he’d changed somehow.
 
-“Ah, and you too! Long time no see! So your name now is… Emily Raines, right?”
+“Ah, and you too! Long time no see! So your name now is... Emily Raines, right?”
 
-“……”
+“......”
 
 “But it’s really strange. First the kitty, and now you. Why is it that all my companions end up flocking to Baron Jandel? Doesn’t anyone value loyalty anymore?”
 
@@ -91,24 +91,24 @@ Misha was my ally from the start.
 
 And Amelia? She didn’t even join his group willingly—she infiltrated as a spy on a mission.
 
-“Jandel, be careful.” Versyl warned me “That man Baek-ho… he’s extremely dangerous.”
+“Jandel, be careful.” Versyl warned me “That man Baek-ho... he’s extremely dangerous.”
 
 Of course, Baek-ho heard it even from that distance.
 
 “Hm? You know me? I don’t think we’ve ever met.”
 
-“…We haven’t.”
+“...We haven’t.”
 
 “Then why say such nasty things?”
 
-“…”
+“...”
 
-“Tch, tsk… See, this is why preconceptions are scary.
-You’ve never even seen me, yet you’re acting like you know everything…”
+“Tch, tsk... See, this is why preconceptions are scary.
+You’ve never even seen me, yet you’re acting like you know everything...”
 
 Even at Lee Baek-ho’s rude remarks, Versyl didn’t answer and averted her eyes.
 
-She clearly looked terrified…
+She clearly looked terrified...
 
 “What, am I going to kill you or something? Lighten up—”
 
@@ -122,7 +122,7 @@ Although I was taken aback by our sudden encounter, I needed to confirm somethin
 
 “Yes, go ahead.”
 
-“Did you… follow us?”
+“Did you... follow us?”
 
 What exactly were Lee Baek-ho’s intentions?
 
@@ -136,7 +136,7 @@ If not, I might end up regretting not bringing the entire clan.
 
 ‘Exactly. I was shocked, too. Why would Baron Jandel be in such a lonely, deserted place where there are no witnesses and no one to help him?’
 
-“…”
+“...”
 
 The way he phrased it sent a chill down my spine. But I knew it was just another tactic to take control of the conversation.
 
@@ -158,9 +158,9 @@ His answer was something I could never have imagined.
 
 “I’m going to the conv’enience store.”
 
-Huh…
+Huh...
 
-“…What?”
+“...What?”
 
 “Ah! Right, Baron Jandel doesn’t know what a convenience store is! My mistake! My mistake!”
 
@@ -168,9 +168,9 @@ Is this guy seriously crazy?
 
 As I stared at him with a straight face, Lee Baek-ho continued with an awkward expression.
 
-“Just kidding… Probably for the same reason, right?”
+“Just kidding... Probably for the same reason, right?”
 
-“The same reason…?”
+“The same reason...?”
 
 “Huh? Didn’t you come here to go outside too, Baron?”
 
@@ -184,7 +184,7 @@ This bastard lives as he likes, doing as he pleases, but I’m not in a position
 
 “Enough jokes. If it’s a coincidence, then move along.’
 
-“…Sure, why not.”
+“...Sure, why not.”
 
 I pulled my allies away from the gate while Baek-ho led his to the side door and slipped into Noark.
 
@@ -192,17 +192,17 @@ I pulled my allies away from the gate while Baek-ho led his to the side door and
 
 I stayed silent, unsure who he was talking about.
 
-Lee Baek-ho chuckled in response”What, so this is your first time? No wonder….”
+Lee Baek-ho chuckled in response”What, so this is your first time? No wonder....”
 
 No wonder what?
 
 His words were a bit unsettling, but I didn’t want to talk to him any longer.
 
-“…Just get lost.”
+“...Just get lost.”
 
 “Yep. Then, have fun!”
 
-…Is there anyone in the world more irritating than him?
+...Is there anyone in the world more irritating than him?
 
 ***
 
@@ -212,7 +212,7 @@ He went straight ahead as if he didn’t care, and seeing this, I could be sure 
 
 I was honestly a bit skeptical.
 
-That’s why I had asked Amelia to double-check separately…
+That’s why I had asked Amelia to double-check separately...
 
 ‘Amelia also said the location seemed to be the square.’
 
@@ -226,23 +226,23 @@ Flash!
 
 Soon, a brief flash erupted, and both Amelia and Erwin lost track of their presence.
 
-“…They’re gone.”
+“...They’re gone.”
 
 We hurried to the square, where Erwin quickly scanned the empty space and asked Versil,
 
-“That was… magic, right?”
+“That was... magic, right?”
 
-“Yes. A mass teleportation spell. Judging by the residual magical energy, it seems they activated a hidden magic circle below here… under this square…”
+“Yes. A mass teleportation spell. Judging by the residual magical energy, it seems they activated a hidden magic circle below here... under this square...”
 
 “Don’t worry” I said “I know the incantation to activate the magic circle.”
 
-‘Huh? You know it?’ Her eyes seemed to scream. ‘Just…How?’
+‘Huh? You know it?’ Her eyes seemed to scream. ‘Just...How?’
 
 I just forced a smile.
 
 “I am a noble, I have my ways”
 
-“…Ah.”
+“...Ah.”
 
 Well, I couldn’t exactly say that Baek-ho told me.
 
@@ -254,20 +254,20 @@ Honestly, it was embarrassing to recite the chant since it sounded more like a p
 
 I just had to accept that this was how ancient mages thought about such things.
 
-“My body is made of swords. My blood is of iron, and my heart is of glass…”
+“My body is made of swords. My blood is of iron, and my heart is of glass...”
 
 Still, it was strange. Why was a sword even mentioned in a spell?
 
 Regardless, I finished the chant carefully.
 
-“…That body made of swords.”
+“...That body made of swords.”
 
 The moment I finished the embarrassing activation phrase
 
 Nothing happened.
 
-“…?”
-“…?”
+“...?”
+“...?”
 
 My allies stared at me in confusion.
 
@@ -279,11 +279,11 @@ It didn’t take long to realize.
 
 No, more precisely, I realized.
 
-[What, so this is your first time? No wonder….]
+[What, so this is your first time? No wonder....]
 
 What his last words meant.
 
-‘No wonder… he didn’t get angry.’
+‘No wonder... he didn’t get angry.’
 
 I had been tricked.
 
@@ -295,9 +295,9 @@ But anger doesn’t change anything.
 
 “W-well! Looks like the information was wrong! It happens!”
 
-“…Don’t blame yourself. Even nobles don’t always get the right intel.”
+“...Don’t blame yourself. Even nobles don’t always get the right intel.”
 
-“……”
+“......”
 
 Regardless of their reassurances, I quickly started thinking about solutions.
 
@@ -307,11 +307,11 @@ Regardless of their reassurances, I quickly started thinking about solutions.
 
 “How long would it take?”
 
-“…I don’t even know. I don’t have the knowledge to estimate.”
+“...I don’t even know. I don’t have the knowledge to estimate.”
 
 That damned Baek-ho.
 
-“………I don’t have any knowledge in this field, so I have no idea, not even how long it might take.”
+“.........I don’t have any knowledge in this field, so I have no idea, not even how long it might take.”
 
 That damned Baek-ho.
 
@@ -335,7 +335,7 @@ Thinking back, it was the same with Rotmiller.
 
 No matter what anyone says from the sidelines about these kinds of feelings, in the end, there’s no way other than to overcome them yourself.
 
-“…May I look around on my own for a bit?”
+“...May I look around on my own for a bit?”
 
 “Go ahead. We’ll keep our distance.”
 
@@ -349,37 +349,37 @@ To be honest, Versil wasn’t the only one with a complicated mind.
 
 If anything, I was worse.
 
-“…Erwin.”
+“...Erwin.”
 
 “Yes?”
 
 “Are you okay?”
 
-“…Yes, I’m fine. It’s just not the time yet, right? Not yet.”
+“...Yes, I’m fine. It’s just not the time yet, right? Not yet.”
 
 Even though she said that with a smile, I still felt uneasy.
 
 Perhaps thinking the same, Amelia changed the subject.
 
-“By the way, Jandel, I’ve been wondering since earlier… what exactly is a convenience store?”
+“By the way, Jandel, I’ve been wondering since earlier... what exactly is a convenience store?”
 
-“Oh, that…?”
+“Oh, that...?”
 
 Seeing she wanted to change the subject, I forced a brighter tone and continued the conversation.
 
 And after some time had passed..
 
-“…This feels like a nice outing.”
+“...This feels like a nice outing.”
 
 Thankfully, after a while, Erwin seemed to brighten a little.
 
 Still, I couldn’t understand how walking through the pitch-dark underground city, without a trace of natural light, could feel like an outing.
 
-“Come to think of it, this is also where I reunited with you, Mister…”
+“Come to think of it, this is also where I reunited with you, Mister...”
 
-“That’s right. You have no idea how surprised I was then…”
+“That’s right. You have no idea how surprised I was then...”
 
-“…I’m sorry. I was so out of it back then.”
+“...I’m sorry. I was so out of it back then.”
 
 “I’m not blaming you, so no need to apologize.”
 
@@ -388,19 +388,19 @@ Versil was still examining the ground intently, investigating something.
 
 “How about taking a break? We cleared our schedule in advance, so we can stay a few more days if needed.”
 
-“Ah… Yes.”
+“Ah... Yes.”
 
-“…Did you find out anything?”
+“...Did you find out anything?”
 
 When I asked, Versil remained silent for a while before answering in a whisper.
 
-“………Yes.”
+“.........Yes.”
 
 “Oh, that’s great to hear—”
 
 “The fact that even if I were given years, I wouldn’t be able to figure anything out.”
 
-Ah…
+Ah...
 
 I was at a loss for words for a moment, but when I heard her next words, I realised her morale wasn’t completely broken.
 
@@ -414,7 +414,7 @@ She wasn’t rationalizing, she was accepting the reality.
 
 “It’s really embarrassing, but what can I do? I’m sorry. For further investigation, we’ll probably need a much higher-level and more specialized mage than me.”
 
-A specialized mage…
+A specialized mage...
 
 “Do you have anyone to recommend?”
 
@@ -434,4 +434,4 @@ Urben Havelion.
 
 The GM of the evil spirits’ community, Ghost Busters.
 
-‘…Maybe this is a good chance to finally meet him.’
+‘...Maybe this is a good chance to finally meet him.’

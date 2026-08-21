@@ -2,7 +2,7 @@ The Big Fish (2)
 
 Two warriors and one archer.
 
-And…
+And...
 
 ‘The one without any gear—could he be an ability user?’
 
@@ -12,49 +12,49 @@ Mages, who have a lot to lose, usually don’t get involved in this sort of thin
 
 And Priests are out of the question.
 
-‘Anyway, such a team at this rank performing a raid on the first floor…’
+‘Anyway, a team at this level hunting on the first floor...’
 
-It’s heart-wrenching.
+It was infuriating.
 
-I wonder how helpless our baby barbarians must have felt.
+I wondered how helpless our young barbarians must have felt.
 
-I can’t exactly judge their feelings, but…
+I can’t exactly judge their feelings, but...
 
-“……”
+“...”
 
-At least I can convey that feeling to these bastards.
+At least I could make these bastards understand that feeling.
 
 “Are you laughing?”
 
 One of them frowned.
 
-Judging by his tone, he doesn’t seem to suspect my true identity. Rather, it sounds more like he’s mocking me—thinking I’m just a clueless Barbarian.
+Judging by his tone, he didn’t suspect my true identity. If anything, he was mocking me because he thought I was just a clueless barbarian.
 
 “Wow! No wonder they say their hearts are special. These guys don’t show a speck of fear.”
 
 I decided to play along for now.
 
-So…….
+So...
 
 Swish.
 
 I took a step back as though I had finally sensed something amiss, glancing at Aynar, who was still lying on the bare floor.
 
-Snooore—! Snore…
+Snooore—! Snore...
 
 How long is she going to keep pretending to sleep?
 
 I kicked Aynar’s back with the tip of my foot, signalling that it was time to get up. Immediately, Aynar jolted awake.
 
-“……Ugh! Wha, what is it!”
+“...Ugh! Wha, what is it!”
 
 A reaction so realistic that it couldn’t be acting.
 
-…So she was really asleep.
+...So she was really asleep.
 
-Sure, I can understand not noticing their presence, but sleeping on while we’re talking right next to her?
+Sure, I could understand not noticing their presence, but sleeping through a conversation happening right beside her?
 
-I don’t get it, but the situation isn’t too bad.
+I didn’t understand it, but the situation wasn’t too bad.
 
 After all.
 
@@ -62,7 +62,7 @@ After all.
 
 How could anyone not fall for this?
 
-“Ah! You, you guys are……!”
+“Ah! You-you guys are...!”
 
 Of course, Aynar seemed to realize the identity of the uninvited guests, so I quickly cut her off.
 
@@ -70,7 +70,7 @@ Of course, Aynar seemed to realize the identity of the uninvited guests, so I qu
 
 To be precise, I meant she should watch her mouth.
 
-“Ah, got it…….”
+“Ah, got it...”
 
 Aynar grabbed her weapon and stood behind me as I raised my iron greatsword and scanned them cautiously.
 
@@ -82,27 +82,27 @@ They didn’t even bother to answer my question.
 
 “Boss, let’s finish this quickly before anyone sees us. I think the guild is starting to catch on.”
 
-What, are they treating me like I’m already dead?
+What, were they treating me like I was already dead?
 
-All right, just throw the first punch.
+All right. Just throw the first punch.
 
-From then on, it’s all up to me…
+After that, it would all be up to me...
 
-“Wait a minute! That barbarian… he looks familiar. Where… where have I seen him …?”
+“Wait a minute! That barbarian... he looks familiar. Where... where have I seen him...?”
 
 Suddenly, the hunchbacked crossbowman narrowed his eyes at me.
 
-Could he have recognised me?
+Had he recognized me?
 
-If so, I’ll have to go with Plan B-.
+If so, I would have to switch to Plan B.
 
-“Where would you have seen him? They all look the same. That’s why he looks familiar.
+“Where would you have seen him? They all look the same. That’s why he looks familiar.”
 
 Right on time, backup arrived.
 
-“Hmm, it doesn’t feel like that though…”
+“Hmm, it doesn’t feel like that though...”
 
-The archer’s survival instincts were admirable, but unfortunately the melee types seemed to have more say in the team.
+The archer’s survival instincts were admirable, but unfortunately the melee fighters seemed to have more say in the team.
 
 “Think about it later. Let’s clean this up and get out of here first.”
 
@@ -112,7 +112,7 @@ That was the decided course of action.
 
 They grinned and began to close in.
 
-And…
+And...
 
 A thud.
 
@@ -122,11 +122,11 @@ The guy on my left swiftly swung his longsword.
 
 Whoosh-!
 
-A decent slash.
+A decent strike.
 
-But I just stared at the blade as it moved towards my neck. Perhaps he mistook my inaction for being unable to react to his surprise attack.
+But I simply watched the blade move toward my neck. He must have mistaken my inaction for being unable to react to the surprise attack.
 
-” … ”
+” ... ”
 
 The swordsman’s eyes curved into a grin.
 
@@ -138,7 +138,7 @@ The blade stopped dead on my skin without even leaving a scratch.
 
 “Huh?”
 
-Yeah, judging by that expression, it looks like all my patience so far is paying off.
+Yeah. Judging by that expression, all my patience had paid off.
 
 Swoosh.
 
@@ -150,17 +150,17 @@ And then –
 
 I gave a quick flick of my wrist to pull him in.
 
-The swordsman, following the fundamental rule of never letting go of your weapon, came stumbling straight at me.
+The swordsman, obeying the fundamental rule of never letting go of his weapon, stumbled straight toward me.
 
 Crunch.
 
 I shot out my other hand to grab his neck.
 
-Then, right next to me, another of his comrade swung a double-bladed axe at my hand, probably thinking he had to save his comrade…
+Then another of his comrades swung a double-bladed axe at my arm, probably trying to save the swordsman...
 
 Click
 
-Yes, it’s not easy to make the right decision in that split second.
+Yes, it wasn’t easy to make the right decision in a split second.
 
 “Aynar.”
 
@@ -172,15 +172,15 @@ BOOM!
 
 As soon as the weapons clashed, an explosion erupted, and the warrior holding the axe was blasted into dozens of fragments, spraying blood everywhere.
 
-“…Explosive blade!”
+“...Explosive blade!”
 
 The ability user shrieked as if he were having a fit.
 
-That was the ability user’s last words.
+Those were the ability user’s last words.
 
 Boom!
 
-The Ability User was torn to pieces without even putting up a fight.
+The ability user was torn to pieces without putting up a fight.
 
 On the other hand, one of them made the right decision.
 
@@ -194,17 +194,17 @@ The crossbowman seemed to have already figured out who I was, and as soon as one
 
 But—
 
-[Your character has cast ‘Transcendence.’]
+[The character has cast [Transcendence].]
 
-He thinks he can outrun me by just running on foot?
+He thought he could outrun me on foot?
 
-[Your character has cast ‘Eye of the Storm.’]
+[The character has cast [Eye of the Storm].]
 
-Like that’s going to happen.
+Like that was going to happen.
 
 ---
 
-As soon as I twisted the neck I was holding, the body went limp.
+As soon as I twisted the neck in my grip, the body went limp.
 
 As I released my grip, the swordsman’s body collapsed to the ground with a heavy thud.
 
@@ -224,11 +224,11 @@ Hmm?
 
 I raised my hand slightly to stop Aynar.
 
-Seeing a glimmer of hope, the crossbowman made a condition.
+Seeing a glimmer of hope, the crossbowman tried to bargain.
 
-“If I tell you, will you swear to… spare me?”
+“If I tell you, will you swear to... spare me?”
 
-“Swear, huh…”
+“Swear, huh...”
 
 What a funny guy.
 
@@ -238,27 +238,27 @@ As I laughed softly, Aynar raised her voice in anger.
 
 “Enough. Calm down.”
 
-“…….”
+“...”
 
 “Fine. I’ll swear. If the information you give is valuable, I’ll let you go.”
 
-I made the oath coolly.
+I gave the oath without hesitation.
 
 But the crossbowman’s expression was quite strange upon hearing the answer he wanted.
 
-He seemed to be debating whether to trust me or not.
+He seemed to be debating whether he could trust me.
 
 However, the crossbowman quickly made up his mind.
 
-“Th, this will definitely be valuable to you, Baron…”
+“Th, this will definitely be valuable to you, Baron...”
 
-I guess he figured that someone like me wouldn’t break an oath… …….
+I guess he figured someone like me wouldn’t break an oath...
 
 “All right, just spit it out.”
 
 As I urged him on, the crossbowman began to speak nervously.
 
-“It’s… the mages……”
+“It’s... the mages...”
 
 Mages?
 
@@ -266,9 +266,9 @@ Why mages all of a sudden?
 
 I glared at him, telling him to get to the point, and he continued.
 
-“Some mages… have posted requests on the black market. They’ll pay more if you bring them a barbarian’s heart…”
+“Some mages... have posted requests on the black market. They’ll pay more if you bring them a barbarian’s heart...”
 
-“Hmm……”
+“Hmm...”
 
 What’s that about?
 
@@ -282,33 +282,31 @@ But what of it?
 
 It wasn’t particularly valuable information.
 
-There was no explanation as to who the mages were, and even if I knew who they were, there’s no way to punish them outside without evidence.
+There was no explanation of who the mages were, and even if I learned their identities, I couldn’t punish them outside the Labyrinth without evidence.
 
-“If that’s all.
-
-Then just die now.
+“If that’s all, then die.”
 
 As I was about to say that, the crossbowman interrupted me, shouting.
 
 “There’s more! There’s more, Baron!”
 
-“……?”
+“...?”
 
-“Th, there’s also a request on the black market… for your heart… ……”
+“Th-there’s also a request on the black market... for your heart...”
 
-“…… What?”
+“...What?”
 
 Startled, I asked for more details.
 
 The reward for the request was a whopping 2 billion stones.
 
-The requester was unknown, he said.
+He said the requester was unknown.
 
-“The black market, huh……”
+“The black market, huh...”
 
 As I fell into thought, the crossbowman began to appeal to me, sensing an opportunity.
 
-“……So… what do you think? D-does this help you, Baron……?”
+“...So... what do you think? D-does this help you, Baron...?”
 
 Ah, that?
 
@@ -318,13 +316,13 @@ Since I had no connections in that area, this was the first I’d heard of it.
 
 I planned to investigate further once I returned to the city.
 
-But…….
+But...
 
 “No, not at all. Now, go ahead and die.”
 
-What are you going to do if I say no?
+What was he going to do if I said no?
 
-“Th-this isn’t what we agreed—.”
+“Th-this isn’t what we agreed—”
 
 What the hell is this bastard talking about?
 
@@ -344,23 +342,23 @@ Crack-
 
 After finishing off the last one, I collected their equipment and bags and stored them in my subspace.
 
-It wouldn’t be much, but it would be perfect to add to the barbarian treasury and use for the young barbarians—.
+It wouldn’t be much, but it would be perfect for the barbarian treasury and could be reused by the young warriors.
 
 Squelch.
 
-……Huh?
+...Huh?
 
 I heard a squelching sound from beside me and turned to see Aynar stabbing a corpse with her greatsword, gripping it in reverse.
 
-“What are you doing, Aynar……?”
+“What are you doing, Aynar...?”
 
 “Can’t you tell? I’m cutting out their hearts.”
 
-“……?”
+“...?”
 
 “Shouldn’t they know? If they want our hearts, they’ll have to stake their own.”
 
-Hmm…….
+Hmm...
 
 Is she trying to say an eye for an eye?
 
@@ -370,11 +368,11 @@ After saying that, Aynar carved out the hearts from the two relatively intact co
 
 “There, it’s done. Let’s go, Bjorn. We’ve got more bastards to kill, don’t we? I think I can act even better now!”
 
-Honestly, she is pretty scary too.
+Honestly, she was pretty scary too.
 
 ---
 
-Days 4, 5 and 6…
+Days 4, 5, and 6...
 
 Time flew by quickly after the first successful fishing.
 
@@ -388,9 +386,9 @@ It would have been great if we’d been covered in real wounds, but that was rea
 
 Any wound that severe would regenerate in under a minute.
 
-Anyway, the extra effort paid off. Before the end of Day 5, we managed to find another group of plunderers that felt similar to the first – and killed them.
+Anyway, the extra effort paid off. Before the end of Day 5, we found another group of plunderers similar to the first—and killed them.
 
-For reference, these guys were more cautious than the previous group, secretly following us for a while to observe –
+These ones were more cautious than the first group and secretly followed us for a while to observe—
 
 “Damn.”
 
@@ -400,33 +398,33 @@ We found four fresh hearts in their packs.
 
 They’d already finished a job before they met us.
 
-“……Aynar, calm down. I’ll deal with this when we get back.”
+“...Aynar, calm down. I’ll deal with this when we get back.”
 
-“…….”
+“...”
 
 “So let’s go. Everyone’s probably waiting for us.”
 
-“Got it…….”
+“Got it...”
 
-After Aynar had calmed down, we went to the centre where our comrades were waiting.
+After Aynar had calmed down, we went to the center where our comrades were waiting.
 
 “Mister!”
 
 Erwin, who had sensed my presence from afar, came out to greet me.
 
-Following Erwin, we went to the cave with the monument, activated a sound control spell and began our conversation.
+Following Erwin, we returned to the cave with the monument, activated a sound-blocking spell, and began our conversation.
 
 “Emily, has anything unusual happened?”
 
 “As if. The thing you were worried about has happened.”
 
-“The thing I was worried about…”
+“The thing I was worried about...”
 
 “There are people nearby watching us.”
 
-Yes, that’s what I thought…….
+Yes, just as I’d expected.
 
-“What should we do? If they’re sent by Count Alminas, summoning the Floor Master could be extremely dangerous.”
+“What should we do? If they’re sent by Count Alminas, summoning the Floor Lord could be extremely dangerous.”
 
 Vercil spoke with a serious expression, offering advice.
 
@@ -434,18 +432,18 @@ But I just grinned.
 
 “Don’t worry too much. It’s within the expected parameters.”
 
-“…… You expected this?”
+“...You expected this?”
 
-Yes, I even openly submitted a submission request to the guild, saying I’d be hunting somewhere, didn’t I?
+Of course. I had openly filed a subjugation request with the Guild and announced where we would be hunting.
 
 It would be strange not to expect this level of interference.
 
-Besides, it’s not something I was “worried” about.
+Besides, it wasn’t something I had been worried about.
 
-If anything, it’s something I ‘expected’.
+If anything, it was something I had expected.
 
 When Vercil asked about our next move, I answered decisively.
 
-“We will summon the Floor Master as planned.”
+“We will summon the Floor Lord as planned.”
 
 The big fish has taken the bait.

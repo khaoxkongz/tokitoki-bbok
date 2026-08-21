@@ -1,6 +1,6 @@
 # Special Force (4)
 
-Let’s see. One, two, three, four, five, six…
+Let’s see. One, two, three, four, five, six...
 
 ‘Seventeen.’
 
@@ -24,11 +24,11 @@ Moreover, five of the twenty were specialists in searching rather than combat. E
 
 It’s been quite some time since we entered the Marquis’s estate.
 
-‘They should be showing up soon…’
+‘They should be showing up soon...’
 
 That was the thought running through my head as I watched the corpse collector being put in handcuffs.
 
-“Bjorn Jandel… you damn bastard…!”
+“Bjorn Jandel... you damn bastard...!”
 
 He glared at me, his eyes filled with hatred.
 
@@ -44,9 +44,9 @@ Though he didn’t completely fall for my tricks, he still had to take responsib
 
 It seemed he wanted to eliminate any variables, just in case.
 
-So…
+So...
 
-“Y-y-you… you…!!!”
+“Y-y-you... you...!!!”
 
 The Corpse Collector stammered, seemingly at a loss for words. In the end, all he could do was tremble in his cuffs.
 
@@ -54,11 +54,11 @@ Tap tap tap—!
 
 Suddenly, the sound of armored knights running echoed from outside the door.
 
-“This is… getting troublesome, Vice-Captain.” Glasses muttered. He was probably the brains of the group.
+“This is... getting troublesome, Vice-Captain.” Glasses muttered. He was probably the brains of the group.
 
-The vice-captain’s gaze swept over me. “So that was to buy time…”
+The vice-captain’s gaze swept over me. “So that was to buy time...”
 
-“…So it was to buy time.”
+“...So it was to buy time.”
 
 Even as he said this, there was no emotion in his eyes. He was simply watching me, and because of that, I failed to recognise the trace of emotion hidden in his otherwise expressionless eyes.
 
@@ -70,7 +70,7 @@ It felt as though he was still in the information-gathering phase, trying to und
 
 “You are quite a troublesome opponent.”
 
-“…”
+“...”
 
 “Release Abet Necrapeto.”
 
@@ -84,7 +84,7 @@ As if he had absolute trust in the Vice-Commander’s eyes.
 
 Even so, his mood appeared to improve once he was released.
 
-“Hah… honestly! To think we’d be toyed with by the tongue of some savage like that… I simply can’t understand it!”
+“Hah... honestly! To think we’d be toyed with by the tongue of some savage like that... I simply can’t understand it!”
 
 He reverted to his strange way of speaking, and his renewed confidence made me want to smash my fist down on his head.
 
@@ -98,7 +98,7 @@ Much like a policeman arriving with a warrant, the old knight began shouting as 
 
 But then he froze upon seeing the situation inside the room.
 
-“…Huh?Why are they here..”
+“...Huh?Why are they here..”
 
 Judging by his stunned expression, I realized I’d likely looked the same when I first barged in.
 
@@ -112,57 +112,57 @@ The only remaining issue was to wipe these guys out here together with the knigh
 
 “Long time no see, Morgan Caritumore.”
 
-“…You are… Demon-Eye?”
+“...You are... Demon-Eye?”
 
 It turned out the vice-captain was acquainted with that knight, the room stirred with murmurs at the mention of his name.
 
-“Caritumore…?”
+“Caritumore...?”
 
-“The 2nd Royal Knights Commander…?”
+“The 2nd Royal Knights Commander...?”
 
-“Then he is the famous ‘King’s Knight’…?”
+“Then he is the famous ‘King’s Knight’...?”
 
 Since the Marquis had sent him to arrest me, I knew he wouldn’t be insignificant, but someone even more important than I’d expected had arrived.
 
 “Morgan Caritumore”
 
-Better known by his epithet, “the King’s Knight,” he was the former bodyguard and right-hand man of the King of the New World. After the King fell ill and became bedridden, he retired for political reasons, but recently took office as the commander of the vacant 2nd Royal Knights…
+Better known by his epithet, “the King’s Knight,” he was the former bodyguard and right-hand man of the King of the New World. After the King fell ill and became bedridden, he retired for political reasons, but recently took office as the commander of the vacant 2nd Royal Knights...
 
-“Pssit… you don’t see him out and about very often.”
+“Pssit... you don’t see him out and about very often.”
 
 Given his presence, it was only natural that everyone was shocked.
 
 The Vice-Commander of Orcules is certainly a big shot, the reputation of that old monster over there didn’t lose out at all. Before he retired, nine out of ten people in the city would have called him the strongest without hesitation.
 
-“Evil Eye, Banojant. Your presence here means… Baron Jandel has truly succeeded in his mission.”
+“Evil Eye, Banojant. Your presence here means... Baron Jandel has truly succeeded in his mission.”
 
-Huh…
+Huh...
 
-“…It seems so.”
+“...It seems so.”
 
 “I heard you stormed the marquis’s estate without a plan, but it seems that wasn’t the case after all. I thought it strange that someone of your caliber would act so rashly.”
 
-“……”
+“......”
 
 “How on earth did you do it? Even the Royal Intelligence Bureau failed to grasp this information.”
 
-“The secret is… rational deduction and suspicion.”
+“The secret is... rational deduction and suspicion.”
 
 “Hoho, so you can’t reveal your informants?”
 
-Uh…
+Uh...
 
-“……”
+“......”
 
 “How on earth did you do it? Even the Royal Intelligence Bureau couldn’t uncover that information.”
 
-“The secret is… logical deduction and suspicion.”
+“The secret is... logical deduction and suspicion.”
 
 “Hoho, so you can’t reveal your informant?”
 
-Huh…
+Huh...
 
-“……”
+“......”
 
 It felt as if a senior member at my company were looking at me with pride, and I ended up just closing my mouth shut from the pressure of it.
 
@@ -174,7 +174,7 @@ As always, that works about half the time.
 
 With that, my conversation with the Knight of the King came to a close.
 
-Okay, that went on a bit too long… I’m just glad he isn’t a paladin.
+Okay, that went on a bit too long... I’m just glad he isn’t a paladin.
 
 Knight Gramps drew his sword, and I assumed my battle stance in response. We had the advantage in numbers, and the terrain favored us as well, since the marquis’s office had no windows.
 
@@ -196,9 +196,9 @@ He simply spoke quietly.
 
 “Very well. We surrender.”
 
-…What?
+...What?
 
-“…What did you just say?”
+“...What did you just say?”
 
 So it wasn’t just me. Knight Gramps sounded just as caught off guard as I was.
 
@@ -206,7 +206,7 @@ So it wasn’t just me. Knight Gramps sounded just as caught off guard as I was.
 
 The vice-captain repeated himself in the same flat tone.
 
-…It was a completely unexpected development.
+...It was a completely unexpected development.
 ***
 
 The Orcules special unit had clearly infiltrated this place with some purpose.
@@ -219,17 +219,17 @@ No matter how you looked at it, the situation was suspicious and unsettling.
 
 Knight Gramps was no different, so he took matters into his own hands and arrested them himself.
 
-And yet…
+And yet...
 
-“……”
+“......”
 
-“……”
+“......”
 
 Right up until the end, they offered no resistance, simply allowing themselves to be captured. And just like that, it was all over.
 
-“…You’ve achieved great merit. Congratulations, Baron.”
+“...You’ve achieved great merit. Congratulations, Baron.”
 
-“Please tell the Marquis that we also worked hard…”
+“Please tell the Marquis that we also worked hard...”
 
 The men assigned by the Marquis were happy about the current situation, they were ultimately glad.
 
@@ -251,7 +251,7 @@ But I just don’t think they would do that.
 
 And this time, it wasn’t just a gut feeling. I had a reason.
 
-‘It makes no sense that… no one resisted.’
+‘It makes no sense that... no one resisted.’
 
 After the Deputy Commander declared surrender, not a single soul voiced any objection.
 
@@ -269,17 +269,17 @@ One or two would likely show such reactions, but the complete absence of any suc
 
 Unless they had planned for this situation and discussed it beforehand.
 
-‘…They definitely have something up their sleeve.’
+‘...They definitely have something up their sleeve.’
 
 The problem was that I had absolutely no idea what it was, and there was nothing I could do about it right now.
 
-“…Caritumore, what will you do with them?”
+“...Caritumore, what will you do with them?”
 
 “It has nothing to do with your mission, but since you contributed greatly to capturing them, I’ll answer. From now on, they will be transferred to the royal family. And they will be imprisoned and forced to spill everything they know by intelligence agents.”
 
-Yeah, that’s how it’s going to be…
+Yeah, that’s how it’s going to be...
 
-“…Can’t we just kill them all right here?”
+“...Can’t we just kill them all right here?”
 
 I explained how dangerous they were and even raised the possibility that they’d let themselves be captured on purpose, but Knight Gramps didn’t listen.
 
@@ -303,7 +303,7 @@ Then, after some time—
 
 With that, Knight Gramps led them all out to the garden, and the Noark bastards were transferred to a carriage designed for transporting criminals.
 
-And then… what was this?
+And then... what was this?
 
 “Bjorn Jandel.”
 
@@ -317,13 +317,13 @@ It was not the face of someone being dragged off to die, and that gave me certai
 
 I’d regret letting them go like this.
 
-“…You messing with me?”
+“...You messing with me?”
 
 The vice-captain replied with his trademark, irritating smile, the corners of his eyes crinkling.
 
 “What if I am? Are you going to harm me? Someone like you, who has so much to lose?”
 
-“…”
+“...”
 
 “Contrary to appearances, you are a very rational person. And dealing with such people is not very difficult—”
 
@@ -331,7 +331,7 @@ I cut him off and gave a short reply.
 
 “Yeah.”
 
-“…?”
+“...?”
 
 He looked puzzled by how short my answer was, though he probably had a rough idea why.
 

@@ -8,13 +8,13 @@ Of course, no matter how chaotic it looked, it couldn’t compare to other distr
 
 The moment the war ended, the capital would likely be restored to its pristine condition.
 
-As for the other districts… or more accurately…
+As for the other districts... or more accurately...
 
 ‘I could not say the same for District Seven.’
 
 I had not seen it with my own eyes and had only heard about it secondhand, yet I already knew. District Seven, the place I practically considered my home base, was a complete disaster.
 
-“…I’ll think about that later.”
+“...I’ll think about that later.”
 
 The thought of all the funds and effort I had poured into District Seven made my stomach churn, but matters of ‘loss’ could wait until everything was over.
 
@@ -24,7 +24,7 @@ The thought of all the funds and effort I had poured into District Seven made my
 
 Shortly after arriving at Karnon’s military platform, we moved on to District Five, which could be considered the front lines of the war.
 
-And then…
+And then...
 
 “Nia Raphdonia!”
 
@@ -32,9 +32,9 @@ As we passed the soldiers who froze at the sight of Astarota’s insignia and st
 
 Surprisingly, however, the expressions of the soldiers bustling in front of the platform were calm.
 
-Well… maybe “calm” wasn’t the right way to put it.
+Well... maybe “calm” wasn’t the right way to put it.
 
-“…….”
+“.......”
 
 The soldiers were busy with their duties, their eyes were so sunken and hollow that it wouldn’t have been strange if they collapsed at any moment. Everyone was busy carrying out their duties, and that alone told me more about the state of things than any explanation could.
 
@@ -62,15 +62,15 @@ True. If I were the commander, I would have protected the military platform at a
 
 In any case, as I continued to look around the area like a noble out on a leisurely stroll, people began to recognize me and whisper among themselves.
 
-“Hey, it’s Baron Jandel…”
+“Hey, it’s Baron Jandel...”
 
-“I heard he went missing after the building collapsed…”
+“I heard he went missing after the building collapsed...”
 
-“The fact that the Baron is here… it might be a sign that they’re planning to turn the tide of the war.”
+“The fact that the Baron is here... it might be a sign that they’re planning to turn the tide of the war.”
 
 “How would we know what the higher-ups are thinking? Just do your job.”
 
-Tch… maybe I should’ve covered my face.
+Tch... maybe I should’ve covered my face.
 
 ‘But those who knew me would recognize me regardless.’
 
@@ -94,11 +94,11 @@ I’d heard their offensive had been so intense that this barricade line was ste
 
 After finishing my inspection, I finally checked the sewers. I had heard that Noark had collapsed the sewers entirely so they couldn’t be used as a passage, but I decided that I needed to see for myself.
 
-However…
+However...
 
 ‘Can’t use this.’
 
-I hadn’t gone far down the sewer entrance before I came to a block of rubble that was preventing me from going any further. Well, clearing the debris while moving forward was an option, but…
+I hadn’t gone far down the sewer entrance before I came to a block of rubble that was preventing me from going any further. Well, clearing the debris while moving forward was an option, but...
 
 ‘It would take too much time.’
 
@@ -108,13 +108,13 @@ So, if I want to reach my allies, I have no choice but to break through the midd
 
 “I heard the fighting there is fiercer than in any other district. Noark’s main force is stationed there, and the captain of Orcules is said to keep appearing as well.”
 
-Oh… that bastard’s there?
+Oh... that bastard’s there?
 
 “That complicates things.”
 
 When we met 20 years ago, I’d managed to deal with him using tricks—but there was no way he’d fall for the same thing twice.
 
-“And if their main force present…”
+“And if their main force present...”
 
 All right. District Four was completely off-limits.
 
@@ -126,9 +126,9 @@ All right. District Four was completely off-limits.
 
 When I pressed for details, familiar names poured out of Astarotta’s mouth.
 
-Blood Knight, Black Claw, Screaming Witch, Corpse Collector, and so on…
+Blood Knight, Black Claw, Screaming Witch, Corpse Collector, and so on...
 
-‘What the hell? I was wondering what he meant by “Core members”…’
+‘What the hell? I was wondering what he meant by “Core members”...’
 
 Having fought them before when they still had the Lighthouse Keeper among their ranks, Sector 8 seemed like the easiest target. Still, it likely would not be as easy as I first thought. I had heard that several rookies had debuted recently and had yet to earn nicknames.
 
@@ -152,7 +152,7 @@ That made sense.
 
 After all, the prime minister’s son was an evil spirit. The marquess was not his truefather, so there was no reason for him to willingly throw himself into the fire alongside him.
 
-‘…This might become important later.’
+‘...This might become important later.’
 
 Afterward, I took some time alone to organize my thoughts. Which route would allow me to pass through District Seven and reach my allies in the barbarian sanctuary most efficiently?
 
@@ -174,7 +174,7 @@ At my question, Astarotta gave a small smirk and dropped a single piece of advic
 
 “Be careful of the Corpse Collector. He has been unusually active, as if he has been preparing for this war for a long time.”
 
-…Uh.
+...Uh.
 
 I could tell he was genuinely concerned for me, but—
 
@@ -190,7 +190,7 @@ Before taking the military lift to District Nine, I asked Astarota for several t
 
 Preparations complete.
 
-‘Now I just need the signal…’
+‘Now I just need the signal...’
 
 As I waited for the right moment in front of the tightly closed city gates, I saw a nervous Raven.
 
@@ -202,11 +202,11 @@ It seemed Raven expected me to command the army and force my way through the ene
 
 “Relax. Sometimes moving with a small group is better than to be stuck with a crowded mess.”
 
-“…That’s supposed to be comforting?”
+“...That’s supposed to be comforting?”
 
 “If you’re that worried, you can stay behind—”
 
-“No! I’d be more anxious if I didn’t go. And it’s not like they’re strangers…”
+“No! I’d be more anxious if I didn’t go. And it’s not like they’re strangers...”
 
 No matter what she said, she was someone closely tied to us.
 
@@ -216,7 +216,7 @@ While I was still smirking to myself at the thought, Astarotta approached us. He
 
 “I’ve got updates. The command in District Five responded—your requests will be carried out by tomorrow morning.”
 
-“…That’s late.”
+“...That’s late.”
 
 “Don’t whine. They need time to prepare too.”
 
@@ -240,7 +240,7 @@ Auyen Rocklove.
 
 And Amelia.
 
-“…Say it.”
+“...Say it.”
 
 “Auyen Rocklove and Emily Raines.”
 
@@ -248,7 +248,7 @@ And Amelia.
 
 “District Four.”
 
-“…District Four?”
+“...District Four?”
 
 “According to our spies, there was a violent incident in District Four. They were the perpetrators.”
 
@@ -262,9 +262,9 @@ How had they ended up in District Four after getting separated in District Seven
 
 I was worried beyond words.
 
-“…Don’t worry too much,” the knight captain said, noticing my unease. “I am confident they can at least take care of themselves.”
+“...Don’t worry too much,” the knight captain said, noticing my unease. “I am confident they can at least take care of themselves.”
 
-“…I suppose.”
+“...I suppose.”
 
 Since I couldn’t rush to Sector 4 right now, I decided to stop thinking about it as much as possible. If I kept thinking, only the worst-case scenarios would come to mind. As always, ominous predictions were the seeds from which tragedy would grow.
 
@@ -276,7 +276,7 @@ From tomorrow onward, grueling days awaited.
 
 I intended to rest as well, but disasters always struck when you least expected them.
 
-Rrrrrk… rrrrrk…
+Rrrrrk... rrrrrk...
 
 A sound that should never have been heard began to echo from the distance.
 
@@ -312,7 +312,7 @@ Crunch—!
 
 Only after it fell right before my eyes did I realize what it was.
 
-“Human corpses…?”
+“Human corpses...?”
 
 They were barely recognisable as corpses; it was as though they had been torn from a Corpse Golem. The one that landed at my feet had come over the towering wall ahead.
 
@@ -332,7 +332,7 @@ The gates had been lifted just enough for a single carriage to pass, and below t
 
 “S-stop them!!”
 
-“Nia Raphtonia…!”
+“Nia Raphtonia...!”
 
 Despite the immediate response of the soldiers, it wasn’t enough.
 
@@ -364,10 +364,10 @@ This bastard is still acting like that, even when he’s alone.
 
 Huh?
 
-“…Uh?”
+“...Uh?”
 
 Why did you stop talking?
 
-“Bjorn… Jandel…?”
+“Bjorn... Jandel...?”
 
 Oh, so it’s because you saw me.

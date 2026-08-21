@@ -10,15 +10,15 @@ Thinking about it, it was only natural.
 
 The round table members were all old users who had been dragged into this unfamiliar world several years ago.
 
-“Home…?”
+“Home...?”
 
-“You’re saying… you’ll send us back?”
+“You’re saying... you’ll send us back?”
 
 Because they had spent so long here, they knew better than anyone. The goal of opening the Abyss Gate and returning home was close to impossible.
 
 That’s why most of them had accepted life here and lived earnestly.
 
-But…
+But...
 
 “What, is the reward not to your liking?”
 
@@ -42,7 +42,7 @@ If something suspiciously enticing was placed right in front of them, they knew 
 
 Just like this.
 
-“…I’d like to hear what kind of game it is first.”
+“...I’d like to hear what kind of game it is first.”
 
 “If we can only hear it after agreeing to participate, then I’m not interested.”
 
@@ -56,7 +56,7 @@ It was strange.
 
 His tone made him sound like a grandfather next door, but from our perspective, it felt nothing like that.
 
-“…….”
+“.......”
 
 As Auril Gavis paused for a moment, the members’ expressions grew even more tense.
 
@@ -70,21 +70,21 @@ Just as that thought crossed my mind, the old man finally spoke.
 
 A game none of us had expected.
 
-“A… quiz?”
+“A... quiz?”
 
 “Yes, the very quiz you’re thinking of. So quit looking at me like that.”
 
-“No, it’s just… I’m curious about how it’ll work.”
+“No, it’s just... I’m curious about how it’ll work.”
 
 “Ah, I didn’t explain that. I’ll ask questions and you’ll answer. Whether it’s true or false. It’s a multiple-choice quiz with only two options.”
 
-“A true or false quiz…” Goblin muttered in an uneasy voice, and Auril Gavis added an explanation.
+“A true or false quiz...” Goblin muttered in an uneasy voice, and Auril Gavis added an explanation.
 
 Well, I don’t know if you can call it an explanation.
 
 “The quiz will continue until only one person remains. Oh, of course, you’re free to quit partway if you like.”
 
-“Huh…?”
+“Huh...?”
 
 Butterfly let out a sound as if to say, ‘What’s this?’
 
@@ -116,7 +116,7 @@ The old man then asked who would participate, and the members quickly made their
 
 “Don’t worry. Didn’t I already say? This game is the price you pay for having your masks removed.”
 
-“In that case… I’ll do it.”
+“In that case... I’ll do it.”
 
 With the Queen’s final decision, all the members decided to participate.
 
@@ -126,7 +126,7 @@ Well, except for me.
 
 Not that I can’t return, but more like he has no intention of sending me back like this. I have to grow stronger and open the Abyss Gate myself someday.
 
-“Huh… So the Lion is different from us? How interesting.”
+“Huh... So the Lion is different from us? How interesting.”
 
 Butterfly’s gaze toward me deepened, and with that, Auril Gavis clapped his hands to gather attention.
 
@@ -136,11 +136,11 @@ I noticed belatedly that X and O signs had been placed in front of each seat.
 
 Well, this really does feel like a mini-game now.
 
-‘…This old man definitely has something up his sleeve.’
+‘...This old man definitely has something up his sleeve.’
 
 What kind of trick is he planning?
 
-I don’t know yet, but…
+I don’t know yet, but...
 
 “Now, then. The first question.”
 
@@ -148,29 +148,29 @@ As the true-false quiz began, I realized why he had mentioned quitting midway th
 
 “The Fox Mask is a mage.”
 
-“……!”
+“......!”
 
 “If true, raise the O sign. If false, raise the X.”
 
-…This wasn’t a game about answering correctly.
+...This wasn’t a game about answering correctly.
 
 The moment the first question was asked, an awkward tension filled the air.
 
-“…….”
+“.......”
 
 Fox was clearly trying to keep her expression neutral, but failing miserably.
 
-And…
+And...
 
-“Uh…”
+“Uh...”
 
 Goblin, who knew the circumstances, was even more flustered as he glanced at Fox’s face.
 
-“Hmm…”
+“Hmm...”
 
 The Queen, too, seemed to have realized the hidden truth of this game.
 
-“Huh… can’t we just hold up whatever Fox holds up? I mean, it’s her question.”
+“Huh... can’t we just hold up whatever Fox holds up? I mean, it’s her question.”
 
 “Oh? Not a bad idea, actually.”
 
@@ -184,15 +184,15 @@ At Butterfly’s question, Auril Gavis nodded.
 
 “Congratulations. Everyone answered correctly. Now, onto the second question.”
 
-“…….”
+“.......”
 
 “The Goblin Mask is a paladin.”
 
 It was at this moment that Wolf and Butterfly realized Auril Gavis’s intentions.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 The room was now so quiet it was hard to believe a game was going on. Everyone raised an “O” sign, and the process repeated.
 
@@ -222,7 +222,7 @@ It was a game to expose people’s identities, but it was disguised as a simple 
 
 “Let me say this one last time. I respect your free will, so if you wish to quit, just say the word.”
 
-Respect your free will…
+Respect your free will...
 
 He’d said the same thing earlier, and it sounded like a joke then. But now, those words carried weight.
 
@@ -232,7 +232,7 @@ Any doubt that he was aware of our true identities had been completely wiped fro
 
 With each turn, the information to be revealed in front of everyone would only grow more personal.
 
-“If we forfeit here… what happens?”
+“If we forfeit here... what happens?”
 
 Queen asked, and Auril Garvis answered immediately.
 
@@ -246,7 +246,7 @@ Queen asked, and Auril Garvis answered immediately.
 
 “If you can’t trust me, then there’s only one thing you can do: leave.”
 
-“……”
+“......”
 
 “So, what will it be?”
 
@@ -256,11 +256,11 @@ Auril Gavis chuckled.
 
 “I figured you’d stay. After all, this is the only path left for you to return home, isn’t it?”
 
-“……”
+“......”
 
 “Cheer up. All you have to do is stick around until the end and win. Ah, or maybe go outside and ask that friend if you should continue. Just like the good old days, when you—”
 
-“Enough… Let’s continue.”
+“Enough... Let’s continue.”
 
 The Queen cut him off irritably, and Auril Gavis, looking amused, resumed the quiz.
 
@@ -278,7 +278,7 @@ Since everyone quietly raised their signs, the second round was over in about th
 
 “I couldn’t figure out why Fox alone was targeted with a question about her past, , but the second round ended quickly.
 
-And then…
+And then...
 
 “Um, Master? I think I’ll stop here!”
 
@@ -302,19 +302,19 @@ But it wasn’t just my mood.
 
 I had a feeling she wasn’t exactly a normal person.
 
-“I’ll… stop here too.”
+“I’ll... stop here too.”
 
 Perhaps inspired by Butterfly’s exit, Fox also declared her withdrawal.
 
 “Hmm, I didn’t expect you to make that choice, Fox. Weren’t you the most desperate to return before?”
 
-“I was… But after dying and coming back to life, it all felt meaningless. My current life is already precious enough to me.”
+“I was... But after dying and coming back to life, it all felt meaningless. My current life is already precious enough to me.”
 
 Fox gave an honest answer, then bowed slightly to Auril Gavis.
 
 “Still, thank you for that time. Whatever your intentions were, if you hadn’t taken me in, I wouldn’t be alive today.”
 
-“…Gratitude? Even without me, someone like you would’ve managed just fine.”
+“...Gratitude? Even without me, someone like you would’ve managed just fine.”
 
 “Before I go, can I say a quick goodbye?”
 
@@ -324,13 +324,13 @@ Fox turned to make eye contact with each person—Wolf, Goblin, Queen, and me.
 
 “Somehow, the group’s gotten smaller. It’s a shame. I never thought we’d part like this without a proper farewell.”
 
-“…Yeah.”
+“...Yeah.”
 
 “But at least we got to see each other’s faces. It feels like I’m really talking to people now.”
 
-“Is that… so?”
+“Is that... so?”
 
-“Yes. At least for me. I was surprised at first, but… Whether you return home or not, I hope you all live well. I mean that.”
+“Yes. At least for me. I was surprised at first, but... Whether you return home or not, I hope you all live well. I mean that.”
 
 At her blessing, the Queen couldn’t respond for a long time.
 
@@ -338,7 +338,7 @@ Her thoughts were obvious. She was likely wondering if there was any ulterior mo
 
 Eventually, she realized there wasn’t.
 
-“…Thank you.”
+“...Thank you.”
 
 The Queen finally responded in a voice as quiet as a mouse. Fox gave a faint smile and shifted her gaze.
 
@@ -350,20 +350,20 @@ Maybe she thought they could talk outside.
 
 But she didn’t say anything to him either and instead turned to me.
 
-“Actually… I had something I wanted to say to you, Mr. Lion. Would that be alright?”
+“Actually... I had something I wanted to say to you, Mr. Lion. Would that be alright?”
 
 When I nodded briefly, Fox carefully spoke up.
 
 “If life ever feels too dull, why not take off your mask and make some friends?”
 
-…Huh?
+...Huh?
 
 “I’m sure this world would become much more fun that way.”
 
-…Why is she assuming I don’t have any friends?
+...Why is she assuming I don’t have any friends?
 
 I wasn’t sure, but what she said next made me chuckle.
 
 “That’s what worked for me.”
 
-That… was actually kind of touching.
+That... was actually kind of touching.

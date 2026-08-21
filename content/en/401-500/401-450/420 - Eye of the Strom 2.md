@@ -4,17 +4,17 @@ Dragon Mountains.
 
 The place where the forces of Noark and the royal army had formed a long battlefront and were fiercely clashing.
 
-“Commander, There are reports that the traitor has appeared from the western front!’
+“Commander, there are reports that the traitor has appeared on the western front!”
 
 The Third Corps Commander, Eltora Tercerion, frowned at the subordinate’s report.
 
-“The traitor… Understood. You may leave now.”
+“The traitor... Understood. You may leave now.”
 
 “Yes, sir!”
 
 The subordinate assumed that the mention of the traitor had annoyed Eltora, but the true reason was different.
 
-‘The traitor has shown himself again…’
+‘The traitor has shown himself again...’
 
 Eltora wasn’t a fool.
 
@@ -22,17 +22,17 @@ A few days ago, the troops from Noark’s Western Front were spotted heading nor
 
 The most likely reason for their mobilization was to pursue the expedition team attempting to escape on their own.
 
-‘…So that means they’ve finished their chase?’
+‘...So that means they’ve finished their chase?’
 
 Unconsciously, Eltora clenched his fist tightly.
 
-‘Father… No, the marquis. What is he planning?’
+‘Father... No, the Marquis. What is he planning?’
 
 Just before leading his army into the labyrinth, Eltora had received two secret orders from his father.
 
 One was to ignore any rescue requests from the expedition team.
 
-And the other was…
+And the other was...
 
 ‘If they manage to return alive on their own, eliminate them without anyone knowing.’
 
@@ -40,7 +40,7 @@ Perhaps fortunately, Eltora had no need to carry out the second order.
 
 Because the path the expedition team had chosen was opposite from here.
 
-‘Are they really all dead…?’
+‘Are they really all dead...?’
 
 He felt conflicted.
 
@@ -48,7 +48,7 @@ He himself had contributed to abandoning them.
 
 It would also cause him problems if they survived and returned.
 
-But…
+But...
 
 Thump!
 
@@ -58,19 +58,19 @@ Did they really die?
 
 Bjorn Jandel, who came back alive from the Crystal Cave, died just like that?
 
-“……”
+“...”
 
 Eltora closed his eyes and fell into thought.
 
 He imagined what he would have done if he were the commander of the expedition team.
 
-‘The reason they fled north instead of heading south where their allies were – most likely to catch the enemy off guard’
+‘They fled north instead of heading south toward their allies—most likely to catch the enemy off guard.’
 
 It wasn’t a bad move.
 
 Especially since they avoided the two bullets.
 
-‘Did he know…?’
+‘Did he know...?’
 
 Well, Eltora had no way of knowing that.
 
@@ -86,57 +86,35 @@ Exhausted team members.
 
 If it were me, what decision would I make?
 
-No, not me, but Bjorn Jandel…what would he have done, that ignorantly decisive man?
+No, not me. What would Bjorn Jandel—that absurdly decisive man—have done?
 
-‘……Ice Rock.
+‘...Ice Rock.’
 
 Suddenly, Eltora Tercerion’s thoughts led him there.
 
 If they kept fleeing without giving up until the end, the only remaining option seemed to be that place.
 
-But…
+But...
 
 ‘Even if they went there, survival is unlikely.’
 
 No scenario he envisioned led to a hopeful outcome.
 
-Not because he underestimated Bjorn Jandel’s abilities.
+It wasn’t because he underestimated Bjorn Jandel. If anyone could overcome Ice Rock and the Glacier Eye, it was him. His performance in the Crystal Cave proved as much.
 
-Ice Rock?
+The problem was his opponent.
 
-The Glacier Eye?
+‘There’s no way the Marquis overlooked this.’
 
-If anyone could overcome its challenges, it would be him.
+Heading to Ice Rock was daring and unconventional.
 
-Given his performance in the Crystal Cavern, it didn’t make sense for him to fall to such dangers.
-
-But he faced the wrong opponent.
-
-‘The marquis wouldn’t have overlooked this.’
-
-Heading to Ice Rock.
-
-A daring and unconventional move.
-
-He could surely overcome those hurdles.
-
-Considering the capabilities he showed in the Crystal Cave, it didn’t make sense for him to collapse under such a crisis.
-
-But he met the wrong opponent.
-
-‘Because there’s no way the Marquis didn’t know this.’
-
-Heading to Ice Rock.
-
-A daring and unconventional move.
-
-But ultimately, it was also a move Eltora could predict.
+But ultimately, it was still a move Eltora could predict.
 
 Could his father, who planned for every possible contingency, have left it unchecked?
 
 ‘Bjorn Jandel won’t return alive.’
 
-Eltora Terecerion reached that conclusion.
+Eltora Tercerion reached that conclusion.
 
 Thump!
 
@@ -156,13 +134,13 @@ I’m alone in the front line where I have to block the enemy.
 
 Because this is the solution I’ve come up with.
 
-The one that would save as many as possible.
+The one I believed would save as many people as possible.
 
 “Don’t overdo it. We’re right behind you.”
 
 “Yes, that’s reassuring. I trust you—”
 
-“Bjorn Jandel…!!”
+“Bjorn Jandel...!!”
 
 Just then, the Dragon Slayer’s voice full of killing intent rang out.
 
@@ -172,9 +150,9 @@ Judging by his arrogant tone, they still haven’t grasped their situation.
 
 But unfortunately, not all of them are as naive as that guy.
 
-“Regal Vargos, calm down.”
+“Regal Vagos, calm down.”
 
-An explorer extended a hand to stop the dragon-slayer, who looked ready to charge.
+An explorer raised a hand to stop the Dragon Slayer, who looked ready to charge.
 
 Grit.
 
@@ -182,7 +160,7 @@ Someone gritted their teeth upon seeing the man.
 
 Frankly, I felt no different.
 
-“That bastard… He killed Lady Naria…”
+“That bastard... He killed Lady Naria...”
 
 Milburn Naria, the troll summoner.
 
@@ -190,7 +168,7 @@ Whether she was an evil spirit or not, it was that guy who killed the woman who,
 
 “You’re Bjorn Jandel, correct?”
 
-The one who stopped the dragon-slayer stepped forward and spoke to me.
+The one who stopped the Dragon Slayer stepped forward and spoke to me.
 
 ‘This guy’s the real leader, huh?’
 
@@ -198,7 +176,7 @@ His actions were so natural that I thought that.
 
 If he didn’t have the authority, he’d likely look to others before doing such a thing.
 
-Looking at it, even the Dragon Slayer bastard is just standing still.
+Even the Dragon Slayer bastard stayed put after that.
 
 “Yes, I’m Bjorn Jandel.”
 
@@ -210,11 +188,11 @@ I was curious as well.
 
 At my question, he answered without much hesitation.
 
-“Manua Rephless”
+“Manua Rephless.”
 
 The name to be added to my kill list.
 
-“Leave that bastard to me…”
+“Leave that bastard to me...”
 
 No, it was a name that would likely be added to all of ours.
 
@@ -228,9 +206,9 @@ But no one acted rashly.
 
 His words added weight to my suspicions.
 
-I had wondered when I saw them armed with higher level essences supplied from the 8th floor.
+I had wondered when I saw them armed with higher level essences supplied from the eighth floor.
 
-These guys really seem to be one of the 8th-floor attack teams.
+These guys really seem to be one of the eighth-floor attack teams.
 
 “So, what is it you want to say?”
 
@@ -238,7 +216,7 @@ Having confirmed my suspicions, I added his name to my kill list and got straigh
 
 “As I said, I have a proposal.”
 
-“A proposal…?”
+“A proposal...?”
 
 “As I mentioned earlier, we are in a position akin to a secret weapon. Even if we successfully eliminate all of you, the loss of just one or two of our members would be a significant blow.”
 
@@ -248,7 +226,7 @@ Manua spread his hand.
 
 “Five.”
 
-“…?”
+“...?”
 
 “Hand over just five people. That will satisfy us, and we’ll leave. And no, Bjorn Jandel, you don’t have to be one of them.”
 
@@ -258,17 +236,17 @@ The absurdity of the suggestion left me speechless for a moment.
 
 “Not a bad deal, is it? Five lives for the rest of you to walk away unharmed.”
 
-“Well, that sounds like the kind of offer I should be making. If five of you offer up your necks, I’ll let the rest of you return alive. Oh, and of course, you and Regal Vargos must be included.”
+“Well, that sounds like the kind of offer I should be making. If five of you offer up your necks, I’ll let the rest of you return alive. Oh, and of course, you and Regal Vagos must be included.”
 
 “Are you sure you won’t regret it?”
 
 What is he talking about, that idiot?
 
-Poison dressed as wine remains poison.
+Poison remained poison, no matter how nicely it was presented.
 
 “Regrets are for your mother, not me.”
 
-“What…?”
+“What...?”
 
 He flinched, perhaps not having heard such language even in rough Noark. Since we weren’t on laughing terms, I continued without hesitation.
 
@@ -276,19 +254,19 @@ Looking at the bastard’s bald head, reddened by the flare’s glow, I smirked.
 
 “Your mother probably didn’t know that the son she bore with pain would be a coward, one who only flaps his tongue in front of the enemy.”
 
-“……”
+“...”
 
 “You didn’t wet yourself because you’re scared of us, did you? It’s hard to tell since there’s such a strong stench coming from you.”
 
-“……”
+“...”
 
 “Why aren’t you saying anything? Oh, perhaps because you don’t have a mother—”
 
-“You bastard…!”
+“You bastard...!”
 
 “Oh, so it’s true, huh? Seeing how agitated you are. Don’t get too worked up. I understand. I get it. You being a coward must be because you weren’t raised properly.”
 
-“…”
+“...”
 
 “And your bald head? That’s probably from all the stress you endured back then—”
 
@@ -308,11 +286,11 @@ The one who loses their temper first always loses.
 
 ---
 
-“Rephless! Don’t get agitated; that’s how he is! If you fall for his tricks, it’ll only benefit him…”
+“Rephless! Don’t get agitated; that’s how he is! If you fall for his tricks, it’ll only benefit him...”
 
-Surprisingly, the dragon-slayer tried to calm him down.
+Surprisingly, the Dragon Slayer tried to calm him down.
 
-But…
+But...
 
 Heh.
 
@@ -324,19 +302,19 @@ Tap.
 
 Soon, he clenched his fist and charged at me.
 
-His class is boxer.
+His class was Boxer.
 
 It’s a rare class in the Labyrinth.
 
-It’s a class that can be useful in the lower levels, but doesn’t have a good core essence in the middle.
+It was useful on the lower floors, but lacked a strong core essence in the midgame.
 
 Well, there are many good skills in the later stages.
 
 Such as what he’s using now.
 
-[Manua Rephless has cast [Iron Fist]
+[Manua Rephless has cast [Iron Fist]]
 
-[Iron Fist], obtainable from the 8th-floor rift.
+[Iron Fist], obtainable from the eighth-floor rift.
 
 The effect is simple.
 
@@ -344,13 +322,13 @@ Flash!
 
 A dash of about four meters, almost like teleportation.
 
-And then…
+And then...
 
 Boom!
 
 An unconditional knockback that defies the laws of physics.
 
-And…
+And...
 
 “It gives fixed damage proportional to the caster’s strength level and the target’s physical resistance level.”
 
@@ -362,21 +340,21 @@ After a few hits, the mana shield shattered, and the battle line collapsed, forc
 
 But things are different now.
 
-“……Ugh.”
+“...Ugh.”
 
 An impact that shakes my insides?
 
-Since I don’t have a Mana Shield, I can feel the pain directly, but…
+Since I don’t have a Mana Shield, I can feel the pain directly, but...
 
 So what?
 
-[Royta Mamender has cast [Emergency Regeneration]
+[Royta Memander has cast [Emergency Regeneration]]
 
-A heal comes in immediately after being hit.
+A heal landed immediately after the hit.
 
-[Benjamin Orman has cast [Sanctuary of Moonlight]
+[Benjamin Orman has cast [Sanctuary of Moonlight]]
 
-A glowing zone appeared, boosting natural regeneration between me and the enemy.
+A glowing zone appeared around me, boosting natural regeneration.
 
 Swoosh.
 
@@ -390,7 +368,7 @@ As I swung my hammer down, he retreated backward.
 
 He’s trying to use [Iron Fist] again after widening the distance.
 
-That skill is great and has no cooldown, but it requires a certain distance to dash to use it.
+The skill was powerful and had no cooldown, but it required a minimum distance before the dash could activate.
 
 ‘As if I’d just let him do that.’
 
@@ -400,7 +378,7 @@ At that time, I couldn’t respond like this because the front line had collapse
 
 Whoooosh!
 
-“……!”
+“...!”
 
 I swung my hammer in perfect timing as the guy was being sucked in with a startled expression.
 
@@ -408,37 +386,37 @@ But unfortunately, it wasn’t very effective.
 
 Because he’s also in a tank position, after all.
 
-[Manua Rephless has cast [Indestructible]
+[Manua Rephless has cast [Indestructible]]
 
 Crossing his arms above his head, he blocked my attack.
 
 As that brief exchange ended, the guys behind him started to join in and charge.
 
-[Ricky Aymond has cast [Thunder’s Mark]
+[Ricky Aymond has cast [Thunder’s Mark]]
 
-[Kale Elbad Zeneger has cast [Earthspike]
+[Kael Elvad Genegger has cast [Earthspike]]
 
 Abilities fired at me.
 
 Some skills ignored physical resistance and pierced into my body, but concentrated healing from the priests quickly restored me.
 
-[Anne Parbella has cast [Lightning Dash]
+[Anne Parbella has cast [Lightning Dash]]
 
 The melee explorer flew past me in an instant, with no time to block.
 
-And then…
+And then...
 
-Anne Parbella has cast [Gathering]
+[Anne Parbella has cast [Gathering].]
 
 A skill combo that teleports two allies within a certain distance.
 
-[Fruan Cullin has cast [Spirit Enhancement]
+[Fruan Cullin has cast [Spirit Enhancement]]
 
-[Marione Treeder has cast [Dance of Cataclysm]
+[Marione Treeder has cast [Dance of Cataclysm]]
 
 It’s like they’re some kind of assault unit.
 
-It made sense. Coming to our position would neutralise the field effects working against them. They probably thought that fighting here would turn the tide in their favour.
+It made sense. Reaching our position would neutralize the field effects working against them. They probably thought fighting here would turn the tide in their favor.
 
 ‘They’ve underestimated us.’
 
@@ -468,7 +446,7 @@ The priests and mages on the hill provided relentless support, simultaneously de
 
 “Priests! Take out the priests first!”
 
-So they tried to target the priests by pouring out various skills, but…
+So they tried to target the priests by pouring out various skills, but...
 
 Swoosh!
 
@@ -478,17 +456,17 @@ That was thanks to the carefully drawn magic circle.
 
 As long as the priests were protected, we couldn’t lose.
 
-“A barrier…!”
+“A barrier...!”
 
 Realizing projectiles wouldn’t work, they began to devise alternative plans.
 
-「Mike Roimus has cast[Slimewalk].」
+[Mike Roymus has cast[Slimewalk].]
 
-「Lia Andes has cast[Flame Glide].」
+[Ria Endes has cast[Flame Glide].]
 
 Abilities designed to scale the cliff.
 
-「Erwin Fornacci di Tersia has cast[Rapid Fire].」
+[Erwin Fornacci di Tercia has cast[Rapid Fire].]
 
 Naturally, they were intercepted by our ranged attackers.
 
@@ -500,7 +478,7 @@ Just as I predicted, the battle swung heavily in our favor.
 
 The three who had crossed over with such momentum couldn’t overcome the numerical disadvantage and were being thoroughly beaten, and I, standing firm like an iron wall, continued to prevent the remaining enemies from crossing.
 
-“Damn it…!”
+“Damn it...!”
 
 “Why doesn’t that monster get tired!”
 
@@ -524,11 +502,11 @@ This was the same for the Dragon Slayer, who was swinging his sword at me in syn
 
 “Hey, let me ask you one thing.”
 
-“……?”
+“...?”
 
 “I’m curious—when is it coming? That moment when not even death can save me?”
 
-“……Grit.”
+“...Grit.”
 
 He froze for a moment, his blade hovering in hesitation. Then, as if snapping out of it, he stepped back, glaring daggers at me.
 
@@ -536,13 +514,13 @@ He froze for a moment, his blade hovering in hesitation. Then, as if snapping ou
 
 With a determined expression, he activated his ultimate skill.
 
-[Regal Vargos has cast [Dragon Speech: Silence of the Soul]
+[Regal Vagos has cast [Dragon Speech: Silence of the Soul].]
 
 Oh, so he’s finally using it.
 
 [Your character lacks soul power]
 
-[Gigantification] has been canceled]
+[Gigantification has been canceled.]
 
 In an instant, my body shrinks.
 
@@ -558,7 +536,7 @@ Wow, how nostalgic.
 
 Back then, I really thought everything was over with just that one move—
 
-“Ugh! Cough! Gwaaaah…!”
+“Ugh! Cough! Gwaaaah...!”
 
 What the—what’s up with this guy?
 
@@ -568,20 +546,20 @@ Ah, did using the Dragon Speech put a strain on his body?
 
 Jeez, he’s like one of those bees that dies after stinging.
 
-“Regal Vargos! Are you alright?”
+“Regal Vagos! Are you alright?”
 
-“I’m fine… Just kill him… Heh heh heh”
+“I’m fine... Just kill him... Heh heh heh”
 
 He staggered, but his hateful gaze remained locked on me.
 
-It was… kind of awkward.
+It was... kind of awkward.
 
-「Character casts [Soul Dive]」
+[Character casts [Soul Dive]]
 
-「Soul energy regenerates proportionally to the energy consumed.」
+[Soul energy regenerates proportionally to the energy consumed.]
 
 Should I feel bad for him or something?
 
-「Soul Exhaustion state lifted.」
+[Soul Exhaustion state lifted.]
 
 Not really, though. One skill and I’m back to normal.

@@ -1,18 +1,18 @@
-Dilemma(1)
+Dilemma (1)
 
-The yellow glow from the traffic light ring can only mean one thing.
+The yellow glow from the traffic-light ring could only mean one thing.
 
 Something bad was about to happen, but if I overcame it, it would lead to a positive outcome.
 
-“Could it be… there’s another traitor?”
+“Could it be... there’s another traitor?”
 
 This was the first thought that came to mind.
 
-During the interrogation I hadn’t heard anything about an accomplice, but it’s possible there’s another mole from another group that even he didn’t know about.
+During the interrogation, I hadn’t heard anything about an accomplice, but it was possible there was another mole from a different group that even he didn’t know about.
 
 If we don’t catch him, something negative will happen, and if we do, something positive will happen.
 
-‘…Well, maybe the ring’s alert isn’t even about a traitor.’
+‘...Well, maybe the ring’s alert isn’t even about a traitor.’
 
 As someone responsible for the lives of many, I kept the worst-case scenario in mind but decided not to dwell on it too much.
 
@@ -22,29 +22,29 @@ I simply kept my guard up, observing my surroundings more carefully.
 
 [The character has entered a special area]
 
-[Field Effect—Glacier Eye is applied]
+[Field Effect – Glacier Eye has been applied.]
 
 The day after the execution, we packed up our campsite and entered a deep pit that seemed to go right to the core.
 
-A field structured like a massive cylindrical pillar.
+The area was shaped like the inside of a massive cylindrical shaft.
 
 The path along the outer wall spiraled downward like a staircase. Since it was the final gateway to the eighth floor, the difficulty was quite high.
 
-The monsters that appeared weren’t significantly stronger than those we’d encountered before, but…
+The monsters that appeared weren’t significantly stronger than those we’d encountered before, but...
 
-[Status Ailment [Whispers of Immortality] is applied]
+[Status Ailment: Whispers of Immortality has been applied.]
 
 A vicious curse that resurrects the fallen as undead, forcing them to attack their own team.
 
-「Status effect [Deprivation of Opportunity] has been inflicted.」
+[Status Effect: Deprivation of Opportunity has been inflicted.]
 
 Moreover, the so-called ‘golden time’ countdown was removed.
 
-[All healing and recovery effects work in reverse]
+[All healing and recovery effects are reversed.]
 
 To top it off, this damn debuff was added.
 
-‘…What am I supposed to do if even natural regeneration works in reverse?’
+‘...What am I supposed to do if even natural regeneration works in reverse?’
 
 In this place, even minor wounds never heal.
 
@@ -54,11 +54,11 @@ And the higher the character’s natural regeneration, the faster it happens.
 
 It’s a place that could be called the graveyard of tankers.
 
-‘How many shield warriors did I lose in the game here…?’
+‘How many shield warriors did I lose in the game here...?’
 
 Well, I don’t even want to think about it.
 
-Probably burned through hundreds.
+I’d probably burned through hundreds.
 
 At least until I finally figured out the strategy.
 
@@ -68,15 +68,15 @@ At least until I finally figured out the strategy.
 
 “You mean I should be careful not to get hurt if possible, right? Hehe, got it.”
 
-“….”
+“....”
 
-Because the path was narrow, the entire expedition was divided into groups, following one after another like a train.
+Because the path was narrow, the expedition split into groups that followed one another like cars in a train.
 
 Here, the importance of ranged attackers increased.
 
-Because almost 90% of the appearing monsters were capable of flight.
+Almost ninety percent of the monsters that appeared were capable of flight.
 
-“It’s gargoyles…!”
+“It’s gargoyles...!”
 
 Not the Level 8 monster “Gargoyle Statues” from the Blood Tinted Castle, but actual gargoyles.
 
@@ -88,51 +88,51 @@ A Death Knight riding a gargoyle, swinging its spear.
 
 The Banshee Queen and various undead spirit monsters spread curses while floating around.
 
-Flying monsters, which are practically counters to melee fighters, appeared everywhere but they were intercepted and eliminated before they could get close.
+Flying monsters—practically natural counters to melee fighters—appeared everywhere, but they were intercepted and eliminated before they could get close.
 
-「James Carla cast [Piercing Light].」
+[James Carla has cast [Piercing Light].]
 
-「Titana Akuraba used [No. 1911 Pavel’s Broken Pocket Watch]」
+[Titana Akuraba has used [No. 1911 Pavel’s Broken Pocket Watch].]
 
-「Cooldown times are removed for 5 minutes.」
+[Cooldowns have been removed for 5 minutes.]
 
-「Erwin Fornacci di Tersia cast [Elemental Fusion].」
+[Erwin Fornacci di Tercia has cast [Elemental Fusion].]
 
-Archers, support type, mages, and more.
+Archers, support-types, mages, and more.
 
 Not only did our expedition have many ranged classes, but we also had four priests, so there was no shortage of firepower.
 
-[Nialo Campbell has cast [Wave of Healing]
+[Nialo Campbell has cast [Wave of Healing].]
 
-[Benjamin Orman has cast [Emergency Regeneration]…
+[Benjamin Orman has cast [Emergency Regeneration]...]
 
-“…”
+“...”
 
-Holy spells that deal a whopping 1.5x damage to undead.
+These were holy spells that dealt a whopping 1.5× damage to undead.
 
 Of course, not all the monsters were undead, but still, it wasn’t a big problem.
 
 They still took enough damage anyway.
 
-[All healing and recovery effects work in reverse]
+[All healing and recovery effects are reversed.]
 
 Since we couldn’t even heal allies here, the priests served as ranged attackers.
 
-[Defeated a Gargoyle +EXP 6]
+[You have defeated a Gargoyle. EXP +6.]
 
-[Defeated a Ghost Horse +EXP 4
+[You have defeated a Ghost Horse. EXP +4.]
 
-[Defeated a White Wyvern +EXP 6
+[You have defeated a White Wyvern. EXP +6.]
 
-[Defeated a Blue Flame Bird…]
+[You have defeated a Blue Flame Bird...]
 
-“…”
+“...”
 
-Monsters melted under high heal coefficients and A-o-E holy spells.
+The monsters melted under high healing coefficients and AoE holy spells.
 
-The Melee dealers focused on defense, dealing with cliff climbers and other creatures.
+The melee fighters focused on defense, dealing with cliff climbers and other creatures.
 
-And…
+And...
 
 “Battle over!”
 
@@ -146,13 +146,13 @@ At some point, the narrow sloping path ended.
 
 A wide rock ledge jutting out from the cliff.
 
-And…
+And...
 
 “This is crazy. We’re supposed to fight that number without getting hurt?”
 
-Hundreds of monsters filling the area.
+Hundreds of monsters filled the area.
 
-This was inevitable, as the cave in the cliff was the respawn area for the Glacier Eye.
+That was inevitable, since the cave in the cliff served as the Glacier Eye’s respawn area.
 
 “What are you complaining about? We’ve had it easy so far; now it’s our turn to work hard.”
 
@@ -160,11 +160,11 @@ If the ranged classes shone on the sloping path, now it was time for the melee f
 
 “Form up!”
 
-“Stay focused every moment! If you don’t want to spend the next week nursing a rotting arm.”
+“Stay focused at all times! Unless you want to spend the next week nursing a rotting arm.”
 
 The warriors formed a shield wall at the front.
 
-And…
+And...
 
 “Charge!”
 
@@ -176,37 +176,37 @@ While the warriors at the front risked injury to block the enemies, the ranged c
 
 Perhaps because our forces were overwhelming, the battle itself was relatively manageable.
 
-But even so…
+But even so...
 
-“Damn it, my arm…! Aaaagh!!”
+“Damn it, my arm...! Aaaagh!!”
 
 Injuries occurred.
 
 ---
 
-We had a total of four casualties.
+Four people were injured in total.
 
-Among them, three had minor injuries—just scratches—so they wouldn’t lead to death.
+Three of them had only minor injuries—little more than scratches—so their lives weren’t in danger.
 
-We’re on schedule to reach the eighth floor in six days.
+We were scheduled to reach the eighth floor in six days.
 
 As long as they didn’t sustain additional injuries, even if the wounds festered and rotted, they could hold out until we could get treatment.
 
 The problem was the one who was seriously injured.
 
-“Am I… am I going to die?”
+“Am I... am I going to die?”
 
 Rick Jergasta.
 
-A melee fighter from James Carla’s team, his team was already one man down due to the absence of Pike Neldine.
+He was a melee fighter from James Carla’s team, which was already one man down after losing Pike Neldain.
 
 Rick Jergasta was clutching his thigh, his bone protruding from his flesh.
 
-“You won’t die! There’s absolutely no way, so don’t worry!” James Carla shouted
+“You won’t die! There’s absolutely no way, so don’t worry!” James Carla shouted.
 
-Right, those two have been friends for a long time.
+Right, those two had been friends for a long time.
 
-“Scuiz! We must turn the expedition back and head up immediately!”
+“Schuiz! We must turn the expedition back and head up immediately!”
 
 “Why?”
 
@@ -214,13 +214,13 @@ Right, those two have been friends for a long time.
 
 Hearing his desperate voice, I couldn’t help but laugh to myself. Would he have reacted this way if it were anyone else injured?
 
-Probably not—he’d likely have made a cold calculation, Just like Akuraba over there.
+Probably not—he’d likely have made the same cold calculation as Akuraba over there.
 
 “We’ve already spent an entire day coming down. Going back up and coming down again means we’ll waste a total of two more days.”
 
 To save one person, twenty-eight people would waste two days in total.
 
-Well, That’s just the start of the issue.
+Well, that was only the beginning of the problem.
 
 “Sir Carla, sorry but we only have food for five more days. Even as it is, we’ll have to starve all day at the end.”
 
@@ -228,11 +228,11 @@ Just as Kaislan pointed out, saving this one person would cost us more than time
 
 It would cost lives.
 
-“Ah, thanks to the traitor in whose team?”
+“Ah, and whose team was that traitor on again?”
 
 But is this guy really a paladin?
 
-His sarcasm is something else…
+His sarcasm is something else...
 
 “Enough about the traitor. Let me ask one thing. Did you think this expedition would succeed without any sacrifices, Sir Carla?”
 
@@ -242,19 +242,17 @@ The question left James Carla speechless, and Kaislan continued his cold words.
 
 Again, James Carla couldn’t say anything.
 
-Gritting teeth.
-
-He just clenched his teeth, unable to hide his frustration.
+He simply clenched his teeth, unable to hide his frustration.
 
 The reality that there was no one to help him was too harsh.
 
 “It would be better to let him return to the gods peacefully. If you can’t, I’ll help you do it.”
 
-In other words, Jun was suggesting to finish him off.
+In other words, Jun was suggesting that they finish him off.
 
-At this, the pitifully trembling James Carla looked at me and asked.
+At that, the visibly shaken James Carla looked at me and asked.
 
-“Schuiz. Do you think the same…?”
+“Schuiz. Do you think the same...?”
 
 I neither denied nor affirmed.
 
@@ -264,7 +262,7 @@ In extreme situations, it’s usually like this.
 
 Moments come when you must choose and sacrifice something.
 
-But…
+But...
 
 “Alright. I’ll do it,” James said.
 
@@ -278,7 +276,7 @@ Well, he might die during the expedition.
 
 But at least not here.
 
-“Pardon…?” he looked at me, dumbfounded.
+“Pardon...?” He looked at me, dumbfounded.
 
 Looking at James Carla’s bewildered face, I shrugged.
 
@@ -290,7 +288,7 @@ At my words, all the team leaders made the same expression.
 
 Exactly that expression.
 
-Tsk tsk, that’s why beginners are like this.
+Tsk, tsk. That’s why beginners are like this.
 
 “We continue descending.”
 
@@ -298,19 +296,18 @@ Time to use the strategy.
 
 ---
 
-The Glacier Eye was my most hated area. But I’d finally discovered the strategy.
+The Glacier Eye was one of the areas I hated most, but I had eventually discovered the strategy.
 
-「All healing and recovery effects are reversed.」
+[All healing and recovery effects are reversed.]
+The journey through the Glacier Eye is long, taking an entire week.
 
-The journey through Glacier Eye is long and takes a whole week.
-
-There’s only one way to explain this crazy penalty in Dungeons & Stones.
+There was only one way to explain a penalty this ridiculous in Dungeon & Stone.
 
 A hidden solution had to exist somewhere, so I kept experimenting until I finally found it.
 
 It was surprisingly simple.
 
-“Distortion magic…?”
+“Distortion magic...?”
 
 “Yes. From now on, in every battle, we will use distortion magic against the monsters.”
 
@@ -318,7 +315,7 @@ It was surprisingly simple.
 
 Because distortion magic is the key to the strategy.
 
-Though it prevents magic stones and essences from dropping, it sometimes preserves monster corpses.
+Although it prevents magic stones and essences from dropping, distortion magic sometimes preserves monster corpses instead.
 
 Wyvern Leather.
 
@@ -326,7 +323,7 @@ Adamantium.
 
 Troll blood, a potion ingredient.
 
-Various materials used in high-level spirit engravings are by-products obtained using ‘distortion magic.’
+Various materials used in high-level spirit engravings are by-products obtained through distortion magic.
 
 The monsters that appear in the Glacier Eye can all be hunted on other floors.
 
@@ -340,19 +337,17 @@ It was extremely inefficient.
 
 Well, as usual, the damn game had the answer.
 
-“…I didn’t expect such a method for healing injuries.”
+“...I didn’t expect such a method for healing injuries.”
 
 As I explained the strategy, everyone marveled.
 
 No one doubted me, even though it was something they’d heard for the first time.
 
-“Impressive intelligence from Lord Tercerion, or should I say the royal family’s power? To know a tactic that even skilled explorers are unaware of.”
+“Impressive intelligence work from Lord Tercerion—or should I say, the royal family. To know a tactic even seasoned explorers are unaware of...”
 
-Just as they thought there was another strategist in my team when I caught the traitor by turning on my detective mode.
+Just as they had assumed there was another strategist behind me when I caught the traitor in my so-called detective mode, they assumed this strategy had come from someone else as well.
 
-They thought the source of this strategy was elsewhere.
-
-‘…Maybe it’s better that they misunderstand like this?’
+‘...Maybe it’s better that they misunderstand like this?’
 
 Hmm, that seems better.
 
@@ -364,23 +359,22 @@ In our culture, humility is a virtue.
 
 We judged that James Carla’s friend could hold on for two more days, so we spent the night on the rock ledge and resumed our journey early the next morning.
 
-And…
+And...
 
-[Riard Ashid has cast level 6 Time-Space Magic [Advanced Distortion]
+[Riard Ashid has cast the Level 6 time-space spell [Advanced Distortion].]
 
-「Mackelly Rayadas has cast level 6 Time-Space Magic [Advanced Distortion].”
+[Mackelly Reiadus has cast the Level 6 time-space spell [Advanced Distortion].]
 
-[Vercil Gowland has cast level 6 Time-Space Magic [Advanced Distortion]…”
+[Vercil Gowland has cast the Level 6 time-space spell [Advanced Distortion]...]
 
-After casting countless Advanced Distortion, which has 1.5 times the chance of regular Distortion, we finally managed to preserve a corpse in the afternoon.
+After countless casts of Advanced Distortion, which had 1.5 times the preservation chance of regular Distortion, we finally managed to preserve a corpse that afternoon.
 
 “Schuiz! Is this the thing you mentioned back then?” James Carla exclaimed.
 
 Carla quickly retrieved a bead from the corpse, and I fed it to the wounded before it melted.
 
-「Rick Juggersta consumed ‘Frozen Life’s Essence’.」
-
-Okay, that’s one person saved…
+[Rick Jergasta consumed ‘Frozen Life’s Essence’.]
+Okay, that was one person saved...
 
 “What about the remaining materials?” someone asked
 
@@ -390,32 +384,32 @@ Although they could fetch a high price in town, we couldn’t carry more weight.
 
 Of course, that was the logical choice—
 
-Grrrrr (stomach growling).
+Grrrrr—
 
 But why couldn’t I make myself leave?
 
 As I tried to pinpoint this subconscious resistance, a sudden thought hit me.
 
-‘This is meat, right? It’s a bit spoiled, maybe, but…’
+‘This is meat, right? It’s a bit spoiled, maybe, but...’
 
 Thinking it was a good idea, I quickly ran over to Amelia to share it.
 
 “Emily! I’ve found a way to solve our food problem!”
 
-“You… What bizarre idea are you trying to pitch this time?”
+“You... What bizarre idea are you trying to pitch this time?”
 
 “This time it’s not strange; it’s for real!”
 
 “Sigh, fine, tell me.”
 
-“Well…”
+“Well...”
 
 I explained my food-supply plan to Amelia.
 
-And then…
+And then...
 
 Smack—!
 
 I ended up getting slapped on the back for no reason.
 
-‘…Is it really that bad? no matter how I look at it, I thought it was a good idea.
+‘...Is it really that bad? No matter how I look at it, I still think it was a good idea.’

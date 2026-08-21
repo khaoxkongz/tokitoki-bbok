@@ -14,7 +14,7 @@ Deceiving ourselves that the most irrational decision was, in fact, the most rat
 
 So, I burned everything I had, using it as fuel to move forward.
 
-But…
+But...
 
 “Enemies! New enemies have appeared!”
 
@@ -30,7 +30,7 @@ As soon as I turned my back, I saw our ranged unit running toward us from behind
 
 Enemies were chasing them.
 
-“Mister…!”
+“Mister...!”
 
 “Erwin!”
 
@@ -38,21 +38,21 @@ Enemies were chasing them.
 
 Ventis Gerod.
 
-A support type from the third team.
+A support-type from Team 3.
 
-A man with a smiling face and an unnecessarily positive attitude, whom everyone scolded and yet liked.
+A man with an easy smile and an almost excessive optimism—someone everyone complained about yet still liked.
 
 “Thanks for letting me know. Quickly join the main force with Akuraba.”
 
-“…Be careful!”
+“...Be careful!”
 
-When I reached the rear after brushing past Elwin, I found him collapsed on the ground, hot blood splattered around him.
+When I reached the rear after brushing past Erwin, I found him collapsed on the ground, hot blood splattered around his body.
 
 Swooooosh—!
 
 Blood steamed as it met the cold air.
 
-‘So… another one is gone.’
+‘So... another one is gone.’
 
 If not for this man, more people would have been hurt and killed.
 
@@ -76,7 +76,7 @@ As soon as I saw them, I recalled a conversation I had with the leader of Orcule
 
 The Rose Knights.
 
-A specialised unit of the royal family responsible for assassinations, infiltration, and special operations.
+A specialized unit of the royal family responsible for assassination, infiltration, and special operations.
 
 So, the day has come to meet them too.
 
@@ -88,7 +88,7 @@ It was similar to when I first met Amelia.
 
 Eyes that showed no emotion.
 
-And…
+And...
 
 “You’re Baron Bjorn Jandel.”
 
@@ -96,11 +96,11 @@ A cold, monotonous voice that lacked even a hint of warmth.
 
 “According to our information, you possess at least second-class sword defense abilities. Your assessed combat power is two levels higher than each of us, so handle with caution.”
 
-As soon as the woman’s businesslike briefing ended, their unit took stances to attack at any moment.
+The moment her businesslike briefing ended, the entire unit shifted into combat stances.
 
 It’s been a while since I felt this way looking at an enemy, but I genuinely got chills down my spine.
 
-I wasn’t afraid of someone irrationally screaming that they’d kill me without even knowing me.
+I wasn’t afraid of someone screaming irrationally that they would kill me without even knowing me.
 
 But these were different.
 
@@ -110,7 +110,7 @@ Thump!
 
 Even before our weapons clashed, my warrior’s instincts warned of a grueling fight.
 
-But…
+But...
 
 Crack!
 
@@ -120,25 +120,25 @@ So what?
 
 I asked while maintaining a posture ready to respond at any time, but no answer came back.
 
-“……”
+“...”
 
 Well, those eyes are chilling.
 
 Is it that they don’t talk to someone they’re about to kill?
 
-That thoroughly professional demeanor left no room for expectations, though I did hope for an answer to at least one thing.
+That thoroughly professional demeanor left little room for hope, though I still wanted an answer to one question.
 
 “How did you know to wait for us here?”
 
-“…”
+“...”
 
 “Hmm? Tell me. No matter how I think about it, I can’t figure out this one thing. Don’t you feel sorry for us?”
 
 Even in my joking tone, the woman looked at me without changing her expression and quietly spoke.
 
-“…We were stationed here on someone’s persistent request, just in case. Even the intelligence department judged that the possibility of you actually coming all the way here was slim.”
+“...We were stationed here on someone’s persistent request, just in case. Even the intelligence department judged that the possibility of you actually coming all the way here was slim.”
 
-“Slim, huh…”
+“Slim, huh...”
 
 I couldn’t help but chuckle.
 
@@ -150,11 +150,11 @@ And by an expedition force hastily assembled just a few days ago.
 
 Even ‘slim’ wouldn’t suffice to describe it.
 
-“…Why are you laughing?”
+“...Why are you laughing?”
 
 “Just thinking that we can’t possibly beat you guys.”
 
-I mean, does it make sense to keep such a force on standby just to block that slim possibility?
+I mean, did it really make sense to keep a force like this on standby just to cover such a slim possibility?
 
 It feels like a massive wall is closing in from all sides.
 
@@ -178,7 +178,7 @@ I complained.
 
 “No, I have to try as much as I can.”
 
-“Yes, there are people like you sometimes. Those who never take death as an escape…”
+“Yes, there are people like you sometimes. Those who never take death as an escape...”
 
 At my answer, the woman’s expression changed for the first time. Very subtly, but perhaps she looked somewhat regretful?
 
@@ -190,7 +190,7 @@ And even if I wasn’t, it wouldn’t change anything.
 
 “It seems our conversation is truly over now.”
 
-“……”
+“...”
 
 The woman didn’t answer.
 
@@ -202,11 +202,11 @@ That no more conversation was needed.
 
 ---
 
-The aura-defensive essence, Bol-Herchan.
+The aura-defense essence, Bol-Herchan.
 
 Thanks to this, I could evolve into a nightmare for knights, but that doesn’t mean I’m invincible.
 
-After all, there’s no such thing as absolute invincibility in Dungeon and Stone.
+After all, there’s no such thing as absolute invincibility in Dungeon & Stone.
 
 Slash, slash, stab—!
 
@@ -214,7 +214,7 @@ I didn’t get sliced like tofu, but every time the dagger touched my body, smal
 
 The priest’s holy power had already run out, so I couldn’t expect any healing.
 
-In the midst of that…
+In the midst of that...
 
 [Your character has been poisoned by Royal Mixed Poison.]
 
@@ -224,9 +224,9 @@ In the midst of that…
 
 [Poison effects are reduced by 70%.]
 
-I didn’t know what they had smeared all over their blades, but a tingling sensation spread from the wound area.
+I didn’t know what they had smeared on their blades, but a tingling sensation spread from every wound.
 
-To make matters worse, it seems to have some wound-deteriorating properties, even blocking natural regeneration.
+To make matters worse, the poison seemed to worsen wounds and even interfere with natural regeneration.
 
 Injuries continued to accumulate steadily.
 
@@ -238,7 +238,7 @@ They climbed walls, somersaulted in mid-air, and suddenly changed direction with
 
 They dodged all my attacks, and if I showed even a slight opening, they sliced my body with their daggers.
 
-Of course, each injury wasn’t significant, but…
+Of course, each injury wasn’t significant, but...
 
 Slash, slash—
 
@@ -246,7 +246,7 @@ My already relatively slow body became even more sluggish, and the number of tim
 
 If the terrain had been wider and a dozen of them attacked from all sides, I would have already collapsed into a ragged heap on the ground.
 
-“…Ugh!”
+“...Ugh!”
 
 My body staggered and leaned forward.
 
@@ -256,7 +256,7 @@ At that moment, a dagger swung toward my neck.
 
 I gathered strength in my legs as if I had been waiting and swung my hammer upward.
 
-But…
+But...
 
 ‘Damn it, just get hit already!’
 
@@ -266,9 +266,9 @@ It’s like I’m fighting a machine, not a human.
 
 I couldn’t help but think, ‘This game is so messed up.’
 
-[Your character has cast [Soul Dive]
+[Your character has cast [Soul Dive].]
 
-[Soul power is regenerated in proportion to the soul power consumed]
+[Soul power is regenerated in proportion to the soul power consumed.]
 
 First, I immediately used [Soul Dive], whose cooldown time had reset, to recover my MP that was nearing depletion.
 
@@ -282,7 +282,7 @@ It was Ravien and Amelia, who should have been holding the front line against th
 
 “The front? What happened at the front?”
 
-“They’re outside the Glacier Eye boundary and have been holding the line ever since”
+“They’re outside the Glacier Eye boundary and have been holding the line ever since.”
 
 So, they’re biding their time.
 
@@ -306,7 +306,7 @@ Looking at the Rose Knights, who had awkwardly increased the distance, I realize
 
 ‘Ah, it’s thanks to them.’
 
-With Amelia and Ravien flanking me, the rose knights couldn’t freely aim for my weak spots like before.
+With Amelia and Ravien flanking me, the Rose Knights couldn’t freely aim for my weak spots like before.
 
 Yes, the rule is that agile characters handle agile opponents.
 
@@ -328,13 +328,13 @@ But what’s this?
 
 Despite my shouting, the Rose Knights show no reaction.
 
-Not as if they’re ignoring me—but as if they genuinely didn’t hear anything.
+It wasn’t that they were ignoring me—they genuinely hadn’t heard.
 
 “Emily, is the voice control magic active right now?”
 
 “Ah, it must’ve been cast by the mages who came down earlier.”
 
-“…Came down?”
+“...Came down?”
 
 What’s that supposed to mean?
 
@@ -342,19 +342,19 @@ Ravien intercepted a dagger aimed at my shoulder and replied,
 
 “When the rear was attacked, the priests and mages used levitation spells to escape and regroup here.”
 
-“Flee? Don’t tell me… there were enemies above too?”
+“Flee? Don’t tell me... there were enemies above too?”
 
 “Yes. Priest Royta Memander was killed in a surprise attack.”
 
-“I see…”
+“I see...”
 
-Why is it that only bad news keeps coming?
+Why did the bad news never stop?
 
-As if having over a dozen enemies here wasn’t bad enough, now a priest is dead too…
+As if having over a dozen enemies here wasn’t bad enough, now a priest is dead too...
 
-‘Now there are 19 of us left…’
+‘Now there are 19 of us left...’
 
-From 30 at the start, the expedition has dwindled to this.
+We had started with thirty. Now we were down to nineteen.
 
 Even if we managed to return alive, the number would be less than half.
 
@@ -372,19 +372,19 @@ But why did these unreasonable situations keep happening endlessly?
 
 I wanted to curse and blame the gods and scream right now.
 
-But…
+But...
 
 “Ahhhhhhhh!!!”
 
 I exhaled all my heated breath all at once.
 
-I even force myself to suppress the anger clouding my mind.
+I forced myself to suppress the anger clouding my mind.
 
 Because what I needed now was not burning rage.
 
 At least at this moment, I shouldn’t be like that.
 
-“…Akuraba!”
+“...Akuraba!”
 
 “Yes, please speak!”
 
@@ -392,7 +392,7 @@ At least at this moment, I shouldn’t be like that.
 
 There will only be one chance.
 
-**
+---
 
 No one argued that the plan was ridiculous.
 
@@ -400,7 +400,7 @@ No one said we’d all die if we followed it.
 
 By this point, there was no room for such complaints.
 
-“…Understood. We’ll do as you say.”
+“...Understood. We’ll do as you say.”
 
 Akuraba immediately carried out my orders, and the other members did the same.
 
@@ -444,7 +444,7 @@ The enemy’s complacency was a positive sign for us.
 
 Thanks to that, the time finally came.
 
-Rumble rumble rumble.
+Rumble, rumble, rumble.
 
 The canyon shook as if an earthquake had occurred.
 
@@ -452,9 +452,9 @@ Swoooooosh—!
 
 From below the cliff, which was nothing but abyssal darkness, a white chill rose in the form of mist.
 
-[Your character is exposed to [Frozen Faith]
+[Your character has been exposed to [Frozen Faith].]
 
-[Binding magic is released]
+[Binding magic has been released.]
 
 Kariadea, the Glacier Mage.
 
@@ -464,7 +464,7 @@ It had finally arrived after struggling up from the depths.
 
 At this point, urgent cries erupted from the Noark side.
 
-“…We’ll finish this as quickly as possible.”
+“...We’ll finish this as quickly as possible.”
 
 Though more composed, the Rose Knights also seemed flustered.
 
@@ -482,27 +482,27 @@ From within the mist came thousands of skeletons, flailing their arms, and at th
 
 The “big one” I had asked of the ranged DPS was finally prepared.
 
-So now…
+So now...
 
 “Fire.”
 
 We had no choice but to go all out.
 
-「James Carla casts [Piercing Light].」
+[James Carla casts [Piercing Light].]
 
-「Erwin Fornacci di Tersia casts [Elemental Synthesis].」
+[Erwin Fornacci di Tercia casts [Elemental Synthesis].]
 
-「Titana Akuraba uses [No. 1911 Pavel’s Broken Pocket Watch]」
+[Titana Akuraba uses [No. 1911 Pavel’s Broken Pocket Watch]]
 
-「Vercil Gowland has cast Level 3 offensive spell ‘Flame of Destruction.’」
-「Mckelly Leiadas has cast Level 3 offensive spell ‘Judgment.’」
-「Riard Ashid has cast Level 3 offensive spell ‘Dark Ray.’」
+[Vercil Gowland has cast Level 3 offensive spell ‘Flame of Destruction.’]
+[Mackelly Reiadus has cast Level 3 offensive spell ‘Judgment.’]
+[Riard Ashid has cast Level 3 offensive spell ‘Dark Ray.’]
 
 Not only the ranged dealers, but everyone who had even a single ranged skill did the same.
 
 They poured out their skills with all their might, as much as their cooldowns and MP allowed.
 
-Not toward the Noirak side.
+Not toward Noark.
 
 Not toward the Rose Knights.
 
@@ -510,7 +510,7 @@ Boom! Boom! Boom! Boom!
 
 Toward the Elder Lich that had just appeared.
 
-[The first Soul Vessel of Kariadea, the Glacier Mage, has been destroyed]
+[The first Soul Vessel of Kariadea, the Glacier Mage, has been destroyed.]
 
 Phew, looks like the firepower was sufficient.
 
@@ -524,18 +524,18 @@ Grind, rattle, clatter, creak.
 
 The Elder Lich, who instantly restored its shattered bones, looked at us and extended its hand.
 
-[Kariadea, the Glacier Mage, casts [Soul Extraction]
+[Kariadea, the Glacier Mage, has cast [Soul Extraction].]
 
 The pattern it uses in its second phase.
 
 I steadied my breathing and closed my eyes.
 
-“Whew…”
+“Whew...”
 
 That was all I could do.
 
 The die had already been cast in the storm of chaos.
 
-[All characters within range are stunned]
+[All characters within range are stunned.]
 
 Now, all we can do is hope for a favorable roll.

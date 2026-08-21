@@ -14,7 +14,7 @@ Hmm, better than the previous theory, but it still doesn’t make sense.
 
 It wasn’t as if I was a trusted contractor who’d worked with the royal family multiple times, and from their perspective, there was no reason to go through such unnecessary trouble.
 
-‘He even went as far as keeping me locked up for a whole week to set this up…’
+‘He even went as far as keeping me locked up for a whole week to set this up...’
 
 It didn’t make sense to claim he did it purely for amusement, especially now that I knew the King of the New World valued his time more than anyone else.
 
@@ -36,9 +36,9 @@ There was only one answer I could give, after all.
 
 “Fine, I’ll do it. I didn’t like that bastard anyway.”
 
-“Ah, because of that incident…?”
+“Ah, because of that incident...?”
 
-Hmm. If he meant that incident…
+Hmm. If he meant that incident...
 
 “Let me say this in advance. I had no involvement in that matter whatsoever.
 It was an act carried out solely at the Chancellor’s discretion.”
@@ -51,7 +51,7 @@ The King of the New World said this, but my feelings toward the Royal Family did
 
 Even if the Chancellor had plotted it alone, it was the Royal Family who had granted him that much power in the first place. To me, turning a blind eye to evil and allowing it to happen were equally forms of contribution.
 
-‘…Still, if what he said is true, it does make me feel a bit easier.’
+‘...Still, if what he said is true, it does make me feel a bit easier.’
 
 He bore some responsibility, yes, but there were degrees to this kind of thing. I felt there was still room for leniency, and my resentment toward the palace was not strong enough to charge at them for.
 
@@ -67,7 +67,7 @@ I quickly stopped the King of the New World as he moved toward the Life Preserva
 
 “Down there.”
 
-“……”
+“......”
 
 “What was it that’s imprisoned down there?”
 
@@ -75,13 +75,13 @@ At my question, the King of the New World stared at me silently for a moment.
 
 “Well, it seems you’ve forgotten your manners now that you’ve achieved your goal.”
 
-Uh…
+Uh...
 
 I hadn’t meant to, but I shamelessly kept silent and stared back at him, clearly waiting for an answer.
 
 After a brief pause, he finally spoke.
 
-…Strictly speaking, it wasn’t an answer.
+...Strictly speaking, it wasn’t an answer.
 
 “How did you know something was imprisoned there?”
 
@@ -95,7 +95,7 @@ From that, I made a reasonable deduction:
 
 That ten-year-old girl might be the Witch of the Earth.
 
-“…I see.”
+“...I see.”
 
 “So what’s the answer?”
 
@@ -105,9 +105,9 @@ Was it really that difficult a question?
 
 It certainly seemed so, given that even after I’d said all that, he still didn’t give a clear answer.
 
-“…Bjorn Jandel. You know nothing. Nothing about how this world continues to survive. Nor do you know how great a sacrifice we are making for such a world.”
+“...Bjorn Jandel. You know nothing. Nothing about how this world continues to survive. Nor do you know how great a sacrifice we are making for such a world.”
 
-“……”
+“......”
 
 “That’s enough for now. We’ll continue this conversation once everything is over.”
 
@@ -117,11 +117,11 @@ Feeling cheated by his answer, I tried to call out to him again, but in the end,
 
 Because just as I took a single step forward—
 
-“…His Majesty said the conversation ends here.”
+“...His Majesty said the conversation ends here.”
 
 The knight drew his sword and blocked my path.
 
-“……”
+“......”
 
 Seeing that the King of the New World did nothing to stop him, it was clear the conversation really was over. So, I just stood there like a dog that had lost its bone.
 
@@ -133,7 +133,7 @@ Whirrrrrrrr.
 
 The machinery began to whirr, and the strange liquid bubbled up in a violent churn that slowly calmed as the king closed his eyes.
 
-‘He really looks like he’s sleeping…’
+‘He really looks like he’s sleeping...’
 
 Thus, my brief yet strangely long audience with the King of the New World finally came to an end.
 
@@ -145,7 +145,7 @@ After watching the King enter the device and fall asleep, I followed the overbea
 
 “His Majesty instructed us in advance. No matter what you request from now on, we are to do our utmost to comply and cooperate.”
 
-Oh? Is that so…
+Oh? Is that so...
 
 Seems I wasn’t being told to kill the Chancellor completely on my own from scratch.
 
@@ -155,9 +155,9 @@ I already knew what I was going to say.
 
 “I want to finish watching what we were viewing earlier.”
 
-“…I’ll have it prepared.”
+“...I’ll have it prepared.”
 
-I went back and watched the video the King had shown me. But since I did not have all day…
+I went back and watched the video the King had shown me. But since I did not have all day...
 
 “Can I watch it while skipping ahead?”
 
@@ -167,11 +167,11 @@ The video began playing at eight times speed.
 
 Even so, it ended much sooner than I’d expected. Well, the video itself had been short to begin with.
 
-“What about part two…?”
+“What about part two...?”
 
 “There is none.”
 
-“So that’s the end…?”
+“So that’s the end...?”
 
 The montage showed my Anabada Clan gathering the surviving explorers at the front line and forcing their way through the encirclement, ending with their arrival at the barbarians’ holy land. The reason it ended there was simple.
 
@@ -185,11 +185,11 @@ According to him, the video could be recorded thanks to a strategic device owned
 
 “The King of the New World said this alone would be enough to bring you to your knees.”
 
-‘Now then, what should I do next…’
+‘Now then, what should I do next...’
 
 After a moment of thought, I asked the knight his name, and for some reason he flinched.
 
-“……I see no reason for us to exchange names.”
+“......I see no reason for us to exchange names.”
 
 Oh, what’s this?
 
@@ -213,7 +213,7 @@ An error born of excessive loyalty to the king.
 
 Eventually, the knight let out a sigh and revealed his name.
 
-“……It is Astarotta Berun.”
+“......It is Astarotta Berun.”
 
 Hmm, it’s a more ordinary name than I expected?
 
@@ -223,7 +223,7 @@ Since he didn’t want to exchange names, I wondered if it was because it was a 
 
 Did he just not want to exchange names with a Barbarian like me?
 
-“Astarotta… It has a nice ring to it, a pretty name.”
+“Astarotta... It has a nice ring to it, a pretty name.”
 
 I tossed out the bait casually.
 
@@ -233,13 +233,13 @@ And judging by his instant reaction, I’d hit the jackpot.
 
 “I never said it was girlish?”
 
-“……”
+“......”
 
 Astarotta fell silent, realizing too late that he had essentially confessed it himself.
 
 “Anyway, since we’ve ended up like this, I look forward to working with you. Elizabeth.”
 
-“……It is not Elizabeth, it is Astarotta.”
+“......It is not Elizabeth, it is Astarotta.”
 
 “Ah, my apologies. I must have been mistaken.”
 
@@ -249,7 +249,7 @@ Of course, it didn’t mean much.
 
 The advantage of being a barbarian was being able to exploit even such trivial weaknesses against an opponent.
 
-“……Enough. So what’s your plan now?”
+“......Enough. So what’s your plan now?”
 
 He clearly changed the subject, and I didn’t push him further.
 
@@ -280,11 +280,11 @@ He was certain that the fearsome nickname would be stripped from the man after t
 
 Because the one who bore that title wouldn’t be him anymore.
 
-…No.
+...No.
 
 If the operation succeeded, the nickname itself might vanish. There would be no one left who dared to challenge the kingdom’s authority.
 
-…I must be overthinking things.
+...I must be overthinking things.
 
 The marquis refocused his attention on the man before him. He had lost himself in self reflection at a moment when he should have been taking the first steps toward carrying out his original plan.
 
@@ -294,7 +294,7 @@ At the marquis’s invitation, the man began to speak slowly. True to his nature
 
 “Bjorn Jandel has been spotted on the front lines.”
 
-“……I see. Thank you for informing me. I will look into the rest myself.”
+“......I see. Thank you for informing me. I will look into the rest myself.”
 
 Faced with such straightforward intelligence, the marquis fell silent for a moment before nodding. Seeing that his business was concluded, the man turned his back and left the room.
 
@@ -302,13 +302,13 @@ Tap. Tap.
 
 The marquis’s expression remained unchanged, but his constantly moving fingers betrayed his growing agitation.
 
-“Bjorn Jandel……”
+“Bjorn Jandel......”
 
 He had hoped that the man might have died when the prison collapsed.
 
 But of course, that had been too much to expect.
 
-“In the end, it comes back to him again……”
+“In the end, it comes back to him again......”
 
 It was not particularly surprising.
 

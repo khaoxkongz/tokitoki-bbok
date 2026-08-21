@@ -4,7 +4,7 @@ Luring out the Dragon Slayer and his subordinates was very easy.
 
 Well, there’s a saying that the enemy within is the most terrifying one, right?
 
-Noark’s explorer, Gwang Myeong, who had been converted to our side and found enlightenment under Jun’s influence, provided false information to them, and they took the bait immediately.
+The Noark explorer Gwang Myeong, who had been converted to our side and found enlightenment under Jun’s influence, fed them false information, and they took the bait immediately.
 
 [“So, around thirty royal explorers are out there?”]
 
@@ -40,7 +40,7 @@ Because we had Gwang Myeong with us.
 
 “Understood!”
 
-At this pace, by the time the Dragon Slayer reaches the west’s “Iron Falls,” we’ll have arrived at his base.
+At this pace, by the time the Dragon Slayer reached the western ‘Iron Falls,’ we would already be at his base.
 
 Even if he rushes back, by the time he returns, we’ll be long gone.
 
@@ -56,7 +56,7 @@ Well, our field of view was limited because of the dim surroundings, but that’
 
 The Gray Plains.
 
-A middle region between the Dragon Mountain in the continent’s center and the northernmost Dragon’s Depth.
+It was a central region between Dragon Mountain at the heart of the continent and the northernmost Dragon’s Depth.
 
 It’s also the starting point for the Noark faction’s direct access to the 7th floor.
 
@@ -64,9 +64,9 @@ It’s also the starting point for the Noark faction’s direct access to the 7t
 
 “I guess the main unit is keeping them busy.”
 
-Our entire plan for this expedition is a kind of feint operation.
+Our entire expedition plan was essentially a feint.
 
-While the royal army, which entered the Dark Continent via the standard route, engages with Noark’s main forces along the Dragon Mountains, we strike them from behind.
+While the royal army, which had entered the Dark Continent by the standard route, engaged Noark’s main force along the Dragon Mountains, we would strike from behind.
 
 “From here on, we move as quietly as possible, even if we have to slow down.”
 
@@ -74,9 +74,9 @@ While the royal army, which entered the Dark Continent via the standard route, e
 
 “Yes, I’ll leave the detailed troop deployment to you.”
 
-Even after entering the Gray Plains, we moved very cautiously, but we still had to engage in continuous battles.
+Even after entering the Gray Plains, we moved cautiously, but repeated battles were unavoidable.
 
-It’s the labyrinth after all, filled with monsters everywhere.
+It was the labyrinth, after all—monsters were everywhere.
 
 It’s impossible to avoid monsters even if we can avoid humans.
 
@@ -88,9 +88,9 @@ It’s impossible to avoid monsters even if we can avoid humans.
 
 [You have defeated a Hell Ghoul. EXP +4.]
 
-[You have defeated a Jambet…]
+[You have defeated a Jambet...]
 
-[…]
+[...]
 
 Various monsters crawled out of cracks in the ground that resembled a drought-stricken rice field.
 
@@ -114,8 +114,7 @@ Boom!
 
 The Bol-Herchan, with its highest-level defense, withstood for a long time, but it eventually collapsed to the ground, disappearing into light particles.
 
-「You have defeated a Bol-Herchan. EXP +7.」
-
+[You have defeated a Bol-Herchan. EXP +7.]
 It didn’t drop an essence, but I wasn’t particularly disappointed.
 
 I already had its essence anyway.
@@ -138,9 +137,9 @@ A massive tower structure stood there, guarded by around a hundred explorers, co
 
 However, there was one puzzling detail.
 
-“…That’s far fewer than we expected.”
+“...That’s far fewer than we expected.”
 
-“It seems Regal Vargos took more troops than anticipated to chase after us.”
+“It seems Regal Vagos took more troops than anticipated to chase after us.”
 
 “Is that so? Then that’s good news, but we can’t be certain, so let’s gather more intelligence on the surrounding area first.”
 
@@ -156,7 +155,7 @@ However, there was one puzzling detail.
 
 “Understood. I’ll pass the message along.”
 
-We sent out scouts composed of characters with stealth skills to gather intelligence around the base, the rest of us hid beneath the cliff edge and rested to recover our energy.
+We sent out scouts with stealth skills to gather intelligence around the base while the rest of us hid beneath a cliff and rested.
 
 This applied to me as well.
 
@@ -172,17 +171,17 @@ While I was chewing on it, Amelia spoke with a note of concern in her voice.
 
 “Schuiz, things are going too well for you.”
 
-“Dammit….”
+“Dammit....”
 
 She just had to say it out loud.
 
 There’s a superstition that words have power. I had avoided bringing up how smoothly things were going, but she did anyway.
 
-“…?”
+“...?”
 
 “I wasn’t talking to you, don’t mind it. So, what were you going to say? Did you find something suspicious?”
 
-“It’s not that, but…”
+“It’s not that, but...”
 
 When I asked, Amelia trailed off.
 
@@ -200,7 +199,7 @@ Even as I reassured her, I couldn’t help but remain a bit uneasy.
 
 I continued to think quietly to myself.
 
-‘A hundred of them…’
+‘A hundred of them...’
 
 With this number of troops, the mission itself should be a success.
 
@@ -210,15 +209,15 @@ The scouts only got a distant view, but they didn’t spot anyone noteworthy.
 
 Noark’s main force is out on the wide front line to prevent the royal army from crossing the mountains.
 
-Of course, they left behind some troops led by Regal Vargos, at this key base, but…
+Of course, they had left some troops under Regal Vagos to guard this key base, but...
 
-‘Now that he’s away with his troops…’
+‘Now that he’s away with his troops...’
 
 Right now, it’s a perfect opportunity.
 
 ‘And we have Gwang Myeong on our side.’
 
-The only concern now is any unforeseen factors the scouts might bring back, but…
+The only concern now is any unforeseen factors the scouts might bring back, but...
 
 “Schuiz, the scouts have returned.”
 
@@ -232,7 +231,7 @@ I had been worried that things were going too smoothly and that there might be s
 
 “Tell the returning scouts they did well and let them get some rest. Well, they won’t have long to rest, but still.”
 
-“…You’re planning to make a move?”
+“...You’re planning to make a move?”
 
 “Yes, start making preparations.”
 
@@ -242,15 +241,15 @@ It’s time to end this long expedition.
 
 I stood there, alone in the pitch-black wilderness.
 
-Although it’s hidden by the darkness of the labyrinth and can’t be seen with the naked eye…
+Although the base was hidden by the labyrinth’s darkness and invisible to the naked eye...
 
-I stare intently at the Noark’s base.
+I stared intently in its direction.
 
-“….”
+“....”
 
-In the silence, we wait for the right time.
+In the silence, we waited for the right moment.
 
-All the expedition members are prepared to charge forward at any moment.
+Every expedition member was prepared to charge at a moment’s notice.
 
 Boom, boom, boom, boom-!
 
@@ -264,7 +263,7 @@ To someone with some experience as an explorer, it would be clear that this nois
 
 The quiet darkness beyond turned into a noisy commotion.
 
-I can’t see them with my eyes, but I can clearly picture the expressions on each of their faces.
+I couldn’t see them clearly, but I could picture the expressions on their faces.
 
 “Fuck, what on earth is up with these numbers?!”
 
@@ -282,11 +281,11 @@ Of course, among them, there were those who knew the real reason.
 
 “Get a hold of yourselves! It’s the enemy! Someone is leading these monsters right toward us!”
 
-As expected from the people of Noark who have studied every kind of plundering technique.
+As expected of Noark’s people, who had studied every kind of plundering technique.
 
 They’re quick to catch on.
 
-It’s obvious that the waves of monsters swarming them from all sides aren’t just a coincidence.
+It was obvious that the waves of monsters swarming them from all sides weren’t a coincidence.
 
 After confirming that there was no one within a 5 km radius, I had the scouts gather all the monsters nearby.
 
@@ -294,7 +293,7 @@ They drew the monsters’ aggro and then used Stealth to return to us, leaving t
 
 “What?”
 
-“Enemies… ?”
+“Enemies... ?”
 
 “Shit, are they the ones Lord Regal Vagos was talking about?”
 
@@ -310,7 +309,7 @@ At my brief command, Kaislan, standing beside me, raised the flag with the royal
 
 “Fire!!”
 
-At the same time, the mages, archers, and supporters who had finished casting spells unleashed their deadly attacks simultaneously.
+At the same time, the mages, archers, and support-types who had finished preparing their spells unleashed their attacks in unison.
 
 Boom—!
 
@@ -332,15 +331,15 @@ They hastily tried to re-form their line, but there was no way we’d let them d
 
 We continued to fire all of our ranged attacks whenever casting was complete. In response, the enemy finally located our position.
 
-But…
+But...
 
 “There they are!”
 
 “They’re over there!”
 
-Even if they know, what can they do about it?
+Even if they knew, what could they do about it?
 
-They’re too busy fighting off monsters to be able to do anything about us.
+They were too busy fighting off monsters to do anything about us.
 
 Kwaaaaang-!
 
@@ -356,11 +355,11 @@ Suddenly, the message stone I kept in my pocket started vibrating.
 
 There was no need to guess who the sender was.
 
-After all, the only person who’s been contacting me so frequently with this message stone since we arrived here was a single individual.
+After all, only one person had been contacting me this frequently through the message stone since we arrived.
 
 Click.
 
-Since there’s nothing else to do but watch the battlefield, I connected the communication without hesitation.
+Since there was nothing else to do but watch the battlefield, I accepted the call without hesitation.
 
 [You! Where the fuck are you right now?!]
 
@@ -370,7 +369,7 @@ Oh, that’s right—the last report said we were at the edge of the continent, 
 
 [We’ve arrived where you said, but no one’s here! There are also reports that a battle has broken out near the ‘Eye of the Sky’.]
 
-The “Eye of the Sky” is the name given to the magic device that acts as a communication tower.
+The ‘Eye of the Sky’ was the name of the magical device that functioned as a communication tower.
 
 “Tsk, so the news has already reached them.”
 
@@ -388,7 +387,7 @@ After saying that, I waited to see how he would react, but surprisingly, there w
 
 I checked to see if the call was disconnected, but then I heard his voice again—though nothing particularly amusing.
 
-[…Who are you?]
+[...Who are you?]
 
 What’s wrong, cat got your tongue?
 
@@ -396,7 +395,7 @@ Trying to sound all heavy and ominous, are we?
 
 “If you’re that curious, why don’t you come and find out?”
 
-[…From the beginning, this was all your scheme, wasn’t it?]
+[...From the beginning, this was all your scheme, wasn’t it?]
 
 “Well, obviously. But hey, enjoy the scenery while you’re there. It’s not every day you travel so far.”
 
@@ -422,11 +421,11 @@ Just then, Akuraba’s voice came through with an urgent report.
 
 The enemies had fought back in desperation, and most of the monsters had been killed.
 
-Therefore…
+Therefore...
 
 “Formation! Charge forward!”
 
-“Front line, forward…!”
+“Front line, forward...!”
 
 We charged into the battlefield before they had a chance to re-form their lines.
 
@@ -444,21 +443,21 @@ A basic shield-wall formed by warriors during large-scale battles.
 
 Soon the warriors at the front clashed, and a full-blown battle for strength began.
 
-And…
+And...
 
 “Uwaaaaaaaaaaa!”
 
-The victor of this power struggle was, of course, us.
+We were, of course, the victors in that contest of strength.
 
-Our warriors are far superior in average skill level compared to theirs and…
+Our warriors were far superior to theirs in average skill, and...
 
 Most decisively:
 
-[Niarro Cambell casts [Wave of Healing].]
+[Nialo Campbell casts [Wave of Healing].]
 
-[Benjamin Orman casts [Moonlight of Regeneration]…]
+[Benjamin Orman casts [Moonlight of Regeneration]...]
 
-[…]
+[...]
 
 They have no healers!
 
@@ -466,7 +465,7 @@ How can they stop our warriors who charge aggressively even at the cost of injur
 
 “They’ve broken through!”
 
-Our warriors, pushing through with the strength of a hundred men, broke through the enemy line, and our expedition forces quickly exploited that gap.
+Our warriors smashed through the enemy line with overwhelming force, and the rest of the expedition quickly exploited the opening.
 
 The center was not completely empty, but it was open enough.
 
@@ -474,11 +473,11 @@ The center was not completely empty, but it was open enough.
 
 We changed formation into a circular defensive formation.
 
-And then…
+And then...
 
 “Advance while maintaining this formation!”
 
-Now the situation changed: we advanced towards the center while defending against enemies attacking from all sides.
+The situation shifted. We advanced toward the center while defending against attacks from every direction.
 
 After all, our goal isn’t annihilation, but to strike a decisive blow.
 
@@ -488,7 +487,7 @@ After all, our goal isn’t annihilation, but to strike a decisive blow.
 
 Realizing our goal, they rushed at us even more fiercely, but it wasn’t enough to break the unity of our forces that had formed after crossing Ice Rock.
 
-Additionally, we have a lot of priests on our side.
+On top of that, we had plenty of priests on our side.
 
 “Halt!”
 
@@ -496,7 +495,7 @@ While dealing with the enemies as we moved, we soon arrived in front of the ‘E
 
 We stood with our backs against it, desperately holding off the enemy.
 
-Because there’s something we need to do first before destroying it…
+Because there’s something we need to do first before destroying it...
 
 “Schuiz! Come over here quickly.”
 
@@ -516,6 +515,6 @@ Akuraba was waiting for me with an uncomfortable look in front of the ‘Eye of 
 
 “What’s going on?”
 
-“I-I’ve entered the communication coordinates several times and tried to contact the main army, but I can’t connect at all!”
+“I-I’ve entered the communication coordinates several times and tried to contact the main force, but I can’t connect at all!”
 
 Tsk, this is a bit of a problem.

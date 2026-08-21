@@ -1,14 +1,14 @@
-Eye of the Storm (3)
+Eye of the Storm (4)
 
 Munch, munch.
 
 I chew on my jerky.
 
-Not just me, but all the team members together.
+The rest of the team was eating too.
 
-“Uh… I think I’m going to throw up. I’ve eaten too much; I can’t eat anymore…”
+“Uh... I think I’m going to throw up. I’ve eaten too much; I can’t eat anymore...”
 
-A few muttered complaints about being full, but those were just rare exceptions.
+A few people complained that they were too full to eat anymore, but they were the exception.
 
 Even as we hurried up the incline at an alarming pace, everyone forced down the jerky.
 
@@ -34,11 +34,11 @@ To increase our speed, we had to minimize our load.
 
 Whoosh!
 
-Most threw their boxes over the cliff as soon as the order was given, as if relieved. . But a few members hesitated, their hands trembling with reluctance.
+Most threw their boxes over the cliff as soon as the order was given, as if relieved. But a few members hesitated, their hands trembling with reluctance.
 
 The paladins and knights—those in frontline roles—looked especially torn.
 
-“Damn it, I can still eat more…!”
+“Damn it, I can still eat more...!”
 
 One muttered as he shoved jerky into every pocket he had. It was a funny sight, but I couldn’t blame him.
 
@@ -56,7 +56,7 @@ Damn it.
 
 Marone quickly cast another detection spell, and we picked up our pace.
 
-Of course, it wasn’t that drastic of an increase.
+Of course, the increase wasn’t dramatic.
 
 If we had been walking at a brisk pace on flat ground earlier, now we were moving at the speed of a slow marathon.
 
@@ -90,7 +90,7 @@ The food would naturally decrease as we consumed it.
 
 As expected, shedding the warming stones lightened our load, and we picked up speed.
 
-Thanks to the reduced burden on those who had to carry the non-combat members.
+The lighter load especially helped those carrying the non-combat members.
 
 Before long, some hopeful news came through.
 
@@ -98,7 +98,7 @@ Before long, some hopeful news came through.
 
 The narrowing gap had finally stabilized.
 
-Well, we’re still dying because we increased our speed.
+Of course, maintaining that speed was still killing us.
 
 “But it must be the same for them.”
 
@@ -132,9 +132,9 @@ Most likely.
 
 The ones returning would be starving, but they’d be able to gorge themselves if they made it back within three days.
 
-‘Twelve, huh…’
+‘Twelve, huh...’
 
-Our numbers now doubled theirs.
+We now outnumbered them roughly two to one.
 
 But even so—
 
@@ -160,17 +160,17 @@ That’s only fair, right?
 
 Without further explanation, I took off the equipment covering my body and threw it over the cliff.
 
-“Do… do we really have to go that far?”
+“Do... do we really have to go that far?”
 
 “When you were shouting that we’d all die, what was that? Feeling regret now?”
 
-“No, it’s not that, but…”
+“No, it’s not that, but...”
 
 “Then that’s settled. Discard them. Anyway, when we return to the city and sort out the loot stored in our subspace, we’ll have enough for new equipment.”
 
-“Ha… Being told to discard equipment while being chased by enemies—you’re truly mad.”
+“Ha... Being told to discard equipment while being chased by enemies—you’re truly mad.”
 
-The frontline members, who valued their plate armor like life itself, grumbled but eventually followed my orders, stripping off all their equipment and wearing only thick fur clothing.
+The frontline members, who valued their plate armor like life itself, grumbled but eventually obeyed, stripping off their heavy armor and keeping only their thick fur clothing.
 
 As a result,
 
@@ -190,25 +190,25 @@ Trudge, trudge.
 
 How much longer did we run uphill like that?
 
-“I… I just realized for the first time that people can sleep while running.”
+“I... I just realized for the first time that people can sleep while running.”
 
-“Even just for a minute… I’d love to sleep…”
+“Even just for a minute... I’d love to sleep...”
 
 Our pace gradually slowed.
 
 It was only natural; we’d been on a forced march for days without proper rest or sleep.
 
-But…
+But...
 
-“Six minutes… still six minutes…”
+“Six minutes... still six minutes...”
 
 The distance between us remained constant.
 
-As we grew tired and exhausted, so did they…
+As we grew tired and exhausted, so did they...
 
 At that moment, for the first time in a while, there was a change in the situation.
 
-“What’s going on? The detection magic should’ve been triggered by now…”
+“What’s going on? The detection magic should’ve been triggered by now...”
 
 The detection magic, which had been triggering every six minutes, didn’t activate even after twenty minutes.
 
@@ -226,7 +226,7 @@ So I came to a conclusion.
 
 They’ve stopped to rest.
 
-In other words…
+In other words...
 
 “Stop!”
 
@@ -244,31 +244,31 @@ Some, completely drained, fell asleep the moment they hit the ground.
 
 “I’ll just look around a bit.”
 
-“Sorry. I’d like to stay with you, but I can’t hold on…”
+“Sorry. I’d like to stay with you, but I can’t hold on...”
 
 “No need to apologize. Go and rest.”
 
-“Yes…”
+“Yes...”
 
 With a tired expression, Erwin turned and went to lie down next to Amelia, her usual rival, and they fell asleep huddled together.
 
 Yes, without the warming stones, we need to share body heat.
 
-I smirked and watched them for a while, then went round the perimeter.
+I smirked as I watched them for a moment, then walked the perimeter.
 
 Amidst the team members who had collapsed or were eating, there was someone doing something unusual.
 
 “Kaislan, what are you writing?”
 
-“Oh! I was recording what you said earlier, Schuiz… no, Jandel.”
+“Oh! I was recording what you said earlier, Schuiz... no, Jandel.”
 
-“What I said…?”
+“What I said...?”
 
 Instead of answering, Kaislan quietly held out his notebook.
 
 [“I will take on the hardest tasks. I’ll do the dirty work that no one else wants to do. I’ll step into the bloodiest places first, and if someone must get hurt, let it be me.”]
 
-[“So… follow me.”]
+[“So... follow me.”]
 
 [“If you’re going to throw your life away anyway, throw it to me!!”]
 
@@ -298,13 +298,13 @@ I straightened up and patted him on the shoulder.
 
 “Then we’ll need to survive. For it to go down in history.”
 
-“Ah, that’s true. Yes, let’s survive…”
+“Ah, that’s true. Yes, let’s survive...”
 
 “Save the writing for later. You can write when we get back.”
 
 “Will do.”
 
-After finishing my conversation with Kaislan, I headed toward where Erwin was, the female mage, who had been leaning against her backpack with her eyes closed, opened them.
+After finishing my conversation with Kaislan, I headed toward Erwin. As I passed, the female mage leaning against her backpack opened her eyes.
 
 “Bjorn Jandel.”
 
@@ -324,7 +324,7 @@ I wondered what she was talking about, bringing up something from so long ago.
 
 “There’s nothing to be ashamed of. As a leader, it was the decision you had to make. I would have done the same.”
 
-At my sincere words, Vercil Gowland frowned.
+At my sincere reply, Vercil Gowland frowned.
 
 “Don’t joke. You would never have done that.”
 
@@ -344,7 +344,7 @@ That’s a complicated thing to say to a barbarian.
 
 Is she trying to test me?
 
-I stared blankly, and Vercil Goland gave a self-deprecating smile.
+I stared blankly, and Vercil Gowland gave a self-deprecating smile.
 
 “Maybe that’s why people gather around you even in the midst of a fierce storm.”
 
@@ -364,9 +364,9 @@ After that, I passed by the fallen team members and lay down near Erwin.
 
 The mage would alert us if the detection spell triggered, so I planned to steal a bit of sleep.
 
-However…
+However...
 
-“Eye of the storm…”
+“Eye of the storm...”
 
 Even thinking about it again, it’s a compliment that doesn’t suit me.
 
@@ -384,9 +384,9 @@ It felt like I’d barely closed my eyes for a few seconds.
 
 Damn.
 
-Far from feeling rested, I felt even more tired,
+Far from feeling rested, I felt even more tired.
 
-‘Get into formation
+‘Get into formation.’
 
 As much as I wanted to sleep more, I quickly got up and prepared to depart.
 
@@ -394,7 +394,7 @@ And how much time had passed?
 
 “Marone, what time is it?”
 
-“5 minutes…! 5 minutes!”
+“5 minutes...! 5 minutes!”
 
 As we continued to be chased, the distance between us and them started to close.
 
@@ -402,7 +402,7 @@ It wasn’t that they were getting faster.
 
 It was just that we had slowed down.
 
-“Pant, pant…”
+“Pant, pant...”
 
 I guess it was impossible to fully recover our stamina with just a short rest.
 
@@ -418,9 +418,9 @@ The members’ anxiety grew. So, I first checked the time.
 
 Just past midnight.
 
-In other words, we had exactly one day left to escape the Glacier’s Eye.
+In other words, we had exactly one day left to escape the Glacier Eye.
 
-‘One day… it’s going to be tight.’
+‘One day... it’s going to be tight.’
 
 The dilemma wasn’t long.
 
@@ -440,7 +440,7 @@ The mage, looking somewhat tense, asked as he approached.
 
 “When I asked last time, you said you could use the portal magic, right?”
 
-“Yes… I did say that, but… why are you asking about the portal magic spell now?”
+“Yes... I did say that, but... why are you asking about the portal magic spell now?”
 
 Ah, that.
 
@@ -450,7 +450,7 @@ Actually, it’s nothing much.
 
 When I gave the order in a commanding tone, the mage’s expression changed to one of confusion.
 
-“The Portal Magic…? Here… now…?”
+“The Portal Magic...? Here... now...?”
 
 I can understand his feelings.
 
@@ -458,35 +458,35 @@ The labyrinth portal magic is usually an improved version.
 
 It can only be used once in a lifetime.
 
-Of course, given the situation, he wouldn’t have any complaints about using up that one chance, but…
+Of course, given the situation, he wouldn’t have any complaints about using up that one chance, but...
 
-“I have no idea why you’re making such a request. The Portal Magic doesn’t work past the 7th floor.”
+“I have no idea why you’re making such a request. The Portal Magic doesn’t work past the seventh floor.”
 
 The modified Portal Magic spell only works up to the 6th floor.
 
-If you try to use it on the 7th floor, you’ll just waste that precious chance.
+If you try to use it on the seventh floor, you’ll just waste that precious chance.
 
-But…
+But...
 
 ‘You think I don’t know that?’
 
-“Mackelly Reiaduss” There wasn’t much time so I skipped the explanation and lowered my voice “I’ll explain later, so do as I say for now”.
+“Mackelly Reiadus.” There wasn’t much time, so I skipped the explanation and lowered my voice. “I’ll explain later. For now, just do as I say.”
 
-“Okay, I’ll prepare it right away”
+“Okay. I’ll prepare it right away.”
 
-“How long will it take?
+“How long will it take?”
 
-“Considering the mana density around us, 1 minute is enough”
+“Considering the mana density around us, one minute should be enough.”
 
-“Then, Please start”
+“Then please start.”
 
-As soon as our conversation ended, the mage began preparing the spell and I fired off new instructions to the party members.
+As soon as our conversation ended, the mage began preparing the spell while I fired off new instructions to the expedition.
 
-“As soon as the portal magic is complete, we’ll start moving. From now on we’ll travel in a breakthrough formation”.
+“As soon as the portal magic is complete, we move. From now on, we’ll travel in a breakthrough formation.”
 
-“…Breakthrough formation?”
+“...Breakthrough formation?”
 
-“Are you thinking of fighting them here…?”
+“Are you thinking of fighting them here...?”
 
 At my command, questions arose among the members.
 
@@ -504,11 +504,11 @@ I gave a short answer.
 
 “From now on, we’re taking a harder path.”
 
-“…A harder path?”
+“...A harder path?”
 
 “A path that’s hard for us will be hard for them too.”
 
-“…Wait, what does that even mean?”
+“...Wait, what does that even mean?”
 
 Kaislan still looked confused.
 
@@ -524,15 +524,15 @@ As the spell was completed, a brilliant light formed.
 
 Before it could even fully form, the Portal disappeared with a loud noise.
 
-With this, McKelly can never use the Portal magic again.
+With that, Mackelly would never be able to use Portal magic again.
 
-Probably looking at me accusingly with a defeated look because of that.
+No wonder he looked at me with such a defeated, accusatory expression.
 
-But…….
+But...
 
 What I originally wanted wasn’t to escape through the portal.
 
-…What, what?”
+“...What? What?”
 
 The entire canyon shook violently, as if an earthquake had struck, and the crew’s faces grew tense.
 
@@ -540,9 +540,9 @@ The entire canyon shook violently, as if an earthquake had struck, and the crew�
 
 Yeah, I thought the modified portal would work.
 
-Even though it came with penalties, it’s still classified as level 1 space-time magic.
+Even though it came with penalties, it’s still classified as Level 1 space-time magic.
 
-‘Phew… it worked, but……
+‘Phew... it worked, but...
 
 Although it went as expected, I couldn’t help but smile sadly.
 

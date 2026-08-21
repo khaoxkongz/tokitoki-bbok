@@ -1,20 +1,20 @@
-Giant Step(4)
+Giant Step (4)
 
 When I opened my eyes, it was the middle of the night, and since there was nothing to do at this hour, I decided to go back to sleep.
 
-I thought I had slept for two days…
+I thought I had slept for two days...
 
-“…I slept for three days?”
+“...I slept for three days?”
 
 At first, I thought Amelia was joking.
 
-I could still feel the fatigue in my body despite having slept for three days straight. onestly, I could have slept more if I’d wanted to, but I forced myself to get up…
+I could still feel the fatigue in my body despite having slept for three days straight. Honestly, I could have slept more if I’d wanted to, but I forced myself to get up...
 
 ‘But it really has been three days.’
 
 “Still, I’m relieved you woke up. If you hadn’t woken up today, I was planning to forcefully wake you. Because I’ve had enough of stopping that fairy from making a big fuss.”
 
-“…So where’s Erwin?”
+“...So where’s Erwin?”
 
 “She went out for a bit.”
 
@@ -44,7 +44,7 @@ I regret the time I spent sleeping.
 
 It hasn’t even been a month since we survived Ice Rock and made it back, but I have no time to waste relaxing.
 
-However…
+However...
 
 Grrrrr—
 
@@ -56,21 +56,21 @@ Right, let’s eat first.
 
 After satisfying my hunger from three days of starvation, the first thing I did was organize my thoughts.
 
-Lee Baek-ho, GM, Hyeon Byeol, Ragna, Auril Gavis, and the multitude of information I got from the Round Table…
+Lee Baek-ho, GM, Hyun-byeol, Ragna, Auril Gavis, and the multitude of information I got from the Round Table...
 
 I asked Amelia for some space, locked myself in my room and spent some time putting things in order.
 
-‘Ha… My head’s about to explode.’
+‘Ha... My head’s about to explode.’
 
 I felt like a student preparing for the first day of the term.
 
-I had a lot of homework to catch up on, and I feel overwhelmed about where to start. So I decided to treat it like a game, setting priorities and sorting it out. What needed my immediate attention?
+I had a lot of homework to catch up on, and I felt overwhelmed about where to start. So I decided to treat it like a game, setting priorities and sorting it out. What needed my immediate attention?
 
-‘… … It’s a bit better when I organize it like a quest.’
+‘...It’s a bit better when I organize it like a quest.’
 
 After assigning the forced rankings, my head felt a bit clearer.
 
-So, the quest that I need to complete today is…
+So, the quest that I need to complete today is...
 
 “Amelia, how’s the clan formation going?”
 
@@ -96,7 +96,7 @@ I changed and was about to head out to do the day’s chores when Amelia grabbed
 
 True, having two of us there might minimize any oversights.
 
-Sigh, Raven used to handle these things for me
+Sigh, Raven used to handle these things for me.
 
 ‘It will take a while to bring her over from the military.’
 
@@ -110,7 +110,7 @@ Of course, Raven’s willingness comes first.
 
 “Put this on. Going out like that will cause a commotion.”
 
-“Ah…”
+“Ah...”
 
 I took the steel helmet Amelia handed me, put it on and stepped aside.
 
@@ -124,13 +124,13 @@ After returning to the present era, we haven’t been in a position to walk arou
 
 “Oh, there it is.”
 
-Our house was in the centre of town, so it wasn’t a long walk to the local Guild branch.
+Our house was in the center of town, so it wasn’t a long walk to the local Guild branch.
 
 We took a ticket and waited like other explorers, then handed over our IDs when our turn came.
 
-And…
+And...
 
-“Beep, beep, beep, beep… Hrrng!”
+“Beep, beep, beep, beep... Hrrng!”
 
 As soon as the clerk saw my ID, she nearly had a seizure, so we ended up moving to a private reception room on the second floor. The branch manager himself rushed out to wrap up the remaining formalities.
 
@@ -143,7 +143,7 @@ Member: Emily Raines
 Member: Aynar Pheneline
 Member: Auyen Roklov
 
-This was the minimum number of people that was required for the formation of a clan.
+This was the minimum number of people required to form a clan.
 
 By the way, Erwin couldn’t join the clan because she was still in the ‘Pureblood Legion’ and hadn’t resolved that.
 
@@ -171,23 +171,21 @@ I had left it vacant as she instructed, but she hadn’t told me why.
 
 “Sometimes, impatience ruins everything.”
 
-“…Huh?”
+“...Huh?”
 
 “When she withdraws from her order, tell her that we deliberately left the spot open. That will calm her down a little.”
 
-“Uh…”
-
-“Uh…”
+“Uh...”
 
 Wait, what did I just hear?
 
-“…You left it open for Erwin?”
+“...You left it open for Erwin?”
 
 I asked, unable to hide my shock, and Amelia looked a bit embarrassed as she averted her gaze.
 
-Then…
+Then...
 
-“…She seemed upset.”
+“...She seemed upset.”
 
 She muttered in a tiny voice, then changed the subject.
 
@@ -209,7 +207,7 @@ I didn’t want anyone to overhear, so I pulled her close.
 
 Amelia visibly flinched at my whisper and quietly asked for clarification.
 
-“Korean…? You mean, the language of your homeland?”
+“Korean...? You mean, the language of your homeland?”
 
 “Right.”
 
@@ -217,11 +215,11 @@ I nodded and went on to explain its meaning.
 
 “To strive together for a better future with one heart and one will.”
 
-“…Oh?”
+“...Oh?”
 
 “That’s what ‘Anabada’ means.”
 
-For now, it’s also going to be our clan’s motto. As given the corner we had been driven into, we couldn’t afford to do anything else.
+For now, it would also serve as our clan’s motto. Given the corner we had been driven into, we couldn’t afford to do anything else.
 
 ---
 
@@ -233,7 +231,7 @@ She’d visit the place her sister works, peek in from a distance, then come bac
 
 Without ever daring to actually speak to her.
 
-‘…Well, she says she’s satisfied with that, so I guess I can’t say much.’
+‘...Well, she says she’s satisfied with that, so I guess I can’t say much.’
 
 Anyway, even though I’d wrapped up today’s quest, I didn’t head home; I headed somewhere else instead.
 
@@ -241,7 +239,7 @@ Because there was something I needed—no, something I wanted—to do.
 
 Ding!
 
-I push open the door to a modestly busy restaurant.
+I pushed open the door to a moderately busy restaurant.
 
 The second floor doubled as an inn, and the place sold food during the day and drinks at night, essentially operating as a pub.
 
@@ -259,7 +257,7 @@ As I entered, a bright-faced waitress, who seemed to be in her early twenties, g
 
 “Oh, madam? The priest said she should start being careful, so she isn’t coming in these days.”
 
-…Is she ill or something?
+...Is she ill or something?
 
 While slightly worried, I decided to clear up any misunderstandings first.
 
@@ -271,7 +269,7 @@ Okay, so I’ll be able to see him if I wait.
 
 “Thanks for answering.”
 
-As a token of appreciation for her time, I left a tip and sat at the table, passing the time.And after I had eaten all the food I ordered and placed an order for a second dish…
+As a token of appreciation for her time, I left a tip and sat at the table to pass the time. After I had finished everything I ordered and placed an order for a second dish...
 
 Ding!
 
@@ -283,9 +281,9 @@ The door opened, and the person I was waiting for arrived.
 
 “You’ve got someone here to see you.”
 
-“…Someone to see me?”
+“...Someone to see me?”
 
-As the waiteress conversed with Mr. Bear, he scanned the interior and froze when he saw me.
+As the waitress spoke with Mr. Bear, he scanned the room and froze when he saw me.
 
 But did he realise the situation?
 
@@ -301,33 +299,33 @@ But did he realise the situation?
 
 After quickly giving instructions to the waitress, Mr. Bear approached me briskly.
 
-“…It really is you. Bjorn Jandel.”
+“...It really is you. Bjorn Jandel.”
 
 “Been a while, Abman.”
 
-And then…
+And then...
 
-“…”
+“...”
 
-“…”
+“...”
 
 A brief silence followed.
 
 Abman was the first to speak.
 
-“I’ve… heard the news.”
+“I’ve... heard the news.”
 
 God, this awkwardness.
 
 “I still don’t fully understand what’s going on, but it sounds like you’ve been through something major.”
 
-“Ah, yeah… I guess so…”
+“Ah, yeah... I guess so...”
 
 “Have you already met the others?”
 
 “Everyone except Misha.”
 
-“I see… I see…”
+“I see... I see...”
 
 Mr. Bear then seemed to think about something, and then spoke again.
 
@@ -337,11 +335,11 @@ Mr. Bear then seemed to think about something, and then spoke again.
 
 “Well, I guess my mind changed.”
 
-“…?”
+“...?”
 
 There was something odd in his tone. Or was it just my imagination?
 
-Right, so…
+Right, so...
 
 “Abman, I never meant to deceive you all or anything.”
 
@@ -351,7 +349,7 @@ Let’s make this clear first.
 
 “That’s enough.”
 
-“…?”
+“...?”
 
 “Bjorn, it seems you’re under some misunderstanding. I’m not angry with you or anything. Sure, I felt betrayed, but that has nothing to do with this.”
 
@@ -359,13 +357,13 @@ He cut me off sharply, took my drink, and gulped it down before continuing.
 
 “I just don’t want to hear it.”
 
-“…”
+“...”
 
 “Whatever the reason you hid yourself. It might be because you were involved in something dangerous. It’s a story that doesn’t concern me anymore.”
 
 Something felt tight in my chest.
 
-“It doesn’t… involve you?”
+“It doesn’t... involve you?”
 
 “Sorry, but I should make this clear. If you came here today hoping to bring me back on your team, that’s impossible.”
 
@@ -381,17 +379,17 @@ I felt more curious than disappointed.
 
 Upon my request, Abman sighed as if holding back a breath, then opened up.
 
-“On the day your survival news reached me… my wife asked me. She was very worried, wondering if I was going to meet you.”
+“On the day your survival news reached me... my wife asked me. She was very worried, wondering if I was going to meet you.”
 
-“I see…”
+“I see...”
 
 “Bjorn, do you know how long two years and six months can be? Long enough to make a man who once dreamed of seeing the end of the labyrinth reevaluate everything.”
 
 He gave a lonely sigh and went on.
 
-“So… what I’m trying to say is… we can’t go back to how it was. No matter how I look at it, if I keep adventuring with you, I might not live to see my kids get married.”
+“So... what I’m trying to say is... we can’t go back to how it was. No matter how I look at it, if I keep adventuring with you, I might not live to see my kids get married.”
 
-“Right… Got it.”
+“Right... Got it.”
 
 With that, I let go of even the slightest bit of remaining hope.
 
@@ -407,7 +405,7 @@ Because, well, think about it.
 
 How can I ask a married guy with kids to join a clan that might end up fighting the royal family someday?
 
-“…I’m sorry.” Mr. Bear spoke
+“...I’m sorry.” Mr. Bear spoke
 
 “What Sorry? Let’s just have a drink.”
 
@@ -415,27 +413,27 @@ This was the real reason I had come here.
 
 “Why? If we’re not going into the labyrinth together, does that mean we can’t have a drink together either?”
 
-“…That’s not it.”
+“...That’s not it.”
 
 Soon, Mr. Bear lifted his glass, and we spent time chatting about trivial things.
 
-Eventually the customers gradually left and even the employees had all gone home…
+Eventually the customers gradually left and even the employees had all gone home...
 
 Until the sun set and night fell.
 
 Laughing, talking, and sometimes even getting into serious arguments.
 
-“…It’s gotten late.”
+“...It’s gotten late.”
 
 “It’s only just become night.”
 
 “My wife is waiting.”
 
-“Well then… can’t be helped.”
+“Well then... can’t be helped.”
 
-“I’m sorry. If my wife weren’t almost due, I could have stayed longer…”
+“I’m sorry. If my wife weren’t almost due, I could have stayed longer...”
 
-..Almost due?
+...Almost due?
 
 My head went blank for a moment, but I roughly understood the situation.
 
@@ -447,7 +445,7 @@ Now that I thought about it, I couldn’t be by his side when his first child wa
 
 “It’s raining out. Take this with you. I’ll stick around to tidy up before I go.”
 
-“…Ah, thank you.”
+“...Ah, thank you.”
 
 After a few more words, I put on the raincoat Mr. Bear gave me and stepped out into the street.
 
@@ -475,7 +473,7 @@ Squelch, squelch.
 
 Even though I was trying hard to steady my steps, my drunken body swayed now and then.
 
-Maybe because I was swaying so much…
+Maybe because I was swaying so much...
 
 [Bjorn Jandel.]
 
@@ -483,7 +481,7 @@ The last few words we shared kept flashing through my mind.
 
 [Stride forward boldly. Don’t waste time on a straggler like me.]
 
-Common, there’s no such thing as stragglers in life.
+Come on, there’s no such thing as stragglers in life.
 
 [You can go as far as you want.]
 
@@ -495,4 +493,4 @@ I don’t know, but I kept walking.
 
 Splish, splash—
 
-Repeating over what I need to do tomorrow.
+Going over what I needed to do tomorrow, again and again.

@@ -6,23 +6,23 @@ It’s not eloquent speech or a carefully constructed reputation.
 
 It’s your expression.
 
-“Th-This is… a m-misunderstanding…!”
+“Th-This is... a m-misunderstanding...!”
 
 No matter how logical your words are, they won’t be convincing if your face says otherwise.
 
-“I was just testing you… but it seems like it really is human blood.”
+“I was just testing you... but it seems like it really is human blood.”
 
 Some professional liars could control even the slightest twitch of their facial muscles, but thankfully, this wasn’t one of them.
 
-“…I-It’s a misunderstanding—!”
+“...I-It’s a misunderstanding—!”
 
 “Just tell me what happened. I’m listening.”
 
 I didn’t have to say much. Bersil, understanding my intentions, activated the Verification spell.
 
-But…
+But...
 
-“…He’s stronger than he looks.”
+“...He’s stronger than he looks.”
 
 The spell failed.
 
@@ -30,7 +30,7 @@ It didn’t work if the target’s Magic Resistance and Mental Power were too hi
 
 Well, it was understandable.
 
-He might be the leader of a small, unknown clan… but he was still a leader.
+He might be the leader of a small, unknown clan... but he was still a leader.
 
 “What should we do?”
 
@@ -48,13 +48,13 @@ I had a feeling it would work on him.
 
 “You there.”
 
-“…Y-Yes, Baron…”
+“...Y-Yes, Baron...”
 
 “Tell me. What happened here?”
 
 The archer’s face turned pale, and he glanced at me and his leader.
 
-“Um… well…”
+“Um... well...”
 
 It was time to crack the whip.
 
@@ -64,7 +64,7 @@ I lowered my voice, and the clan leader bit his lip and nodded.
 
 “Jason, it’s okay. Tell him.”
 
-“Y-Yes…”
+“Y-Yes...”
 
 The archer, relieved to have received his leader’s permission, finally spoke.
 
@@ -76,11 +76,11 @@ But then a team of six explorers had appeared, and that’s when the trouble sta
 
 “Did they try to steal your discovery?”
 
-“N-No, but…”
+“N-No, but...”
 
 “Just tell me what happened.”
 
-“Well…”
+“Well...”
 
 The explorers had realized that the clan had found something.
 
@@ -88,17 +88,17 @@ Or at least, the clan thought they had.
 
 So they had captured the explorers to prevent them from revealing the information.
 
-“Th-There was an accident…”
+“Th-There was an accident...”
 
 “An accident?”
 
-“One of them… attacked us and killed one of our members…”
+“One of them... attacked us and killed one of our members...”
 
 A fight had broken out, and the explorers had been killed.
 
 “What about the bodies?”
 
-“…We disposed of them with dissolving liquid after taking their equipment.”
+“...We disposed of them with dissolving liquid after taking their equipment.”
 
 So that’s why I had smelled something strange.
 
@@ -108,7 +108,7 @@ What was he talking about?
 
 “So you were planning to just let them go if they hadn’t resisted?”
 
-“Th-That’s…”
+“Th-That’s...”
 
 He trailed off, unable to continue the lie.
 
@@ -122,7 +122,7 @@ The clan leader spoke up.
 
 Hmm, he wasn’t wrong.
 
-But…
+But...
 
 “That’s the only difference. No one can blame us. Not even you, Baron Yandel!”
 
@@ -136,7 +136,7 @@ I used the same logic against him, and his eyes widened in disbelief.
 
 “What? Are you going to spread rumors as a ghost?”
 
-“……!”
+“......!”
 
 He finally realized.
 
@@ -156,13 +156,13 @@ Erwen was the first to speak, her opinion clear and unwavering.
 
 “Misha, what about you?”
 
-“W-Well… I think… it’s better to… kill them…?”
+“W-Well... I think... it’s better to... kill them...?”
 
 “I agree with Carlstain.”
 
 Misha and Bersil voted for execution, while Auyen and Ainar voted for sparing them.
 
-And…
+And...
 
 “I also vote for sparing them.”
 
@@ -180,21 +180,21 @@ I had never expected such a by-the-book answer from her.
 
 She avoided my gaze.
 
-“And…”
+“And...”
 
-“……?”
+“......?”
 
 “I think it’s better for you.”
 
-“…What?”
+“...What?”
 
-“Better for me…? What do you mean?”
+“Better for me...? What do you mean?”
 
 She hesitated for a moment and then answered.
 
 “Yandel, don’t take this the wrong way. You’re in a very unstable state right now.”
 
-“…Unstable state?”
+“...Unstable state?”
 
 “Have they harmed you? Or tried to kill you? No. They’re not a threat to you, even if you let them go. And yet, you’re looking for a reason to kill them.”
 
@@ -214,7 +214,7 @@ Her eyes weren’t filled with accusation.
 
 They were filled with worry.
 
-“…Three votes for execution, and three votes for sparing them.”
+“...Three votes for execution, and three votes for sparing them.”
 
 She said,
 
@@ -228,7 +228,7 @@ To kill, or to spare.
 
 I had never imagined I would seriously contemplate such a question.
 
-And that was probably… the reason.
+And that was probably... the reason.
 
 Why Amelia had intervened.
 
@@ -236,13 +236,13 @@ She was genuinely worried about ‘Lee Hansu’, the person who had been trapped
 
 “Archer.”
 
-“…Yes?”
+“...Yes?”
 
 I asked him one last question.
 
 “Have you, or any of your teammates, ever looted before?”
 
-“…No, sir. We’re not that kind of clan. We just… lost our judgment for a moment…”
+“...No, sir. We’re not that kind of clan. We just... lost our judgment for a moment...”
 
 “It’s true.”
 
@@ -250,11 +250,11 @@ Right.
 
 “Bersil, take their testimonies and record them with the crystal. Emily, search their belongings and find the victim’s ID. And collect any other evidence that might be useful for the guild.”
 
-“You mean…”
+“You mean...”
 
 “I’ll leave it to the guild to decide whether they’re looters or not.”
 
-It was a hassle, but…
+It was a hassle, but...
 
 It was the right thing to do.
 
@@ -266,7 +266,7 @@ Okay, that settled that.
 
 “So what was inside?”
 
-“A… stone tablet.”
+“A... stone tablet.”
 
 “A stone tablet?”
 
@@ -276,7 +276,7 @@ While Amelia and Bersil were gathering evidence and testimonies, I approached th
 
 It wasn’t big enough for me to fit through.
 
-‘This is discrimination against barbarians…’
+‘This is discrimination against barbarians...’
 
 I made my decision and swung my hammer.
 
@@ -284,7 +284,7 @@ Kwaaang! Rumble!
 
 The wall crumbled, and a passage appeared.
 
-And…
+And...
 
 “Oh! It looks just like a portal stone!”
 
@@ -300,7 +300,7 @@ But it seemed like we were on the right track.
 
 There were no hidden chambers like this in the Crystal Cave.
 
-‘And the broken wall isn’t regenerating…’
+‘And the broken wall isn’t regenerating...’
 
 That’s why destruction was the key to finding hidden pieces.
 
@@ -308,7 +308,7 @@ If everything else regenerated except for one spot, that spot was usually the an
 
 “Anything?”
 
-“Not yet…”
+“Not yet...”
 
 “I see.”
 
@@ -318,7 +318,7 @@ They had finished gathering evidence and testimonies.
 
 So I released the captives.
 
-“Y-You’re letting us go…?”
+“Y-You’re letting us go...?”
 
 “Yes. And don’t cause any more trouble.”
 
@@ -330,17 +330,17 @@ Bersil spoke cautiously,
 
 Well, that was true.
 
-I had considered killing them to prevent that…
+I had considered killing them to prevent that...
 
-But…
+But...
 
 “It doesn’t matter.”
 
 “It doesn’t matter?”
 
-“They found this place before the 3rd day. It’s not exactly a well-kept secret. They might think they’ve made a great discovery, but… anyone could have found it.”
+“They found this place before the 3rd day. It’s not exactly a well-kept secret. They might think they’ve made a great discovery, but... anyone could have found it.”
 
-“That’s… true.”
+“That’s... true.”
 
 “So let’s stop worrying about them and focus on this. Can you use Mana Detection to see if there’s anything hidden?”
 
@@ -348,7 +348,7 @@ But…
 
 We tried various methods, including magic, but we couldn’t find anything.
 
-But…
+But...
 
 “Yandel, I think we should give up. There’s nothing here—”
 
@@ -362,7 +362,7 @@ Ainar had been digging around the tablet, and an inscription had appeared beneat
 
 “Hehe, a warrior’s intuition is as good as magic. That’s why barbarians are superior.”
 
-“…….”
+“.......”
 
 I ignored Ainar’s nonsense and bent down to read the inscription.
 
@@ -370,7 +370,7 @@ I ignored Ainar’s nonsense and bent down to read the inscription.
 
 “It’s fine. I can read it.”
 
-“Y-You can…?”
+“Y-You can...?”
 
 Ah, I hadn’t told them.
 
@@ -386,7 +386,7 @@ I read the inscription aloud.
 
 Bersil and Erwen’s expressions changed as soon as I finished reading.
 
-“Yandel, this is…”
+“Yandel, this is...”
 
 “It’s the same as the inscription on the Witch’s statue!”
 
@@ -396,7 +396,7 @@ It was the same inscription we had seen in the Witch’s Cabin.
 
 Ainar didn’t seem to remember.
 
-“…Huh? The Witch’s statue? What are you talking about?”
+“...Huh? The Witch’s statue? What are you talking about?”
 
 “It’s a long story.”
 

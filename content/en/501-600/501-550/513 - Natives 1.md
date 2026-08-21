@@ -10,11 +10,11 @@ We lowered the bodies and examined them.
 
 “Judging by the cuts, the weapon was a sword. About this long.”
 
-“…It seems likely that they were killed by other explorers.”
+“...It seems likely that they were killed by other explorers.”
 
 The mage and the assassin, both experts in their respective fields, agreed that the wounds were inflicted by a weapon.
 
-“But… there are monsters that use weapons, aren’t there?”
+“But... there are monsters that use weapons, aren’t there?”
 
 The navigator, a non-combatant, naively voiced his opinion, but no one took him seriously.
 
@@ -22,13 +22,13 @@ The bodies were hanging from a tree.
 
 “Monsters have never displayed this kind of behavior. Lokrob, you’ve seen it yourself, haven’t you? Monsters attack explorers on sight, but they don’t show any interest in dead bodies.”
 
-“Ah… Now that you mention it, that’s true.”
+“Ah... Now that you mention it, that’s true.”
 
 Bersil’s explanation was convincing enough for Auyen to immediately agree.
 
-But…
+But...
 
-“What happened here…?”
+“What happened here...?”
 
 “I don’t know. Maybe there was a conflict within the Silver Lion Clan? Or maybe these explorers betrayed them. One thing’s for sure, it wasn’t a monster.”
 
@@ -38,7 +38,7 @@ There was always the possibility of a new species with unknown behavior patterns
 
 “Mental contamination.”
 
-“…What?”
+“...What?”
 
 “They might have been driven mad. Monsters don’t do this, but humans driven by madness are capable of anything.”
 
@@ -70,13 +70,13 @@ And then I turned to Misha.
 
 “What was your first impression when you saw the bodies?”
 
-“Um… well…? It seemed like… a display… Like they were showing off their kills…”
+“Um... well...? It seemed like... a display... Like they were showing off their kills...”
 
 I see.
 
 “Emily, you?”
 
-“It felt more like a warning to me. They were hanging right at the entrance…”
+“It felt more like a warning to me. They were hanging right at the entrance...”
 
 “Like a ‘Do Not Enter’ sign?”
 
@@ -94,7 +94,7 @@ As I said that, I heard a strange sound next to me.
 
 “What’s wrong, Misha?”
 
-“Nothing…”
+“Nothing...”
 
 I decided to end the conversation.
 
@@ -112,9 +112,9 @@ That was the explorer’s motto.
 
 We entered the jungle, Auyen diligently mapping the area as we went.
 
-And after a while…
+And after a while...
 
-“Eek! The tree… it’s moving!”
+“Eek! The tree... it’s moving!”
 
 We encountered our first monster.
 
@@ -158,7 +158,7 @@ The 5th-grade plant-type monster, Seedria.
 
 It was small and made cute noises, but it was still a 5th-grade monster, on par with the Troll.
 
-[Beep, beep…!]
+[Beep, beep...!]
 
 It had summoned Seedria, so its skill had to be [Growing Seed].
 
@@ -174,7 +174,7 @@ It was the [Mana Barrage] of the 4th-grade aquatic monster, Palpupura.
 
 Pffff-!
 
-And the dust-like particles… that had to be [Charming Powder].
+And the dust-like particles... that had to be [Charming Powder].
 
 ‘Overall, it’s around 4th-grade.’
 
@@ -194,7 +194,7 @@ But the body didn't dissolve into particles of light.
 
 What? Did it have a resurrection passive?
 
-As I cautiously approached the tree…
+As I cautiously approached the tree...
 
 [Kyu?]
 
@@ -216,11 +216,11 @@ Two items remained.
 
 A magic stone, probably around 4th-grade.
 
-And…
+And...
 
 「No. 9999 Beginner’s Luck activated.」
 
-…an essence.
+...an essence.
 
 ---
 
@@ -232,7 +232,7 @@ Bersil collected the essence, and I thought for a moment.
 
 “This essence probably won’t be very useful.”
 
-“It’s true… We don’t know its essence yet, but its skills weren’t that powerful.”
+“It’s true... We don’t know its essence yet, but its skills weren’t that powerful.”
 
 Misha chimed in, agreeing with Amelia.
 
@@ -260,13 +260,13 @@ Some parasites could enhance their host’s skills or even grant them new ones.
 
 “Does it matter? They probably already have a name for it.”
 
-“…We might be the first to discover it. I’ll name it Nanari.”
+“...We might be the first to discover it. I’ll name it Nanari.”
 
 “Sure, go ahead.”
 
 I had a feeling there would be a monster named ‘Nanari’ eventually, anyway.
 
-“Um… Nanari is a good name, but… it summons Seedria and uses the Palpupura’s skills, so… how about Seedpura…?”
+“Um... Nanari is a good name, but... it summons Seedria and uses the Palpupura’s skills, so... how about Seedpura...?”
 
 “Stop.”
 
@@ -276,15 +276,15 @@ Bersil, what are you doing?
 
 I made the final decision.
 
-“…Alright.”
+“...Alright.”
 
 Amelia seemed pleased.
 
-‘So that settles the name…’
+‘So that settles the name...’
 
 After collecting Nanari’s essence, we resumed our exploration.
 
-“…This island is creepy.”
+“...This island is creepy.”
 
 Auyen’s comment was met with unanimous agreement.
 
@@ -292,7 +292,7 @@ The jungle itself was normal enough, and the darkness wasn't a problem for exper
 
 But the details were unsettling.
 
-“Ugh… I stepped on it again…”
+“Ugh... I stepped on it again...”
 
 As we walked through the bushes, we kept stepping on something soft and squishy.
 
@@ -300,7 +300,7 @@ Like mud.
 
 When we looked closer, we found chunks of flesh and bone scattered among the bushes.
 
-“This is disgusting. Why is there so much of this…?”
+“This is disgusting. Why is there so much of this...?”
 
 “At least it doesn’t smell.”
 
@@ -308,9 +308,9 @@ That was true, but the sight itself was grotesque.
 
 It was as if someone had taken different monsters, mashed them together, and then scattered the remains throughout the jungle.
 
-‘Why is there an eyeball sticking out of that…?’
+‘Why is there an eyeball sticking out of that...?’
 
-We continued mapping the area, carefully avoiding the… remains.
+We continued mapping the area, carefully avoiding the... remains.
 
 “Battle stations!”
 
@@ -338,13 +338,13 @@ It was a little disappointing.
 
 [Hellfire] was a powerful skill, even if its base stats were low.
 
-‘New combinations are interesting, but it’s going to be difficult to find the right ones…’
+‘New combinations are interesting, but it’s going to be difficult to find the right ones...’
 
 “Mister!”
 
 Erwen suddenly shouted.
 
-Another monster? We had just finished a battle…
+Another monster? We had just finished a battle...
 
 “It’s not a monster! It’s people!”
 
@@ -360,7 +360,7 @@ That was important information.
 
 “Then why are they running?”
 
-“…They were captured by the monsters on this island… and they just escaped.”
+“...They were captured by the monsters on this island... and they just escaped.”
 
 I see.
 
@@ -376,27 +376,27 @@ We changed our formation to pursuit mode and increased our pace.
 
 Erwen stopped, and we saw a group of explorers running through the jungle.
 
-“Ah…!”
+“Ah...!”
 
 Their expressions were a mixture of emotions.
 
-Surprise, fear, relief, hope…
+Surprise, fear, relief, hope...
 
-And then, as they recognized me…
+And then, as they recognized me...
 
 “We’re saved!”
 
-“…Help us!”
+“...Help us!”
 
 They dropped their weapons and ran towards us.
 
 That was my least favorite type of explorer.
 
-I understood their desperation, but…
+I understood their desperation, but...
 
 “What were you running from?”
 
-“A… a monster! A monster on this island…!”
+“A... a monster! A monster on this island...!”
 
 “Are they chasing you? I don’t sense anything.”
 
@@ -404,7 +404,7 @@ I understood their desperation, but…
 
 “Then why were you running?”
 
-“…We were captured… by the monsters… and we just escaped…”
+“...We were captured... by the monsters... and we just escaped...”
 
 “I see.”
 
@@ -414,13 +414,13 @@ I released my grip on his shoulder.
 
 We switched back to exploration mode. There was no need to maintain battle formation.
 
-“So… tell me. What do you mean by ‘captured’?”
+“So... tell me. What do you mean by ‘captured’?”
 
-“It’s… exactly what it sounds like… There’s a village… a monster village on this island…”
+“It’s... exactly what it sounds like... There’s a village... a monster village on this island...”
 
 “A colony?”
 
-“N-No, it’s different… It’s difficult to explain…”
+“N-No, it’s different... It’s difficult to explain...”
 
 The explorer stammered, unable to articulate his thoughts.
 
@@ -430,16 +430,16 @@ The woman next to him spoke up.
 
 “Different how?”
 
-“They communicated with each other using a complex language system. One of our mages said it sounded like ancient language… Ah! That’s not important.”
+“They communicated with each other using a complex language system. One of our mages said it sounded like ancient language... Ah! That’s not important.”
 
 She shook her head and continued.
 
-“The village… it was huge. There were houses, and… families… children…”
+“The village... it was huge. There were houses, and... families... children...”
 
-“….”
+“....”
 
-“Like… natives…”
+“Like... natives...”
 
-Natives…
+Natives...
 
 That was an interesting concept.

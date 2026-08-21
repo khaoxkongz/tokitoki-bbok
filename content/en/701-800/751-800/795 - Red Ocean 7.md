@@ -6,7 +6,7 @@ If you keep roaming the map and continue hunting, you can encounter a monster ca
 
 If you cast the ‘Distortion’ spell on this creature, hunt it down and obtain the ‘Key’, you can open the cave at the centre of the island.
 
-And then…
+And then...
 
 ‘If you clear everything and go all the way to the end, the boss room appears.’
 
@@ -16,7 +16,7 @@ Inside the inner chamber waited what was considered Skull Island’s “boss,”
 
 Back in my early days with Ghost Busters, I sold information about Skull Island, specifically the strategy for defeating this boss.
 
-‘Did she manage to defeat it… that woman…?’
+‘Did she manage to defeat it... that woman...?’
 
 Come to think of it, I don’t think I ever saw her nickname again after that time, not on the forums, not in the Q&A section, nowhere.
 
@@ -52,7 +52,7 @@ I stepped forward, crushing bone fragments beneath my feet.
 
 This was a geographical feature of Skull Island. The entire surface of the island was covered in all kinds of bones, both human and monster.
 
-The important thing here is…
+The important thing here is...
 
 ‘There’s a special skeleton among them.’
 
@@ -66,23 +66,23 @@ However, on this island, that size wasn’t unusual, so it didn’t particularly
 
 Once I confirmed all the characteristics, I raised my hammer. Just then, Raven spoke up.
 
-“This skull… I think it’s the Keykeeper?”
+“This skull... I think it’s the Keykeeper?”
 
 “Huh?” I muttered, slightly taken aback. “That doesn’t resemble it at all.”
 
-“No, it does. I happen to have an anatomical chart…”
+“No, it does. I happen to have an anatomical chart...”
 
 “Why do you even carry something like that?”
 
 “I did some research when I heard we might go to Skull Island. Anyway, look! Doesn’t it look similar?”
 
-“…It does look similar.”
+“...It does look similar.”
 
 “Could it be that other explorers hunted it with Distortion and then left it behind? This floor doesn’t reset every time the labyrinth opens and closes like the others, right?”
 
-Hmm, maybe… MaritimeTransport
+Hmm, maybe... MaritimeTransport
 
-It’s true that the sixth floor doesn’t reset, so that’s possible…
+It’s true that the sixth floor doesn’t reset, so that’s possible...
 
 But then, shouldn’t there be multiple skeletons like this scattered around the island? Why was there always only one? As an explorer living in this world, I began to feel curious about it.
 
@@ -90,7 +90,7 @@ But then, shouldn’t there be multiple skeletons like this scattered around the
 
 I brushed it off with a player’s mindset.
 
-After all…
+After all...
 
 Gamers don’t try to understand phenomena.
 
@@ -130,11 +130,11 @@ As I continued forward as if I were about to use the key and enter the cave, the
 
 “Why should I wait? You haven’t obtained the key yet, but I have. That means we have the right to challenge the cave first. That was the agreement, wasn’t it?”
 
-“Y-yes, that’s correct! You’re absolutely right! But… just a moment! Could you perhaps meet our commander and talk to him?”
+“Y-yes, that’s correct! You’re absolutely right! But... just a moment! Could you perhaps meet our commander and talk to him?”
 
-“Hmm… I’ll give you 10 minutes.”
+“Hmm... I’ll give you 10 minutes.”
 
-“…Ten minutes?”
+“...Ten minutes?”
 
 “Do you have a problem with that?”
 
@@ -164,7 +164,7 @@ I hadn’t even agreed to hear him out yet, and he was already thanking me.
 
 “Yes. Then I’ll get straight to the point. How much do you want?”
 
-“…Are you asking for the key?”
+“...Are you asking for the key?”
 
 “No. We obtained a key 30 minutes ago, so we don’t need yours. We simply want to buy the right to challenge it first. It goes without saying that if we fail, you may challenge it next.”
 
@@ -184,7 +184,7 @@ Hah, that shut him up.
 
 “Just be blunt. Tell me the maximum amount you can give. Then I’ll listen and consider it. I’m warning you now: don’t try to negotiate by increasing the amount little by little. I hate tedious things.”
 
-“………How does 400 million stones sound?”
+“.........How does 400 million stones sound?”
 
 “Just selling the boss’s essence would fetch five hundred million.”
 
@@ -208,7 +208,7 @@ I pretended to think for a moment before answering.
 
 Golden Ghost’s expression changed instantly.
 
-“I am aware of the connection between the two of you… It seems you’re still quite close?”
+“I am aware of the connection between the two of you... It seems you’re still quite close?”
 
 “In the labyrinth, people you can trust are rare.”
 
@@ -228,11 +228,11 @@ He continued speaking anyway.
 
 “Moreover, someone like Mr. Urikfrit, who is willing to sacrifice himself for the group, is even rarer.”
 
-This bastard…
+This bastard...
 
 That was a threat, wasn’t it? Saying he’d keep sending Mr. Bear into dangerous situations and work him to the bone.
 
-“Ha…”
+“Ha...”
 
 With superhuman patience, I held it in once more and replied,
 
@@ -240,7 +240,7 @@ With superhuman patience, I held it in once more and replied,
 
 “I’m afraid that’s difficult as well.”
 
-“…What?”
+“...What?”
 
 “Considering how much he owes us, it wouldn’t be worth it.”
 
@@ -252,7 +252,7 @@ I had no idea, but the negotiation ended there.
 
 “No. We will not be breaking our contract with Mr. Urikfrit.”
 
-“…Then go ahead and enter first, my lord.”
+“...Then go ahead and enter first, my lord.”
 
 As if he had no regrets whatsoever, no, as if he was actually pleased. The Golden Ghost turned his back without hesitation.
 
@@ -260,11 +260,11 @@ Watching him, I clenched my teeth.
 
 [Open the cave before the Golden Tree Clan.]
 
-Although the main quest had been completed…
+Although the main quest had been completed...
 
 [Rescue Mr. Bear from the corrupt clan.]
 
-…the side-quest had failed.
+...the side-quest had failed.
 
 ****
 
@@ -280,7 +280,7 @@ As I inserted the key and turned it clockwise, a sinister, oppressive roar echoe
 
 I turned my head and met the Golden Ghost’s gaze. He had been watching me as I examined the entrance.
 
-‘…Is he smiling?’
+‘...Is he smiling?’
 
 Really, everything about that guy was unsettling.
 
@@ -288,4 +288,4 @@ I couldn’t even tell what he was thinking.
 
 “Mr. Jandel?”
 
-…Right. For now, clearing the main quest came first.
+...Right. For now, clearing the main quest came first.

@@ -6,7 +6,7 @@ It was a place that a certain count had been using as a villa, but he urgently p
 
 Since the mansion didn’t require much renovation, they simply prepared a banquet, inviting only the thirty expedition members and their sponsors for a quiet, intimate ceremony.
 
-And then…
+And then...
 
 ‘That really ended fast.’
 
@@ -86,13 +86,13 @@ Vercil gave a bitter smile and spoke with a self-deprecating tone.
 
 “I must have been asleep too long. By the time I woke up, my position was already gone.”
 
-“Ah… you got caught in that explosion, didn’t you?”
+“Ah... you got caught in that explosion, didn’t you?”
 
 “Yes. I was out cold for over a year.”
 
 “But it’s good you woke up.”
 
-“Yes… If it weren’t for ‘the Proxy,’ I’d still be in that state…”
+“Yes... If it weren’t for ‘the Proxy,’ I’d still be in that state...”
 
 The ‘Proxy’ is an alias for the High Priest of the Tobera Church.
 
@@ -108,7 +108,7 @@ Should I say she doesn’t seem like someone who feels grateful?
 
 “Team 4.”
 
-“Team 4, huh…”
+“Team 4, huh...”
 
 If it’s Team 4, that’s the group led by Paladin Jun.
 
@@ -124,7 +124,7 @@ And perhaps she realized that I had somewhat figured it out.
 
 She looked at me and nodded meaningfully.
 
-“…You’re different from what I’ve heard.”
+“...You’re different from what I’ve heard.”
 
 “How did I seem?”
 
@@ -138,11 +138,11 @@ I realized this truth while listening to the principal’s speeches in middle sc
 
 At that moment, Erwin, who was next to me, intervened.
 
-“Blood Spirit Queen…”
+“Blood Spirit Queen...”
 
 “It’s been a while. The last time was when you abandoned us, right?”
 
-“…I regret what happened then. Truly.”
+“...I regret what happened then. Truly.”
 
 “Of course, you’d regret it. You ditched everyone and ran off, and look where that got you.”
 
@@ -156,11 +156,11 @@ Erwin smiled bashfully as if she had acted for my sake.
 
 It was awkward to say anything, so I just chuckled and let it go.
 
-“Uh… Nice to meet you. I’m Pike Neldain.”
+“Uh... Nice to meet you. I’m Pike Neldain.”
 
 As soon as that conversation ended, other members who had been lingering nearby swarmed over, and I exchanged names and brief words with them.
 
-And then…
+And then...
 
 “You guys rest here.”
 
@@ -172,7 +172,7 @@ And then…
 
 “What’s got you so worked up? If they don’t come to me, I’ll go to them. Simple as that.”
 
-“It’s just… it makes you look like you’ve lost.”
+“It’s just... it makes you look like you’ve lost.”
 
 Erwin wore a dissatisfied expression, but I remained resolute.
 
@@ -180,11 +180,11 @@ Does pride get you any bread?
 
 I have to do what needs to be done.
 
-“You are…”
+“You are...”
 
 “Nice to meet you. I’m Rihen Schuiz.”
 
-“…Mackelly Reiadus.”
+“...Mackelly Reiadus.”
 
 For those who didn’t come first, I sought them out, greeted them, and had brief conversations.
 
@@ -192,11 +192,11 @@ After all, the information the marquis gave me only had a list of twenty names.
 
 It’s not that the intelligence was lacking; rather, most teams hadn’t filled all their members by then—
 
-‘What the… Why is he here?’
+‘What the... Why is he here?’
 
 While mingling around the banquet, I spotted an unexpected face.
 
-“…Sven Parab.”
+“...Sven Parab.”
 
 The vice-captain of the 2nd Paladin Order of the Leatlas Church.
 
@@ -210,19 +210,19 @@ I had seen him several times when visiting the church, and due to certain events
 
 “Don’t underestimate the intelligence of the marquis’s household.”
 
-“…I wasn’t underestimating it.”
+“...I wasn’t underestimating it.”
 
 “Then that’s good.”
 
 “Did you hear about me from Jun?”
 
-“If you mean that bet… Yes, I heard.”
+“If you mean that bet... Yes, I heard.”
 
 No wonder he looked tense.
 
 Because he had heard that story.
 
-“But why are you here…”
+“But why are you here...”
 
 “What do you mean why? We’re about to enter the labyrinth, and I haven’t greeted you yet. I look forward to working with you inside.”
 
@@ -232,7 +232,7 @@ After a brief conversation with Sven Parab, I turned away
 
 Somehow, I felt conflicted.
 
-‘Sigh, this is tricky…’
+‘Sigh, this is tricky...’
 
 Sven Parab is the Goblin Mask.
 
@@ -244,7 +244,7 @@ Sigh, is there no way to keep his mouth shut?
 
 If I pretend to suspect him of being possessed by an evil spirit and have him monitored every 15th of the month, he would log out immediately, wouldn’t he?
 
-‘…I’ll think about this later.’
+‘...I’ll think about this later.’
 
 After that, I continued to walk around the banquet hall and finished exchanging names with all the members, including those I hadn’t received information about from the marquis.
 
@@ -264,7 +264,7 @@ However, we remained at the mansion.
 
 Because our existence is confidential, after all.
 
-Since most of the expedition members are famous, it was decided that we’d stay here until the labyrinth opens and try to coordinate together…
+Since most of the expedition members are famous, it was decided that we’d stay here until the labyrinth opens and try to coordinate together...
 
 ‘Coordinate, my foot.’
 
@@ -274,7 +274,7 @@ It would take several weeks for each team to enter separately and meet on the si
 
 It wouldn’t be surprising if they forgot everything by then.
 
-Therefore…
+Therefore...
 
 “It would be best for each team to handle battles independently and aid each other only in emergencies.”
 
@@ -300,9 +300,9 @@ None of them are strangers to group activities, after all.
 
 “Sir Schuiz, are you listening?”
 
-“…Of course.”
+“...Of course.”
 
-Geez, Just because I propped my chin up a little…
+Geez, Just because I propped my chin up a little...
 
 I’ve only got two commands as the expedition leader, after all.
 
@@ -320,7 +320,7 @@ For now, this is all there is to memorize.
 
 The meeting proceeded with them discussing among themselves and then seeking my approval. After the meeting, James Carla, the former clan vice captain, worked hard to drill the ‘Disperse and Gather’ command into the expedition team.
 
-And then, two more days passed…
+And then, two more days passed...
 
 [You have entered the 1st Floor Crystal Cave]
 
@@ -342,7 +342,7 @@ After all, both had their own means of transportation.
 
 Transformed into a ball of light, the mage floated through the air.
 
-And…
+And...
 
 「Gerold Aldidi has used [Lukberta’s Pigeon Boots].」
 
@@ -350,9 +350,9 @@ The support type mage covered the gap with his gear.
 
 Walking beside him, Amelia observed his pace with curiosity.
 
-“…Is that a Numbered item?”
+“...Is that a Numbered item?”
 
-“It’s called Lukberta’s Pigeon Boots, a Numbered item in the 3000 series. There’s a restriction that it can only be used outside of combat… but for someone like me, it’s invaluable in the labyrinth.”
+“It’s called Lukberta’s Pigeon Boots, a Numbered item in the 3000 series. There’s a restriction that it can only be used outside of combat... but for someone like me, it’s invaluable in the labyrinth.”
 
 “Doesn’t that kind of speed drain your soul energy?”
 
@@ -360,7 +360,7 @@ Walking beside him, Amelia observed his pace with curiosity.
 
 Support-type users have to build up soul energy synergy as a core part of their training,so they tend to have the highest MP among all classes.
 
-“Don’t worry. I usually only use this up to the third floor. The pathways on the fifth floor are too narrow, and as for the sixth… well, we’ll mostly be traveling by boat, so there’s little need to use it there.”
+“Don’t worry. I usually only use this up to the third floor. The pathways on the fifth floor are too narrow, and as for the sixth... well, we’ll mostly be traveling by boat, so there’s little need to use it there.”
 
 Bringing a seasoned explorer along certainly seems to make a difference.
 
@@ -380,12 +380,12 @@ Whizz!
 
 Old Didi, barely skimming the ground, leaned forward and surged ahead.
 
-“…Schuiz, why are you falling behind?”
+“...Schuiz, why are you falling behind?”
 
-“In case… something… comes… up… from… behind.”
+“In case... something... comes... up... from... behind.”
 
-Hah… I’m really out of breath here.
+Hah... I’m really out of breath here.
 
-“…….”
+“.......”
 
 I never thought I’d be the slowest of the four.

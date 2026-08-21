@@ -4,7 +4,7 @@ Ricardo Lühensprache.
 .
 Unfortunately, my conversation with him ended quickly.
 
-[…Don’t expect a clean death.]
+[...Don’t expect a clean death.]
 
 After one final insult, he stopped responding altogether. I briefly wondered if he was ignoring me to avoid feeding my trolling, but that did not seem to be the case.
 
@@ -12,7 +12,7 @@ It’s more reasonable to assume he smashed his communication device in a fit of
 
 Hmm, no matter how many times I think about it, that’s the more rational explanation. The trembling in his voice wasn’t something you could fake through acting. It was real.
 
-Oh, and there’s a basis for my assumption. He had once been known as the Sword Master and now led the infamous terrorist organization Orcules. Given his strength…
+Oh, and there’s a basis for my assumption. He had once been known as the Sword Master and now led the infamous terrorist organization Orcules. Given his strength...
 
 People like this all think the same way.
 
@@ -32,11 +32,11 @@ Bzzzt—!
 
 Suddenly, static crackled through the radio, followed by a familiar voice.
 
-The Prime Minister…?
+The Prime Minister...?
 
 However, since he was speaking in code, I couldn’t understand a word. I shot Vivian a look, and she immediately began translating.
 
-“…It’s the Prime Minister. He’s telling all leaders to leave the current channel.”
+“...It’s the Prime Minister. He’s telling all leaders to leave the current channel.”
 
 Hmm, then that was probably the end of our wiretapping adventures.
 
@@ -52,7 +52,7 @@ I wasn’t particularly disappointed. It was an expected development from the mo
 
 “It’s just standard protocol. They state their area name and then disconnect.”
 
-“Should we leave too? It doesn’t look like anything useful will come up anymore… The number of people connected to the network is dropping fast, too…”
+“Should we leave too? It doesn’t look like anything useful will come up anymore... The number of people connected to the network is dropping fast, too...”
 
 “No, stay on for a moment. Just in case.”
 
@@ -74,7 +74,7 @@ I snatched the radio from Viviane.
 
 “I think he’s about to speak.”
 
-“…Do you know who it is?”
+“...Do you know who it is?”
 
 The moment someone with authority to access the communications network died, they were immediately removed to preserve security, regardless of whether the crystal itself was damaged. Yet despite that, one person was still connected.
 
@@ -92,7 +92,7 @@ Surprisingly, the other side picked up on the tone of the conversation and jumpe
 
 He spoke as if we were friends catching up after a few days of silence.
 
-Well… that’s not exactly wrong, is it?
+Well... that’s not exactly wrong, is it?
 
 Before I was thrown into prison, I’d exchanged plenty of words with the Prime Minister.
 
@@ -116,7 +116,7 @@ But this wasn’t the time for idle chatter.
 
 Oh, is it because he’s older than me? His words sounded quite profound.
 
-However…
+However...
 
 “What are you talking about? You’re someone who’s probably never stepped foot in a labyrinth in your life.”
 
@@ -138,7 +138,7 @@ When I glanced at Viviane to verify, she nodded.
 
 [For some reason, you were always on my mind. I figured if I captured your allies, there would eventually be a use for them.]
 
-Hmm…
+Hmm...
 
 Still, I learned one thing thanks to that.
 
@@ -152,7 +152,7 @@ As the Marquis asked, Astarotta fixed his gaze on me.
 
 He wasn’t trying to interfere—just watching to see what choice I’d make.
 
-Hah…
+Hah...
 
 The answer I could give was already decided.
 
@@ -168,13 +168,13 @@ Waiting for the day I could say it to his face.
 
 “Because I made a vow at Ice Rock.”
 
-“…”
+“...”
 
 “That I’d take the head of the bastard who orchestrated all of this.”
 
 I might look like this, but I’m actually quite petty. Because of that, I’ve never once erased a name from my hit list.
 
-[I see… I see]
+[I see... I see]
 
 After a brief silence, the Marquis continued in a voice that sounded oddly mixed with relief and regret.
 
@@ -204,7 +204,7 @@ In some ways, it was an intensely personal question. Unexpectedly, he answered i
 
 “That child is sleeping, unaware of everything. In the safest place in the world. When he wakes up, things will have been settled one way or another.”
 
-“The safest place in the world, huh… Wherever that is, it’s a far cry from how you treat your own son, isn’t it?”
+“The safest place in the world, huh... Wherever that is, it’s a far cry from how you treat your own son, isn’t it?”
 
 “You know why it has to be that way.”
 
@@ -214,7 +214,7 @@ The Marquis’s son was an evil spirit, which was precisely why he had summoned 
 
 Ah, come to think of it, there’s one more thing I almost forgot to ask.
 
-“…That woman in the portrait hidden in your office—was she Ragna’s biological mother?”
+“...That woman in the portrait hidden in your office—was she Ragna’s biological mother?”
 
 “She was. A very kind woman.”
 
@@ -226,7 +226,7 @@ The thought crossed my mind, but unfortunately, this was the end.
 
 “Are you saying it only just happened now?”
 
-[Haha, still, this means a lot to me. Those ‘what if’ thoughts… they’re what made me who I am today]
+[Haha, still, this means a lot to me. Those ‘what if’ thoughts... they’re what made me who I am today]
 
 I could have dismissed his words as the ramblings of an old man, but I was wary. They sounded like the words of someone on the verge of enlightenment.
 
@@ -240,7 +240,7 @@ It felt as though the chains of fate were beginning to tighten.
 
 [Of course]
 
-“…?”
+“...?”
 
 [Because this isn’t a threat]
 
@@ -252,7 +252,7 @@ Paradoxically, because of that, I felt overwhelmed for the first time while talk
 
 “Do you have any idea how exhausting it’s been, smiling in front of people like you all this time?”
 
-“…”
+“...”
 
 “You should experience it too. The pain I felt.”
 
@@ -262,13 +262,13 @@ Huh. I never thought he’d have such a macho side to him.
 
 With those final words, the radio contact with the Marquis ended.
 
-“He’s gone…”
+“He’s gone...”
 
 After confirming that only one person remained connected to the communications network, I tossed the now useless radio crystal into the burning building.
 
 “Don’t take it to heart. They’re just the curses of a traitor.” Astarotta consoled “You made the right choice.”
 
-The right choice…
+The right choice...
 
 Yes. That was probably true.
 
@@ -278,9 +278,9 @@ If I’d accepted the Marquis’s offer, perhaps none of my allies would have di
 
 “Impossible. His Majesty ordered that you hear it directly from him.”
 
-Hah… This is really driving me crazy. What was this, some game where you had to uncover everything through quests?
+Hah... This is really driving me crazy. What was this, some game where you had to uncover everything through quests?
 
-…Wait. Isn’t it, though?
+...Wait. Isn’t it, though?
 
 I can say it for certain now. Dungeon & Stone was a damn trash game.
 
@@ -296,9 +296,9 @@ And I don’t even know whether Lühensprache is coming for me or not.
 
 I did not know whether my clan members hiding in the sanctuary or Amelia in District Four were safe.
 
-To make matters worse, the Marquis had just gone through some sudden awakening event and declared he’d kill all my companions…
+To make matters worse, the Marquis had just gone through some sudden awakening event and declared he’d kill all my companions...
 
-[The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take……]
+[The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take......]
 
 I didn’t even know whether the event I’d seen in the records would occur during this war or not.
 
@@ -308,11 +308,11 @@ And that wasn’t all.
 
 Vivian also told me that on the day the imperial capital burned, the one who would betray me was Raven.
 
-…Why can’t I sort this out?
+...Why can’t I sort this out?
 
 I just wanted to organize things and move on, but nothing fit neatly into place.
 
-“…”
+“...”
 
 My head felt like it was going to explode.
 
@@ -328,7 +328,7 @@ But precisely because of that, I emptied my mind.
 
 Like a barbarian should.
 
-…If I keep going, things will work out somehow.
+...If I keep going, things will work out somehow.
 
 Besides, didn’t the Marquis just say it himself earlier?
 

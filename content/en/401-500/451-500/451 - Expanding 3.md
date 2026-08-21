@@ -1,10 +1,10 @@
-Expanding(3)
+Expanding (4)
 
 The moment I climbed up from the pit after finishing my duel with the tribe chief, the warriors—who had been shouting in excitement—suddenly clamped their mouths shut and looked at me.
 
 They seemed to be waiting for me to say something.
 
-“Behel—raaaaaaaa!!”
+“Bethel—raaaaaaaa!!”
 
 I let out a rough battle cry, and the warriors, looking satisfied, roared along with me.
 
@@ -34,7 +34,7 @@ Time passed like that, and by dusk—
 
 “Shh.”
 
-I slipped away from the heart of the noisy festival and headed towards the living areas. Warriors occasionally spoke to me as I passed, but now they seemed more interested in enjoying themselves than celebrating me.
+I slipped away from the heart of the noisy festival and headed toward the living areas. Warriors occasionally spoke to me as I passed, but now they seemed more interested in enjoying themselves than celebrating me.
 
 Step, step.
 
@@ -44,13 +44,13 @@ Boom—! Boom—!
 
 The distant drum beats faintly echoed through the forest path.
 
-Aynar, who had been absent since the middle of the festival, came towards me from the opposite direction.
+Aynar, who had been absent since the middle of the festival, came toward me from the opposite direction.
 
 “Bjorn? What are you doing here?”
 
 Aynar looked puzzled that I, the star of the festival, would wander off to a remote place instead of continuing the celebration.
 
-“I’m just… going to see the tribe chief. Where is he?”
+“I’m just... going to see the tribe chief. Where is he?”
 
 “In the tent he was using.”
 
@@ -60,23 +60,21 @@ Aynar looked puzzled that I, the star of the festival, would wander off to a rem
 
 “Did you just come from there?”
 
-“Yeah… I was a bit worried.”
+“Yeah... I was a bit worried.”
 
 “Really?”
 
-I didn’t press on what exactly was bothering her. After all, Aynar had been staying close to the tribe chief and had learned several things since the rumour of my death.
+I didn’t press on what exactly was bothering her. After all, Aynar had been staying close to the tribe chief and had learned several things since the rumor of my death.
 
 There must have been a lot she wanted to say.
 
-“More importantly, congratulations, Bjorn! You are the first warrior to become a tribe chief at such a young age!’
+“More importantly, congratulations, Bjorn! You’re the first warrior to become tribe chief at such a young age!”
 
 “So you’re saying I’m the youngest?”
 
 “Y-Yeah! Youngest! Isn’t that amazing?”
 
-“In any case, if you’re heading to the tribe chief, why not go together?”
-
-“How about we go see the tribe chief together?”
+“In any case, if you’re heading to see the tribe chief, why not go together?”
 
 “Weren’t you just coming from there?”
 
@@ -90,9 +88,9 @@ Apparently, his wounds were almost healed already?
 
 “The Elders are all a bunch of petty bastards! They said the injuries would heal themselves, so they didn’t use a single potion. In the end, I had to pour potions on him myself! Can you believe it?!”
 
-“……”
+“......”
 
-“And during the coming-of-age ceremony too! I said we should at least send them off with proper shoes, but those stubborn elders kept talking about tradition. Even though I I was being reasonable!”
+“And during the coming-of-age ceremony too! I said we should at least send them off with proper shoes, but those stubborn elders kept talking about tradition. Even though I was being reasonable!”
 
 “Aynar.”
 
@@ -100,19 +98,19 @@ Apparently, his wounds were almost healed already?
 
 “When someone acts like that, you should call them irrational, not petty bastards.”
 
-“Ah… Is that so?”
+“Ah... Is that so?”
 
 As I corrected her word choice, Aynar scratched the back of her head awkwardly.
 
-And then…
+And then...
 
-Step,step
+Step, step.
 
 We walked quietly along the forest path for a while.
 
 It was only when the chief’s tent came into view that Aynar spoke again.
 
-‘Bjorn.’
+“Bjorn.”
 
 She slowed her pace, letting me walk slightly ahead, and gave me a nudge on the shoulder as she spoke.
 
@@ -126,7 +124,7 @@ I turned to respond, but Aynar cut me off.
 
 “So, I’m counting on you.”
 
-“…?”
+“...?”
 
 “You’ll do 150 times better than me! The other warriors think so too!”
 
@@ -164,15 +162,13 @@ Well, I’d only asked out of courtesy anyway. With the formalities out of the w
 
 “Tomorrow, at first light.”
 
-“Tomorrow, as soon as dawn breaks.”
-
 This was an answer I hadn’t expected.
 
 “I thought it would take a while to notify the other warriors.”
 
 “By now, news of you has probably spread throughout the city. Those who should come will come on their own.”
 
-Hmm… He wasn’t wrong.
+Hmm... He wasn’t wrong.
 
 The number of warriors who had heard of me grew exponentially as the festival went on.
 
@@ -190,7 +186,7 @@ The tribe chief seemed certain I had another reason for my visit, and I smiled s
 
 “I want to hear about the king.”
 
-“…The king?”
+“...The king?”
 
 “Yeah, what kind of person is the king?”
 
@@ -198,7 +194,7 @@ After all, tomorrow I’d be the chief of the tribe. It was time to discover the
 
 ---
 
-“The King…”
+“The King...”
 
 Leaning against the wall, the tribe chief let out a bitter laugh.
 
@@ -208,25 +204,23 @@ Leaning against the wall, the tribe chief let out a bitter laugh.
 
 “Just once. That was the only time I met him.”
 
-It was somewhat unexpected.
-
 That was surprising. He’d spoken so fearfully of the king before, so I assumed he knew him well.
 
-“It was towards the end of the Holy War… so more than 13 years ago. It was right after I had become the chief. I first saw him at a tribal conference, motivated by the ambition to revive our declining tribe.”
+“It was toward the end of the Holy War... so more than 13 years ago. It was right after I had become the chief. I first saw him at a tribal conference, motivated by the ambition to revive our declining tribe.”
 
 As he stared off into empty space, his breathing grew rough.
 
 As if the memories of that day were coming back to him.
 
-“So… what happened?”
+“So... what happened?”
 
-“At first, it was no different from any other conference. The dwarf bastard and the member from the beast tribe were muttering about God-knows-what among themselves, and I was busy arguing with the fairy bastard and the old mage from the tower who had come as the human representative.
+“At first, it was no different from any other conference. The dwarf bastard and the member from the beast tribe were muttering about God-knows-what among themselves, and I was busy arguing with the fairy bastard and the old mage from the tower who had come as the human representative.”
 
 “A mage? Isn’t the king supposed to represent the humans?”
 
 “That’s what you’d think. But after I became the chief, that’s how it always was. The king never showed up; some other human always did in his place.”
 
-“Got it…”
+“Got it...”
 
 This was new information to me. As a mere warrior, it was tough to learn the details of these inter-species conferences.
 
@@ -236,29 +230,29 @@ A royal visit you might only witness once in a lifetime.
 
 Still, the tribe chief said he never understood why the king arrived in the middle of that summit.
 
-“I was in the middle of an argument with the old mage when I realized he had taken a seat. None of us knew who he was. One of us even tried to throw him out, asking who he was. But…”
+“I was in the middle of an argument with the old mage when I realized he had taken a seat. None of us knew who he was. One of us even tried to throw him out, asking who he was. But...”
 
 “But?”
 
 “It was just one sentence.”
 
-‘Bow down, my subjects’
+“Bow down, my subjects.”
 
-At the moment those words left the king’s mouth, the chiefs, forgetting their own words and questions, dumbfoundedly stood up and knelt before him.
+The moment those words left the king’s mouth, the chiefs forgot their own words and questions, rose as if in a daze, and knelt before him.
 
-And…
+And...
 
 “Though we still didn’t know who he was, words involuntarily escaped our lips.”
 
 “What were they?”
 
-“We greet his Majesty, the King.”
+“We greet His Majesty the King.”
 
 Even thinking about it again still creeped him out, the tribe chief added. He felt an overwhelming sense of helplessness that took away any will to resist for that brief moment.
 
 Of course, the part that interested me was something else.
 
-‘Control abilities… could it be some kind of mage?’
+‘Control abilities... could it be some kind of mage?’
 
 What could be the source of the king’s power?
 
@@ -278,7 +272,7 @@ The more I heard, the more confused I got. Still, I listened to the rest of his 
 
 That was all there was to the chief’s story about meeting the king. Before forming any theories, I wanted to confirm a few more details.
 
-“You are asking how strong the other representatives were back then? Well… most of them were probably as strong as me.”
+“You are asking how strong the other representatives were back then? Well... most of them were probably as strong as me.”
 
 So, the king’s ‘control ability’ was beyond absolute.
 
@@ -292,7 +286,7 @@ The chief was certain.
 
 If the king had ordered them to die, their lives would have ended right there.
 
-‘If it’s neither essence nor magic… what kind of sorcery did the king use?’
+‘If it’s neither essence nor magic... what kind of sorcery did the king use?’
 
 I don’t know.
 
@@ -300,21 +294,21 @@ But thankfully, there was still a sliver of hope.
 
 “Ah, by the way, the old mage from the Tower only knelt after realizing his identity after we had.”
 
-Maybe, it doesn’t work on humans.
+Maybe it doesn’t work on humans.
 
 That’s a possibility, but it’s not certain.
 
 Only that the king might have used his power exclusively on the chiefs.
 
-‘…At any rate, it’s certain that the king has such an ability.’
+‘...At any rate, it’s certain that the king has such an ability.’
 
 Still, this was not a bad outcome, considering everything. Finally, I asked one more question.
 
 “What did the king look like? Did he appear ill?”
 
-“…I don’t remember. I can’t recall what age he looked, whether he was a man or a woman, or even the voice that had resonated in my ears…”
+“...I don’t remember. I can’t recall what age he looked, whether he was a man or a woman, or even the voice that had resonated in my ears...”
 
-Hmm… Could the king also manipulate memories?
+Hmm... Could the king also manipulate memories?
 
 No, perhaps he used some kind of magic or item. Unlike his control ability, there are several items that could produce a similar effect.
 
@@ -338,11 +332,11 @@ In the past, the chief had told me:
 
 [Hating humans will leave us no place to live.]
 
-[We must endure even if it’s unreasonable]
+[We must endure even if it’s unreasonable.]
 
 It was frustrating to hear, but from the chief’s perspective, it made sense.
 
-But now…
+But now...
 
 “Why should I care? I’m no longer the chief or anything else.”
 
@@ -352,7 +346,7 @@ The chief chuckled as if he’d heard something amusing.
 
 Not a chief, but a warrior.
 
-“And…”
+“And...”
 
 As a warrior, he said to me:
 
@@ -376,26 +370,26 @@ So I kept it simple and strong.
 
 I declared this while gazing beyond the forest at the walls.
 
-And then…
+And then...
 
-[The character’s position within the tribe changes from ‘ordinary warrior’ to ‘chief’]
+[The character’s position within the tribe has changed from ‘ordinary warrior’ to ‘chief’.]
 
-[A special stat ‘Support’ is created]
+[A special stat, ‘Support,’ has been created.]
 
 Thus, I became the Barbarian Lord.
 
 ---
 
-[The character’s Support increases by +1.]
+[The character’s Support increases by 1.]
 
-[The character’s Support increases by +1]
+[The character’s Support increases by 1.]
 
-[The character’s Support increases by +1]
+[The character’s Support increases by 1.]
 
-[The character’s Support increases by +1]
+[The character’s Support increases by 1.]
 
-[The character’s Support increases by +1…]
+[The character’s Support increases by 1...]
 
-“…”
+“...”
 
-“…”
+“...”

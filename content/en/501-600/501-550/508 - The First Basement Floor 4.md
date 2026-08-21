@@ -12,7 +12,7 @@ But there were many reasons why I couldn’t classify this place as a rift.
 
 There was always a portal stone between floors. And we had activated that tablet to open the portal.
 
-And…
+And...
 
 ‘There had never been a case where a hidden area was a rift.’
 
@@ -32,7 +32,7 @@ And hidden fields were usually designed to be cleared within two days.
 
 It didn’t seem likely.
 
-‘Then the important thing is… when does this place close…?’
+‘Then the important thing is... when does this place close...?’
 
 I would find out eventually.
 
@@ -60,7 +60,7 @@ The four-man team’s leader hadn’t been able to enter the portal, and one of 
 
 “No, that’s enough. Thank you.”
 
-“And…”
+“And...”
 
 “Hmm?”
 
@@ -68,7 +68,7 @@ Bersil spoke cautiously.
 
 “The three smaller teams asked if they could join us. And the two clans also seem interested in collaborating.”
 
-“Collaborating, I understand… but what do you mean by ‘join us’?”
+“Collaborating, I understand... but what do you mean by ‘join us’?”
 
 “They’re basically asking us to take them in. They’ll do whatever we say, and they’ll accept whatever reward we give them.”
 
@@ -92,7 +92,7 @@ I hadn’t forced them to come here.
 
 I had opened the portal, and that was the end of our relationship.
 
-Therefore…
+Therefore...
 
 “Bersil, cast the Bonding spell again.”
 
@@ -104,7 +104,7 @@ We also split into two teams.
 
 I had considered excluding Auyen and forming a six-man bond, but it wouldn’t hurt to give him some experience points.
 
-‘There might be new types of monsters here…’
+‘There might be new types of monsters here...’
 
 If Amelia landed even a single hit, Auyen would also receive experience points.
 
@@ -128,7 +128,7 @@ As we were about to leave, the explorers who had been preparing at the starting 
 
 And one of them approached me.
 
-“Um… if it’s not too much trouble… can we follow you?”
+“Um... if it’s not too much trouble... can we follow you?”
 
 They were afraid of exploring this unknown territory, so they wanted to learn from us.
 
@@ -142,13 +142,13 @@ I refused firmly.
 
 But they weren’t giving up.
 
-“B-But… if you help us, there will be fewer casualties…”
+“B-But... if you help us, there will be fewer casualties...”
 
 One of them spoke up, and the others chimed in.
 
-“He’s right…!”
+“He’s right...!”
 
-“We have a duty to help each other in emergencies…”
+“We have a duty to help each other in emergencies...”
 
 “It will also boost your reputation, Baron—”
 
@@ -158,7 +158,7 @@ Did they think I was an idiot?
 
 “Did I tell you to come here?”
 
-“…….”
+“.......”
 
 “You’re explorers too. Explore on your own.”
 
@@ -170,13 +170,13 @@ I led my team away from the starting point. They didn’t follow us.
 
 “Phew, finally some peace and quiet. Why are they so talkative?”
 
-“Clan Master, are you sure about this…? They might spread rumors about you if they survive…”
+“Clan Master, are you sure about this...? They might spread rumors about you if they survive...”
 
 Auyen asked worriedly, but I just chuckled and patted his shoulder.
 
 “Don’t worry about it. It’s not worth the headache.”
 
-“Haha… you’re so bold.”
+“Haha... you’re so bold.”
 
 “Enough chatter. Focus on exploring. We don’t know what we might encounter.”
 
@@ -186,7 +186,7 @@ It didn’t take long.
 
 The island wasn’t that big.
 
-“So that was the sound of waves…”
+“So that was the sound of waves...”
 
 “It really is an island.”
 
@@ -224,7 +224,7 @@ And strange objects were floating on the surface.
 
 Swaaaaaaaaaa!
 
-A wardrobe, a fireplace, a thick book, a rusty sword, a knight’s helmet… and even a sock?
+A wardrobe, a fireplace, a thick book, a rusty sword, a knight’s helmet... and even a sock?
 
 I didn’t understand, but I trusted Auyen’s judgment and summoned the ship at the most suitable location.
 
@@ -240,7 +240,7 @@ I left all navigational decisions to Auyen.
 
 Auyen seemed burdened by the responsibility, but he reluctantly agreed.
 
-“Then I’ll start by surveying the surrounding area…”
+“Then I’ll start by surveying the surrounding area...”
 
 “Do as you please. You don’t have to report to me. You’re the expert when it comes to navigation.”
 
@@ -252,7 +252,7 @@ Amelia watched him with interest, helping him with the measurements.
 
 “I envy your skills.”
 
-“…Yes?”
+“...Yes?”
 
 “I’m just saying you’re doing a good job. Your map and your name will be recorded in history. Just like Pikma’s nautical chart.”
 
@@ -260,7 +260,7 @@ Amelia had a strange obsession with leaving her mark on history.
 
 Maybe it was because she had never been able to use her real name.
 
-‘…I should find a way for her to reclaim her name when we get back to the city.’
+‘...I should find a way for her to reclaim her name when we get back to the city.’
 
 The navigation was going smoothly, so I went up to the deck. Auyen was the expert in navigation, and I was the expert in the labyrinth.
 
@@ -272,19 +272,19 @@ It was still dark, but there didn’t seem to be any limitations.
 
 “Bersil, any discoveries?”
 
-“Not yet. I don’t have the necessary equipment… I’m just collecting samples for now.”
+“Not yet. I don’t have the necessary equipment... I’m just collecting samples for now.”
 
-“I see…”
+“I see...”
 
 Bersil, the mage, had been collecting the floating objects, but she hadn’t found anything unusual.
 
-‘Maybe Raven would have been more helpful…’
+‘Maybe Raven would have been more helpful...’
 
 I wasn’t too disappointed.
 
 What good would it do to analyze these objects? We were explorers. As long as we could collect valuable samples and sell them, that was all that mattered.
 
-‘So I’ll just leave Bersil to her own devices…’
+‘So I’ll just leave Bersil to her own devices...’
 
 I checked on the other members.
 
@@ -292,7 +292,7 @@ Erwen, with her sharp eyesight, was stationed at the crow’s nest, communicatin
 
 And Misha was standing awkwardly in the middle of the deck.
 
-I was about to approach her when…
+I was about to approach her when...
 
 “Land! I see land!”
 
@@ -304,21 +304,21 @@ Our first discovery in the hidden area.
 
 We excitedly turned the ship and headed towards the direction Erwen had indicated.
 
-And…
+And...
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 We froze.
 
 For a simple reason.
 
-“A-A monster…”
+“A-A monster...”
 
 It wasn’t an island.
 
-“…What should we do?”
+“...What should we do?”
 
 “Oh! Are we fighting it? It’s the first monster we’ve encountered here. It might be weaker than it looks!”
 
@@ -328,13 +328,13 @@ It was a giant monster, large enough to be mistaken for an island.
 
 Only Amelia and I seemed to realize the danger.
 
-“…Yandel.”
+“...Yandel.”
 
 Amelia could roughly estimate a monster’s rank thanks to [Danger Sense]. Well, it seemed like that was all she knew.
 
 “Auyen Lokrob, turn the ship around. Now. We need to get away from it.”
 
-“…Y-Yes! Understood!”
+“...Y-Yes! Understood!”
 
 Auyen didn’t question her order and immediately obeyed.
 
@@ -352,7 +352,7 @@ And long whiskers.
 
 “It’s a Tol-Lafupa. A 1st-grade monster.”
 
-“So it really is… a 1st-grade monster…”
+“So it really is... a 1st-grade monster...”
 
 It was understandable that they were surprised.
 
@@ -364,25 +364,25 @@ So there was no way for them to know about it.
 
 Even on the 10th floor, you had to enter a hidden field to encounter it.
 
-‘Damn it…’
+‘Damn it...’
 
 I felt a chill run down my spine as the Tol-Lafupa disappeared from view.
 
-‘A 1st-grade monster…’
+‘A 1st-grade monster...’
 
-It was a good thing it was a non-hostile monster. If it had been anything else…
+It was a good thing it was a non-hostile monster. If it had been anything else...
 
 We would have been wiped out instantly.
 
 1st-grade monsters were more difficult to raid than most high-level Floor Lords.
 
-‘Should we just go back to the island…?’
+‘Should we just go back to the island...?’
 
 I was tempted, but it would be a shame to give up now.
 
 So we continued our voyage.
 
-And time passed…
+And time passed...
 
 [00:01]
 
@@ -390,11 +390,11 @@ Day 7 was over.
 
 The 1st floor had closed.
 
-‘Okay, so this isn’t a hidden field…’
+‘Okay, so this isn’t a hidden field...’
 
 As I had expected, this was a new floor.
 
-And it was probably…
+And it was probably...
 
 ‘The 1st Basement Floor.’
 
@@ -402,11 +402,11 @@ Right, there was already a 2nd floor.
 
 I wondered what its official name would be.
 
-The Stone of Honor usually revealed the name of a new floor…
+The Stone of Honor usually revealed the name of a new floor...
 
 ‘I’ll find out when we get back.’
 
-As we were sailing, trying to calm our nerves after the Tol-Lafupa encounter…
+As we were sailing, trying to calm our nerves after the Tol-Lafupa encounter...
 
 “Kyaaa!”
 
@@ -418,14 +418,14 @@ I rushed to the railing and looked down.
 
 A monster was climbing up the side of the ship.
 
-“Huh? What is that? It’s not a Murloc or a Frogman…”
+“Huh? What is that? It’s not a Murloc or a Frogman...”
 
 Ainar, who had rushed over after hearing Bersil’s scream, asked me, and I was speechless.
 
-I had suspected it…
+I had suspected it...
 
 [Keureuk! Keureuk!]
 
-…but it was a new species.
+...but it was a new species.
 
 A monster I had never seen before.

@@ -1,36 +1,36 @@
-Quest 1
+Quest (1)
 
 Marco Toweare.
 
 Age thirty-two.
 
-He started working in a kitchen as a teenager, which sparked his interest in cooking and led him to hone his talents. Two years ago, he opened a small restaurant under his own name on the main street of Rabigion.
+He started working in a kitchen as a teenager, which sparked his interest in cooking and led him to hone his talents. Two years ago, he opened a small restaurant under his own name on the main street of Ravigion.
 
-He was married to a woman and father to two children.
+He was married and had two children.
 
-Although he had a reckless youth, once he became a family man, he never caused any trouble.
+Although he had been reckless in his youth, once he became a family man, he stopped causing trouble.
 
-He endured injustice and would turn away from potential conflict, returning home instead.
+He endured unfair treatment and walked away from potential conflicts, choosing to return home instead.
 
-But then…
+But then...
 
 “Aaaaaah!”
 
-When he came to his senses, he was screaming and climbing up the stairs.
+When he came to his senses, he was shouting as he climbed the stairs.
 
 Along with countless warriors.
 
-“Today! We will conquer the Mage Tower…!!”
+“Today! We will conquer the Mage Tower...!!”
 
 At those words, Marco Toweare’s mind snapped back to reality.
 
-The barbarian warriors he never thought he’d be involved with in his lifetime. And the mages tirelessly casting spells to stop them.
+Barbarian warriors he had never imagined becoming involved with in his life were surging upward, while mages tirelessly cast spells to stop them.
 
 Only then did he realize where he was.
 
-‘The Mage Tower…….’
+‘The Mage Tower....’
 
-He had only ever seen it from afar, never once setting foot inside.
+He had only ever seen it from afar and had never once set foot inside.
 
 How did he end up here?
 
@@ -40,13 +40,13 @@ Pushed forward by those behind him, he climbed the stairs and wondered.
 
 Initially, it was curiosity.
 
-When he heard that, he happened to be nearby and had some time to spare.
+When he heard the news, he happened to be nearby with some time to spare.
 
 So, he went to watch.
 
 [It’s war.]
 
-Bjorn, son of Jandel the Giant.
+Bjorn Jandel, the Giant.
 
 The hero he had only heard about in rumors was truly an extraordinary man.
 
@@ -54,15 +54,15 @@ He was bold and unstoppable.
 
 It seemed that no one could stop him from achieving his goals, such was the power that emanated from his presence.
 
-And…….
+And....
 
 [These mages! They are the ones who placed a bounty on the barbarian heart in the black market!]
 
-His powerful words continued, and for the first time in a long while, Marco’s heart raced. Before he knew it, he was shouting along with the crowd, cursing the Mage Tower.
+As Bjorn’s powerful words continued, Marco’s heart raced for the first time in a long while. Before he knew it, he was shouting along with the crowd and cursing the Mage Tower.
 
-Yes, that’s how it felt at the time…
+Yes, that’s how it felt at the time...
 
-“It’s, it’s a barrier…!”
+“It’s, it’s a barrier...!”
 
 “What should we do?”
 
@@ -76,25 +76,25 @@ How is being here helpful to him?
 
 “Uoooh!”
 
-He hoped his family doesn’t get hurt because of this…….
+He hoped his family wouldn’t get hurt because of this...
 
-He hoped it wouldn’t cause any harm to his family…
+He prayed this wouldn’t bring any harm to his family...
 
 Why was he still climbing the stairs with these people, even as he worried about that?
 
 Boom—! Boom—! Boom—!
 
-A wall of barrier magic blocked their way.
+A magical barrier blocked their way.
 
 “Baron Jandel, stop! This is far enough!”
 
-The mage arrogantly shouting from behind the translucent barrier.
+A mage shouted arrogantly from behind the translucent barrier.
 
-And…….
+And....
 
 Boom-!
 
-The man relentlessly swinging his hammer.
+And Bjorn relentlessly swung his hammer.
 
 Watching that man up close, Marco realized something.
 
@@ -106,13 +106,13 @@ Watching that man up close, Marco realized something.
 
 There was only one reason he was here.
 
-“I! And we are strong……!!”
+“I! And we are strong...!!”
 
 That man is strong.
 
 Crack-!
 
-Strong enough to shatter any barrier and move forward.
+Strong enough to shatter any barrier and keep moving forward.
 
 “Th-the barrier is breaking!!”
 
@@ -120,11 +120,11 @@ Even if Marco’s presence wouldn’t be much help as he walked that path—
 
 Thump!
 
-He just wanted to see it once… that was how he felt.
+He just wanted to see it once... that was how he felt.
 
 Boooom!
 
-Bjorn, son of Jandel the Giant—
+Bjorn Jandel, the Giant—
 
 “Bethel—raaaaaaaa!!”
 
@@ -134,41 +134,41 @@ Bjorn, son of Jandel the Giant—
 
 The Mage Tower.
 
-The fortress of the kingdom’s most vital mages, never once conquered by invaders through its long history.
+The stronghold of the kingdom’s most important mages had never once been conquered by invaders in its long history.
 
-…I don’t agree with that.
+...I don’t agree with that.
 
-‘Impenetrable, my foot. It’s just that no one’s ever fought them.’
+‘Impenetrable, my foot. It’s just that no one’s ever seriously attacked them.’
 
-An organization entirely composed of mages, with a completely unbalanced offense-defense ratio. Sure, the various magic barriers are quite troublesome, but…….
+It was an organization composed entirely of mages, with an extremely lopsided offense-to-defense ratio. Sure, the various magical barriers were troublesome, but...
 
-It’s not worthy of being called impenetrable.
+It wasn’t worthy of being called impenetrable.
 
 ‘Besides, they don’t seem as united as you’d think.’
 
-With justification and public opinion on my side.
+Especially with justification and public opinion on my side.
 
-Since the Tower is a collective of hundreds of different schools of magic, they don’t all rush to defend it, even if there is an invasion.
+Since the Tower was a collective of hundreds of different schools of magic, they didn’t all rush to defend it just because someone invaded.
 
 “Don’t try to stop us! We will take only the criminals we seek and leave!”
 
-Some schools with no involvement have shut themselves inside their labs, waiting for the storm to pass.
+Some schools with no involvement had shut themselves inside their laboratories and were waiting for the storm to pass.
 
-Of course, the majority are mages who believe they cannot be trampled by barbarians and are actively contributing their strength.
+Of course, most of the mages believed they couldn’t allow barbarians to trample over them and were actively helping with the defense.
 
-But…….
+But....
 
 ‘Geez, casting spells all night is exhausting.’
 
-Most of those staying in the Mage Tower during this period were research mages. Those who spend their days holed up in labs, crafting new spells and studying arcane arts.
+Most of those staying in the Mage Tower at this time were research mages—people who spent their days holed up in laboratories, crafting new spells and studying the arcane arts.
 
 Naturally, they couldn’t perform at the same level as combat mages.
 
-And there was a significant penalty in play.
+And there was another major limitation.
 
-“……Master! L-let’s just burn them all! Before they break the barrier!”
+“...Master! L-let’s just burn them all! Before they break the barrier!”
 
-“We can’t……. Don’t you see them?”
+“We can’t.... Don’t you see them?”
 
 The civilians caught up in the war between the barbarians and the Mage Tower.
 
@@ -176,23 +176,23 @@ The civilians caught up in the war between the barbarians and the Mage Tower.
 
 “The military has issued an official order. No civilian casualties are allowed.”
 
-“But… we can’t hold out like this for long! They’ve already broken through this far!”
+“But... we can’t hold out like this for long! They’ve already broken through this far!”
 
-“…Hold on. Until the military reinforcements arrive, we must hold on. Then, victory will be ours.”
+“...Hold on. Until the military reinforcements arrive, we must hold on. Then, victory will be ours.”
 
-Thanks to the mixed-in civilians, the mages could only focus on defensive spells, unable to use their greatest advantage: wide-area attack magic.
+Because civilians were mixed into the crowd, the mages could only focus on defensive spells and couldn’t use their greatest advantage: wide-area attack magic.
 
-Thus…….
+Thus....
 
-「The character has used [Swing].」
+[The character has used [Swing].]
 
-「The destructive power of blunt weapons has greatly increased in proportion to strength.」
+[The destructive power of blunt weapons has greatly increased in proportion to Strength.]
 
-Shattering the increasingly sturdy barriers, we climbed the stairs floor by floor.
+We shattered increasingly sturdy barriers and climbed the Tower floor by floor.
 
-“……Filthy barbarians! You will regret this!”
+“...Filthy barbarians! You will regret this!”
 
-The mages we had captured along the way were bound tightly and taken as prisoners.
+The mages we captured along the way were tightly bound and taken prisoner.
 
 “Bjorn! You go ahead! We’ll thoroughly search this floor!”
 
@@ -204,25 +204,25 @@ We stationed warriors on the cleared floors and began the search.
 
 “Even so, search them last.”
 
-Unless we search the entire tower and fail to find any of the criminals on the list, there’s no need to make more enemies.
+Unless we searched the entire Tower and still failed to find the criminals on the list, there was no need to create more enemies.
 
-Well, even without that, the mages here will probably shudder at the sight of barbarians for the rest of their lives, but…….
+Well, even without that, the mages here will probably shudder at the sight of barbarians for the rest of their lives, but....
 
 There’s a difference between mortal enemies and just enemies.
 
-If I cross the line here, all the schools in the Mage Tower will unite, which would become a significant problem for future plans.
+If I crossed the line here, every school in the Mage Tower would unite against us, which would become a major problem for my future plans.
 
 “As I said, absolutely no killing. Capture them alive! Understood?”
 
-I emphasised this repeatedly whenever I had the chance.
+I emphasized this repeatedly whenever I had the chance.
 
-If we just smash everything and climb the floors, we’ll be reduced to mere invaders with no justification.
+If we simply smashed everything and climbed the Tower, we would become nothing more than invaders with no justification.
 
-‘By the way, we’re at the 30th floor now…….’
+‘By the way, we’re already at the 30th floor...’
 
 As we struggled to climb another floor, a new barrier greeted us.
 
-“The Baron! The Baron is here……!”
+“The Baron! The Baron is here...!”
 
 The mages gathered behind the translucent barrier looked at me with tense expressions.
 
@@ -234,27 +234,27 @@ Crack-!
 
 I swung my hammer relentlessly.
 
-After about ten [Swing]s, cracks began to form. But the higher we climbed, the stronger the barriers became.
+After about ten uses of [Swing], cracks began to form. But the higher we climbed, the stronger the barriers became.
 
 And there was more bad news.
 
 “Chief! The royal army! The royal army has arrived!!”
 
-Reports came in that the forces had arrived.
+Reports came in that the royal forces had arrived.
 
 Earlier than expected.
 
-‘It seems like they were dispatched as soon as we entered the city…….’
+‘Looks like they were dispatched the moment we entered the city...’
 
 Tch, this city is only fast when it comes to things like this.
 
 “It’s over now! Put down your weapons and calm your warriors!”
 
-The mages behind the barrier grew more confident after hearing the news.
+The mages behind the barrier grew more confident when they heard the news.
 
 That’s understandable.
 
-My warriors can try to hold them off, but the royal army will arrive well before we’re done here.
+My warriors could try to hold them off, but the royal army would reach us well before we finished here.
 
 ‘Okay, this is far enough.’
 
@@ -276,19 +276,19 @@ However, I stopped breaking through to the next floor and issued new orders whil
 
 The best we could do for now.
 
-From here on out, it’s up to luck.
+From here on out, it was up to luck.
 
-If even one of the criminals we’re looking for is on the floors we’ve occupied, the plan will go smoothly. Otherwise, things will get complicated.
+If even one of the criminals we were looking for was on the floors we had occupied, the plan would go smoothly. Otherwise, things would get complicated.
 
-“Sigh…….”
+“Sigh...”
 
-So, what will the outcome be?
+So, how would things turn out?
 
 “Bjornnnnnnn!!”
 
 Soon, Aynar appeared.
 
-Proudly holding three mages by the scruff of their necks.
+She was proudly holding three mages by the scruff of their robes.
 
 From the Mylern School: Extellin Flacco.
 From the Bebectalt School: Mohillo Ostquinn.
@@ -302,17 +302,17 @@ After all, they weren’t the only ones.
 
 If I had revealed everything, they would have been moved to safety first.
 
-“Good job, Caron, Aynar.”
+“Good job, Karon, Aynar.”
 
-I gave them a bit of a praise and asked if there were any difficulties, but they reported none.
+I gave them some praise and asked whether they had encountered any difficulties, but they reported none.
 
-Had the three stayed hidden in their own schools instead of fleeing elsewhere?
+Apparently, the three had stayed hidden in their own schools instead of fleeing elsewhere.
 
 ‘It’s a bit disappointing not to find the one who wanted my heart, but this will have to do.’
 
-I will find him eventually.
+I would find him eventually.
 
-Everything I’m doing now is paving the way for that.
+Everything I was doing now was paving the way for that.
 
 “M-misunderstanding! There’s some misunderstanding, Baron!”
 
@@ -324,26 +324,26 @@ Everything I’m doing now is paving the way for that.
 
 I activated the recording crystal I had prepared and handed it to someone nearby after making eye contact.
 
-The only civilian who had followed us up to the 31st floor.
+He was the only civilian who had followed us all the way to the 31st floor.
 
 “What’s your name?”
 
 “Marco Toweare, Baron!”
 
-“Marco Toweare. I’ll remember that. Here, I want to ask you a favour. Could you stand over there and hold this? Make sure our faces are visible.”
+“Marco Toweare. I’ll remember that. Here, I want to ask you a favor. Could you stand over there and hold this? Make sure our faces are visible.”
 
-“I-it’s an honour! B-but… how can someone like me handle such an important task…”
+“I-it’s an honor! B-but... how can someone like me handle such an important task...”
 
 He trembled, afraid he might make a mistake, but I chuckled and patted his shoulder.
 “I trust you.”
 
-Well, giving a sensitive device to those barbarians would be more unsettling than handing it to a stranger.
+Well, handing a delicate magical device to one of the barbarians would have made me more nervous than giving it to a stranger.
 
 “Marco Toweare.”
 
 I made sure to remember his face and name.
 
-“……I-I’ll do my best!”
+“...I-I’ll do my best!”
 
 With the cameraman ready, I quickly moved on to the interrogation.
 
@@ -351,9 +351,9 @@ There were plenty of mages around, but there was no need to use verification mag
 
 I already had something prepared.
 
-「The character has used [Misaligned Trust].」
+[The character has used [Misaligned Trust].]
 
-Even with my recently improved finances, it was an item that had cost me quite a bit.
+Even with my recently improved finances, the item had cost me quite a bit.
 
 “Extellin Flacco, Mohillo Ostquinn, Kuol Maemandolic.”
 
@@ -361,27 +361,27 @@ I looked down at the three bound mages and asked.
 
 “Now, tell me again. Do you still think I’m misunderstanding you?”
 
-The mages, who had loudly protested their innocence since their capture, fell silent. After all, it was impossible to lie in the presence of this item.
+The mages, who had loudly protested their innocence since being captured, fell silent. After all, it was impossible to lie under the effect of [Misaligned Trust].
 
-“…….”
+“....”
 
 Their silence was proof of the truth.
 
 However, for this to serve as evidence, I needed a clear statement, not just silence.
 
-Therefore…
+Therefore...
 
 “You are currently under suspicion of treason.”
 
-I tightened the figurative noose until they could scarcely breathe.
+I tightened the figurative noose.
 
 Their reaction came immediately.
 
-“…Tr-treason! That’s absurd…!”
+“...Tr-treason! That’s absurd...!”
 
-I tightened the noose around their necks until they could hardly breathe.
+The accusation was too serious for them to simply remain silent.
 
-Because it was a highly sensitive accusation—one that could see one’s entire family executed—they couldn’t bring themselves to remain silent here.
+Treason was a charge that could see an entire family executed, so they couldn’t bring themselves to stay quiet.
 
 “I-I have never plotted treason, nor have I ever dared to think of such a thing. Isn’t it obvious from the fact that this is even being mentioned? This is the truth!”
 
@@ -391,11 +391,11 @@ Yes, the accusation of treason is terrifying, isn’t it?
 
 “Regardless of your intentions, the fact remains that you collaborated with the rebels, doesn’t it?”
 
-“J-joining forces…! All I did was – I just made a request -”
+“J-joining forces...! All I did was—I just made a request—”
 
 That’s all.
 
-It seemed like that’s what they were trying to say, but unfortunately, the words never fully came out.
+That seemed to be what they were trying to say, but unfortunately, the sentence never came out in full.
 
 Because someone interrupted.
 
@@ -411,10 +411,8 @@ Turning my head toward the sound, I saw an old man descending the stairs.
 
 It was my first time seeing him, but I recognized him immediately.
 
-The master of the Lengman School and the third brother of Duke Kealunus.
+The master of the Lengman School and the third brother of Duke Keallunas.
 
-“Teshlun Lengman Kealunus.”
+“Teshlun Lengman Keallunas.”
 
-The lord of the Mage Tower.
-
-Continue reading more chapters at henprogressive.com
+The Tower Master.

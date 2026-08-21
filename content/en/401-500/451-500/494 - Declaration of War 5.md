@@ -10,7 +10,7 @@ Even if you know nothing about the owner, just by looking at the room, you can r
 
 For example, like the reception room I’m sitting in right now.
 
-“……”
+“......”
 
 The interior is filled with a solemn and luxurious atmosphere.
 
@@ -50,7 +50,7 @@ Although I picked up the newspaper randomly, the front page had a story about me
 
 Well, it would have been the same with any newspaper.
 
-[The hero Baron Jandel, recorded in the Stone of Honor, draws his sword against the rebels of the black market…!]
+[The hero Baron Jandel, recorded in the Stone of Honor, draws his sword against the rebels of the black market...!]
 
 The events that took place in the black market three days ago have finally been made public and reported in the news.
 
@@ -66,7 +66,7 @@ They’re staying in temporary shelters prepared by Mozlan, and as part of the r
 
 Ah, there was also an interview.
 
-[…He told us that the ones who should regret all this aren’t him, but you guys.]
+[...He told us that the ones who should regret all this aren’t him, but you guys.]
 
 Even though it was anonymous, looking at the content, it seems like it was the kid in the cage.
 
@@ -88,17 +88,17 @@ It was time to get down to business
 
 「Character’s fame has increased by +10.」
 
-「Character’s fame has increased by +10…….」
+「Character’s fame has increased by +10.......」
 
-「…….」
+「.......」
 
-「…….」
+「.......」
 
 ---
 
 “Kuhahahahahahaha!”
 
-“Heh heh…!”
+“Heh heh...!”
 
 My coarse laughter and the old nobleman’s dignified laughter overlapped perfectly in the hall.
 
@@ -110,7 +110,7 @@ All for a very business-like reason.
 
 Each A-cut photo he took had a price tag of 2.135 billion stone .
 
-“Baron Jandel, could you laugh a little more… wildly? No, I mean more manly?”
+“Baron Jandel, could you laugh a little more... wildly? No, I mean more manly?”
 
 “Of course! Kuhahahahahahahah!”
 
@@ -132,7 +132,7 @@ Like, imagine if your grandfather had a personal photo taken with Einstein. That
 
 “Kuhahahahahahah!”
 
-“Ha ha haa! Hohohoho…!”
+“Ha ha haa! Hohohoho...!”
 
 Anyway, for that reason, we’d been laughing for a while when the photographer started making all sorts of requests.
 
@@ -140,7 +140,7 @@ He said something about how this wasn’t enough to capture our “friendship tr
 
 Then the photographer handed me a cheap bottled beer and gave the Count a wine glass, telling us to clink our drinks for a toast.
 
-And then…
+And then...
 
 “Perfect! Absolutely perfect!”
 
@@ -152,13 +152,13 @@ The Count personally checked the photo and seemed very satisfied, handing out a 
 
 “It’s fine. I’m hungry.”
 
-“…?”
+“...?”
 
 Ah, my mistake.
 
 “There’s someone waiting for me at home. Unfortunately, I’ll have to pass on the meal for now.”
 
-“Hehe, I see… It’s always better to have meals with family.”
+“Hehe, I see... It’s always better to have meals with family.”
 
 The Count, with his business sense, laughed at my slip.
 
@@ -166,9 +166,9 @@ And then he made a proposal.
 
 “By the way, I heard you did something remarkable recently? That thing, where you disrupted the black market and saved 397 slaves.”
 
-“Ah……”
+“Ah......”
 
-“Watching your youthful energy makes my blood boil too! I thought I might lend a hand in your good deeds…”
+“Watching your youthful energy makes my blood boil too! I thought I might lend a hand in your good deeds...”
 
 I wondered what he was getting at.
 
@@ -178,7 +178,7 @@ I was about to refuse outright, but his next words made me change my mind.
 
 “Those friends of yours. There are nearly 400 of them, and they still don’t have proper housing, right?”
 
-“…And?”
+“...And?”
 
 “If you’d let me, I could help. Even if they are exempt from taxes, they need a house to start a new life, don’t they?”
 
@@ -210,13 +210,13 @@ The photo taken that day was featured along with it.
 
 I set down the paper, feeling an inexplicable sense of defeat, just as Shabin, the head of the Administrative Corps, burst into the tent, panting.
 
-And…
+And...
 
 “The labyrinth closed ages ago, and you’re just showing up now?”
 
 She shouted at me, her tone prickly with irritation.
 
-“Uh… Huh?”
+“Uh... Huh?”
 
 “Take these documents first! Don’t even think about leaving until you’ve checked and signed each and every one of them!”
 
@@ -226,13 +226,13 @@ I brushed it off, assuming it was just work stress.
 
 “Ah, I’ll look at them, so don’t get mad. Okay?”
 
-“….”
+“....”
 
 “But why are there so many documents? I delegated most of the authority to you, didn’t I?”
 
-“…These are just the remaining parts that weren’t delegated. With the tribal budget increasing rapidly, we need to set a total budget every month, and I can’t do that, can I? Since you didn’t show up, I had to prepare temporary approval documents each time and make temporary entries in the ledger, so what should’ve been a one-time task had to be done two or three times!”
+“...These are just the remaining parts that weren’t delegated. With the tribal budget increasing rapidly, we need to set a total budget every month, and I can’t do that, can I? Since you didn’t show up, I had to prepare temporary approval documents each time and make temporary entries in the ledger, so what should’ve been a one-time task had to be done two or three times!”
 
-“Oh, is that so…?”
+“Oh, is that so...?”
 
 How can I escape this?
 
@@ -240,7 +240,7 @@ Just as I was thinking that, shabin’s eyes sharpened
 
 “Don’t even think about running.”
 
-“……Can’t you just handle these too?”
+“......Can’t you just handle these too?”
 
 “Ha! Sure! Let me decide the tribe’s budget, scribble down land sale prices, and even set my own salary while I’m at it!”
 
@@ -248,19 +248,19 @@ Shabin raised her voice in a disbelieving tone.
 
 Honestly, I didn’t get it.
 
-I know she’s using sarcasm, but…
+I know she’s using sarcasm, but...
 
 “Why can’t you?”
 
-“……Huh?”
+“......Huh?”
 
 “Shabin, I trust you. More than anyone else.”
 
-“……?”
+“......?”
 
 “Even if mistakes happen, I won’t blame you. I’ll take full responsibility. I’m the one who trusted you and put you in that position. That’s why I’m the tribal chief.”
 
-“….”
+“....”
 
 “So, trust yourself and give it a try. You’re the best in this field, aren’t you? Just like I’m the expert in the labyrinth. Your decisions, made after deep consideration, will be better than mine.”
 
@@ -270,15 +270,15 @@ Now it’s time for the final blow.
 
 “Your salary is the same. Take as much as you want.”
 
-“……You’re really going to regret this, you know?”
+“......You’re really going to regret this, you know?”
 
 “Maybe. But if it’s the value you place on yourself, I’ll never deny that.”
 
 After I finished speaking, Shabin stared at me for a long time without saying a word.
 
-And after what felt like an eternity…
+And after what felt like an eternity...
 
-“…I’ve always thought, ‘If I were in that position, I wouldn’t do it like that. I’d do it better.’ But the moment I actually had to take charge… I guess I was scared.”
+“...I’ve always thought, ‘If I were in that position, I wouldn’t do it like that. I’d do it better.’ But the moment I actually had to take charge... I guess I was scared.”
 
 “Everyone’s scared at first.”
 
@@ -316,7 +316,7 @@ Oh, I see.
 
 “Anyway, gather them all! Make sure to tell them there’s going to be something fun!”
 
-“Something fun…?”
+“Something fun...?”
 
 “You’ll see later.”
 
@@ -336,7 +336,7 @@ The fake hammers used for driving nails, that is.
 
 “Ooh!! The great warrior recorded on the Stone of Honor!!!”
 
-The first warriors to arrive became extremely excited upon seeing me. I was worried they might get angry if I called them while they were busy, but…
+The first warriors to arrive became extremely excited upon seeing me. I was worried they might get angry if I called them while they were busy, but...
 
 “You said there’s something fun!”
 
@@ -358,7 +358,7 @@ Thud! Thud! Thud! Thud!
 
 “Here, it’s tribe chief.”
 
-“…Tribe chief, it seems everyone’s here.”
+“...Tribe chief, it seems everyone’s here.”
 
 “Is that so?”
 
@@ -394,11 +394,11 @@ The towering spires visible between them.
 
 Citizens scrambled to the sidewalks as we marched.
 
-I felt a bit bad about the commotion, but…
+I felt a bit bad about the commotion, but...
 
 “Wow! It’s Baron Jandel! Mom, that’s Baron Jandel, right?”
 
-“Y-yes, that’s him…!”
+“Y-yes, that’s him...!”
 
 “Waaaaaaaaaaaaaaaaaah!”
 
@@ -410,9 +410,9 @@ The tightly shut windows opened, and behind them, countless citizens watched our
 
 With just one question in mind.
 
-“But… where are they going?”
+“But... where are they going?”
 
-“I wonder…”
+“I wonder...”
 
 “Shouldn’t someone call the guards? That’s a mob!”
 
@@ -422,7 +422,7 @@ Sure enough, not long after, guards from the public security bureau rushed to th
 
 “What’s the meaning of blocking my way?”
 
-“W-well, we received a report…”
+“W-well, we received a report...”
 
 “Are you planning to arrest us? We’re just walking down the street.”
 
@@ -432,7 +432,7 @@ Sure enough, not long after, guards from the public security bureau rushed to th
 
 With that, I started walking again, and the captain of the guards, looking dazed, stepped aside.
 
-And then…
+And then...
 
 “Bethel—raaaaaaa!!!”
 
@@ -454,7 +454,7 @@ Of course, I had no reason to answer honestly.
 
 “I’m just taking a walk, mind your own business.”
 
-“…Walk, you say.”
+“...Walk, you say.”
 
 The knight from Mozlan looked perplexed.
 
@@ -464,17 +464,17 @@ Had I been a commoner, they’d have disbanded us and arrested a few “leaders�
 
 I am a baron of this kingdom, after all.
 
-“Of course not. We’re merely concerned. A gathering of over a thousand armed individuals requires… oversight. We humbly ask for your understanding.”
+“Of course not. We’re merely concerned. A gathering of over a thousand armed individuals requires... oversight. We humbly ask for your understanding.”
 
 “We have no intention of leaving Ravinion. Is that answer enough?”
 
 I made it clear that we weren’t planning to go beyond the commercial district of Commelby, let alone the imperial capital-—the knights relaxed slightly.
 
-“May… we accompany you?”
+“May... we accompany you?”
 
 “I won’t keep you from going.”
 
-“Thank you…”
+“Thank you...”
 
 In the end, even Mozlan’s knights fell in line, trailing our march.
 
@@ -488,7 +488,7 @@ Even though we were just walking, the news spread throughout the city, causing a
 
 Citizens lined up along the route as if watching a parade, drawn by the unusual spectacle.
 
-“The Mage Tower…! The barbarians are heading to the Mage Tower!!”
+“The Mage Tower...! The barbarians are heading to the Mage Tower!!”
 
 As we stubbornly marched in one direction, the citizens began to realize the destination of our procession. This only further fueled the barbarians’ excitement.
 
@@ -504,7 +504,7 @@ As we stubbornly marched in one direction, the citizens began to realize the des
 
 The barbarians’ shouts reached the citizens.
 
-“These… these lunatics…!”
+“These... these lunatics...!”
 
 “Are they really planning to fight the Mage Tower?”
 
@@ -512,11 +512,11 @@ The barbarians’ shouts reached the citizens.
 
 “Their hearts! It’s because of the barbarians’ hearts! The mages are using their hearts as magical ingredients!”
 
-“…Whatever happens, today will be a rare spectacle.”
+“...Whatever happens, today will be a rare spectacle.”
 
 No matter what people around us said, I continued walking in silence.
 
-And then, after some time…
+And then, after some time...
 
 Thud.
 
@@ -524,15 +524,15 @@ I finally stopped.
 
 In front of me stood the tall, black tower, the square in front of it packed with onlookers.
 
-And…
+And...
 
-“…….”
+“.......”
 
 Hundreds of mages, who must have rushed out when they heard the news, stood in a crowd.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 As the standoff began, a hush fell over the thousands gathered in the square. You could practically hear the sound of someone nervously swallowing. Eventually, an elderly mage stepped forward.
 
@@ -544,7 +544,7 @@ Being the “head mage” here is like being the top student directly under the 
 
 He obviously feigned ignorance, but that’s how mages are – they like formalities.
 
-“Who I am, you say…”
+“Who I am, you say...”
 
 I gave a faint smile and opened my mouth to reply.
 
@@ -566,7 +566,7 @@ After my brief introduction, the old mage let out a long sigh and nodded.
 
 “I’ve come to do something that should have been done long ago.”
 
-“Something that should have been done long ago… I’m afraid my old age prevents me from understanding what you mean.”
+“Something that should have been done long ago... I’m afraid my old age prevents me from understanding what you mean.”
 
 “Is that so? Then I’ll say it directly.”
 
@@ -574,7 +574,7 @@ I shouted loudly enough for the half-deaf old man and all the citizens gathered 
 
 “I, Bjorn, son of Jandel, declare this! The Mage Tower must stop using our hearts as ingredients for magic!”
 
-“Really… is that why… … .”
+“Really... is that why... ... .”
 
 The elder rubbed his temples, then let out an audible sigh.
 
@@ -584,7 +584,7 @@ In a calm tone, he tried to persuade me.
 
 “Keep it short.”
 
-“……Huh?”
+“......Huh?”
 
 “Speak briefly, old man.”
 
@@ -596,7 +596,7 @@ The old man glared at me, his wrinkled face creasing even more.
 
 In a voice devoid of kindness, he spoke firmly.
 
-“If we refuse… then what will you do?”
+“If we refuse... then what will you do?”
 
 Though old, his gaze was fiercely defiant as he stared up at me.
 
@@ -604,9 +604,9 @@ Though old, his gaze was fiercely defiant as he stared up at me.
 
 the old mage asked.
 
-“……!”
+“......!”
 
-“……!”
+“......!”
 
 After a slight pause, I answered.
 
@@ -626,8 +626,8 @@ We’ve put up with this nonsense for long enough, haven’t we?
 
 [Character’s Fame has increased by +10.]
 [Character’s Fame has increased by +10.]
-[Character’s Fame has increased by +10…]
-[…]
-[…]
+[Character’s Fame has increased by +10...]
+[...]
+[...]
 
 Continue reading more chapters at henprogressive.com

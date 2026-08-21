@@ -22,7 +22,7 @@ It wasn’t just the awkwardness from marrying a friend that I had to worry abou
 
 “There are no other options. Imagine what would happen if the Chancellor started to seriously keep you in check.”
 
-If he were to keep me in check…
+If he were to keep me in check...
 
 I could already think of several schemes he might use against me.
 
@@ -34,7 +34,7 @@ Or perhaps the hearts of the Barbarians might once again be reclassified as rese
 
 Also, inspections could get stricter for our warriors, and they might end up falsely accused of something shady.
 
-“……”
+“......”
 
 As I furrowed my brows in thought, the chief spoke in a persuasive tone.
 
@@ -44,7 +44,7 @@ But this guy is a bit funny too.
 
 The way he’d been speaking until now, something about it felt off.
 
-“By the way, you…”
+“By the way, you...”
 
 I hesitated briefly, but as always, I asked bluntly.
 
@@ -58,7 +58,7 @@ When I directly asked why he was being nosy, the Village Chief paused for a mome
 
 “How could I not worry?”
 
-“……?”
+“......?”
 
 “Because I need you in order to fulfill my dream.”
 
@@ -80,9 +80,9 @@ What exactly does this guy desire?
 
 I said it almost like a threat, but the village chief just looked calm, as if telling me to do as I pleased.
 
-“Follow your own judgment. From my perspective, marriage with the Countess is the wiser choice… but that’s just me. No one can know what the right answer is when looking back from the future.”
+“Follow your own judgment. From my perspective, marriage with the Countess is the wiser choice... but that’s just me. No one can know what the right answer is when looking back from the future.”
 
-“…….”
+“.......”
 
 “Anyway, it’s getting late. If we stay any longer, we’ll attract attention, so let’s end today’s meeting. I’ll contact you again later.”
 
@@ -94,19 +94,19 @@ The cold wind rustled through the shrubs.
 
 I stood staring blankly at the fountain, trying to organize my thoughts.
 
-“Marriage, huh…”
+“Marriage, huh...”
 
 It didn’t take me long to make a decision.
 
 Honestly, it was the same decision I had made at the Dragon Temple.
 
-But…
+But...
 
-“The Marquis has played such a bold move…”
+“The Marquis has played such a bold move...”
 
 To counter it, I had no choice but to prepare an even stronger move.
 
-“…Is that really the only way?”
+“...Is that really the only way?”
 
 For the first time in a long while, I wished tomorrow would never come.
 
@@ -122,7 +122,7 @@ Knock knock knock.
 
 A visitor had arrived at my door.
 
-I thought it might be some peddler or socialite like yesterday, so I considered ignoring it, , but…
+I thought it might be some peddler or socialite like yesterday, so I considered ignoring it, , but...
 
 Knock knock knock.
 
@@ -134,15 +134,15 @@ The knocking just grew louder and louder.
 
 I decided to at least see who it was, and when I yanked the door open, I was met with the last visitor I expected.
 
-“…Wah!”
+“...Wah!”
 
 A blue-haired woman, startled by the sudden opening of the door, let out a strange gasp. From head to toe, her attire screamed, “I am a noble,” but her eyes lacked energy for some reason.
 
 She was my soon-to-be-announced marriage partner.
 
-“Ragna…?”
+“Ragna...?”
 
-“……!”
+“......!”
 
 As our eyes met, Ragna flinched and quickly averted her gaze.
 
@@ -150,9 +150,9 @@ I could roughly guess why she was acting like this.
 
 Because I was feeling the same way.
 
-“……”
+“......”
 
-“……”
+“......”
 
 For some reason, it was hard to meet each other’s eyes.
 
@@ -160,39 +160,39 @@ Before the exchange could sink into awkward silence, I hurried out.
 
 “Long time no see, Ragna. I should have visited you sooner. I’ve been busy with various things lately.”
 
-“Yes… Long time no see. And it’s okay that you didn’t visit… I heard you’ve been busy, so I understand.”
+“Yes... Long time no see. And it’s okay that you didn’t visit... I heard you’ve been busy, so I understand.”
 
 “I’m glad to hear that.”
 
-“…….”
+“.......”
 
-“……Would you like to come in for now?”
+“......Would you like to come in for now?”
 
 I couldn’t just leave her standing outside, so I offered. But for some reason, Ragna jumped back, startled.
 
 When I gave her a questioning look—
 
-“N-no! That’s not what I meant…!”
+“N-no! That’s not what I meant...!”
 
 “Then what did you mean?”
 
-“J-just! If I go into your room, strange rumors could spread, and that would be troublesome…”
+“J-just! If I go into your room, strange rumors could spread, and that would be troublesome...”
 
-“Ah… Well, that’s true enough.”
+“Ah... Well, that’s true enough.”
 
 Eventually, the awkward silence I had been trying to avoid settled between me and Ragna.
 
 But thankfully, Ragna was the one to speak first this time.
 
-“Um… actually, the reason I came today is because I have something to tell you in advance.”
+“Um... actually, the reason I came today is because I have something to tell you in advance.”
 
 “Something to tell me?”
 
-“Well…”
+“Well...”
 
 She trailed off, struggling to get the words out, and from that hesitation, I could already guess what she wanted to say.
 
-“At today’s council… there will be some unexpected talk, so I wanted to ask you not to be too surprised. You and I are nobles, aren’t we?”
+“At today’s council... there will be some unexpected talk, so I wanted to ask you not to be too surprised. You and I are nobles, aren’t we?”
 
 “So?”
 
@@ -204,7 +204,7 @@ I wanted to cut to the chase, but, for the sake of my plans later on, I decided 
 
 “So what are you trying to say?”
 
-“I… I can’t tell you right now. But my father has been pushing things forward in various ways. So… whatever you hear at the meeting, I hope you won’t misunderstand…”
+“I... I can’t tell you right now. But my father has been pushing things forward in various ways. So... whatever you hear at the meeting, I hope you won’t misunderstand...”
 
 “I understand. Whatever is said at the meeting, I won’t misunderstand.”
 
@@ -212,7 +212,7 @@ I wanted to cut to the chase, but, for the sake of my plans later on, I decided 
 
 “I understand.”
 
-“Yes… then I’m relieved. I’ll see you later…”
+“Yes... then I’m relieved. I’ll see you later...”
 
 Ragna gave a small nod before hurrying away down the hall.
 
@@ -222,7 +222,7 @@ She had really come alone. Her attendant, Hyunbyeol, was nowhere to be seen.
 
 After checking the time, I left the room and followed the palace servants to the meeting place.
 
-‘…They don’t use a round table here.’
+‘...They don’t use a round table here.’
 
 The room I entered had a long, rectangular table set up with most of the seats empty.
 
@@ -230,49 +230,49 @@ That’s because this is the tradition of royal council meetings.
 
 All participants are assigned numbers, and that number becomes their unspoken rank.
 
-And in my case…
+And in my case...
 
 “This is where Baron Jandel will attend to state affairs today.”
 
 The seat farthest from the head of the table.
 
-After I sat down and waited about two minutes, the door opened, and another noble entered…
+After I sat down and waited about two minutes, the door opened, and another noble entered...
 
 Tap.
 
 He took a seat directly across from me.
 
-He was a noble one rank higher than me, and after waiting another two minutes, another person entered…
+He was a noble one rank higher than me, and after waiting another two minutes, another person entered...
 
-‘What kind of nonsense is this…’
+‘What kind of nonsense is this...’
 
 Why don’t they all just come in at once? Watching them enter one by every two minutes made me feel like I’d die of frustration. It was so inefficient!
 
-‘The total capacity of the royal council is 50 people…’
+‘The total capacity of the royal council is 50 people...’
 
 Doing the math, it meant that those in the lowest numbers would have to sit idly in their chairs for nearly an hour and a half just waiting.
 
 Though even this humiliating seat would be a dream for many.
 
-“……”
+“......”
 
-“……”
+“......”
 
 One by one, the seats filled, but the air remained heavy with silence.
 
 I tried talking to a nearby noble, but he flinched and stared ahead, so I gave up.
 
-“…Guess I’ll just nap.”
+“...Guess I’ll just nap.”
 
 As I dozed off with my neck tilted to the side, time passed quickly, and before I knew it, nobles ranked in the 20’s began to enter.
 
-And…
+And...
 
 ‘What’s with this guy?’
 
 When I came to my senses, a nobleman was standing still, glaring at me.
 
-One, two, three, four…
+One, two, three, four...
 
 Counting the order, he must be number 27.
 
@@ -286,7 +286,7 @@ Of course, I wasn’t about to let that slide.
 
 “Hey, wait a second.”
 
-“……Hey?”
+“......Hey?”
 
 “Ah, my apologies. I couldn’t remember your name.”
 
@@ -294,7 +294,7 @@ Of course, I wasn’t about to let that slide.
 
 “Nice to meet you, Count Huteiler. But why did you laugh just now?”
 
-“…Is there a problem? I just laughed because I was happy to see the most famous hero in the city?”
+“...Is there a problem? I just laughed because I was happy to see the most famous hero in the city?”
 
 If I had to interpret his words in noble terms, it meant he was pleased to see me, a famous and successful person, sitting in the lowest-ranked seat.
 
@@ -310,7 +310,7 @@ If he had been hiding some vile scheme, I would have probed a bit. But since he 
 
 “Ah, got it.”
 
-“…You’d better drop that attitude here at the royal council. Otherwise, you’ll be in for a world of hurt.”
+“...You’d better drop that attitude here at the royal council. Otherwise, you’ll be in for a world of hurt.”
 
 As I nodded and picked my ear with my pinky, Count Human-weirdo looked at me as if I were insane and headed to his seat.
 
@@ -320,7 +320,7 @@ Familiar faces began to appear.
 
 Starting with Viscount Maxiland, the 25th rank and the Chancellor’s right hand, whom I had met at the recent inter racial meeting.
 
-“……”
+“......”
 
 He gave me a polite nod and went to his seat.
 
@@ -338,7 +338,7 @@ Rank 11: Count Kaislan, elder brother of Melend Kaislan, and the head of a prett
 
 Though our relationship was still a little strained, we had at taken pictures together. He had even purchased the ‘old friend’ title from me. Ranked sixth was Count Alminus.
 
-And then…
+And then...
 
 “A new star is always welcome. But remember, there are always other choices.”
 
@@ -346,7 +346,7 @@ Rank 3: Duke Kealunus, who left an omnious remark as soon as he saw me and passe
 
 Oh, and the Rank 1 seat was empty.
 
-That’s the king’s seat, and not even the Marquis, who acts as the king’s proxy at all events, can sit there…
+That’s the king’s seat, and not even the Marquis, who acts as the king’s proxy at all events, can sit there...
 
 ‘With that one seat vacant, the actual number is 49.’
 

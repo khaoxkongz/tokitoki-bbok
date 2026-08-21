@@ -18,9 +18,9 @@ It’s not that he doesn’t consider me a competitor, but rather that he isn’
 
 “Since we’ve met like this, it must be fate. Please visit our family someday. I’ll properly entertain you then.”
 
-“…When I get the time. But Viscount Kiembrota, I don’t think you’ve visited the buildings here since the first day.”
+“...When I get the time. But Viscount Kiembrota, I don’t think you’ve visited the buildings here since the first day.”
 
-“Haha, well, I’ve been terribly busy with other matters. Hard to spare the time, you see…”
+“Haha, well, I’ve been terribly busy with other matters. Hard to spare the time, you see...”
 
 Busy, my ass.
 
@@ -38,7 +38,7 @@ So if they lose, it’s not their fault; it’s their subordinates’ incompeten
 
 “You’re being modest, Viscount. At least you know you won’t come in last.” The noble on my left remarked, clearly irritated by our exchange.
 
-Startled, the viscount asked, ‘Count Ranglestern? What do you mean by avoiding last place…?
+Startled, the viscount asked, ‘Count Ranglestern? What do you mean by avoiding last place...?
 
 Ah, right. Him.
 
@@ -46,7 +46,7 @@ He was the only one of the other family representatives who like me stayed on si
 
 “What, you haven’t heard? Baron Jandel’s house looks nothing like the assigned construction theme.”
 
-“……”
+“......”
 
 The viscount pressed his lips together, looking visibly uncomfortable.
 
@@ -66,7 +66,7 @@ What are the characteristics of this building?
 
 What was the intention behind it, and how much care was put into the details personally? They also discussed the practical cost of living in the building and even boasted about its internal stability
 
-And then…
+And then...
 
 “Now, the judges will give their scores!”
 
@@ -94,15 +94,15 @@ They didn’t receive a high score in the citizen evaluation.
 
 As the technician who led the design and construction argued in an angry voice, a citizen voter in the front panicked and answered.
 
-“Uh… well… it is a beautiful house, but… it just felt like something too far removed from my world… and too expensive…”
+“Uh... well... it is a beautiful house, but... it just felt like something too far removed from my world... and too expensive...”
 
-“…Hah! How ridiculous!”
+“...Hah! How ridiculous!”
 
 The technician clicked his tongue as if it was absurd, but he didn’t argue further with the citizens. He knew well enough that making a scene under so many eyes could earn the scorn of the higher-ups.
 
 Well, what he’d already done was embarrassing enough.
 
-“Tsk. With the citizen evaluation ratio that high… it’ll be hard to have a fair competition.”
+“Tsk. With the citizen evaluation ratio that high... it’ll be hard to have a fair competition.”
 
 Perhaps shocked by the first score, the count, whose building was next, clicked his tongue and muttered,
 
@@ -138,7 +138,7 @@ Now, the final contender! The one you’ve all been waiting for—the Giant, the
 
 The announcement that I would take the stage myself drew even louder cheers and shouts, while the count beside me frowned at me as though I were some kind of clown.
 
-“How far has the dignity of the nobility fallen…”
+“How far has the dignity of the nobility fallen...”
 
 His expression clearly said, Why put so much effort into something like this? In my life, I’ve felt that these are the types you should keep far away from.
 
@@ -154,19 +154,19 @@ With the host’s cry, the cord was pulled, and the cloth covering the building 
 
 And then—
 
-“Wooooaaahhh… huh?”
+“Wooooaaahhh... huh?”
 
 As expected, the cheers fell silent. After all, it couldn’t compare to the grand buildings shown earlier.
 
-“Haha…! From the outside, it looks simple yet sturdy! But surprisingly, there are two buildings here! Did you perhaps go for quantity over quality?”
+“Haha...! From the outside, it looks simple yet sturdy! But surprisingly, there are two buildings here! Did you perhaps go for quantity over quality?”
 
-“Ah, I see! Of course! Since the outcome of this contest determines who will oversee construction in one of Ravigion’s districts, speed is indeed an important factor in the judging…!”
+“Ah, I see! Of course! Since the outcome of this contest determines who will oversee construction in one of Ravigion’s districts, speed is indeed an important factor in the judging...!”
 
 What’s with this host? Why is he covering for me so well?
 
 Is he my fan?
 
-Or… did the marquis perhaps give him special instructions?
+Or... did the marquis perhaps give him special instructions?
 
 Regardless of my suspicions, the host tried to lift the mood on stage as he continued.
 
@@ -174,25 +174,25 @@ Regardless of my suspicions, the host tried to lift the mood on stage as he cont
 
 “Sorry, that’s not a living room but a hallway.”
 
-“…Excuse me?”
+“...Excuse me?”
 
 “Isn’t it ridiculous to call this a living room?”
 
-“Ye, yes… Certainly, that is true… Ah, then let’s look at the first room now!”
+“Ye, yes... Certainly, that is true... Ah, then let’s look at the first room now!”
 
 As the interior was revealed in real time through a crystal ball, the thunderous cheers melted away.
 
-“…Haha! It’s a very cozy room. The structure is also very unique. Usually, such small rooms don’t have attached bathrooms… Could we hear the reason for choosing this structure—.”
+“...Haha! It’s a very cozy room. The structure is also very unique. Usually, such small rooms don’t have attached bathrooms... Could we hear the reason for choosing this structure—.”
 
 “I’ll explain everything later at once.”
 
-“……”
+“......”
 
 It seemed the host had indeed received instructions from the Marquis, as every time I refused his helping hand, he sweated profusely.
 
 However, perhaps he thought it was already out of his hands.
 
-First floor, second floor, third floor, fourth floor…
+First floor, second floor, third floor, fourth floor...
 
 Even as he checked every single room on every floor, the host no longer forced himself to maintain his enthusiasm. Still, I had to admire how he held on to hope until the end.
 
@@ -200,7 +200,7 @@ Even as he checked every single room on every floor, the host no longer forced h
 
 “It’s exactly the same structure as the first one, so there’s no need to bother going inside.”
 
-“R-Right…”
+“R-Right...”
 
 With even his last hope ruthlessly crushed, the host tightly shut his eyes. Yet, he still did his duty. “Then, may we hear the presentation you mentioned?”
 
@@ -214,7 +214,7 @@ The host, silently begging me not to ruin things further.
 
 The atmosphere was just perfect for a twist.
 
-Yeah, so…
+Yeah, so...
 
 “This house is small. Even living alone, you won’t be able to keep much here. Living with a partner, let alone raising a child, would be difficult. There’s no garden, no terrace to enjoy the air, and the kitchen is so cramped you’ll struggle to cook.”
 
@@ -228,7 +228,7 @@ What will come next?
 
 “I declare that this house is the closest to happiness!”
 
-“…Could we hear the reason why you say that?”
+“...Could we hear the reason why you say that?”
 
 “A world where everyone is happy doesn’t exist.”
 
@@ -242,7 +242,7 @@ In the most passionate voice I could muster, I introduced the building we had co
 
 “A house where you can dream of happiness, even if you have nothing right now!”
 
-“……”
+“......”
 
 “A house built with the hope that even if everyone can’t be happy, they at least have the ‘opportunity’ to be happy in the future.”
 
@@ -262,13 +262,13 @@ And how the seemingly small studio space was actually designed to be highly prac
 
 “At that price, it’s cheaper than staying long-term at most inns, right?”
 
-“Wait, the walls…they’re actually storage units?”
+“Wait, the walls...they’re actually storage units?”
 
 “Incredible! A dining table hidden in the cupboards!”
 
 Maybe because the first impression had been so negative, the more strengths I revealed, the faster public opinion turned around.
 
-But…
+But...
 
 “Not enough. It still feels a bit weak.”
 
@@ -276,25 +276,25 @@ I also initiated the negative strategy I had prepared in advance.
 
 Even though I’m last in the order and can’t directly lower the opponents’ scores, I could still influence perceptions to earn better points.
 
-Therefore…
+Therefore...
 
 “How many people do you think would be happy living in the buildings shown earlier?”
 
-“…I’d imagine most would be happy. As much as I’d like to live there myself.”
+“...I’d imagine most would be happy. As much as I’d like to live there myself.”
 
 “Well, I can’t give the precise count, but more than ninety percent of the city’s people won’t be able to endure it. The rent will weigh them down, and they’ll have to keep earning, even while injured, just to meet their taxes.”
 
-“Ah…!”
+“Ah...!”
 
 “Just look at the structure. Look at how much space is wasted. It’s a characteristic of houses that look good but are inconvenient to live in. Plus, there’s no storage space. These kinds of houses become messy as soon as you acquire more belongings.”
 
-“……”
+“......”
 
 “And what about maintenance fees? To keep the building’s exterior and lighting clean, you’d have to pay additional costs. Would you really want to pay all that for a house that looks like it would collapse with a single push?”
 
 By attacking the others on logical grounds, public opinion shifted even faster.
 
-“Indeed… this kind of design would save a great deal in costs.”
+“Indeed... this kind of design would save a great deal in costs.”
 
 “And it’s not as though we’ll be living in it ourselves.”
 
@@ -336,11 +336,11 @@ I felt no anxiety whatsoever, experiencing a state of near-perfect serenity.
 
 “With a total of 72 points, you are in 2nd place!”
 
-“……Huh?”
+“......Huh?”
 
-“The winner of this competition is the Langston Count’s family, with a total of 76 points! Sincere congratulations…!”
+“The winner of this competition is the Langston Count’s family, with a total of 76 points! Sincere congratulations...!”
 
-…Son of a bitch.
+...Son of a bitch.
 
 ***
 
@@ -358,11 +358,11 @@ They probably weren’t moved by my philosophical ideals.
 
 People like that are stubborn by nature.
 
-“Second place, huh… you did well. Just a one-point difference from the joint third place.”
+“Second place, huh... you did well. Just a one-point difference from the joint third place.”
 
-“……”
+“......”
 
-“In any case, your speech was truly remarkable, Baron. Though if the world worked just because someone said the right words… well, it wouldn’t be the world, would it?”
+“In any case, your speech was truly remarkable, Baron. Though if the world worked just because someone said the right words... well, it wouldn’t be the world, would it?”
 
 Then, Count Ranglestern happily climbed the stage to receive the prize for first place, scratching away at my nerves like sandpaper.
 
@@ -370,7 +370,7 @@ My insides were boiling—but not to the point of tears.
 
 I mean, I’d already achieved more than I set out to.
 
-‘Second place… that’s more than enough.’
+‘Second place... that’s more than enough.’
 
 I’m sorry, Count, but despite your winner’s smile, the contract for District 7 is going to fall into my lap.
 
@@ -378,11 +378,11 @@ The Chancellor promised me.
 
 As long as my performance wasn’t suspiciously poor, the Jandel family would win the bid.
 
-So in the end… the real winner is me.
+So in the end... the real winner is me.
 
-“Sigh…”
+“Sigh...”
 
-Then why… why does that guy annoy me so much?
+Then why... why does that guy annoy me so much?
 
 And why call us all up here? Wasn’t only the winner supposed to stand on stage?
 
@@ -390,7 +390,7 @@ I grumbled inwardly and glared at Count Ranglestern, who was standing before the
 
 And then.
 
-‘…Light?’
+‘...Light?’
 
 A burst of blinding light flared from somewhere in the audience.
 
@@ -400,7 +400,7 @@ Thump-!!
 
 My heart pounded violently at the sense of danger.
 
-‘…Magic.’
+‘...Magic.’
 
 Only then did my mind catch up to the situation.
 
@@ -432,27 +432,27 @@ Sizzle-!
 
 A searing, intense pain shot through my back.
 
-And……
+And......
 
-“…It’s, it’s an ambush!”
+“...It’s, it’s an ambush!”
 
 The shout snapped my sense of time back to normal.
 
 The nearby knights finally rushed in and formed a wall, and I let out the groan I’d been holding back.
 
-“Augh….”
+“Augh....”
 
 The pain was sharper than I thought. When I relaxed my arms, the marquis finally came to his senses.
 
-“You…”
+“You...”
 
 It didn’t really sound like something someone who’d just had their life saved would say.
 
-“…Why did you save me?”
+“...Why did you save me?”
 
 I didn’t really have an answer either.
 
-“Uh…”
+“Uh...”
 
 Yeah.
 

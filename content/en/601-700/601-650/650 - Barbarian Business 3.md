@@ -36,7 +36,7 @@ The Marquis’s tone was also more sensitive and sharper than usual.
 
 “My butler told me he explained this to you, didn’t he?”
 
-“Uh…”
+“Uh...”
 
 I did hear the explanation, but I didn’t think it was true and not just an excuse.
 
@@ -44,7 +44,7 @@ Feeling somewhat embarrassed, I press my lips together tightly, and the Marquis 
 
 “You’re rather strange yourself. You came to me demanding why I avoided you just because I didn’t make time to meet. Don’t you think that’s a bit arrogant?”
 
-“…Huh?”
+“...Huh?”
 
 “Do you think that just because you want to meet someone, they should drop everything and make time for you, as if they were waiting on your call?”
 
@@ -52,7 +52,7 @@ Feeling somewhat embarrassed, I press my lips together tightly, and the Marquis 
 
 “Don’t just apologize. Make me a promise. Never come find me like this again. I can tolerate some cultural differences, but this crosses the line into disrespect.”
 
-“…Fine, I said I understand.”
+“...Fine, I said I understand.”
 
 Perhaps because I had no excuse, but seeing him so angry with me was frightening.
 
@@ -70,7 +70,7 @@ He had emphasized his fatigue and lack of time several times already, so I moved
 
 Maybe it was because I’d never made such a brazen request before, or maybe because I’m not the type to come with personal favors.
 
-“…Huh?”
+“...Huh?”
 
 The marquis let out a snort of disbelief, then asked me,
 
@@ -84,7 +84,7 @@ But that’s just how business is.
 
 “If there’s a method that can guarantee success, isn’t there no reason not to choose it?”
 
-“I agree with that way of thinking itself but……”
+“I agree with that way of thinking itself but......”
 
 The Marquis then narrowed his eyes.
 
@@ -108,7 +108,7 @@ Keeping my brazen act consistent, I answered,
 
 “Think of it as a bachelor’s gift.”
 
-“A bachelor’s… gift?”
+“A bachelor’s... gift?”
 
 He tilted his head at the unfamiliar phrase.
 
@@ -122,17 +122,17 @@ Unmarried people deserve something, right?
 
 They pay for wedding gifts but never get to receive any in return.
 
-“…….”
+“.......”
 
 The marquis fell silent, as if contemplating my logic.
 
 It didn’t matter. As the person who kept me from ever marrying, he couldn’t ignore my request.
 
-“…You’re not completely wrong.”
+“...You’re not completely wrong.”
 
 Thankfully, the marquis understood the laws of give and take.
 
-“But I can’t just arbitrarily decide matters concerning state affairs. What can I to do about this…”
+“But I can’t just arbitrarily decide matters concerning state affairs. What can I to do about this...”
 
 He mumbled to himself like he was troubled, but honestly? I didn’t buy it.
 
@@ -148,7 +148,7 @@ Right on cue, the marquis offered a compromise.
 
 “I will give you a chance to compete fairly.”
 
-“A chance……?”
+“A chance......?”
 
 “Actually, it’s true. The five families, including House Jandel, are being reviewed as strong candidates. But the possibility of House Jandel being selected is extremely low.”
 
@@ -166,9 +166,9 @@ Just how did he plan to set the stage? I couldn’t picture it.
 
 But after hearing the Marquis’s explanation, I was quite surprised.
 
-“Let me get this straight…… You want the five families to get together and hold a construction competition?”
+“Let me get this straight...... You want the five families to get together and hold a construction competition?”
 
-“Calling it a competition is a bit…… It will be closer to a demonstration. Each family showcases their skills and strengths publicly.”
+“Calling it a competition is a bit...... It will be closer to a demonstration. Each family showcases their skills and strengths publicly.”
 
 It seemed like the same thing, but his next words were quite reassuring.
 
@@ -190,17 +190,17 @@ Hmm, or maybe not?
 
 “Shabin, what are you reading so intently?”
 
-“Ah… well… a letter. The branch manager of Alminas Bank is asking if I’d consider changing jobs…… It’s strange. I’ve never even met him……”
+“Ah... well... a letter. The branch manager of Alminas Bank is asking if I’d consider changing jobs...... It’s strange. I’ve never even met him......”
 
 What’s this?
 
 Don’t tell me Count Alminas put in a good word, hoping to poach her.
 
-‘That old fox…’
+‘That old fox...’
 
 “Just ignore it. It’s definitely a scammer.”
 
-“…And why does hearing you say that make my confidence drop?”
+“...And why does hearing you say that make my confidence drop?”
 
 “Don’t worry.”
 
@@ -210,27 +210,27 @@ Don’t tell me Count Alminas put in a good word, hoping to poach her.
 
 “Yes. Did you really think I wouldn’t notice how you avoid me, afraid that I’ll ask you to do something?”
 
-Ugh… she knows me too well.
+Ugh... she knows me too well.
 
 Feeling awkward, I cut to the chase.
 
 “I just met with the chancellor.”
 
-“…With the chancellor?”
+“...With the chancellor?”
 
 “What’s with that look?”
 
-“No reason. It’s just that seeing you like this makes you look important…”
+“No reason. It’s just that seeing you like this makes you look important...”
 
 I shared everything from my conversation with the marquis and told her I’d be evaluating our warriors’ construction skills tomorrow.
 
-“Tomorrow…?”
+“Tomorrow...?”
 
 Sensing the Killing intent in Shabin’s trembling voice, I hurriedly added an explanation.
 
 “No need to gather too many. Just don’t cherry-pick the best. We need to see what our average is, so just bring a mix.”
 
-“Hm… that’s doable.”
+“Hm... that’s doable.”
 
 “And don’t stress. I just want to assess where we stand and what we need to improve.”
 
@@ -266,7 +266,7 @@ Or more precisely—
 
 As the chief of the barbarians, I couldn’t ignore a word like that.
 
-“…Brainwashing?”
+“...Brainwashing?”
 
 “She said with proper rewards and constant praise, even goblins can change their mindset.”
 
@@ -284,13 +284,13 @@ Everyone admires the strong, so our warriors spill blood and sweat every day.
 
 “I don’t know much, but the other day, we had a competition to see who could build a house the fastest.” Aynar continued, booming.” I heard if you win that, you become popular with the opposite sex, so I tried it out, but it was hard!”
 
-“…….”
+“.......”
 
 “It’s a shame! If I had learned construction work instead of entering the labyrinth, I could have done better!”
 
 Even Aynar was spouting nonsense, so I hardly needed an explanation of how valuable construction skills had become in my tribe.
 
-‘Is this a good thing or not…?’
+‘Is this a good thing or not...?’
 
 As chief, I was slightly worried, but I decided to focus on the positive.
 
@@ -298,7 +298,7 @@ If our construction skills improved, it meant there were paths to survival beyon
 
 And more choices was always a good thing.
 
-‘…At this rate, I can actually look forward to this.’
+‘...At this rate, I can actually look forward to this.’
 
 With that, I stepped back to watch the construction test Emure had arranged and began assessing the warriors’ building skills
 
@@ -316,7 +316,7 @@ Work speed—High
 
 Attention to detail- Low
 
-“…Wha, what? Kirita, second son of Mweka! The, the window won’t fit here. What should we do!!”
+“...Wha, what? Kirita, second son of Mweka! The, the window won’t fit here. What should we do!!”
 
 Construction Techniques— Low
 
@@ -332,12 +332,12 @@ They don’t know how to make domed roofs.
 
 Generally fast but make frequent mistakes.
 
-They can’t read blueprints at all…
+They can’t read blueprints at all...
 
-‘So this is how it is…’
+‘So this is how it is...’
 
 Seeing the flaws that were as evident as the strengths, I clicked my tongue in dissatisfaction.
 
-“Sigh…”
+“Sigh...”
 
-…What am I supposed to do with this?
+...What am I supposed to do with this?

@@ -10,7 +10,7 @@ After all, I had spent the past few days confined by the king, so no one had see
 
 This was completely unexpected for him.
 
-Well, it was possible he’d gotten word that I’d appeared in District 5 before coming here, but…
+Well, it was possible he’d gotten word that I’d appeared in District 5 before coming here, but...
 
 If that were true, wouldn’t he have been far more surprised?
 
@@ -20,13 +20,13 @@ Yeah, probably. He’d be wondering why the hell a guy who’s supposed to be in
 
 My smirk reply seemed to snap him out of his daze, as he barely managed to move his facial muscles to reply.
 
-“…Psssit. I’ve been receiving a lot of support lately, you see.”
+“...Psssit. I’ve been receiving a lot of support lately, you see.”
 
 He replied with his usual nonchalance, but it was obvious he was rattled inside. After all, Summons that reach a certain level don’t need explicit orders—they react and act according to their summoner’s will.
 
-And right now…
+And right now...
 
-“Pssit…”
+“Pssit...”
 
 The moment the Corpse Collector let out his awkward laugh, the chimera he had been riding so confidently began to back away from me.
 
@@ -34,7 +34,7 @@ The moment the Corpse Collector let out his awkward laugh, the chimera he had be
 
 As I smashed the surrounding corpse soldiers with a single swing of my hammer, he replied in a stutter.
 
-“Well… I just thought that launching a surprise attack at night is a bit cowardly…you see… Pssit. I-I’ll see you next time!”
+“Well... I just thought that launching a surprise attack at night is a bit cowardly...you see... Pssit. I-I’ll see you next time!”
 
 Does he even know what he’s saying right now?
 
@@ -66,7 +66,7 @@ I beckoned to him, tilting my raised hammer, but the chimera turned its back and
 
 Despite my repeated attempts at persuasion, the four-legged chimera only accelerated in the opposite direction.
 
-“I-I have urgent business, so I’ll be going now…!”
+“I-I have urgent business, so I’ll be going now...!”
 
 Man, I’m just trying to have a chat. He’s way too quick on the uptake.
 
@@ -74,7 +74,7 @@ Man, I’m just trying to have a chat. He’s way too quick on the uptake.
 
 I activated Giantization and enlarged my body before charging at him.
 
-Well, since I’d run outside the castle gates, there was no one left to hold back the corpse army, but…
+Well, since I’d run outside the castle gates, there was no one left to hold back the corpse army, but...
 
 ‘They’ll manage. I’ve bought them enough time to prepare.’
 
@@ -110,7 +110,7 @@ Releasing strange smokescreens to mess with my vision.
 
 He tried everything he could think of, but stopping a Shield Barbarian who was almost 70% complete in terms of their combat build was impossible.
 
-“Eek…! This is cheating!!”
+“Eek...! This is cheating!!”
 
 At this point, such praise was to be expected. For a ranged fighter like him, an unstoppable tank was nothing short of a nightmare.
 
@@ -118,7 +118,7 @@ At this point, such praise was to be expected. For a ranged fighter like him, an
 
 “Don’t lie! You’re planning to ‘talk’ with your fists!”
 
-…Tch. How’d he know?
+...Tch. How’d he know?
 
 Boom—! Boom—!
 
@@ -140,9 +140,9 @@ Boom—! Boom—!
 
 In any case, as I silently closed the distance between us, he started voicing his complaints.
 
-“Argh! Bjorn Jandel…! Why are you even here in the first place!”
+“Argh! Bjorn Jandel...! Why are you even here in the first place!”
 
-“…Huh?”
+“...Huh?”
 
 What’s he talking about now?
 
@@ -164,13 +164,13 @@ The Screaming Witch, Liranne Vivian.
 
 “And we told you from the start: don’t get cocky and stay in the back. If I remember right, you were the one who insisted on leading the charge.”
 
-“…Is that really important right now?! And why are you only showing up now?! I don’t care what kind of spell it is—just hurry up and stop him—!”
+“...Is that really important right now?! And why are you only showing up now?! I don’t care what kind of spell it is—just hurry up and stop him—!”
 
-“Eek…? No thanks.”
+“Eek...? No thanks.”
 
 Vivian refused with a look of pure disgust.
 
-“…What?”
+“...What?”
 
 “Don’t you remember last time? How am I supposed to stop a monster that keeps reflecting every spell I use?”
 
@@ -192,7 +192,7 @@ Huh?
 
 “Take your hand?”
 
-“It’s a bit tight with two people, but… this isn’t the time to be picky, right?”
+“It’s a bit tight with two people, but... this isn’t the time to be picky, right?”
 
 As a barbarian, that was not something I could let pass.
 
@@ -222,7 +222,7 @@ At the Corpse Collector’s urging, Vivian approached again, reaching out her ha
 
 I threw another hand axe at her, and this time she reacted with a barrier.
 
-Of course, it didn’t mean much. Even though it was a plain throw without the help of a skill…
+Of course, it didn’t mean much. Even though it was a plain throw without the help of a skill...
 
 Whoosh—!
 
@@ -236,7 +236,7 @@ Just as expected, the barrier shattered the moment the axe hit it.
 
 The axe handle broke through the shield and struck Vivian on the temple. She screamed as she fell from her broom and rolled across the ground.
 
-And then…
+And then...
 
 “Damn it!”
 
@@ -244,11 +244,11 @@ The Corpse Collector let out a curse, but instead of helping his fallen ally who
 
 “Wh-where are you going?!”
 
-“……I-it can’t be helped! A mage can be replaced—but I can’t!”
+“......I-it can’t be helped! A mage can be replaced—but I can’t!”
 
 “Don’t bullshit me! Come back and pick me up, you bastard!!”
 
-“Those who live, live… pssit…!”
+“Those who live, live... pssit...!”
 
 Such a despicable line that even I felt my head go blank while chasing him.
 
@@ -266,7 +266,7 @@ After a brief moment of contemplation, I stopped in front of Vivian, who was sit
 
 I nearly stumbled myself after witnessing such an absurd scene.
 
-“…I surrender.”
+“...I surrender.”
 
 That’s not surrender. That’s defeat.
 
@@ -274,7 +274,7 @@ Step.
 
 Vivian ground her teeth as she watched me approach in silence. Surprisingly, her anger was not directed at me.
 
-“…Oppa, can’t you just let me go? I’ll kill that bastard myself. I swear.”
+“...Oppa, can’t you just let me go? I’ll kill that bastard myself. I swear.”
 
 Her eyes were filled with pure, unfiltered sincerity.
 
@@ -286,7 +286,7 @@ But—
 
 I rejected her firmly and raised my hammer.
 
-“No, seriously—! I’ll do anything you want, oppa… anything…!”
+“No, seriously—! I’ll do anything you want, oppa... anything...!”
 
 She tried to use her looks and gender as a weapon.
 
@@ -302,7 +302,7 @@ Huh?
 
 I paused with my hammer raised.
 
-“…A-am I wrong?”
+“...A-am I wrong?”
 
 Man, even in this situation, she’s testing me.
 
@@ -310,26 +310,26 @@ Man, even in this situation, she’s testing me.
 
 “I-I can take you to where your allies are! A-and I can do it safely and comfortably!”
 
-Hmm…
+Hmm...
 
 “And I can help you in many other ways too! D-don’t you need a mage?”
 
 I already have a mage, though.
 
-“E-especially if it’s about catching that fucking bastard—I-I’ll even offer up my soul…!”
+“E-especially if it’s about catching that fucking bastard—I-I’ll even offer up my soul...!”
 
-Now, what should I do with this…
+Now, what should I do with this...
 
 If I crush her head right now and sprint after the Corpse Collector, I might still be able to catch up to him.
 
 It was while I was weighing my options.
 
-“……Tra-traitor!”
+“......Tra-traitor!”
 
 The word Vivian suddenly blurted out made me tilt my head.
 
-“…What?”
+“...What?”
 
 “I can tell you which one of your allies is the traitor!”
 
-……Okay, I guess I have to hear this out first.
+......Okay, I guess I have to hear this out first.

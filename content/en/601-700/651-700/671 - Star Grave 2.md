@@ -8,7 +8,7 @@ Well, the seventh floor was a special case, having two Lords—but that didn’t
 
 Anyway.
 
-‘How the hell did this guy manage to consume that…?’
+‘How the hell did this guy manage to consume that...?’
 
 Frankly, it’s hard to believe.
 
@@ -18,7 +18,7 @@ Had I been underestimating Lee Baek-ho all this time?
 
 Maybe this guy is more impressive than I thought.
 
-‘…Or he was just incredibly lucky.’
+‘...Or he was just incredibly lucky.’
 
 I don’t know how he obtained Deadred’s essence, but if I had to guess, it happened a long time ago.
 
@@ -36,7 +36,7 @@ It wasn’t impossible that Baek-ho had obtained it through some kind of trade.
 
 Unlikely, but not entirely impossible.
 
-“…So he really did summon it back then.”
+“...So he really did summon it back then.”
 
 Baek-ho dreamed of having a harem while exploring the labyrinth, but his identity was exposed due to a companion’s betrayal. Surprisingly, this explanation matched the sequence of events perfectly.
 
@@ -48,7 +48,7 @@ Backed into a corner, he tried to shake up the situation by gambling on a desper
 
 ***
 
-“Its power is terrifying, no matter how many times I see it…”
+“Its power is terrifying, no matter how many times I see it...”
 
 While I was lost in thought, Aures beside me let out a long breath and murmured,
 
@@ -64,13 +64,13 @@ Healer Jayna and Archer Bright came to their senses and answered, but the GM, wh
 
 He was still out of it, expression blank.
 
-“W-what was that… just now?”
+“W-what was that... just now?”
 
 Had he never fought the Lord of Darkness in the game before?
 ‘
 I recognized the skill the instant I saw it.
 
-“I… I’ve never even heard of such an ability……”
+“I... I’ve never even heard of such an ability......”
 
 But I could understand that stunned expression.
 
@@ -100,7 +100,7 @@ Who would’ve thought a nuclear weapon was hiding behind that smiling face?
 
 Maybe I need to reconsider.
 
-I was sure I wouldn’t lose if we fought, but…
+I was sure I wouldn’t lose if we fought, but...
 
 “What are you all doing? It’s over, come down already!”
 
@@ -116,7 +116,7 @@ Electric arcs danced inside it like living threads of lightning.
 
 It looked just like a plasma ball—the kind you might find as decoration in a fortune-teller’s shop.
 
-“This is… the Orb of Thunder.”
+“This is... the Orb of Thunder.”
 
 “Oh, right, that was the name. So, how much is it worth?”
 
@@ -138,7 +138,7 @@ If the monster had been completely vaporized, there would’ve been no materials
 
 “I’ve never seen one myself, but from what I know, there’s no special magical handling required.”
 
-“Ah, is that so… Then give it here.”
+“Ah, is that so... Then give it here.”
 
 The ‘Orb of Thunder’ disappeared into Baek-ho’s subspace.
 
@@ -174,7 +174,7 @@ I had the feeling that Baek-ho was trying to change the subject.
 
 I couldn’t tell for sure, but thanks to that, I lost my chance to ask about the Essence.
 
-“…Not that he’d tell me anything useful anyway.”
+“...Not that he’d tell me anything useful anyway.”
 
 Still, curiosity got the better of me, so I followed them.
 
@@ -194,13 +194,13 @@ It slammed halfway into the ground again.
 
 Baek-ho exclaimed, while the GM knelt down in front of the stone to examine it.
 
-“…Interesting. There’s no trace of mana circuits or any magical traits, yet it violently rejects subspace storage.”
+“...Interesting. There’s no trace of mana circuits or any magical traits, yet it violently rejects subspace storage.”
 
 “Suspicious, huh?”
 
-“Yes… It seems we need to take our time and investigate it more thoroughly.”
+“Yes... It seems we need to take our time and investigate it more thoroughly.”
 
-“How about that? He says he needs to investigate it for a bit… Ah, do you agree with this, Baron?”
+“How about that? He says he needs to investigate it for a bit... Ah, do you agree with this, Baron?”
 
 I smirked as Baekho worked to casually reclaim control of the group. “Sure,” I said with a nod. “Let’s do it.”
 
@@ -236,11 +236,11 @@ Lightning strikes, heavy snow, strong winds, hail, earthquakes, hurricanes, etc.
 
 We experienced every natural disaster imaginable, and amidst all that, monsters kept appearing, forcing us into a constant state of combat.
 
-The problem was…
+The problem was...
 
 “Hey, it’s been a week. You seriously haven’t figured anything out yet?”
 
-“……”
+“......”
 
 “Gramps, come on. If you can’t do it, just say so. Don’t make us waste our time, yeah?”
 
@@ -272,13 +272,13 @@ But there’s a reason they say humans are the most adaptable creatures.
 
 “Enemy approaching! North-northeast!”
 
-“…It’s a Leditrous.”
+“...It’s a Leditrous.”
 
 “Everyone to your positions!”
 
 Instead of going out alone as the main tank, I stayed near the party, acting as a defensive wall.
 
-And…
+And...
 
 “It’s just one monster! Don’t move rashly, focus on protecting!”
 
@@ -290,7 +290,7 @@ With far fewer monsters than in normal fields, we fought as safely as possible.
 
 “Yo, you’re just being greedy now. Even if we only take what we can carry, we’ll still make a fortune when we get back.”
 
-“……”
+“......”
 
 We prioritised picking up only the most valuable by-products and discarded most of the rest.
 
@@ -306,7 +306,7 @@ Efficiency over sentiment.
 
 “I think it’s best to just keep moving in one direction for now.”
 
-“Yeah… probably for the best. But which direction exactly?”
+“Yeah... probably for the best. But which direction exactly?”
 
 We were on the ninth floor, in the Star Grave.
 
@@ -314,13 +314,13 @@ Specifically, the central zone of the Primordial Land.
 
 If certain special conditions were met here, it would be possible to summon and fight the Primordial Dragon.
 
-“But since summoning it means instant game over… we’ll skip that.”
+“But since summoning it means instant game over... we’ll skip that.”
 
 I told them where I wanted to go.
 
 “West.”
 
-“From here, west would be… That’s the Oldrock Plains. Why there?”
+“From here, west would be... That’s the Oldrock Plains. Why there?”
 
 The reason is simple.
 
@@ -344,7 +344,7 @@ After about four days of travelling, the Oldrock plains finally came into view.
 
 But then—
 
-“…Ha. Didn’t expect to hit a dead end here.”
+“...Ha. Didn’t expect to hit a dead end here.”
 
 About halfway through the plains, we came to a dead end.
 
@@ -364,7 +364,7 @@ Getting out of here was the priority.
 
 With that, we moved to the left of the gray boundary.
 
-One day. Two days. Three, four…
+One day. Two days. Three, four...
 
 And then fifteen.
 
@@ -372,11 +372,11 @@ After maintaining that pace for over fifteen days, our conversations grew fewer 
 
 The more we filled in the outer edges of our map, the more justified our unease felt.
 
-“Hey, by any chance…”
+“Hey, by any chance...”
 
 “Just be quiet. We’re not sure yet.”
 
-“Yes…”
+“Yes...”
 
 Another two days passed, bringing us to the 17th day.
 

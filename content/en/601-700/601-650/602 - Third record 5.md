@@ -11,7 +11,7 @@ Instead of falling, our bodies rose above the collapsing ground, defying gravity
 
 It was a levitation spell.
 
-“Is everyone… alright?”
+“Is everyone... alright?”
 
 I quickly scanned my surroundings and spotted Gahyun and the village chief floating in the air as well.
 
@@ -21,7 +21,7 @@ This time, I genuinely praised them.
 
 I was too disoriented to give proper orders, but they managed to react like this on their own.
 
-“…It’s nothing worth praising.”
+“...It’s nothing worth praising.”
 
 Huh, the old man’s getting embarrassed?
 
@@ -41,13 +41,13 @@ I judged that if something were to happen while we were in the air, we wouldn’
 
 As soon as I gave the order, Gahyun also snapped back to focus and began descending.
 
-CRASH! BOOM! RUMBLE…
+CRASH! BOOM! RUMBLE...
 
 The area was a literal hell.
 
 Everything we saw was crumbling and collapsing into the darkness, and huge stones fell from above, narrowly missing us.
 
-And then…
+And then...
 
 “Now this feels like a real expedition.”
 
@@ -61,7 +61,7 @@ He clearly had a few screws loose, but I had no time to worry about that.
 
 The Floor Lord had grabbed the High Priest right before the explosion and dived into the darkness.
 
-The man I thought was our enemy had suddenly started acting like he was helping us…
+The man I thought was our enemy had suddenly started acting like he was helping us...
 
 “Erwin, did you control it? Did you make it grab the High Priest and jump?”
 How-To,DIY & Expert Content
@@ -78,7 +78,7 @@ Well, it wasn’t a wrong assumption.
 
 At first glance, I thought the Floor Lord was the boss.
 
-But…
+But...
 
 ‘Looking back, maybe it was an ally.’
 
@@ -96,9 +96,9 @@ A massive boulder slammed down right above Gahyun’s head.
 
 It was a close call, but thanks to the barrier he’d set up in advance, no one was hurt.
 
-However, the problem was…
+However, the problem was...
 
-“Ah…”
+“Ah...”
 
 That ominous “Ah.”
 
@@ -106,14 +106,14 @@ And as expected, my gut feeling was dead-on.
 
 “What’s wrong?”
 
-“That last hit… disrupted the levitation spell’s computation.”
+“That last hit... disrupted the levitation spell’s computation.”
 
 “Computation? Speak clearly—”
 LanguageResources
 
 That’s when it happened.
 
-“Ah…”
+“Ah...”
 
 We floated briefly in place, then—
 
@@ -127,7 +127,7 @@ My head is pounding.
 
 My lungs feel like they’ve been pierced, and I can’t move my spine properly.
 
-But…
+But...
 
 ‘I’m alive.’
 
@@ -135,23 +135,23 @@ What about the others?
 
 The last thing I remembered was desperately holding onto Erwin as we fell, bracing for impact with my back.
 
-“…Ah, ah…! Mister! Mister! Can you… hear me…?”
+“...Ah, ah...! Mister! Mister! Can you... hear me...?”
 
 Through the ringing in my ears, I could make out Erwin’s panicked voice—distorted like a broken radio.
 
 The village chief’s voice also reached me.
 
-“Don’t… shake him… Wait… He’ll be fine… after drinking a potion…”
+“Don’t... shake him... Wait... He’ll be fine... after drinking a potion...”
 
 “Mister! Mister!”
 
-“He’s completely unresponsive…”
+“He’s completely unresponsive...”
 
 As the voices gradually grew louder, I slowly opened my eyes.
 
-“Mister…!”
+“Mister...!”
 
-“I’m… fine… Stop.”
+“I’m... fine... Stop.”
 
 “Ah! Sorry!”
 
@@ -169,9 +169,9 @@ When I asked for a status report, the chief pointed to a spot nearby.
 
 I strained my stiff neck to turn and saw Gahyun lying beside me with a clearly broken leg.
 
-“He’s not dead. Seems like he used magic at the last second to slow his fall. I gave him a potion, but… no idea when he’ll wake up.”
+“He’s not dead. Seems like he used magic at the last second to slow his fall. I gave him a potion, but... no idea when he’ll wake up.”
 
-Right, got it…
+Right, got it...
 
 “And you?”
 
@@ -181,11 +181,11 @@ Lucky him.
 
 If my defense stats had been the same, my body wouldn’t have been this wrecked.
 
-“…Any enemies nearby?”
+“...Any enemies nearby?”
 
 “None for now. Focus on healing.”
 
-“Got it. By the way, your tone…”
+“Got it. By the way, your tone...”
 
 “Well, I outrank you in both age and title, don’t I? After facing death together, I figure I can speak a little more casually.”
 
@@ -193,7 +193,7 @@ Fair enough.
 
 It’s not like anyone would question a sudden shift in speech.
 
-“Then I’ll just… rest a little longer…”
+“Then I’ll just... rest a little longer...”
 
 After that, I closed my eyes until my body recovered enough to move on my own.
 
@@ -219,11 +219,11 @@ Honestly, I wasn’t sure what the best course of action was.
 
 This was my first time in this rift, after all.
 
-From its unusual structure to the Karui priest…
+From its unusual structure to the Karui priest...
 
 Frankly, it was giving me a headache.
 
-But…
+But...
 
 “No, first we’ll secure carry Gahyun with us and scout the area.”
 
@@ -255,13 +255,13 @@ I didn’t know there was a notebook.
 
 I had received the bag right before entering the rift and the village chief had even instructed me to leave it behind outside just in case.
 
-‘I’ll check the notebook as soon as we get out…’
+‘I’ll check the notebook as soon as we get out...’
 
 As we moved through the rubble—
 
-“……”
+“......”
 
-“……”
+“......”
 
 But at this point, We all knew what it meant.
 
@@ -287,15 +287,15 @@ And as we kept moving on, we again came face to face with the Lord of Silence, S
 
 As I had expected, it wasn’t in good condition. Of the three arms exposed to the air, two of them had bones protruding out of them. It blinked at us, seemingly without the strength to even move out of the rubble.
 
-“….”
+“....”
 
 Seeing that it was no longer a threat, I felt relieved, but it also sent chills down my spine.
 
-I knew the explosion was powerful, but to reduce a Floor Lord to this state…
+I knew the explosion was powerful, but to reduce a Floor Lord to this state...
 
 What would’ve happened if we’d taken the blast head-on?
 
-‘The High Priest… isn’t here.’
+‘The High Priest... isn’t here.’
 
 After scanning the area, I set down Erwin and slowly approached the creature.
 
@@ -305,7 +305,7 @@ It didn’t react as I got closer.
 
 It just stared at me with weary eyes.
 
-“….”
+“....”
 
 Once I was within arm’s reach, I carefully stretched out my hand and touched its face.
 
@@ -321,7 +321,7 @@ Not that it would’ve answered even if I could speak.
 
 So I answered myself.
 
-‘…Right, you must have your own reasons too.’
+‘...Right, you must have your own reasons too.’
 I’m beginning to understand this labyrinth.
 
 The Rift Guardians, the Floor Lords they were once real beings that eisted
@@ -340,7 +340,7 @@ A simple hand gesture.
 
 But I silently shook my head and gestured for him to fall back.
 
-“…?”
+“...?”
 
 Although he was puzzled, the village chief complied, likely out of respect for our agreement.
 
@@ -354,7 +354,7 @@ The village chief asked.
 
 Honestly, I wasn’t sure why I made that choice.
 
-But…
+But...
 
 “Hmm. I suppose that makes sense.”
 
@@ -372,13 +372,13 @@ If I killed it, I might’ve gotten all that.
 
 But I didn’t.
 
-“It’s not pity, but…”
+“It’s not pity, but...”
 
 It was hard to explain.
 
 Just an impulsive decision—
 
-[Come here…]
+[Come here...]
 
 Then, the mysterious voice returned again, cutting off my thoughts.
 
@@ -386,7 +386,7 @@ It came from the opposite direction of the Floor Lord.
 
 At least one thing was clear now.
 
-‘So it wasn’t the Floor Lord’s voice…’
+‘So it wasn’t the Floor Lord’s voice...’
 
 The perverted voice luring us in didn’t belong to the Floor Lord.
 
@@ -398,27 +398,27 @@ I nodded, and the village chief took the lead.
 
 After following at a distance with Erwin, we soon found the source.
 
-[Good…]
+[Good...]
 
-[Yes, come closer…]
+[Yes, come closer...]
 
 It was something I never expected.
 
-“A Soul Eater…?”
+“A Soul Eater...?”
 
 A Level 5 rare monster.
 
 Only one ever spawns in the Great Demon Realm when a labyrinth opens—and killing it gives 100 to 200 EXP.
 
-[I shall grant your deepest desire…]
+[I shall grant your deepest desire...]
 
-What… is this?
+What... is this?
 
 Wasn’t this supposed to be a boss-level encounter?
 
 「The Soul Eater has summoned [Phantom Knights].」
 
-The skills looked pretty standard too…
+The skills looked pretty standard too...
 
 SREEEEEEECH!!
 
@@ -434,7 +434,7 @@ Something that seemed significant but was, in reality, just an ordinary mob.
 
 I could’ve dismissed it as that and moved on.
 
-But…
+But...
 
 ‘What the hell is this now?’
 
@@ -450,4 +450,4 @@ A portal appeared, signaling that the rift had been cleared.
 
 Red and blue.
 
-For some reason… there were two of them.
+For some reason... there were two of them.

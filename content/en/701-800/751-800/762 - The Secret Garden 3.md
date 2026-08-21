@@ -12,7 +12,7 @@ Finally, Baek-ho broke his concentration on the fight and lifted his head to loo
 
 However, his gaze was slightly off. It was the kind of look that said, ‘What’s wrong with this guy?’
 
-“…Why are you looking at me like that?” Aures asked.
+“...Why are you looking at me like that?” Aures asked.
 
 “I was wondering if you were asking seriously.”
 
@@ -28,7 +28,7 @@ However, his gaze was slightly off. It was the kind of look that said, ‘What�
 
 “Wow, I am never betting on horses with you.”
 
-“Betting…?”
+“Betting...?”
 
 “Forget it. Don’t talk to me.”
 
@@ -38,7 +38,7 @@ After a while, Rek Aures cautiously spoke to him again.
 
 He didn’t want to interrupt, especially after being told not to, but he couldn’t bear his curiosity any longer.
 
-“Uh… Baek-ho?”
+“Uh... Baek-ho?”
 
 Without even taking his eyes off the fight, Lee Baek-ho replied mechanically.
 
@@ -50,11 +50,11 @@ Aures thought Baekho might realize he was acting out of character by asking that
 
 “Then shouldn’t I watch intensely? What if our Baron has another card I don’t know about?”
 
-“Ah… I-is that so…?”
+“Ah... I-is that so...?”
 
 Aures was left speechless by Lee Baek-ho’s “isn’t it obvious” tone. In fact, just as Lee Baek-ho said, a ‘hidden card’ did appear.
 
-“A flower crown…? He had an item like that? Judging by how he escaped immediately after using it, it’s probably a mental defence type…”
+“A flower crown...? He had an item like that? Judging by how he escaped immediately after using it, it’s probably a mental defence type...”
 
 Baek-ho’s eyes lit up as he hurriedly pulled out a notebook and began scribbling furiously. His pen raced across the page at lightning speed, sharp, excited breaths flaring through his nose. As he wrote, he even licked his lips, like someone savoring a tempting sight.
 
@@ -78,7 +78,7 @@ The moment I equipped the Crown of Agony and broke free from his illusion, final
 
 His face was pure denial.
 
-‘…He got out? No, this must be a mistake.’ I could practically read his thoughts.
+‘...He got out? No, this must be a mistake.’ I could practically read his thoughts.
 
 Of course, he soon realized the cold reality.
 
@@ -147,7 +147,7 @@ Whooooooong—!
 
 The greatsword tore through the air toward him, and the last expression on his face was a smile.
 
-No, to be precise…
+No, to be precise...
 
 “Ha.”
 
@@ -199,7 +199,7 @@ Then—
 
 He landed beside me and greeted me casually.
 
-“…What the hell are you scheming?”
+“...What the hell are you scheming?”
 
 “Scheming? It’s cold to say that to someone who came to help.”
 
@@ -207,9 +207,9 @@ Hah, tell me something believable.
 
 “By the way, he’s probably not dead yet.”
 
-“…”
+“...”
 
-“Oh… you don’t know his essence?”
+“Oh... you don’t know his essence?”
 
 I don’t.
 
@@ -253,7 +253,7 @@ At Baek-ho’s words, I turned my head to see the Orcules members quickly retrie
 
 The makeshift transport team appeared to consist entirely of agility based characters, judging by their speed. I could not even attempt to chase them.
 
-So I looked at Lee Baek-ho, but…
+So I looked at Lee Baek-ho, but...
 
 “Huh? Me? Why?”
 
@@ -276,7 +276,7 @@ Baek-ho greeted Amelia, but she didn’t even look at him.
 
 “Let’s go. We’ll leave this place to them.”
 
-“…Huh? You’re leaving us? Hey? Excuse me?”
+“...Huh? You’re leaving us? Hey? Excuse me?”
 
 Amelia ignored Baekho’s grumbling yet again. I did the same.
 
@@ -284,7 +284,7 @@ Amelia ignored Baekho’s grumbling yet again. I did the same.
 
 I deactivated[Gigantification] and let my companions climb onto my normal-sized body. Baek-ho clicked his tongue.
 
-“Seriously, look at these selfish bastards… How did my life end up like this…”
+“Seriously, look at these selfish bastards... How did my life end up like this...”
 
 When I stared at him, he let out a faint snort.
 
@@ -292,7 +292,7 @@ When I stared at him, he let out a faint snort.
 
 “I wasn’t planning to thank you.”
 
-“…Excuse me?”
+“...Excuse me?”
 
 I gave him a look that clearly warned him not to try anything funny while I was gone, then leapt up through the ceiling.
 
@@ -316,11 +316,11 @@ I turned to Eltora.
 
 “Where did your father go?”
 
-“…W-Well? I-I wonder where he might have gone?”
+“...W-Well? I-I wonder where he might have gone?”
 
 “Do not try to dodge the question.”
 
-“Maybe… since things got dragged out back there, he moved to another hideout…?”
+“Maybe... since things got dragged out back there, he moved to another hideout...?”
 
 Yeah. No shit.
 
@@ -336,7 +336,7 @@ The location wasn’t too far away, so I changed course immediately and ran.
 
 Finally, we arrived at ‘that place’.
 
-“…………Eh?”
+“............Eh?”
 
 I encountered someone I never expected to see.
 

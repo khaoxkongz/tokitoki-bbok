@@ -12,7 +12,7 @@ Lee Baek-ho must also somehow be connected to the Record Stone.
 
 The reason? Lee Baek-ho, like the GM, had an obsession with the nickname ‘Elfnuna’.
 
-But…
+But...
 
 [Hmm, really?]
 
@@ -30,7 +30,7 @@ So, there was only one method left.
 
 To ask someone who could give me an answer directly.
 
-“…….”
+“.......”
 
 Lee Baek-ho remained silent when I asked him what the Record Stone was.
 
@@ -42,7 +42,7 @@ Asking him casually, without any context, proved worthwhile. Maybe he’d decide
 
 Lee Baek-ho continued to watch me in silence, as if to gauge my intentions.
 
-And then…
+And then...
 
 “Hyung.”
 
@@ -96,7 +96,7 @@ I brought up the topic that would most likely shake him.
 
 No matter how tall a tree is. If you shake it hard enough, at least one leaf will fall.
 
-“……!”
+“......!”
 
 When I mentioned the name, which had never been brought up between us before, Lee Baek-ho’s eyes wavered ever so slightly.
 
@@ -108,7 +108,7 @@ I revealed another card I had been holding.
 
 Lee Baek-ho’s reaction was immediate.
 
-“…What are you talking about?”
+“...What are you talking about?”
 
 A question that was neither affirmation nor denial.
 
@@ -120,7 +120,7 @@ I needed to push harder.
 
 “Baek-ho.”
 
-“…?”
+“...?”
 
 “You know what? From the moment we first met until now. We’ve never once talked about ‘Elfnuna.’”
 
@@ -136,11 +136,11 @@ In the heavy silence, only the crackle of burning firewood filled the air.
 
 I didn’t push further, giving him time to think. In situations like this, the one lying is always the first to crack under the weight of silence.
 
-“Hyung…”
+“Hyung...”
 
 He finally broke the silence slowly.
 
-“…What exactly do you want to ask me?”
+“...What exactly do you want to ask me?”
 
 This guy still wants to walk the tightrope, huh? Only giving away as much as he needs to.
 
@@ -172,13 +172,13 @@ Tsk. This bastard is still trying to play games with me.
 
 I almost fell for it.
 
-“…….”
+“.......”
 
 I stayed silent, staring him down until Baek-ho shook his head vigorously.
 
-“…Hyung, were you really just an office worker?”
+“...Hyung, were you really just an office worker?”
 
-“…….”
+“.......”
 
 “Seriously, I’m curious. What kind of life did you live to become like this?”
 
@@ -186,13 +186,13 @@ What’s he talking about? He’s just a fresh-out-of-the-military buzz-cut kid.
 
 I didn’t answer this time either, and Lee Baek-ho let out a long sigh.
 
-“Ha… Fine. I’ll talk. Honestly, part of me thinks you’re just fishing… but I’d rather come clean and get this over with.”
+“Ha... Fine. I’ll talk. Honestly, part of me thinks you’re just fishing... but I’d rather come clean and get this over with.”
 
 “Go ahead.”
 
 “Do you believe in fate?”
 
-“……”
+“......”
 
 “Ah, really, Can’t you say anything?. Then I’ll just explain, and you can take it or leave it, okay?”
 
@@ -212,7 +212,7 @@ Actually, what I’m about to tell you has that kind of vibe too.
 
 Muttering to himself, Lee Baek-ho continued.
 
-“Anyway, the Record Stone also has an end. Of course, that end signifies the destruction of this world. The beginning of that destruction was said to be caused by a witch… but I don’t know much about that part. All I know is this.”
+“Anyway, the Record Stone also has an end. Of course, that end signifies the destruction of this world. The beginning of that destruction was said to be caused by a witch... but I don’t know much about that part. All I know is this.”
 
 “To prevent the destruction, someone destroyed the Record Stone, and because of that, this world didn’t perish.”
 
@@ -234,7 +234,7 @@ His words pissed me off a little.
 
 What do you mean, you’ve seen them?
 
-[The Fragment of Records…? I’ve heard of it, but it actually existed?]
+[The Fragment of Records...? I’ve heard of it, but it actually existed?]
 
 This guy has been lying since back then.
 
@@ -252,13 +252,13 @@ A line that sounded like it came straight from an ending scene.
 
 “Since the evil spirit’s name wasn’t mentioned, it’s impossible to say for sure who it is. It’s because the Record Stone refers to people’s names not with letters, but with unique symbols. Something about the true name attached to your soul or something.”
 
-“……”
+“......”
 
 “Anyway, that’s not the important part. I’ve also seen this unique pattern on another fragment. And it said this.”
 
 Ba-dumb-!
 
-“…‘Blank’ the first to pass the Test, finally opened their their to this world.”
+“...‘Blank’ the first to pass the Test, finally opened their their to this world.”
 
 This finally explained why Auril Gavis was so fixated on the person who had cleared the Original Difficulty.
 
@@ -266,19 +266,19 @@ It also suddenly made sense why the GM had become an Elfnuna fanatic.
 
 And why Baek-ho had been so afraid of antagonizing me.
 
-“Hyung… You’ve been dead silent. If you really knew nothing about the Record Stone, this should be the part that shocks you.”
+“Hyung... You’ve been dead silent. If you really knew nothing about the Record Stone, this should be the part that shocks you.”
 
 Even as I stayed quiet, sorting through my thoughts, Baek-ho pressed on.
 
-“What’s so important about some old record? It’s all broken anyway. Meaningless. That’s what I thought at first. But I was wrong. The last fragment I saw… actually came true.”
+“What’s so important about some old record? It’s all broken anyway. Meaningless. That’s what I thought at first. But I was wrong. The last fragment I saw... actually came true.”
 
-“……What did it say?”
+“......What did it say?”
 
 When I finally broke my silence. Baek-ho smirked and replied.
 
 “That’s a secret.”
 
-“……What?”
+“......What?”
 
 I gave him a sharp look, but he remained unconcerned.
 
@@ -286,13 +286,13 @@ I gave him a sharp look, but he remained unconcerned.
 
 Pushing further would’ve been pointless. Something in my gut told me his “personal” excuse wasn’t a lie.
 
-“Ah… So, I guess we’re done talking about the Record Stone… Next up is ‘Elfnuna’, right?”
+“Ah... So, I guess we’re done talking about the Record Stone... Next up is ‘Elfnuna’, right?”
 
 When I nodded, Lee Baek-ho resumed the story he had stopped.
 
 “I created this chat room right after learning about the Record Stone. I waited. The person most likely to clear the original difficulty would be ‘Elfnuna.’ And that person would be Korean.”
 
-“……”
+“......”
 
 “After that, it’s as you guessed. From the moment you arrived, I had a feeling you might be that person. That expectation wasn’t wrong.”
 
@@ -340,11 +340,11 @@ I looked at him for an explanation, and he shrugged vigorously, as if he’d hea
 
 “It’s exactly what it sounds like. The stories written on the Record Stone are guaranteed to come true. However, it’s impossible for me to know whether what I want will actually happen.
 
-“…Go on.”
+“...Go on.”
 
 “You will definitely open the Abyss Gate someday. But does that mean it’s a happy ending? Even if your wish is granted, does that include my wish?”
 
-“……”
+“......”
 
 “That’s why I didn’t tell you. I wanted to handle it somehow before you learned anything. To make sure your wish would become my wish, too.”
 
@@ -368,7 +368,7 @@ I asked the final question lingering in my mind.
 
 At this, Lee Baek-ho froze for a moment before letting out a hollow laugh.
 
-“Ha… Hyung, do you have a lie detector installed in your head or something?”
+“Ha... Hyung, do you have a lie detector installed in your head or something?”
 
 A lie detector? Right, coming from the guy who practically acts like he’s got one himself.
 
@@ -376,13 +376,13 @@ A lie detector? Right, coming from the guy who practically acts like he’s got 
 
 When I pressed again, Lee Baek-ho slowly began to speak.
 
-“Hyung, y’know… I’m not sure how this’ll sound to you…”
+“Hyung, y’know... I’m not sure how this’ll sound to you...”
 
 “Just spit it out.”
 
-“Don’t… worry too much about the Ruin Scholar. He’s just Plan B.”
+“Don’t... worry too much about the Ruin Scholar. He’s just Plan B.”
 
-“Plan B…?”
+“Plan B...?”
 
 “Yeah. The world doesn’t always go the way you want, right?”
 
@@ -392,7 +392,7 @@ not bothering to hide the deranged madness beneath his words.
 
 “Gotta prepare for when Plan A goes to shit.”
 
-“……”
+“......”
 
 “I’m getting the hell out of this world. No matter what.”
 

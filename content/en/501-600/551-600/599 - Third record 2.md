@@ -14,13 +14,13 @@ It’s almost like getting hired by a major corporation.
 
 In reality, most 5th floor explorers enter the labyrinth as if going to work. Upon arriving at the fifth floor, they head to their usual hunting grounds and mine mana stones nonstop until the labyrinth closes, then get paid according to their performance.
 
-Well, some dislike this lifestyle and choose to operate their own teams instead of joining a clan…
+Well, some dislike this lifestyle and choose to operate their own teams instead of joining a clan...
 
 ‘I suppose those people are more like successful small business owners.’
 
 Regardless, they remain top-tier marriage candidates.
 
-But…
+But...
 
 “It is ironic.”
 
@@ -28,7 +28,7 @@ Marriage desirability peaks on the fifth floor and then steadily declines starti
 
 Ah, and for reference, this is based on a book I found in the library.
 
-Apparently, the data was compiled into a book after surveying over ten thousand residents… And the reason for their decreased favorability was pretty interesting.
+Apparently, the data was compiled into a book after surveying over ten thousand residents... And the reason for their decreased favorability was pretty interesting.
 
 1st: It seems too dangerous.
 2nd: It seems unrealistic to meet someone like that.
@@ -46,7 +46,7 @@ Because of this, many famous explorers are known to have eccentric personalities
 
 At the village chief’s voice, I snapped out of my thoughts.
 
-“Ah… I was just checking the surroundings.”
+“Ah... I was just checking the surroundings.”
 
 It wasn’t a random excuse. I had actually been surveying the area, and my thoughts drifted from there.
 
@@ -54,7 +54,7 @@ The fifth floor of the labyrinth, the Great Demon Realm.
 
 Despite its fearsome name, this floor is actually quite safe.
 
-But…….
+But.......
 
 “It’s a bit different from what I remember.”
 
@@ -74,21 +74,21 @@ A rare monster that is difficult to encounter due to its specific spawning condi
 
 I still haven’t received any experience points from it.
 
-‘It’s not like I need its essence, so there’s no point in the three of us going out of our way to hunt it…’
+‘It’s not like I need its essence, so there’s no point in the three of us going out of our way to hunt it...’
 
 At first, I tensed up when I saw it, but for some reason, the creature just stared at us without approaching.
 
 “Gahyunn, do you have any intuition about which direction we should go?”
 
-“…None at all. No instincts are coming to me. It’s as if my ability itself has disappeared since we arrived here…”
+“...None at all. No instincts are coming to me. It’s as if my ability itself has disappeared since we arrived here...”
 
-Hmm, is that so…
+Hmm, is that so...
 
 “Still, I can’t shake the feeling that this place is the final trial.”
 
-“Uh…isn’t that just wishful thinking?”
+“Uh...isn’t that just wishful thinking?”
 
-“Baron… That’s a bit… Well, I can’t deny it, but…”
+“Baron... That’s a bit... Well, I can’t deny it, but...”
 
 Gahyun let out a deep sigh and grumbled.
 
@@ -102,7 +102,7 @@ After all, I hadn’t been playing for even twenty-four hours here.
 
 Jerome cut through the awkward atmosphere and refocused the discussion.
 
-And then…
+And then...
 
 “Isn’t it obvious?”
 
@@ -118,9 +118,9 @@ What the hell?
 
 We both tried to give each other a chance to speak, but we ended up talking over each other again, which made us both feel awkward.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Internally, though, I was thinking, “Can I just talk now? What if I talk at the same time as him again?”
 
@@ -148,7 +148,7 @@ The village chief stepped in with a neutral expression to resolve the situation.
 
 “Stop acting immature over something like this. You both pointed to the same place earlier, so you’re probably thinking the same thing. Right?”
 
-“Well… I guess so…”
+“Well... I guess so...”
 
 “I agree.”
 
@@ -170,9 +170,9 @@ I decided to ignore it and spoke up. Unfortunately, so did Gahyun.
 
 Gahyun and I looked at each other and fell into awkward silence again.
 
-“……?”
+“......?”
 
-“……?”
+“......?”
 
 Damn, I really don’t get along with this old man.
 
@@ -200,9 +200,9 @@ After all, treasures are usually hidden in such places.
 
 “T-That’s too much of a leap!”
 
-“Gahyun, in rifts, you must consider every possibility and stay cautious. Especially in a place you’ve never been. Judging by your careless words…”
+“Gahyun, in rifts, you must consider every possibility and stay cautious. Especially in a place you’ve never been. Judging by your careless words...”
 
-“……?”
+“......?”
 
 “You are a mage. Not an explorer.”
 
@@ -216,11 +216,11 @@ We had argued just like this back then, too.
 
 Seeing no point in wasting time, I left the decision up to the village chief. Of course, the outcome was already set.
 
-“Hmm… I think I’ll side with the Baron on this one.”
+“Hmm... I think I’ll side with the Baron on this one.”
 
 The village chief pretended to think for a moment before raising my hand.
 
-“W-What the…!”
+“W-What the...!”
 
 Gahyun didn’t seem pleased, but he couldn’t argue directly against the chief.
 
@@ -234,11 +234,11 @@ I approached the high priest, who had been unusually quiet.
 
 “High Priest, why are you standing alone by yourself?”
 
-“Oh… Ah! I was just deep in thought. About the evil god, that is. I was wondering if this might be where we finally meet him.”
+“Oh... Ah! I was just deep in thought. About the evil god, that is. I was wondering if this might be where we finally meet him.”
 
 “Why? Nervous about it?”
 
-“Well… I’m not sure.”
+“Well... I’m not sure.”
 
 The high priest’s expression was deeply troubled.
 
@@ -248,7 +248,7 @@ As a non-religious person, I couldn’t understand, but it wasn’t something I 
 
 “Whatever your concerns are, I don’t care. Just don’t let them slow us down. Understood?”
 
-“…I’ll manage on my own.”
+“...I’ll manage on my own.”
 
 Tch, the way he talks.
 
@@ -258,13 +258,13 @@ By the way, the instructor wasn’t me, but Gahyun.
 
 Though he lacked the explorer’s mindset, his knowledge wasn’t lacking.
 
-‘A few details were missing, but…’
+‘A few details were missing, but...’
 
 Well, it didn’t matter.
 
 If I had explained, it would’ve just seemed odd.
 
-…And it was annoying.
+...And it was annoying.
 
 「You have defeated the Vandemon. EXP +7」
 
@@ -290,7 +290,7 @@ Something else bothered me more.
 
 “It wasn’t even hard. What’s an old man like you so scared of?”
 
-“…Baron, what did you just say?”
+“...Baron, what did you just say?”
 
 “Nothing?”
 
@@ -300,19 +300,19 @@ Something else bothered me more.
 
 It might’ve seemed childish, but I wasn’t about to let Gahyunn have the last word.
 
-After all…
+After all...
 
 ‘Since when did he start acting so high and mighty? He’s a noble, sure, but he doesn’t even hold a title.’
 
 I needed to put him in his place at least once—
 
-“Mister…”
+“Mister...”
 
 Just as I was about to press further, Erwin called out to me.
 
-“…What is it?”
+“...What is it?”
 
-“I-It’s nothing…”
+“I-It’s nothing...”
 
 “Nothing? Spit it out.”
 
@@ -324,7 +324,7 @@ For some reason, a laugh escaped me at her careful words.
 
 Now that I think about it, everyone always had their own expectations of me.
 
-Her, Amelia, even Misha…
+Her, Amelia, even Misha...
 
 “Oh, I see. This isn’t the version of me you like, huh?”
 
@@ -334,13 +334,13 @@ She looked at me with fear.
 
 A look I’d never seen from her before.
 
-“What… is this?”
+“What... is this?”
 
 That expression instantly brought me back to my senses.
 
 At the same time, I vividly felt the flood of emotions that had been surging through me.
 
-I hadn’t noticed the change until now because it had felt so natural…
+I hadn’t noticed the change until now because it had felt so natural...
 
 “Damn it.”
 
@@ -352,13 +352,13 @@ BOOM!
 
 I bent over and slammed my forehead hard against the hammer’s head.
 
-“Hah… Now I’m finally coming to my senses.”
+“Hah... Now I’m finally coming to my senses.”
 
 The moment we entered the Great Demon Realm, something had gone wrong with my head.
 
-No, perhaps…
+No, perhaps...
 
-“So barbaric…W-Why are you suddenly looking at me like that?”
+“So barbaric...W-Why are you suddenly looking at me like that?”
 
 Maybe I wasn’t the only one affected.
 

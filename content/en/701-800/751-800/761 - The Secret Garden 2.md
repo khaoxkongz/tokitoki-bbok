@@ -16,20 +16,20 @@ The improvised army of mages and ability users combined their powers to erect a 
 
 “If it’s not transparent, don’t use it at all!”
 
-“Ah, no… everyone else was doing it, so I thought I should too. And safety is important, isn’t it…?”
+“Ah, no... everyone else was doing it, so I thought I should too. And safety is important, isn’t it...?”
 
 “Don’t do it! If something breaks through the barrier, just take the hit!”
 
 A few talented individuals who missed their chance to show off looked visibly dejected,
 but the consumer’s logic was cold. Their spots were quickly filled by other capable performers.
 
-“…Rise! ‘Twilight Veil’!”
+“...Rise! ‘Twilight Veil’!”
 
 “Oh! It’s a bit yellowish, but still better than before!”
 
-“But why did you say ‘rise up’? It just looks like fog gathering…”
+“But why did you say ‘rise up’? It just looks like fog gathering...”
 
-“…Don’t ask.”
+“...Don’t ask.”
 
 In any case, for something thrown together on the spot, the duel arena was surprisingly high in quality.
 
@@ -45,7 +45,7 @@ A few of them were cheering for me too. By a few, I meant one. Well, technically
 
 “Bjornnnnnnn! Mighty Warrior!!! Auyen! What are you doing! Why aren’t you shouting?!”
 
-“I-I’m rooting for you, Captain…!”
+“I-I’m rooting for you, Captain...!”
 
 Auyen seemed to be saying something, but between Aynar’s thunderous voice and the interference of the barriers, it didn’t come through well. Not that it was important.
 
@@ -55,7 +55,7 @@ When I stared at her as if to ask ‘Why aren’t you cheering?’, she let out 
 
 Judging by her lips, it was probably something like, “Do your best.”
 
-Honestly… teasing her is half the fun.
+Honestly... teasing her is half the fun.
 
 I gave a small smirk in response, then tilted my head back to check the roof of the three-story building.
 
@@ -67,7 +67,7 @@ He looked exactly like a bully who had forced two quiet classmates to fight and 
 
 The Vice-Captain of Orcules vs. me. A fight that broke out in the middle of the street thanks to a particular troublemaker.
 
-“In many ways, he really is something else…”
+“In many ways, he really is something else...”
 
 Though his behavior often came across as childish, I knew better than to underestimate him. It was a deliberate act, much like the times I played the role of an ignorant barbarian when it suited me. History
 
@@ -83,7 +83,7 @@ It was time to devote everything I had to solving the problem at hand.
 
 Demon Eye, Roland Banojant.
 
-Not much was known about him publicly, but the most important detail was that he was an ability user….
+Not much was known about him publicly, but the most important detail was that he was an ability user....
 
 And—
 
@@ -121,9 +121,9 @@ The Evil Eye, standing a certain distance away, spoke to me.
 
 “Seeing you accept a fight you know you’re going to lose, you must have had no other choice.”
 
-It took me a moment to process what he was saying. But…
+It took me a moment to process what he was saying. But...
 
-…Wait. He’s serious?
+...Wait. He’s serious?
 
 From his perspective, it made sense. He was a veteran expert ranked at the top of the famous Golden Generation. No matter how much fame I had gained recently, to him, I must feel like a greenhorn who hasn’t even seen the 9th floor.
 
@@ -131,17 +131,17 @@ From his perspective, it made sense. He was a veteran expert ranked at the top o
 
 Tank builds were bad in one-on-one fights.
 
-Sure, if you go with a PVP build, it’s decent… but then there’s no reason to be a tanker in that case. A tanker exists for “team play.” Therefore, they only truly shine when they have supporters nearby.
+Sure, if you go with a PVP build, it’s decent... but then there’s no reason to be a tanker in that case. A tanker exists for “team play.” Therefore, they only truly shine when they have supporters nearby.
 
 That was the “common sense” of this era.
 
 Or, to be more precise, the common sense of the old era.
 
-So…
+So...
 
 “Well then, let us beg—”
 
-So before this old man, who had no understanding of how the world worked, could finish his sentence…
+So before this old man, who had no understanding of how the world worked, could finish his sentence...
 
 “BEHTERAAAAAAA!!”
 
@@ -161,7 +161,7 @@ As expected, the normal attack didn’t reach him.
 
 [Roland Banozant has cast ‘Green Evil Eye’.]
 
-The moment his eyes turned green…
+The moment his eyes turned green...
 
 Boom!
 
@@ -252,7 +252,7 @@ Those red eyes I was seeing weren’t real.
 
 They only looked that way to me.
 
-In reality, they are…
+In reality, they are...
 
 [Roland Banozant has cast the ‘White Demon Eye’.]
 
@@ -266,7 +266,7 @@ Oh, and since it’s a Grade 1 essence, it’s not just a simple “illusion.”
 
 Unless one escapes the illusion, all damage taken here is applied in reality.
 
-And the broken part about this is…
+And the broken part about this is...
 
 ‘As long as the victim doesn’t break out of the illusion, he can use his skills without limit.’
 
@@ -276,7 +276,7 @@ By “without limit,” I don’t mean cooldowns or soul power consumption. In t
 
 Put simply, the reason those lasers curved wasn’t because he had that particular skill.
 
-‘The story about him killing the former Vice-Captain in one blow… that was probably the illusion he used to kill him.’
+‘The story about him killing the former Vice-Captain in one blow... that was probably the illusion he used to kill him.’
 
 The important thing is that he has optimised his lower-ranked essences perfectly.
 
@@ -316,13 +316,13 @@ Then I get hit again.
 
 If the stacks I had built up from thunder were still active, I would not need to do this. Unfortunately, they faded over time. Several hours had already passed, so there was no way they would still be active.
 
-So…
+So...
 
 [Accumulated damage has exceeded a certain threshold.]
 
 I diligently build up my stats.
 
-And then…
+And then...
 
 ‘Okay, this should be enough.’
 

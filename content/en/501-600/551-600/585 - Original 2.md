@@ -10,7 +10,7 @@ And where I fought the Vampire Duke, Cambormier, a Level 5 monster and the guard
 
 I still remember the conversation we had back then.
 
-[How curious… truly curious…]
+[How curious... truly curious...]
 
 Even then, he looked at us and muttered the same words he had just said.
 
@@ -24,7 +24,7 @@ That wasn’t strange.
 
 Among high-ranking mutants, there were quite a few that could speak.
 
-Of course, hearing such words from Cambormier was unprecedented at the time…
+Of course, hearing such words from Cambormier was unprecedented at the time...
 
 ‘Back then, I just accepted it as it was.’
 
@@ -34,19 +34,19 @@ And Cambormier was my first major hunt.
 
 So, I didn’t dwell too deeply on the issue.
 
-But…
+But...
 
-[“I cannot lose. I must not be defeated…!”]
+[“I cannot lose. I must not be defeated...!”]
 
 The Knight of the Apocalypse, whom I met in the White Temple.
 
 He was more desperate than any other monster I had faced.
 
-[“If no one knows it’s a lie… then how is it any different from the truth?”]
+[“If no one knows it’s a lie... then how is it any different from the truth?”]
 
 The guardian of the fourth-floor rift, the Doppelganger, was no different. His final words were filled with desperation.
 
-[“…Truly remarkable. To even faintly grasp the laws of this world.”]
+[“...Truly remarkable. To even faintly grasp the laws of this world.”]
 
 Even the mysterious being I met in the reward chamber after defeating Dreadfear said something ominous:
 
@@ -62,7 +62,7 @@ What were the Guardians and the Floor Lords?
 
 And what lies beyond the Gate of the Abyss?
 
-‘…Maybe.’
+‘...Maybe.’
 
 Maybe today, I could finally get closer to the answer.
 
@@ -76,11 +76,11 @@ Before that curiosity could fade, I cut off my thoughts and finally spoke.
 
 “You’re right—we’ve met before. In the Blood Tinted Castle.”
 
-“Blood Tinted Castle…”
+“Blood Tinted Castle...”
 
 The vampire quietly repeated the name before looking at me again and murmuring:
 
-“Then I suppose it makes sense that I have no memory of it. By that time, I had already become…this.”
+“Then I suppose it makes sense that I have no memory of it. By that time, I had already become...this.”
 
 His response sent an inexplicable chill down my spine.
 
@@ -96,11 +96,11 @@ But since I didn’t know how long this would last, I hurried to continue the co
 
 He probably just meant that he’d become a vampire. I was hoping for something more dramatic, like being trapped in a Labryinth or captured by a witch.
 
-‘So… was this guy originally human too?’
+‘So... was this guy originally human too?’
 
 I wanted to be sure about that, but unfortunately, the Mr. Vampire spoke first.
 
-“So… where exactly is this place? And why am I here?”
+“So... where exactly is this place? And why am I here?”
 
 Honestly, I had no idea how to answer.
 
@@ -110,31 +110,31 @@ There was a wall between our conversation that couldn’t be explained by words 
 
 It was like a person from the past encountering someone from the future, each attempting to communicate without understanding the other’s situation.
 
-“…This is the labyrinth. I was exploring it when I found you.”
+“...This is the labyrinth. I was exploring it when I found you.”
 
-“The labyrinth…? What is that?”
+“The labyrinth...? What is that?”
 
 Our common sense didn’t align, so the conversation kept skimming the surface.
 
 So, I cautiously asked:
 
-“Before I explain… could you tell me your story first?”
+“Before I explain... could you tell me your story first?”
 
-“My story…?”
+“My story...?”
 
 “Anything is fine. I’m just curious about your last memories.”
 
-“Hmm…”
+“Hmm...”
 
 The Mr. Vampire hesitated briefly before slowly speaking.
 
-“The Three God’s Church’s army came to kill me. I lost that battle, closed my eyes praying for peace… and now I’ve awakened here.”
+“The Three God’s Church’s army came to kill me. I lost that battle, closed my eyes praying for peace... and now I’ve awakened here.”
 
-“…”
+“...”
 
-“The moment I opened my eyes, I saw you… and felt like I’d met you somewhere before. Ah, and the madness that tormented me so terribly… it’s gone. I can’t remember the last time my mind was this clear…”
+“The moment I opened my eyes, I saw you... and felt like I’d met you somewhere before. Ah, and the madness that tormented me so terribly... it’s gone. I can’t remember the last time my mind was this clear...”
 
-“…I see.”
+“...I see.”
 
 “Now, will you tell me? Where is this place you call the labyrinth?”
 
@@ -150,7 +150,7 @@ The information the clown had revealed at the Round Table after crossing the wal
 
 [“The Three God’s Church army came to kill me.”]
 
-The Three God’s Church, which existed in our world and still thrived with influence…
+The Three God’s Church, which existed in our world and still thrived with influence...
 
 It didn’t take long for me to reach a conclusion.
 
@@ -158,7 +158,7 @@ Well, it was still a speculation in the end.
 
 The labyrinth was constructed based on real events and locations from the past.
 
-And…
+And...
 
 “Cambormere, don’t be startled, but listen carefully.”
 
@@ -166,13 +166,13 @@ And…
 
 “First, the undeniable truth is that thousands of years have passed since your death.”
 
-“…What do you mean? I’m clearly alive right now!”
+“...What do you mean? I’m clearly alive right now!”
 
 From here on out, it was all my speculation.
 
-“No, you’re already dead. And the you standing before me now… is likely a recreated existence.”
+“No, you’re already dead. And the you standing before me now... is likely a recreated existence.”
 
-“…I can’t comprehend this at all.”
+“...I can’t comprehend this at all.”
 
 For the first time, hostility flickered in the vampire uncle’s eyes.
 
@@ -180,7 +180,7 @@ I had expected this reaction.
 
 I mean, who wouldn’t react like that if a stranger suddenly told them, “You’re already dead”?
 
-‘…Still, this method is tough.’
+‘...Still, this method is tough.’
 
 There had been an easier path.
 
@@ -194,7 +194,7 @@ I just didn’t want to do it that way.
 
 It was time to move past such methods.
 
-If I wanted to be someone who could express anger fairly when treated unfairly…
+If I wanted to be someone who could express anger fairly when treated unfairly...
 
 “Cambormere, calm down and listen. I’ll explain why I think that.”
 
@@ -208,15 +208,15 @@ What the Labryinth was.
 
 What the modern world and cities looked like now, and how the world had changed.
 
-What I’d seen and experienced while exploring the Labrinth. And finally… the circumstances of our first encounter.
+What I’d seen and experienced while exploring the Labrinth. And finally... the circumstances of our first encounter.
 
 Explaining all of it took far more time and effort than I’d imagined.
 
 The Mr. Vampire struggled to understand the vast gap in common sense caused by thousands of years. At times, he outright rejected what I said in fury.
 
-But…
+But...
 
-“…Enough. I understand now. Why you said those things.”
+“...Enough. I understand now. Why you said those things.”
 
 Eventually, he raised the white flag.
 
@@ -224,19 +224,19 @@ But there was one question he couldn’t seem to let go of.
 
 “There’s something I don’t understand.”
 
-“…What is it? Tell me. I’ll explain as many times as it takes—”
+“...What is it? Tell me. I’ll explain as many times as it takes—”
 
 “Why did you go to such lengths to tell me all this? If you’re right, then I’m nothing more than a created being. For all we know, today’s events may be erased from my memory—just as I forgot meeting you before.”
 
 It wasn’t a question I expected—but I still answered honestly.
 
-“…If I were you, I’d still want to know the truth.”
+“...If I were you, I’d still want to know the truth.”
 
-“……”
+“......”
 
 “That’s why I told you. I figured if I was honest with you first, maybe I could get your help in return.”
 
-“I see…”
+“I see...”
 
 The Mr. Vampire seemed to think deeply for a while, and then finally spoke.
 
@@ -248,19 +248,19 @@ I took a deep breath and replied,
 
 “Cambormere, I want to know about you.”
 
-“About… me?”
+“About... me?”
 
 “Yeah. How you lived. What kind of world did you live in? What you went through to become like this. Just like I told you everything—I want to hear it all.”
 
 The Mr. Vampire looked surprised at first, as if hearing something unexpected. But soon, he nodded solemnly.
 
-“I’ll tell you. Though it feels strange to speak of my life to a stranger… if what you said is true, then I’m just a puppet anyway, aren’t I? In that case… it might be better to be remembered by someone.”
+“I’ll tell you. Though it feels strange to speak of my life to a stranger... if what you said is true, then I’m just a puppet anyway, aren’t I? In that case... it might be better to be remembered by someone.”
 
-“……”
+“......”
 
-“Still, it feels strange to suddenly talk about my life. Well, where should I begin… Ah, I suppose it’s best to start there.”
+“Still, it feels strange to suddenly talk about my life. Well, where should I begin... Ah, I suppose it’s best to start there.”
 
-“…”
+“...”
 
 “I had a daughter.”
 
@@ -278,7 +278,7 @@ After all, records from that era were nearly lost to time.
 
 “Our Cambormere family, a duchy from a remote minor kingdom, remained relatively untouched by the war. We took no side—neither with the Witch nor the Empire—and waited quietly for the conflict to end.”
 
-Until one day…
+Until one day...
 
 “My only daughter fell ill.”
 
@@ -300,7 +300,7 @@ The priests of Karui healed the daughter using bizarre methods. Every day, screa
 
 There were days she begged him to stop, but the Duke turned a blind eye, insisting it was for her sake.
 
-And so, time passed…
+And so, time passed...
 
 “My daughter rose from her sickbed.”
 
@@ -324,7 +324,7 @@ If word spread that his daughter had become like this, neither the Cambormere Du
 
 His plan was to hide her while searching for a cure.
 
-“But the problem was… she refused to eat.”
+“But the problem was... she refused to eat.”
 
 No matter what delicacies were brought to her, no matter how forcefully she was fed, she rejected everything.
 
@@ -334,15 +334,15 @@ The Duke was powerless.
 
 Then, one day, as he helplessly watched her wither away—
 
-“…One of the knights was killed while bringing her food. She attacked him.”
+“...One of the knights was killed while bringing her food. She attacked him.”
 
-“…”
+“...”
 
-“And then… she ate.”
+“And then... she ate.”
 
 There was no need to ask what she had eaten.
 
-“That girl, who once recoiled at even a fly… was eating. Ravenously.”
+“That girl, who once recoiled at even a fly... was eating. Ravenously.”
 
 The Duke fainted at the sight, but from that day on, his daughter regained her strength.
 
@@ -354,7 +354,7 @@ The Underground Prison could no longer contain her, so he moved her to an underg
 
 Her appetite increased beyond what the criminals could satisfy, forcing the duke to frame innocents to feed her.
 
-“The man I once was would never have made such foolish choices. But… the followers of the Evil God had done something to me as well.”
+“The man I once was would never have made such foolish choices. But... the followers of the Evil God had done something to me as well.”
 
 The Duke’s rational mind had eroded.
 
@@ -382,7 +382,7 @@ Naturally, word reached the Empire and the Three God’s Church, who were at war
 
 Once consumed by cruelty, he constructed a secret chamber deep below his castle for his dark pursuits. There, a holy knight’s blade pierced his heart.
 
-“It’s laughable, but… I prayed.”
+“It’s laughable, but... I prayed.”
 
 Facing death, the Duke prayed.
 
@@ -396,7 +396,7 @@ But how could he speak about it all so calmly?
 
 When I carefully asked, the Duke shook his head, saying he didn’t know himself.
 
-“I can’t say for sure… but it feels like an incredibly long time has passed. If what you say is true, then I suppose it really has been ages…”
+“I can’t say for sure... but it feels like an incredibly long time has passed. If what you say is true, then I suppose it really has been ages...”
 
 I had nothing to say in response, so I just listened in silence. Then the old man looked at me and asked,
 
@@ -408,13 +408,13 @@ I thought it—but didn’t say it aloud.
 
 Because, in truth, I couldn’t possibly understand enough. Hearing his story only deepened that feeling.
 
-“But…”
+“But...”
 
 The vampire spoke again.
 
 “Still, I thank you. For telling me honestly”
 
-“…”
+“...”
 
 “Because of you, I won’t be chasing empty dreams.”
 

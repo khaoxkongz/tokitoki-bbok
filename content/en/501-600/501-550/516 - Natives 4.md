@@ -12,11 +12,11 @@ He left an enormous footprint on the primitive labyrinth, and people named hidde
 
 As the most famous figure in history, his companions were also widely known.
 
-“…He just spoke our language, right?”
+“...He just spoke our language, right?”
 
-“Yes? Y-Yes… he did…”
+“Yes? Y-Yes... he did...”
 
-“No, wait… he knows about… Lafdonia?”
+“No, wait... he knows about... Lafdonia?”
 
 My teammates were confused, eavesdropping on my conversation with the village elder, Brugrid.
 
@@ -24,7 +24,7 @@ They all had the same expression as the monsters who had heard me speak ancient 
 
 If I looked in a mirror, my expression would probably be similar.
 
-But…
+But...
 
 [I am Brugrid, the Elder of this village.]
 
@@ -36,7 +36,7 @@ As a leader, I forced myself to calm down and organize my thoughts.
 
 Who was this monster?
 
-…Actually, there was one obvious possibility.
+...Actually, there was one obvious possibility.
 
 “Cornelius Brugrid, the Dragon Knight.”
 
@@ -48,11 +48,11 @@ Holy shit, was he serious?
 
 This monster-looking thing?
 
-“D-Dragon Knight Brugrid…!”
+“D-Dragon Knight Brugrid...!”
 
-“…I can’t believe it.”
+“...I can’t believe it.”
 
-“Is he lying? He’s from thousands of years ago… and he looks like that… and he’s still alive…?”
+“Is he lying? He’s from thousands of years ago... and he looks like that... and he’s still alive...?”
 
 My teammates were in an uproar, but the Elder ignored them.
 
@@ -70,7 +70,7 @@ I took out ‘Distorted Trust.’
 
 We couldn’t trust each other without some kind of insurance.
 
-“It’s been a while since I’ve seen one of those…”
+“It’s been a while since I’ve seen one of those...”
 
 “So can I use it?”
 
@@ -86,7 +86,7 @@ And then something unexpected happened.
 
 “Cornelius Brugrid.”
 
-“…….”
+“.......”
 
 The item didn’t activate.
 
@@ -94,25 +94,25 @@ Not because he had told the truth, but because the item deactivated whenever he 
 
 Just like when I spoke.
 
-“…What’s going on?”
+“...What’s going on?”
 
 “I don’t know.”
 
 As I was wondering, Bersil approached me and whispered,
 
-“Maybe… it’s because he’s a monster?”
+“Maybe... it’s because he’s a monster?”
 
 It was a plausible theory.
 
 I had never used the item on a monster before. If it only worked on humans, this would make sense.
 
-‘Or maybe he’s like me…’
+‘Or maybe he’s like me...’
 
 I tried using the Verification spell with Bersil’s help, but it also failed.
 
 “It seems like we’ll have to talk without any magical assistance.”
 
-Damn it, I had wasted a charge…
+Damn it, I had wasted a charge...
 
 “Now answer my question.”
 
@@ -122,21 +122,21 @@ Damn it, I had wasted a charge…
 
 “If you’re really one of the Last Sage’s companions, why are you here? Looking like that?”
 
-“That’s…”
+“That’s...”
 
 The Elder continued,
 
 “Something I don’t know myself.”
 
-“…Huh?”
+“...Huh?”
 
-“It was an ordinary day. I was in the labyrinth, and then it closed. But when I opened my eyes, I was here. In this… monstrous form.”
+“It was an ordinary day. I was in the labyrinth, and then it closed. But when I opened my eyes, I was here. In this... monstrous form.”
 
-“……What?”
+“......What?”
 
-“I’ve been thinking about it for a long time. Why I’m here, why I look like this, where this place is, why I can’t die… but there’s only one answer.”
+“I’ve been thinking about it for a long time. Why I’m here, why I look like this, where this place is, why I can’t die... but there’s only one answer.”
 
-“…….”
+“.......”
 
 “I don’t know.”
 
@@ -144,19 +144,19 @@ Elder Brugrid’s voice was devoid of emotion.
 
 As if he had given up on finding the answer.
 
-“I’m not sure if you’re satisfied with that answer, but… does that answer your question?”
+“I’m not sure if you’re satisfied with that answer, but... does that answer your question?”
 
 “Sort of.”
 
 I had received an answer, so it was only fair that I answered his question.
 
-“…It’s the 157th year of the New Era.”
+“...It’s the 157th year of the New Era.”
 
-“New Era…?”
+“New Era...?”
 
 “It’s been 157 years since the Immortal King died and the new King ascended the throne. And it’s been over a thousand years since the Witch’s curse.”
 
-“A thousand years… I see.”
+“A thousand years... I see.”
 
 The Elder’s reaction was surprisingly calm.
 
@@ -176,17 +176,17 @@ I chose my next question carefully. I wasn’t sure if there was a limit to the 
 
 It was the question that had been bothering me the most since hearing the Elder’s story.
 
-If he had suddenly woken up here one day, looking like that… then what about the other monsters that looked just like him?
+If he had suddenly woken up here one day, looking like that... then what about the other monsters that looked just like him?
 
 “They were already living on this island when I arrived. The natives, I suppose. I don’t know why, but they accepted me as one of their own.”
 
 Bersil flinched and tried to say something, but I quickly stopped her.
 
-“Yandel… is this… evil—”
+“Yandel... is this... evil—”
 
 “Bersil.”
 
-“Ah…”
+“Ah...”
 
 Right, there was no need to give him any more information.
 
@@ -248,13 +248,13 @@ It could be the truth, or a lie.
 
 But one thing was certain.
 
-[A thousand years… I see.]
+[A thousand years... I see.]
 
 He was lying about not knowing how much time had passed.
 
 He had captured the explorers and brought them to the village. He could have easily asked them.
 
-‘He speaks Lafdonian, so it’s not like he couldn’t communicate…’
+‘He speaks Lafdonian, so it’s not like he couldn’t communicate...’
 
 And yet, he had left the village to meet with me.
 
@@ -268,7 +268,7 @@ And the warriors’ reaction before he appeared had also been strange.
 
 They had invited me to the village after I started speaking ancient language.
 
-‘Is there a clue in the ancient language…?’
+‘Is there a clue in the ancient language...?’
 
 As I was thinking that, the Elder spoke.
 
@@ -290,7 +290,7 @@ We exchanged questions rapidly.
 
 “What’s beyond this island?”
 
-“…Don’t you know?”
+“...Don’t you know?”
 
 “The trees here don’t float.”
 
@@ -300,7 +300,7 @@ Really? I didn’t know that.
 
 “We haven’t explored much yet. Just the rocky island where we started, and this island. They’re about five hours apart by ship.”
 
-“I see… Thank you. My turn.”
+“I see... Thank you. My turn.”
 
 It was my turn again.
 
@@ -310,7 +310,7 @@ I was worried about wasting a question, but I decided to take the risk.
 
 “Because the rainy season starts in three days.”
 
-“…Rainy season?”
+“...Rainy season?”
 
 The little monster had mentioned it too.
 
@@ -326,7 +326,7 @@ It sounded like an excuse.
 
 I made my suspicion clear, and the Elder looked at me intently.
 
-“You’re… quite aggressive.”
+“You’re... quite aggressive.”
 
 “It’s a natural reaction for an explorer.”
 
@@ -338,7 +338,7 @@ I was incredulous, and the Elder spoke, his voice calm and emotionless,
 
 “You won’t believe me now, anyway. Let’s meet again in three days. Here.”
 
-“Three days…?”
+“Three days...?”
 
 I asked, but he didn’t answer.
 
@@ -346,17 +346,17 @@ I asked, but he didn’t answer.
 
 That was true.
 
-But I didn’t see how anything would change in three days…
+But I didn’t see how anything would change in three days...
 
 “Try to stay on this island. Or at least nearby. If you take too long, we’ll have to close the entrance to the village. Ah, the entrance will be open, so you can come whenever you change your mind.”
 
-“…?”
+“...?”
 
 “You can keep Marupichi until then.”
 
 The Elder then turned and left, leading his warriors through a hidden passage beneath the tree roots. I didn’t try to stop him. I didn’t understand his intentions.
 
-“He’s gone…”
+“He’s gone...”
 
 “Yandel, what are we going to do now?”
 
@@ -370,9 +370,9 @@ And the task was obvious.
 
 I started by asking the little monster about the rainy season and anything else it knew. And then we hunted monsters in the area, staying within the central part of the island.
 
-Time passed…
+Time passed...
 
-One day, two days…
+One day, two days...
 
 Click.
 
@@ -388,7 +388,7 @@ But it wasn’t like any rain I had ever seen before.
 
 [Keureuk! Keureuk!]
 
-[Grrrr…!]
+[Grrrr...!]
 
 [Kwaaaaaaaaa!]
 

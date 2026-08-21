@@ -2,7 +2,7 @@
 
 No??? Aegis’s Dragon Armour. This item has a rather flashy active ability.
 
-No, to be more precise…
+No, to be more precise...
 
 ‘I am amazed every time I see it.’
 
@@ -22,11 +22,11 @@ Everything was still going exactly as I had anticipated.
 
 As Aures positioned himself in front of Ruin Gramps with his massive shield raised, dozens of thick mana barriers formed across its surface.
 
-‘A tank protecting a mage, and a mage using magic to protect that tank…’
+‘A tank protecting a mage, and a mage using magic to protect that tank...’
 
 When you put it like that, it almost sounds romantic.
 
-But…
+But...
 
 “They’re really doing all this nonsense.”
 
@@ -38,7 +38,7 @@ Crack! Crack!
 
 The mana barriers were ripped away like paper.
 
-One layer, two layers, three, four… no matter how many barriers were stacked, it was meaningless. That brutal warrior’s greatsword did not care about any of that.
+One layer, two layers, three, four... no matter how many barriers were stacked, it was meaningless. That brutal warrior’s greatsword did not care about any of that.
 
 Craaaaack!
 
@@ -50,21 +50,21 @@ Okay, the tank’s down.
 
 Baek-ho is still battering me with basic attacks from behind, but I can ignore that for now.
 
-‘The GM is just spectating…’
+‘The GM is just spectating...’
 
 Since Jayna can’t offer sacrifices outside the walls, she can’t really stop me either.
 
-Therefore, all I have to do now is finish off the Ruin Scholar, who has exhausted all his defensive spells…
+Therefore, all I have to do now is finish off the Ruin Scholar, who has exhausted all his defensive spells...
 
-But…
+But...
 
-“…Huh?”
+“...Huh?”
 
 Right then, an unexpected variable erupted—one I had never anticipated.
 
 Amazingly, it was a ‘positive’ variable for me. Though I didn’t realize it at first.
 
-“Why… won’t it disappear?”
+“Why... won’t it disappear?”
 
 Even after landing a blow, the spirit warrior summoned by Aegis’s dragon armour didn’t disappear. No, far from disappearing.
 
@@ -72,15 +72,15 @@ Swoosh.
 
 It retrieved the greatsword it had swung and took a stance, ready to deliver another strike. For some reason, those brief moments felt as though they were playing out in slow motion.
 
-“Uh…?”
+“Uh...?”
 
 Baek-ho let out a dumbfounded noise as he briefly forgot what he was doing.
 
-“…!”
+“...!”
 
 Jayna watched with a worried expression, while the GM simply stared at me with wide eyes.
 
-And…
+And...
 
 “This is troublesome.” Ruin Gramps muttered and rushed to cast another spell.
 
@@ -90,7 +90,7 @@ As all the information my five senses could gather seared itself into my mind, I
 
 Because of the limits of our testing, we were only able to check the Aegis Dragon Armor’s ability up to stage four. Therefore, I had no way of knowing which stage this effect was coming from.
 
-But…
+But...
 
 [Accumulated damage has exceeded a certain threshold.]
 
@@ -98,27 +98,27 @@ But…
 
 A double strike.
 
-…Maybe the upper stages have even more additional effects? It’s a reasonable guess, but I shouldn’t get my hopes up.
+...Maybe the upper stages have even more additional effects? It’s a reasonable guess, but I shouldn’t get my hopes up.
 
 After all, this much is insane enough. This alone puts the Aegis Dragon Armour on a par with a single-digit numbers item.
 
 As time returned to its normal pace, the spirit warrior brought its greatsword down toward Ruin Gramps.
 
-“…La Evies Tuca Vieran.”
+“...La Evies Tuca Vieran.”
 
 Ruin Gramps finished the spell, and a dark red barrier wrapped itself around him. The unsettling ripples of the barrier suggested that it was far more than a basic defensive spell.
 
 ‘It’s the first time I’ve seen this’
 
-I could tell at a glance that it was one of Ruin Gramps’ trump cards…Well, I’d soon find out how strong it is—
+I could tell at a glance that it was one of Ruin Gramps’ trump cards...Well, I’d soon find out how strong it is—
 
-“…Huh?”
+“...Huh?”
 
 My expectant gaze changed in an instant as my eyes widened in shock. Not surprising, as I had never anticipated a situation like this.
 
 I had expected the barrier to either shatter or deflect the greatsword, and I would have been fine with either outcome.
 
-But…
+But...
 
 Fwoooooom-!
 
@@ -132,7 +132,7 @@ And considering how short the casting time was, this skill is absurd. Still, I d
 
 The idea that great power must come with great responsibility was something found only in movies. In the world we lived in, great power demanded a heavy price instead, and I could tell that Fallen Gramps had paid it.
 
-“Hoo… Hoo……”
+“Hoo... Hoo......”
 
 He was gasping for air in heavy, uneven breaths, as if he had drawn out every bit of strength he had, even borrowing from the strength he would have in the future. His sweat-soaked white hair clung to his skin, and he looked ready to collapse at any moment.
 
@@ -146,7 +146,7 @@ I forced myself forward and charged at Ruin Gramps.
 
 Tap!
 
-And just as I swung my hammer…
+And just as I swung my hammer...
 
 Another unexpected situation unfolded.
 
@@ -156,7 +156,7 @@ My hammer cut helplessly through empty air.
 
 It was so absurd that it took me a moment to comprehend the situation.
 
-‘…He dodged?’
+‘...He dodged?’
 
 The Ruin Scholar had evaded my strike. No matter how low my Agility stat was, there was no way a mere mage could dodge it.
 
@@ -166,7 +166,7 @@ He kept slipping away from my attacks on both sides. It almost looked like he wa
 
 “It seems you didn’t know.”
 
-“……”
+“......”
 
 “Magic is a discipline born on the battlefield. Because of that, the mages of the past all trained in close combat. To protect themselves in the battle.”
 
@@ -176,11 +176,11 @@ If mages do martial arts now, then what were the rest of us supposed to do?
 
 I tried to close the distance again, but contrary to my expectation that he would create distance, the Ruin Scholar stepped towards me instead and reached out his hand.
 
-And…
+And...
 
 Pok.
 
-The moment his hand gently landed on my stomach…
+The moment his hand gently landed on my stomach...
 
 BOOM-!
 
@@ -214,13 +214,13 @@ I could feel blood running down my throat, but it wasn’t a major concern yet.
 
 Still, I needed a moment to recover, so I created some distance.
 
-‘It’s a bit of a shame I couldn’t finish him off after using up all my stacks…’
+‘It’s a bit of a shame I couldn’t finish him off after using up all my stacks...’
 
 But there was no need to rush.
 
 I already knocked Rex Aures out of the fight.
 
-“Mr. Aures…!”
+“Mr. Aures...!”
 
 Well, he’s alive and will probably get healed soon.
 But still.
@@ -240,11 +240,11 @@ Then we can end this. Okay?”
 
 Seeing Lee Baek-ho act as if he’d already won, I smirked.
 
-“Your long speech…”
+“Your long speech...”
 
-“…?”
+“...?”
 
-“…means you’re getting tired, doesn’t it?”
+“...means you’re getting tired, doesn’t it?”
 
 I’m not.
 
@@ -259,15 +259,15 @@ Whether it’s a street fight, a ring fight, a jungle, an ocean, or another worl
 In the end, the one left standing wins.
 ****
 
-1 minute, 2 minutes, 3 minutes…
+1 minute, 2 minutes, 3 minutes...
 
 The fight continued.
 
-10 minutes, 20, 30…
+10 minutes, 20, 30...
 
 I rolled across the ground and spat out blood.
 
-1 hour, 2 hours, 3…
+1 hour, 2 hours, 3...
 
 I blacked out for a moment before a sharp pain brought me back to consciousness.
 
@@ -275,25 +275,25 @@ I blacked out for a moment before a sharp pain brought me back to consciousness.
 
 It reminded me of my teenage years: a time that felt slow yet rushed past me.
 
-“Hah… hah… hah…”
+“Hah... hah... hah...”
 
 It wasn’t just me; heavy breathing echoed everywhere.
 
-“B-Baron… can we please stop here…?”
+“B-Baron... can we please stop here...?”
 
 Rex Aures, who had withdrawn and returned to the fight multiple times, pleaded with me earnestly while guarding the Ruin Scholar.
 
-“You must be at your limit too, Baron…”
+“You must be at your limit too, Baron...”
 
 Well, usually the one who says that is the one who’s actually at their limit.
 
 Jayna, who was standing a short distance away, also spoke up.
 
-“………Monster.”
+“.........Monster.”
 
 Her voice came out as a quiet mumble, as though she was tired of it.
 
-“Aha… Ha……”
+“Aha... Ha......”
 
 Baek-ho, who was facing me, wiped the sweat from his brow and spoke up.
 
@@ -319,7 +319,7 @@ The pounding of my heart drowned out every sound.
 
 My vision was hazy from the mix of blood and sweat.
 
-“Keuheuheu……”
+“Keuheuheu......”
 
 I focused only on those sensations and laughed meaninglessly. I didn’t laugh because it was funny; I just laughed because the laugh came out.
 
@@ -337,7 +337,7 @@ Baekho snorted and spat out some blood. “So what, are you saying the baron has
 
 From the way Baekho looked at me, I knew he had no intention of backing down. That was bad news for me. If this continued, I doubted I would even remain on my feet.
 
-“Khuhuhu…”
+“Khuhuhu...”
 
 Well, what can I do.
 
@@ -359,9 +359,9 @@ Immediately, a massive magic circle formed with the Ruin Scholar at its center.
 
 I could immediately tell it wasn’t an ordinary spell. For the first time in a while, a faint, cowardly thought began to form in my mind.
 
-‘If it seems impossible to block, let’s just get away from here…’
+‘If it seems impossible to block, let’s just get away from here...’
 
-Just as I was thinking that and forced my eyes open to look ahead…
+Just as I was thinking that and forced my eyes open to look ahead...
 
 CRACK.
 
@@ -369,16 +369,16 @@ Suddenly, I heard a sound like a watermelon bursting, and the magic circle on th
 
 I quickly turned to look and noticed two things.
 
-“…!”
+“...!”
 
 The Ruin Scholar was flying through the air as if something had
 hit him.
 
-And…
+And...
 
 「Amelia Rainweilz has cast [Asura Kick].」
 
-…What.
+...What.
 
 Why is she here?
 

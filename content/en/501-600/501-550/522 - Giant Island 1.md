@@ -18,7 +18,7 @@ Unlike our haphazard arrival, this cycle’s explorers were clearly divided into
 
 “I suspected that time was flowing outside.”
 
-“…What?”
+“...What?”
 
 Mul Armin flinched and glanced at my teammates behind me. Did he think one of them was a player?
 
@@ -30,7 +30,7 @@ It wasn’t a lie.
 
 Now that I thought about it, I could have deduced it from the Elder's story.
 
-“Ah…”
+“Ah...”
 
 “How did you know we were alive?”
 
@@ -70,7 +70,7 @@ Mul Armin, once again sensing my intentions, intervened.
 
 “We had two, and he had one.”
 
-“…Yes. So we adjusted our team sizes accordingly.”
+“...Yes. So we adjusted our team sizes accordingly.”
 
 So that’s why they had 40 and 20 members respectively.
 
@@ -84,7 +84,7 @@ Did he think I was his friend?
 
 I lowered my voice, and he quickly changed his tone.
 
-“That wasn’t my intention… I just thought… it would be beneficial for us to exchange information… since we’ll be seeing each other a lot.”
+“That wasn’t my intention... I just thought... it would be beneficial for us to exchange information... since we’ll be seeing each other a lot.”
 
 “Really?”
 
@@ -100,19 +100,19 @@ I cut him off.
 
 “No need.”
 
-“……?”
+“......?”
 
 “I don’t need your help. Go explore on your own.”
 
 He flinched and stared at me.
 
-And then, realizing I was serious…
+And then, realizing I was serious...
 
-“…That’s a foolish decision. What if we find the exit first?”
+“...That’s a foolish decision. What if we find the exit first?”
 
 “I doubt that.”
 
-“…You’ll regret this.”
+“...You’ll regret this.”
 
 “Oh, most people who said that to me ended up dead.”
 
@@ -120,25 +120,25 @@ And then, realizing I was serious…
 
 He scoffed and then gathered his clan members, preparing to leave.
 
-“Are you sure… we should just let them go?”
+“Are you sure... we should just let them go?”
 
 Mul Armin asked, concerned.
 
-“Well… now that you mention it…”
+“Well... now that you mention it...”
 
 I nodded and then called out to Magnon Nias, who was about to leave.
 
 “Wait.”
 
-“…Have you changed your mind?”
+“...Have you changed your mind?”
 
 “Just come here.”
 
-I beckoned him, and he approached me with a displeased expression. He looked at me expectantly…
+I beckoned him, and he approached me with a displeased expression. He looked at me expectantly...
 
 Thwack!
 
-…and I punched him in the back of the head.
+...and I punched him in the back of the head.
 
 “Ow!”
 
@@ -148,7 +148,7 @@ The sound was satisfying.
 
 “I just felt like hitting you.”
 
-“………What?!”
+“.........What?!”
 
 He looked dumbfounded, but I didn’t care.
 
@@ -158,17 +158,17 @@ He could only glare at me.
 
 “That’s all. You can leave now.”
 
-“…….”
+“.......”
 
 “Is there a problem?”
 
-“…Rumors are unreliable.”
+“...Rumors are unreliable.”
 
 He quickly gathered his clan members and left, as if he didn’t want to have anything to do with me.
 
 I chuckled, and Mul Armin asked,
 
-“…Why did you do that?”
+“...Why did you do that?”
 
 Ah, that?
 
@@ -196,7 +196,7 @@ I focused on the remaining explorer.
 
 “So what are your plans?”
 
-“I… was about to tell you about that.”
+“I... was about to tell you about that.”
 
 “Me?”
 
@@ -212,7 +212,7 @@ It was about the forum post. The one about the explorers trapped on an island.
 
 Mul was the complete opposite of Magnon.
 
-Even though we hadn’t talked for long, I could tell…
+Even though we hadn’t talked for long, I could tell...
 
 He was trustworthy.
 
@@ -224,23 +224,23 @@ I chuckled and gave him two pieces of advice.
 
 “If you see an island, be careful. We encountered a Tol-Lafupa near it.”
 
-“The Tol-Lafupa…? The 1st-grade monster?”
+“The Tol-Lafupa...? The 1st-grade monster?”
 
 “That’s right. It’s the only one we’ve confirmed so far, but we can’t be sure.”
 
-“…So there might be more 1st-grade monsters… This place is truly dangerous.”
+“...So there might be more 1st-grade monsters... This place is truly dangerous.”
 
 Mul’s face darkened.
 
 “But the rainy season is even more dangerous than the monsters.”
 
-“Rainy season…?”
+“Rainy season...?”
 
 “On Day 14, it starts raining monsters. And it lasts until Day 21. So you need to find a safe place to hide.”
 
 I told him about the monsters that appeared during the rainy season, and his face turned pale.
 
-“So that’s what you meant… by ‘no opportunity’…”
+“So that’s what you meant... by ‘no opportunity’...”
 
 “That’s right. We’ll be going now. Good luck.”
 
@@ -250,35 +250,35 @@ Mul looked flustered by my sudden departure, but I didn't answer and turned to l
 
 I wanted to make him feel uneasy.
 
-One step, two steps, three steps…
+One step, two steps, three steps...
 
-‘He should be stopping me by now…’
+‘He should be stopping me by now...’
 
 Why wasn’t he?
 
 Was the information about the 1st-grade monster and the rainy season not enough?
 
-‘Should I make him an offer…?’
+‘Should I make him an offer...?’
 
-As I was thinking that…
+As I was thinking that...
 
-“Baron…!”
+“Baron...!”
 
 Mul called out to me, and I slowly turned around, feigning ignorance.
 
 “What is it?”
 
-“Well…”
+“Well...”
 
 “Hurry up. I don’t have much time.”
 
-“…How about we join forces?”
+“...How about we join forces?”
 
 That was exactly what I wanted.
 
 But I just looked him up and down, my expression indifferent.
 
-“Hmm… with you?”
+“Hmm... with you?”
 
 “Yes. We won’t be a burden. We’ll even give you full command.”
 
@@ -300,7 +300,7 @@ I cut to the chase, and Mul hesitated for a moment before answering.
 
 “We won’t claim any of the magic stones. But we’d like half of the other loot, including essences.”
 
-This guy…
+This guy...
 
 He seemed friendly, but he was still an explorer.
 
@@ -310,7 +310,7 @@ He seemed friendly, but he was still an explorer.
 
 “No.”
 
-Mul frowned as I firmly rejected his counteroffer. He seemed troubled by my terms, which were practically a slave contract…
+Mul frowned as I firmly rejected his counteroffer. He seemed troubled by my terms, which were practically a slave contract...
 
 It was time to add the final touch.
 
@@ -324,7 +324,7 @@ That, at least, was the truth.
 
 And it seemed to have had an effect.
 
-“…I accept your terms.”
+“...I accept your terms.”
 
 I had just gained twenty high-level slaves.
 
@@ -342,13 +342,13 @@ A priest and three mages.
 
 It was a luxurious lineup, considering the slave contract they had agreed to.
 
-‘If we work together, we might even be able to slay a 2nd-grade monster…’
+‘If we work together, we might even be able to slay a 2nd-grade monster...’
 
 After assessing their strength, I introduced myself to each member of the Armin Exploration Team.
 
 “Bjorn, son of Yandel. It’s a pleasure to meet you all.”
 
-“I-I’m Charlotte Amblot, the team’s mage…!”
+“I-I’m Charlotte Amblot, the team’s mage...!”
 
 “I see. You should eat more. Here, have some jerky.”
 
@@ -356,15 +356,15 @@ After assessing their strength, I introduced myself to each member of the Armin 
 
 “And you are?”
 
-“B-Brian Amblot…”
+“B-Brian Amblot...”
 
 “Amblot?”
 
-“Ah…! Charlotte is my younger sister.”
+“Ah...! Charlotte is my younger sister.”
 
 “Oh, both of you are explorers? That’s impressive! And you are?”
 
-“I-I’m…”
+“I-I’m...”
 
 The introductions took a while, but it was worth it.
 

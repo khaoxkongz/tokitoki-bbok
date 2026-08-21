@@ -6,7 +6,7 @@ There was no reason to rely only on the barbarians.
 
 Once I secured the contract, all of Melbes’s construction businesses would work together anyway.
 
-The problem is that man’s pride, though…
+The problem is that man’s pride, though...
 
 Because of the council leader’s unilateral decision, the Jandel family was suddenly put forward as the representative of Melbes.
 
@@ -18,13 +18,13 @@ After all, even if House Jandel became the centerpiece, the trickle-down effects
 
 “Bwahahaha! What do you think? This is the house we built!”
 
-“…Surprisingly, not bad?”
+“...Surprisingly, not bad?”
 
 At first, the dispatched construction experts looked down on the barbarians, thinking they couldn’t possibly build anything. But, after seeing their speed and the results, they quickly turned to admiration.
 
 “Their craftsmanship is crude, but they’re all explorers with incredible physical strength. In tasks requiring brute force, they’re overwhelmingly effective.”
 
-“If they take charge of the simple, time-consuming work that doesn’t require skill…”
+“If they take charge of the simple, time-consuming work that doesn’t require skill...”
 
 “The construction time would be cut down dramatically!”
 
@@ -46,17 +46,17 @@ The top priority was winning the competition.
 
 After identifying the barbarians’ biggest weakness, the experts immediately began special training to fix it.
 
-“Watch closely. When lifting a steel beam, grip here firmly, then use the strength of your back right here… like this!”
+“Watch closely. When lifting a steel beam, grip here firmly, then use the strength of your back right here... like this!”
 
-“Ohhh…!”
+“Ohhh...!”
 
 “When lowering it, set it down from this angle first, like this. See? It’s smooth, and I hardly used any strength.”
 
-“Ooooh…!”
+“Ooooh...!”
 
 “It’s best to raise columns in groups of two, but if you must do it alone, follow this technique exactly.”
 
-“Ooooooh…!!”
+“Ooooooh...!!”
 
 The dwarves passed on all kinds of know-how from the construction field, and the barbarians absorbed it with enthusiasm.
 
@@ -68,7 +68,7 @@ They may be slower in other areas, but they were naturals when it came to using 
 
 “Ah! So that’s how it works?”
 
-“…Yes! Exactly like that!”
+“...Yes! Exactly like that!”
 
 Once the training curriculum was set, I discussed construction management with the dwarven experts.
 
@@ -88,11 +88,11 @@ You start with the menial jobs, learning bit by bit, until eventually you become
 
 I explained how the competition would be held and in what manner. Trusting the expertise the dwarves had demonstrated so far, I entrusted the entire preparation for this competition to them.
 
-“…Your trust is appreciated, but is it really okay for us to prepare something so important on our own?”
+“...Your trust is appreciated, but is it really okay for us to prepare something so important on our own?”
 
 “It’s precisely because it’s so important that I’m entrusting it to you. You are the most qualified experts in this field.”
 
-“…Your lordship is quite different from what I’d heard. We’ll prepare as diligently as possible to meet your expectations.”
+“...Your lordship is quite different from what I’d heard. We’ll prepare as diligently as possible to meet your expectations.”
 
 “I’ll be counting on you.”
 
@@ -102,7 +102,7 @@ Even without this, I had a mountain of work to do.
 
 “Shabin, I’ll be heading into the city.”
 
-Hah… When would I ever finish all this?
+Hah... When would I ever finish all this?
 
 ***
 
@@ -114,7 +114,7 @@ There’s a massive water and sewage system beneath the city.
 
 And thanks to the existence of magic, there are everyday tools that even science couldn’t replicate, which still catch me off guard sometimes.
 
-Anyway, putting that aside…
+Anyway, putting that aside...
 
 As expected of Raphdonia, where public authority was absolute, starting a business required a series of formal steps.
 
@@ -128,7 +128,7 @@ Even with Shabin Emure’s help preparing, the business application was rejected
 
 It’s rare for a noble with a clear title and identity to have such a hard time getting approval, but it couldn’t be helped.
 
-“We sincerely congratulate you on the establishment of the Jandel Trading Company. To explain again, the maximum number of employees you can register is 10,000…”
+“We sincerely congratulate you on the establishment of the Jandel Trading Company. To explain again, the maximum number of employees you can register is 10,000...”
 
 It’s almost unheard of to start a business on such a large scale from the very beginning.
 
@@ -144,7 +144,7 @@ But our barbarians had nothing like that.
 
 No, throughout our entire history, we have never had anything resembling a company.
 
-‘The first company founded by barbarians…?’
+‘The first company founded by barbarians...?’
 
 I somehow ended up achieving another new milestone, but that’s not important. Let’s move on.
 
@@ -158,11 +158,11 @@ Besides, I was already covering all their taxes and living expenses.
 
 “Uh? But we’re already doing that.”
 
-“…We are?”
+“...We are?”
 
 “I told them to watch the dwarven engineers carefully and learn. It’s not an opportunity that comes often. If one day they can take on those roles themselves, that would be best.”
 
-“…And the women?”
+“...And the women?”
 
 “The women are already helping behind the scenes. They cooked all of yesterday’s meals, for example.”
 
@@ -172,7 +172,7 @@ So the order I was about to give had already been put in place.
 
 “Oh, and by the way, thanks to what they learned before, most of the children can already read. Once things settle down, we could educate them properly and have them take on clerical work.”
 
-“…I–Is that so?”
+“...I–Is that so?”
 
 Suddenly, I remembered something the council leader had once told me.
 
@@ -194,25 +194,25 @@ Meeting someone as capable as Shabin was my luck.
 
 But I was also the one who had given her the position and lifted all restrictions, letting her do anything.
 
-“…Um, are you… angry at me?”
+“...Um, are you... angry at me?”
 
 While I was lost in thought, Shabin suddenly asked me something out of the blue.
 
 “Angry? What are you talking about?”
 
-“Well, your face looked stiff, so I thought maybe… because I’ve been doing things on my own—”
+“Well, your face looked stiff, so I thought maybe... because I’ve been doing things on my own—”
 
 “Not at all. Don’t worry. My face looked stiff because I was thinking how glad I am that I brought you along.”
 
-“…If that’s the case, I’m relieved.”
+“...If that’s the case, I’m relieved.”
 
 Hearing my honest words, Shabin looked embarrassed—and then, with an uncharacteristically shy expression, she spoke.
 
-“I think… I made the right choice too…”
+“I think... I made the right choice too...”
 
-“…Hm?”
+“...Hm?”
 
-“I’m busy, but… I really think I did the right thing, quitting my old job to follow you, Mr. Jandel. I mean, the people here are so nice, and…”
+“I’m busy, but... I really think I did the right thing, quitting my old job to follow you, Mr. Jandel. I mean, the people here are so nice, and...”
 
 Her expression was almost girlish.
 
@@ -224,27 +224,27 @@ When I teased, Shabin’s eyes went wide in shock.
 
 “I didn’t. Not until just now.”
 
-“…!”
+“...!”
 
 She clamped her mouth shut, looking flustered.
 
 After a long silence, she finally said:
 
-“You… you have to keep this a secret, okay? If you don’t, I’ll quit being secretary, administrator—everything!”
+“You... you have to keep this a secret, okay? If you don’t, I’ll quit being secretary, administrator—everything!”
 
 That was the most terrifying threat yet.
 
 “O-Of course. Don’t worry. I’ll never tell a soul.”
 
-“Then… good.”
+“Then... good.”
 
 “But do you really need to keep it a secret? From the looks of it, Rotmiller seems interested in you too—”
 
 “W-Wait, really?! Did Rotmiller say he was interested in me?!”
 
-“No, he didn’t say it. It’s just… the feeling I get!”
+“No, he didn’t say it. It’s just... the feeling I get!”
 
-“…Hmph. You shouldn’t toy with people like that.”
+“...Hmph. You shouldn’t toy with people like that.”
 
 Now that I think about it, I knew it wasn’t just a mood thing.
 
@@ -262,9 +262,9 @@ There was a knock at the door, and Shabin quickly fixed her hair.
 
 “That’s Rotmiller’s knock!”
 
-“…What?”
+“...What?”
 
-“…Please, come in?”
+“...Please, come in?”
 
 After clearing her throat once, Shavin put on a composed voice. Sure enough, as the door slowly opened, I saw Rotmiller standing on the other side.
 
@@ -278,7 +278,7 @@ After clearing her throat once, Shavin put on a composed voice. Sure enough, as 
 
 And with that, I practically fled the office.
 
-…They’ll manage on their own.
+...They’ll manage on their own.
 
 No matter how I looked at it, I wasn’t in any position to meddle in someone else’s love life.
 
@@ -290,7 +290,7 @@ No matter how busy or idle I was, whenever I looked back, it had always passed i
 
 This time was no different.
 
-Why does it feel like I’m busier here than when I was in the labyrinth…?
+Why does it feel like I’m busier here than when I was in the labyrinth...?
 
 Meeting the noble introduced by the Council leader who had changed jobs to become a real estate agent, being summoned by Count Alminas for matters requiring coordination within the business.
 

@@ -1,36 +1,36 @@
-Teaming(3)
+Teaming (3)
 
 Teaming.
 
-A term often used in online competitive games to describe a temporary alliance between players who are labelled as enemies in the game.
+A term often used in competitive online games for a temporary alliance between players who are supposed to be enemies.
 
 “Hah, they’re teaming here?”
 
-Different game companies have different views on teaming.
+Different games treat teaming differently.
 
-Some consider teaming as part of the game, while others see it as cheating and actively penalize it.
+Some treat it as a legitimate tactic; others consider it cheating and punish it outright.
 
-Of course, intentional teaming is regarded as cheating on par with hacking or exploiting bugs, as it severely disrupts the game’s balance and causes significant harm to regular players…
+Intentional teaming can be considered cheating on par with hacking or exploiting bugs because of how badly it disrupts game balance and harms ordinary players...
 
 “Damn it, what are the admins doing? Not catching these bastards.”
 
 A grumble escaped me.
 
-I had somehow managed to create a three-way standoff, but now they’re teaming up.
+I had somehow managed to create a three-way standoff, and now two sides had teamed up.
 
-Wasn’t Noark and the royal family supposed to be mortal enemies?
+Weren’t Noark and the royal family supposed to be mortal enemies?
 
 Things have gotten complicated.
 
-‘At this rate, defeating them one by one is impossible…’
+‘At this rate, defeating them one by one is impossible...’
 
 Plan A has been derailed from the start.
 
 Come to think of it, that’s usually how it goes.
 
-Should I say that incidents are never resolved with the original plan? I’m not even the type to make overly optimistic plans, but somehow things always turn out this way.
+Maybe nothing ever gets resolved according to the original plan. I’m not even the type to make overly optimistic plans, yet things always end up like this.
 
-“Um…”
+“Um...”
 
 Hearing Marone’s cautious voice, I snapped out of my thoughts.
 
@@ -44,43 +44,43 @@ Hearing Marone’s cautious voice, I snapped out of my thoughts.
 
 “Who are the members?”
 
-Even though she didn’t know their names, perhaps because she’d fought them before?
+She didn’t know their names, but perhaps because she had fought them before,
 
-Marone briefly described the members, focusing on their abilities.
+Marone could still describe them by their abilities.
 
-“Well… there was the mage who shot black spears, the woman who ran like lightning. Ah! And the bald boxer…”
+“Well... there was the mage who shot black spears, the woman who ran like lightning. Ah! And the bald boxer...”
 
 Also, there was a priest of Karui.
 
 A dark mage.
 
-And lastly…
+And lastly...
 
-“Regal Vargos, he was there too?”
+“Regal Vagos, he was there too?”
 
-“Y-Yes…!”
+“Y-Yes...!”
 
-The Dragon Slayer, Regal Vargos.
+The Dragon Slayer, Regal Vagos.
 
-It might sound anticlimactic, but I thought he might have died from [Soul Extraction]. But somehow he managed to survive.
+It might sound anticlimactic, but I had genuinely thought he might die during [Soul Extraction]. Somehow, he survived.
 
-“Even though it’s the mental world and the body would have fully recovered, it wouldn’t have been easy. Is the ancient dragon weaker than I thought?”
+“Even if the trial took place in a mental world and his real body recovered afterward, it couldn’t have been easy. Was the ancient dragon weaker than I remembered?”
 
-“It’s fortunate that he’s alive…”
+“It’s fortunate that he’s alive...”
 
 When Marone’s report ended, Ravien, who was beside me, muttered in a strange tone.
 
-“…Huh?”
+“...Huh?”
 
 “Because to save Pen, we need his heart.”
 
-“Ah…”
+“Ah...”
 
 I’d completely forgotten about that.
 
-It was the young dragon Pen who cursed Regal Vargos. As a price for casting such an excessive curse, her body’s time had stopped, rendering her unable to take a single step out of the Dragon Temple for the rest of her life.
+It was the young dragon Pen who cursed Regal Vagos. As a price for casting such an excessive curse, her body’s time had stopped, rendering her unable to take a single step out of the Dragon Temple for the rest of her life.
 
-“…Judging by your expression, you just remembered.”
+“...Judging by your expression, you just remembered.”
 
 “Sorry, I have a lot on my mind.”
 
@@ -92,17 +92,17 @@ It was the young dragon Pen who cursed Regal Vargos. As a price for casting such
 
 In simple terms, if I complete this quest, I could gain the entire Dragon tribe as allies.
 
-In reality, I don’t know how things will turn out, but in my situation where I have to confront the royal family, it’s a quest I can’t miss.
+I had no idea how things would actually turn out, but with the royal family now against me, this was an opportunity I couldn’t afford to miss.
 
 “I’ll keep it in mind.”
 
-“That’s enough. But don’t overdo it. There will always be another opportunity, as long as you’re alive…”
+“That’s enough. But don’t overdo it. There will always be another opportunity, as long as you’re alive...”
 
 What is she saying? To stay alive, I have to kill that guy.
 
 Still, I fully understand what she meant.
 
-Whatever I do, don’t forget my top priority.
+Whatever I did, I couldn’t forget my top priority.
 
 “Alright, let’s keep moving!”
 
@@ -110,9 +110,9 @@ We continued setting up detection spells as we moved through the passages.
 
 They’ll think we’re running away.
 
-To fight as advantageously as possible, I need to lure them to the battlefield I’ve chosen.
+To fight on the best possible terms, I needed to lure them onto a battlefield of my choosing.
 
-Time passed like that…
+Time passed like that...
 
 Day 70.
 
@@ -124,29 +124,29 @@ While wandering inside the cave, we settled at one point.
 
 It was time to prepare for battle.
 
-The last detection spell had shown them munching on jerky.
+The last detection spell had shown them eating jerky.
 
 “Probably the food that the Rose Knights had.”
 
-Both envy and frustration bubbled up.
+Envy and irritation bubbled up inside me.
 
 While we were stuck eating monster meat, they enjoyed proper meals.
 
-Well, that might be why their pursuit isn’t gaining speed, but…
+Well, that might be why their pursuit isn’t gaining speed, but...
 
 ‘But if this drags on, we’ll be the ones at a disadvantage’
 
 Thanks to the monster meat, survival isn’t an issue.
 
-However, it is impossible for everyone to eat to their fill, as the meat is only available when the distortion magic is successful.
+But we couldn’t eat our fill. We only got meat whenever distortion magic successfully preserved a corpse.
 
-We’re not starving, but we’re getting hungry with each moment.
+We weren’t starving, but hunger was steadily wearing us down.
 
 So if we’re going to settle this, it should be before we become more exhausted—meaning now.
 
 “Mr. Jandel, it’s cold over there; come here!”
 
-I obeyed Maronne’s call and walked towards the fire.
+I answered Marone’s call and walked toward the fire.
 
 Teams no longer held any meaning.
 
@@ -156,7 +156,7 @@ Like campers around a campfire, all the members gathered in one place to bask in
 
 Refusing meat would betray my barbarian pride, so I eagerly accepted and bit into it while listening to the group’s conversation.
 
-“This will… probably be our last fight, right?”
+“This will... probably be our last fight, right?”
 
 A woman hugging her knees nervously.
 
@@ -164,73 +164,73 @@ It was Periton Eriavosti of Team 5.
 
 She was a priestess of the Heindel Church, raised in an orphanage before becoming a priestess. She also had a husband in the city—a clerk she met through church volunteer work.
 
-‘…She said she has a child too, didn’t she?’
+‘...She said she has a child too, didn’t she?’
 
-It was a change that occurred as we reached the end of the long expedition.
+Something had changed over the course of this long expedition.
 
-After facing deadly crises together multiple times and spending time together, we came to know each other so well.
+After surviving crisis after crisis together, we had come to know one another remarkably well.
 
-“I’m going to… return alive. I can’t let my child grow up the way I did.”
+“I’m going to... return alive. I can’t let my child grow up the way I did.”
 
-A precarious, yet firm determination.
+A fragile yet unwavering determination.
 
 Silence filled the air.
 
 Crackle, crackle, crackle.
 
-Only the sound of sparks flying filled the silence, and the next to speak was our team’s mage, Ashid.
+Only the crackling fire broke the silence until our team’s mage, Ashid, spoke next.
 
-“My wife would manage without me. She’s strong… but… she’d surely cry.”
+“My wife would manage without me. She’s strong... but... she’d surely cry.”
 
-“You… were married? You never mentioned that.”
+“You... were married? You never mentioned that.”
 
-“Well, you never asked Mr. Aldidi.”
+“Well, you never asked, Old Didi.”
 
-“Huh…”
+“Huh...”
 
-Old Didi opened his mouth as if he’d been betrayed, but the next to speak was Puta Rickerburn
+Old Didi gaped as if he had been betrayed, but before he could say more, Puta Rickerburn spoke up.
 
-A pitiful fellow who was thrown here with the bait of retirement after working as a fixer for the Duke of Keallunas.
+A pitiful man who had been lured here with the promise of retirement after years of working as a fixer for the Duke of Keallunas.
 
 “The more I hear, the more miserable I feel.”
 
-“…Pardon?”
+“...Pardon?”
 
 “If we were to pick the most insignificant person among us, it would be me.”
 
 “All of a sudden?”
 
-“That is, I have never married, and have no one waiting for me in the city. I was sick of such a life and hoped for retirement, but I ended up in this mess. If God chooses someone to die, it will surely be me.”
+“I’ve never married, and there’s no one waiting for me in the city. I was sick of that life and hoped to retire, but I ended up in this mess instead. If God has to choose someone here to die, it’ll probably be me.”
 
-“……”
+“...”
 
 “But even so, I’ll survive. I refuse to let this miserable existence define my life.”
 
 It was like a dam bursting.
 
-In the anxiety that this might be the last time, they poured out the resentment they’d hidden deep inside where no one could see.
+With the fear that this might be our last chance to speak, everyone began pouring out the things they had kept buried inside.
 
 “You, of all people, shouldn’t be saying that after you shouted it was all over.”
 
-“Well… could you just forget about that?”
+“Well... could you just forget about that?”
 
 “Hahaha! I don’t know—maybe not for free?”
 
 Still, the atmosphere remained bright.
 
-Even among those speaking now, some of them probably won’t be able to greet tomorrow together.
+Some of the people speaking now probably wouldn’t live to see tomorrow.
 
 Even so, everyone talked about the future.
 
-“Yandel, what will you do when you get out? Of course, you’ll seek revenge, right?”
+“Jandel, what will you do when you get out? Of course, you’ll seek revenge, right?”
 
 Some talked of revenge.
 
-“Ah, forget that; I really want to eat cake…”
+“Ah, forget that; I really want to eat cake...”
 
 Some spoke of trivial desires.
 
-“I’m worried about my grandmother who’s at home…”
+“I’m worried about my grandmother who’s at home...”
 
 Some thought of the people they wanted to see and steeled their resolve.
 
@@ -242,17 +242,17 @@ At this point, everyone desperately needed a drink.
 
 In that atmosphere, the conversation continued endlessly.
 
-“Um… How about forming a clan when we get back to the city?”
+“Um... How about forming a clan when we get back to the city?”
 
 “A clan?”
 
-“It’s… fate that we’ve met. And… we might not be able to stay where we were before… So… I thought that if we all work together, we could manage somehow in the city…”
+“It’s... fate that we’ve met. And... we might not be able to stay where we were before... So... I thought that if we all work together, we could manage somehow in the city...”
 
-Not just my future, but ours.
+Not just my future—ours.
 
 “Carla, what kind of person was your friend?”
 
-“Rick… was…”
+“Rick... was...”
 
 “Come to think of it, we didn’t get to talk with him much.”
 
@@ -260,19 +260,19 @@ Not only our stories.
 
 But also the stories of those who are no longer here.
 
-We talked aimlessly, trying to remember and commemorate them, pouring out our regrets.
+We talked without direction, remembering those who were gone and voicing the regrets we had never shared.
 
-After how much time had passed like that.
+After some time had passed—
 
-“Mr. Jandel…”
+“Mr. Jandel...”
 
 Marone called me with a tense expression.
 
 “The detection magic has been activated.”
 
-At that one sentence, we smiled bitterly and stood up. We extinguished the fire that had been blazing at our center.
+At those words, we exchanged bitter smiles and rose to our feet. Then we extinguished the fire at the center of our camp.
 
-“……”
+“...”
 
 It was time to return to cold reality.
 
@@ -282,11 +282,11 @@ The plan is simple.
 
 No, to be precise, there’s no plan.
 
-We chose the place to fight, and here we will fight the enemies desperately.
+We had chosen the battlefield. Now we would fight here with everything we had.
 
-And the side that survives will be the winner.
+Whichever side survived would win.
 
-“They’ve… entered.”
+“They’ve... entered.”
 
 “The numbers?”
 
@@ -300,39 +300,39 @@ Tap, tap.
 
 They got close enough that I could hear their footsteps, and soon they appeared around the corner.
 
-But the number is a bit strange.
+But the numbers were strange.
 
 Seven from the Rose Knights and six from Noark.
 
 A total of thirteen enemies.
 
-“Did they leave behind those who aren’t helpful in battle due to penalties?”
+‘Did they leave behind the ones whose penalties made them useless in combat?’
 
 No, that doesn’t make sense either.
 
 Even without the cold, this is a labyrinth where monsters pop out everywhere.
 
-“Did they leave them behind, or abandon them…”
+‘Did they leave them behind—or abandon them entirely...?’
 
 It was a fittingly ruthless move for them.
 
-“……A dead end?”
+“...A dead end?”
 
 The woman leading the group tilted her head as she observed our defensive formation.
 
-She was glad to have finally caught up with us, but seemed to sense something was off.
+She had finally caught up with us, yet she immediately sensed something was wrong.
 
 “Don’t tell me you were waiting for us.”
 
 As expected of someone who has been through many battles, she was quick to grasp the situation.
 
-Well, nothing changes, though.
+Not that it changed anything.
 
 “Carla!”
 
 At my shout, James Carla activated his skill.
 
-“James Carla has activated [Nimble Hands].”
+[James Carla has activated [Nimble Hands].]
 
 Due to the penalty, he’s as good as blind, so it’s impossible for him to hit with an attack skill, but that’s not what we were hoping for.
 
@@ -348,15 +348,13 @@ Boom!
 
 A massive collapse echoed from the direction the enemies had come from.
 
-An area that occasionally appears while traversing the ice cave section.
+It was one of the trap chambers that occasionally appeared in the ice-cave section.
 
 “Th-The path is blocked!”
 
 Once the trap is activated, the only entrance is covered with ice, and this place becomes a sealed room until it melts after a day.
 
-But while the Noark members were flustered, the Rose Knights remained calm.
-
-Among them, especially the woman who seemed to be the leader.
+The Noark members were visibly shaken, but the Rose Knights remained calm—especially the woman who appeared to lead them.
 
 “Why did you make such a choice?”
 
@@ -366,17 +364,17 @@ If I were to answer, it’s quite simple.
 
 “Because there’s no paradise in retreat.”
 
-Of course it was—it came from my favorite author.
+Of course it sounded good. I stole it from my favorite author.
 
 “On that note, I have a question for you.”
 
 “My name is Six.”
 
-“…What?”
+“...What?”
 
-I wasn’t asking for her name, but before I could voice my confusion, she continued.
+I hadn’t been asking for her name, but before I could say so, she continued.
 
-I gave her an awkward look, and the woman who said her name was Six turned away without any change in expression.
+I gave her an awkward look. The woman who called herself Six turned away without changing her expression.
 
 “So what is it you want to ask?”
 
@@ -390,7 +388,7 @@ The answer came from an unexpected place.
 
 “Oh, that?”
 
-Regal Vargos, the Dragon Slayer, swaggered forward as if he had recovered somewhat.
+Regal Vagos, the Dragon Slayer, swaggered forward as if he had recovered somewhat.
 
 “These women must’ve realized they needed our help to kill you.”
 
@@ -398,13 +396,13 @@ Hmm, from the Rose Knights’ perspective, that makes sense.
 
 Their mission would be their top priority.
 
-But still…
+But still...
 
 “Even so, you have no reason to accept their proposal.”
 
 I said this while looking at the bald boxer, not at the Dragon Slayer.
 
-While Regal Vargos might make a stupid choice out of his grudge against me, the real leader seemed to be that guy.
+While Regal Vagos might make a stupid choice out of his grudge against me, the real leader seemed to be that guy.
 
 “Do you really not get it? Once we’re down, you’re next.”
 
@@ -428,13 +426,13 @@ How these two groups came to cooperate.
 
 “So, have all your questions been answered?”
 
-Then the woman who seemed to be the leader spoke as if to end the conversation, and I shook my head.
+The woman who seemed to be their leader spoke as if to end the conversation, but I shook my head.
 
 “No, not yet.”
 
-“……”
+“...”
 
-“You said your name was Rephless ? I’d like to make a proposal.”
+“You said your name was Rephless? I’d like to make a proposal.”
 
 At my words, the bald guy smirked.
 
@@ -448,7 +446,7 @@ I nodded obediently.
 
 Though it would be monster meat.
 
-“…What did you say?”
+“...What did you say?”
 
 He seemed genuinely surprised to receive such an offer.
 
@@ -460,19 +458,19 @@ I quickly continued.
 
 “If you need an oath, I’ll swear one. On the honor of a warrior.”
 
-Just as the Rose Knights used their cheat code, I used ours.
+Just as the Rose Knights had their cheat code, I had mine.
 
-“Are you… serious?”
+“Are you... serious?”
 
 Then the bald guy began to ponder with a confused expression.
 
 Of course, his hesitation didn’t last long.
 
-Come to think of it, there was a spoiler.
+Then someone spoiled it.
 
-“Rephless , don’t be deceived by the enemy’s trickery. That guy has broken an oath before. He’s an oddball who doesn’t care about the honor of a warrior.”
+“Rephless, don’t be fooled by his tricks. That bastard has broken an oath before. He’s an oddball who doesn’t care about a warrior’s honor.”
 
-The Dragon Slayer, who had been backstabbed in Larkaz’s mage, revealed his story, and the bald guy firmed his resolve.
+The Dragon Slayer, still bitter over what had happened in Larkaz's Maze, exposed me, and the bald man’s hesitation vanished.
 
 “Regrettably, I must decline your offer. Besides, there’s no way to control you once you’re inside the city.”
 
@@ -480,23 +478,23 @@ Hmm, so it’s not going to work?
 
 “That’s unfortunate.”
 
-“……”
+“...”
 
 “Looks like we’ll have to kill you all.”
 
 I looked at them, shielding my upper body.
 
-Since I couldn’t use [Gigantification], my eye level was somewhat lower, but it didn’t matter much.
+Without [Gigantification], my eye level was lower than usual, but that hardly mattered.
 
 If you don’t have teeth, chew with your gums—that’s the barbarian spirit.
 
 “Erwin!”
 
-The moment I called out Erwin, her body form became blurred.
+The moment I called Erwin’s name, her body blurred.
 
-[Erwen Fornacci di Tercia has cast [Spirit Form]
+[Erwin Fornacci di Tercia has cast [Spirit Form]]
 
-Given that there were plenty of aura users around, of course, the attribute was earth.
+With so many aura users around, she naturally chose the earth attribute.
 
 [Damage received from fire attributes is reduced by half]
 
@@ -506,9 +504,9 @@ Given that there were plenty of aura users around, of course, the attribute was 
 
 [When using blunt weapons, a strong bonus is added to destructive actions]
 
-“Physical resistance stats have greatly increased…”
+[Physical resistance has greatly increased.]
 
-“……”
+“...”
 
 As my physical resistance stat soared, the second stage of the [Evolved Armor] activated even without [Gigantification].
 
@@ -520,4 +518,4 @@ Alright, let’s do this.
 
 [Bethel—raaaaa!!!]
 
-I’m quite confident when it comes to brawls.
+When it comes to a brawl, I’m pretty confident.

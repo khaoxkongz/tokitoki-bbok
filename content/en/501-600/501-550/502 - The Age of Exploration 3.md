@@ -16,17 +16,17 @@ And then it was my turn.
 
 I revealed a piece of game information, my voice devoid of emotion, as all eyes were on me.
 
-“…A special event? I’m looking forward to it. Ah, of course, the war has to end first. Pfft.”
+“...A special event? I’m looking forward to it. Ah, of course, the war has to end first. Pfft.”
 
 It had been a while since I had last shared game information, but the members didn’t seem to find it strange.
 
-After all, if I had received a green light for game information, it meant it was valuable, little-known information…
+After all, if I had received a green light for game information, it meant it was valuable, little-known information...
 
 “Alright, let’s do our best this round!”
 
-…and the members who had known me for a long time just assumed that I was being this way because the previous round’s information had been boring.
+...and the members who had known me for a long time just assumed that I was being this way because the previous round’s information had been boring.
 
-“So… it’s my turn again?”
+“So... it’s my turn again?”
 
 The next round began with Queen, and I listened attentively, memorizing the information they shared.
 
@@ -42,13 +42,13 @@ From my perspective.
 
 That statement echoed in my mind.
 
-Two rounds had passed, and the third round was nearing its end…
+Two rounds had passed, and the third round was nearing its end...
 
-‘…What does it mean?’
+‘...What does it mean?’
 
 Misha, a traitor?
 
-We had just had a heart-to-heart conversation and reconciled… Had Lee Baekho done something?
+We had just had a heart-to-heart conversation and reconciled... Had Lee Baekho done something?
 
 Was this his Plan B?
 
@@ -60,25 +60,25 @@ Butterfly had been the one who revealed this information.
 
 But she hadn’t mentioned Misha again in the second or third rounds.
 
-Which meant I had to take the initiative…
+Which meant I had to take the initiative...
 
 “Pfft, why are you all so surprised? Is Lafdonia afraid of Noark’s growth?”
 
-…but how?
+...but how?
 
 If I suddenly asked why Misha was a traitor, it would arouse suspicion.
 
 The Round Table had once been plagued by the rumor that ‘Lion = Bjorn Yandel’, so I had to be careful with my words and actions.
 
-“…..”
+“.....”
 
-“…..”
+“.....”
 
 Ah, it was my turn.
 
 All eyes were on me.
 
-‘…Let’s wait one more round.’
+‘...Let’s wait one more round.’
 
 I decided to take action if Misha wasn’t mentioned in the next round.
 
@@ -92,9 +92,9 @@ The jewel glowed green, and a brief silence followed.
 
 Of course, it didn’t last long.
 
-“Um… you can slay a Floor Lord alone…?”
+“Um... you can slay a Floor Lord alone...?”
 
-“Well, it might be possible in 100x mode…”
+“Well, it might be possible in 100x mode...”
 
 “Pfft, do you really think Lion would do that?”
 
@@ -102,31 +102,31 @@ There were no objections since it was related to Floor Lords. Honestly, they wou
 
 ‘So it’s Queen’s turn again.’
 
-I glanced at her…
+I glanced at her...
 
 “I think I’ve heard enough for this month. I’ll be leaving now.”
 
-…and she declared her withdrawal.
+...and she declared her withdrawal.
 
 The other members followed suit.
 
 And it was mostly my fault.
 
-“…Lion seems bored too.”
+“...Lion seems bored too.”
 
 I had been lost in thought and hadn’t participated much in the discussion, just revealing a random piece of game information to get my turn over with.
 
-“That’s a shame… I was hoping to tell you about the Lord of Hope. Pfft…”
+“That’s a shame... I was hoping to tell you about the Lord of Hope. Pfft...”
 
 Clown seemed disappointed that he hadn’t been able to pique my interest, despite his preparations.
 
-“Well… it’s probably nothing to you, Lion…”
+“Well... it’s probably nothing to you, Lion...”
 
 He promised to bring more interesting information next time.
 
 I couldn’t very well encourage them to continue in this atmosphere.
 
-“…….”
+“.......”
 
 The meeting ended.
 
@@ -140,27 +140,27 @@ I woke up in the afternoon, feeling refreshed after a long sleep. Bersil Gowland
 
 I pretended not to know, even though I had a hunch, and she said she had something to tell me.
 
-“Um… I don’t know how you’ll react to this, but… I’ve received information that Misha Carlstain might be a traitor.”
+“Um... I don’t know how you’ll react to this, but... I’ve received information that Misha Carlstain might be a traitor.”
 
 Right, that’s why she had come to see me first thing in the morning.
 
 “A traitor?”
 
-“…I’m not sure. I mean, I’m sure… but I don’t know the details.”
+“...I’m not sure. I mean, I’m sure... but I don’t know the details.”
 
 She suggested that I reconsider Misha’s membership, but I refused.
 
 “I can’t make a decision without knowing the details.”
 
-“Right… I guess so…”
+“Right... I guess so...”
 
 “But I won’t ignore your concerns. I’ll look into it. Can you investigate further?”
 
-“…Alright. I’ll do that.”
+“...Alright. I’ll do that.”
 
 “Thank you.”
 
-Okay, so she would be actively gathering information at the Round Table from now on…
+Okay, so she would be actively gathering information at the Round Table from now on...
 
 It reduced the risk of me revealing my identity by asking too many questions.
 
@@ -184,7 +184,7 @@ What if someone else saw it?
 
 I grumbled inwardly, but I started reading the instructions on how to escape the city.
 
-‘…This is more complicated than I thought.’
+‘...This is more complicated than I thought.’
 
 It seemed impossible to memorize and then burn it, so I carefully folded it and stored it in my subspace pocket.
 
@@ -194,7 +194,7 @@ Having more variables was not.
 
 I had to prepare for the worst, even if I didn’t want to believe it.
 
-Therefore…
+Therefore...
 
 “Emily, can you investigate Misha for me?”
 
@@ -208,61 +208,61 @@ I explained what had happened at the Round Table and instructed her to investiga
 
 “If she’s deliberately approaching us with malicious intent, she might be hiding her true abilities.”
 
-“…Then don’t get too close. Just observe her for now.”
+“...Then don’t get too close. Just observe her for now.”
 
 “Alright.”
 
-Okay, so Amelia would investigate Misha discreetly…
+Okay, so Amelia would investigate Misha discreetly...
 
 I spent the rest of the day resting, and then the next day, I resumed my busy schedule.
 
 I visited the sanctuary for another land sale, the former chieftain to hear about the previous Tribal Council meetings, and Raven.
 
-“The Record Stone…? Are you talking about the Fragment of Records? Gavrilius’s legacy?”
+“The Record Stone...? Are you talking about the Fragment of Records? Gavrilius’s legacy?”
 
 “It doesn’t matter what it’s called. Just give me any information you can find. And don’t attract too much attention. We don’t want to arouse suspicion.”
 
-“Okay. I’ll do that. But… are you prepared for the next expedition…?”
+“Okay. I’ll do that. But... are you prepared for the next expedition...?”
 
 “Everything’s going smoothly. Well, we’ll see what happens when we enter the labyrinth.”
 
-“Right…? We don’t know anything yet. It’s a real exploration, isn’t it? What about Bersil Gowland? How is she?”
+“Right...? We don’t know anything yet. It’s a real exploration, isn’t it? What about Bersil Gowland? How is she?”
 
 “What do you mean?”
 
-“What do I mean?! Mages are the most important members of an expedition! She didn’t seem to know much about history…”
+“What do I mean?! Mages are the most important members of an expedition! She didn’t seem to know much about history...”
 
 “She’ll be fine. She’s a good fighter, and she’s trustworthy. I can cover for her weaknesses.”
 
-“I-I see…”
+“I-I see...”
 
 After meeting with Raven, I gathered all the clan members three times a week.
 
 The official purpose was to help Misha integrate into the team.
 
-“…I haven’t found anything unusual yet.”
+“...I haven’t found anything unusual yet.”
 
 Amelia always reported to me after the meetings, but she hadn’t noticed anything strange about Misha.
 
 Time passed.
 
-“…This will be our most fruitful expedition yet.”
+“...This will be our most fruitful expedition yet.”
 
 Melbeth had sent us supplies.
 
-Combat and support scrolls, various potions, exploration-specific Numbered Items…
+Combat and support scrolls, various potions, exploration-specific Numbered Items...
 
 They had given us everything we needed to explore any environment, and the quality was top-notch.
 
-‘This must have cost a fortune…’
+‘This must have cost a fortune...’
 
 It showed how much they were expecting from the ‘hidden area’.
 
 I felt a little pressured, but I was determined to deliver.
 
-And as I was preparing for the expedition…
+And as I was preparing for the expedition...
 
-“Bjorn…”
+“Bjorn...”
 
 “It’s Chieftain, 1st Elder.”
 
@@ -274,11 +274,11 @@ I smiled and shouted,
 
 “Congratulations, young warriors! From this day forward, you will leave the sanctuary and become true warriors!”
 
-It seemed like…
+It seemed like...
 
 “Behel—laaaaaaaaaa!!”
 
-…there were no newbies this time.
+...there were no newbies this time.
 
 ---
 
@@ -296,7 +296,7 @@ I could say with certainty.
 
 ‘Now.’
 
-And the proof… was this clearing.
+And the proof... was this clearing.
 
 The tutorial lines had changed.
 
@@ -308,7 +308,7 @@ And that was just the main course. The standard equipment had also been signific
 
 “Come here. You’re not supposed to wear greaves like that. It’s like this.”
 
-“Ah, thank you… I’ve never worn armor before.”
+“Ah, thank you... I’ve never worn armor before.”
 
 We weren’t just giving them a breastplate and sending them into the labyrinth anymore. We were providing them with a full set of armor.
 
@@ -324,7 +324,7 @@ Our sanctuary was a gold mine.
 
 It was still in its early stages, but if things continued like this, I would be able to create a virtuous cycle.
 
-“Ugh… this is so uncomfortable…!”
+“Ugh... this is so uncomfortable...!”
 
 The young warriors seemed to find the armor restrictive, but they didn’t complain.
 
@@ -336,13 +336,13 @@ Everyone had role models.
 
 “It’s not a choice! Warriors wear armor! Look at the Chieftain!”
 
-“…….”
+“.......”
 
 “If you want to be a great warrior, wear armor!”
 
 There were no longer any warriors in our tribe who looked down on armor.
 
-“…I’m going to save up and buy a Laithium breastplate!”
+“...I’m going to save up and buy a Laithium breastplate!”
 
 Laithium, my favorite material, had become a symbol of a seasoned warrior.
 
@@ -350,11 +350,11 @@ Laithium, my favorite material, had become a symbol of a seasoned warrior.
 
 After the equipment distribution, we went outside, and Bersil cast the Bonding spell on the warriors, grouping them into teams of three. Then we sent them into the labyrinth.
 
-“…I hope they all return safely.”
+“...I hope they all return safely.”
 
 “Don’t worry, Ainar. The Mage Tower has banned the use of barbarian hearts, so there will be fewer looters.”
 
-“Really…?”
+“Really...?”
 
 Barbarians had always survived, even when they were sent into the labyrinth without proper shoes.
 
@@ -366,11 +366,11 @@ I dismissed my thoughts after confirming that all the warriors had entered the p
 
 My duty as Chieftain was done.
 
-“Mister…”
+“Mister...”
 
 “I’m not your ‘Mister’ anymore.”
 
-“…Huh?”
+“...Huh?”
 
 “Call me Clan Master.”
 

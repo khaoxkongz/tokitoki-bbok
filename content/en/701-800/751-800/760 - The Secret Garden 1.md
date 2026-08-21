@@ -28,17 +28,17 @@ Considering he is the vice captain of Orcules, perhaps it should not have been s
 
 It had been a surprise attack back then, but even so, it was hard to accept that someone like him had managed to overpower Aynar of all people.
 
-“Jandel… be careful. He uses some really strange techniques…”
+“Jandel... be careful. He uses some really strange techniques...”
 
 Hearing Aynar’s advice, I couldn’t help but chuckle.
 
-‘…So she can sound this scared too.’
+‘...So she can sound this scared too.’
 
 Then again, she likely had no idea what essences Banozant possessed or what abilities they granted him. Naturally, they would have seemed very strange to her.
 
 If I take on the Demon Eye myself, can Amelia and Aynar handle the remaining enemies while also protecting two people?
 
-Tsk… this is going to be rough.
+Tsk... this is going to be rough.
 
 Just as I was thinking that
 
@@ -50,7 +50,7 @@ Huh? Why is he picking me out this time?
 
 “You are already surrounded. If you are relying on the Imperial Army, I advise you to abandon that hope immediately. The Imperial Army is currently in retreat.”
 
-“…And?”
+“...And?”
 
 “I offer a proposal to you, whose future is already foretold. Lay down your weapons and surrender. I cannot speak in detail here, but the City Lord wishes to meet you.”
 
@@ -137,7 +137,7 @@ Dozens of cloaked figures stood tall in ankle-length robes, exuding an ominous p
 
 It was certainly an impressive display of force, but Demon Eye ignored those behind Baek-ho and stared straight at him.
 
-“What business do you have here…?”
+“What business do you have here...?”
 
 A strange feeling of kinship washed over me at the question. It seemed the vice captain knew as well as I did how unpredictable this brat could be.
 
@@ -155,7 +155,7 @@ My allies had been forced to search for me beyond the walls, only to arrive in t
 
 In the end, I made him kneel.
 
-[I… apologize… for… threatening… the Baron…]
+[I... apologize... for... threatening... the Baron...]
 
 I couldn’t even imagine the level of shame and humiliation he must have felt. He likely held a massive grudge against me. Therefore, he had to be classified as a negative variable in this situation.
 
@@ -165,11 +165,11 @@ Demon Eye muttered, and Lee Baek-ho grinned broadly and shouted.
 
 “Correct!”
 
-“…State your business.”
+“...State your business.”
 
 “Chilling around and watching you two fight felt like it would get boring pretty fast.”
 
-“Chilling…?”
+“Chilling...?”
 
 The Vice Captain didn’t understand modern slang, so rather than explaining the word, Baek-ho cut straight to the chase.
 
@@ -195,7 +195,7 @@ Lee Baek-ho did not miss the opening and pounced on it.
 
 The petty insults hit their mark, and Demon Eye ground his teeth.
 
-“This is why they say you shouldn’t trust a stray dog that bites anyone…”
+“This is why they say you shouldn’t trust a stray dog that bites anyone...”
 
 “Hey, that’s hurtful. Why am I a dog?”
 
@@ -203,7 +203,7 @@ Despite Baek-ho’s provocative words, Demon Eye quickly regained his composure.
 
 “So what do you mean by ‘square off’?”
 
-“Oh! Guess I should explain that first! Basically, a duel—no, wait. Um…” Baek-ho paused to think, then lowered his voice as if signaling the end of the joke.
+“Oh! Guess I should explain that first! Basically, a duel—no, wait. Um...” Baek-ho paused to think, then lowered his voice as if signaling the end of the joke.
 
 “Fight each other. One versus one.”
 
@@ -221,13 +221,13 @@ The answer didn’t come easily. Demon Eye and I both knew that Baek-ho’s talk
 
 There was definitely something else he was scheming.
 
-But still…
+But still...
 
-‘For now, maybe he’s on the positive side…’
+‘For now, maybe he’s on the positive side...’
 
 That was the conclusion I reached. If Baek-ho had joined in to pressure me, I would have had no way out. The fact that he wasn’t hostile right away was a good thing for me.
 
-Who knows where this will lead, but for now…
+Who knows where this will lead, but for now...
 
 “Oh! Come to think of it, I didn’t ask Baron Jandel for his opinion! What do you think, Baron? Is a one-on-one okay with you?”
 
@@ -241,7 +241,7 @@ I made my decision, and a delighted Lee Baek-ho pressured Demon Eye further.
 
 “Why aren’t you answering?”
 
-“Don’t tell me…?”
+“Don’t tell me...?”
 
 “Wow, are you actually scared?”
 
@@ -249,17 +249,17 @@ The taunting didn’t stop.
 
 Finally, Demon Eye spoke.
 
-“…If I accept this ‘one-on-one,’ can you promise not to interfere?”
+“...If I accept this ‘one-on-one,’ can you promise not to interfere?”
 
 “Eh? A promise?”
 
 Lee Baek-ho tilted his head. He probably hadn’t expected the word “promise” to be brought up when it had just been proven before how meaningless that word was to him.
 
-However…
+However...
 
 “Sure, I’ll do it! A promise! I can do it a hundred times!”
 
-“…Then I shall agree as well.”
+“...Then I shall agree as well.”
 
 “Oh, for real?”
 

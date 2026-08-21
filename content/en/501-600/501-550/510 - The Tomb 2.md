@@ -6,15 +6,15 @@ My first companion, and the first person I killed in this world.
 
 Thanks to him, I had been able to evolve from a helpless newbie to a seasoned explorer. And it was because of him that I had met Erwen and come this far.
 
-But…
+But...
 
-‘Maybe it’s because his name was Hans… he’s surprisingly persistent.’
+‘Maybe it’s because his name was Hans... he’s surprisingly persistent.’
 
-His portrait…
+His portrait...
 
 It was the first thing I had discarded after looting his body. Was it some kind of cursed doll that kept coming back?
 
-“Hmm, you threw it away in the labyrinth…?”
+“Hmm, you threw it away in the labyrinth...?”
 
 What? When did Amelia get here?
 
@@ -22,7 +22,7 @@ I looked around, and the other teammates were also eavesdropping while pretendin
 
 Explorers had sharp ears.
 
-“…Maybe this is where everything that disappears from the labyrinth ends up.”
+“...Maybe this is where everything that disappears from the labyrinth ends up.”
 
 Bersil offered a theory, but it was something anyone would have thought of after hearing my story.
 
@@ -34,23 +34,23 @@ Bersil offered a theory, but it was something anyone would have thought of after
 
 Amelia pointed at the floating objects, and Bersil hesitated, unable to answer.
 
-“That’s… strange… Why…?”
+“That’s... strange... Why...?”
 
 The flaw in her theory.
 
 Surprisingly, it was Auyen, the navigator, who provided the answer.
 
-“Those… might be furniture from large ships.”
+“Those... might be furniture from large ships.”
 
 “Large ships?”
 
 “I heard that Space-Time magic wasn’t as advanced when the 6th floor was first explored. So the ancient explorers couldn’t summon ships like we do.”
 
-“Oh, so…?”
+“Oh, so...?”
 
 “They built their ships on the starting island and then left them on the 6th floor. It’s a well-known fact among navigators.”
 
-“…How is that possible? Did they just abandon their ships after using them once?”
+“...How is that possible? Did they just abandon their ships after using them once?”
 
 “No, they used magic. Space-Time magic wasn’t as advanced as it is now, but it still existed.”
 
@@ -68,11 +68,11 @@ He was getting too excited. He needed to focus on navigating.
 
 “Just focus on steering the ship.”
 
-“Ah… yes!”
+“Ah... yes!”
 
 “Erwen, stop eavesdropping.”
 
-“……!”
+“......!”
 
 “Ainar, your cleaning has stopped.”
 
@@ -86,17 +86,17 @@ The important thing was that we could find items that had disappeared from the l
 
 “Okay.”
 
-Hans A’s family portrait might be useless now…
+Hans A’s family portrait might be useless now...
 
 But who knew what we might find?
 
-Numbered Items, high-grade equipment…
+Numbered Items, high-grade equipment...
 
 There must be countless lost treasures in this sea.
 
 Just like the equipment we had to abandon in Ice Rock.
 
-‘Hmm, so it’s not a garbage dump… it’s a tomb. Filled with valuable artifacts.’
+‘Hmm, so it’s not a garbage dump... it’s a tomb. Filled with valuable artifacts.’
 
 Now I understood.
 
@@ -104,7 +104,7 @@ Why there were so many explorers waiting in front of the stone tablet, even with
 
 It was worth the risk.
 
-‘New monster essences, byproducts, and lost treasures…’
+‘New monster essences, byproducts, and lost treasures...’
 
 I wondered how much we would earn after returning to the city.
 
@@ -112,17 +112,17 @@ As I was thinking that, Erwen shouted from the crow’s nest,
 
 “Mister! Land! I see an island!”
 
-…I hoped it wasn’t another 1st-grade monster.
+...I hoped it wasn’t another 1st-grade monster.
 
 ---
 
 Thankfully, it really was an island.
 
-Well, calling it an island was a bit of a stretch…
+Well, calling it an island was a bit of a stretch...
 
 But it wasn’t a monster.
 
-“…It looks like a temple.”
+“...It looks like a temple.”
 
 A single structure, supported by two pillars, was floating on the water.
 
@@ -138,7 +138,7 @@ The water around the island was shallow, so we transferred to a smaller boat and
 
 And then we slowly rowed towards the island.
 
-“…This is a strange place.”
+“...This is a strange place.”
 
 As we approached the entrance, the shadows receded, revealing the interior.
 
@@ -160,7 +160,7 @@ Thump, thump, thump—
 
 I took the lead and descended the stairs, ready to tank any damage.
 
-And after a while…
+And after a while...
 
 “It’s deep.”
 
@@ -174,25 +174,25 @@ Thump!
 
 I finally reached the bottom.
 
-“Ugh… it smells like dust.”
+“Ugh... it smells like dust.”
 
 A musty smell filled the air.
 
 The visibility was low, but the surroundings gradually became brighter.
 
-“……!”
+“......!”
 
 It was as if someone had flipped a switch.
 
 My teammates flinched, looking around for enemies, and then they all stared at the surroundings in awe.
 
-“This is…”
+“This is...”
 
 The ceiling was incredibly high, as high as the staircase we had just descended.
 
 And giant bookshelves reached all the way to the ceiling.
 
-“What is this…? A library…?”
+“What is this...? A library...?”
 
 It resembled a library, but there was a key difference.
 
@@ -210,9 +210,9 @@ But the books themselves weren’t that heavy. An explorer could easily lift one
 
 Ainar took a book from the shelf and placed it on the floor, opening it.
 
-But…
+But...
 
-“It’s blank…”
+“It’s blank...”
 
 So the books were just decorations?
 
@@ -224,9 +224,9 @@ It was a cylindrical space.
 
 Curved bookshelves lined the walls, reaching all the way to the ceiling.
 
-And…
+And...
 
-“…I don’t know what this is for.”
+“...I don’t know what this is for.”
 
 A stone slab that looked like a table stood in the center.
 
@@ -234,11 +234,11 @@ And at the opposite end of the staircase, there was a large stone door between t
 
 I examined everything carefully, but I couldn’t find anything.
 
-‘It seems like you have to use this somehow…’
+‘It seems like you have to use this somehow...’
 
 There didn’t seem to be any monsters or traps, so I let my teammates explore the area.
 
-And after a while…
+And after a while...
 
 “Yandel, I found a book with something written in it! But it’s in ancient language, so you should come take a look.”
 
@@ -248,7 +248,7 @@ I rushed over to Bersil, and a book was open on the floor.
 
 There was a picture on one page, and text on the other.
 
-“The picture looks like a 9th-grade Wall Mole… but I can’t read the text.”
+“The picture looks like a 9th-grade Wall Mole... but I can’t read the text.”
 
 Bersil was right. The picture was of a Wall Mole.
 
@@ -262,13 +262,13 @@ Abilities.
 
 And a description of its name, abilities, and behavior.
 
-“…It’s like an encyclopedia. Is this the only one?”
+“...It’s like an encyclopedia. Is this the only one?”
 
 “Yes. All the other pages are blank.”
 
-“I see…”
+“I see...”
 
-“You seem… thoughtful.”
+“You seem... thoughtful.”
 
 “Just thinking.”
 
@@ -306,23 +306,23 @@ Thud.
 
 I placed the book on the stone slab in the center of the room.
 
-And after about three seconds…
+And after about three seconds...
 
-“…You’re wrong.”
+“...You’re wrong.”
 
-Amelia spoke, and at that moment…
+Amelia spoke, and at that moment...
 
 Swaaaaaaaaaa!
 
-…the stone slab started glowing blue.
+...the stone slab started glowing blue.
 
 Something had changed.
 
 And in [Dungeon and Stone], that usually meant danger.
 
-Therefore…
+Therefore...
 
-“Bjorn! The stone door! It’s opening…!”
+“Bjorn! The stone door! It’s opening...!”
 
 I ran towards the door and shouted,
 
@@ -332,15 +332,15 @@ My teammates quickly got into formation, their faces grim.
 
 A tense silence filled the room.
 
-One second, two seconds, three seconds…
+One second, two seconds, three seconds...
 
-And then, after four seconds…
+And then, after four seconds...
 
 A monster emerged from the slightly opened door.
 
 [Squeak—]
 
-…It was a Wall Mole.
+...It was a Wall Mole.
 
 [Squeak!]
 
@@ -352,9 +352,9 @@ The first monster we encountered had been a 1st-grade Tol-Lafupa.
 
 So we were all wary of what might emerge from the stone door.
 
-But…
+But...
 
-“A Wall Mole…?”
+“A Wall Mole...?”
 
 A single 9th-grade monster?
 
@@ -364,7 +364,7 @@ I said that, but I was also disappointed.
 
 But my disappointment quickly turned into understanding.
 
-‘…I see how it works.’
+‘...I see how it works.’
 
 We had placed a book about the ‘Wall Mole’ on the stone slab, and a ‘Wall Mole’ had appeared.
 
@@ -378,7 +378,7 @@ Did she understand my intentions without any explanation?
 
 It didn’t matter.
 
-[……!]
+[......!]
 
 The Wall Mole, which had been waddling towards us, died without a sound.
 
@@ -396,19 +396,19 @@ Rumble!
 
 The stone door closed.
 
-And…
+And...
 
 “Oh! Yandel! Look!”
 
-…a staircase leading to the second level of the bookshelf appeared.
+...a staircase leading to the second level of the bookshelf appeared.
 
 It was a surprisingly straightforward progression, even for [Dungeon and Stone].
 
-‘So we have to summon monsters and climb up…’
+‘So we have to summon monsters and climb up...’
 
 I checked the book before going upstairs.
 
-“The picture and the text are gone…”
+“The picture and the text are gone...”
 
 So we couldn’t reuse the books.
 
@@ -426,7 +426,7 @@ But the books on the shelf wouldn’t budge.
 
 ‘So I can climb up, but I can’t take the books.’
 
-I was curious what was at the top…
+I was curious what was at the top...
 
 But I decided to save it for later.
 
@@ -438,29 +438,29 @@ My teammates started searching the bookshelves, and it didn’t take long for us
 
 This time, it had two monsters.
 
-A 8th-grade Nightfla…
+A 8th-grade Nightfla...
 
 “Oh! I know this one! It uses the same ability as the vampire we met in the Blood Citadel!”
 
-…and a McGuffin.
+...and a McGuffin.
 
-“…What does it say?”
+“...What does it say?”
 
-“It already has a name… we wasted our time.”
+“It already has a name... we wasted our time.”
 
-They were all curious about the McGuffin’s entry…
+They were all curious about the McGuffin’s entry...
 
-‘Let’s see… the name is…’
+‘Let’s see... the name is...’
 
-…and I froze as I read the first line.
+...and I froze as I read the first line.
 
-“…Huh? Bjorn, what’s wrong?”
+“...Huh? Bjorn, what’s wrong?”
 
 Ainar approached me, concern etched on her face.
 
 Bersil also asked,
 
-“…Yandel? Is there a problem?”
+“...Yandel? Is there a problem?”
 
 I didn’t answer and just said,
 
@@ -470,11 +470,11 @@ I didn’t answer and just said,
 
 “The book also calls it a McGuffin.”
 
-“…What? But you named it…”
+“...What? But you named it...”
 
 That’s what was strange.
 
-“W-What a coincidence…? They have the same name…?”
+“W-What a coincidence...? They have the same name...?”
 
 Auyen muttered, his voice filled with disbelief.
 
@@ -482,7 +482,7 @@ It was an understandable reaction.
 
 It was much easier to believe it was a coincidence.
 
-But…
+But...
 
 Name.
 
@@ -490,10 +490,10 @@ Habitat.
 
 Abilities.
 
-I reached the etymology section and read…
+I reached the etymology section and read...
 
-[…Bjorn, son of Yandel, the first explorer to enter the 1st Basement Floor: Archives, named this creature after its discovery.]
+[...Bjorn, son of Yandel, the first explorer to enter the 1st Basement Floor: Archives, named this creature after its discovery.]
 
-…and I froze.
+...and I froze.
 
 What the hell was going on?

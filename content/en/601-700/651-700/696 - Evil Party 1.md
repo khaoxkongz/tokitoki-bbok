@@ -10,17 +10,17 @@ Other than that brief encounter in the dream world after I came back to the mode
 
 It couldn’t be more ironic. After he gave me that advice, I ended up journeying with Baek-ho himself and now, in the middle of those travels, I ran into this old man again.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 Of course, putting aside the odd feeling of seeing him again, I quickly analyzed what he had said earlier.
 
-‘He clearly said “all of you” a moment ago, right…?’
+‘He clearly said “all of you” a moment ago, right...?’
 
 ‘Still, it’s been a while, all of you.’ The old man said this as he turned and looked each one of us in the face, almost as though he’d met us all before.
 
-‘Could it be that Rex Aures and Jayna also have a connection with this old man?’ Just as I was thinking that and glancing around my surroundings…
+‘Could it be that Rex Aures and Jayna also have a connection with this old man?’ Just as I was thinking that and glancing around my surroundings...
 
 “You’ve all gotten awfully quiet since I last saw you.” The old man broke the silence and spoke to us again.
 
@@ -30,7 +30,7 @@ His eyes looked ready to leap at the old man at any moment, but Auril Gavis only
 
 “What purpose would an old relic like me have in appearing before those who now lead this era?”
 
-“…Old-timer, my ass. Hey, old man. You know what all old-timers have in common?”
+“...Old-timer, my ass. Hey, old man. You know what all old-timers have in common?”
 
 “Hmm, what might that be?”
 
@@ -52,7 +52,7 @@ Crack.
 
 Well, from Baek-ho’s perspective, it made perfect sense. “Auril Gavis” was the one who dragged us all into this shitty world.
 
-Naturally, all the anger and resentment we’d gathered from living here ad to be directed at that old man…
+Naturally, all the anger and resentment we’d gathered from living here ad to be directed at that old man...
 
 “Sir.”
 
@@ -67,22 +67,22 @@ The goodwill and respect in GM’s eyes and voice made it clear he wasn’t acti
 “Hoho, that’s nothing to be thankful for.”
 
 “What the hell are you two talking about?”
-Baek-ho cut in sharply, but neither the GM nor the old man answered his question. If I had to guess…
+Baek-ho cut in sharply, but neither the GM nor the old man answered his question. If I had to guess...
 ‘Are they talking about the community?’
 
 Given the flow of their conversation, it seemed like the only possibility. Well, it made sense, since it was this old man who had handed over the operational rights of Ghost Busters to the GM when he was still a rookie.
 
 “Rather, I’m the one who should feel sorry. You must have had plenty of reasons to resent me.”
 
-“I was a bit surprised that you didn’t give any warning beforehand, but… how could I resent you? I simply returned what was lent to me.”
+“I was a bit surprised that you didn’t give any warning beforehand, but... how could I resent you? I simply returned what was lent to me.”
 
 “Haha, my eyes never fail me. I knew you’d grow into someone impressive.”
 
-“…It’s thanks to you. But, if I may ask, how do you know the Baron…?”
+“...It’s thanks to you. But, if I may ask, how do you know the Baron...?”
 
 “Well, let’s just say we crossed paths here and there for various reasons.”
 
-“I… see.”
+“I... see.”
 
 The two of them laughed and traded compliments, their interaction was warm and easy.
 
@@ -94,7 +94,7 @@ To be honest, I felt the same. How could he smile so stupidly? If it weren’t f
 
 “Hmm, I’d prefer to call him a smart fellow.”
 
-“…Huh?”
+“...Huh?”
 
 “He’s intelligent, young, and also knows how to show respect.” Ruin Gramps jumped in to defend the GM. Perhaps the GM just had a way with old men.
 
@@ -102,7 +102,7 @@ I couldn’t tell, but Ruin Gramps wasn’t much different from him.
 
 “It’s been a long time, Master.”
 
-“Ah, Ruinzenes… Good to see you. Have you been well?”
+“Ah, Ruinzenes... Good to see you. Have you been well?”
 
 “What’s the point of even asking?”
 
@@ -120,7 +120,7 @@ They exchanged a bit of casual conversation for their reunion, but it ended quic
 
 The moment Auril Gavis gave his permission, Ruin Gramps dropped a heavy question.
 
-“Master… have you already achieved immortality?”
+“Master... have you already achieved immortality?”
 
 “Haha. You begin with quite the difficult question.”
 
@@ -130,9 +130,9 @@ The moment Auril Gavis gave his permission, Ruin Gramps dropped a heavy question
 
 Auril Gavis cut Ruin Gramps off and spoke. He spoke as if he were advising a child.
 
-“Eternity doesn’t exist in any world, Ruingenes… Everything changes eventually, even the things you thought never would.”
+“Eternity doesn’t exist in any world, Ruingenes... Everything changes eventually, even the things you thought never would.”
 
-“…That’s a pretty philosophical way to put it.” Ruin Gramps nodded, genuinely accepting the answer.
+“...That’s a pretty philosophical way to put it.” Ruin Gramps nodded, genuinely accepting the answer.
 
 Baek-ho, however, scoffed.
 
@@ -148,7 +148,7 @@ Baek-ho, fed up with the pointless chatter, cut straight to the point.
 
 As usual, he tried to get under his opponent’s skin with sharp words, but this time his target wasn’t some ordinary mob.
 
-“Haha… It is you who should be thankful.”
+“Haha... It is you who should be thankful.”
 
 “Ha! Thankful?”
 
@@ -156,13 +156,13 @@ Auril Gavis’s eyes flashed sharply as he looked at Baek-ho, who exhaled in dis
 
 “Of course you should be grateful.”
 
-“……”
+“......”
 
 “For the fact that I still haven’t found a reason to dispose of you.”
 
 The moment his words ended, I could feel the air shift with my entire body.
 
-“……”
+“......”
 
 It felt as if steel thorns had sprouted in the soft air. Then, Auril Gavis, who had overwhelmed everyone with just the atmosphere, took a step forward and continued.
 
@@ -174,17 +174,17 @@ Unlike Baek-ho’s usual vague “maybe I will, maybe I won’t,” Auril Gavis�
 
 I could see that even Baek-ho was momentarily pressured. Well, of course no matter how strong he was, he couldn’t help but yield a little before this old monster.
 
-“…So what the hell do you want from me? And who the hell is Bright? It seems like you planted him by my side a long time ago.”
+“...So what the hell do you want from me? And who the hell is Bright? It seems like you planted him by my side a long time ago.”
 
 “Bright was a guide for you.”
 
-“What? A guide…?”
+“What? A guide...?”
 
 “You’re a high-risk individual, after all. Isn’t it reasonable to have at least one person to guide you? Someone who can show you the right path so you don’t stray.”
 
 “It was so shameless that even I, just listening from the sidelines, was left speechless. But that’s simply how things work in this world.”
 
-“……”
+“......”
 
 A world where you can’t even speak unless you have power. And Baek-ho, who had enjoyed the privileges of strength for so long, was in no position to object to that kind of attitude.
 
@@ -192,13 +192,13 @@ A world where you can’t even speak unless you have power. And Baek-ho, who had
 
 Lee Baek-ho, who had been silent for a while, continued in a somewhat resigned voice.
 
-“What do you want from me…? Just say it…”
+“What do you want from me...? Just say it...”
 
 The feeling that came through in his brief request wasn’t sadness or anger, but a deep, weary exhaustion that showed just how long Baekho had been tired.
 
-“Hm… there isn’t anything I particularly want from you.”
+“Hm... there isn’t anything I particularly want from you.”
 
-“…What?”
+“...What?”
 
 “You know it by now, don’t you? That you’re a defective one.”
 
@@ -206,17 +206,17 @@ Auril Gavis looked Baek-ho straight in the eyes and spoke in clear, precise word
 
 “I never wanted you, not even once. I never wished for you to cross over here. So, I must say, I don’t even understand your hatred towards me. It’s misdirected, isn’t it?”
 
-“……”
+“......”
 
 “Well, if I must want one thing, it’s this: know your place and stay quiet.”
 
-“……”
+“......”
 
 “If you’re a supporting character, act like one. Don’t try to change the story.”
 
 Baek-ho didn’t say a word to Auril Gavis’s sharp remark, but the bloodshot look in his eyes showed just how deeply he was humiliated. Ah, of course, Ruin Gramps, with his zero empathy, didn’t seem to care at all.
 
-“If Lee Baek-ho is a supporting character… then that means we are supporting characters too, I suppose?”
+“If Lee Baek-ho is a supporting character... then that means we are supporting characters too, I suppose?”
 
 He seemed focused only on the one detail that caught his attention.
 
@@ -224,17 +224,17 @@ He seemed focused only on the one detail that caught his attention.
 
 In response to Auril Gavis’s question, Ruin Gramps shook his head.
 
-“Not particularly. I’m long past the age of thinking of myself as a protagonist…”
+“Not particularly. I’m long past the age of thinking of myself as a protagonist...”
 
 “And?”
 
 “What’s the point of playing the protagonist in a story someone else has written for you?”
 
-“……That sounds like a very meaningful statement?”
+“......That sounds like a very meaningful statement?”
 
 Auril Gavis looked mildly dissatisfied with Ruin Gramps’s response, but Ruin Gramps didn’t react. He simply went on, asking, ‘So, are you familiar with Ms. Flyer and Mr. Aures as well?’”
 
-“Hm…”
+“Hm...”
 
 “I don’t see any reason they’d be connected to you, so I’m curious.”
 
@@ -246,9 +246,9 @@ Then—
 
 “He was the one who told me that by offering a sacrifice, I could recover the memories I lost from Karui.”
 
-“…I see. And Aures?”
+“...I see. And Aures?”
 
-“Uh… y-yes… I—I did meet him a few times when the royal family invaded the Noark and after, while I was with the lord…”
+“Uh... y-yes... I—I did meet him a few times when the royal family invaded the Noark and after, while I was with the lord...”
 
 Anyone could tell he was lying. Even Baekho squinted, and Ruin Gramps frowned.
 
@@ -256,12 +256,12 @@ Auril Gavis shook his head and revealed something shocking.
 
 “Aures is from the same world as Ruin Ruinzenes.”
 
-“…What?”
+“...What?”
 
 “R-really? He’s an evil spirit too?”
 
 Judging by their reactions, no one in the party seemed aware of it.
 
-All six of us are evil spirits…?
+All six of us are evil spirits...?
 
 Was this the evil-spirit dream team or something?

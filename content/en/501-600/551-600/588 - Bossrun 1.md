@@ -13,7 +13,7 @@ Or Lemenin, the Abyss Seeker.
 
 One of the reasons these revered figures are respected by all is not just because of their accomplishments, but because they selflessly gave and shared what they had for the greater good.
 
-In that sense…
+In that sense...
 
 “Alright, now that we’re inside, let’s briefly go over the Guardian we’ll be dealing with this time—”
 
@@ -29,7 +29,7 @@ That would explain why her bony shoulders shot up so proudly right after I said 
 
 “Raven, the reason I need you is for something else.”
 
-“…What is it?”
+“...What is it?”
 
 Her voice sounded somewhat sulky.
 
@@ -40,7 +40,7 @@ Though she did seem genuinely angry afterward.
 “This is a chance to obtain a Level 5 Guardian’s essence. Of course, we need to collect it in a vial.”
 Philosophy
 
-“……What?”
+“......What?”
 
 After a long pause, her voice rang out coldly.
 
@@ -48,11 +48,11 @@ I quickly continued, as if making an excuse.
 
 “And out of all the mages I know, you’re the one I trust the most, Raven.”
 
-“…What are you saying? Then what about Versil Gowland? I heard you get along well with him. Some even say she’s acting like your vice commander.”
+“...What are you saying? Then what about Versil Gowland? I heard you get along well with him. Some even say she’s acting like your vice commander.”
 
 “Trusting someone and trusting them to have my back are two entirely different things.”
 
-“Hmph… is that so?”
+“Hmph... is that so?”
 
 Fortunately, Raven’s expression softened again.
 
@@ -68,11 +68,11 @@ Well, one thing’s certain—if this guy ever takes an MBTI test, she’d defin
 
 “Unlike with me.”
 
-“…Huh?”
+“...Huh?”
 
-“No, just saying. Don’t get weird ideas. It’s just… the truth, isn’t it?”
+“No, just saying. Don’t get weird ideas. It’s just... the truth, isn’t it?”
 
-“Well… you’re not wrong.”
+“Well... you’re not wrong.”
 
 Versil doesn’t know I’m a Player.
 
@@ -91,31 +91,31 @@ Raven and I stayed at the start point and discussed the upcoming boss fight.
 
 Usually, I would explain something and Raven would ask curious questions, then nod in understanding or admiration.
 
-“I didn’t know there was a way like that… Is that from your world’s knowledge?”
+“I didn’t know there was a way like that... Is that from your world’s knowledge?”
 
 Usually, I would explain something, and Raven would ask questions out of curiosity, then nod in understanding or admiration.
 
 Strictly speaking, it wasn’t knowledge from this world but rather what I’d gained after dedicating my 20s to it.
 
-“…Something like that.”
+“...Something like that.”
 
 “That’s a pretty half-hearted answer.”
 
 “What are you saying? I’m always sincere.”
 
-“Well, that’s good to hear. Anyway… since we’ve got time, why don’t you tell me more about your world?”
+“Well, that’s good to hear. Anyway... since we’ve got time, why don’t you tell me more about your world?”
 
 Just as I was about to suggest we get moving, she made this request.
 
 Given how much I owed Raven, I couldn’t outright refuse.
 
-“Talking isn’t a problem, but… why so suddenly?”
+“Talking isn’t a problem, but... why so suddenly?”
 
-“It’s not sudden. I’ve always been curious. I just never had the chance with the two of us alone…”
+“It’s not sudden. I’ve always been curious. I just never had the chance with the two of us alone...”
 
 True, it would be awkward to talk about such things in front of others. Knowing her, she wouldn’t have dared to bring it up before.
 
-“…Thirty minutes. People are probably waiting outside.”
+“...Thirty minutes. People are probably waiting outside.”
 
 “Okay. Thirty minutes it is.”
 
@@ -126,25 +126,25 @@ When I smiled like I’d allow anything, Raven immediately asked:
 “Internal combustion engines.”
 Chemistry
 
-“…What?”
+“...What?”
 
 Not something I ever expected to hear from her mouth.
 
 “I heard those machines let huge metal carriages move without horses or magic. I want to know exactly how they work.”
 
-“…”
+“...”
 
 Maybe it’s because she’s a mage?
 
-When I talked to Amelia about the modern world, it was all about romantic things, like huge flying machines in the sky, people electing their rulers…
+When I talked to Amelia about the modern world, it was all about romantic things, like huge flying machines in the sky, people electing their rulers...
 
 “I-I do know.”
 
 “Really? Then explain. The exact principle behind an internal combustion engine!”
 
-“Um… it uses steam? Or thermal energy? To rotate wheels.”
+“Um... it uses steam? Or thermal energy? To rotate wheels.”
 
-“…That’s it?”
+“...That’s it?”
 
 Raven’s fervor cooled at my reply. I felt a strange sense of shame, but I continued on
 
@@ -168,17 +168,17 @@ I had suspected it since she asked about combustion engines, but Raven knew a su
 
 “Really?”
 
-“Yeah… I even studied it on my own later.”
+“Yeah... I even studied it on my own later.”
 
 “You studied it?”
 
-“After we met again at that time, I got curious. And being in the military made it easier to access related information…”
+“After we met again at that time, I got curious. And being in the military made it easier to access related information...”
 
 Back then, she’d been wary of me as an evil spirit and avoided topics about my world. Now, however, her curiosity seems to have grown.
 
 That’s why she brought it up as soon as we were alone.
 
-“Anyway… time’s up.”
+“Anyway... time’s up.”
 
 “Ah, already?”
 
@@ -188,7 +188,7 @@ Raven looked disappointed but didn’t insist on continuing.
 
 The guardian essence from the 5th floor is extremely valuable.
 
-Since there are twelve different types of rifts that can open, getting a specific essence is very difficult…
+Since there are twelve different types of rifts that can open, getting a specific essence is very difficult...
 
 In fact, guardian essences from the 5th floor and above never even show up at auction. No one sells them—and even if someone tries, the royal family secretly buys them up first.
 
@@ -196,7 +196,7 @@ In fact, guardian essences from the 5th floor and above never even show up at au
 
 “No, it’s my first time. At least in this body.”
 
-“Ohh…”
+“Ohh...”
 
 “Didn’t I say we’re done talking? Focus.”
 
@@ -206,7 +206,7 @@ Whoosh—!
 
 A small flame crackled in the middle of a pitch-black, charred forest. This flame marked the boss room of the 5th-floor rift, “Burning Forest.”
 
-Originally, you’d have to clear several chapters and extinguish fires in all directions before reaching this place, but…….
+Originally, you’d have to clear several chapters and extinguish fires in all directions before reaching this place, but.......
 
 But here, all that tedious stuff is skipped.
 
@@ -266,7 +266,7 @@ Its body was entirely made of flames.
 
 It wore a mask that revealed only its lower face. Its upper body looked human, but its lower half resembled a genie with flames in place of legs.
 
-‘No change in appearance…’
+‘No change in appearance...’
 
 As usual after meeting the Duke of Cambormere, I tried talking to it, but got no response.
 
@@ -290,15 +290,15 @@ Using [Gigantification] and [Wild Outburst] to boost my threat level.
 
 Combining them with the Aegis Wall, I firmly held the aggro of the rift Guardian, whose aggro was notoriously hard to draw and maintain.
 
-And then…….
+And then.......
 
 「Flame Lord Pianil has cast [Bell of Embers].」
 
-Whether it summoned minions, used attacks, or changed phases with unique mechanics…….
+Whether it summoned minions, used attacks, or changed phases with unique mechanics.......
 
 I just kept holding on.
 
-With Raven’s buffs, I could’ve dealt damage using [Swing], but…….
+With Raven’s buffs, I could’ve dealt damage using [Swing], but.......
 
 ‘Why bother?’
 
@@ -324,7 +324,7 @@ Add in the Fire Orb’s effect, and it feels more like a sauna than a battle.
 
 Oh, and the temperature is around 120°C,
 
-“……You’ve really become a monster, Mr. Jandel.”
+“......You’ve really become a monster, Mr. Jandel.”
 
 Honestly, I’d been having trouble breathing for a while now, but the praise from a comrade is enough to make my barbarian body dance.
 
@@ -346,13 +346,13 @@ Swish—!
 
 First, a chilling cold spread from Raven’s feet, freezing the ground around her.
 
-And then…….
+And then.......
 
 Whoosh—!
 
 Something translucent shot toward the boss like an arrow, slipped into its body, and vanished as if it had never existed.
 
-“…….”
+“.......”
 
 The monster froze,
 
@@ -366,7 +366,7 @@ But Raven didn’t give me time to answer before continuing.
 
 “Because it blooms. Literally.”
 
-“……?”
+“......?”
 
 “From the inside.”
 
@@ -384,7 +384,7 @@ Dozens of icy spikes burst through the monster’s skin.
 
 “But.”
 
-“…?”
+“...?”
 
 “It’s called a snowflake, not a thorn, for a reason.”
 
@@ -400,7 +400,7 @@ She clearly rehearsed those lines in advance.
 
 Unsure how to respond, I recalled the boss’s final moment.
 
-If it were me naming that spell…
+If it were me naming that spell...
 
 ‘Transformed Sea Urchin.’
 
@@ -422,7 +422,7 @@ Ah, of course, it was Raven’s request.
 
 “I’m helping you, Mr. Jandel. So stop acting so annoyed, okay?”
 
-“Hey now… helping? That’s a bit—”
+“Hey now... helping? That’s a bit—”
 
 “What are we, anyway? I’m not even a member of your clan.”
 
@@ -432,15 +432,15 @@ So I chatted diligently.
 
 At first, Raven was focused on modern tech, but later, his questions turned personal.
 
-“So… what was your real name?”
+“So... what was your real name?”
 
 “Oh, didn’t I tell you?”
 
-“…Nope.”
+“...Nope.”
 
 “Lee Han-soo. And it’s not Hans, okay? Be careful with the pronunciation.”
 
-“Lee Han… Soo…”
+“Lee Han... Soo...”
 
 “Yeah, close enough.”
 
@@ -452,25 +452,25 @@ Even some heavy topics.
 
 After the basic background check, the conversation eventually shifted to [Dungeon & Stone].
 
-“So… you actually opened the ‘Abyss Gate’ once?”
+“So... you actually opened the ‘Abyss Gate’ once?”
 
 “In the game, yes. And right after opening it, I got dragged here, so I don’t know what lies beyond.”
 
-“……Wait. If you opened the Gate and came here, then what happens if it’s opened from this side?”
+“......Wait. If you opened the Gate and came here, then what happens if it’s opened from this side?”
 
-“……?”
+“......?”
 
 “Like, would you go back? To your original world?”
 
-“Well… maybe.”
+“Well... maybe.”
 
-“Oh, oh? Uh… I see…….”
+“Oh, oh? Uh... I see.......”
 
 “That’s enough for now. Let’s get moving.”
 
 We then entered the boss room, and fought. Raven made a mistake that nearly caused a crisis, but thankfully, I got us through it safely.
 
-‘…We’ve already taken down six.’
+‘...We’ve already taken down six.’
 
 I’d been worried about the 5th-floor Guardians, but it was going surprisingly smoothly.
 
@@ -480,11 +480,11 @@ But after everything I’d been through, this didn’t even feel like a crisis.
 
 “Mr. Jandel, if you’re ready, shouldn’t we head to the next portal?”
 
-“…Huh?”
+“...Huh?”
 
 “I still have stamina left. And we’ve already gone over all the information.”
 
-Well, that’s true, but…….
+Well, that’s true, but.......
 
 ‘Weird.’
 
@@ -492,7 +492,7 @@ For a moment, I was suspicious of Raven’s urging. But it was only for a moment
 
 “Raven, from now on, I’ll be going with someone else.”
 
-“…What?”
+“...What?”
 
 “You’ve worked hard. Take a break.”
 
@@ -502,7 +502,7 @@ But instead of being relieved, Raven’s expression turned icy.
 
 “Take a break? What are you talking about? Are you ditching me now?”
 
-“…Ditching you? What kind of talk is that?”
+“...Ditching you? What kind of talk is that?”
 
 It’s just that I won’t need a mage from now on.
 
@@ -514,7 +514,7 @@ I answered Raven’s question with a small smirk, then turned to someone else.
 
 “Emily.”
 
-“…?”
+“...?”
 
 “Let’s go get you an essence.”
 

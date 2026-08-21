@@ -6,11 +6,11 @@ Its performance is solid, but what makes it especially valuable is its relativel
 
 ‘There are quite a few mace warriors in this world.’
 
-Swords, hammers, maces, polearms, spears…
+Swords, hammers, maces, polearms, spears...
 
 There are countless weapons in the world, and in most games, ‘maces’ are considered non-mainstream weapons.
 
-But here…
+But here...
 
 “It’s actually not a bad weapon.”
 
@@ -22,7 +22,7 @@ It made sense, really. Assuming everything else was equal, no weapon could compe
 
 Ah, of course, that’s for beginners.
 
-‘I often raised them in the early stages of the game…’
+‘I often raised them in the early stages of the game...’
 
 I eventually switched to another weapon because of the iron mace’s limitations, but that was just my circumstance.
 
@@ -30,7 +30,7 @@ People here don’t get second or third playthroughs.
 
 The more you use a weapon, the more proficient you become with it. For explorers whose livelihoods depend on survival, switching weapons is not something they can do lightly.
 
-Meaning, it’s common to use the weapon you started with even later on…
+Meaning, it’s common to use the weapon you started with even later on...
 
 Because of that, plenty of players carried their early-game weapons all the way to the late-game.
 
@@ -122,29 +122,29 @@ Of course, I wasn’t entirely comfortable with it.
 
 The more I liked the Siege Slaughterer, the more uneasy I felt.
 
-But…
+But...
 
 Badump-!
 
-…Yeah, I’d rather think of it as compensation.
+...Yeah, I’d rather think of it as compensation.
 
 Compensation for the months of hell I endured in that dream world.
 
 Badump-!
 
-Um… Still, I should be careful.
+Um... Still, I should be careful.
 
 This might be a sign of the next misfortune. I need to stay focused in case any danger comes our way.
 
 Yes, so then—.
 
-“Ev, ev, ev…!”
+“Ev, ev, ev...!”
 
 The archer suddenly shouted urgently.
 
 “Everyone Dodge!!”
 
-…Huh?
+...Huh?
 
 It’s happening already?
 
@@ -154,7 +154,7 @@ Out of habit, I immediately scanned our surroundings, assessing the situation fo
 
 But—
 
-“…Shit.”
+“...Shit.”
 
 Everyone else’s expressions were way too urgent.
 
@@ -184,11 +184,11 @@ I needed to run too.
 
 I tried to move—
 
-“…dammit.”
+“...dammit.”
 
 But equipping the Siege Slaughterer had slashed my Agility by eighty percent, and my body was far too slow.
 
-I tried to store it back in subspace, but…
+I tried to store it back in subspace, but...
 
 I had already missed my chance.
 
@@ -196,7 +196,7 @@ I had already missed my chance.
 
 Baek-ho shouted, still carrying Ruin Gramps.
 
-Up…?
+Up...?
 
 Only now did I understand.
 
@@ -266,7 +266,7 @@ The monster came crashing down on me, pinning my rock-stiff body beneath its fro
 
 The physical damage was manageable.
 
-“Gah…!”
+“Gah...!”
 
 I coughed up blood, but I was still alive.
 
@@ -302,11 +302,11 @@ All Level-1 monsters were absurdly strong, and among them, dragons were especial
 
 「Jayna Flyer has cast [Emergency Blood Transfusion].」
 
-「The cursed blood…」
+「The cursed blood...」
 
 Nevertheless, it seemed that our healer had already started casting, as I received her healing the moment I was hit.
 
-Hmm… maybe it was too early to call that lucky.
+Hmm... maybe it was too early to call that lucky.
 
 「The body is rapidly regenerating.」
 
@@ -314,7 +314,7 @@ Hmm… maybe it was too early to call that lucky.
 
 「The body is rapidly regenerating.」
 
-「The body is rapidly regenerat…….」
+「The body is rapidly regenerat.......」
 
 Injuries that could have been fatal began healing instantly, but that didn’t change anything.
 
@@ -324,7 +324,7 @@ I had counted the seconds since petrification began.
 
 Four seconds until I could move.
 
-And if that bone dragon bastard lands even two normal attacks or one proper skill in that time…
+And if that bone dragon bastard lands even two normal attacks or one proper skill in that time...
 
 ‘I’d die right there. That’s just what a Grade 1 monster is.’
 
@@ -356,7 +356,7 @@ So it’s going to shoot that.
 
 Knowing what was coming only confirmed how bleak my future was.
 
-‘If I get hit…’
+‘If I get hit...’
 
 I’ll die 100%.
 
@@ -374,15 +374,15 @@ Tadat-tat!
 
 But how is he running here?
 
-As if he isn’t affected by [Dragon Fear]…
+As if he isn’t affected by [Dragon Fear]...
 
-‘Ah… He’s already level 10…’
+‘Ah... He’s already level 10...’
 
 I gained another piece of information about Baek-ho Lee.
 
 Given the situation, I wonder if this even has any meaning—
 
-‘…Like hell it doesn’t.’
+‘...Like hell it doesn’t.’
 
 My mind, which had grown hazy after taking a few hits, snapped back into focus.
 Even though the 9th floor was a place where you could die at any moment, I refused to let myself die such a pathetic death.

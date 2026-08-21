@@ -12,7 +12,7 @@ I patted the knight’s shoulder, then checked with the other three to confirm i
 
 They probably didn’t have the guts to break a promise that was notarized in front of the Marquis, but you never know.
 
-However…
+However...
 
 “No objections.”
 
@@ -32,11 +32,11 @@ I figured at least one would push back, given the political stakes involved.
 
 As I turned to go, all four of them gave me puzzled looks.
 
-They seemed to think that since the leader was decided, we’d have more to talk about…
+They seemed to think that since the leader was decided, we’d have more to talk about...
 
 “I’m hungry, you see.”
 
-“……?”
+“......?”
 
 “Well then, see you later.”
 
@@ -75,7 +75,7 @@ And that wrapped up my mid-mission report—almost.
 
 “Oh, and one more thing.”
 
-“…?”
+“...?”
 
 “Now that we have a commander, there’s to be a initiation ceremony soon.”
 
@@ -121,7 +121,7 @@ As I was about to wrap up the conversation, the Marquis suddenly brought up a ne
 
 “What is it?”
 
-“When you made that bet at the banquet…”
+“When you made that bet at the banquet...”
 
 The marquis paused, catching his breath, then asked,
 
@@ -157,7 +157,7 @@ In other words, it increases the MP recovery rate from [Soul Diving].
 
 With this, I thought I could compete with those four.
 
-But…
+But...
 
 “I wasn’t absolutely sure I’d win.”
 
@@ -185,7 +185,7 @@ The next day at lunchtime, Two team members, contacted by the Marquis, visited o
 
 A mage(Male) in his mid-30s, unusually tall and radiating a warm aura.
 
-And…
+And...
 
 “Young, aren’t you? My name is Gerold Aldidi.”
 
@@ -193,7 +193,7 @@ A sixty-something year old support type who seemed to be in much better shape th
 
 “Nice to meet you. I’m Rihen Schuiz.”
 
-“…Are you perhaps a former soldier?”
+“...Are you perhaps a former soldier?”
 
 “No, why do you ask?”
 
@@ -213,7 +213,7 @@ When I drew a firm line, Gerold Aldidi, or Old Didi for short, graciously backed
 
 “Haha, don’t misunderstand. I was just curious. I’ve worked under younger folks before and am quite used to it.”
 
-“Then that’s good. Mage…”
+“Then that’s good. Mage...”
 
 “Riard Ashid. You may call me by my first or last name, whichever is more convenient for you.”
 
@@ -221,7 +221,7 @@ When I drew a firm line, Gerold Aldidi, or Old Didi for short, graciously backed
 
 “Of course. In the Mage Tower, it’s natural to be treated according to ability. Besides, joining this team is an opportunity I don’t want to miss.”
 
-“Opportunity, huh…”
+“Opportunity, huh...”
 
 “Even just joining the expedition is rewarding enough. But I also heard from the Marquis that you’ll be leading the expedition, Mr. Schuiz.”
 
@@ -229,7 +229,7 @@ Ah, so the Marquis already told them that.
 
 “It seems we’ve chosen well. Serving directly under the expedition leader should offer more chances for achievement, Isn’t that right, Mr. Aldidi?”
 
-“Mm-hmm, you could say that…”
+“Mm-hmm, you could say that...”
 
 When Ashid asked with a gentle smile, Old Didi cleared his throat and agreed.
 
@@ -261,7 +261,7 @@ Ashid spoke in a cautious tone, and at my signal Erwin and Amelia introduced the
 
 When Erwin introduced herself, the two reacted with a startled expression and muttered “Blood Spirit Queen!” but at Amelia’s turn, they just tilted their heads at the unfamiliar name.
 
-Still…
+Still...
 
 ‘They are curious about her, but do not ask unnecessary questions. That’s good’
 
@@ -299,7 +299,7 @@ Because all the dishes were bought from a restaurant.
 
 I went out in the morning, bought them myself, put them on plates, and set them on the table, so saying we prepared them isn’t entirely a lie.
 
-‘If it were Misha, she would’ve insisted on cooking herself from the morning…’
+‘If it were Misha, she would’ve insisted on cooking herself from the morning...’
 
 I suddenly thought of Misha, but I didn’t intend to belittle Erwin’s efforts.
 
@@ -307,7 +307,7 @@ I always preferred to go out and buy food because I didn’t like seeing her go 
 
 But Misha always insisted though.
 
-‘I wonder if she’s doing well…’
+‘I wonder if she’s doing well...’
 
 Even though it was a temporary gathering, thinking about bringing in new team members made me feel a bit sentimental—
 
@@ -363,7 +363,7 @@ Wait, what? That’s an interesting twist—a curse specialist whose strength is
 
 Just as I was debating whether to dig further, Ashid smoothly passed the spotlight to Didi.
 
-‘…Did he plan that?’
+‘...Did he plan that?’
 
 Even if he did, I don’t feel bad about it.
 
@@ -387,7 +387,7 @@ They are roughly classified in this way, and as one becomes a higher-level explo
 
 Even for me, if I were to submit a resume to a guild, I’d have to write ‘Guardian’ instead of ‘Barbarian Warrior.’
 
-“A healer… that rounds out the team nicely,”
+“A healer... that rounds out the team nicely,”
 
 Ashid nodded repeatedly, seeming pleased with the composition of our team.
 
@@ -421,7 +421,7 @@ Is this what it’s like to have a competent butler?
 
 Ashid took on all the trivial organizational tasks for the team, making sure I didn’t have to worry about them. From the following day onward, we met at the training grounds daily to practice together.
 
-Time passed, and then…
+Time passed, and then...
 
 “Schuiz, we got word from the Marquis.”
 

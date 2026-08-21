@@ -1,74 +1,74 @@
-Teaming(2)
+Teaming (2)
 
-The sealing of active skills.
+Active-skill sealing.
 
-No need for lengthy explanations—it’s one of the worst penalties imaginable.
+No lengthy explanation was needed. It was one of the worst penalties imaginable.
 
 Well, even so, it’s probably better than ending up blind like James Carla.
 
-‘It might have been better if I’d lost an arm like old Didi instead.’
+‘It might have been better if I’d lost an arm like Old Didi instead.’
 
 A penalty so crippling that losing an arm might’ve been more advantageous in terms of combat effectiveness.
 
 But there’s nothing to be done.
 
-What can I do when the dice I’ve thrown have come up like this?
+What could I do when the dice I’d thrown came up like this?
 
 I can only hope that the enemy’s dice results are messed up too.
 
-‘Besides… aside from my penalty, it’s not bad.’
+‘Besides... aside from my own penalty, the result isn’t bad.’
 
 In fact, the [Soul Extraction] pattern is quite a tricky one.
 
-Especially for positions like support type or mages. Being damage dealers, they must have landed many finishing blows, and now they have to fight and win alone without the frontliners they’ve always been with.
+It was especially brutal for support-types and mages. As damage dealers, they had likely landed plenty of finishing blows, and now they had to face those enemies alone without the frontliners they were used to relying on.
 
-But…
+But...
 
-‘I guess all have them have lived kind lives’
+‘I guess they’ve all lived relatively clean lives.’
 
-Both priests made it out safely. Three out of the four mages are awake, and among the support type, only Akuraba is still unconscious.
+Both priests made it out safely. Three of the four mages were awake, and among the support-types, only Akuraba was still unconscious.
 
 ‘Perhaps the fact that our mages spent a long time at the Mage Tower worked in our favor.’
 
 Considering this, the gamble seems to have paid off.
 
-Even though we were comrades who endured this expedition together, I have no idea what kind of lives these people have lived before.
+Even after enduring this expedition together, I still had no idea what kind of lives these people had lived before we met.
 
 Clack, clack.
 
-The sound of hard footsteps echoed through the ice cave. As we moved to get as far away from the entrance of the Glacier’s Eye as possible, I noticed movement on one of my shoulders.
+Hard footsteps echoed through the ice cave. As we moved farther from the Glacier Eye, I felt movement on one of my shoulders.
 
-“…Mister…”
+“...Mister...”
 
-“You’re awake…”
+“You’re awake...”
 
 Feeling deep relief, I carefully set down Erwin.
 
-She stumbled slightly, but seeing that she could balance herself, it seems her legs weren’t taken as a penalty.
+She stumbled slightly, but she could still balance herself. At least her legs hadn’t been taken as a penalty.
 
 “How do you feel? Is there anywhere that hurts?”
 
-“I’m not sure….”
+“I’m not sure...”
 
-Erwin looked dazed. Something must have happened inside the trial, but I didn’t press her for details. Right now, figuring out what her penalty is comes first.
+Erwin looked dazed. Something must have happened inside the trial, but I didn’t press her for details. Figuring out her penalty came first.
 
 “Damn it.”
 
-After testing for bad penalties among the random ones, I let out a big sigh.
+After checking for the more dangerous random penalties, I let out a heavy sigh.
 
-“The eighth one….”
+“The eighth one...”
 
 Unfortunately, Erwin was also on the unlucky side.
 
-「All resource recovery for Erwin Fornacci di Tersia is now restricted.」
+「All resource recovery for Erwin Fornacci di Tercia is now restricted.」
 
-No resource recovery—simply put, her MP, natural power, or any other reserves could only be spent, not replenished.
+No resource recovery. In other words, her MP, natural power, and any other reserves could only be spent, never replenished.
 
-“…Save your strength unless it’s absolutely necessary to protect yourself.”
+“...Save your strength unless it’s absolutely necessary to protect yourself.”
 
-“Yes… I’m sorry…”
+“Yes... I’m sorry...”
 
-“There’s nothing to be sorry about. It happened that way; it’s fortunate that you even woke up.”
+“There’s nothing to apologize for. You didn’t choose this. We should be grateful you woke up at all.”
 
 Anyway, as time passed, the others who had fainted woke up one by one.
 
@@ -76,91 +76,91 @@ Anyway, as time passed, the others who had fainted woke up one by one.
 
 Fortunately, Melend Kaislan received a minor penalty.
 
-“Ugh…! Why is this…”
+“Ugh...! Why is this...”
 
 Ravien, who was restricted from using weapons, placed her hand on her sword and shuddered as if electrocuted.
 
-“Um… Why is everyone not speaking?”
+“Um... Why is everyone not speaking?”
 
 Tsion Iriven, the archer from Team 2, had lost his hearing.
 
-“That place… it was truly horrifying.”
+“That place... it was truly horrifying.”
 
 Akuraba’s face was ghostly pale.
 
-Now, only two remain…!
+Now only two remained.
 
-When 25 minutes had passed since the [Soul Extraction] pattern began, there were only two people left.
+Twenty-five minutes after the [Soul Extraction] pattern began, only two people remained unconscious.
 
-Amelia and the mage from Team 2, Mackelly Rayathers.
+Amelia and the mage from Team 2, Mackelly Reiadus.
 
-“Please… wake up. We need you…”
+“Please... wake up. We need you...”
 
-As time ticked away, the team members cast anxious glances at the two still unconscious.
+As the seconds ticked by, the team members kept casting anxious glances at the two still unconscious.
 
 I felt like I was going crazy too.
 
-“Why on earth is she not waking up….”
+“Why on earth is she not waking up...”
 
 She definitely didn’t die there. If she had, her heart would have already stopped.
 
 Thump, thump.
 
-Time continued to tighten around my heart. How much more time has passed since then?
+The passing seconds tightened around my heart. How much time was left?
 
-“Mackelly, there’s only one minute left now. Please, hang in there….”
+“Mackelly, there’s only one minute left now. Please, hang in there...”
 
-At the time when there was one minute left until the [Soul Extraction] pattern ended.
+With only one minute left before the [Soul Extraction] pattern ended—
 
-“Mm…”
+“Mm...”
 
 “Emily!”
 
-Amelia finally opened her eyes. And…
+Amelia finally opened her eyes. And...
 
-“……Damn it.”
+“...Damn it.”
 
-The other one could not open his eyes.
+the other never opened his eyes.
 
 ---
 
 Eighteen survivors.
 
-However, the number of combat-capable individuals is much smaller.
+But the number of combat-capable survivors was much smaller.
 
-Because many team members, including myself, received significant penalties. It’s fair to say that our fighting power has been cut by more than half.
+Many team members, myself included, had received severe penalties. Our fighting strength had been cut by more than half.
 
 “Then how is it on the other side?”
 
-Just as they say happiness is relative, so is misfortune.
+Just as happiness is relative, so is misfortune.
 
-「The Glacier Wizard Kariadea gains new power proportional to the total amount of souls absorbed.」
+「The Glacier Mage Kariadea gains new power proportional to the total amount of souls absorbed.」
 
-It was now over 30 minutes since Phase 2 had ended.
+More than thirty minutes had passed since Phase 2 ended.
 
 How many of them were still alive on the other side? And what kind of penalties had they received?
 
 ‘Frankly, I hope they all just died fighting the boss.’
 
-…But realistically, that’s unlikely.
+...But realistically, that’s unlikely.
 
 Kariadea isn’t a monster that pursues beyond the Glacier Eye’s perimeter.
 
-The place where we were fighting was the summit of the Glacier’s Eye.
+The place where we were fighting was the summit of the Glacier Eye.
 
-I don’t know how many have woken up, but by now they all must have left the Glacier’s Eye.
+I don’t know how many have woken up, but by now they all must have left the Glacier Eye.
 
-“Dragon Slayer… I wonder what happened to that bastard.”
+“Dragon Slayer... I wonder what happened to that bastard.”
 
 Well, I don’t know.
 
-Because he is the one who killed the ancient dragon who acted as the elder of the Dragon Tribe.
+After all, he was the man who had killed the ancient dragon that served as an elder of the Dragon Tribe.
 
-Even back then, it was only thanks to an ambush that he succeeded, so there’s a possibility he couldn’t win even in a half-weakened state.
+He had only succeeded back then thanks to an ambush, so there was a chance he couldn’t win even against a weakened version of it.
 
-In the first place, it’s not like he would only fight the ancient dragon, right?
+Besides, the ancient dragon wouldn’t be the only enemy waiting for him in there.
 
-I don’t know, but he must have killed in the thousands.
+Who knew how many people he had killed—probably thousands.
 
 “Wait, hold on.”
 
@@ -172,17 +172,17 @@ The thought alone soured my mood.
 
 At the same time, another thought crossed my mind.
 
-The people who appeared in my illusion-couldn’t they have been someone’s one and only precious loved ones?
+The people who appeared in my illusion—couldn’t they have been someone else’s irreplaceable loved ones?
 
-“…Maybe this is because of [Soul Extraction]. I’m overthinking everything.”
+“...Maybe this is because of [Soul Extraction]. I’m overthinking everything.”
 
-I shook myself off these thoughts and opened my eyes.
+I shook off the thought and focused on the present.
 
 Woosh—!
 
 Warm flames crackled nearby.
 
-The priest knelt in front of the flames and recited prayers repeatedly, while the others offered silent tributes.
+A priest knelt before the flames and recited prayers while the others paid silent tribute.
 
 This was, at least, one silver lining.
 
@@ -190,31 +190,31 @@ We now had the luxury to hold a proper funeral for our fallen comrades.
 
 Crackle, crackle.
 
-The flames infused with the mages’ firepower instantly melted flesh and skin, and the remaining bones were subjected to distortion magic. Then the warriors crushed them finely and stored them in pouches.
+The mages’ flames reduced flesh and skin to ash. The remaining bones were treated with distortion magic, then crushed by the warriors and stored in pouches.
 
-After hoping that this would provide even a small comfort to his surviving family.
+We could only hope this would offer some small comfort to the family he had left behind.
 
-“…..”
+“...”
 
 With that, the brief funeral was over.
 
-The warmth of his body, briefly retained by the intense flames, dissipated in the cold wind.
+The last trace of warmth left by the flames vanished into the cold air.
 
 So, it’s time to return to reality.
 
-“……Jandel, what will you do now?”
+“...Jandel, what will you do now?”
 
 As Kaislan spoke to me, the gazes of the team members focused on me.
 
 After all, the plan I had shared only covered up to this point.
 
-That when the [Soul Extraction] begins, the first ones to awaken were to grab the others and flee. There were no instructions beyond that. But…
+My instructions had only covered what to do when [Soul Extraction] began: whoever woke first was to carry the others and flee. There had been no plan beyond that. But...
 
-“If we continue to keep our distance like this, we might be able to hold out until the closing date.’
+“If we keep our distance like this, we might be able to hold out until the labyrinth closes.”
 
 Judging by the stony expression on his face as he spoke, Kaislan already knew what I was thinking.
 
-Perhaps that’s why he tactfully brought it up first, so that I could speak more comfortably.
+Perhaps that was why he tactfully raised the subject first, making it easier for me to speak.
 
 “But Jandel, you must know. Even if we run away like this, in the end, we’ll reach a cliff.”
 
@@ -224,11 +224,11 @@ At Kaislan’s words, one team member flinched and raised his voice.
 
 “You said we could hold out until the closing date, right? Isn’t that enough? What are you worrying about?”
 
-I’m sorry to those who really thought this was the end, but we haven’t overcome the most critical hurdle yet.
+I felt bad for those who truly believed it was over, but we still hadn’t cleared the most critical hurdle.
 
-If that were the case, I wouldn’t have called this a ‘gamble.’
+If we had, I wouldn’t have called the plan a gamble.
 
-“….”
+“...”
 
 As Kaislan gave me a silent glance, I smiled bitterly and stepped forward.
 
@@ -240,7 +240,7 @@ As soon as I finished speaking, the team members’ eyes widened.
 
 Gazes filled with shock and doubt.
 
-“…What’s the reason?”
+“...What’s the reason?”
 
 It’s simple.
 
@@ -250,37 +250,37 @@ It’s simple.
 
 “No, that’s not it.”
 
-“Then what do you mean…?”
+“Then what do you mean...?”
 
 Since they didn’t seem to understand my words, I continued.
 
-If we returned alive, the royal family would have brought out the excuses they had prepared, saying that something happened to the main force, so they couldn’t come to rescue us—but they’d still be glad we managed to return on our own.
+If we returned alive, the royal family would trot out whatever excuse they had prepared: something happened to the main force, they couldn’t reach us in time, but thank goodness we made it back on our own.
 
-They would have pretended not to know, trying to cover the sky with their hand.
+They would pretend ignorance and try to cover the sky with one hand.
 
-And…
+And...
 
-Ignoring the truth—that was our only way to survive.
+Ignoring the truth had been our only way to survive.
 
-“Ignore…? What do you mean?”
+“Ignore...? What do you mean?”
 
 “If we pretended not to notice that we were being used as expendable pawns, the royal family wouldn’t take extreme measures.”
 
-It might be cowardly, but that was my plan.
+Cowardly or not, that had been my plan.
 
 “But we can’t use that method anymore.”
 
-“……”
+“...”
 
-“Once the Rose Knights report what happened here to the royal family, they will surely try to eliminate any potential troubles.”
+“Once the Rose Knights reported what happened here, the royal family would have every reason to eliminate potential loose ends.”
 
-“…Couldn’t they try to negotiate with us to silence us?”
+“...Couldn’t they try to negotiate with us to silence us?”
 
-Well, yes, that possibility exists. But…
+Well, yes, that possibility exists. But...
 
-“Do you really think so?”
+“Do you really believe that?”
 
-“….”
+“...”
 
 There was no reply.
 
@@ -296,13 +296,13 @@ I found it somewhat commendable and amusing.
 
 “You dragged us here by the scruff of our necks. After all that hardship, do you think we’d give up here?”
 
-Well, he’s the guy who showed his resolve by cutting off his own arm when breaking through the Glacier’s Eye.
+Well, he’s the guy who showed his resolve by cutting off his own arm when breaking through the Glacier Eye.
 
-It wouldn’t be fair for him to die. I smirked.
+He had earned the right to keep fighting for his life. I smirked.
 
 “It was a compliment, so don’t take it too sensitively. And I never said we should give up in the first place.”
 
-“Ah…”
+“Ah...”
 
 At my words, he realized and opened his mouth, and I quickly continued.
 
@@ -312,21 +312,21 @@ At my words, he realized and opened his mouth, and I quickly continued.
 
 “Yes, if no one returns alive, who would know what happened here?”
 
-Of course, they might suspect, but there’s a clear difference between having circumstantial evidence and having actual proof.
+They might suspect the truth, but suspicion and proof were two very different things.
 
-Therefore…
+Therefore...
 
 “From now on, we will kill both the Noark people and the Rose Knights.”
 
-From now on, we will be the ones to cover the sky with our hands.
+From now on, we would be the ones covering the sky with our hands.
 
 Will we run away like this?
 
 Or will we stand and fight once more?
 
-Reaching a consensus on this was quicker than expected.
+The group reached a consensus faster than I expected.
 
-“I… I don’t know what the right choice is.”
+“I... I don’t know what the right choice is.”
 
 “Haha, it’s nothing unusual. Most of the situations we’ve faced so far have been the same.”
 
@@ -340,15 +340,15 @@ With the expedition’s decision made, everything became clear.
 
 We wandered inside the cave, deploying detection magic in various places, and hunted monsters using distortion magic to secure food supplies.
 
-“This is… surprisingly edible?”
+“This is... surprisingly edible?”
 
-Monster meat was unexpectedly edible, although some were so terrible that we deemed them inedible.
+Monster meat was surprisingly edible, though some types were so awful we had to write them off entirely.
 
 “Never mind the taste, but it’s a shame to waste these by-products. If we could take them, we could sell them for a high price.”
 
-“We have no choice. We need to lighten our load as much as possible now…”
+“We have no choice. We need to lighten our load as much as possible now...”
 
-We had to discard all the valuable by-products obtained through distortion magic, holding back our tears.
+We had to abandon every valuable by-product obtained through distortion magic, painful as it was.
 
 We didn’t have the luxury to carry such things when we had to carry our comrades who had difficulty moving.
 
@@ -358,40 +358,40 @@ It was when half a day had passed like that.
 
 Marone, the mage from Team 5, came running, urgently calling my name.
 
-When she is like this, there is only one reason.
+When she came running like this, there was only one possible reason.
 
 “Did the detection magic activate?”
 
-“Yes, yes…! It activated!”
+“Yes, yes...! It activated!”
 
-The news Marone brought fell into three categories.
+Marone’s report came in three parts.
 
 First, the good news.
 
-“It’s the Rose Knights. Only ten of them are left!
+“It’s the Rose Knights. Only ten of them are left!”
 
-Their numbers had been significantly reduced. It seems they suffered significant damage, probably because they killed people as easily as eating meals…
+Their numbers had dropped sharply. They must have suffered badly in [Soul Extraction], probably because killing came as naturally to them as eating.
 
 “What was the condition of the remaining ones?”
 
-“Well, that is…”
+“Well, that is...”
 
-The second was ambiguous.
+Second, the mixed news.
 
 “Four of them were being carried by their comrades as if they were in bad shape. One was limping on one foot.”
 
-Just as a third of our expedition suffered severe penalties, they also suffered considerable damage.
+Just as a third of our expedition had suffered severe penalties, they had taken considerable damage as well.
 
-Does this mean the penalty scores are tied? Well, since we don’t know the actual situation, it’s too early to say for sure.
+Did that mean the penalties had hit us equally hard? We didn’t know enough to say.
 
 “Anyway, that’s not what’s important!!”
 
-The third and final piece was bad news.
+Third—and worst of all—came the bad news.
 
 And not just any bad news.
 
 It was news that could be called the worst.
 
-“For some reason, those people are moving together with the Noark people…!”
+“For some reason, those people are moving together with the Noark people...!”
 
-Water and oil have mixed.
+Water and oil had mixed.

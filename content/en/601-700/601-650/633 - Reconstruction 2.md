@@ -2,15 +2,15 @@
 
 After I apologized and hung my head, the Marquis asked again.
 
-“…Sorry? What do you mean by that?”
+“...Sorry? What do you mean by that?”
 
-“…”
+“...”
 
 [“Speak. I can’t understand at all.”]
 
 Thinking it would be faster to show rather than explain, I began pulling out the items I had acquired during the exploration of the first basement floor and stacked them neatly in the room.
 
-And then…
+And then...
 
 [“Why did you suddenly stop?”]
 
@@ -20,29 +20,29 @@ And then…
 
 Ah, that.
 
-“…That was the case.”
+“...That was the case.”
 
-[“……”]
+[“......”]
 
 The Marquis finally seemed to understand why I had spoken in the past tense earlier.
 
 Still, he seemed curious enough to ask.
 
-[“…How did it end up like this?”]
+[“...How did it end up like this?”]
 
 “Marquis, it seems you’re the type who values the process over the result.”
 
 [“This could land you in serious trouble, so don’t joke about it.”]
 
-Okay, enough teasing…
+Okay, enough teasing...
 
 It wouldn’t be very barbarian-like to go on at length, so to summarize in one line.
 
-“…So you’re saying you distributed those precious essences to the explorers of District 7 to strengthen your forces for escaping the city?”
+“...So you’re saying you distributed those precious essences to the explorers of District 7 to strengthen your forces for escaping the city?”
 
 “That’s right.”
 
-[“Good heavens… I’m at a loss for words”]
+[“Good heavens... I’m at a loss for words”]
 
 “What’s so ridiculous about that? If we’d failed to escape and got caught by the enemy, they would’ve taken everything anyway.”
 
@@ -50,7 +50,7 @@ Yeah, it’s better than letting it fall into enemy hands, right?
 
 As I murmured that, the Marquis sighed and rubbed his forehead through the videocrystal.
 
-[“This matter… will need to be revisited in the royal council. The Baron did rescue the explorers of the 7th District. We’ll need to debate whether your contribution outweighs your offense.]
+[“This matter... will need to be revisited in the royal council. The Baron did rescue the explorers of the 7th District. We’ll need to debate whether your contribution outweighs your offense.]
 
 Meaning, they needed time to verify my claims.
 
@@ -62,11 +62,11 @@ At least his final words sounded genuine, not just noble formalities.
 
 “Understood. I’ll stay put, so don’t worry.”
 
-[“…I got the answer I wanted, yet I feel even more uneasy.”]
+[“...I got the answer I wanted, yet I feel even more uneasy.”]
 
 “Hmm, maybe it’s because you’re narrow-minded, Marquis.”
 
-[“……?”]
+[“......?”]
 
 Ah, was this the moment I should’ve empathized and comforted him instead?
 
@@ -76,7 +76,7 @@ That’s not really my expertise, so I quickly changed the subject.
 
 [“They’ll have to endure the discomfort for now. The situation should stabilize within a few days.”]
 
-“Within a few days, huh…”
+“Within a few days, huh...”
 
 The way he spoke made it seem like he truly believed this whole mess would be wrapped up soon.
 
@@ -106,7 +106,7 @@ Three days later.
 
 “Wooooah!”
 
-Four days later…
+Four days later...
 
 The tense war updates kept coming daily, but no explosions erupted from Bifron.
 
@@ -122,7 +122,7 @@ We all instinctively understood.
 
 Whatever the royal family’s plan had been—
 
-“B-Bifron’s protective barrier has turned black…!”
+“B-Bifron’s protective barrier has turned black...!”
 
 Something had clearly gone wrong.
 
@@ -160,7 +160,7 @@ It looked almost like aliens had invaded, sealing off the area under a dome.
 
 Of course, there was a chance this had been the royal family’s plan all along.
 
-But…
+But...
 
 “Jandel, the military’s movements are unusual.”
 
@@ -176,13 +176,13 @@ The Marquis on the other side of the communication orb looked noticeably thinner
 
 “Things didn’t go well, huh?”
 
-[“…I can’t disclose the details due to military secrecy, but yes, that’s the gist of it.”]
+[“...I can’t disclose the details due to military secrecy, but yes, that’s the gist of it.”]
 
-“Come on, give me something. Bifron suddenly turned into… that.”
+“Come on, give me something. Bifron suddenly turned into... that.”
 
 [“Once things settle, you’ll be briefed. You’re a titled noble of Rapdonia, after all. But I’ll say this much: the Noark forces won’t be leaving that place anytime soon.”]
 
-“Well, that’s a relief…”
+“Well, that’s a relief...”
 
 Honestly, I was dying to know the details, but it was clear he wouldn’t budge, so I let it go.
 
@@ -196,7 +196,7 @@ Honestly, I was dying to know the details, but it was clear he wouldn’t budge,
 
 “What about my servants I brought from Bifron? Any issues with them?”
 
-“That was a matter of some debate… but we’ve decided not to pursue it. As long as they remain your retainers.”
+“That was a matter of some debate... but we’ve decided not to pursue it. As long as they remain your retainers.”
 
 “And if they’re not?”
 
@@ -230,7 +230,7 @@ In other words, I couldn’t train the talented ones to become Explorers and hav
 
 [“Cut them down. As many as you can.”]
 
-“……”
+“......”
 
 [“What value do those useless people even have?”]
 
@@ -240,19 +240,19 @@ This city had always operated on the principle that those who couldn’t pay tax
 
 From the Marquis’ perspective, the Bifron residents were nothing but trash.
 
-But…
+But...
 
 “Ah, thanks for the advice. I’ll take it with a grain of salt.”
 
 A barbarian’s heart wouldn’t allow for such interference.
 
-[“……”]
+[“......”]
 
 After exchanging a few more words, the marquis left, saying he was busy, and that was the end of today’s conversation.
 
 Returning to the square, I led the remaining 7th District explorers and the 8,712 Bifron residents back to the destroyed 7th District.
 
-‘…Back here again.’
+‘...Back here again.’
 
 From Bifron to refugee life in District 4 and now back to District 7 again.
 
@@ -272,7 +272,7 @@ Other returning evacuees had begun to slowly arrive.
 
 “Well, I should get going.”
 
-“Me too. I want to check on my house…”
+“Me too. I want to check on my house...”
 
 “Thank you so much, Baron! I’ll never forget this!”
 
@@ -284,7 +284,7 @@ Only my teammates = and the 8,712 Bifron residents remained.
 
 “To the sanctuary.”
 
-“Right… you’d want to check on it too.”
+“Right... you’d want to check on it too.”
 
 Amelia understood my reasoning, but the real reason was different.
 
@@ -294,7 +294,7 @@ While I was concerned about the sanctuary—
 
 If it came to it, I’d rather sleep in the sanctuary than on the streets.
 
-Or so I thought…
+Or so I thought...
 
 “ Bjorn nnn!!!!”
 
@@ -302,17 +302,17 @@ As soon as I arrived, I regretted it.
 
 “Why did you take so long to come baaaaaack?!”
 
-“…Long time no see, Shabin Emure. Been well? Let go of me first—”
+“...Long time no see, Shabin Emure. Been well? Let go of me first—”
 
 “No! If I let go, you’ll disappear for months again! No way! Never letting you go!!”
 
 Shabin, our tribe’s chief administrator, had not only managed everything alone for months but had also been trapped in the Holy Land during Noark’s invasion. The stress had clearly piled up.
 
-But…
+But...
 
 “You should let go of him first if you want to talk properly.”
 
-“…Huh? Ah… right…”
+“...Huh? Ah... right...”
 
 Amelia’s professional tone snapped her out of it.
 
@@ -322,7 +322,7 @@ Experience told me this was the perfect time to apologize.
 
 “Shabin, I’m sorry. I didn’t mean to be gone so long.”
 
-“…I know. I was really worried.”
+“...I know. I was really worried.”
 
 “I’m sorry for worrying—”
 
@@ -332,15 +332,15 @@ Just as the mood seemed to warm up, Shavin suddenly cut me off.
 
 Her gaze was fixed on the 8,712 awkwardly standing residents behind me.
 
-This was… awkward.
+This was... awkward.
 
-“Ah, uh, well…”
+“Ah, uh, well...”
 
 How should I explain this?
 
 Ah, let’s change the subject first.
 
-“S-so, how’s the sanctuary? Looks like a lot has changed…”
+“S-so, how’s the sanctuary? Looks like a lot has changed...”
 
 “About a quarter of the Sanctuary development plan was completed while you were gone. Funds are plentiful now, too.”
 
@@ -352,13 +352,13 @@ No wonder the roads were paved and new buildings had popped up along the way.
 
 “Residents of Bifron. They became my retainers a few days ago.”
 
-“All of them…?”
+“All of them...?”
 
 Her eyes screamed, What kind of nonsense is this? My voice instinctively shrank.
 
-“…There were circumstances.”
+“...There were circumstances.”
 
-“……”
+“......”
 
 Sensing something ominous, Shabin asked cautiously,
 
@@ -372,15 +372,15 @@ Her soul seemed to leave her body as she nodded blankly and asked,
 
 “And where will they live? What will they wear? What’s the budget for this?”
 
-Ah, about that…
+Ah, about that...
 
 Well, the Minister of Economy would handle that.
 
-Or to put it in terms she’d understand…
+Or to put it in terms she’d understand...
 
 “That would be the Chief Administrative Officer’s responsibility.”
 
-“…Chief Administrative Officer?”
+“...Chief Administrative Officer?”
 
 Shabin Emur tilted her head, her expression clearly asking, “Since when did our tribe have that position?”
 

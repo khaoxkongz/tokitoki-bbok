@@ -1,72 +1,68 @@
 Like Ice (1)
 
-This wasn’t like the glacier’s eye, where the passage was only wide enough for 4 people.
+This wasn’t like the Glacier Eye, where the passage was only wide enough for four people.
 
 This is practically an open field.
 
-The frontliner’s area of responsibility had expanded, but the number of frontliners had actually decreased.
+The area each frontliner had to cover had expanded, while the number of frontliners had actually decreased.
 
-‘Me, Jun, Goblin.’
+‘Me, Jun, and the Goblin.’
 
 The pure tank line now consisted of just the three of us.
 
-But amidst this, Jun’s leg was crippled, making it difficult for him to perform to his full potential.
+To make matters worse, Jun’s leg was crippled, making it difficult for him to fight at full strength.
 
-Therefore…
+Therefore...
 
 ‘Puta Rickerburn, Kaislan, Ravien, Amelia.’
 
-Our melee frontline fighters spread out, forming a barrier at intervals. Of course, there were too many gaps to call it a barrier…
+Our melee fighters spread out at intervals, trying to form a barrier. Of course, there were too many gaps to really call it one...
 
 There was no point in complaining about it, though.
 
-We had already chosen the best we could under the circumstances.
+We had already made the best arrangement we could under the circumstances.
 
-Now, all that’s left is to see the result.
+Now all that was left was to see the result.
 
 Swoooosh—!
 
-A black mist spreads in all directions, covering the open space.
+A black mist spread in all directions, blanketing the open space.
 
-It’s the work of a dark mage.
+It was the work of a dark mage.
 
 Though it did have debuff effects, its true purpose was likely to obscure our vision.
 
-[Visible range is about 1 meter]
+[Visibility is limited to approximately one meter.]
 
-My warrior’s body, with its narrowed vision, becomes sensitive.
+With my vision restricted, my warrior’s instincts sharpened.
 
-And in that situation.
+And then—
 
-[Grrrrrr]
+[Grrrrrr...]
 
-Various undead monsters emerge from the darkness, baring their teeth and swinging their claws.
+Various undead monsters emerged from the darkness, baring their teeth and swinging their claws.
 
-They are all summoned by the priests of Karui.
+They had all been summoned by the priests of Karui.
 
-All summoned by the Karui priest.
-
-In the Glacier’s Eye, the narrow path made numbers meaningless, but now that’s not the case.
+In the Glacier Eye, the narrow path made numbers meaningless, but now that’s not the case.
 
 Crash—!
 
-I swing my hammer here and there, pushing back the approaching monsters.
+I swung my hammer left and right, driving back the approaching monsters.
 
-It was then.
+That was when it happened.
 
-[Mister…!]
+[Mister...!]
 
-As soon as Erwin’s warning, in her spirit form, pierced my ears,
+The moment Erwin’s warning reached me through her spirit form—
 
 Whoosh—!
 
-With a short piercing sound, a sharp blade from the darkness aimed for my neck.
+With a sharp hiss, a blade shot out of the darkness toward my neck.
 
 Clang—!
 
-Clang—!
-
-Due to my narrowed vision, my reaction was slower than usual, but somehow I managed to block it with my shield.
+My restricted vision slowed my reaction, but I still managed to catch the strike on my shield.
 
 But at that moment,
 
@@ -76,13 +72,13 @@ A pure white light emanated from where my heart should be.
 
 At first, I was startled, wondering what it was, but I quickly grasped what was happening.
 
-[Periton Eriavosti has cast [Unquenchable Light]
+[Periton Eriavosti has cast [Unquenchable Light].]
 
 One of the priestess’s buffs.
 
 In the game, it only raised mental stats and wasn’t particularly useful.
 
-However…
+However...
 
 ‘Did she use it to secure visibility? Smart.’
 
@@ -92,61 +88,61 @@ Swoooosh—!
 
 The white light blossoming from my heart pushed back the darkness.
 
-I now have a visibility radius of about three metres.
+My visibility expanded to a radius of about three meters.
 
 Of course, the darkness filling the empty space still remained.
 
-I can barely make out Sven Parav and Amelia on my left and right.
+I could barely make out Sven Parab and Amelia to my left and right.
 
-But——.
+But—
 
-Even if their faces are obscured by darkness, the light burning from their hearts flicker clearly.
+Even if the darkness hid their faces, the lights burning over their hearts flickered clearly.
 
-Like fireflies floating in the darkness.
+Like fireflies floating in the dark.
 
 “Aaaaaargh!!”
 
-I knock away the blade flying at me with my shield, swing my hammer frantically, and at the same time, I check the lights rising around me in real time.
+I knocked away another blade with my shield and swung my hammer wildly, keeping track of the lights around me at the same time.
 
 Swoooosh—!
 
-Lights shaking and flickering, signaling that they are fighting fiercely.
+The lights shook and flickered, proof that their owners were still fighting fiercely.
 
-To enemies hidden in the darkness, they may be easily visible targets, but to us, they are markers.
+To enemies hidden in the darkness, those lights may have made us easier targets. To us, however, they were markers.
 
-That my comrades next to me are still alive and fighting.
+Proof that the comrades beside me were still alive and fighting.
 
 Proof of our trust.
 
-[Erwin Fornacci di Tercia has cast [Focused Fire]
+[Erwin Fornacci di Tercia has cast [Focused Fire].]
 
 Arrows pierced the darkness.
 
-[Benjamin Orman has cast [Purifying Moon]
+[Benjamin Orman has cast [Purifying Moon].]
 
-Light particles falling from the sky seep into our bodies.
+Particles of light fell from the sky and seeped into our bodies.
 
-And as time goes on,
+And as time passed—
 
 Thud—!
 
-Wounds accumulate on my body.
+Wounds accumulated across my body.
 
-The woman who introduced herself as Six spoke as she looked at me.
+Six, the woman who had introduced herself earlier, spoke while watching me.
 
-“…You’re much weaker than before.”
+“...You’re much weaker than before.”
 
 Well, I can’t use [Iron Skin] now.
 
-Even though I activated Alibaba (Earth) mode, my ability to block aura attacks has greatly decreased.
+Even with Elemental Barbarian (Earth) Mode active, my ability to withstand aura attacks had fallen sharply.
 
-No, is that all?
+No, that wasn’t all.
 
-I don’t have the strength bonus from [Gigantification].
+I also lacked the strength bonus from [Gigantification].
 
-I can’t use my only attack skill, [Swing], nor [Eye of the Storm], to occasionally counter opponents’ moves.
+I couldn’t use my main attack skill, [Swing], or [Eye of the Storm] to counter my opponent’s movements.
 
-But…
+But...
 
 I grinned.
 
@@ -154,35 +150,35 @@ I grinned.
 
 “If you think I’m weak, try killing me.”
 
-“……”
+“......”
 
 “I will never fall.”
 
-More precisely, I made up my mind to make sure of it.
+More precisely, I had resolved not to let myself fall.
 
-In this kind of fight, the last one standing is the winner.
+In a fight like this, the last one standing wins.
 
 “Are you trusting that priestess?”
 
 Well, she’s not wrong.
 
-If it weren’t for the heals coming in at this very moment, it would be hard to endure.
+Without the healing pouring into me even now, enduring this would have been difficult.
 
-But…
+But...
 
-‘What are you splitting hairs about.’
+‘What’s with the nitpicking?’
 
 Funny woman.
 
 “Is it wrong to trust my comrades?”
 
-‘Dungeon & Stone’ is a team game, after all.
+Dungeon & Stone is a team game, after all.
 
 Bang—!
 
-I swing the hammer down toward the direction of the sound.
+I swung my hammer toward the sound.
 
-There was, of course, no particular sensation that the hammer had struck a living target.
+As expected, I felt no impact that suggested I had hit anything alive.
 
 “For someone who trusts his comrades, you seem rather impatient.”
 
@@ -190,19 +186,19 @@ Ah, she’s really talkative.
 
 “Are you anxious? That I’m the only one here dealing with you?”
 
-Her intentions are obvious.
+Her intention was obvious.
 
-To agitate me and make me reveal even a small gap. If that weren’t her purpose, this ice-cold woman wouldn’t be babbling like this.
+She wanted to agitate me until I exposed even the slightest opening. Otherwise, this ice-cold woman would never have bothered talking so much.
 
-The problem is… it’s working a bit.
+The problem was... it was working a little.
 
 Whoosh—!
 
 I swing my hammer once more.
 
-Despite this, my unease lingered.
+Even so, the unease wouldn’t leave me.
 
-Where are the others? I was expecting some of them to gang up on me. That way, my comrades would have an easier time.
+Where were the others? I had expected several of them to gang up on me. If they had, my comrades would have had an easier time.
 
 “Aaaaagh!!”
 
@@ -218,63 +214,63 @@ Enemy? Or an ally?
 
 I don’t know.
 
-But…
+But...
 
 “So, until then, I hope you don’t fall-”
 
-I forcibly calm my overheated thoughts.
+I forcibly cooled my racing thoughts.
 
 I can’t just run over to check right now.
 
 “Bethel—raaaaaa!!”
 
-I can only trust and do my part.
+All I could do was trust them and do my part.
 
 ---
 
-When he was a child, the archbishop who took him in said.
+When he was a child, the archbishop who took him in had said:
 
-[You have no parents now; your only parent is the glorious sun, Tobera].
+[You have no parents now. Your only parent is the glorious sun, Tobera.]
 
-[Abandon the heart of man, for earthly affections are meaningless to an agent of God].
+[Abandon the heart of man, for earthly affections are meaningless to an agent of God.]
 
-[Now, from this day forward, you are a jun. ]
+[From this day forward, you are Jun.]
 
-Jun, former Inquisitor of the Tobera Church.
+Jun, former inquisitor of the Tobera Church.
 
 The day he abandoned the surname Arshen.
 
-From that day on, he lived as an animal, an agent of the gods, not a man.
+From that day on, he lived not as a man, but as an animal—an agent of the gods.
 
 [This is something you must do. Aren’t you a man?]
 
 He suppressed his desires while reciting prayers.
 
-[Ah, it hurts…!]
+[Ah, it hurts...!]
 
 [You still have a human heart remaining.]
 
 He underwent daily training that was akin to torture.
 
-[You can stand up. As long as the light of the sun is with you.]
+[You can stand. As long as the sun’s light is with you.]
 
-At times, he wished he would break, but the warm sunlight forced him to heal.
+At times, he wished he could simply break, but the warm sunlight kept forcing his body to heal.
 
-By the time he became an adult, he was no longer something that could be called a human.
+By the time he reached adulthood, he was barely something that could still be called human.
 
 He had no doubts.
 
-He just did as the church told him, performing work for the world in the name of God.
+He simply did as the church commanded, carrying out its work in the name of God.
 
-But…
+But...
 
-‘Why..’
+‘Why...?’
 
-The sky was cloudy, but the sunlight touching his skin was warm. But that day, as Jun Arshen was blankly looking up at the sky, he had a question for the first time.
+The sky was cloudy, yet the sunlight against his skin was warm. That day, as Jun Arshen stared blankly upward, a question came to him for the first time.
 
 ‘Am I righteous?’
 
-A question that was late, too late.
+A question that came far too late.
 
 Even now, he didn’t know why such a question suddenly arose.
 
@@ -286,15 +282,15 @@ But one thing was certain: from that day, his beast-like life came to an end.
 
 He renounced his position as an interrogator and returned to being a regular member of the church.
 
-Though his steps were backward, only after doing so did he feel disillusioned with the church.
+Though it looked like a step backward, only then did he begin to feel disillusioned with the church.
 
 It wasn’t hatred toward God.
 
-Because in the question that came to him like a revelation, he felt God’s presence closely for the first time.
+Because in the question that had come like a revelation, he felt God’s presence more closely than ever before.
 
 Rather, his faith became even stronger.
 
-‘I… was not righteous.’
+‘I... was not righteous.’
 
 Despair overtook him more than anger.
 
@@ -306,15 +302,15 @@ But that made him want it all the more desperately.
 
 Yes, perhaps that’s why.
 
-[I have one last favor to ask of you].
+[I have one last favor to ask of you.]
 
-Jun Arsen accepted one last mission to sever his ties with the archbishop… no, now a cardinal.
+Jun Arshen accepted one last mission to sever his ties with the archbishop... no, now a cardinal.
 
-It wasn’t like the usual mission to fabricate nonexistent sinners. This time, it felt like a mission for the world.
+Unlike the usual missions, this one did not involve fabricating nonexistent sinners. This time, it truly seemed to be for the sake of the world.
 
-He thought it could at least be a little atonement.
+He thought it might serve as at least a small act of atonement.
 
-And time passed…
+And time passed...
 
 Boooom—!!!
 
@@ -324,7 +320,7 @@ Now, here he was.
 
 Perhaps this is punishment.
 
-Punishment for being a foolish bastard, manipulated by those who have bent the will of the gods and was manipulated by the wicked hearts of men.
+Punishment for being a fool who had let those who twisted the will of the gods—and the wicked hearts of men—manipulate him.
 
 Yes, at times he thought that.
 
@@ -332,7 +328,7 @@ But now he could say.
 
 If this is truly his punishment,
 
-“You are… wrong.”
+“You are... wrong.”
 
 Even if he had dragged himself out of his beastly life, this was not right.
 
@@ -340,7 +336,7 @@ Even if he had dragged himself out of his beastly life, this was not right.
 
 “H-how did they make it this far?!”
 
-The light in his heart extinguished. The light of those who wished to move toward the future.
+The lights ahead of him were going out—the lights of those who wished to move toward the future.
 
 Step.
 
@@ -354,9 +350,9 @@ Step.
 
 It was only as he moved forward that he came to understand something.
 
-It might sound like mere wordplay, but…
+It might sound like mere wordplay, but...
 
-Step
+Step.
 
 Those who wish to move forward can always find a way.
 
@@ -370,7 +366,7 @@ Just then, he heard a sound from behind.
 
 Priestess Periton Eriavosti.
 
-A woman who had lived a life so much brighter than his, upholding pure justice unlike himself. A woman who burned with determination, vowing to live on for her beloved child.
+A woman who had lived a life far brighter than his, upholding a pure sense of justice he could never claim. A woman who burned with determination to survive for her beloved child.
 
 But it wasn’t just her.
 
@@ -378,41 +374,41 @@ But it wasn’t just her.
 
 The bearded mage had a wife he cherished.
 
-「Gerold Aldidi has used [Nullify].」
+[Gerold Aldidi has used [Nullify].]
 
 The old man who had lost his child had a long-standing wish to fulfill.
 
-[‘Titana Akuraba has cast [Vampiric Awl]
+[Titana Akuraba has cast [Vampiric Awl].]
 
-The dwarf has an unwavering cause.
+The dwarf had an unwavering cause.
 
-Suddenly, Puta Rickerburn’s words from before the battle flashed through my mind.
+Suddenly, Puta Rickerburn’s words from before the battle flashed through his mind.
 
 [The more I hear, the more pathetic I feel. I don’t know, but if we were to pick the most insignificant person among us, it would be me.]
 
 His words were wrong.
 
-Among the eighteen people who survived until now. No, even counting the original thirty who started.
+Among the eighteen who had survived this far—no, even among the original thirty who had set out—
 
-The most insignificant of them all was probably—
+the most insignificant of them all was probably—
 
 No, without a doubt—
 
-‘It’s me…’
+‘It’s me...’
 
 At last, Jun realized his role.
 
 “Hurry, this way!”
 
-Born with nothing but a parent’s name.
+Born with nothing but a name from his parents.
 
 Becoming an inquisitor.
 
-After wandering aimlessly, arriving at this frozen place.
+Wandering aimlessly until he arrived at this frozen place.
 
 Everything he had seen, heard, and felt on this journey—
 
-“Is simply to do my duty.”
+“It was all so I could do my duty.”
 
 It was all for this moment.
 
@@ -424,7 +420,7 @@ Fear no longer gripped him.
 
 Nor did it feel like this moment was a trial.
 
-Even his immobile leg felt like an inevitability, something meant to bring him here.
+Even his useless leg felt inevitable, as though it had existed to bring him to this moment.
 
 “To think there’d be a frontliner even here.”
 
@@ -438,11 +434,11 @@ Enemies emitting a blood-red aura rushed at him in unison.
 
 Jun raised his shield.
 
-Clang, Clang, Clang—!
+Clang, clang, clang—!
 
 Two daggers pierced through the shield.
 
-And then…
+And then...
 
 Stab—!
 
@@ -452,7 +448,7 @@ He felt no pain.
 
 For the first time, he was grateful. Grateful for the grueling training he had endured as a child.
 
-「Jun Arshen has used [Divine Descent].」
+[Jun Arshen has used [Divine Descent].]
 
 The power of God enveloped his body.
 
@@ -460,7 +456,7 @@ He felt like he could do anything.
 
 And then he let out a shout.
 
-It might not be a shout befitting a paladin, but…
+It might not be a shout befitting a paladin, but...
 
 “Bethel—raaaaaaa!!”
 
@@ -492,7 +488,7 @@ Seeing this, the Rose Knights exchanged puzzled remarks.
 
 “He should’ve died a long time ago.”
 
-“…So why hasn’t he fallen?”
+“...So why hasn’t he fallen?”
 
 “He has already wasted more than three minutes. Finish him quickly.”
 
@@ -500,7 +496,7 @@ The attacks grew more ferocious.
 
 Thwack!
 
-The blood pooling beneath him formed a puddle,and his mind became hazy.
+Blood pooled beneath him, and his mind grew hazy.
 
 How many minutes had he been standing?
 
@@ -518,15 +514,15 @@ Bjorn Jandel.
 
 He was probably doing his job even at this moment, steadily moving forward.
 
-“Clan…”
+“Clan...”
 
 Did they say they were going to create one in the city?
 
 Death held no fear, but a pang of regret surfaced.
 
-When the idea was first mentioned, he hadn’t said anything thinking it wasn’t his place.
+When the idea was first mentioned, he had stayed silent, thinking it wasn’t his place to join them.
 
-‘It sounded like it would’ve been… fun…’
+‘It sounded like it would’ve been... fun...’
 
 Surely, it would have been.
 
@@ -542,21 +538,21 @@ Jun Arshen instinctively realized.
 
 That his flame had completely burned out.
 
-“……”
+“......”
 
 As the noisy surroundings grew silent, his vision turned black. The flickering lights in the distance faded away, leaving smudged traces.
 
-And then…
+And then...
 
 Swooooosh—!
 
 The darkness receded, and all around was filled with light.
 
-As if someone had come to greet and take home a child who had completed his mission.
+As though someone had come to greet a child who had completed his mission and take him home.
 
 A light that warmly embraced his entire body.
 
-“Puh, puhehehe…”
+“Puh, puhehehe...”
 
 Jun Arshen smiled.
 
@@ -564,33 +560,33 @@ Even if this was nothing more than a hallucination before death.
 
 Even if it was a futile hope or faith.
 
-“Save a wandering soul like me…”
+“Save a wandering soul like me...”
 
 Without punishing this foolish sinner with the lash.
 
-Please, take in this weary, exhausted spirit.
+Please take in this weary, exhausted spirit.
 
-“Please, hold me…”
+“Please, hold me...”
 
 It was the moment he had longed for.
 
 ---
 
-There was neither strategy nor tactics.
+There was neither strategy nor tactics anymore.
 
-Just a continuous struggle, fighting to survive.
+Only an endless struggle to survive.
 
 Boom—! Slash, Thud—!
 
 A chaotic battle filled with explosions, the clashing of weapons, shouts, and screams.
 
-The skirmish continued for minutes, a situation where it would surprise no one if anyone survived or died by its end.
+The melee dragged on for minutes, chaotic enough that no one could have been surprised by who lived or died.
 
 Swooooosh—!
 
 The fog that had been surrounding us began to dissipate.
 
-It couldn’t be that the dark mage’s magic had already run out…
+It couldn’t be that the dark mage’s spell had simply run out...
 
 ‘Did someone kill the dark mage?’
 
@@ -600,7 +596,7 @@ As the fog cleared completely, our narrowed field of vision returned to normal.
 
 The first thing I saw was a woman frowning.
 
-And then…
+And then...
 
 ‘When did he get all the way over there?’
 
@@ -614,39 +610,39 @@ Around him, a frail-looking man in a robe lay fallen with his neck severed.
 
 After that, I looked around.
 
-For now, none of our frontliners had died.
+For the moment, none of our frontliners had died.
 
 But everyone’s condition was a mess.
 
 The most serious was probably Ravien.
 
-She had said earlier that she was confident in fistfighting, but without her sword, she was in bad shape.
+She had claimed earlier that she was confident in a fistfight, but without her sword she was clearly struggling.
 
 ‘Good, no one has died yet.’
 
-Then how about the rear?
+What about the rear?
 
 I’d heard a scream from there earlier.
 
-‘It sounded like someone shouted the name of our ancestor god.’
+‘It sounded like someone shouted the name of our ancestral god.’
 
-I’m not sure.
+I couldn’t be sure.
 
 There were so many explosions around.
 
-Taking advantage of the moment when the enemy woman put some distance between us, I quickly checked behind.
+When the woman fighting me briefly widened the distance, I stole a glance behind me.
 
-Contrary to my expectations, that place was the most devastated.
+Contrary to my expectations, the rear was in the worst condition.
 
 Three Rose Knights were standing in front of our rear line.
 
-“……”
+“......”
 
 A corpse lay on the ground.
 
 My heart sank at first glance, but on closer inspection, it was a Rose Knight.
 
-And then…
+And then...
 
 ‘Jun blocked them.’
 
@@ -654,35 +650,33 @@ I saw Jun standing in front as if protecting the rear.
 
 As soon as I spotted him, the conversation we had before the battle suddenly flashed through my mind.
 
-[“You want me… to hide in the rear?”]
+[“You want me... to hide in the rear?”]
 
 He didn’t seem to like my request.
 
 But when I persuaded him that the real fight would be after returning to the city, and that I needed his strength later, he reluctantly nodded.
 
-But…
+But...
 
-‘A guy who couldn’t even walk properly ended up like that…’
+‘A guy who couldn’t even walk properly ended up like that...’
 
 I sighed bitterly after checking Jun’s appearance.
 
-His body was so covered in blood that it was harder to find an uninjured spot.
+His body was so covered in blood that it was harder to find an uninjured spot than a wounded one.
 
-He probably made a decision too.
-
-That now wasn’t the time to hold back for the future.
+He must have made his own decision too—that this was no longer the time to hold back for the future.
 
 ‘If it weren’t for him, the rear would have been completely destroyed.’
 
 The thought made me shiver, but relief followed.
 
-Still, thanks to Jun’s fighting spirit, our rear managed to kill a Rose Knight in return—
+Still, thanks to Jun’s desperate stand, our rear had managed to kill one of the Rose Knights in return—
 
 Thud!
 
 A sense of unease came belatedly.
 
-“Why…”
+“Why...”
 
 Jun was standing upright.
 
@@ -690,25 +684,25 @@ He no longer held a shield in his hands.
 
 Yes, he was upright.
 
-But…
+But...
 
 “The light is out, isn’t it?”
 
 Unlike the others, his light wasn’t lit.
 
-And though my heart raced, my mind quickly came to the conclusion.
+Even as my heart raced, my mind arrived at the answer immediately.
 
 He was dead.
 
-“……!”
+“......!”
 
-I wasn’t the only one who was late to notice his death. The Rose Knights who were fighting right in front realized Jun’s death belatedly and dashed forward to ambush our rear line.
+I wasn’t the only one who noticed his death too late. The Rose Knights in front of him realized it a moment later and immediately rushed the rear line.
 
 But their daggers didn’t reach their intended targets.
 
 Clang—!
 
-Amelia, who moved as soon as she checked behind, deflected two daggers along with her doppleganger…
+Amelia, who moved the moment she looked back, deflected two daggers together with her doppelganger...
 
 Thud—!
 
@@ -716,17 +710,17 @@ But perhaps she was too distracted; she got stabbed in the back.
 
 Thanks to that, I snapped back to my senses.
 
-‘…I was wrong.’
+‘...I was wrong.’
 
-I focused on defense with the mindset that if I just held on, we would win.
+I had focused entirely on defense, convinced that if I simply held out, we would win.
 
-Since my active skills were sealed.
+My active skills were sealed, after all.
 
-I thought it was best to not be greedy, act as a meat shield, and do my part steadily.
+I thought the best choice was not to get greedy—to act as a meat shield and steadily do my part.
 
-But…
+But...
 
-[Mister…!!]
+[Mister...!!]
 
 Was this really the best I could do?
 
@@ -736,23 +730,19 @@ Until just a moment ago, I thought without a doubt that I was doing my best.
 
 But now I couldn’t think that way.
 
-Because I had seen it.
+Because I had seen Jun.
 
-With his injured leg, until the very end.
+Even with his ruined leg, he had burned everything he had to protect his comrades—and even in death, he still stood upright in the enemy’s path.
 
-The paladin who, burning all he had, protected his comrades, and even after death, was standing upright blocking the enemies.
+Only in a moment like that could someone truly say the words, “I did my best.”
 
-It’s a phrase that can only be used in such circumstances.
-
-The phrase “I did my best.”
-
-Clenching my fists tightly, I made up my mind and gave an order to Erwin.
+I clenched my fists, made up my mind, and gave Erwin an order.
 
 “Erwin, change the element.”
 
-Using Earth Mode, specialized in defense, would only increase the damage.
+Staying in Earth Mode, which specialized in defense, would only make things worse.
 
-Yes, so…
+Yes, so...
 
 [Huh? To which one?]
 
@@ -762,26 +752,26 @@ Swooooosh—!
 
 An element that was neither water, fire, earth, nor wind.
 
-Erwin’s main attribute, known as the Blood Spirit.
+Erwin’s main attribute: the Blood Spirit.
 
-[An evil spirit of darkness dwells within the character’s body]
+[A dark spirit dwells within the character’s body.]
 
 A dark shadow, ominous in its intensity, bloomed over my skin.
 
-Named…
+In other words—
 
-[All resistance values are fixed at 0]
+[All resistance values are fixed at 0.]
 
-[Holy resistance is fixed at -200]
+[Holy resistance is fixed at -200.]
 
-[Darkness resistance is fixed at +800]
+[Darkness resistance is fixed at +800.]
 
-[Blessing of the Abyss bonus applied]
+[The [Blessing of the Abyss] bonus is applied.]
 
-[Immune to all types of status ailments]
+[The character is immune to all status ailments.]
 
-[All types of attacks receive an unavoidable hit adjustment…]
+[All attacks receive an unavoidable-hit adjustment...]
 
-“…”
+“...”
 
 Elemental Barbarian (Dark) Extreme Offense Mode.

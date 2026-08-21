@@ -6,13 +6,13 @@ Ogre like snoring echoed through the ruined Alminas Bank’s underground vault, 
 
 There, as Amelia watched Aynar, she let out a long sigh. It wasn’t a sigh of disappointment.
 
-Did they use drugs…?
+Did they use drugs...?
 
 After all, they had been talking right beside her for quite some time, yet she hadn’t shown even the slightest sign of waking up.
 
 The only explanation was that she had been forcibly put to sleep with some kind of drug.
 
-“Kh—khk…”
+“Kh—khk...”
 
 Suddenly, Aynar let out a strained breath in her sleep. Amelia rushed to her side, deciding she would have to help if Aynar could not steady her breathing. In the end, her concern proved unnecessary.
 
@@ -24,9 +24,9 @@ Rrrrrrrgh—!!
 
 An even more violent snore filled the space.
 
-Watching this, Amelia briefly wondered if Einar hadn’t been drugged at all and was just… actually sleeping. But…
+Watching this, Amelia briefly wondered if Einar hadn’t been drugged at all and was just... actually sleeping. But...
 
-‘That can’t be…!’
+‘That can’t be...!’
 
 No matter how much of a barbarian she was, this was still a life-or-death situation. There was no way she’d be that lacking in a sense of danger— StreamHistory Documentaries
 
@@ -34,15 +34,15 @@ No matter how much of a barbarian she was, this was still a life-or-death situat
 
 “How? Aynar Pheneline is currently asleep due to the influence of drugs.”
 
-“…Ah, I see.” Auyen nodded as if he had finally understood.
+“...Ah, I see.” Auyen nodded as if he had finally understood.
 
-Even as the historically unfilial child, Tercelion, muttered, “Drugs…? Was there a report about that…?”, Amelia simply pretended not to hear.
+Even as the historically unfilial child, Tercelion, muttered, “Drugs...? Was there a report about that...?”, Amelia simply pretended not to hear.
 
 Being drugged was, after all, far less embarrassing.
 
 Besides, it wasn’t like the situation was so urgent that they had to wake her and leave immediately.
 
-“Um… may I continue speaking?”
+“Um... may I continue speaking?”
 
 When Eltora spoke up cautiously, Amelia—who had been momentarily distracted by Aynar—focused again.
 
@@ -54,7 +54,7 @@ Naturally so. Eltora Tercerion was trying to abandon his father and join their s
 
 “I was explaining how beneficial it would be for the palace and the Anabada Clan if you accepted my proposal.”
 
-“Ah, right… but that’s fine. You can skip it.”
+“Ah, right... but that’s fine. You can skip it.”
 
 Amelia showed no interest in the “benefits.” Or rather, she didn’t see the need to hear him anymore.
 
@@ -64,7 +64,7 @@ Her reasoning went like this. Using the marquiss’s son as a spy made sense, bu
 
 Motive. The trigger that drives a person to act.
 
-“…As I said before, the biggest reason is survival.”
+“...As I said before, the biggest reason is survival.”
 
 “So you judged that the royal family would win the war?”
 
@@ -86,17 +86,17 @@ How was that possible?
 
 The answer was surprisingly simple.
 
-“…Impossible. Even if the rebellion succeeded, I doubt I’d have survived. My father—no, Marquis Ageni Roten Tercerion—wanted me gone as soon as possible.”
+“...Impossible. Even if the rebellion succeeded, I doubt I’d have survived. My father—no, Marquis Ageni Roten Tercerion—wanted me gone as soon as possible.”
 
 “I don’t understand. Why would he treat his only eldest son that way?”
 
 “At first, I didn’t understand either. I learned the reason much later.The Marquis treated me that way because he knew my true identity.”
 
-“…What you truly were?” Amelia asked
+“...What you truly were?” Amelia asked
 
 Eltora gave a bitter smile. He wasn’t a Barbarian, but this time, long words weren’t necessary.
 
-“…I am an Evil Spirit.”
+“...I am an Evil Spirit.”
 
 In a way, it was a confession he was making for the first time in his life.
 
@@ -108,11 +108,11 @@ Of course, those feelings were Eltora’s alone.
 
 Auyen Rocklov, the navigator who had earned the achievement of injuring the Marquis, stood frozen with his mouth agape in shock.
 
-“…Oh?”
+“...Oh?”
 
 Even Amelia Rainwales, an assassin from Noark and an expert at hiding her emotions, showed a spark of curiosity in her eyes.
 
-It began to make sense. If what he said was true, then Eltora Tercerion’s betrayal was neither strange nor unexpected. The cause and effect were perfectly clear. However…
+It began to make sense. If what he said was true, then Eltora Tercerion’s betrayal was neither strange nor unexpected. The cause and effect were perfectly clear. However...
 
 “At this point, I’ve practically handed you my leash myself. Can you trust me now?”
 
@@ -128,11 +128,11 @@ Fortunately, she had a way to verify it.
 
 “A princess eats a poisoned apple given by a dwarf and dies. What is the princess’s name?”
 
-“…Are you referring to Snow White?”
+“...Are you referring to Snow White?”
 
 “Square pants.”
 
-“Sponge…no—how do you even know that?”
+“Sponge...no—how do you even know that?”
 
 “I believe you. You are indeed an Evil Spirit.”
 
@@ -142,7 +142,7 @@ Though he stammered at the question of “Snow White?”, it was within the marg
 
 Thinking of her own days in Noark, when she couldn’t study even if she wanted to, Amelia felt a sense of kinship with Eltora, though she kept it to herself.
 
-“…What’s with that look?”
+“...What’s with that look?”
 
 “Nothing.”
 
@@ -160,9 +160,9 @@ But—
 
 However, the question he asked out of lingering unease was answered with shocking and grim news.
 
-“That… unfortunately, isn’t up to me.”
+“That... unfortunately, isn’t up to me.”
 
-“Not up to you…? What does that mean?”
+“Not up to you...? What does that mean?”
 
 “Exactly what it sounds like. The leader of the Anabada Clan is Jandel, and the vice-leader is another woman.”
 
@@ -174,27 +174,27 @@ And with his life on the line, his anger exploded.
 
 “How does that make any sense?! I know your group inside and out!”
 
-“No, even if you say that…”
+“No, even if you say that...”
 
 “Aren’t you Jandel’s woman?!”
 
 “I’ve heard he trusts and relies on you the most. That he discusses everything with you and follows your advice! And yet, you say you have no authority?”
 
-“Well… I mean, that’s not entirely—”
+“Well... I mean, that’s not entirely—”
 
 “You’re practically inseparable from Jandel.”
 
-…Huh?”
+...Huh?”
 
 “So if you’re going to reject me, just be honest about it! Everyone already knows that when Baron Jandel marries, you’ll be his legal wife!”
 
-“…Legal wife?!”
+“...Legal wife?!”
 
 “Then who else is there? The Blood Spirit Queen who lost herself to bloodlust during the war? Karlstein, who has nothing going for him except being there from the beginning? Raven, who already sided with the royal family? Or that walking pile of muscles over there?!”
 
-“…I, I never thought of—”
+“...I, I never thought of—”
 
-“Don’t say you have no authority!! I know perfectly well how much Jandel values and depends on you…!”
+“Don’t say you have no authority!! I know perfectly well how much Jandel values and depends on you...!”
 
 Was it the immense stress of betraying his father with his life on the line?
 
@@ -208,17 +208,17 @@ He got what he wanted.
 
 With her eyes still closed, Aynar Pheneline had a thought.
 
-…Is it okay to wake up now?
+...Is it okay to wake up now?
 
 In truth, she hadn’t just woken up from her deep sleep. She had regained consciousness a while ago, but she continued to pretend to sleep.
 
 The reason was simple.
 
-[Ah, right… but forget about that.]
+[Ah, right... but forget about that.]
 
 As soon as she woke up, she heard Amelia’s voice. This meant that her allies had come to save her, just as she had believed they would. Naturally, Aynar was overjoyed.
 
-But…
+But...
 
 [Aynar Pheneline is currently unconscious due to the drugs.]
 
@@ -238,18 +238,18 @@ But then—
 
 Amelia was having a serious conversation with an unknown man. As Aynar listened in, she realized the man was the Marquis’s son.
 
-Ugh… my head…
+Ugh... my head...
 
 A dull headache crept in, and Aynar decided to keep pretending to sleep a little longer.
 
 And that led to the present moment.
 
-“……”
-“……”
+“......”
+“......”
 
 Silence fell as the conversation ended.
 
-…Guess I’ll wake up now.
+...Guess I’ll wake up now.
 
 Sensing that the timing was right, Aynar casually stretched and yawned as she sat up.
 
@@ -263,7 +263,7 @@ Thud!
 
 She put everything she had into it and landed a solid punch.
 
-“…Enough. He’s on our side now.”
+“...Enough. He’s on our side now.”
 
 As expected, Emily stepped in to stop her, and only then did Aynar calm down.
 
@@ -291,7 +291,7 @@ The answer was simply—
 
 “BETELAAAAAA!!”
 
-“…All of a sudden?”
+“...All of a sudden?”
 
 “I just felt like doing it!!”
 

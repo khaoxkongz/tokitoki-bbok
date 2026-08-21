@@ -8,15 +8,15 @@ Despite being an ex-member, his background as a Paladin of the Church of Reatlas
 
 And on top of that, a member of the Anabada Clan, the most famous clan in recent times.
 
-“…Anabada? Isn’t that Baron Jandel’s clan?!”
+“...Anabada? Isn’t that Baron Jandel’s clan?!”
 
-“Forget all that. A paladin! By the Goddess… we’re saved!”
+“Forget all that. A paladin! By the Goddess... we’re saved!”
 
 “But how do we know he’s telling the truth—”
 
 “Quiet. See that woman beside him? I don’t know her name, but I saw her myself at the victory ceremony. She was definitely with Baron Jandel!”
 
-“W-We’re saved…”
+“W-We’re saved...”
 
 It didn’t take long.
 
@@ -40,7 +40,7 @@ Dozens of questions poured out from the evacuees. The atmosphere instantly becam
 
 “For now, it would be best to stay here and wait.”
 
-“…Unfortunately, we weren’t sent by the royal family to save you. We only came here to find somewhere safe, just like you.”
+“...Unfortunately, we weren’t sent by the royal family to save you. We only came here to find somewhere safe, just like you.”
 
 His excessive honesty dimmed the hope in their eyes.
 
@@ -48,7 +48,7 @@ But he preferred it that way.
 
 Nothing was more cruel than giving false hope.
 
-“You weren’t sent by the royal family…?”
+“You weren’t sent by the royal family...?”
 
 “Damn it!”
 
@@ -64,11 +64,11 @@ Not everyone, though.
 
 “If they’re Baron Jandel’s companions, we can trust them.”
 
-“Yes! With a Paladin and a mage here, we feel much safer. We were so anxious on our own…!”
+“Yes! With a Paladin and a mage here, we feel much safer. We were so anxious on our own...!”
 
 Compared to the furious evacuees, these people were almost too optimistic.
 
-Sven had his doubts about why these ‘anxious’ people hadn’t even bothered to lock the front gate, but…
+Sven had his doubts about why these ‘anxious’ people hadn’t even bothered to lock the front gate, but...
 
 “Ha, haha.”
 
@@ -84,7 +84,7 @@ Sven followed their line of sight.
 
 A middle-aged man avoided his gaze and coughed.
 
-“…I, I just entered the Labyrinth a few times in my youth! I retired a long time ago.”
+“...I, I just entered the Labyrinth a few times in my youth! I retired a long time ago.”
 
 “I see.”
 
@@ -96,7 +96,7 @@ A retired explorer. One who seemed hesitant to speak, afraid he might be forced 
 
 “May I ask what your rank was just before retirement?”
 
-“It was… Rank 7.”
+“It was... Rank 7.”
 
 “I understand.”
 
@@ -108,7 +108,7 @@ Then he assigned the retired Rank 7 explorer in charge of managing the evacuees.
 
 “Anything you need, Sir Paladin!”
 
-“Then please gather anything we can use to block the door. Chairs, desks, cabinets…”
+“Then please gather anything we can use to block the door. Chairs, desks, cabinets...”
 
 Afterwards, Sven locked the main gate and completed the minimum preparations by setting up a barricade.
 
@@ -130,11 +130,11 @@ I’m not a monster like Bjorn Jandel.
 
 I can’t do it.
 
-Right, so…
+Right, so...
 
-“There’s no need to think about fleeing yet. The chances of enemies coming all the way here are low… and if we just hold this spot, the problem is solved.”
+“There’s no need to think about fleeing yet. The chances of enemies coming all the way here are low... and if we just hold this spot, the problem is solved.”
 
-“Yes… that’s true. If we can just hold this place, there’s no reason to run.”
+“Yes... that’s true. If we can just hold this place, there’s no reason to run.”
 
 Marone didn’t seem to have a better answer either. Instead of arguing, she started crafting magic circles in front of the gate to help with the defence.
 
@@ -146,7 +146,7 @@ After watching her, Sven turned and began to walk aimlessly.
 
 “I’m going to look around and get a feel for the building’s layout.”
 
-“Ah, I see…”
+“Ah, I see...”
 
 He used that as an excuse, but he didn’t actually need to learn the layout. Most temples were built according to a set standard.
 
@@ -160,11 +160,11 @@ However, it seemed that the others had misunderstood his intentions. The evacuee
 
 Just as he felt it was strange, he opened his eyes and saw the statue of Reatlas directly in front of him.
 
-…Did they think I was praying?
+...Did they think I was praying?
 
 That was quite funny. He had lived as a Paladin for a long time, but in reality, he was far from devout.
 
-“The Goddess of Stars…”
+“The Goddess of Stars...”
 
 He gazed at the statue of Reatlas, the goddess said to govern adventure and relationships, and silently asked a question.
 
@@ -182,7 +182,7 @@ He closed his eyes.
 
 Like wishing on a shooting star, he muttered:
 
-‘Please… just let us live. Okay?’
+‘Please... just let us live. Okay?’
 
 He was no different from the others.
 
@@ -208,7 +208,7 @@ After hearing Versyl’s report that everything was ready, I stood before the fo
 
 And
 
-‘…I’m getting a little tired of this, but it’s not something I can skip.’
+‘...I’m getting a little tired of this, but it’s not something I can skip.’
 
 Looking at the thousand soldiers awaiting my words, I began my address.
 
@@ -232,7 +232,7 @@ I no longer wanted to deceive people with sweet lies or fill them with false hop
 
 “If you kill the enemy, ask yourself what you’re killing them for.”
 
-“And if you’re killed… ask yourself what you risked your life for.”
+“And if you’re killed... ask yourself what you risked your life for.”
 
 For some reason, excitement surged within me as I began to shout.
 
@@ -290,7 +290,7 @@ Weapons in hand.
 
 “Protect me!”
 
-“Nia Raphdonia…!”
+“Nia Raphdonia...!”
 
 Each of us shouted our own battle cry.
 
@@ -321,13 +321,13 @@ Thwack!
 
 Oh. A headshot with a crossbow from this distance? And it didn’t even look like a skill.
 
-“…Looks like your aim’s improved.”
+“...Looks like your aim’s improved.”
 
 “The bow was the easiest weapon to learn within the city.”
 
 Makes sense. You need a partner to practice swordplay.
 
-“But… is it really okay for me to be here?”
+“But... is it really okay for me to be here?”
 
 Rotmiller still didn’t seem to believe that he was part of the Barbarian Bunker Mode. Or rather, he was worried.
 
@@ -343,7 +343,7 @@ He begged to come, saying he’d at least pull his weight. I couldn’t stop him
 
 So, since I was worried, I put him in my bunker unit.
 
-In a way, it’s the most dangerous front line…
+In a way, it’s the most dangerous front line...
 
 But it’s also where my eyes can always reach.
 
@@ -361,11 +361,11 @@ Thanks to Rotmiller, my first scout, and his navigation ability, I didn’t have
 
 “Then we head that way.”
 
-“…Huh? Didn’t I just say that way’s dangerous?”
+“...Huh? Didn’t I just say that way’s dangerous?”
 
-“Yeah… that’s exactly why we’re going.”
+“Yeah... that’s exactly why we’re going.”
 
-“…?”
+“...?”
 
 “We came out here to fight”
 

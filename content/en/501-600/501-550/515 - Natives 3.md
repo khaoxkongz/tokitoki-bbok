@@ -112,7 +112,7 @@ It drank from the bottle.
 
 [Can I have some?]
 
-[…………Sure.]
+[............Sure.]
 
 It seemed reluctant, but it handed me the bottle.
 
@@ -400,7 +400,7 @@ I didn't remember, but I focused on the conversation.
 
 [I said be quiet!]
 
-[…….]
+[.......]
 
 The shield shut up after being scolded by its father.
 
@@ -410,7 +410,7 @@ Right, children shouldn't interrupt adult conversations.
 
 [Monster, I invite you to our village.]
 
-[………What?]
+[.........What?]
 
 I thought I had misheard, but he repeated himself.
 

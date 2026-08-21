@@ -12,7 +12,7 @@ This one, in particular, had three defining characteristics that set it apart.
 
 First, the pitch of the “Be” started low and rose into a familiar roar. Then between “hel” and “ra” came a pronounced inhale. Most notably of all, the cry belonged to a woman.
 
-‘Aynar………………?
+‘Aynar..................?
 
 The instant he turned toward the sound, Rotmiller realized his suspicion had been right. He spotted Aynar standing on the railing of a four-story building.
 
@@ -20,7 +20,7 @@ Shaaaak—!
 
 A pair of wings spread wide behind her back. In her hands, she gripped a green spear that looked valuable even from afar.
 
-“Divine spear…!”
+“Divine spear...!”
 
 “She was supposed to be near the dimensional plaza!”
 
@@ -48,17 +48,17 @@ For some reason, Rotmiller felt his heart swell, but he suppressed his emotions 
 
 When trust is given, it must be repaid.
 
-“If we reach the walls, there is a very high probability the Royal Army will come out to help. So…”
+“If we reach the walls, there is a very high probability the Royal Army will come out to help. So...”
 
 “Make it easy to understand.”
 
 “Clear the path in front of us!”
 
-“…Simple enough.”
+“...Simple enough.”
 
 The moment Rotmiller gave the order, Aynar shot forward.
 
-And then…
+And then...
 
 Stab—!
 
@@ -100,7 +100,7 @@ Strange lights flickered in the man’s eyes as he spoke. The female warrior res
 
 The force of the strike sent the air howling around them, but her spear failed to hit its mark.
 
-Then…
+Then...
 
 Cr-crack—!
 
@@ -122,9 +122,9 @@ The cart clattered as it rolled forward, its noise blending into the din of the 
 
 He was completely focused on one thing: getting the wagon to the walls.
 
-But…
+But...
 
-“Catch them…!”
+“Catch them...!”
 
 “Block them!”
 
@@ -140,7 +140,7 @@ Of course it was.
 
 Even though they were in a wheeled cart, the horse had run this far while carrying a massive barbarian and an adult male.
 
-At this point, its strength was bound to fail…
+At this point, its strength was bound to fail...
 
 Thwack— Phut!
 
@@ -156,9 +156,9 @@ After all, he wasn’t a powerhouse like Aynar.
 
 These were people who couldn’t even stand their ground against Aynar, yet their level was still far above Rotmiller’s.
 
-Well, not everyone was like that, as a crossbow bolt occasionally found its mark…
+Well, not everyone was like that, as a crossbow bolt occasionally found its mark...
 
-“Catch him…!”
+“Catch him...!”
 
 The distance between the cart and the pursuers closed rapidly.
 
@@ -168,7 +168,7 @@ At this rate, being overtaken was inevitable. He had to decide, but there was no
 
 He had finally run out of crossbow arrows.
 
-Then…
+Then...
 
 Thud—!
 
@@ -176,7 +176,7 @@ An enemy projectile hit his right shoulder, rendering his arm useless. Simply pu
 
 Countless thoughts crossed his mind.
 
-Is this really the end? When he appeared in the sanctuary, I thought I still had a few more stories left to tell. So… is this truly how it ends?
+Is this really the end? When he appeared in the sanctuary, I thought I still had a few more stories left to tell. So... is this truly how it ends?
 
 No—there was one way.
 
@@ -208,13 +208,13 @@ But he didn’t run.
 
 He did his best, and as a result, he saved everyone.
 
-‘Right…’
+‘Right...’
 
 If it weren’t for him, this story would have ended a long time ago anyway.
 
 It was ridiculous even to hesitate.
 
-So…
+So...
 
 “I’m sorry, but you’ll have to go the rest of the way alone.”
 
@@ -224,17 +224,17 @@ Even to the very end, Rotmiller remained ordinary at heart.
 
 Out of a final sense of lingering regret, he pulled a pen from his [Treasure Vault].
 
-And then…
+And then...
 
 Scribble, scribble.
 
 He wrote words onto the man’s thick palm.
 
-The situation was too urgent to write a long story…
+The situation was too urgent to write a long story...
 
 But even that was enough to settle his many regrets.
 
-In a way, even the words left at the end might be his own greed…
+In a way, even the words left at the end might be his own greed...
 
 ‘I suppose I can afford this much greed.’
 
@@ -260,19 +260,19 @@ It felt like waking up from a deep sleep.
 
 My body was stiff, but my mind was clear. It felt as though I had awakened from a long sleep, but I couldn’t remember what it had been.
 
-“Where…?”
+“Where...?”
 
 Looking at the ceiling, I realized it was the barracks of a camp.
 
 Slowly, I lifted my upper body and glanced around, but there were no clear clues about where I was. It vaguely resembled the palatial soldiers’ barracks I remembered, but why would I be sleeping there?
 
-“Rotmiller…”
+“Rotmiller...”
 
 I began piecing together the fragments of memory from before I lost consciousness.
 
 Thunder fell, and I blocked it. When I had barely managed to regain consciousness, Rotmiller had been right beside me.
 
-‘What… what the hell happened?’
+‘What... what the hell happened?’
 
 I was confused.
 
@@ -282,7 +282,7 @@ Just as I was about to push myself up from the bed, a knight stepped into the te
 
 It was a familiar face.
 
-“… Astarotta?”
+“... Astarotta?”
 
 It was the King’s Knight, Astarotta Berun.
 
@@ -300,7 +300,7 @@ Geez, that’s cold to someone who just woke up.
 
 “She’s in a safe place, so don’t worry. She’s been informed. You’ll see her soon.”
 
-…Good.
+...Good.
 
 “Then tell me. Where is this place, and why am I here?”
 
@@ -310,7 +310,7 @@ Geez, that’s cold to someone who just woke up.
 
 “The moment your location is known, another thunder will fall.”
 
-“…What?”
+“...What?”
 
 “The Marquis seems to have become quite desperate. Every time your location is confirmed, he keeps firing thunder.”
 
@@ -330,19 +330,19 @@ A second thunder fell, and Baron Wilkins, commander of the Fifth Corps, activate
 
 It was a summoning spell with a fairly long casting time, and because it was activated hastily, it produced a “side effect.”
 
-The side effect was that the summoning coordinates were designated randomly…
+The side effect was that the summoning coordinates were designated randomly...
 
 “So everyone there was randomly teleported across the city?”
 
 “Isn’t it better than everyone dying?”
 
-Well, that was true…
+Well, that was true...
 
 “Then did I just get lucky and end up here?”
 
 “No. You landed right in the middle of enemy territory—District Four. And the man who carried your unconscious body all the way to the imperial capital was someone else.”
 
-“Man… Rotmiller? You mean Brown Rotmiller?”
+“Man... Rotmiller? You mean Brown Rotmiller?”
 
 “Most likely.”
 
@@ -358,11 +358,11 @@ I froze as the answer hit me. “What?”
 
 “Also, Aynar Pheneline, who helped you escape with that man, was captured by the enemy and is reportedly a prisoner.”
 
-Rotmiller is dead… and Aynar was captured…?
+Rotmiller is dead... and Aynar was captured...?
 
 My mind shut down under the flood of information. Seeing this, Astarotta let out a short chuckle.
 
-“For someone who looks like you, you’re far more delicate than I expected. I’ll step out for a bit—take some time to get yourself together. Oh, and one last thing…”
+“For someone who looks like you, you’re far more delicate than I expected. I’ll step out for a bit—take some time to get yourself together. Oh, and one last thing...”
 
 When I could only stare at him, baffled, he added, “Your palm.”
 
@@ -376,4 +376,4 @@ The moment I read them, reality finally sank in.
 
 [Take good care of Miss Shabin. She’s a good woman.]
 
-…This wasn’t a dream.
+...This wasn’t a dream.

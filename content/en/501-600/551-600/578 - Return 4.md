@@ -6,7 +6,7 @@ I gave the glass a gentle swirl and downed it all in one go.
 
 After all, it’ll just bland once the ice melts, right?
 
-“Ahhh…”
+“Ahhh...”
 
 Yeah, this is it.
 
@@ -14,7 +14,7 @@ This world is bearable in many things, but the lack of carbonated drinks is brut
 
 I could catch a faint trace of that bubbly sensation in its beer, but it felt totally different from the stuff back home.
 
-‘…Should I go back?’
+‘...Should I go back?’
 
 A flavor so good it almost rekindled my long-lost desire to return.
 
@@ -28,7 +28,7 @@ After finishing the first glass, I immediately asked for a refill.
 
 This time, though, I sipped slowly to savor the taste instead of chugging it.
 
-“You… really do look happy, don’t you?”
+“You... really do look happy, don’t you?”
 
 Wow, talk about killing the vibe. I’m the kind of person who gets annoyed the moment someone says stuff like that to me.
 
@@ -36,7 +36,7 @@ Wow, talk about killing the vibe. I’m the kind of person who gets annoyed the 
 
 “Ah, you mean the Witch?”
 
-“Yes. I just can’t wrap my head around it. No matter how I think about it, I don’t see how you could’ve crossed paths with her…”
+“Yes. I just can’t wrap my head around it. No matter how I think about it, I don’t see how you could’ve crossed paths with her...”
 
 Hmm.
 
@@ -44,7 +44,7 @@ Hmm.
 
 When I narrowed my eyes and asked, Auril Gavis rolled his eyes and turned silent.
 
-“……”
+“......”
 
 Honestly, it was creepy.
 
@@ -54,7 +54,7 @@ How, exactly?
 
 While I was lost in thought, the old man smoothly dodged the question.
 
-“First off, the timing rules out the Basement Floor 1. And I recall you were quite busy before then. Establishing your clan, the Mage Tower… didn’t you even take down two floor lords during that time?”
+“First off, the timing rules out the Basement Floor 1. And I recall you were quite busy before then. Establishing your clan, the Mage Tower... didn’t you even take down two floor lords during that time?”
 
 Well, yeah. I had been busy.
 
@@ -100,7 +100,7 @@ It’s not like this is my first rodeo. I’ve got this old man figured out by n
 
 When I brushed it off casually, Auril Gavis reverted to his usual expression as if nothing had happened.
 
-“Heh, you’re really something..So, tell me… what is it you want from me?”
+“Heh, you’re really something..So, tell me... what is it you want from me?”
 
 Since the stick didn’t work on me, the only option he had left was the carrot.
 
@@ -110,7 +110,7 @@ Honestly, I didn’t know exactly what I wanted.
 
 No—I wanted to ask so many things that he didn’t know where to start.
 
-So I had to prioritize…
+So I had to prioritize...
 
 ‘‘Asking what he’s scheming is too broad.’
 
@@ -136,9 +136,9 @@ His tone suggested he’d whip up a new gem on the spot if I asked, but I declin
 
 It might sound childish, but for this situation, it was a pretty effective threat. After all, this old man wants to manipulate me like a puppet from the shadows.
 
-He needs to maintain at least a decent relationship with me…
+He needs to maintain at least a decent relationship with me...
 
-“Hmm…”
+“Hmm...”
 
 But why is this old man looking at me with such perverted eyes without answering me?
 
@@ -150,9 +150,9 @@ But why is this old man looking at me with such perverted eyes without answering
 
 When I glared at him, sensing his usual games, Auril Gavis reluctantly opened his mouth.
 
-“It’s just… I was a little impressed, that’s all.”
+“It’s just... I was a little impressed, that’s all.”
 
-“……?”
+“......?”
 
 “By your attitude toward trust.”
 
@@ -178,7 +178,7 @@ So I asked directly.
 
 “Sir, do you have something wrong with your head? How the hell did you interpret my words like that?”
 
-“Hmmm…”
+“Hmmm...”
 
 “Sir, First of all, think about what you’ve done. What reason do I have to trust you?”
 
@@ -196,7 +196,7 @@ Was what I did to Misha one of those punishments?
 
 I’m not sure, but let’s end this topic here.
 
-“……Whatever. Just answer the question. Why are you trying to close this place?”
+“......Whatever. Just answer the question. Why are you trying to close this place?”
 
 “If I answer, will you answer me too?”
 
@@ -210,7 +210,7 @@ A vague answer—not a clear yes or no.
 
 Auril Gavis undoubtedly understood the implication.
 
-But…
+But...
 
 “Fine. Then listen and decide.”
 
@@ -218,11 +218,11 @@ Surprisingly, the old man accepted my proposal without protest.
 
 “As expected, sir—you’re as easygoing as ever.”
 
-“……Could you stop switching attitudes so abruptly? It feels like you’re treating me like a child.”
+“......Could you stop switching attitudes so abruptly? It feels like you’re treating me like a child.”
 
 “Must be your imagination.”
 
-“…….”
+“.......”
 
 “So, the answer?”
 
@@ -238,7 +238,7 @@ I smiled politely, and Auril Gavis sighed deeply before responding.
 
 “That’s the problem. Humans who grow complacent inevitably choose stagnation.”
 
-“Ah…”
+“Ah...”
 
 I think I get what he means.
 
@@ -256,7 +256,7 @@ Well, he’s not wrong.
 
 “Roughly speaking, yes.”
 
-Roughly speaking, huh…
+Roughly speaking, huh...
 
 Clearly, there’s a lot more he’s not saying.
 
@@ -276,9 +276,9 @@ In the end, I was the one who spoke first.
 
 This meeting didn’t happen easily—I couldn’t just walk away empty-handed.
 
-“So, about that…”
+“So, about that...”
 
-“…….”
+“.......”
 
 “Can’t you just leave the community alone? If you do, I’ll tell you about the Witch.”
 
@@ -316,7 +316,7 @@ Wow, look at the lies rolling off his tongue.
 
 I scoffed, and Auril Gavis smirked as if he’d expected that.
 
-And then…
+And then...
 
 “Whether you believe me or not, I’ll leave you with one last piece of advice.”
 
@@ -324,7 +324,7 @@ And then…
 
 “Yi Baek-ho.”
 
-“Yi Baek-ho…?”
+“Yi Baek-ho...?”
 
 “Don’t get too close to that friend.”
 
@@ -338,9 +338,9 @@ I stared blankly at the spot where he had been standing.
 
 A sudden possibility had occurred to me.
 
-‘Lee Baek-ho…’
+‘Lee Baek-ho...’
 
-Maybe…
+Maybe...
 
 It’s not certain, but just maybe.
 
@@ -372,7 +372,7 @@ I picked up the Lion Mask I’d taken off earlier while drinking soda and put it
 
 I’d grown oddly attached to it.
 
-“Is this really the end…?”
+“Is this really the end...?”
 
 It’s hard to put into words, but it feels hollow.
 
@@ -392,7 +392,7 @@ But I shook my head and brushed off the thoughts.
 
 With a dry laugh, I took the mask off and placed it on the round table, then gave the empty space one last look.
 
-“……This is boring.”
+“......This is boring.”
 
 And so, the final meeting came to an end.
 
@@ -400,7 +400,7 @@ Back in Lee Han-soo’s room after witnessing the last round table.
 
 After flopping onto the bed for a while, I pulled myself together, sat at the computer, and first checked the message inbox.
 
-‘There’s one message, but…’
+‘There’s one message, but...’
 
 Contrary to expectations, it wasn’t from the GM I’d been waiting for.
 
@@ -418,6 +418,6 @@ In the end, the real message was in the last line:
 
 [Let’s meet outside.]
 
-Outside, huh…
+Outside, huh...
 
 First things first—I need to get out of this labyrinth.

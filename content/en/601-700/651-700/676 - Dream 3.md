@@ -2,7 +2,7 @@
 
 As I slowly regained consciousness, I opened my eyes to narrow slits, piecing together what I saw with the sounds around me.
 
-“…Right? I’m pretty sure he matches the description.”
+“...Right? I’m pretty sure he matches the description.”
 
 My wrists were cuffed and fastened to something.
 
@@ -24,7 +24,7 @@ Judging by the setup, losing and getting captured at the beginning was scripted.
 
 “Enough talking. Once we get to the station and take his fingerprints, we’ll find out if he’s Lee Han-soo or not.”
 
-…Whew, well, at least I’m still alive.
+...Whew, well, at least I’m still alive.
 
 “Team Leader Kang? This bastard is smiling.”
 
@@ -48,7 +48,7 @@ I told them in the most polite voice possible that I wouldn’t cause any more t
 
 But maybe he found it ridiculous?
 
-“What’s with this bastard… Why did he suddenly become so docile?”
+“What’s with this bastard... Why did he suddenly become so docile?”
 
 I mean, I was literally being CC’d right now.
 
@@ -56,7 +56,7 @@ Unless I had the body of a warrior capable of shattering handcuffs in an instant
 
 An ordinary Lee Han-soo becomes useless once handcuffed.
 
-So…
+So...
 
 “It might be an escape mission. Just as there are dreams where you beat up monsters, there are also dreams like this.’
 
@@ -64,9 +64,9 @@ Rather than attempting a hopeless escape, I decided to play nice and gather some
 
 Think of it as the tutorial phase.
 
-Yeah, so…
+Yeah, so...
 
-“Officer, I was too flustered earlier. Suddenly, strangers were trying to enter my house using a password, so I was startled… I apologise once again for what happened earlier.”
+“Officer, I was too flustered earlier. Suddenly, strangers were trying to enter my house using a password, so I was startled... I apologise once again for what happened earlier.”
 
 Instead of resorting to the barbarian way of thinking, I offered a clean, polite, modern apology. History
 
@@ -76,17 +76,17 @@ Chief Kang’s face didn’t lighten; it grew darker instead.
 
 “Cut the crap.”
 
-…Wow, I apologized and he calls it crap?
+...Wow, I apologized and he calls it crap?
 
 I really should’ve finished them off earlier—
 
 “You were laughing, weren’t you?”
 
-…Huh?
+...Huh?
 
-“…Absolutely not, officer.”
+“...Absolutely not, officer.”
 
-“Hah… We’ve really landed a crazy one. Hey, what did this bastard call us earlier?”
+“Hah... We’ve really landed a crazy one. Hey, what did this bastard call us earlier?”
 
 “He said we were goblin cops.”
 
@@ -103,7 +103,7 @@ I’m barely holding back as it is!”
 
 Ugh, stop spitting on me.
 
-“……”
+“......”
 
 I didn’t understand why he was blowing up like that, but it was obvious I shouldn’t provoke him any further.
 
@@ -121,7 +121,7 @@ Oh, is this the moment for an escape—
 
 “Don’t even think about it. Unless you wanna taste electricity again.”
 
-Damn it…
+Damn it...
 
 ‘Fine. First priority is getting these cuffs off. The moment they’re removed, that’s the trigger. For now, just endure.’
 
@@ -129,7 +129,7 @@ Having abandoned the idea of escaping for the moment, I followed the team leader
 
 After a short lift ride, we arrived at an interrogation room.
 
-‘One, two, three, four, five, six…’
+‘One, two, three, four, five, six...’
 
 The entire building was teeming with Goblin Officers, and this floor was no exception.
 
@@ -137,7 +137,7 @@ When does this tutorial even end?
 
 I had no idea, but I followed Chief Kang’s instructions, gave my fingerprints and was briefly held in a cell before being called out for questioning.
 
-“We’ve contacted your family, so they’ll be here soon. Oh, and since you probably didn’t hear earlier when you fainted, Lee Han-soo, you have the right to remain silent…”
+“We’ve contacted your family, so they’ll be here soon. Oh, and since you probably didn’t hear earlier when you fainted, Lee Han-soo, you have the right to remain silent...”
 
 Unlike before, Chief Kang was now speaking politely. After reading out the Miranda rights, he asked me the first question.
 
@@ -149,17 +149,17 @@ A completely honest answer, with no exaggeration. However, my unintentionally �
 
 The lackey next to him flared up and raised his arm.
 
-“…Found yourself there’? You little punk, watch your tone when talking to Chief Kang!”
+“...Found yourself there’? You little punk, watch your tone when talking to Chief Kang!”
 
 “Enough, Detective Park! He’s someone who went missing and was found after over a year! We don’t know what he’s been through, so bear with it for now.”
 
 “But Chief! Because of him, Jihoon’s in the ER! The ER!”
 
-“…That’s enough! If you’re going to interfere with the investigation, get out, you punk!”
+“...That’s enough! If you’re going to interfere with the investigation, get out, you punk!”
 
 Mob A let out an irritated huff and slumped back into his seat.
 
-“Huh… Sorry for the commotion. Mr. Lee Hansu. Let’s resume the investigation. We have a lot of questions for you right now. Of course, you have the right to remain silent, but we hope you won’t exercise it.”
+“Huh... Sorry for the commotion. Mr. Lee Hansu. Let’s resume the investigation. We have a lot of questions for you right now. Of course, you have the right to remain silent, but we hope you won’t exercise it.”
 
 “Yes, don’t worry. I will cooperate sincerely with the investigation.”
 
@@ -179,9 +179,9 @@ The problem was, he didn’t think I was being sincere.
 
 “Oh, right.”
 
-I nodded, impressed by his neat summary, but…
+I nodded, impressed by his neat summary, but...
 
-“Wow…” someone muttered beside me. “Wow… This guy is a real nutjob…”
+“Wow...” someone muttered beside me. “Wow... This guy is a real nutjob...”
 
 “Could it be schizophrenia?”
 
@@ -193,13 +193,13 @@ If they thought I was mentally unstable, they’d lower their guard.
 
 They are all ‘enemies’.
 
-And in that sense…
+And in that sense...
 
 Click, click.
 
 I picked up the ballpoint pen in front of me and fiddled with it.
 
-‘The tip is quite…’
+‘The tip is quite...’
 
 Sharp.
 
@@ -217,7 +217,7 @@ The officers keep the handcuff keys on their belts.
 
 In simple terms, it means if I just subdue Team Leader Kang, I can take the key from his waist and remove the CC.
 
-“Team Leader… Shouldn’t we send him for a psychiatric evaluation before this investigation?”
+“Team Leader... Shouldn’t we send him for a psychiatric evaluation before this investigation?”
 
 “I’ll handle it, so just mind your own business. You really have that much free time to waste?”
 
@@ -227,17 +227,17 @@ After some time, he asked, ‘You must be hungry. Let’s eat first. Would you l
 
 “Jjajang. Oh, and soda too.”
 
-“…Got it.”
+“...Got it.”
 
 I buried my face into the black noodles he brought and and slurped them up greedily, then suddenly paused.
 
-“Kaaaaaaah……”
+“Kaaaaaaah......”
 
 Could something taste this real?
 
 “What’s wrong? You were enjoying it a second ago.”
 
-“It’s just… weird.”
+“It’s just... weird.”
 
 “Weird? It looks fine to me.”
 
@@ -245,13 +245,13 @@ Could something taste this real?
 
 “That’ll do for the questioning. When you’re done, pass me the bowl. There’s someone you need to meet.”
 
-“Someone to meet…?”
+“Someone to meet...?”
 
 “Who else could it be? Mr. Lee, your—ah, she’s here! Miss, over here! This way!”
 
 I turned around as he waved.
 
-“Han-soo…”
+“Han-soo...”
 
 The same long skirt she always wore.
 
@@ -261,19 +261,19 @@ That bucket hat she always wore to hide her rough, unkempt hair.
 
 And beneath its brim was the face I’d longed to see, yet never wanted to see again.
 
-“Ahh…”
+“Ahh...”
 
 My mother clutched her mouth and collapsed to the floor, sobbing.
 
 Seeing that, I let out a hollow laugh.
 
-“Pfft…”
+“Pfft...”
 
 It certainly made it feel more like a dream.
 
 “Pffft! Hahahahahaha!”
 
-But damn… it felt awful.
+But damn... it felt awful.
 
 ***
 
@@ -347,9 +347,9 @@ She screamed and shouted those words.
 
 After that, I never sought her out again.
 
-So when Hyun-byeol later told me news about my mother, I really was… surprised.
+So when Hyun-byeol later told me news about my mother, I really was... surprised.
 
-“[She was talking about the inheritance for a long time… Then she asked the police if there was any way to report you as deceased before the missing person period expired.]”
+“[She was talking about the inheritance for a long time... Then she asked the police if there was any way to report you as deceased before the missing person period expired.]”
 
 I guess she heard the news and got greedy for the money?
 
@@ -357,17 +357,17 @@ Or maybe she just wanted me gone for good?
 
 Only she knows what she was really thinking, but one thing is clear.
 
-“Sob… Hansu-yah… I’m sorry, I’m sorry… Mom is so sorry……”
+“Sob... Hansu-yah... I’m sorry, I’m sorry... Mom is so sorry......”
 
 She wasn’t the kind of woman who should be crying like this now.
 
 Thanks to that, I was even more certain that this place was a dream world.
 
-“I… I really wanted to meet you and tell you. I know I don’t have the right… but can you forgive me…? This foolish mother……”
+“I... I really wanted to meet you and tell you. I know I don’t have the right... but can you forgive me...? This foolish mother......”
 
 Watching my sobbing mother, I finished my assessment.
 
-‘This… might be usable?’
+‘This... might be usable?’
 
 Not bad, actually.
 
@@ -375,11 +375,11 @@ So, I reached out my hand toward my crying mother.
 
 While suppressing all the emotions rising inside me.
 
-“I forgive… you……”
+“I forgive... you......”
 
-“R-Really…?”
+“R-Really...?”
 
-“Yes…. Because that’s what you taught me……”
+“Yes.... Because that’s what you taught me......”
 
 Like a priest granting absolution for all sins, I reached out and gently placed my hand over my mother’s.
 
@@ -389,7 +389,7 @@ I tenderly stroked the back of her hand, then slowly turned my head towards Chie
 
 “Detective, could you please take off my handcuffs for a moment?”
 
-“…No.”
+“...No.”
 
 “Damn it.”
 

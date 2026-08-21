@@ -4,11 +4,11 @@ Even on the day of my victory parade, there wasn’t a roar like this. It was as
 
 “Waaaahhhhh—!!!”
 
-…Just how many people are here?
+...Just how many people are here?
 
 No matter where I looked—north, south, east, or west—there were just people everywhere. The barbarians rolled their shoulders and flexed their backs, as though answering the roar around them.
 
-I had no idea this event would get this big…
+I had no idea this event would get this big...
 
 I heard the Marquis say it would be quite large, but seeing and feeling it makes the reality completely different.
 
@@ -22,7 +22,7 @@ Well, the event itself is interesting too.
 
 Even I would be interested if those lofty noble families were going to compete each other based on their construction skills.
 
-“He’s so handsome!! Bjorn Jandel……!!”
+“He’s so handsome!! Bjorn Jandel......!!”
 
 “Kyaaaaaaah!”
 
@@ -74,13 +74,13 @@ Once I and my engineers were in position, the host naturally moved on with the p
 
 A brief introduction to the five families, the purpose of the contest, and how it will be conducted.
 
-‘Please, let it be something simple…….’
+‘Please, let it be something simple.......’
 
 After that, the drawing began immediately.
 
 Each family would draw lots to decide the theme for today’s test.
 
-“The first box contains balls with the number of floors the building must have. Let’s see what we get…”
+“The first box contains balls with the number of floors the building must have. Let’s see what we get...”
 
 Unfortunately, Viscount Kiembrota, who went first, drew the number four.
 
@@ -92,11 +92,11 @@ Considering the maximum was five floors, this is basically like taking a four-st
 
 Broadly, the options were divided into stone and wooden buildings, but upon closer inspection, there were quite a few materials:
 
-Bricks, Compound clay, logs, wooden planks, etc…
+Bricks, Compound clay, logs, wooden planks, etc...
 
 “Reinforced stone!”
 
-“Ugh…!”
+“Ugh...!”
 
 When the material was announced, murmurs rose around us. And for good reason, reinforced stone was the hardest material to work with.
 
@@ -111,23 +111,23 @@ Anyway, the drawing of lots progressed quickly until the conditions of the compe
 
 A four-story building made of reinforced stone.
 
-“The third ball is… 8!”
+“The third ball is... 8!”
 
-Each floor must have at least eight windows…
+Each floor must have at least eight windows...
 
 “It’s a residential building! Residential!”
 
 The building’s purpose is for living, not business.
 
-And finally…
+And finally...
 
-“Baron Jandel will now draw a ball to determine the artistic theme of the building. The balls include words like elegance, softness, grandeur, and so on, which will be judged in the scoring… Ah! He’s picked one!”
+“Baron Jandel will now draw a ball to determine the artistic theme of the building. The balls include words like elegance, softness, grandeur, and so on, which will be judged in the scoring... Ah! He’s picked one!”
 
-The theme is…
+The theme is...
 
 “Happiness! The theme is happiness!”
 
-……Hah.
+......Hah.
 
 Somehow, I drew the theme that was farthest from me.
 
@@ -135,7 +135,7 @@ Somehow, I drew the theme that was farthest from me.
 
 The total construction time for the contest is 3 days.
 
-Given that it’s a 4-story building, that’s brutally tight… but…
+Given that it’s a 4-story building, that’s brutally tight... but...
 
 ‘That’s exactly what makes this a competition.’
 
@@ -175,7 +175,7 @@ So with that in mind—
 
 “How about this design?”
 
-“…Huh? That doesn’t look happy at all.”
+“...Huh? That doesn’t look happy at all.”
 
 When I suggested a new layout, the engineers tilted their heads.
 
@@ -183,15 +183,15 @@ But once I explained the reasoning and the artistic interpretation behind it, th
 
 It sounded like nonsense but also oddly persuasive.
 
-“True… even if we don’t get the art points, this might still score high overall.”
+“True... even if we don’t get the art points, this might still score high overall.”
 
 “Besides, this contest isn’t just about building something beautiful.”
 
-“I also heard audience votes are included on the final day… this might actually do well then.”
+“I also heard audience votes are included on the final day... this might actually do well then.”
 
 Maybe because I was the one ultimately responsible, when I stood my ground, they reluctantly agreed.
 
-“…Then we’ll finalize this design?”
+“...Then we’ll finalize this design?”
 
 “Yes. I like it very much.”
 
@@ -211,7 +211,7 @@ After that, the Dwarf technicians began the sewer work, and during that time, th
 
 “He’s running! He’s actually running!”
 
-“Whoa! That guy’s got four—wait, he dropped them all…”
+“Whoa! That guy’s got four—wait, he dropped them all...”
 
 Maybe they were over-excited by the audience’s attention, but the sounds of things dropping and crashing kept echoing as they pushed past their limits.
 
@@ -235,9 +235,9 @@ Even if it was a contest between nobles, it was still just a building competitio
 
 The warriors tried to keep the audience with even crazier stunts, but once the fun dried up, most spectators left without hesitation.
 
-“Aaahh… E-everyone left…!”
+“Aaahh... E-everyone left...!”
 
-“I… I’m not worthy of being a warrior…!”
+“I... I’m not worthy of being a warrior...!”
 
 Sigh. What’s with these guys now?
 
@@ -255,7 +255,7 @@ With their morale dropping fast, I had no choice but to step in.
 
 Okay, that should cover the mental care.
 
-After that, I monitored the progress of the other houses while giving immediate feedback on our building whenever needed. But as I waited nearby…
+After that, I monitored the progress of the other houses while giving immediate feedback on our building whenever needed. But as I waited nearby...
 
 “I never thought I’d see a barbarian build a house in my lifetime.”
 
@@ -297,11 +297,11 @@ Our warriors were no different.
 
 They hadn’t slept properly for three days, but they had poured their hearts into the work and achieved results to match.
 
-“Though… now that it’s over, I can’t help but wonder if this was really okay.”
+“Though... now that it’s over, I can’t help but wonder if this was really okay.”
 
 “The baron gave the orders. Let’s leave it at that.”
 
-The dwarf engineers still looked uncertain, but…
+The dwarf engineers still looked uncertain, but...
 
 Anyway.
 
@@ -309,7 +309,7 @@ The cold night wind and the faint drizzle filled the dusty arena.
 
 “Good job, everyone! At least we did better than those guys!”
 
-“I never thought such a shabby building would appear in such a major competition…”
+“I never thought such a shabby building would appear in such a major competition...”
 
 “Haha! Perhaps that was the best they could manage?”
 

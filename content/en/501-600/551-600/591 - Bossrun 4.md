@@ -2,7 +2,7 @@
 
 As soon as we stepped through the portal, Sven Parab asked,
 
-“Um… why me?”
+“Um... why me?”
 
 It was a strange question.
 
@@ -24,7 +24,7 @@ I answered his repeated question honestly.
 
 “I didn’t pick you because you’re a paladin.”
 
-“…Huh?”
+“...Huh?”
 
 “I picked you because it’s you.”
 
@@ -44,7 +44,7 @@ But for some reason, Sven Parav turned pale and took a step back.
 
 It was as if he were trying to distance himself from something.
 
-“…Why?”
+“...Why?”
 
 When I expressed my confusion and took a step forward, he further retreated, meekly covering his upper body with both arms.
 
@@ -56,7 +56,7 @@ Well, I had experienced something like this just recently.
 
 “Don’t get the wrong idea.” I gave a warning. “Before I crack your head in.”
 
-“Then…you mean the rumors aren’t true?”
+“Then...you mean the rumors aren’t true?”
 
 “Rumors?”
 
@@ -70,13 +70,13 @@ Then, I repeated the exact explanation I had given last time to clear up the mis
 
 “I like women. Very much.”
 
-“…I-I see.”
+“...I-I see.”
 
 Maybe he could sense the sincerity, because the wary look in his eyes seemed to ease a little.
 
 But maybe something was still bothering him?
 
-“Then what exactly did you mean by what you said earlier…?”
+“Then what exactly did you mean by what you said earlier...?”
 
 That I didn’t choose him because he was a Holy Knight, but because he was Sven Parab.
 
@@ -86,7 +86,7 @@ Exactly as I said.
 
 What I needed to defeat the Guardian wasn’t a Holy Knight, but this guy.
 
-And…
+And...
 
 ‘Looks like it’s going well.’
 
@@ -98,7 +98,7 @@ After all, he stepped through the portal without a moment’s hesitation.
 
 Just to confirm, I asked again, and he shook his head. Then, as if realizing something, his mouth fell open.
 
-“Ah, was that why…?”
+“Ah, was that why...?”
 
 I just shrugged and didn’t answer.
 
@@ -106,7 +106,7 @@ And with that, the topic was closed.
 
 Afterward, we discussed the boss strategy. Though he was technically a cheat-mode gamer, he still had a solid grasp of the general mechanics of boss fights. He picked up on unfamiliar details quickly, too.
 
-“Um… how do you know all this, Baron?”
+“Um... how do you know all this, Baron?”
 
 He looked at me with some suspicion, but it wasn’t hard to come up with a convincing explanation.
 
@@ -114,11 +114,11 @@ I mean, it’s not like I’m just some random barbarian.
 
 “Once you become a titled noble, you gain access to information ordinary people don’t have.”
 
-“But the other nobles don’t seem to know…”
+“But the other nobles don’t seem to know...”
 
 “They’re not former explorers, are they? Most of them don’t even care about the labryinth unless there’s money involved.”
 
-“Ah… I suppose that makes sense.”
+“Ah... I suppose that makes sense.”
 
 When I framed it as a noble-exclusive advantage, Sven Parav nodded obediently and dropped the subject.
 
@@ -130,7 +130,7 @@ I started with something light.
 
 “How’s life at the temple, Sven Parav?”
 
-“It’s not too bad. After filing for leaving the clergy, I’m treated as an outsider, but… in my case, that’s actually more comfortable sometimes.”
+“It’s not too bad. After filing for leaving the clergy, I’m treated as an outsider, but... in my case, that’s actually more comfortable sometimes.”
 
 Leaving the clergy meant he would leave the temple life to return to civilian status.
 
@@ -140,13 +140,13 @@ Once the ceremony is complete, the person is no longer bound by the temple’s c
 
 Being someone far from religion, I was genuinely curious.
 
-I’d heard it didn’t involve cutting off your pinky finger or anything like that…
+I’d heard it didn’t involve cutting off your pinky finger or anything like that...
 
 But I couldn’t imagine the Three God’s Church would just let go of a Holy Knight they’d trained without asking for something in return.
 
 “It’s nothing too grand. You just give up the goddess’s blessings and return everything the temple gave you.”
 
-“Everything the temple gave you…?”
+“Everything the temple gave you...?”
 
 “Haha, in other words, you walk out with nothing. Everything I have was given to me while I was affiliated with the temple. Oh, and I’ll have to start paying taxes next year too.”
 
@@ -154,7 +154,7 @@ To put it simply, you can leave if you give them everything you own.
 
 In a way, cutting off a pinky might actually be the more merciful option.
 
-“Still, it’s not too frightening. Mr. Gowland promised to support me all the way… Wait, hold on. Baron, you didn’t know about that?”
+“Still, it’s not too frightening. Mr. Gowland promised to support me all the way... Wait, hold on. Baron, you didn’t know about that?”
 
 Sven Parab flinched mid-sentence, realizing something was off.
 
@@ -162,7 +162,7 @@ I let out a small chuckle and patted his shoulder.
 
 “Don’t worry. I’ll take full responsibility for you.”
 
-“Whew… that scared me.”
+“Whew... that scared me.”
 
 “But you seem oddly calm about it? Won’t you stop growing after leaving the temple?”
 
@@ -172,25 +172,25 @@ Like priests and mages, they can’t absorb essence. But in exchange, they gain 
 
 There are various ways to earn merit.
 
-Killing monsters in the labyrinth, donating offerings, completing missions for the church…
+Killing monsters in the labyrinth, donating offerings, completing missions for the church...
 
 Once enough merit is gained, the Pope would come and offer a prayer. Then the next morning, you’d wake up with a new skill.
 
 That’s why the Pope held such absolute authority.
 
-“Well… there’s no helping it. If I stayed there, I’d definitely die someday. Besides, even after leaving the clergy, there are rare cases where the goddess bestows a new blessing. So I’m holding out hope for that.”
+“Well... there’s no helping it. If I stayed there, I’d definitely die someday. Besides, even after leaving the clergy, there are rare cases where the goddess bestows a new blessing. So I’m holding out hope for that.”
 
 “Guess we’ll just have to hunt more monsters.”
 
-“If I stay with you, Baron… I’ll probably end up hunting plenty anyway…”
+“If I stay with you, Baron... I’ll probably end up hunting plenty anyway...”
 
 He always seems like a pretty light-hearted guy, but talking with him like this, I realized he’s actually trying pretty hard to live his life.
 
-Maybe that’s why…
+Maybe that’s why...
 
 I started to wonder about something.
 
-‘If he had the chance… would he want to go back?’
+‘If he had the chance... would he want to go back?’
 
 Maybe that was why.
 
@@ -200,7 +200,7 @@ When Auril Gavis offered an escape ticket as a prize, he had joined but quickly 
 
 After the Ice Rock expedition, he even declared he’d join us in revenge, expressing his anger.
 
-‘But… how do I ask this?’
+‘But... how do I ask this?’
 
 After a brief moment of hesitation, I carefully brought up the subject.
 
@@ -208,7 +208,7 @@ After a brief moment of hesitation, I carefully brought up the subject.
 
 “Go ahead, Baron.”
 
-“Do you… have someone you’re seeing?”
+“Do you... have someone you’re seeing?”
 
 “Huh?”
 
@@ -218,9 +218,9 @@ Depending on his answer, I’d get a sense of how he viewed this world.
 
 “I meant, is there a woman you’re currently involved with?”
 
-“N-No, there isn’t, but…”
+“N-No, there isn’t, but...”
 
-“Hmm, I see…”
+“Hmm, I see...”
 
 Guess I’ll have to ask another way.
 
@@ -230,9 +230,9 @@ Just as I was about to speak again—
 
 He suddenly cut in, flustered.
 
-“There’s… someone I like…”
+“There’s... someone I like...”
 
-“…?”
+“...?”
 
 “No, I mean—there is a woman I have feelings for!”
 
@@ -244,7 +244,7 @@ Who was the woman who stole Sven Parav’s heart?
 
 No matter how persistently I pressed him, he just bowed his head like a shy boy and refused to answer. It was the kind of reaction you’d only see from someone who was serious about their feelings.
 
-“I-It’s really not Ms. Gowland! She’s more like… a mentor to me…”
+“I-It’s really not Ms. Gowland! She’s more like... a mentor to me...”
 
 “So you like innocent, fragile women?”
 
@@ -282,7 +282,7 @@ The Guardian we were about to face was unique among all other variants.
 
 Step, step.
 
-This maze we were walking through now…
+This maze we were walking through now...
 
 The entire maze is the boss we’re fighting.
 
@@ -304,7 +304,7 @@ He’s a Holy Knight, so he can serve as a backup tank and heal himself.
 
 “You okay?”
 
-“Ah… yes. Just startled. I’m fine.”
+“Ah... yes. Just startled. I’m fine.”
 
 He seemed alright.
 
@@ -332,7 +332,7 @@ It was a hallway in an old-fashioned mansion. It looked like it was mirroring it
 
 “Technically, it’s you who needs to find it, not ‘we.’”
 
-“Ah… yes, sir…”
+“Ah... yes, sir...”
 
 We moved together, checking the rooms one by one.
 
@@ -340,13 +340,13 @@ Though honestly, “searching” was a bit of a stretch.
 
 Anyway—
 
-“I… don’t really feel any danger from this one.”
+“I... don’t really feel any danger from this one.”
 
 We left the rest to fate.
 
 Sometimes traps were triggered and poison filled the air, or monsters jumped out and dragged us into prolonged fights, or we got hit with nasty curses.
 
-“Uh… maybe we shouldn’t open this one.”
+“Uh... maybe we shouldn’t open this one.”
 
 If his expression so much as twitched, we’d leave it for later and just mark it.
 
@@ -360,7 +360,7 @@ If we split up now, we could save a lot of time, but that wasn’t an option.
 
 Even if this boss grew more powerful the longer it took—
 
-‘…How can I open something that could kill us both?
+‘...How can I open something that could kill us both?
 
 Some of these chests contained absurdly unfair traps.
 
@@ -376,7 +376,7 @@ Luck.
 
 In the face of misfortune, numbers meant nothing. No one understood that better than I did.
 
-‘Well, on the flip side, there are also positive events that can happen…’
+‘Well, on the flip side, there are also positive events that can happen...’
 
 For the record, there’s only one of each—one death trap and one jackpot—and the odds are nearly identical.
 
@@ -386,11 +386,11 @@ So that you had to rely purely on luck.
 
 ‘Anyway, it’s better not to get your hopes up about the golden chest—’
 
-“Um… Baron…?”
+“Um... Baron...?”
 
 At Parab’s bewildered voice, I turned my head—and froze.
 
-“…Huh?”
+“...Huh?”
 
 A chest, gaping open like a dead mimic.
 

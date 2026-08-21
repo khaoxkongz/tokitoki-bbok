@@ -4,13 +4,13 @@ How long had it been since my last Hans?
 
 It had been such a long time since I last encountered one.
 
-‘The last one was K…’
+‘The last one was K...’
 
 Hans Caesar.
 
 I ran into him by chance on the Dark Continent when I was active as Rihen Schuiz.
 
-And…
+And...
 
 We hadn’t even been together for two hours before those Noark bastards launched their surprise attack.
 
@@ -20,7 +20,7 @@ Had Raven not changed her mind midway, my journey might have ended there and the
 
 If Raven hadn’t changed her mind, I might have been trapped forever inside the ‘Cage of Silence’.
 
-But that’s not important now…
+But that’s not important now...
 
 Hans L.
 
@@ -38,9 +38,9 @@ After the frantic beating of my heart, I shouted at the top of my lungs:
 
 Needless to say, the others couldn’t understand my reaction.
 
-“…Huh? All of a sudden?”
+“...Huh? All of a sudden?”
 
-“I can’t sense any presence of monsters at all…”
+“I can’t sense any presence of monsters at all...”
 
 Baek-ho and the Archer looked confused.
 
@@ -56,7 +56,7 @@ Ignoring their questions, I started running first, and everyone followed behind 
 
 It wasn’t just herd mentality; it was more a belief that I must have a reason for acting this way.
 
-“…Let’s go for now! Baron Jandel must have a reason for acting like this!”
+“...Let’s go for now! Baron Jandel must have a reason for acting like this!”
 
 And so, our emergency escape began without warning.
 
@@ -70,7 +70,7 @@ Because I didn’t know either.
 
 I had no idea what we were about to be running from.
 
-“…You’ll find out soon enough.”
+“...You’ll find out soon enough.”
 
 That was all I could say, so I brushed it off like that.
 
@@ -80,7 +80,7 @@ Baek-ho reacted as if he was dying of frustration but didn’t stop running.
 
 And after some time had passed like that.
 
-“…A person?”
+“...A person?”
 
 A human figure appeared at the edge of our vision.
 
@@ -88,7 +88,7 @@ A human figure appeared at the edge of our vision.
 
 The monster had dark skin, with a black spider crawling over its face. But surprisingly, there wasn’t just one this time.
 
-“…That’s quite a few of them.’
+“...That’s quite a few of them.’
 
 Starting with the one in the lead, five more Bayons appeared from behind, hidden in the shadows.
 
@@ -106,17 +106,17 @@ Though there were many enemies, Baek-ho didn’t rush in recklessly as he had be
 
 “What the hell? Why are they all using skills?”
 
-“…It’s the Guardian’s Essence!”
+“...It’s the Guardian’s Essence!”
 
 “What? This piece of shit has Phianil’s Essence?”
 
 The Bayons we fought this time carried much higher-level essences than expected, so the battle took longer than usual.
 
-“Fifteen minutes, huh…”
+“Fifteen minutes, huh...”
 
 For taking down six Level 3 monsters, that was actually incredibly fast. But, given my anxiety about Hans L, even that felt far too long.
 
-‘Anyway, at least no one got hurt…’
+‘Anyway, at least no one got hurt...’
 
 I wanted to start moving again as soon as the fight ended, but I couldn’t get everyone to agree.
 
@@ -126,7 +126,7 @@ Baek-ho ignored my order to hurry up and started looting.
 
 When I told him we didn’t have time, he just said I should at least explain what was so urgent.
 
-“Sigh…”
+“Sigh...”
 
 I was frustrated.
 
@@ -140,7 +140,7 @@ And then he’d stop taking me seriously altogether.
 
 For that reason, I had no choice but to watch the looting process.
 
-“Six Bayons… that’s a bit unusual.”
+“Six Bayons... that’s a bit unusual.”
 
 “Indeed. It might be possible in the Land of Immortality, but they’re not a common sight around here.”
 
@@ -148,7 +148,7 @@ The two mages exchanged opinions.
 
 As they said, the appearance of so many Bayons was clearly an abnormal phenomenon.
 
-However…
+However...
 
 ‘This can’t be the end of it.’
 
@@ -166,13 +166,13 @@ But then someone stopped me.
 
 The tank from Lee Baek-ho’s team, Lex Aureus.
 
-He shouted as if he had discovered something. I was about to ignore him, thinking he’d say something trivial again, but…
+He shouted as if he had discovered something. I was about to ignore him, thinking he’d say something trivial again, but...
 
 “These bastards! These bastards look familiar too!”
 
 “Wait! Everyone, hold on a moment!”
 
-Rex Aures shouted as if he had discovered something important. I was about to ignore him, thinking it was unimportant, but then…
+Rex Aures shouted as if he had discovered something important. I was about to ignore him, thinking it was unimportant, but then...
 
 “These guys! Their faces look familiar!”
 
@@ -180,7 +180,7 @@ That was something I couldn’t brush off.
 
 “Bright! Come look at this! Aren’t these guys explorers from our side?”
 
-“…What are you talking about?”
+“...What are you talking about?”
 
 At Aures’s request, the archer approached and peeled the black spider off one of Bayon’s faces.
 
@@ -194,9 +194,9 @@ Hearing this, the GM cautiously put forward a theory.
 
 ‘Could they be part of Hans Dailan’s group?’
 
-“…Huh?”
+“...Huh?”
 
-“You know, he said there were over a hundred of them wandering the outside world together. Maybe these are them…”
+“You know, he said there were over a hundred of them wandering the outside world together. Maybe these are them...”
 
 “Eh? But didn’t he say they got separated midway?”
 
@@ -210,13 +210,13 @@ However, the part about them being scattered is a lie, and perhaps they got caug
 
 There was even evidence suggesting it.
 
-“…Judging from the state of the bodies, these people have likely been turned into monsters for several months.”
+“...Judging from the state of the bodies, these people have likely been turned into monsters for several months.”
 
 “What do you mean?”
 
 “I don’t know much about Bayons, but look at the one with the cut on its neck. It likely died from that wound and then transformed into a monster afterward.”
 
-“…And?”
+“...And?”
 
 “But the bloodstains on its collar are several months old at least.”
 
@@ -224,13 +224,13 @@ A reasonable deduction from a mage accustomed to experiments.
 
 The Ruin Scholar nodded in agreement.
 
-“Hmm… then that Hans Dailan fellow may also have died months ago…”
+“Hmm... then that Hans Dailan fellow may also have died months ago...”
 
 I cut him off mid-sentence.
 
 “Daylan.”
 
-“…What?”
+“...What?”
 
 “Just call him Dailan. Drop the ‘Hans.’”
 
@@ -254,7 +254,7 @@ The mages, now used to his theatrics, ignored him and kept talking.
 
 “If our theory’s correct, those Bayons won’t be the last of them.”
 
-“Yes… If over a hundred people were caught in some incident here…”
+“Yes... If over a hundred people were caught in some incident here...”
 
 “Then that many Bayons might be roaming around this area.”
 
@@ -264,7 +264,7 @@ Just as they reached that conclusion—
 
 Archer Bright, our scout, shouted loudly.
 
-“Five… no, six… seven, ten, fifteen…? They are continously increasing!”
+“Five... no, six... seven, ten, fifteen...? They are continously increasing!”
 
 He called out the numbers in real time.
 
@@ -286,7 +286,7 @@ A clear anomaly.
 
 Bayons, which had barely appeared before, are now showing up by the dozens all at once.
 
-‘……Did killing one of them trigger something?’
+‘......Did killing one of them trigger something?’
 
 I couldn’t be sure, but now wasn’t the time to dwell on it.
 
@@ -310,7 +310,7 @@ He weaved us through the gaps between the monsters with remarkable precision, us
 
 Baek-ho grinned proudly, and Bright smiled awkwardly.
 
-“Baek-ho, we were only lucky this time. …If we’d stayed where we were, by the time I sensed them, we’d have already been surrounded.”
+“Baek-ho, we were only lucky this time. ...If we’d stayed where we were, by the time I sensed them, we’d have already been surrounded.”
 
 “Huh? What do you mean?”
 
@@ -320,15 +320,15 @@ At that, Aures clapped his hands together in exaggerated amazement.
 
 “Oh, really?! That’s incredible, Baron! You said we had to move, and you were right!”
 
-“…I’m curious too, Baron. How did you know?”
+“...I’m curious too, Baron. How did you know?”
 
 Even the archer seemed impressed, while Baek-ho’s eyes turned sly.
 
-“Heh… so our Baron has some kind of detection skill, huh? Let’s see, what kind of tank skill would that be…”
+“Heh... so our Baron has some kind of detection skill, huh? Let’s see, what kind of tank skill would that be...”
 
 Lee Baek-ho genuinely believed I had such a detection skill and started shadowboxing with possibilities.
 
-“Hmm, [Hyper-Sensitive Muscles] doesn’t have that effect, [Clock Hands of Regret]—nah, not that. ‘Fate Tracker’? Didn’t seem like it triggered… What could it be?”
+“Hmm, [Hyper-Sensitive Muscles] doesn’t have that effect, [Clock Hands of Regret]—nah, not that. ‘Fate Tracker’? Didn’t seem like it triggered... What could it be?”
 
 He was clearly fishing for a reaction, tossing out guesses one by one.
 
@@ -336,7 +336,7 @@ I said nothing.
 
 Because, really, what could I say?
 
-That it wasn’t a skill… it was Hans.
+That it wasn’t a skill... it was Hans.
 
 Even if I told them, they wouldn’t believe me. In fact, it was better for me if they kept believing I had some hidden detection skill.
 
@@ -358,7 +358,7 @@ We had escaped the Old Rock Plains and stepped into a new field.
 
 The green lava bubbled ominously, releasing poisonous gases that filled the air like smoke.
 
-“…It seems they’re no longer pursuing us,” Upon entering the new field, the scout declared the situation over.
+“...It seems they’re no longer pursuing us,” Upon entering the new field, the scout declared the situation over.
 
 “We made it.”
 

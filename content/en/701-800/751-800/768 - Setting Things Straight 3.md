@@ -12,7 +12,7 @@ Well, calling it “life” might be a stretch. It was closer to humiliation and
 
 As I looked at the Marquis with satisfaction after he regained some vitality, he slowly raised his head and looked up at me.
 
-A storm of complicated emotions swirled in his eyes. There was confusion at being struck on the back of the head, humiliation at having to look up at someone he had once stood above, and lastly…
+A storm of complicated emotions swirled in his eyes. There was confusion at being struck on the back of the head, humiliation at having to look up at someone he had once stood above, and lastly...
 
 “Ragna.”
 
@@ -74,7 +74,7 @@ Surprisingly, Glasses agreed coolly. I gave Amelia a nod, and she led the others
 
 “It’s been a while. Since we’ve sat face-to-face like this.”
 
-“…You look surprisingly at peace.”
+“...You look surprisingly at peace.”
 
 “Fear comes from having something to lose. Look at me now. Does it look like I have anything left to lose?”
 
@@ -90,7 +90,7 @@ I spoke with heavy sarcasm, but the Marquis didn’t refute it at all.
 
 Which only made it awkward.
 
-“…What? Were you really just going to say that—”
+“...What? Were you really just going to say that—”
 
 “How much do you know about the royal family of Raphdonia?”
 
@@ -110,7 +110,7 @@ I urged him on, and the Marquis dropped a bombshell right from the start.
 
 “Huh?”
 
-…What did I just hear?
+...What did I just hear?
 
 ****
 
@@ -142,11 +142,11 @@ By exploring the first underground floor and the outside world, neither of which
 
 [Ah, didn’t you know? After the Immortal King fathers a child, he takes over that child’s body to continue his reign. That’s why the Immortal King always wore a mask.]
 
-I learned Raphdonia’s secret from the village chief, a hero from a bygone era. Back then, I assumed that was why the King of the New World tried to take the throne. After all, no motive is stronger than the will to survive. However, that was precisely why…
+I learned Raphdonia’s secret from the village chief, a hero from a bygone era. Back then, I assumed that was why the King of the New World tried to take the throne. After all, no motive is stronger than the will to survive. However, that was precisely why...
 
 “Just answer the question. Is it certain?”
 
-To be honest, it’s hard to believe. I know it’s theoretically possible, but…
+To be honest, it’s hard to believe. I know it’s theoretically possible, but...
 
 [I will be different from him. I will live as a human and die as a human.]
 
@@ -174,13 +174,13 @@ A relic infused with the authority of an ancient evil god, said to grant its wie
 
 “Then this will be quick. During the process of taking the King of the New World’s body, the Immortal King lost the last remaining Heart of Karui.”
 
-“…Wait.”
+“...Wait.”
 
 “The last remaining one?”
 
 “You seem to visit the library often, but haven’t studied ancient mythology? Even the scriptures of the Three Gods Church mention driving sacred treasures into the two hearts of the evil god.”
 
-“…Fine, enough with the history lesson. So you’re saying there are two artifacts called the Heart of Karui?”
+“...Fine, enough with the history lesson. So you’re saying there are two artifacts called the Heart of Karui?”
 
 “Correct.”
 
@@ -194,15 +194,15 @@ Finally, the puzzle pieces clicked into place. I had always wondered how the kin
 
 The Marquis gave me a strange look
 
-“…I didn’t expect you to know that much.”
+“...I didn’t expect you to know that much.”
 
 “Luck really isn’t on my side,” I said flatly. All I wanted was to live, yet I kept getting dragged into one messy situation after another. “I won’t interrupt you, so go on. What is it you want to tell me?”
 
-“…The royal family has continued searching for the Heart of Karui. And recently, that relic has appeared in the world again. Fortunately, it seems he still doesn’t know its exact location yet…”
+“...The royal family has continued searching for the Heart of Karui. And recently, that relic has appeared in the world again. Fortunately, it seems he still doesn’t know its exact location yet...”
 
 “So?”
 
-“Finding it is only a matter of time. And knowing that… I had no choice but to commit such a reckless act.”
+“Finding it is only a matter of time. And knowing that... I had no choice but to commit such a reckless act.”
 
 “Because you thought the king would take Ragna’s body?”
 
@@ -210,7 +210,7 @@ The Marquis gave me a strange look
 
 “To protect my daughter, there was no other way.”
 
-…I see.
+...I see.
 
 I had suspected there might be circumstances like that, but I didn’t expect the story to actually be like this.
 
@@ -224,15 +224,15 @@ Why was the Marquis so certain that the king would take Ragna’s body?
 
 “The king has always taken only the bodies of his own bloodline. There must be some reason for that.”
 
-“No, that’s not what I meant… I mean, if I were the King of the New World, I would have made sure to have plenty of children as backups. Can’t you convince him to take someone else’s body instead of hers?”
+“No, that’s not what I meant... I mean, if I were the King of the New World, I would have made sure to have plenty of children as backups. Can’t you convince him to take someone else’s body instead of hers?”
 
 At my question, the Marquis gave a bitter smile.
 
-“At one time, it was exactly as you said. The King of the New World had many children and kept them in reserve. However… a mysterious group began relentlessly hunting them down.”
+“At one time, it was exactly as you said. The King of the New World had many children and kept them in reserve. However... a mysterious group began relentlessly hunting them down.”
 
 “A mysterious group?”
 
-“Hirkumuta. They wear black wolf masks and claim to follow the Last Great Sage. For some unknown reason, they hunted the children whenever the king fell asleep. As a result… none of them remain now.”
+“Hirkumuta. They wear black wolf masks and claim to follow the Last Great Sage. For some unknown reason, they hunted the children whenever the king fell asleep. As a result... none of them remain now.”
 
 Even the commander of the Rose Knights was killed in the process. But that was not the important part.
 

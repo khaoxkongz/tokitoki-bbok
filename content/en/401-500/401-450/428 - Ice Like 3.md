@@ -4,49 +4,49 @@ The Sixth Rose of the Rose Knights.
 
 Regal Vagos, who spotted her losing the battle from a distance, couldn’t help but laugh.
 
-‘That pathetic bitch. When she was boasting that she could handle him alone.’
+‘Pathetic bitch. After all that boasting about handling him alone.’
 
-He had been closely watching their fight ever since it began.
+He had been watching their fight closely from the very beginning.
 
-After all, if Six won, he would have to stop her before she killed that barbarian bastard.
+After all, if Six won, he would have to stop her before she finished off that barbarian bastard.
 
-A peaceful death is too luxurious for that guy.
+A peaceful death was far too luxurious for him.
 
-Therefore, he planned to use [Enslavement] to turn him into a slave and make him live a lifetime of suffering.
+So Vagos intended to use [Enslavement], turn him into a slave, and condemn him to a lifetime of suffering.
 
-If, by bad luck, he died before that, he intended to absorb his soul to increase his abilities.
+If the barbarian somehow died before that, Vagos planned to absorb his soul and strengthen himself instead.
 
-‘Well, perhaps this is better? He’s down now anyway.’
+‘Well, maybe this is better. He’s down now anyway.’
 
-Pretending to fight while maintaining the front line, he quietly withdrew from the battlefield.
+Pretending to maintain the front line, he quietly peeled away from the battle.
 
-And quickly turned to the spot he’d been watching.
+Then he headed straight for the spot he had been watching.
 
 Step, step.
 
-The distance quickly decreased.
+He rapidly closed the distance.
 
-‘It would be amusing to turn him into a servant and make him fight against his own comrades.’
+‘It would be amusing to turn him into a servant and make him fight his own comrades.’
 
-As he was moving forward with this expectation…
+As he was moving forward with this expectation...
 
-“Regal, Vargos……”
+“Regal Vagos...”
 
-A trembling, tiny voice.
+A small, trembling voice.
 
-And then…
+And then...
 
 Whiiishhh!
 
-A menacing crackling sound followed.
+A menacing crackle followed.
 
 Clang!
 
 He hurriedly turned around and deflected the arrow with his sword.
 
-From the direction the arrow came from, a fairy was glaring at him.
+In the direction the arrow had come from, a fairy glared at him.
 
-“…Right, there was you.”
+“...Right, there was you.”
 
 One of the Seven Pillars.
 
@@ -56,17 +56,17 @@ Slurp.
 
 Regal Vagos habitually licked his lips but felt an inexplicable sense of déjà vu.
 
-‘Somehow, every time I see her, she looks like someone I saw a long time ago.’
+‘Every time I see her, she reminds me of someone from long ago.’
 
-Of course, it wasn’t an important question for him.
+Of course, it wasn’t a question he cared about right now.
 
 ---
 
-Reality is different from the tragedies in stories.
+Reality doesn’t follow the rules of tragic stories.
 
-As proof, that day there was no rain or thunder. It wasn’t the day a revolution began, nor was it such a dark night that no stars could be seen.
+There had been no rain or thunder that day. No revolution had begun, and the sky hadn’t been so dark that the stars disappeared.
 
-That day was an ordinary afternoon, just like any other.
+It had been an ordinary afternoon, no different from any other.
 
 [Erwin, if you keep causing trouble like that, a scary barbarian uncle will come and scold you, you know?]
 
@@ -78,25 +78,25 @@ Her father was affectionate.
 
 [Waaaaaah!]
 
-Her young sibling cried at all times.
+Her youngest sibling cried constantly.
 
-[Daria, where did she go again…]
+[Daria, where did she go again...]
 
-Her mischievous older sister had only come home at dawn yesterday and was still asleep.
+Her mischievous older sister had come home only at dawn and was still asleep.
 
-All in all, it was a normal day.
+In every way, it had been a normal day.
 
 Knock knock.
 
-Until there was a knock at the front door.
+Then came a knock at the front door.
 
 [Who’s there?]
 
 Instead of her mother, who was doing housework, her father went to the front door, and that’s when the tragedy began.
 
-[A dr-dragon tribe…? Why is a dragon tribe here… Guh—!]
+[A d-dragon tribesman...? Why is someone from the Dragon Tribe here... Guh—!]
 
-[I need fame, and killing fairies seems the easiest]
+[I need fame. Killing fairies seems like the easiest way.]
 
 [Kyaaaaaaa!]
 
@@ -106,17 +106,17 @@ While her father blocked the intruder, her mother gathered the three sisters and
 
 But before they could get far, they were caught by him.
 
-And then…
+And then...
 
-[Please… just take my children and run.]
+[Please... just take my children and run.]
 
-[…Understood, sister.]
+[...Understood, sister.]
 
-[Thank you… my dear brother]
+[Thank you... my dear brother.]
 
-The three sisters barely survived thanks to their uncle, who happened to be passing nearby.
+The three sisters barely survived thanks to their uncle, who happened to be nearby.
 
-Their father had sacrificed himself, and then their mother, but they were still lucky because over a thousand people died that day.
+Their father had sacrificed himself, then their mother. Even so, they were among the lucky ones—more than a thousand fairies died that day.
 
 She had her older sister.
 
@@ -124,13 +124,13 @@ She had her younger sibling.
 
 So she could endure.
 
-But…
+But...
 
-[That young lady seems to have been born with more fate than you]
+[That young lady seems to have been born with an even heavier fate than you.]
 
 Her older sister died.
 
-[s big sister… gone now?]
+[Big sister... is she gone now?]
 
 Because of her.
 
@@ -138,7 +138,7 @@ Her relationship with her younger sibling grew distant.
 
 Even so, she could endure.
 
-[Listen to me. I am your guardian now]
+[Listen to me. I am your guardian now.]
 
 Someone who protected her by giving everything whenever there was danger.
 
@@ -148,13 +148,13 @@ But reality was too cruel.
 
 [So, Bjorn is dead.]
 
-The moment she realised that after her sister, he too had left her.
+The moment she realized that, after her sister, he too had left her—
 
-Erwin could not control her rising emotions.
+Erwin could no longer control the emotions surging inside her.
 
-Why must I have everything taken away from me.
+Why does everything have to be taken away from me?
 
-Why is the little happiness I have, so easily shattered.
+Why is the little happiness I have so easily shattered?
 
 The reason was all too simple.
 
@@ -162,51 +162,49 @@ Because she was weak.
 
 Because she was someone who had to be protected.
 
-They protected me, but I couldn’t protect them.
+They protected me, but I could never protect them.
 
 She wanted to become stronger.
 
-Now that there was nothing left to protect.
+Now that she believed there was nothing left to protect,
 
-She wanted to let those who had taken from her know.
+she wanted those who had taken from her to understand
 
-The pain of being robbed.
+the pain of having something precious stolen away.
 
-[Di Cloe, the Dark Spirit King]
+[Di Cloe, the Dark Spirit King.]
 
 Such dark emotions gave her strength.
 
 With that power, she exacted revenge.
 
-She was called a blood-thirsty bitch.
+She was called a bloodthirsty bitch.
 
-But her essence remained the same.
-
-Shaking…
+Yet at her core, Erwin remained the same.
 
 Her fingertips trembled.
 
-“Regal Vargos…”
+“Regal Vagos...”
 
 If she stayed like this, she would lose again.
 
 She knew this, but her body stiffened.
 
-Despite being incomparably stronger than before, her fundamentally weak nature remained unchanged.
+Despite being incomparably stronger than before, the fear rooted deep inside her remained.
 
-But…
+But...
 
 Thud—
 
 She couldn’t let it be.
 
-Better to die than regretting…
+Better to die than live with regret...
 
 [Mister—!!!!]
 
-It would be better to die.
+She would rather die.
 
-Ssshhh,
+Ssshhh—
 
 She pulled the bowstring.
 
@@ -216,21 +214,21 @@ She released the string.
 
 Whoosh—!
 
-An arrow flew fiercely, even though it didn’t contain any special ability.
+The arrow flew with fierce force despite carrying no special ability.
 
 Clang!
 
-The man who had retrieved his sword deflected the arrow.
+Vagos, who had recovered his sword, knocked the arrow aside.
 
-And instantly…
+And instantly...
 
-“…Right, there was you.”
+“...Right, there was you.”
 
-With fear etched in her body, she moved forward.
+Fear was still etched into her body, but she moved forward.
 
 Tadat.
 
-Proving her growth, the distance closed in an instant.
+Proof of her growth: she closed the distance in an instant.
 
 Whisk-!
 
@@ -240,23 +238,23 @@ She swung a dagger instead of a bow.
 
 Well, she couldn’t use the power of the spirits anymore.
 
-Above all, because Bjorn Jandel was here.
+More importantly, Bjorn Jandel was here.
 
-She couldn’t use the archer’s fighting style of fighting while keeping distance.
+She couldn’t rely on an archer’s usual style of keeping her distance.
 
-But…
+But...
 
 Clang—!
 
-As soon as her dagger clashed with his sword, she spun her body and delivered a continuous attack.
+The instant her dagger met his sword, she spun and chained into another strike.
 
 Tap!
 
-The Dragon Slayer hurriedly pushed off the ground and retreated, as if the attack was sharper than he expected.
+The Dragon Slayer kicked off the ground and retreated, clearly finding the attack sharper than expected.
 
-Good, for now, she had pushed him back and secured the spot next to the uncle.
+Good. For now, she had forced him back and secured her place beside Bjorn.
 
-“What are you…”
+“What are you...”
 
 Erwin lowered her upper body and thrust her short dagger forward.
 
@@ -264,15 +262,15 @@ It was the basic stance she had learned from her sister.
 
 Back then, she had whined about why she had to learn such things.
 
-[Didn’t I tell you? Even without a bow, even in situations where you can’t use spirits, you have to be able to protect yourself]
+[Didn’t I tell you? Even without a bow, even when you can’t use spirits, you have to be able to protect yourself.]
 
 She felt it again.
 
-She really was ust being protected.
+She really had done nothing but receive protection.
 
 There was no need for long words.
 
-“… …Fucking bastards.”
+“...Fucking bastard.”
 
 He spat out a short curse and charged.
 
@@ -280,89 +278,87 @@ Erwin watched him approach, observing his movements without a single flinch unti
 
 Surprisingly, her mind was calm.
 
-“Hoo…”
+“Hoo...”
 
 She couldn’t use the special abilities of her essence.
 
-To help her Mister fight, she used Patrolman Ertes’ embodied ability [Harmony] to convert her soul energy into natural energy.
+To help her Mister fight, she had used Patrolman Ertes’s embodied ability [Harmony] to convert her soul energy into natural energy.
 
 Thanks to that, she had a little natural energy left, but it was too little to use properly.
 
-All she had left was really just this.
+This was all she truly had left.
 
-‘Just One dagger.’
+‘Just one dagger.’
 
 The dagger techniques she had learned from her sister.
 
 Compared to a melee-oriented explorer like Amelia, it was hopelessly inadequate.
 
-No, surely it was.
+No, it definitely was.
 
-Not to mention an explorer who’s been wielding a sword his entire life.
+Especially against an explorer who had wielded a sword his entire life.
 
-But…
+But...
 
-“So what.”
+“So what?”
 
-Until the very end.
+Even so, she watched the enemy’s movements until the very end and tightened her grip on the dagger.
 
-Observing the enemy’s movements, she put strength into her dagger.
+For one purpose.
 
-For the sole purpose.
-
-“Mister…”
+“Mister...”
 
 No, actually, he’s not even old.
 
-They’re the same age, and his face is no longer rough-looking.
+They were the same age, and his face no longer looked so rough.
 
-People would find it strange if they heard.
+Anyone who heard her call him that would probably find it strange.
 
-So…
+So...
 
 “I will protect Bjorn Jandel.”
 
-She decided to stop relying on anyone.
+She decided that this time, she would be the one protecting someone.
 
 ---
 
-It’s easier to give up.
+Giving up is easier.
 
-A popular phrase often found on the internet.
+A phrase commonly found on the internet.
 
-Even if the self-deprecating tone is a bit uncomfortable, the content of the words isn’t wrong.
+The self-deprecating tone might be unpleasant, but the idea itself wasn’t wrong.
 
-「Regal Vargos has cast [Fear Imprint].」
+[Regal Vagos has cast [Fear Imprint].]
 
-It’s easier to give up.
+Giving up is easier.
 
-Just as not having expectations prevents hurt.
+Just as having no expectations keeps you from being hurt.
 
-By quickly drawing a line on things you cannot do, you can protect yourself.
+By drawing a line around what you cannot do, you can protect yourself.
 
 Yes, just like now.
 
-「Strong mental fortitude.」
+[Strong mental fortitude.]
 
-「Erwin Fornacci Di Tersia resists [Fear Imprint].」
+[Erwin Fornacci di Tercia resists [Fear Imprint].]
 
-The moment you lay down the burden, an unparalleled comfort arrives.
+The moment you put down the burden, an incomparable comfort arrives.
 
-The annoying noises distance themselves, and instead of tormenting pain, a warm darkness envelops your body.
+The irritating noises recede, and instead of tormenting pain, warm darkness wraps around you.
 
 It feels like returning to childhood.
 
-Some people find this place more comfortable than in the midst of dazzling light.
+Some people find this darkness more comfortable than standing in dazzling light.
 
-「Erwin Fornacci Di Tersia has taken damage.」
+[Erwin Fornacci di Tercia has taken damage.]
 
 Of course, I wasn’t always like this.
 
-A normal kid who admired heroes.
+I was just a normal kid who admired heroes.
 
-「Regal Vargos roars loudly.」
+[Regal Vagos lets out a roar.]
 
-「Erwin Fornacci Di Tersia roars back even louder.」
+[Erwin Fornacci di Tercia roars back even louder.]
 
 But at some point, I started to dislike hero stories.
 
@@ -370,37 +366,37 @@ Isn’t it foolish?
 
 Why should I sacrifice myself for others?
 
-With that question, my life’s approach changed.
+That question changed the way I lived.
 
-It became easier, stronger.
+Life became easier. I became stronger.
 
-But…
+But...
 
 [Amelia Rainweilz has cast [Asura’s Kick].]
 
 [Critical Hit.]
 
-[The Eighth rose has been defeated]
+[The Eighth Rose has been defeated.]
 
 But when did that start to change?
 
-「[Bleeding] continues.」
+[The [Bleeding] status continues.]
 
-[Warning: Character’s health is below 5%. Immediate treatment is necessary, or the character will die.」
+[Warning: The character’s health is below 5%. Immediate treatment is required, or the character will die.]
 
 A new question began.
 
-「Titana Akuraba cries to save her comrades」
+[Titana Akuraba cries out to save her comrades.]
 
-[Periton Eriavosti uses [Salvation].]
+[Periton Eriavosti has cast [Salvation].]
 
-[Bogus Leichmont uses [Opposing Darkness].]
+[Bogus Leichmont has cast [Opposing Darkness].]
 
 [Due to the interference of an evil god, the divine spell loses its effect.]
 
-Perhaps it was a mental issue that occurred when I entered the body of a barbarian.
+Maybe this change had begun when I entered the body of a barbarian.
 
-[Melend Kaislan moves to save his comrade.]
+[Melend Kaislan moves to save a comrade.]
 
 [Anne Parbela leaves the front line and blocks the knight’s path.]
 
@@ -408,7 +404,7 @@ But one thing is certain.
 
 [Powerful Lucky Strike.]
 
-[Defeated Anne Parbela.]
+[Anne Parbela has been defeated.]
 
 [The priest of the evil god, having lost his lover, is greatly enraged.]
 
@@ -416,11 +412,11 @@ I don’t want to give up anymore.
 
 Not just my own life, but everything else too.
 
-[Bogus Leichmont has used [Flesh Sacrifice].]
+[Bogus Leichmont has cast [Flesh Sacrifice].]
 
-[Sacrificing his right arm, the power of the next spell increases 5x.]
+[By sacrificing his right arm, the power of his next spell increases fivefold.]
 
-[Bogus Leichmont uses [Corpse Flower].]
+[Bogus Leichmont has cast [Corpse Flower].]
 
 I have desires.
 
@@ -432,125 +428,125 @@ An intense desire that I can no longer ignore out of fear.
 
 [Powerful Misfortune.]
 
-[Retribution – Equivalent Exchange activated.]
+[The [Retribution – Equivalent Exchange] effect has been activated.]
 
-[50% of the damage dealt by Bogus Leichmont is returned.]
+[50% of the damage dealt by Bogus Leichmont is reflected back at him.]
 
-But…
+But...
 
 [The priest of the evil god, sensing death, screams and spews words of hatred.]
 
 What was I doing just now?
 
-[Bogus Leichmont uses [Flesh Sacrifice].]
+[Bogus Leichmont has cast [Flesh Sacrifice].]
 
-[Sacrificing his left arm, the power of the next spell increases 5x.]
+[By sacrificing his left arm, the power of his next spell increases fivefold.]
 
-[Bogus Leichmont uses [Flesh Sacrifice].]
+[Bogus Leichmont has cast [Flesh Sacrifice].]
 
-[Sacrificing both eyes, the power of the next spell increases 5x.]
+[By sacrificing both eyes, the power of his next spell increases fivefold.]
 
-[Bogus Leichmont uses [Flesh Sacrifice]…]
+[Bogus Leichmont has cast [Flesh Sacrifice]...]
 
-[….]
+[....]
 
-The sounds were distant, and the pain dulls.
+The sounds grew distant, and the pain dulled.
 
-The surroundings are dark and lonely.
+The world around me was dark and lonely.
 
-I feel like I’ve forgotten something.
+I felt as if I had forgotten something.
 
 [Bogus Leichmont summons [The Executioner].]
 
-[Ravienias Torous takes great damage and becomes incapacitated.]
+[Ravien takes severe damage and becomes incapacitated.]
 
-「Sven Parav falls into the status effect [Fear].」
+[Sven Parab is afflicted with [Fear].]
 
-「Strong mental fortitude.」
+[Strong mental fortitude.]
 
-「Sven Parav resists [Fear].」
+[Sven Parab resists [Fear].]
 
-「Sven Parav leaves the front lines to defend against the Executioner’s attack.」
+[Sven Parab leaves the front line to defend against the Executioner’s attack.]
 
-「Sven Parav sweats profusely as he yells for help.」
+[Sven Parab sweats profusely as he shouts for help.]
 
-I try to recall.
+I tried to remember.
 
-「Amelia Reinwales, after deep thought, makes a choice.」
+[After a moment of thought, Amelia Rainweilz makes a choice.]
 
-「Instead of the Executioner, she attacks Regal Vargos.」
+[Instead of attacking the Executioner, she attacks Regal Vagos.]
 
-「Sven Parav is astonished.」
+[Sven Parab is stunned by her choice.]
 
-What have I forgotten?
+What had I forgotten?
 
-「The Executioner begins to rampage.」
+[The Executioner begins to rampage.]
 
-「Sven Parav becomes incapacitated.」
+[Sven Parab becomes incapacitated.]
 
-「Tsion Iriven has died.」
+[Tsion Iriven has died.]
 
-[Lilith Marone clenches her fist and makes a decision.]
+[Lyris Marone clenches her fist and makes a decision.]
 
-[Riard Ashid grabs Lilith Marone’s wrist and shakes his head.]
+[Riard Ashid grabs Lyris Marone’s wrist and shakes his head.]
 
-I swore to never repeat it again.
+I had sworn never to repeat it.
 
-[Riard Ashid has cast Level 7 mental magic ‘Accelerate Thoughts’.]
+[Riard Ashid has cast the Level 7 mental spell [Accelerate Thoughts].]
 
-[Riard Ashid has cast Level 6 acceleration magic ‘Magic Amplification’.]
+[Riard Ashid has cast the Level 6 acceleration spell [Magic Amplification].]
 
-[Riard Ashid uses Level 8 magic ‘Heart Acceleration’…]
+[Riard Ashid has cast the Level 8 spell [Heart Acceleration]...]
 
-[….]
+[....]
 
-But when was that?
+But when had that been?
 
 [Riard Ashid fires magic indiscriminately.]
 
 [The Executioner, taking great damage, screams.]
 
-Ah, my head hurts.
+Ah, my head hurt.
 
-[The Eleventh rose has used [Absolute Severance].]
+[The Eleventh Rose has cast [Absolute Severance].]
 
-[Puta Rikerburn takes severe damage.]
+[Puta Rickerburn takes severe damage.]
 
 [Unbelievable Counterattack.]
 
-[Eleventh Rose is killed]
+[The Eleventh Rose has been killed.]
 
-I want to rest, but somehow I keep thinking.
+I wanted to rest, but my thoughts wouldn’t stop.
 
-「The Ninth Rose has used[Absolute Severance].」
+[The Ninth Rose has cast [Absolute Severance].]
 
-「Puta Rickeburn becomes incapacitated.」
+[Puta Rickerburn becomes incapacitated.]
 
-「An unbelievable counterattack.」
+[Unbelievable Counterattack.]
 
-「The Ninth Rose has been killed.」
+[The Ninth Rose has been killed.]
 
-「Puta Rickeburn has died.」
+[Puta Rickerburn has died.]
 
-Just as I was recalling what I had forgotten.
+Just as the memory was beginning to surface—
 
-「Titana Akuraba’s soul energy is insufficient, canceling the skill.」
+[Titana Akuraba lacks sufficient soul energy. The skill is canceled.]
 
-「Manua Rephless has cast [Iron Fist].」
+[Manua Rephless has cast [Iron Fist].]
 
-「Amelia Rainwales is pushed back.」
+[Amelia Rainweilz is pushed back.]
 
-「The Executioner casts [Earthquake].」
+[The Executioner has cast [Earthquake].]
 
 Kooong-!
 
 [The character takes damage from falling rocks.]
 
-The surroundings around me seem to shake violently, and I suddenly struggle to breathe.
+The surroundings shook violently, and suddenly I could barely breathe.
 
 [Warning: Character’s health has reached 0%.]
 
-[Starting countdown.]
+[Countdown begins.]
 
 [Consuming 3 mental power per second. (493/496)]
 
@@ -560,15 +556,15 @@ The surroundings around me seem to shake violently, and I suddenly struggle to b
 
 What is this?
 
-[Periton Eriavosti decides to sacrifice himself.]
+[Periton Eriavosti decides to sacrifice herself.]
 
 [Benjamin Orman decides to sacrifice himself.]
 
-[The Great Observer smiles at their noble will.]
+[The Great Observer smiles upon their noble resolve.]
 
 I don’t know.
 
-[Annihilation of Evil.]
+[The [Annihilation of Evil] spell has been cast.]
 
 [All evil-aligned characters and monsters within range take great damage.]
 
@@ -582,27 +578,27 @@ Time passed like that.
 
 [Riard Ashid fires magic indiscriminately.]
 
-[The Thirteenth rose is defeated…]
+[The Thirteenth Rose has been defeated...]
 
-My mind dulls.
+My mind grew dull.
 
 [Riard Ashid’s mana has been exhausted.]
 
-[He smiles, saying he leaves the rest to you.]
+[He smiles and says he will leave the rest to you.]
 
 In the silence that followed.
 
 [Riard Ashid has died.]
 
-Familiar faces pass by like afterimages before my eyes.
+Familiar faces passed before my eyes like afterimages.
 
-I tightly close my eyes.
+I squeezed my eyes shut.
 
 [Gerold Aldidi moves toward Sven Parab.]
 
 [Sven Parab shakes his head, refusing treatment.]
 
-I know I need to open my eyes. But like a sulking child, I grumbled at the thought of that.
+I knew I needed to open my eyes. But like a sulking child, I resisted the thought.
 
 [Gerold Aldidi starts running.]
 
@@ -612,39 +608,37 @@ I know I need to open my eyes. But like a sulking child, I grumbled at the thoug
 
 [Amelia Rainweilz deals great damage to Manua Rephless.]
 
-I know I need to open my eyes.
+I knew I needed to open my eyes.
 
-But…
-
-[Gerold Aldidi moves.]
-
-I’ve done enough.
+But...
 
 [Gerold Aldidi moves.]
 
-I’ve tried my best.
+I had done enough.
 
 [Gerold Aldidi moves.]
 
-But…
+I had tried my best.
+
+[Gerold Aldidi moves.]
+
+But...
 
 [Gerold Aldidi stops.]
 
-Why…
+Why...
 
 [Gerold Aldidi uses [Blood Transfusion].]
 
-[Character recovers.]
+[The character recovers.]
 
-[Character recovers.]
-
-[Character recovers…]
+[The character recovers...]
 
 A warm feeling envelops my cooling body.
 
-[Character’s health has recovered to over 1%.]
+[The character’s health has recovered above 1%.]
 
-[Ending countdown.]
+[Countdown ended.]
 
 Feeling that warmth, I realized instinctively.
 
@@ -652,35 +646,35 @@ Thump-!
 
 Yeah, it’s too late now.
 
-「Character awakens from the [Unconscious] state.」
+[The character awakens from the [Unconscious] state.]
 
 It’s too late to quit now.
 
 ---
 
-My eyes open.
+My eyes opened.
 
-The first thing I see is Old Didi.
+The first thing I saw was Old Didi.
 
-“You’ve w-woken up… Thank goodness… Thank goodness…”
+“You’ve w-woken up... Thank goodness... Thank goodness...”
 
 The old man, panting heavily, was looking down at me.
 
-Exuding a thick scent of blood.
+The thick scent of blood clung to him.
 
 Ssshhh.
 
-My gaze lowered.
+My gaze dropped.
 
-“Old man…”
+“Old man...”
 
-“Ah, this… You mean… I got a bit hurt coming here.”
+“Ah, this...? I got a little hurt getting over here.”
 
 Old Didi covered his abdomen with his palm, as if to hide it.
 
-A meaningless act.
+It was a meaningless gesture.
 
-Because the wound wouldn’t be hidden by that.
+There was no hiding a wound like that.
 
 “We need to treat you right away—”
 
@@ -688,111 +682,111 @@ As I muttered blankly, Old Didi interrupted.
 
 “Impossible.”
 
-“…?”
+“...?”
 
-“Rescuing you from being buried under the rocks was my last act. There’s no potion left, is there?”
+“Pulling you out from under those rocks was the last thing I could do. There aren’t any potions left, are there?”
 
-I can’t comprehend.
+I couldn’t comprehend it.
 
-“Why… why me…”
+“Why... why me...”
 
-“Sir Parab… told me. That he could endure, so save you first.”
+“Sir Parab... told me he could endure. He said to save you first.”
 
-Old Didi laughed.
+Old Didi gave a weak laugh.
 
-“Everyone knows. That if you die, it’s over.”
+“Everyone knows that if you die, it’s over.”
 
-“….”
+“....”
 
-“Listen, Jandel…”
+“Listen, Jandel...”
 
-Then Old Didi coughed up blood and bent over.
+Old Didi coughed up blood and doubled over.
 
-But perhaps there was something he wanted to say even so.
+Even then, there was clearly something he wanted to say.
 
-“Only you can make our deaths not be in vain. Only you. I couldn’t do it. So…”
+“Only you can keep our deaths from being in vain. Only you. I couldn’t do it. So...”
 
 I couldn’t accept it.
 
-There is no such thing as meaningless death.
+There was no such thing as a meaningless death.
 
-Even if you roll in dog shit, the struggle to survive is what gives meaning.
+Even if you had to roll through filth, the struggle to survive was what gave life meaning.
 
-And yet.
+And yet—
 
 “You must survive.”
 
-Old Man Didi said to me.
+Old Didi said to me.
 
-“You are… the giant.”
+“You are... the Giant.”
 
-The giant.
+The Giant.
 
-The nickname I earned after fighting a bloody battle in the Crystal Cave.
+The nickname I had earned after that bloody battle in the Crystal Cave.
 
-“You’re the only one. The only one who can carry the burdens of those who died here today and move forward…”
+“You’re the only one. The only one who can carry the burdens of those who died here today and move forward...”
 
-“Old man, I’m not a giant or anything…”
+“Old man, I’m not a giant or anything...”
 
 “Don’t speak weakly. You can do it.”
 
-“….”
+“....”
 
-“I… couldn’t bring myself to die because I wanted to live and avenge my granddaughter! But I am standing here now. To save you… Because I believed you could do it…”
+“I... couldn’t bring myself to die. I wanted to live and avenge my granddaughter! And yet here I am now, standing here to save you... because I believed you could do it...”
 
 I felt a lump in my throat.
 
-“So…”
+“So...”
 
-His faith feels like a ten-thousand-pound rock pressing down on my shoulders.
+His faith felt like a ten-thousand-pound rock pressing down on my shoulders.
 
-“No matter what anyone says… you are the giant.”
+“No matter what anyone says... you are the Giant.”
 
 Old Didi’s flame dimmed.
 
 Clench.
 
-I clench my fist, struggling to hold back the weak words that almost spill out.
+I clenched my fist, struggling to hold back the weak words threatening to spill out.
 
-Like saying I’m not the giant or anything.
+Like saying I wasn’t the Giant or anything.
 
-That I’m just an ordinary person who wants to live.
+That I was just an ordinary person who wanted to live.
 
-That why are you putting this on me, I wanted to retort.
+I wanted to ask why he was putting this burden on me.
 
-But I hold it back.
+But I held it back.
 
-“….Don’t worry.”
+“...Don’t worry.”
 
-Because that’s not what I should be saying now.
+Because that wasn’t what I should say now.
 
-Without avoiding his gaze, I speak.
+I met his gaze and spoke.
 
-“I will achieve everything you… no, you all wished for, in your stead. You can trust me. I swear on this warrior’s heart.”
+“I will achieve everything you... no, you all wished for, in your stead. You can trust me. I swear on this warrior’s heart.”
 
 I said it in a firm voice, but I wasn’t confident.
 
 Could I really keep that promise?
 
-Even as I said it, doubt filled me inside.
+Even as I said it, doubt churned inside me.
 
-Whether he knew it or not.
+Whether he knew that or not—
 
-“Yes… that… puts my mind… at ease…”
+“Yes... that... puts my mind... at ease...”
 
-As if that was enough, Old Didi smiled and closed his eyes.
+As though that was enough, Old Didi smiled and closed his eyes.
 
-“Indeed… you will… become… the giant…”
+“Indeed... you will... become... the Giant...”
 
-“What are you saying? You just said I was already the giant…”
+“What are you saying? You just said I was already the Giant...”
 
-“….”
+“....”
 
 No answer came back.
 
 No matter how long I waited, there would be none.
 
-Therefore…
+Therefore...
 
 Ssshhh.
 
@@ -800,53 +794,51 @@ I stood up.
 
 What had happened while I was unconscious?
 
-Many lay fallen, regardless of friend or enemies.
+Bodies lay everywhere, friend and foe alike.
 
-Some corpses were crushed under ice shards and rocks, and in one corner of the clearing lay a huge monster.
+Some corpses had been crushed beneath ice and rock. In one corner of the clearing lay the body of a huge monster.
 
 The scent of death filled the area around it.
 
-Only six people, including me, were standing properly.
+Only six people, myself included, were still standing.
 
 Clack—!
 
-Amelia was fighting against the bald boxer and him.
+Amelia was fighting the bald boxer and another enemy.
 
-“Lord Vargos! The barbarian has awakened!”
+“Lord Vagos! The barbarian is awake!”
 
-A support type from the Noark’s rear line.
+A support-type in Noark’s rear line.
 
-And…
+And...
 
-“Don’t look, kill that bitch first!”
+“Don’t look! Kill that bitch first!”
 
-The dragon slayer bastard wielding his sword.
+The Dragon Slayer bastard was still wielding his sword, and Erwin was confronting him with nothing but a dagger despite her injuries.
 
-Erwin, who is confronting him with just a dagger despite her injured body.
+“Ah, mister...!”
 
-“Ah, mister…!”
-
-Only after hearing the support type user’s shout did Erwin realize that I had woken up, and she turned her head.
+Only after hearing the support-type user’s shout did Erwin realize I was awake, and she turned toward me.
 
 It was by no means a good action.
 
-Taking your eyes off the battle is tantamount to suicide.
+Taking your eyes off a battle like this was practically suicide.
 
-[Kael Elvard Geneger has cast [Edge of the World’s End].]
+[Kael Elvad Genegger has cast [Edge of the World’s End].]
 
-A black spear shoot out from the support type user’s hand.
+A black spear shot from the support-type user’s hand.
 
-The same Level 2 skill that instantly killed Might Million when he was casting Mass Teleport in Deadwood.
+The same Level 2 skill that had instantly killed Might Million during the Mass Teleport battle in Deadwood.
 
-“……!”
+“......!”
 
-Erwin’s pupils dilate as she belatedly realises the surprise attack.
+Erwin’s pupils widened as she noticed the surprise attack too late.
 
-At the same time, the mind of a warrior who has experienced countless battles clearly recognized:
+At the same time, the instincts I had built through countless battles told me one thing with absolute certainty:
 
-Erwin cannot avoid that.
+Erwin couldn’t dodge it.
 
-It’s not anything fancy like future foresight; it’s the kind of obvious thing you just know, like how a person’s body will be thrown when hit by a truck.
+It wasn’t anything grand like foresight. It was the kind of obvious conclusion you simply knew, like knowing what would happen to a person struck by a truck.
 
 Whoooosh—!
 
@@ -854,33 +846,33 @@ Time flowed slowly.
 
 Swoosh.
 
-My ankles bend as I take a dashing stance.
+I bent my knees, ready to dash.
 
-But…
+But...
 
-“……”
+“......”
 
 My body suddenly froze.
 
 Why?
 
-I’m all set to rush out at any moment.
+I was ready to launch myself forward at any moment.
 
 Thump—
 
-It feels like something invisible is persistently grabbing my ankles.
+It felt as though something invisible had grabbed my ankles.
 
-My heart sinks coldly.
+My heart went cold.
 
-Even though I know I shouldn’t think about it, my mind starts to race.
+Even though I knew I shouldn’t, my mind began racing.
 
-‘If I block that…’
+‘If I block that...’
 
-Can I withstand it?
+Could I withstand it?
 
-There must be recoil as well.
+There would be Recoil too.
 
-In my current physical condition, won’t I die instantly without being able to withstand even one hit?
+In my current condition, wouldn’t one direct hit kill me instantly?
 
 [If the person you have to kill to survive is someone who did nothing wrong.]
 
@@ -890,96 +882,96 @@ It was the voice of Hans A, whom I had recently reunited with.
 
 Perhaps Hans A’s words were correct.
 
-I was already looking for reasons why I had to live.
+I was already searching for reasons to justify choosing my own life.
 
 [Then how would you feel?]
 
-Well, if I die, what about Old Didi?
+If I died, what about Old Didi?
 
-What about Jun? And the other team members?
+What about Jun? What about the others?
 
-It was because everyone sacrificed that I could come this far.
+I had only come this far because everyone else had sacrificed something.
 
-So… I shouldn’t be any different.
+So... I shouldn’t be any different from them.
 
-I have to judge calmly and move toward the path that’s best for everyone.
+I had to judge calmly and choose the path that was best for everyone.
 
-But…
+But...
 
 Screech.
 
-So I’m just supposed to watch Erwin die?
+Was I really supposed to stand there and watch Erwin die?
 
-Then what about Daria? The woman who died asking me to become her guardian…?
+Then what about Daria, who had died asking me to protect her...?
 
 Grit.
 
-My head is a mess.
+My head was a mess.
 
-How did I end up like this?
+How had I ended up like this?
 
-Because good and evil aren’t clear, the choice is even harder. Like a tangled thread that’s become hopelessly knotted from fiddling aimlessly.
+Because there was no clean line between right and wrong, the choice only became harder—like a thread hopelessly knotted from being tugged in too many directions.
 
 Squeeze.
 
-My throat tightens.
+My throat tightened.
 
-But……
+But...
 
-‘So what now.’
+‘So what?’
 
-Fuck, I don’t know now.
+Fuck it. I didn’t know anymore.
 
-I’m just going to do what I want.
+I was just going to do what I wanted.
 
-So…….
+So...
 
-[Indeed… you will become… a giant…]
+[Indeed... you will become... the Giant...]
 
-I’m sorry to Old Didi, who believed in me until the end.
+Sorry, Old Didi. You believed in me until the very end.
 
-But right now, I’m a barbarian.
+But right now, I was a barbarian.
 
-Moreover, if I am the giant that the old man spoke of.
+And if I truly was the Giant the old man had spoken of—
 
-‘Then I wouldn’t hesitate to risk my body just to keep myself safe.’
+‘then I couldn’t hesitate now just to keep myself safe.’
 
-I put strength into my hesitating feet.
+I forced strength into my hesitant legs.
 
-As if the momentary hesitation was a lie, my body moved forward in an instant.
+As though that moment of hesitation had never happened, my body shot forward.
 
 Swooooosh.
 
-A gust of wind blows.
+A gust of wind blew.
 
-“……!”
+“......!”
 
-“……!”
+“......!”
 
-My gaze meets Erwin’s.
+My gaze met Erwin’s.
 
-To the left, I see the dragon slayer bastard with a surprised expression.
+To the left, the Dragon Slayer bastard stared in surprise.
 
 Clack—!
 
-Amelia is busy fighting.
+Amelia was still locked in combat.
 
-In that fleeting moment.
+In that fleeting instant—
 
 Whoooosh—!
 
-A sharp black spear flies toward me.
+a sharp black spear flew straight toward me.
 
-But as I watch this, my mind is surprisingly calm.
+Yet as I watched it approach, my mind was strangely calm.
 
-It wasn’t because I had given up.
+Not because I had given up.
 
-If I just stay alert and avoid the vital points, there’s a good chance I can withstand one hit with this body—
+If I stayed alert and kept it away from a vital point, there was a good chance this body could endure one hit—
 
 [Erwin Fornacci di Tercia has cast [Spiritization].]
 
-…What?
+...What?
 
-[Erwin Fornacci di Tercia proposes a ‘Contract’ to the character.]
+[Erwin Fornacci di Tercia proposes a [Contract] to the character.]
 
-Through the touch of Elwen’s skin against mine, a familiar sensation begins to transfer.
+Through the touch of Erwin’s skin against mine, a familiar sensation began to flow into me.

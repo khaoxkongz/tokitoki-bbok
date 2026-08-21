@@ -4,13 +4,13 @@ Surprisingly, it didn’t take long for glasses to face reality.
 
 After taking a hesitant step back, he faced my gaze directly.
 
-“Baron Jandel… you are making a very big mistake right now.”
+“Baron Jandel... you are making a very big mistake right now.”
 
 Despite his sincere concern for me, his words stirred memories from my past.
 
 However, the moment I heard those words, a thought crossed my mind:
 
-Hmm… how many people have said that to me so far?
+Hmm... how many people have said that to me so far?
 
 “Do you know how many troops are stationed in this area? You’ll never make it out alive. Maybe you alone could, but your allies certainly won’t.”
 
@@ -32,25 +32,25 @@ If he really believed my allies were my weakness, shouldn’t he at least be car
 
 I asked him a question, so why isn’t he answering?
 
-“………………Kuh,”
+“..................Kuh,”
 
 Ah, right. I was choking him.
 
 I loosened my grip just enough for him to speak. He let out a ragged wheeze and spoke hurriedly.
 
-“W-why are you doing this………………?”
+“W-why are you doing this..................?”
 
 “Hmm?”
 
 “We had a deal! We agreed to trade so both of us could get what we wanted!”
 
-Ah, that…
+Ah, that...
 
 Well, that was true.
 
 “But the situation has changed since then.”
 
-“W-what…?”
+“W-what...?”
 
 “Ah, I’m sorry I couldn’t keep the promise! I sincerely apologize.”
 
@@ -58,7 +58,7 @@ Since I was technically the one who broke the agreement, I offered a sincere apo
 
 But maybe he didn’t believe in my sincerity.
 
-“…An apology? Do you think everything ends just because you apologize?!”
+“...An apology? Do you think everything ends just because you apologize?!”
 
 His response made me tilt my big barbarian head. History
 
@@ -68,7 +68,7 @@ His response made me tilt my big barbarian head. History
 
 “Wh-what kind of twisted logic is that?!” Glasses shouted in frustration.
 
-“twisted logic, huh…”
+“twisted logic, huh...”
 
 Like the broad-minded barbarian I am, I let it slide coolly. Still, I gave him one piece of advice.
 
@@ -78,7 +78,7 @@ Like the broad-minded barbarian I am, I let it slide coolly. Still, I gave him o
 
 Just as it seemed the matter had been settled, glasses changed his line of thinking and presented a new argument.
 
-“…If everything ends with an apology, then why do laws exist? Why are there prisons?”
+“...If everything ends with an apology, then why do laws exist? Why are there prisons?”
 
 Oh, that was a sharp point.
 
@@ -92,7 +92,7 @@ So—
 
 “Withdraw all the troops stationed nearby.”
 
-“…Are you out of your mind? You broke the agreement first, and now you expect us to obey such a demand?”
+“...Are you out of your mind? You broke the agreement first, and now you expect us to obey such a demand?”
 
 “If you refuse, I’ll fire Thunder at your District 4 office building.”
 
@@ -108,7 +108,7 @@ But judging from that reaction, it seemed Plan B wouldn’t be necessary.
 
 “Well, the choice is yours.”
 
-“W-wait… let me consult—”
+“W-wait... let me consult—”
 
 “Denied.”
 
@@ -136,15 +136,15 @@ Regardless of what he truly wanted, if the option was laid before him, he’d be
 
 “I don’t know if you’ll believe me in this situation, but I have no intention of firing this at you all.”
 
-“…Not firing at us? Baron, don’t tell me you’re………………”
+“...Not firing at us? Baron, don’t tell me you’re..................”
 
 Despite my urging, glasses struggled to decide.
 
 But after dragging things out for a while, he finally gave his answer.
 
-“…I refuse.”
+“...I refuse.”
 
-…What?
+...What?
 
 “Don’t take me for a fool, Baron Jandel.”
 
@@ -158,9 +158,9 @@ It seemed the man had pressed some sort of button.
 
 It seemed I had underestimated the Noarkans.
 
-Hah… I thought he looked like an intellectual type who would make a rational decision until the end.
+Hah... I thought he looked like an intellectual type who would make a rational decision until the end.
 
-“…To think he had such a manly side.”
+“...To think he had such a manly side.”
 
 Even as I inwardly admired him, my hands did what they had to do, regardless of how I felt.
 
@@ -192,7 +192,7 @@ Plan A was simple: threaten the Noark Lord by saying I’d use Thunder against h
 
 A peaceful and healthy plan that involved absolutely no violence.
 
-But…
+But...
 
 Tsk. This is why you can’t work with thugs.
 
@@ -204,13 +204,13 @@ It was time to execute Plan B.
 
 Surprisingly, Plan B was even simpler than Plan A.
 
-Because…
+Because...
 
 ‘Use Thunder.’
 
 Just those two words explain everything.
 
-‘But how do I use it? Ah… like this?’
+‘But how do I use it? Ah... like this?’
 
 Wow, what is this?
 
@@ -250,19 +250,19 @@ And that brief sight was the last thing I saw in my ghostly state..
 
 My vision returned to normal and I felt dazed, as though I had just woken up from a dream.
 
-“Uh…”
+“Uh...”
 
 My head spun for a moment, but I quickly forced myself to focus.
 
-“Whoa, something huge just shot up over Bjorn’s head…!”
+“Whoa, something huge just shot up over Bjorn’s head...!”
 
-Oh… so I really did fire it. After seeing that bird’s-eye view earlier, it all felt unreal.
+Oh... so I really did fire it. After seeing that bird’s-eye view earlier, it all felt unreal.
 
 However, no matter how I felt, we didn’t have time. Thunder would soon strike this place.
 
-“They’re over there…………………!”
+“They’re over there.....................!”
 
-Just then, Noark troops appeared from the stairwell. It seemed they had rushed up as soon as the emergency siren went off……………….
+Just then, Noark troops appeared from the stairwell. It seemed they had rushed up as soon as the emergency siren went off...................
 
 Look at the quality of that gear.
 
@@ -322,7 +322,7 @@ I struck down once more with all my strength, but instead of collapsing, the gro
 
 Still, I kept hammering, digging out a hole.
 
-‘Okay… this should be enough space for everyone.’
+‘Okay... this should be enough space for everyone.’
 
 Once I secured enough room, I shoved my companions into the pit.
 
@@ -366,13 +366,13 @@ The air was as hot as a sauna, but not hot enough to be life-threatening. I quic
 
 “Is everyone okay?”
 
-“That’s the question we should be asking. Are… are you okay?”
+“That’s the question we should be asking. Are... are you okay?”
 
 “I think a few vertebrae are out of place, but I’m fine. This much will heal quickly. So, the answer to my question?”
 
-“We’re okay… Harin Savy had a pretty solid defense scroll.”
+“We’re okay... Harin Savy had a pretty solid defense scroll.”
 
-“But seriously… what was that just now…?”
+“But seriously... what was that just now...?”
 
 Man, she’s persistent.
 
@@ -382,13 +382,13 @@ At this point, does it even matter?
 
 Hyeon-byeol muttered something in protest, but I ignored her and focused on the present.
 
-‘As for the oxygen problem, we can hold out by taking turns using diving scrolls or magic items………………’
+‘As for the oxygen problem, we can hold out by taking turns using diving scrolls or magic items..................’
 
 It might take time, but if we clear the debris slowly, we’ll eventually make it out.
 
 Then we can cross the city straight to Carnon, show Astarotta the marquis’s corpse, and the mission will be complete.
 
-‘It’s almost over…’
+‘It’s almost over...’
 
 I could feel it; this whole situation was finally nearing its end.
 
@@ -398,6 +398,6 @@ A sense of unease I couldn’t shake tightened around my heart.
 
 Thump.
 
-Please…
+Please...
 
 Let nothing go wrong.

@@ -54,7 +54,7 @@ I had expected it, but even so, hearing his answer, I steeled my resolve.
 
 The marquis had said that, in time, Ragna would awaken on her own. That was precisely why he had left his diary behind for her.
 
-“But she still hasn’t woken up…”
+“But she still hasn’t woken up...”
 
 I was certain now.
 
@@ -66,19 +66,19 @@ These bastards are definitely behind Ragna not waking up. Well, I don’t have p
 
 I’d have to speak with Hyeonbyeol later to understand what they were doing to Ragna, though I doubt I’ll get a clear answer.
 
-“By the way…” Astarota started, a hint of curiosity in his eyes. “When you killed the marquiss, did you happen to notice a ring nearby?”
+“By the way...” Astarota started, a hint of curiosity in his eyes. “When you killed the marquiss, did you happen to notice a ring nearby?”
 
 “A ring? No, I didn’t see anything like that.”
 
-“Hmm, I see…”
+“Hmm, I see...”
 
 “What kind of ring is it?”
 
-“Nothing much, just one of the royal treasures. It seems he used it before he died… or maybe it was taken from him.”
+“Nothing much, just one of the royal treasures. It seems he used it before he died... or maybe it was taken from him.”
 
 “In any case, I didn’t see it.”
 
-“I see… then the most likely possibility is that it’s in the hands of those Noark bastards.”
+“I see... then the most likely possibility is that it’s in the hands of those Noark bastards.”
 
 Hearing that, I felt a sense of relief.
 
@@ -96,7 +96,7 @@ Which is why showing too much obsession with Ragna would be dangerous. There was
 
 “Oh, have you heard the news? A new chancellor was chosen at the royal council Meeting you missed.
 
-“…Who?”
+“...Who?”
 
 “Duke Keallunas.”
 
@@ -120,13 +120,13 @@ This stood in contrast to the Duke’s faction, which maintained its strength ev
 
 “He seems lucky. He didn’t really do anything, but his biggest rival self-destructed. And from what I can see, he didn’t suffer much damage in the war either.”
 
-“Lucky, huh…”
+“Lucky, huh...”
 
 But something about her tone felt off.
 
-“…Do you know something?”
+“...Do you know something?”
 
-“No, nothing like that. It’s just that, in my experience, those who seem lucky often have something shady behind them. But… well, maybe he really was just lucky.”
+“No, nothing like that. It’s just that, in my experience, those who seem lucky often have something shady behind them. But... well, maybe he really was just lucky.”
 
 “If you find anything, let me know too.”
 
@@ -134,15 +134,15 @@ But something about her tone felt off.
 
 That wrapped up our conversation about the duke, and I continued to chat with Astarotta about various things.
 
-Most of it was me gathering information, but if I had to pick the most important intel…
+Most of it was me gathering information, but if I had to pick the most important intel...
 
-“Oh, and Jandel… your ennoblement has just been approved.”
+“Oh, and Jandel... your ennoblement has just been approved.”
 
 The House of Baron Jandel was now to be elevated to the House of Viscount Jandel.
 
 Well, calling it a ‘house’ might be an exaggeration, since I had neither a mansion nor any retainers.
 
-‘Oh… I guess I do have servants, after all.’
+‘Oh... I guess I do have servants, after all.’
 
 In terms of sheer numbers, my house had more retainers than any other noble family in the kingdom, since I had taken in all the refugees from Bifron.
 
@@ -150,19 +150,19 @@ In terms of sheer numbers, my house had more retainers than any other noble fami
 
 “He couldn’t have said anything even if he wanted to. You’re the hero who went alone into the heart of enemy territory, killed the Marquis, and temporarily ended the war. Are you perhaps on bad terms with the Duke?”
 
-“Then there’s no reason for him to oppose your promotion. Though… he does seem a bit dissatisfied.”
+“Then there’s no reason for him to oppose your promotion. Though... he does seem a bit dissatisfied.”
 
 “Why?”
 
 “Think about it. If your promotion ceremony and his inauguration are held together, who do you think will be the center of attention?”
 
-“…Ah.”
+“...Ah.”
 
 I hadn’t thought that far. Of course, more attention would be given to me, the war hero, than to a duke who merely inherited a position.
 
 “From what I heard, he even suggested postponing his inauguration so the two could be held as separate events, but our circumstances aren’t flexible enough to allow that.”
 
-Anyway, the result is that my promotion ceremony and the Duke’s inauguration will be held on the same day at the same place…
+Anyway, the result is that my promotion ceremony and the Duke’s inauguration will be held on the same day at the same place...
 
 “Are you going to see Countess Phefroc?”
 
@@ -182,21 +182,21 @@ Why had he brought up the village chief all of a sudden?
 
 ‘On the day Thunder struck the Palace of Glory, Jerome Saintred also went missing.’
 
-“…And?”
+“...And?”
 
 “Some say he should be classified as killed in action, but I feel like there might have been another reason. I was wondering if you knew anything.”
 
 “Unfortunately, I don’t.”
 
-“…I’ve taken up enough of your time. You may go.”
+“...I’ve taken up enough of your time. You may go.”
 
 With that, I left the reception room where I had been with Astarotta.
 
-‘Missing, huh………………..
+‘Missing, huh....................
 
 To be honest, I don’t think the village chief had died in the chaos of war either.
 
-He must have been caught up in something… or chosen to disappear on his own.
+He must have been caught up in something... or chosen to disappear on his own.
 
 I recalled my last meeting with him.
 
@@ -212,7 +212,7 @@ At the time, everything was so urgent that I didn’t think much of it. But now,
 
 Unlike what he implied, the entire world didn’t burn during the war.
 
-“…Or did it?”
+“...Or did it?”
 
 Districts 7 and 8 had indeed burned down.
 
@@ -220,7 +220,7 @@ But I was the one who set those fires, and the tone of his words had been comple
 
 It sounded as if the world itself was about to end.
 
-“…But in the end, it didn’t go that far.”
+“...But in the end, it didn’t go that far.”
 
 The war stopped, and I survived.
 
@@ -256,7 +256,7 @@ But I didn’t say that.
 
 “Nothing much. I’m bored to death. Even that chancellor’s son got released, so I don’t even have anyone to talk to.”
 
-“That… honestly sounds pretty dull.”
+“That... honestly sounds pretty dull.”
 
 Eltora Tercerion, the son of the disgraced prime minister, had only recently been put on trial and released.
 
@@ -264,19 +264,19 @@ Though his father was a traitor, the fact that he betrayed him and helped me had
 
 “Well, in truth, Astarotta’s influence played a big part. Then again, I was the one who moved him.”
 
-“…How’s he going to make a living now?”
+“...How’s he going to make a living now?”
 
 Eltora managed to save his life, just as he wished.
 
 Though it was only natural that he had lost all noble privileges.
 
-“…There must be a lot of people who hate him.”
+“...There must be a lot of people who hate him.”
 
 At a time when hundreds of thousands had become refugees because of the war, the name ‘Terserion’ would make many grind their teeth.
 
 He might be better off abandoning his surname and living simply as “Eltora.”
 
-“…Well, I’ll check on him sometime later.”
+“...Well, I’ll check on him sometime later.”
 
 I let my thoughts about Eltora trail off there.
 
@@ -284,7 +284,7 @@ It was nothing more than a bit of personal curiosity about how he was doing, and
 
 “See you next time.”
 
-“Eh… already?”
+“Eh... already?”
 
 “I’ll be back soon.”
 
@@ -292,15 +292,15 @@ It was nothing more than a bit of personal curiosity about how he was doing, and
 
 “This time I mean it. I think I’ll be coming to the palace more often from now on.”
 
-“…The palace?”
+“...The palace?”
 
 Hyeonbyeol looked at me meaningfully, then stared at me.
 
-“…You seem… different somehow?”
+“...You seem... different somehow?”
 
 “Different how?”
 
-“It’s hard to explain, but… just, something feels different………………”
+“It’s hard to explain, but... just, something feels different..................”
 
 “Is it a good thing or a bad thing?”
 

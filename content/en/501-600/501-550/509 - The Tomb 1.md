@@ -4,9 +4,9 @@ It resembled a Frogman in its basic form. Its belly was round, as if filled with
 
 However, its skin was gray, not green, and it wasn’t carrying a harpoon, the Frogman’s trademark weapon.
 
-And most importantly…
+And most importantly...
 
-‘…Wings?’
+‘...Wings?’
 
 A pair of wings, oddly shaped as if they were cut out of paper and glued on, were attached to its back—
 
@@ -18,13 +18,13 @@ So they weren’t just for show.
 
 “Emily, what’s their rank?”
 
-I snapped out of my daze and asked Amelia. She couldn’t determine the exact rank with [Danger Sense], but…
+I snapped out of my daze and asked Amelia. She couldn’t determine the exact rank with [Danger Sense], but...
 
 “Below 7th-grade. I don’t sense any threat.”
 
 She could make a rough estimate based on experience.
 
-“Below 7th-grade…”
+“Below 7th-grade...”
 
 I looked at the fifteen monsters on the deck and gave my team an order.
 
@@ -50,31 +50,31 @@ So how were they attacking?
 
 Swoosh.
 
-They crouched down, their hindquarters raised, and…
+They crouched down, their hindquarters raised, and...
 
 Crackle!
 
-…thorn-shaped projectiles, crackling with electricity, shot out from their bodies.
+...thorn-shaped projectiles, crackling with electricity, shot out from their bodies.
 
 They were below 7th-grade, so they didn’t do any damage.
 
 I blocked most of them with my shield, and the ones that got through didn’t even scratch my skin.
 
-But…
+But...
 
-‘What the…?’
+‘What the...?’
 
 My body froze.
 
 It wasn’t because of a status effect like paralysis or shock.
 
-I was just… surprised.
+I was just... surprised.
 
-“Yandel… that attack…”
+“Yandel... that attack...”
 
 Bersil trailed off, and Erwen finished her sentence.
 
-“It looks like Fulminas’s [Thunder Thorn]…?”
+“It looks like Fulminas’s [Thunder Thorn]...?”
 
 The Fulminas was a 3rd-grade lightning-type monster that appeared on the 3rd and 4th floors.
 
@@ -86,27 +86,27 @@ I dismissed the thought.
 
 All fifteen of them had used the same skill.
 
-‘A monster that uses other monsters’ skills…’
+‘A monster that uses other monsters’ skills...’
 
 Then what about its other skills?
 
 I observed them without attacking, and I made a surprising discovery.
 
-“That’s… Iron Falcon’s [Iron Feathers].”
+“That’s... Iron Falcon’s [Iron Feathers].”
 
 “Oh! I know that one! It’s the Sea Worm’s [Bubble Shield]!”
 
-“Um… that’s a 7th-grade skill, not 6th-grade…”
+“Um... that’s a 7th-grade skill, not 6th-grade...”
 
 All three of its active skills were from different monsters.
 
 I was curious about its passive skills, but it wasn’t easy to find out.
 
-I swung my hammer, intending to capture one…
+I swung my hammer, intending to capture one...
 
 「Attack missed due to [Putrid Slime].」
 
-…and it dodged.
+...and it dodged.
 
 So its passive was from the Frogman?
 
@@ -122,7 +122,7 @@ I had gathered enough information.
 
 Ainar, eager to be the first to slay the newly discovered monster, charged forward as soon as I gave the order.
 
-But there was a problem…
+But there was a problem...
 
 「McGuffin slain.」
 
@@ -134,17 +134,17 @@ Even if it was below 7th-grade, I should have felt something—
 
 I stopped thinking and looked at the spot where the monster had been standing.
 
-“…An essence!”
+“...An essence!”
 
 It actually dropped an essence.
 
-“…Bersil! Put it in a test tube!”
+“...Bersil! Put it in a test tube!”
 
 I gave Bersil an order, my mind racing.
 
 ‘So it has the Frogman’s [Putrid Slime] and one of the Sea Worm, Iron Falcon, and Fulminas’s active skills?’
 
-…This could change everything.
+...This could change everything.
 
 ---
 
@@ -164,7 +164,7 @@ It was a green essence.
 
 “I brought my own, just in case.”
 
-“I see…”
+“I see...”
 
 “What should I do with the used test tubes?”
 
@@ -172,15 +172,15 @@ It was a green essence.
 
 After settling the test tube issue, I asked my teammates,
 
-“Did you notice anything… when we killed that monster?”
+“Did you notice anything... when we killed that monster?”
 
 “Ah, you mean the lack of experience points?”
 
-“Huh? Was it the same for everyone? I thought it was just me…”
+“Huh? Was it the same for everyone? I thought it was just me...”
 
 So none of us had received any experience points.
 
-‘This floor is strange…’
+‘This floor is strange...’
 
 A monster that used other monsters’ skills.
 
@@ -192,7 +192,7 @@ If all the monsters on this floor were like this, it meant there were no new ski
 
 But then another thought occurred to me.
 
-“…A monster that uses other monsters’ skills… this will cause a commotion if it gets out.”
+“...A monster that uses other monsters’ skills... this will cause a commotion if it gets out.”
 
 This might be a bigger deal than I thought.
 
@@ -200,23 +200,23 @@ It would be much more useful for creating OP builds than any new skill.
 
 It was like a customization feature.
 
-‘If I could just absorb the Steel Giant’s active skills without the passive…’
+‘If I could just absorb the Steel Giant’s active skills without the passive...’
 
 There were many essences with useful active or passive skills that were held back by their low stats or other drawbacks.
 
-‘But if I could combine those skills with [Gigantification]…?’
+‘But if I could combine those skills with [Gigantification]...?’
 
 It would significantly increase a character’s potential.
 
 The Orc Hero’s passive skill was just a bonus.
 
-[Hero’s Path], which increased Physical stats as HP decreased, wasn’t a bad skill… but it was a 5th-grade essence.
+[Hero’s Path], which increased Physical stats as HP decreased, wasn’t a bad skill... but it was a 5th-grade essence.
 
 And its base stats were low.
 
 Unless you were combining it with [Gigantification] and [Unification], there were better options.
 
-‘…I wonder if there are any monsters like that…’
+‘...I wonder if there are any monsters like that...’
 
 I didn’t know.
 
@@ -224,7 +224,7 @@ Maybe this creature was just an anomaly.
 
 The other monsters might have new essences, or this might be the only new species on this floor.
 
-But…
+But...
 
 ‘This is interesting.’
 
@@ -258,13 +258,13 @@ And their byproducts would fetch a high price at the Mage Tower.
 
 “I have something to say!”
 
-“…Go ahead.”
+“...Go ahead.”
 
 As we were sailing, Ainar suddenly asked,
 
 “What are we going to call them?”
 
-“Call them…?”
+“Call them...?”
 
 I hadn’t thought about it.
 
@@ -272,29 +272,29 @@ How were monsters named?
 
 “Erwen, do you know?”
 
-“Uh… well…?”
+“Uh... well...?”
 
 Erwen didn’t know either.
 
 Neither did Bersil, even though she was a mage.
 
-“I’ve never thought about it… Doesn’t the first person who discovers them get to name them?”
+“I’ve never thought about it... Doesn’t the first person who discovers them get to name them?”
 
-“Hmm… I guess so.”
+“Hmm... I guess so.”
 
 Amelia, who had been assisting Auyen with the navigation, approached us.
 
 “Nanari.”
 
-“…Huh?”
+“...Huh?”
 
 “What about Nanari? It sounds cute.”
 
 She really liked cute things.
 
-“…We’re naming a monster, not a pet. Emily.”
+“...We’re naming a monster, not a pet. Emily.”
 
-“…But it’s the discoverer’s prerogative.”
+“...But it’s the discoverer’s prerogative.”
 
 “That’s true.”
 
@@ -308,23 +308,23 @@ So I decided to let them have their fun.
 
 “Tell me what you think. We’ll vote and decide.”
 
-“A vote… that’s fair. I’ll go with Nanari. And I’ll give 10,000 stones to anyone who votes for it.”
+“A vote... that’s fair. I’ll go with Nanari. And I’ll give 10,000 stones to anyone who votes for it.”
 
-“We’re voting, not buying votes…”
+“We’re voting, not buying votes...”
 
 “I didn’t say you couldn’t.”
 
-“…Whatever.”
+“...Whatever.”
 
 There was a brief debate about fairness, but everyone eventually suggested a name.
 
 “Ultima Thunder! How about that?! Doesn’t it sound strong?!”
 
-“But it’s not even 7th-grade. How about something based on its characteristics? It uses Sea Worm, Iron Falcon, Fulminas, and Frogman abilities…”
+“But it’s not even 7th-grade. How about something based on its characteristics? It uses Sea Worm, Iron Falcon, Fulminas, and Frogman abilities...”
 
 “Sea Falcon Frogman!”
 
-“…Huh?”
+“...Huh?”
 
 “Sea Falcon Frogman! It’s perfect!”
 
@@ -332,27 +332,27 @@ I was speechless, but the others seemed to like it.
 
 “Oh! That’s good! It sounds strong!”
 
-“…It’s catchy. And it describes its appearance.”
+“...It’s catchy. And it describes its appearance.”
 
 “I still prefer Nanari. I’ll raise the bribe to 20,000 stones.”
 
 After a few more suggestions, it was time to vote.
 
-And the result…
+And the result...
 
-“Seven votes for McGuffin. Three votes for… Sea Falcon Frogman. Two votes for Nanari. And one vote for Kiruru.”
+“Seven votes for McGuffin. Three votes for... Sea Falcon Frogman. Two votes for Nanari. And one vote for Kiruru.”
 
 “Huh? That’s strange. There are only seven of us, but there are thirteen votes?”
 
 “Ah, Bersil, you didn’t know? It’s in the clan rules. The Clan Master’s vote counts as the same number as the clan members.”
 
-“…That’s not very democratic!”
+“...That’s not very democratic!”
 
 I lowered my voice.
 
 “Democratic? What’s that?”
 
-“Ah…”
+“Ah...”
 
 Bersil realized her mistake and stopped talking.
 
@@ -380,13 +380,13 @@ Bersil resumed collecting the floating objects.
 
 “Ainar, go clean the deck.”
 
-“…What about Misha? She’s not doing anything!”
+“...What about Misha? She’s not doing anything!”
 
-“Misha has… other duties…”
+“Misha has... other duties...”
 
-“…Huh?”
+“...Huh?”
 
-“Misha… you’re in charge of dealing with any monsters that appear on deck.”
+“Misha... you’re in charge of dealing with any monsters that appear on deck.”
 
 “Woo! I can do that too! Let me do it!”
 
@@ -404,11 +404,11 @@ I approached her, and she was surrounded by the objects she had collected from t
 
 “It’s a painting. I think it’ll fetch a high price in the city. What do you think?”
 
-“…A painting?”
+“...A painting?”
 
 “Yes. It looks like a seascape, but the paper isn’t wet. It’s completely dry.”
 
-A piece of art from the labyrinth… it would definitely be valuable.
+A piece of art from the labyrinth... it would definitely be valuable.
 
 “Let me see.”
 
@@ -416,20 +416,20 @@ I took the painting and examined it.
 
 And then I froze.
 
-“…….”
+“.......”
 
 It was a crude sketch of a man, a woman, and a little girl smiling brightly.
 
-“Um… what’s wrong?”
+“Um... what’s wrong?”
 
-“…….”
+“.......”
 
-“Do you… know them?”
+“Do you... know them?”
 
 I didn’t know them.
 
 But I knew this painting.
 
-“It’s…”
+“It’s...”
 
 It was the family portrait of Hans A, the one I had discarded in the labyrinth years ago during my first expedition.

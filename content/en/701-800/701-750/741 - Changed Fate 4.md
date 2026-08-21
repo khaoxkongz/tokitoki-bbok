@@ -30,13 +30,13 @@ A dagger and longsword for close-quarters combat.
 
 A round shield for ranged defense or when protecting high-value targets.
 
-Gunpowder pouches attachable to arrows, smoke bombs for visual disruption, potions, scrolls…
+Gunpowder pouches attachable to arrows, smoke bombs for visual disruption, potions, scrolls...
 
 Boom—!
 
 He even checked all the consumables in his Treasure Vault. However, thanks to his meticulous and regular maintenance, everything was exactly as it should be.
 
-“Whew…”
+“Whew...”
 
 Taking a long, deep breath eased the tension a little. Rottmiller finally relaxed his body.
 
@@ -50,13 +50,13 @@ Maybe he had known deep down. Even when he was desperate for money, he kept his 
 
 After scanning his surroundings out of habit, Rotmiller’s eyes finally settled on the faces around him. Their expressions had all hardened with resolve. He found it unusual.
 
-Well, if they were explorers, he wouldn’t have thought much of it, but…
+Well, if they were explorers, he wouldn’t have thought much of it, but...
 
 Boom, Boom
 
 However, as the barbarians pounded the ground in rhythm as if it were some kind of festival, Rottmiller noticed those all-too-familiar tremors running through their bodies. It was the trembling of people on the brink of battle.
 
-‘Well…’
+‘Well...’
 
 They were human too.
 
@@ -84,7 +84,7 @@ Seeing Aynar standing among them made him clutch his weapon tightly. She guarded
 
 Her back looked more dependable than anyone else’s.
 
-Ah… I see.
+Ah... I see.
 
 So these are Bjorn Jandel’s “companions.”
 
@@ -102,7 +102,7 @@ Having accepted his fate, Rotmiller gave up his life in the labyrinth and looked
 
 Therefore, it was useless to fantasize about what it would have been been like if he were in that position. Those people were there because they kept moving forward while he had dropped out.
 
-And above all…
+And above all...
 
 Kuung!
 
@@ -128,7 +128,7 @@ Just like those Barbarians shouting the names of their ancestors before battle. 
 
 That was the only thought currently inside Sven Parab’s head.
 
-‘What do I do…?’
+‘What do I do...?’
 
 He kept asking himself, searching for an answer.
 
@@ -146,17 +146,17 @@ No, Parav was thinking about something else entirely. Some might even call him t
 
 How could he persuade Lyris Marone to abandon that woman? He turned it over in his mind again and again, but no answer came.
 
-“…There is a risk our location will be discovered.”
+“...There is a risk our location will be discovered.”
 
 In the end, those were the only words he could muster.
 
 Marrone went silent for a moment. Then, with cold eyes and a voice edged with betrayal, she replied.
 
-“…I’m disappointed. I didn’t know you were this kind of person.”
+“...I’m disappointed. I didn’t know you were this kind of person.”
 
 It felt like needles were stabbing into his heart. The truth spilled out of him before he could stop it.
 
-“…To me, you matter far more than some stranger whose name I don’t even know.” Even though he felt flustered after admitting it, Parav hurriedly moved on to his next line. “And we need to survive if we’re going to keep the promise we made that day…”
+“...To me, you matter far more than some stranger whose name I don’t even know.” Even though he felt flustered after admitting it, Parav hurriedly moved on to his next line. “And we need to survive if we’re going to keep the promise we made that day...”
 
 Half excuse, half sincerity.
 
@@ -180,17 +180,17 @@ She turned back and met the eyes of the man cowering in the wardrobe.
 
 Parab didn’t know what to say, but Marone was different.
 
-“…Don’t worry. I won’t cause any trouble for you, Mr. Parab.”
+“...Don’t worry. I won’t cause any trouble for you, Mr. Parab.”
 
-“Pardon…? What do you mean by—”
+“Pardon...? What do you mean by—”
 
 Before he could ask what she meant, Lyris Marone jumped over the broken windowsill and landed on the ground below.
 
-And then…
+And then...
 
-“…Ma’am, please go back inside the building you were in! I’ll clear these bodies first—”
+“...Ma’am, please go back inside the building you were in! I’ll clear these bodies first—”
 
-“…Yes! Yes? Ah! I-I’ll help too!”
+“...Yes! Yes? Ah! I-I’ll help too!”
 
 “I’ll hold this side. Please grab the legs!”
 
@@ -226,7 +226,7 @@ Why isn’t anything happening?
 
 Did the barrier just deactivate by accident?
 
-Then… does that mean we don’t have to fight?
+Then... does that mean we don’t have to fight?
 
 The moment that faint hope flickered through his mind—
 
@@ -238,7 +238,7 @@ Thankfully, the protective barrier the mages had cast over the area limited the 
 
 Fwoosh
 
-“They’re coming…”
+“They’re coming...”
 
 However, through the kicked-up dirt and dust, he could hear hundreds, maybe thousands, of soldiers rushing toward him.
 
@@ -300,7 +300,7 @@ The Blood Spirit Queen, Erwin Fornacci di Tersia.
 
 Even if the others weren’t as well known as the two women, each clan showed the teamwork they had built over countless years.
 
-“BET…HELRLAA—!!!”
+“BET...HELRLAA—!!!”
 
 “Kill everyone who entered the sanctuary!!”
 
@@ -318,21 +318,21 @@ BOOOOM! BOOM! BOOM!
 
 Each time a mana cannon hit the overcrowded defensive line, several to dozens of people were severely injured or killed.
 
-Could human life…really disappear so easily?
+Could human life...really disappear so easily?
 
 Rotmiller felt as though the monster called war was chewing up his soul and spitting it out.
 
-“Ha… haah…”
+“Ha... haah...”
 
 It hadn’t even been ten minutes since the battle began, yet his breath was already hitching in his throat, and his limbs felt heavy and weak.
 
 Perhaps his eardrums had been damaged by the overwhelming roar of the battlefield. At some point, all he could hear was a violent ringing. Nothing else.
 
-……
+......
 
 The warrior dying beside him let out a silent scream.
 
-“……..”
+“........”
 
 He couldn’t hear the shouts of the enemies charging at him with killing intent.
 
@@ -342,7 +342,7 @@ Riiiiiiing—
 
 The violent ringing that paralyzed his ability to think straight.
 
-And…
+And...
 
 Badump—!
 

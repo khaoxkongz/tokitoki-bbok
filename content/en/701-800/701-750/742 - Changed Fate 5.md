@@ -1,6 +1,6 @@
 # Changed Fate (5)
 
-1 minute, 2 minutes, 3 minutes…
+1 minute, 2 minutes, 3 minutes...
 
 Time passed.
 
@@ -10,7 +10,7 @@ The longer it went on, the more suffocated he felt. The wardrobe that had once c
 
 He felt uneasy and worried.
 
-7 minutes, 8 minutes, 9 minutes…
+7 minutes, 8 minutes, 9 minutes...
 
 Is she okay?
 
@@ -28,7 +28,7 @@ Though this time, the instinct wasn’t about himself.
 
 It was about someone else.
 
-10 minutes, 11 minutes, 12 minutes…
+10 minutes, 11 minutes, 12 minutes...
 
 Sven Parav didn’t rest for a second, pressing his ear tightly against the wardrobe door and listening.
 
@@ -36,7 +36,7 @@ Listening.
 
 The last thing he heard was Lyris Marone and the woman she saved hiding the body and entering the building across the road. After that, he could barely hear anything.
 
-It seemed like they were hiding well inside…
+It seemed like they were hiding well inside...
 
 Clank. Clank. Clank.
 
@@ -46,9 +46,9 @@ This wardrobe is safe.
 
 The instinct that had saved him countless times in his life said so.
 
-But…
+But...
 
-20 minutes, 30 minutes, 40 minutes…
+20 minutes, 30 minutes, 40 minutes...
 
 Was the building across the street safe too?
 
@@ -72,7 +72,7 @@ He prayed they would just pass by, but as expected, his gut feeling was correct.
 
 “Yes, their last reported position was around here.”
 
-“Hah… You really think they came all the way out here just to screw around?”
+“Hah... You really think they came all the way out here just to screw around?”
 
 “Probably looking for something valuable to pawn off.”
 
@@ -92,11 +92,11 @@ Every stroke of bad luck seemed fueled by his worry and anxiety. The more afraid
 
 Just like now.
 
-“…Wait. I sense death energy.”
+“...Wait. I sense death energy.”
 
 “Death energy?”
 
-“It’s faint since time has passed… but someone definitely died here.”
+“It’s faint since time has passed... but someone definitely died here.”
 
 “Can you give me more details?”
 
@@ -112,17 +112,17 @@ Though the man’s voice was quiet, Sven Parav, his body enhanced by divine powe
 
 And Parav hoped with all his might that wasn’t the case.
 
-Then…
+Then...
 
-“Hmm… Dark magic isn’t omnipotent.”
+“Hmm... Dark magic isn’t omnipotent.”
 
-“…I see.”
+“...I see.”
 
 “But I can read where the bodies were taken. They were moved into that house over there.”
 
 “The culprits might still be inside. We’ll have to check.”
 
-“We will. Judging by how cleanly they wiped the bodies, they seem skilled… but people like that often don’t know much about black magic. If I hadn’t sensed the death energy, I wouldn’t have known at all.”
+“We will. Judging by how cleanly they wiped the bodies, they seem skilled... but people like that often don’t know much about black magic. If I hadn’t sensed the death energy, I wouldn’t have known at all.”
 
 “Just in case, I’ll report before we move in. Hey, Rexton!”
 
@@ -136,7 +136,7 @@ Should he act now and stop them from reporting?
 
 Or just stay still?
 
-If they searched the house and still failed to find Marone or that woman… that would be the best possible outcome…
+If they searched the house and still failed to find Marone or that woman... that would be the best possible outcome...
 
 “Captain! All information has been reported!”
 
@@ -166,7 +166,7 @@ It felt like an eternity of uncertainty over whether he’d made the right decis
 
 About seven minutes later, the outcome was revealed.
 
-“……Ca, Captain!”
+“......Ca, Captain!”
 
 K-boooooom!
 
@@ -176,21 +176,21 @@ Explosions and screams rang out at the same time, assaulting his ears.
 
 And the battle began.
 
-“…K-Kyaaah!”
+“...K-Kyaaah!”
 
 Just as you’d expect from a former military mage, Marone responded swiftly even after her cover was blown. In the end, though, she was defeated.
 
-“Damn it… seven of us died because of this bitch—”
+“Damn it... seven of us died because of this bitch—”
 
 Thud!
 
 A heavy thud echoed, followed by the groan of a familiar voice.
 
-“……Wait a minute, that face looks familiar.”
+“......Wait a minute, that face looks familiar.”
 
 “Lyris Marone! She’s a military mage and an ally of Bjorn Jandel!”
 
-“What…? Hahahah! Hahahaha! This is a huge achievement!”
+“What...? Hahahah! Hahahaha! This is a huge achievement!”
 
 “If we take her back alive, we’ll get an incredible reward!”
 
@@ -202,7 +202,7 @@ But—
 
 “Eh? What are you talking about? That’s old news. Orders from above said there’s no need to bring them back alive anymore.”
 
-“…Ah… is that so?”
+“...Ah... is that so?”
 
 “But killing her nicely would be a waste, right?”
 
@@ -230,7 +230,7 @@ He will live.
 
 ven if Lyris Marone, who risked her life to save others, dies
 
-“…Hey! Speak! Are you alone? Where are your comrades?”
+“...Hey! Speak! Are you alone? Where are your comrades?”
 
 “Well, she’ll open her mouth if we torment her.”
 
@@ -238,7 +238,7 @@ He will live.
 
 “Oh! Commander! There are more people inside!”
 
-“…K-kyaaaagh!”
+“...K-kyaaaagh!”
 
 Even if innocent citizens die.
 
@@ -248,7 +248,7 @@ Even if innocent citizens die.
 
 Clearly, He will live.
 
-However…
+However...
 
 “Waaaaah—!”
 
@@ -266,7 +266,7 @@ Sven Parab no longer questioned himself.
 
 ***
 
-“—Huff… huff… huff…”
+“—Huff... huff... huff...”
 
 He calmed his labored breathing and continued to run.
 
@@ -274,13 +274,13 @@ There were two reasons for doing this.
 
 Regular breathing lets a person run longer.
 
-And…
+And...
 
 “Chase him—!!”
 
 Right now, running longer was the only way to live.
 
-“Huff… huff… huff…”
+“Huff... huff... huff...”
 
 Brown Rottmiller sprinted through the familiar forest trails, giving it his all.
 
@@ -298,7 +298,7 @@ But—
 
 Thudthudthud—
 
-The weight of the title former companion…
+The weight of the title former companion...
 
 was heavy. Far too heavy.
 
@@ -346,7 +346,7 @@ At that moment, an artificial wind swept through, clearing the smoke, and the pu
 
 “I don’t see my arrow. I think I hit him!”
 
-“Then he couldn’t have gone far. Find him…!”
+“Then he couldn’t have gone far. Find him...!”
 
 As the pursuers moved busily beneath the tree, Rottmiller made another cold assessment.
 
@@ -360,7 +360,7 @@ The longer the search lasted, the more likely he was to be discovered. In his cu
 
 Treating his condition came first.
 
-But since the pursuers were crawling all over the ground below…
+But since the pursuers were crawling all over the ground below...
 
 ‘As quietly as possible.’
 
@@ -386,7 +386,7 @@ To survive.
 
 His jaw clenched instinctively and his veins bulged as blood rushed to his head, but Rottmiller swallowed the scream.
 
-However…
+However...
 
 “Hm?”
 
@@ -394,7 +394,7 @@ His luck was bad.
 
 He had made the best possible judgments and done everything within his power, but—
 
-“…Sh-shit! You scared me!”
+“...Sh-shit! You scared me!”
 
 It was simply a matter of bad luck.
 
@@ -424,7 +424,7 @@ And just like that, his fate was sealed.
 
 “When else would someone like me get to cut off Jandel’s companion’s head?”
 
-“…Do what you want.”
+“...Do what you want.”
 
 The man assigned to execute him slowly spun his dagger as he approached, a sly look on his face.
 
@@ -450,9 +450,9 @@ Life had always been hard.
 
 But there had been happy times too.
 
-If he had to pick one, it would be…
+If he had to pick one, it would be...
 
-“…Yeah. That time was the best.”
+“...Yeah. That time was the best.”
 
 “Hmm?” The sneaky-looking man froze at Rotmiller’s muttering. “What’s this bastard talking about?”
 
@@ -462,7 +462,7 @@ He hoped so.
 
 Even if his forge was swallowed by the war, survival came first.
 
-…I should’ve visited more often.
+...I should’ve visited more often.
 
 Regret washed over him.
 
@@ -472,7 +472,7 @@ Misha Karlstein.
 
 Bjorn Jandel.
 
-And…
+And...
 
 ‘Leor Wuerv Dwalki.’
 
@@ -482,13 +482,13 @@ He didn’t know.
 
 But somehow, he found himself smiling.
 
-“…He’s smiling?”
+“...He’s smiling?”
 
 Well, of course.
 
 Only now, when this moment had truly come, did he finally understand something.
 
-“Seriously…”
+“Seriously...”
 
 He used to think—
 
@@ -496,7 +496,7 @@ When that time came, maybe he would finally understand his friend’s heart.
 
 What a ridiculous thought.
 
-“…He really was an incredible guy.”
+“...He really was an incredible guy.”
 
 And what about himself?
 
@@ -514,7 +514,7 @@ He didn’t want to die.
 
 He felt there were so many things he had put off, and so much life still left to be lived.
 
-However…
+However...
 
 Srrrng!
 
@@ -524,7 +524,7 @@ Rottmiller quietly closed his eyes, and one last face drifted through his mind.
 
 It wasn’t the benefactor who had changed his life, nor was it his cherished comrades.
 
-Even though the time they had known each other was short…
+Even though the time they had known each other was short...
 
 ‘I should have been a little more honest.’
 
@@ -532,11 +532,11 @@ Good grief.
 
 How could there be so many regrets?
 
-“May the Star of Twilight lead us…”
+“May the Star of Twilight lead us...”
 
 Like most ordinary people facing death, he called upon the name of a god in his final moment.
 
-And then…
+And then...
 
 BOOOOOOOOOM—!!!
 

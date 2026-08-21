@@ -6,17 +6,17 @@ When Lion first appeared at the Round Table, Abet Necrapeto was utterly shocked.
 
 Even in a gathering filled with the strongest players, his speech and behavior were completely unrestrained.
 
-And then…
+And then...
 
-And…
+And...
 
-[Please… stop. Any more and even I will be in danger…]
+[Please... stop. Any more and even I will be in danger...]
 
 He had the strength to back it up.
 
-[…]
+[...]
 
-[…]
+[...]
 
 Lion dominated the Round Table in an instant with his overwhelming killing intent, and no one dared to question his words.
 
@@ -34,7 +34,7 @@ He knew information that no one else in the world should have known, speaking of
 
 It made one wonder what kind of massive organization he must lead to possess such secrets so casually. He was an entity shrouded in mystery.
 
-‘…So cool.’
+‘...So cool.’
 
 Necrafeto admired him.
 
@@ -50,9 +50,9 @@ Then, when he got bored, he’d toss out bait and watch their reactions for fun.
 
 To Necrafeto, he looked cooler than any villain he’d idolized as a child.
 
-[If… if, hypothetically…]
+[If... if, hypothetically...]
 
-[If I abandoned everything and wanted to serve under you… would you accept me?]
+[If I abandoned everything and wanted to serve under you... would you accept me?]
 
 That was why he’d said those words at the final Round Table meeting.
 
@@ -62,7 +62,7 @@ If he could serve under him, he might finally become someone truly special.
 
 Though the answer he received was rejection.
 
-[Insects? Puhuhu…! I suppose everyone must look like that in your eyes, Lion Mask?]
+[Insects? Puhuhu...! I suppose everyone must look like that in your eyes, Lion Mask?]
 
 Still, he wasn’t too disappointed.
 
@@ -70,13 +70,13 @@ It just meant he wasn’t good enough yet.
 
 If he built up more infamy, became even worse, maybe the Lion Mask would reach out to him first.
 
-But then…
+But then...
 
-‘Bjorn jandel…’
+‘Bjorn jandel...’
 
-The barbarian bastard who kept interfering with everything he tried to do, and even forced the ridiculous nickname “Toy Collector”…
+The barbarian bastard who kept interfering with everything he tried to do, and even forced the ridiculous nickname “Toy Collector”...
 
-‘…is the Lion Mask?’
+‘...is the Lion Mask?’
 
 His first reaction was denial.
 
@@ -125,7 +125,7 @@ First denial.
 
 Then betrayal as the clues stacked up.
 
-And finally…
+And finally...
 
 Fear of approaching death.
 
@@ -133,9 +133,9 @@ Thud.
 
 When I canceled [Gigantification] and pinned him down with my foot, he scowled in pain for a moment before breaking into manic laughter. It probably was not just the shock of learning I was Lion. With only half his head left, there was no way he was still sane.
 
-“…Ugh. Gross.”
+“...Ugh. Gross.”
 
-Still, since I held back on my last attack, he did not die instantly. I considered finishing him off with one clean blow, but…
+Still, since I held back on my last attack, he did not die instantly. I considered finishing him off with one clean blow, but...
 
 ‘No matter how busy I am, looting comes first.’
 
@@ -159,7 +159,7 @@ Despite asking him several times, he only laughed into the air.
 
 I had no choice but to take out a potion from my subspace and pour it over his head.
 
-What the… did this guy lose the ability to feel pain?
+What the... did this guy lose the ability to feel pain?
 
 Even though the potion boiled and gave off steam, he showed no reaction and only stared blankly into space. He did not start screaming until his deeply dented head was halfway healed.
 
@@ -167,11 +167,11 @@ Even though the potion boiled and gave off steam, he showed no reaction and only
 
 His body jerked up and down like he was having a seizure, spewing something between screams and laughter.
 
-“…What the hell is this?”
+“...What the hell is this?”
 
 The grotesque sight gave me chills for a moment, but it was just a side effect of his brain returning to normal.
 
-“Guh… guh… guaaah… huuuh…!!”
+“Guh... guh... guaaah... huuuh...!!”
 
 At some point, as if proving that his brain had simply been malfunctioning, his screams returned to normal.
 
@@ -183,19 +183,19 @@ I lightly smacked his cheek with my hammer.
 
 “Can you hear me now?”
 
-“…Uh… ah… ugh…”
+“...Uh... ah... ugh...”
 
 Hmm. Guess his brain isn’t recovered enough to talk yet.
 
 “If you can hear me, blink once.”
 
-…Blink.
+...Blink.
 
 “Why are you only blinking one eye? It’s creepy.”
 
 Blink, blink.
 
-“It’s not your intention? Hmmm… okay.”
+“It’s not your intention? Hmmm... okay.”
 
 Whatever. Not important.
 
@@ -209,7 +209,7 @@ His left eyelid opened and closed rapidly.
 
 “You’d rather die than give it up?”
 
-“Uh… ah… uhh…!”
+“Uh... ah... uhh...!”
 
 “I can’t understand a word. Talk with your eyes.”
 
@@ -217,7 +217,7 @@ At my irritated tone, he blinked like crazy. At least it didn’t seem like he w
 
 “Then what? Got something to say?”
 
-…Blink.
+...Blink.
 
 “Okay. I’ll pour more potion on you. But once you can talk, you hand over the subspace without complaints as payment for the potion. Deal?”
 
@@ -225,7 +225,7 @@ Hey.
 
 “Answer.”
 
-…Blink.
+...Blink.
 
 He blinked more slowly than before, as though he didn’t like the deal, but that was probably just my imagination.
 
@@ -241,7 +241,7 @@ Sssssssss—
 
 When I poured a high-grade potion over his head to uphold my end of the deal, he screamed louder and louder. Nevertheless, his shattered head seemed to be slowly reforming.
 
-“AAAAAAGH! Gghhh… Aaaagh!!”
+“AAAAAAGH! Gghhh... Aaaagh!!”
 
 Now those were proper screams.
 
@@ -253,7 +253,7 @@ About ten minutes later, he finally calmed down enough to talk.
 
 “Subspace.”
 
-“…?”
+“...?”
 
 “A promise is a promise. Hand it over before we talk.”
 
@@ -269,7 +269,7 @@ He frantically waved his hands.
 
 Should’ve said that earlier.
 
-“But, but you must keep your promise to talk for a little while…”
+“But, but you must keep your promise to talk for a little while...”
 
 “Don’t worry about that.”
 
@@ -281,19 +281,19 @@ When he removed the ownership seal, a bright light shone from his heart, and a t
 
 It looked ordinary at first glance, but up close, dozens of tiny magic circles overlapped inside.
 
-Wow, a sub-space implanted inside the body rather than a bracelet…That must’ve been expensive.
+Wow, a sub-space implanted inside the body rather than a bracelet...That must’ve been expensive.
 
 “You’ve got something nice.”
 
-“…I got lucky.”
+“...I got lucky.”
 
 Figures. Scumbags always live well.
 
-“Y-You’ll need a mage to re-implant it later to use it…”
+“Y-You’ll need a mage to re-implant it later to use it...”
 
 “I know, so there’s no need to explain.”
 
-“……”
+“......”
 
 “Alright, I’ll give you ten minutes.”
 
@@ -311,41 +311,41 @@ Before he opened his mouth, he looked like a broadcaster preparing to go on air.
 
 Then—
 
-“Pshhit…”
+“Pshhit...”
 
 He smiled.
 
 Just like when he wore the clown mask.
 
-And…
+And...
 
-…He’s smiling?
+...He’s smiling?
 
 As if hearing my thoughts, he spoke.
 
 “What, did you expect me to tremble and beg for my life?”
 
-Uh…
+Uh...
 
 Would be a lie to say no, but admitting it hurt my pride. So I stayed silent.
 
 He laughed again.
 
-“Pssssit… I was truly shocked! Bjorn Jandel. Not only are you a player, but you were the Lion Mask too!”
+“Pssssit... I was truly shocked! Bjorn Jandel. Not only are you a player, but you were the Lion Mask too!”
 
-“…What exactly are you trying to do?”
+“...What exactly are you trying to do?”
 
 His dramatic tone finally got on my nerves.
 
 “Eh? I just realized I’m about to die and decided to have a final conversation.”
 
-Wow… this guy was completely in character. Honestly, I thought he was just pretending to be unhinged, but now I could tell it was real. And seeing his true madness, even I was at a loss for words.
+Wow... this guy was completely in character. Honestly, I thought he was just pretending to be unhinged, but now I could tell it was real. And seeing his true madness, even I was at a loss for words.
 
-“…Do you have no lingering attachment to life?”
+“...Do you have no lingering attachment to life?”
 
 “How could I not! But even if I poured that out, would you let me live?”
 
-…That’s true. Still, isn’t it human nature to at least try?
+...That’s true. Still, isn’t it human nature to at least try?
 
 “Pssit, I am different from those ordinary people.”
 
@@ -357,15 +357,15 @@ Wow… this guy was completely in character. Honestly, I thought he was just pre
 
 “Just, wouldn’t it be more fun that way?”
 
-Oh, I see…
+Oh, I see...
 
 It seemed his head hadn’t fully healed yet. Right, that must be why he’s spitting out such nonsense ten minutes before his death—
 
 Then I noticed something familiar in his grinning eyes.
 
-…Huh?
+...Huh?
 
-Fear, despair, regret, longing… The kind of dark emotions any living thing would feel when facing death.
+Fear, despair, regret, longing... The kind of dark emotions any living thing would feel when facing death.
 
 “Why? Are you disappointed? Because I’m not crying and begging?”
 
@@ -375,7 +375,7 @@ That’s when I realized.
 
 “You’re pretending to be fine.”
 
-“…What are you talking about? I’m perfectly fine. I was weak, you were strong. So you have every right to enjoy the victor’s privilege.”
+“...What are you talking about? I’m perfectly fine. I was weak, you were strong. So you have every right to enjoy the victor’s privilege.”
 
 “Wouldn’t it be better to be honest at the end?”
 
@@ -391,30 +391,30 @@ But at the very end, shouldn’t you take it off?
 
 That was the only bit of kindness I could offer him.
 
-But…
+But...
 
-“Ps… sit…”
+“Ps... sit...”
 
 Even after my advice, he forced that fake smile onto his lips. Still, it seemed like my words reached some part of him.
 
-“…Isn’t this world just too exhausting to live honestly in? Ah! Of course, that wouldn’t apply to someone strong like you. Pshhit!”
+“...Isn’t this world just too exhausting to live honestly in? Ah! Of course, that wouldn’t apply to someone strong like you. Pshhit!”
 
 Compared to all that talk about the law of the jungle, nature’s order, and having no complaints, this sounded far more genuine.
 
-Ha… this is driving me crazy…
+Ha... this is driving me crazy...
 
 I should’ve just killed him earlier.
 
 Even thinking that, I still found myself asking him—
 
-“…Hey. What’s your real name?”
+“...Hey. What’s your real name?”
 
 Corpse Collector. Abet Necrafeto.
 
-“Psssit… what’s this? You interested in me now?”
+“Psssit... what’s this? You interested in me now?”
 
 “Yeah.”
 
-Somehow…
+Somehow...
 
 I’d become curious about this guy.

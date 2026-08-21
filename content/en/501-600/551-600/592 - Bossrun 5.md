@@ -6,7 +6,7 @@ To be honest, this guy’s Phase 2 isn’t all that dangerous.
 
 Depending on your character’s luck stat, the number of chests you need to open varies, but usually, after opening about 500, you’ll find the mana stone and proceed to the next phase.
 
-But…
+But...
 
 ‘There’s no guarantee I’ll be that lucky.’
 
@@ -16,19 +16,19 @@ What’s needed to conquer this rift isn’t the ability to find gold, but the a
 
 From what I could tell, this guy was specialized in avoiding misfortune.
 
-‘I wasn’t expecting this though…’
+‘I wasn’t expecting this though...’
 
 But what’s this? Some kind of hidden-camera prank?
 
 As I stared at the chest emitting a brilliant golden light, my mind went blank.
 
-“Sven Parab…”
+“Sven Parab...”
 
 “Huh? Ah, yes, Baron.”
 
 “Before opening the chest, did you feel anything strange?”
 
-“No…? It felt the same as usual…”
+“No...? It felt the same as usual...”
 
 So does that mean we just got lucky?
 
@@ -38,7 +38,7 @@ A character with the ability to sense misfortune and an incredible natural luck?
 
 At this point, it seems like this world should introduce a new Numbers item.
 
-Maybe something like…
+Maybe something like...
 
 Parab’s golden relic .
 
@@ -48,7 +48,7 @@ Or maybe a single-digit Numbers item below 10.
 
 Yeah, that would balance things out.
 
-“Uh… so what is this thing?”
+“Uh... so what is this thing?”
 
 His question snapped me out of my thoughts.
 
@@ -82,7 +82,7 @@ Rustle.
 
 I reached into the still-glowing chest and my fingers closed around something round.
 
-“…What’s it used for?”
+“...What’s it used for?”
 
 I grinned and explained the item’s purpose.
 
@@ -108,7 +108,7 @@ Even after defeating every type of monster, you will need around 14,000 EXP to r
 
 While you can kill all the monsters, you’ll still have to grind through multiple portal and rift runs to fill the rest, which is nearly impossible.
 
-“And I just got it like this…”
+“And I just got it like this...”
 
 Honestly, I was stunned.
 
@@ -120,7 +120,7 @@ But, back then, that character had it easy from the start, and by the end, I had
 
 Anyway.
 
-“…….”
+“.......”
 
 After chugging the potion in one go, I noticed Parab sulking with his shoulders slumped.
 
@@ -136,7 +136,7 @@ It didn’t sound like a polite remark; he genuinely meant it. There was a hint 
 
 “Haha, don’t look at me like that. It’s useless to me anyway, and you said it’s impossible to take it out even with distortion magic, right?”
 
-“Well, that’s true, but…”
+“Well, that’s true, but...”
 
 Hearing him say that first made me feel indebted somehow. If something good comes up later, I’ll prioritize him.
 
@@ -146,7 +146,7 @@ The longer we spent time here, the tougher the boss would get. So we wrapped thi
 
 And we continued chatting while opening the boxes.
 
-“Baron, I have a question…”
+“Baron, I have a question...”
 
 “Go ahead.”
 
@@ -160,13 +160,13 @@ The moment you open it, 5,000 EXP disappears.
 
 Naturally, your rank usually drops, and when that happens, a random number of essence slots get locked based on how many levels you lost.
 
-“That’s a maddening curse… To lose all the merits you’ve accumulated…”
+“That’s a maddening curse... To lose all the merits you’ve accumulated...”
 
 Parab didn’t doubt my words. He just tilted his head as if thinking, “How did I not know about this?”
 
 “But the curse isn’t the real problem. The real issue is the rift guardian.”
 
-“The guardian…?”
+“The guardian...?”
 
 “Yeah.”
 
@@ -182,7 +182,7 @@ Even I can’t guarantee I’d make it out alive.
 
 As we talked, we kept opening chests, and I got a clearer understanding of Sven Parab’s intuition ability.
 
-‘It doesn’t react to weak curses or monster chests… So it only activates when there’s real danger.’
+‘It doesn’t react to weak curses or monster chests... So it only activates when there’s real danger.’
 
 But even that alone is a near-mystical ability.
 
@@ -202,7 +202,7 @@ Thump–!
 
 The slimy, squishy floor pulsed like a living organism.
 
-And then…
+And then...
 
 A sticky liquid began oozing from the ceiling, floor, and walls.
 
@@ -216,7 +216,7 @@ In the game, if the liquid filled up completely, it was game over.
 
 Of course, after memorizing the map, I never got drowned again.
 
-‘Go straight, take a left at the three-way fork, then go straight for two more intersections before turning right…’
+‘Go straight, take a left at the three-way fork, then go straight for two more intersections before turning right...’
 
 I hadn’t memorized the entire map, but I knew the exact path to the mana. stone.
 
@@ -228,7 +228,7 @@ Badump Badump!
 
 A heart-shaped mana stone pulsed as if alive. Without hesitation, I swung my hammer with all my might and shattered it.
 
-And then…
+And then...
 
 Whoosh!
 
@@ -252,7 +252,7 @@ Hundreds of monsters came flooding in, like a full-blown army.
 
 Fortunately, since we arrived early and even opened the golden chest on the way, the monster ranks weren’t too high.
 
-‘At most, Rank 4…’
+‘At most, Rank 4...’
 
 Ah, for reference, if you reach here with your EXP depleted, even Rank 2 monsters can spawn.
 
@@ -282,7 +282,7 @@ It fired mana cannons straight at me, but that was the least of our worries.
 
 Its aggro resets at regular intervals, so your allies must be tough enough to survive the waves, too.
 
-And on top of that…
+And on top of that...
 
 WOOOM—!
 
@@ -290,7 +290,7 @@ Every time it released a pulse, I was pushed back even with my [Gigantification]
 
 “Quit standing around! I’ll clear a path, so just follow me up! Don’t act like an idiot!”
 
-“Y-Yes…!”
+“Y-Yes...!”
 
 I spoke more harshly than usual, but I had no choice.
 
@@ -306,13 +306,13 @@ Most of them tumbled down the stairs, but the unlucky ones fell into the endless
 
 Not that it mattered, new ones just kept spawning.
 
-“…Damn.”
+“...Damn.”
 
 Amidst the chaos, I realized I’d been separated from Sven Parab.
 
 And now, a horde of monsters stood between us.
 
-“Saving him might take longer than killing the boss…”
+“Saving him might take longer than killing the boss...”
 
 Game-trained instincts kicked in, and I made the most rational choice.
 
@@ -320,21 +320,21 @@ The horde was the real challenge. If I could just get close, the boss wasn’t t
 
 But still, he’s an ally. Wouldn’t it be right to go back for him?
 
-‘…What do I do?’
+‘...What do I do?’
 
 As I agonized over it—
 
-“I’ll hold out! Go on ahead…!”
+“I’ll hold out! Go on ahead...!”
 
 He shouted, letting me move forward without regret.
 
-And then…
+And then...
 
 [You used ‘Swing.’]
 
 [You used ‘Swing.’]
 
-[You used ‘Swing’…]
+[You used ‘Swing’...]
 
 I finally reached the main body and swung my hammer wildly.
 
@@ -344,7 +344,7 @@ CRACK—!
 
 Eventually, the massive mana stone shattered into thousands of pieces.
 
-And then…
+And then...
 
 [The Character has defeated Soulkeeper Hausiel. EXP +6]
 
@@ -354,11 +354,11 @@ The monster army dissolved into light, flooding the entire space.
 
 In that radiance, I quickly searched for Sven Parab.
 
-“Hah…”
+“Hah...”
 
 He had rolled down to the middle of the staircase, gasping for breath and looking terrible.
 
-“I… I lived…”
+“I... I lived...”
 
 Sigh, I really need to take good care of this guy from now on.
 
@@ -366,7 +366,7 @@ Sigh, I really need to take good care of this guy from now on.
 
 With the boss fight over, a portal opened. And a rainbow-colored essence dropped.
 
-‘Ugh… I have to leave this behind.’
+‘Ugh... I have to leave this behind.’
 
 No words can describe how painful this is.
 
@@ -384,11 +384,11 @@ However, the item sells very well.
 
 There’s even a famous story about a marquis family buying it for billions of Stones a few years ago.
 
-‘I heard his wife took it and filled all seven essence slots with beauty-related ones…’
+‘I heard his wife took it and filled all seven essence slots with beauty-related ones...’
 
 It’s absurd, but that’s the kind of thing that happens every day in this world.
 
-‘Well, I’ve already made enough money since coming down here. Getting out is the top priority…’
+‘Well, I’ve already made enough money since coming down here. Getting out is the top priority...’
 
 Putting aside my greed, I stepped through the portal with Parab.
 
@@ -400,22 +400,22 @@ In the heavy silence, everyone gathered around the stone statue was staring in o
 
 I quickly turned my head to see what they were looking at.
 
-‘The door is already open…’
+‘The door is already open...’
 
 Was it because we took too long after defeating the boss?
 
 The tightly sealed stone door was now wide open, revealing what had been hidden inside.
 
-“A portal…?”
+“A portal...?”
 
 A red portal that felt ominous just from looking at it.
 
 A mage murmured at the sight.
 
-“This isn’t a normal portal. This magical wavelength is…”
+“This isn’t a normal portal. This magical wavelength is...”
 
-“…?”
+“...?”
 
-“A rift… It’s a rift!”
+“A rift... It’s a rift!”
 
 The Rift on the Basement floor 1 had opened.

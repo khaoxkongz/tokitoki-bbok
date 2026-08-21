@@ -6,7 +6,7 @@ According to what I was told, he drew a cart toward the imperial capital to save
 
 Astarotta had been “kind” enough to mention that those Noark bastards had even taken Rottmiler’s head as a trophy.
 
-But…
+But...
 
 ‘They don’t know yet.’
 
@@ -34,7 +34,7 @@ Rotmiller was dead, leaving behind only a brief, urgent message for me.
 
 That was the only fact I needed to remember.
 
-Aynar flinched “…Huh?”
+Aynar flinched “...Huh?”
 
 She seemed to believe that Rotmiller had reached the imperial capital safely and was doing well, but unfortunately, his story did not end happily.
 
@@ -50,7 +50,7 @@ With that brief prayer, Aynar gathered her emotions and moved on.
 
 Death was nothing new to her. Barbarians were thrown into a merciless world of survival the instant they came of age.
 
-‘…No, it’s not just Barbarians.’
+‘...No, it’s not just Barbarians.’
 
 This city was riddled with injustice, but there was one equality shared by all. Under the ever looming shadow of death, everyone stood the same.
 
@@ -62,19 +62,19 @@ Auyen, who had no personal connection to Rotmiller, showed little reaction.
 
 The stronger response came from Amelia instead.
 
-“Brown Rotmiller is dead…? While trying to save you?”
+“Brown Rotmiller is dead...? While trying to save you?”
 
 She muttered in disbelief.
 
 Her pupils, usually unmoved by most things, dilated noticeably, and for some reason her shoulders seemed to tremble.
 
-“…Are you okay?”
+“...Are you okay?”
 
 Amelia looked at me as if I were on the verge of making an extreme choice. I simply shrugged, keeping a straight face.
 
 “I’m fine. Don’t worry.”
 
-She gave me a look that clearly said, ‘There’s no way that’s true…’, but she didn’t press further.
+She gave me a look that clearly said, ‘There’s no way that’s true...’, but she didn’t press further.
 
 And it wasn’t a lie to begin with.
 
@@ -84,7 +84,7 @@ At least, for now.
 
 There were too many urgent matters demanding attention, and solving them took priority. He wouldn’t want me tripping over myself because I was looking backward.
 
-Right, so…
+Right, so...
 
 Grip—
 
@@ -96,7 +96,7 @@ And then, the sleepless nights will follow for days.
 
 Just like they always have. Dammit.
 
-“…Don’t overdo it, Bjorn.”
+“...Don’t overdo it, Bjorn.”
 
 I let Amelia’s worried words go in one ear and out the other. I appreciated the sentiment, but now was the time to look ahead.
 
@@ -118,7 +118,7 @@ And like someone bewitched, I voiced my wish.
 
 “Then can I have a private meeting with the Marquis? While holding a hammer?”
 
-“Ah… that might be a bit…”
+“Ah... that might be a bit...”
 
 Yeah, figures.
 
@@ -128,7 +128,7 @@ But of course, there was no way the Marquis would be that easy to reach.
 
 As I glared at Eltora for getting my hopes up, he panicked and hurriedly added—
 
-“B-but it’s not as if there’s absolutely no way…”
+“B-but it’s not as if there’s absolutely no way...”
 
 “What do you mean by ‘not absolutely’?”
 
@@ -138,7 +138,7 @@ I listened without much expectation.
 
 But once he finished explaining the plan—
 
-“…It might be worth trying.”
+“...It might be worth trying.”
 
 After reaching that conclusion, I decided to put the plan into action.
 
@@ -162,9 +162,9 @@ Being an “experienced veteran,” I knew there was no need for long-winded exp
 
 Like Moses parting the Red Sea, I lifted Eltora into the air.
 
-And…
+And...
 
-“…Young Lord Tercerion has been taken hostage!”
+“...Young Lord Tercerion has been taken hostage!”
 
 Without saying a single word, I succeeded in communicating my intent to everyone.
 
@@ -176,7 +176,7 @@ I was walking down the street while maintaining [Gigantification]. Amelia and Au
 
 “Ooh!”
 
-Aynar was following behind me like a large dog. Well, I could have carried Aynar too if I wanted… but she refused.
+Aynar was following behind me like a large dog. Well, I could have carried Aynar too if I wanted... but she refused.
 
 “Why bother? It is more comfortable to walk on my own two feet!”
 
@@ -206,7 +206,7 @@ They were all in the same position, after all.
 
 If they acted recklessly and the son of their allied leader were to die, it would turn into a major political crisis.
 
-And so…
+And so...
 
 Boom! Boom!
 
@@ -216,7 +216,7 @@ At a glance, it looked like an Olympic torch relay. Though instead of a torch, I
 
 And considering the Olympic torch symbolizes peace, the similarities between it and Eltora only increased.
 
-“Ghk… p-please… a little gentler…”
+“Ghk... p-please... a little gentler...”
 
 The man himself seemed to be suffering from the strain on his neck with every step I took. Of course, peace was always bought with the sacrifice of a martyr.
 
@@ -226,7 +226,7 @@ With that thought, I began to run, almost sprinting.
 
 Walking would have taken hours.
 
-“…Th-that’s where the Marquis is!”
+“...Th-that’s where the Marquis is!”
 
 “Baron Jandel has taken Young Lord Tercerion hostage and is targeting the Marquis!”
 
@@ -282,9 +282,9 @@ The one who spoke in place of the vice captain was a man who looked as though he
 
 “Ar-are you saying we should fight among ourselves? At present, I hold full authority over the Marquis’s forces! With a single word from me, you’ll have to fight every soldier standing behind me!”
 
-“Well… is that really the case?”
+“Well... is that really the case?”
 
-“…Huh?”
+“...Huh?”
 
 “The Noark Allied Forces have reached a conclusion. While Eltora Tercerion undeniably possessed the qualifications to serve as an appropriate temporary proxy, upon being captured by the enemy and becoming a prisoner, he has forfeited that qualification. In accordance with a duly drafted agreement—”
 
@@ -294,7 +294,7 @@ Gulp.
 
 The bespectacled man, who had continued speaking in a dry, bureaucratic tone, then looked at Eltora and asked:
 
-“This is just personal curiosity, but… are you actually being held hostage and making a fuss like this? Or did you just decide to switch sides altogether?”
+“This is just personal curiosity, but... are you actually being held hostage and making a fuss like this? Or did you just decide to switch sides altogether?”
 
 “Ah, no need to answer. It doesn’t matter anymore.”
 

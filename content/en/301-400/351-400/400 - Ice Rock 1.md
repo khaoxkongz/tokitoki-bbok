@@ -1,28 +1,28 @@
-Ice Rock(2)
+Ice Rock (1)
 
-Passing through the 8th floor, the grand expedition headed toward the Dark Continent.
+The grand expedition pressed onward toward the Dark Continent.
 
-We planned 20 days to traverse Ice Rock on this expedition, so we packed about three months’ worth of provisions.
+We had allotted twenty days to traverse Ice Rock, so we packed roughly three months’ worth of provisions.
 
-It’s not that we packed generously to prepare for unforeseen situations.
+It wasn’t that we had packed generously in preparation for unforeseen circumstances.
 
-Because Ice Rock isn’t a place you can pass through leisurely like that.
+Ice Rock simply wasn’t a place you could cross at a leisurely pace.
 
-It’s just that extra provisions are essential here.
+Extra provisions were essential here.
 
-In this place, due to [Hunger], food consumption triples per person, and the food can easily spoil.
+Here, [Starvation] triples each person’s food consumption, and provisions can spoil easily.
 
 All because of this damn thing.
 
 “An ice storm!!”
 
-A blizzard that blows every 30 minutes at the earliest, or as late as every six hours.
+These blizzards can strike as often as every thirty minutes, or as rarely as once every six hours.
 
-「Field Effect – ‘Festering Chill’ is applied.」
+[Field Effect – ‘Festering Chill’ is applied.]
 
-「The decay rate of affected targets accelerates.」
+[The decay rate of affected targets accelerates.]
 
-This damn storm even spoils food that’s frozen solid.
+This damned storm can even spoil food that’s frozen solid.
 
 There’s only one way to prevent it.
 
@@ -30,33 +30,33 @@ Prioritize the provisions over people and protect them with magic.
 
 Of course, there’s a problem with this too.
 
-[Riard Ashid has cast Level 4 time-space magic [Block]
+[Riard Ashid has cast the Level 4 time-space spell [Block].]
 
-[Mackelly Leiadas has cast Level 4 time-space magic [Block]
+[Mackelly Reiadus has cast the Level 4 time-space spell [Block].]
 
-[Vercil Gowland has cast Level 4 time-space magic [Block]
+[Vercil Gowland has cast the Level 4 time-space spell [Block].]
 
-The Level 4 [Block] magic consumes a significant amount of mana, and keeping it ready to use at any time increases the already high consumption.
+The Level 4 spell [Block] consumes a significant amount of mana, and keeping it ready to cast at a moment’s notice only makes that burden worse.
 
-We take turns through the night as well.
+We even took turns through the night.
 
 “Ashid, go rest by the sled.”
 
-“Pardon? But…”
+“Pardon? But...”
 
 “Don’t worry. I’ll call if anything comes up.”
 
-“…Understood. Sorry.”
+“...Understood. Sorry.”
 
-Nothing to apologize for—other mages are all resting comfortably on the sled anyway.
+There was nothing to apologize for—the other mages were all resting comfortably on the sleds anyway.
 
-「Field Effect – ‘Festering Chill’ has dissipated.」
+[Field Effect – ‘Festering Chill’ has dissipated.]
 
 After the blizzard calmed, we resumed our journey.
 
 Crunch, crunch.
 
-Snow that sinks up to the ankles with every step.
+With every step, our feet sank ankle-deep into the snow.
 
 Grrrrrr~
 
@@ -74,33 +74,33 @@ Three days into Ice Rock.
 
 Everyone was so exhausted that there was no idle chatter or silly jokes among the crew.
 
-We just silently manage our stamina and move forward.
+We simply managed our stamina in silence and kept moving forward.
 
-With no room for ease, tension cut through the expedition.
+With no room to relax, tension hung over the expedition.
 
 ‘And they want us to fight the Noark bastards after this?’
 
-In war, morale is crucial. In this state, we can’t even be sure we’ll complete the mission.
+In war, morale is crucial. In this state, we couldn’t even be sure we’d complete the mission.
 
 The only positive thing was that experience points were racking up quickly.
 
-「You defeated a Frozen Soul. EXP +4.」
+[You defeated a Frozen Soul. EXP +4.]
 
-「You defeated a Tainted Snow Spirit. EXP +6.」
+[You defeated a Tainted Snow Spirit. EXP +6.]
 
-「You defeated a Frost Guardian. EXP +7.」
+[You defeated a Frost Guardian. EXP +7.]
 
-「You defeated a Lich. EXP +6.」
+[You defeated a Lich. EXP +6.]
 
-「You defeated a Glacier Giant. EXP +7.」
+[You defeated a Glacier Giant. EXP +7.]
 
-「You defeated a Frostfire Turtle…」
+[You defeated a Frostfire Turtle...]
 
-“…….”
+“......”
 
-Most of the creatures in Ice Rock are high-level monsters, making it an ideal place to gain experience.
+Most of the creatures in Ice Rock were high-level monsters, making it an ideal place to gain experience.
 
-Not that it would get me to rank 8 anytime soon, even if I killed every creature here.
+Not that killing every creature here would get me to Rank 8 anytime soon.
 
 ‘Still, this is a rare place to reach, so I’d better hunt as much as I can.’
 
@@ -108,41 +108,41 @@ After pushing through countless fights and with our bodies worn to the bone, we 
 
 We took tents out of the crates loaded on the sleds, set them up, and put sleeping bags inside.
 
-And then…
+And then...
 
-[Used a Warming Stone]
+[You have used a Warming Stone.]
 
-If we put a few activated magic tools in the tent, a cozy shelter is completed.
+With a few activated magic tools inside, the tent became a cozy shelter.
 
 “Today, our team doesn’t have guard duty, so everyone sleep well.”
 
-Oh, by the way, throughout the expedition, there are only two guards, and since our turn is tomorrow, we could sleep comfortably tonight.
+Incidentally, only two people stood guard at a time, and since our team’s turn was tomorrow, we could sleep comfortably tonight.
 
 This was possible because we had four priests.
 
-They cast [Evil Banishment] in shifts, keeping monsters from approaching, and it’s unlikely any plunderers would target a group this large in such barren land.
+They cast [Evil Banishment] in shifts to keep monsters away, and it was unlikely that any plunderers would target a group this large in such barren terrain.
 
 If they want their heads on their shoulders, that is.
 
 “Good night, see you tomorrow, Mister.”
 
-We assigned three people to each tent, split by gender. Even among comrades, it’s best to keep some separation between men and women.
+We assigned three people to each tent, split by gender. Even among comrades, it was best to maintain some separation between men and women.
 
-I prefer sleeping among the men, anyway.
+I preferred sleeping among the men, anyway.
 
-Though, the mage and Old Didi might find it a bit cramped.
+Though the mage and Old Didi might find it a bit cramped.
 
-“Ashid, Old Diddy. You two get some sleep.”
+“Ashid, Old Didi. You two get some sleep.”
 
 “Are you doing the rounds?”
 
 “Well, I am the expedition leader.”
 
-After sending off Old Diddy and Ashid, I looked around the camp to ensure everything was secure.
+After sending off Old Didi and Ashid, I looked around the camp to ensure everything was secure.
 
 Despite it being early, I could already hear snoring here and there.
 
-Everyone must be exhausted.
+Everyone must have been exhausted.
 
 ‘Looks like everything’s in order. Guess I should turn in too.’
 
@@ -156,11 +156,11 @@ As I turned toward my team’s tent, I heard footsteps and turned around.
 
 “Mind taking a walk with me?”
 
-Soon, we walked a big circle around the edge of the camp as we talked.
+We soon walked a wide circuit around the edge of the camp as we talked.
 
 “Recently, discontent is growing among the members.”
 
-Discontent, huh…
+Discontent, huh...
 
 It was obvious what kind of complaints they had.
 
@@ -180,15 +180,15 @@ Kaislan shook his head.
 
 “So, there’s something more?”
 
-“…Someone is spreading malicious rumors within the expedition.”
+“...Someone is spreading malicious rumors within the expedition.”
 
 “Rumors? What kind?”
 
 “They say that while the rest of the crew’s rations have been cut, Team 1 has been hoarding supplies.”
 
-“I see…”
+“I see...”
 
-“So, that’s how it is…”
+“So, that’s how it is...”
 
 I unconsciously sighed in front of Kaislan.
 
@@ -200,19 +200,19 @@ And this is supposed to be the elite gathered by the royal family?
 
 “Do you know where the rumor originated?”
 
-“Pike Neldaine.”
+“Pike Neldain.”
 
 “A member of James Carla’s team.”
 
 By the way, this guy was also a warrior like me, and at the last banquet, he’d come over with a big grin to introduce himself.
 
-Tsk, big guy acting so cowardly.
+Tsk. Such a big guy, acting so cowardly.
 
-Oh, maybe because he’s big, he’s hungry and can’t think straight?
+Or maybe he was so big that hunger had stopped him from thinking straight?
 
 “What will you do?”
 
-“Well…”
+“Well...”
 
 As I trailed off, Kaislan suggested some countermeasures.
 
@@ -222,21 +222,21 @@ As I trailed off, Kaislan suggested some countermeasures.
 
 “If you wish, I’ll make a big scene in front of all the members, so they won’t even think of hating you.”
 
-Haha… I didn’t expect him to say such loyal words.
+Haha... I didn’t expect him to say such loyal words.
 
-Feeling curious, I listened to his following words.
+Curious, I listened to what he said next.
 
 “Or you could use Akuraba. Managing supplies was her duty, and regardless of the reason, this mess happened because she didn’t perform her duty properly.”
 
 He wasn’t wrong.
 
-Whether the frontline collapsed or not, Akuraba should have protected the supplies.
+Regardless of whether the front line collapsed, Akuraba should have protected the supplies.
 
-But…
+But...
 
 “With her reputation as an esteemed explorer, people might hesitate to bring it up, but if it’s brought up, they would all want to blame her.”
 
-So, he doesn’t like her after all.
+So he didn’t like her after all.
 
 Before I answered, I had one more question for him.
 
@@ -254,9 +254,9 @@ That was unexpected.
 
 Honestly, I thought he’d be the first to seize my position if I looked vulnerable.
 
-Maybe it’s because he’s a former soldier?
+Maybe it was because he was a former soldier?
 
-Kaislan’s the type who prioritizes the mission over personal ambition.
+Kaislan was the type who prioritized the mission over personal ambition.
 
 “So, what’s it going to be?”
 
@@ -280,7 +280,7 @@ But so what?
 
 “I don’t care what they say.”
 
-“…?”
+“...?”
 
 “That’s why they’re the crew, and I’m the commander.”
 
@@ -290,11 +290,11 @@ From the start, I never intended to enjoy all the perks alone.
 
 Day 9 in Ice Rock.
 
-Despite the initial hiccups, the expedition trudged on, and we’re now about halfway through.
+Despite the initial setbacks, the expedition trudged on, and we were now about halfway through.
 
 After the plains ended, we faced a huge ice mountain.
 
-We don’t have to climb this mountain; rather, our direction is beneath it.
+We didn’t have to climb the mountain. Our route led beneath it.
 
 “We’ve found the entrance!”
 
@@ -304,11 +304,11 @@ Thud, thud.
 
 The sound of boots echoed against the hard ground.
 
-But the atmosphere isn’t as gloomy as before.
+But the atmosphere wasn’t as gloomy as before.
 
-Isn’t it the same in military boot camps?
+Wasn’t it the same in military boot camps?
 
-When you go through hard times together, you naturally form close bonds.
+When people go through hard times together, they naturally form close bonds.
 
 “The ice here is as clear as glass. It feels almost like stepping into a dream.”
 
@@ -316,9 +316,9 @@ When you go through hard times together, you naturally form close bonds.
 
 Of course, the change in mood was largely due to a newfound stamina among the crew.
 
-Half of the members were newcomers, so there were many trials and errors at first…
+Half the members were newcomers, so there had been plenty of trial and error at first...
 
-But now, everyone has more or less adapted.
+But by now, everyone had more or less adapted.
 
 “Ugh, I’m starving. I now understand why everyone avoids Ice Rock.”
 
@@ -328,7 +328,7 @@ But now, everyone has more or less adapted.
 
 Ah, it wasn’t just the atmosphere that had changed.
 
-This once-disjointed expedition crew was finally moving like a single unit.
+The once-disjointed expedition was finally moving like a single unit.
 
 Just like this.
 
@@ -336,31 +336,31 @@ Just like this.
 
 “While Team 1 holds the front, Teams 2 and 3 will take down the side enemies first!”
 
-The crew responded promptly and executed orders without hesitation.
+The crew responded promptly, carrying out orders without hesitation.
 
-When orders are given, the members swiftly carry them out without fuss.
+Whenever an order was given, the members carried it out swiftly and without fuss.
 
-[You have defeated a Frozen Webtor. EXP +5]
+[You have defeated a Frozen Webtor. EXP +5.]
 
-[You have defeated an Unmelting Cocoon. EXP +6]
+[You have defeated an Unmelting Cocoon. EXP +6.]
 
-[You have defeated a Frostfire Goblin. EXP +5]
+[You have defeated a Frostfire Goblin. EXP +5.]
 
-Battles themselves have become much easier than before.
+The battles themselves had become much easier than before.
 
-Should I say they’re finally acting like elites?
+Should I say they were finally starting to act like elites?
 
 Oh, and there was another positive aspect.
 
 “Schuiz, I must say, your combat skills are impressive.”
 
-In the explorer community, strength commands respect. By staying in the front lines, taking on the most dangerous tasks, my reputation naturally improved.
+In the explorer community, strength commands respect. By staying on the front line and taking on the most dangerous tasks, my reputation naturally improved.
 
 That absurd rumor about me sneaking rations disappeared as well.
 
 Actions speak louder than words—
 
-Crrkk-
+Crrkk—
 
 Hm?
 
@@ -368,7 +368,7 @@ A sudden noise caught my attention, setting off an alarm in my mind.
 
 “Erwin, did you hear that?”
 
-“I think so. It sounded like it came from behind…”
+“I think so. It sounded like it came from behind...”
 
 From behind?
 
@@ -400,19 +400,19 @@ Explorers near the center of the crack scrambled to safety, while a few brave on
 
 “If we lose those, we’re done for!”
 
-The explorers pull the sled as hard as they can, being careful not to add to the load.
+The explorers pulled the sled as hard as they could, careful not to add any more weight.
 
 But the ground was collapsing faster.
 
-Crack, Crack, Crack!
+Crack, crack, crack!
 
 The ground caved in like a sinkhole.
 
 Two explorers who hadn’t managed to move the sled in time fell into the endless darkness along with it.
 
-And at that moment.
+And at that moment—
 
-[Riard Ashid has cast Level 5 support magic [Float]
+[Riard Ashid has cast the Level 5 support spell [Float].]
 
 Miraculously, the two explorers floated upward.
 
@@ -432,7 +432,7 @@ Only after the order was given did the stiffened members start to move.
 
 I cautiously approached the edge and looked down.
 
-Using a mage to shine light, as expected, water was flowing below, and there was no trace of the sled.
+With a mage shining light into the chasm, we confirmed that water was flowing below. As expected, there was no trace of the sled.
 
 “Akuraba!!”
 
@@ -442,29 +442,17 @@ Using a mage to shine light, as expected, water was flowing below, and there was
 
 “Uh, about half!”
 
-Great, as if we didn’t already have a shortage, now we’re down even more.
+Great. As if we weren’t already short on supplies, now we had even less.
 
-“…….”
-
-As I clenched my teeth in frustration, Akuraba started watching my expression nervously.
-
-“Um….”
-
-“Be quiet. I’m thinking.”
-
-“Uh, about half!”
-
-Great, as if we didn’t already have a shortage, now we’re down even more.
-
-“…….”
+“......”
 
 As I clenched my teeth in frustration, Akuraba started watching my expression nervously.
 
-“Um….”
+“Um...”
 
 “Be quiet. I’m thinking.”
 
-“…….”
+“......”
 
 I couldn’t make sense of it.
 
@@ -472,7 +460,7 @@ I couldn’t make sense of it.
 
 No matter how I looked at it, this didn’t add up.
 
-So…
+So...
 
 “Akuraba.”
 
@@ -486,10 +474,10 @@ First, I needed to confirm a few things.
 
 After verifying this, things would become clearer.
 
-Whether this was merely an unfortunate series of coincidences…
+Whether this was merely an unfortunate series of coincidences...
 
-Or…
+Or...
 
 “Check as soon as possible. This is important.”
 
-…if this was a disaster caused by someone’s malicious intent.
+...if this was a disaster caused by someone’s malicious intent.

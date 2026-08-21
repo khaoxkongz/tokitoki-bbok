@@ -40,7 +40,7 @@ Still, I was a little curious myself, so I checked the replies.
 
 Chilling thought.
 
-Going brain-dead just because you didn’t log out in time…
+Going brain-dead just because you didn’t log out in time...
 
 It sounded ridiculous, but considering how strange this space was, I couldn’t completely rule it out.
 
@@ -62,7 +62,7 @@ Not as the mysterious Lion Mask, nor as the ordinary office worker Lee Han-soo.
 
 But as—
 
-“…You came out six seconds earlier than usual. Did something happen inside?”
+“...You came out six seconds earlier than usual. Did something happen inside?”
 
 Bjorn Jandel.
 
@@ -72,7 +72,7 @@ Every time I returned from the community, Amelia was always there.
 
 No matter how many times I told her she didn’t need to do that, she’d always sneak in by the time I opened my eyes. Eventually, I just gave up.
 
-Honestly, I wasn’t ungrateful, but…
+Honestly, I wasn’t ungrateful, but...
 
 “You said you were just going to bed? Are you lying to me now?” I asked
 
@@ -86,7 +86,7 @@ Couldn’t sleep, my foot.
 
 I stifled a laugh as I looked at her, and Amelia continued, as if making an excuse.
 
-“…And you never know what might happen inside the labyrinth.”
+“...And you never know what might happen inside the labyrinth.”
 
 Well, she wasn’t wrong.
 
@@ -96,7 +96,7 @@ As I sat up, Amelia handed me a glass of water and asked again.
 
 “The community shut down today.”
 
-“Shut down…?”
+“Shut down...?”
 
 After gulping down the water to soothe my dry throat, I explained in more detail.
 
@@ -104,11 +104,11 @@ The notice that appeared as soon as I entered the community.
 
 And the information about the shutdown I’d gathered from the round table.
 
-“Hmm, Auril Gavis was involved in the shutdown…”
+“Hmm, Auril Gavis was involved in the shutdown...”
 
 “The official reason was to prevent the evil spirits from becoming complacent, but that can’t be the real reason. What do you think? Does anything come to mind?”
 
-“Well… If I think of something, I’ll tell you right away.”
+“Well... If I think of something, I’ll tell you right away.”
 
 Tch. As expected, she didn’t have any leads either.
 
@@ -118,21 +118,21 @@ Just as I was thinking that, Amelia’s tone shifted and she locked eyes with me
 
 “So, Jandel. What else happened in there?”
 
-“…Huh?”
+“...Huh?”
 
 “You wouldn’t be making that face just because the community got shut down.”
 
-“What kind of face…?”
+“What kind of face...?”
 
 As I tilted my head, Amelia spoke carefully.
 
-“Maybe I’m wrong, but…”
+“Maybe I’m wrong, but...”
 
 “Don’t beat around the bush. Just say it.”
 
-“…You look like you’re in pain.”
+“...You look like you’re in pain.”
 
-Ah…
+Ah...
 
 “Did something else happen in there?”
 
@@ -146,7 +146,7 @@ It wasn’t like it was a secret anyway.
 
 Besides, it felt wrong to lie to someone staring at me with such sincere eyes.
 
-“So… that’s what happened in there.”
+“So... that’s what happened in there.”
 
 It didn’t take long to explain everything.
 
@@ -170,7 +170,7 @@ Maybe that’s why I reflexively argued back:
 
 “But the core of the problem is Misha Kalstein, isn’t it?”
 
-“……”
+“......”
 
 “Am I wrong?”
 
@@ -186,7 +186,7 @@ She meant the day I said nothing happened.
 
 It was the day Missha stopped talking to everyone and began sitting alone in the corner.
 
-‘…Where should I even start?’
+‘...Where should I even start?’
 
 After a brief hesitation, I decided to begin from the very beginning.
 
@@ -202,21 +202,21 @@ Before I could explain my conflict with Misha, I had to explain this first—som
 
 “I asked if she knew that using the Stone of Resurrection would erase all of the target’s memories from their past life. She said she didn’t know. So I said, ‘I see,’ and told her to leave.”
 
-“So… what happened after that?”
+“So... what happened after that?”
 
 I answered with a sigh.
 
 “Misha didn’t leave. She begged me to say something—even if it was just yelling at her. So I told her the truth.”
 
-“……”
+“......”
 
-‘I don’t… think I can trust you.’
+‘I don’t... think I can trust you.’
 
 ‘Even after hearing your explanation, my first thought was that you might still be hiding something.’
 
 With those words, there was a brief moment of silence between us.
 
-“…And then?”
+“...And then?”
 
 “That was it.”
 
@@ -230,13 +230,13 @@ After listening, Amelia stayed quiet for a long time, sorting through her though
 
 “Why didn’t you tell us about Misha Kalstein?”
 
-Honestly… I don’t know. Why didn’t I?
+Honestly... I don’t know. Why didn’t I?
 
 Why hadn’t I told Amelia about the Stone of Resurrection?
 
 Part of me wanted to dodge the question, but the truth was, I already knew why.
 
-“…Because Misha would be isolated.”
+“...Because Misha would be isolated.”
 
 Her position in our clan was already precarious.
 
@@ -258,7 +258,7 @@ Just as I was struggling to understand my own feelings, Amelia finally nodded in
 
 “So that’s why. You couldn’t use ‘Misplaced Trust’ on Misha Kalstein.”
 
-“……”
+“......”
 
 “You must have thought she was still hiding something.”
 
@@ -284,7 +284,7 @@ It sounded like criticism, but her eyes were gentle.
 
 “Well, then you’ll just have to figure it out again.”
 
-“That’s… a little irresponsible, don’t you think?”
+“That’s... a little irresponsible, don’t you think?”
 
 “But you know you can’t put this off forever.”
 
@@ -294,23 +294,23 @@ As I let out a long sigh of frustration, Amelia spoke up comfortingly.
 
 “Do what you have to do, no matter how much you don’t want to do it.”
 
-‘…….’
+‘.......’
 
 “Bjorn Jandel. Be yourself.”
 
-Be yourself…….
+Be yourself.......
 
 I wonder what kind of person Amelia sees me as.
 
 And then I wondered how I saw her.
 
-“…Why are you looking at me like that?”
+“...Why are you looking at me like that?”
 
-“Just… you seem more mature than usual?”
+“Just... you seem more mature than usual?”
 
 An unfiltered, honest remark.
 
-“Ugh…?”
+“Ugh...?”
 
 For some reason, Amelia flinched as if she’d been punched in the gut.
 
@@ -318,7 +318,7 @@ After staring at me for a moment, she sighed.
 
 “I’ll take that as a compliment.”
 
-Uh… was there any other way to take it?
+Uh... was there any other way to take it?
 
 ---
 
@@ -328,7 +328,7 @@ I went straight to the village chief to retrieve the “Distorted Trust” for M
 
 Even then, I hesitated.
 
-‘Is it really okay to use this…?’
+‘Is it really okay to use this...?’
 
 Not because I was afraid of what Misha might be hiding, but because it just felt wrong to use something like this on a comrade.
 
@@ -340,13 +340,13 @@ And could I still call that a “comrade” relationship?
 
 It was a fundamental dilemma.
 
-But…
+But...
 
 ‘This is the last time I’ll use it.’
 
 I didn’t know what the future would bring, but after making that vow, I felt a little less hesitant.
 
-Right. So now…
+Right. So now...
 
 Knock, knock, knock.
 
@@ -358,23 +358,23 @@ No response. She didn’t seem to be asleep, though.
 
 I knocked again and called out. Soon, I heard movement inside.
 
-“Eh? Oh? B-Bjorn? J-Just a minute…”
+“Eh? Oh? B-Bjorn? J-Just a minute...”
 
 The door finally opened—after nearly five minutes.
 
-“What’s… going on…? At this early hour…”
+“What’s... going on...? At this early hour...”
 
 Despite rumors of her living like a shut-in, she looked surprisingly neat. Her hair was still damp, as if she’d just washed it.
 
 “Can I come in for a minute?”
 
-“Uh… It’s a bit messy, but…”
+“Uh... It’s a bit messy, but...”
 
 “It’s fine.”
 
 Without waiting, I stepped inside and immediately pulled out ‘Misplaced Trust.’
 
-“That’s…”
+“That’s...”
 Misha recognized it right away, and a swirl of emotions crossed her face.
 
 Relief. Happiness. Disappointment. Fear.
@@ -383,15 +383,15 @@ Neither of us said anything for a moment.
 
 Eventually, I forced the words out of my mouth.
 
-“Before we talk… I want to turn this on. Will you let me?”
+“Before we talk... I want to turn this on. Will you let me?”
 
 After a pause, she finally replied—not with an answer, but with a question of her own:
 
-“…If I answer everything after you turn that on…
+“...If I answer everything after you turn that on...
 
-“……”
+“......”
 
-“…Then can we go back? To how things used to be?”
+“...Then can we go back? To how things used to be?”
 
 Before answering, a question surfaced in my mind.
 
@@ -413,7 +413,7 @@ Then, maybe we really could go back.
 
 Back to a time when I didn’t have to agonize over things like this.
 
-“…Okay.”
+“...Okay.”
 
 Misha clenched her fists tightly and nodded.
 
@@ -421,6 +421,6 @@ With that, I began the real questioning.
 
 [The character has used [Misplaced Trust].]
 
-I always think this, but…
+I always think this, but...
 
 What a perfectly fitting name for this thing.

@@ -8,7 +8,7 @@ Because I’ve experienced it before.
 
 When I was thrown back in time through a Record Fragment, I did everything I could, causing chaos and forcing countless changes, just to stop one person from dying. But in the end, I still failed.
 
-Everything inscribed on the Records Stone was bound to come true. Of course, there were loopholes like Amelia’s little illusion that could bend the rules…
+Everything inscribed on the Records Stone was bound to come true. Of course, there were loopholes like Amelia’s little illusion that could bend the rules...
 
 ‘But such tricks probably won’t work this time.’
 
@@ -16,9 +16,9 @@ What was I supposed to do? I couldn’t exactly ask them to pretend to be dead j
 
 Badump-!
 
-Three people…
+Three people...
 
-‘Three…’
+‘Three...’
 
 In [Dungeon & Stone], losing party members was practically routine.. So why does this small number feel so vast and despairing?
 
@@ -30,28 +30,28 @@ Who could the three be?
 
 Or, more accurately, who did I hope they would be?
 
-It was a thought no leader should ever have. But in that moment…
+It was a thought no leader should ever have. But in that moment...
 
-“Knowing the outcome must be truly painful… isn’t it?”
+“Knowing the outcome must be truly painful... isn’t it?”
 
 Auril Gavis, who had thrown the biggest dilemma of my life at me, nodded as if he understood.
 
 My blood boiled instantly.
 
-“…What?”
+“...What?”
 
 I wanted to punch that wrinkled old face right then and there.
-But…
+But...
 
-“……”
+“......”
 
-I had to endure. Punching him here would only put me at a disadvantage.…
+I had to endure. Punching him here would only put me at a disadvantage....
 
-“When…”
+“When...”
 
 I forced down a shiver, tightened my jaw, and asked him, trying to keep my composure.
 
-“Do you…know when it’ll happen? When these recorded events will actually take place?”
+“Do you...know when it’ll happen? When these recorded events will actually take place?”
 
 “I cannot know. If the Record Stone were complete, perhaps. But with only a broken fragment, it is difficult to determine the timing.”
 
@@ -65,7 +65,7 @@ In other words, it didn’t mean three people would die over the course of my li
 
 I clenched my jaw tightly as I asked.
 
-“……Can you tell me who those three are?”
+“......Can you tell me who those three are?”
 
 A question I had agonized over hundreds, thousands of times before deciding to voice it.
 
@@ -79,7 +79,7 @@ Oddly enough, that answer made me angry and relieved at the same time. If he had
 
 “You seem conflicted. Are your comrades that important to you?”
 
-“…Don’t provoke me. I’m really at my limit right now.”
+“...Don’t provoke me. I’m really at my limit right now.”
 
 “If you say so.”
 
@@ -105,9 +105,9 @@ Well, there’s nothing I can do now about something that’s already been “re
 
 I decided this was the first thing I needed to figure out. This old man loved toying with people, and there was no way he showed me this without a reason.
 
-“The reason… If I’m being honest, it was close to acting on a whim. If you had just left earlier, or not asked what this place was, I wouldn’t have shown it to you.”
+“The reason... If I’m being honest, it was close to acting on a whim. If you had just left earlier, or not asked what this place was, I wouldn’t have shown it to you.”
 
-“……”
+“......”
 
 “You look like you don’t believe me.”
 
@@ -117,7 +117,7 @@ But then—
 
 “No matter how I look at it, you are the former.”
 
-“…?”
+“...?”
 
 “You said earlier that you belonged to the latter category, but that’s only because you want to be,” he said. “In reality, you’re part of the former.”
 
@@ -129,41 +129,41 @@ It felt like he was insisting on the point just for the sake of it, but I didn�
 
 “Of course, that doesn’t mean I’m disappointed in you. If I asked a hundred people this question, every one of them would choose ‘truth,’ but when actually faced with that situation, they would change their decision.”
 
-“…….”
+“.......”
 
-“Isn’t that right, Bjorn Jandel… no, Lee Han-soo?”
+“Isn’t that right, Bjorn Jandel... no, Lee Han-soo?”
 
 Damn, now I have nothing to say. Let’s stop trying to beat this old man in a battle of words.
 
-“…Fine. So you’re saying this only happened because I talked to you first, and you weren’t planning anything else.”
+“...Fine. So you’re saying this only happened because I talked to you first, and you weren’t planning anything else.”
 
 As I spoke in a resigned tone, Auril Gavis looked up at the Fragments of the Records Stone drifting through the galaxy-like space, his eyes filled with bitterness.
 
-“I don’t know what you think of me, but I am not some monster. Also, as Baek-ho said, I am not omnipotent either…”
+“I don’t know what you think of me, but I am not some monster. Also, as Baek-ho said, I am not omnipotent either...”
 
-“…….”
+“.......”
 
 “I am just an ordinary human being who struggles and gives my all for one goal. The same as you.”
 
-Well… I don’t know about that.
+Well... I don’t know about that.
 
 Sorry to ruin the mood, but no matter how you say it, you still look like a lunatic old man to me. Not that I planned to say that out loud.
 
-“…Since I’m already here, can I look at other things too?”
+“...Since I’m already here, can I look at other things too?”
 
 “Your companions must be waiting outside. Is that fine?”
 
-“…Companions, my ass.”
+“...Companions, my ass.”
 
 Calling them “companions” was too much; they were more like ‘traveling acquaintances’.
 
 “It’s fine. Don’t worry about them.”
 
-“Hmmm. In that case, I suppose I can show you one more. But which would be best…? Ah, how about you choose one yourself this time?”
+“Hmmm. In that case, I suppose I can show you one more. But which would be best...? Ah, how about you choose one yourself this time?”
 
 His proposal wasn’t bad. If I could choose what to look at instead of being shown things at random, I could at least lessen his chances of tricking me.
 
-“…….”
+“.......”
 However, as I hesitated for a long time over what to choose, Auril Gavis seemed to grow impatient and added something else.
 
 “What are you thinking so deeply about? Whatever you choose will be according to your fate anyway.”
@@ -178,11 +178,11 @@ Out of all the record fragments, I picked the biggest one. I figured the larger 
 
 However, the old man seemed to have memorized everything written on these fragments.
 
-“Hmm… Of all the fragments, you had to choose that one.”
+“Hmm... Of all the fragments, you had to choose that one.”
 
 “Why? Is there a problem?”
 
-“No, it’s not that there’s a problem per se… Well, if this is your fate, then so be it.”
+“No, it’s not that there’s a problem per se... Well, if this is your fate, then so be it.”
 
 He asked me one last time whether I wanted to see it, and after a moment of thought, I confirmed my decision.
 
@@ -196,11 +196,11 @@ Why are there so many blank spaces?
 
 Even though it looked like the largest fragment, once I got closer I realized a lot of it was cracked and broken, leaving very little that was actually readable. Still, I read whatever parts I could.
 
-[……… On the day….non’s burning, ………… the evil spirit ‘————’ … trusted… ally… betrayed…]
+[......... On the day....non’s burning, ............ the evil spirit ‘————’ ... trusted... ally... betrayed...]
 
 First, the symbol that indicated a name was identical to the one I’d seen on the earlier fragment, which meant this text was referring to me.
 
-“The day the Imperial Capital of Carnon burned… betrayed by a trusted ally…?”
+“The day the Imperial Capital of Carnon burned... betrayed by a trusted ally...?”
 
 As I filled in the missing bits based on context, that was roughly the meaning.
 
@@ -208,7 +208,7 @@ As I filled in the missing bits based on context, that was roughly the meaning.
 
 “No matter what the situation is, how you interpret it is entirely up to you.”
 
-“… tsk…”
+“... tsk...”
 
 Not reading it might’ve been better, because my already chaotic mind only sank deeper into confusion.
 
@@ -218,7 +218,7 @@ Once again, I feel that knowing an unchangeable future is more of a curse than a
 
 “Fascinating.”
 
-“…Does my suffering bring you that much joy?”
+“...Does my suffering bring you that much joy?”
 
 “More importantly, it’s fascinating that out of all the fragments here, you chose the one featuring you. I suppose this is the power of fate.”
 
@@ -250,13 +250,13 @@ I’ve felt this before, but long conversations with this old man feels pointles
 
 It’s like, even though we’ve exchanged many words, there’s nothing I can believe.
 
-“…Since the topic came up, I’ll tell you one more thing.”
+“...Since the topic came up, I’ll tell you one more thing.”
 
-“Ha… Go ahead.”
+“Ha... Go ahead.”
 
 “Be careful of Lee Baekho.”
 
-“…Isn’t that what you said before?”
+“...Isn’t that what you said before?”
 
 As I tilted my head in confusion, Auril Gavis ignored my words and continued speaking, as if insisting I listen to his entire warning.
 
@@ -266,7 +266,7 @@ He pointed to the countless fragments orbiting above us.
 
 “Not just the ones gathered here. I’ve seen countless other Record fragments, and not a single one mentions Baekho.”
 
-“……?”
+“......?”
 
 “That is an extremely strange thing. Someone with such influence and such close ties to you has no records at all.”
 
@@ -276,7 +276,7 @@ I don’t know, but Auril Gavis continued.
 
 “So be cautious of him. If he does not appear in the Records, that means he is free from them. He’s not completely free, but he’s a lot freer than the rest of us.”
 
-“…I’m already keeping an eye on that guy, so don’t worry.”
+“...I’m already keeping an eye on that guy, so don’t worry.”
 
 “That is fortunate then.”
 
@@ -290,7 +290,7 @@ I don’t know, but Auril Gavis continued.
 
 With those final words, Auril Gavis silently watched me, and I didn’t say anything else either. I just scanned the old man up and down one more time, exchanged a nod, and stepped into the portal.
 
-And then…
+And then...
 
 “Oh! You’re here!”
 
@@ -313,7 +313,7 @@ Ignoring Baek-ho’s fussing, I recalled the Record Fragment I had just read.
 
 Something flashed in my mind like a bolt of lightning.
 
-[“The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take……”]
+[“The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take......”]
 
 The Record Fragment didn’t mention the names of the companions.
 

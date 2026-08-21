@@ -20,7 +20,7 @@ No.17 Anthony Bolton
 Status: Deceased
 Notes: Body transferred to the 7th mortuary. Personal belongings are being held by a clan member who escaped with him.
 
-…Hah. This guy was probably one of those from the smaller clans that followed us out of the Sanctuary…
+...Hah. This guy was probably one of those from the smaller clans that followed us out of the Sanctuary...
 
 No.19 Gelta Pane
 Status: Deceased
@@ -28,7 +28,7 @@ Notes: The body could not be recovered, but credible eyewitness accounts confirm
 
 My heart sank each time I saw a name I didn’t just recognize, but had seen many times before.
 
-But…
+But...
 
 Clench.
 
@@ -44,28 +44,28 @@ They may have been under my command, but realistically speaking, they weren’t 
 
 “And besides, aren’t there specific people you really want to check on?”
 
-Well… he wasn’t wrong. Unable to deny it, I silently resumed reading, and before long, the names I truly wanted to confirm appeared.
+Well... he wasn’t wrong. Unable to deny it, I silently resumed reading, and before long, the names I truly wanted to confirm appeared.
 
 No.119 Sven Parav
 Status: Alive
 
 Notes: Currently assigned to the 7th Corps, 4th Wall Garrison under mandatory service.
 
-…Ha. He’s alive.
+...Ha. He’s alive.
 
-I’d heard he went missing during the chaos, so I’d been worried…
+I’d heard he went missing during the chaos, so I’d been worried...
 
 Then again, with instincts like his, it’d be stranger if he died just because a war broke out.
 
-“…Did you pull some strings to get him assigned to the 4th Wall corps?” I asked after reading the note.
+“...Did you pull some strings to get him assigned to the 4th Wall corps?” I asked after reading the note.
 
 After all, the 4th Wall corps was positioned along the wall bordering Gnomtree.
 
 It was called a post, but in reality, it was practically a standby position.
 
-“…Isn’t that obvious? Do you know how many people are trying to get assigned there right now? I placed the others there too. They should all be getting along just fine.”
+“...Isn’t that obvious? Do you know how many people are trying to get assigned there right now? I placed the others there too. They should all be getting along just fine.”
 
-“…I see. Thanks for looking out for them.”
+“...I see. Thanks for looking out for them.”
 
 I kept reading.
 
@@ -123,7 +123,7 @@ I couldn’t smile.
 
 Only one question filled my mind.
 
-‘Then why…?’
+‘Then why...?’
 
 Why is everyone alive?
 
@@ -133,21 +133,21 @@ I didn’t know.
 
 Slowly, the haze clouding my thoughts started to take shape, formed by the weight of experiences buried in my subconscious.
 
-‘Don’t tell me…’
+‘Don’t tell me...’
 
-…Is it not over yet?
+...Is it not over yet?
 
-The moment that thought flashed through my mind, there was a knock at the door and the Guardian Knight who had escorted me here entered the room. There was no evidence, let alone any basis for it. Yet, human intuition is a mysterious thing. The moment I saw the knight’s face, I felt a suffocating sense of foreboding. And….
+The moment that thought flashed through my mind, there was a knock at the door and the Guardian Knight who had escorted me here entered the room. There was no evidence, let alone any basis for it. Yet, human intuition is a mysterious thing. The moment I saw the knight’s face, I felt a suffocating sense of foreboding. And....
 
 “What is it?”
 
 That ominous hunch turned out to be correct once again.
 
-“…An incident has occurred at the 4th Wall Garrison.”
+“...An incident has occurred at the 4th Wall Garrison.”
 
 “What kind of incident?”
 
-“That is….”
+“That is....”
 
 “It’s alright for Baron Jandel to know, so report it immediately.”
 
@@ -163,7 +163,7 @@ Boom! Boom! Boom!
 
 After running for what felt like an eternity, I reached the western wall of Karnon, which bordered Noark. A knight who appeared to be in charge came out to meet me.
 
-“……I heard you were coming. Come this way.”
+“......I heard you were coming. Come this way.”
 
 Since I had gone off on my own, it seemed Astarota had already sent word ahead to the people here.
 
@@ -177,13 +177,13 @@ I snapped at him because I didn’t like his sluggishness. Realizing I was serio
 
 Following the knight, I arrived at a tent where I saw my allies gathered at the entrance.
 
-“……Bi, Bjorn?!”
+“......Bi, Bjorn?!”
 
 Misha, looking startled.
 
 “Mister!”
 
-Erwen, Sven Farav, and the others….
+Erwen, Sven Farav, and the others....
 
 Their expressions were incredibly complex. Normally, they would have rushed toward me in joy, but they stood frozen awkwardly, unable to approach. Their mouths were clamped shut and their eyes were unsure of where to look.
 
@@ -209,7 +209,7 @@ I pulled back the cloth covering the bed on the left. Even though I only uncover
 
 One arm had clearly been ripped from its socket and roughly set back in place. The neck was badly mangled, leaving the head barely attached, if at all. It looked as if the body had been pieced back together like a miniature figure.
 
-“…James Carla.”
+“...James Carla.”
 
 He joined our clan through the bond we formed during the Ice Rock expedition.
 
@@ -221,7 +221,7 @@ After covering him back up, I moved to the next bed.
 
 This time, I moved more slowly, almost hesitantly, as I uncovered the second body. Her skin was pale and lifeless, but I had no trouble recognizing her face.
 
-“…Versil Gowland…”
+“...Versil Gowland...”
 
 We first met at the Round Table, both of us wearing masks to hide our faces. Over time, our relationship somehow developed to the point where she joined my clan.
 
@@ -233,19 +233,19 @@ I stared at her for a long time before gently covering her again. Perhaps taking
 
 “We believe it to be the work of a professional assassin. When we first found Sir James Calla, he was lying in his bed. Since there were no injuries other than blood loss and a cut to the neck, we suspect he was killed in his sleep.”
 
-An assassination…I couldn’t even manage a hollow laugh.
+An assassination...I couldn’t even manage a hollow laugh.
 
 Damn, are you serious? I thought dying in battle was the only way this war would go. But this?
 
 “The investigation is still ongoing, so opinions among the investigators are divided. However, at present, the most likely scenario is that the assassin was targeting Sir James, and Miss Goulard was caught up in it by accident after witnessing the incident.”
 
-“…Caught up in it?”
+“...Caught up in it?”
 
 “Yes. First, the crime took place inside James Carla’s tent. Second, Ms. Gowland’s body was found near the entrance. Finally, there are signs of a struggle on Ms. Gowland’s body and inside the tent.”
 
 “What else do I need to know?”
 
-“The investigation hasn’t concluded yet, so…”
+“The investigation hasn’t concluded yet, so...”
 
 “It doesn’t have to be certain, so tell me everything you’ve investigated so far. If needed, call back the investigators you just dismissed.”
 
@@ -253,7 +253,7 @@ Perhaps sensing the firmness in my voice, the knight complied without protest.
 
 I stayed at the scene, receiving a full briefing on all the evidence, the items found on site, and the suspected steps the assassin had taken.
 
-And then….
+And then....
 
 “This should be enough, so you all get back to work.”
 
@@ -263,7 +263,7 @@ I needed time alone.
 
 After wandering around the wall, I climbed onto the roof of a fairly tall building, lay flat on my back and stared up at the sky.
 
-Even though I did nothing, time continued to pass. The color of the sky gradually changed. From a gloomy gray, it cleared momentarily to blue, then turned yellow and red as the sun set….
+Even though I did nothing, time continued to pass. The color of the sky gradually changed. From a gloomy gray, it cleared momentarily to blue, then turned yellow and red as the sun set....
 
 At last, as the sky turned pitch black with night, a familiar voice broke the silence.
 
@@ -293,7 +293,7 @@ As long as he had something he wanted from me, I believed he wouldn’t cross th
 
 And as long as he didn’t provoke me first, I saw no reason to provoke him either.
 
-But…
+But...
 
 ‘If that was my mistake, then so be it.’
 
@@ -307,7 +307,7 @@ He paused for a moment, then grinned.
 
 It was a smile that made it painfully clear how I should see him from now on.
 
-“…So you figured it out after all?”
+“...So you figured it out after all?”
 
 This bastard is my enemy.
 

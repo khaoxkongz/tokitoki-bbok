@@ -6,11 +6,11 @@ I tried to offer an excuse, but the Marquis didn’t let me.
 
 “Of course, you can’t just admit it here. You’d probably think it’s a trap. So, just listen until I finish speaking.”
 
-“……”
+“......”
 
 “No matter what you say, I believe you’re an evil spirit.”
 
-“……”
+“......”
 
 “So when you became a noble, I took care of things in secret so that no one would know. If people learned that a hero like you was an evil spirit , it would cause a dangerous discord in their perception.”
 
@@ -20,7 +20,7 @@ Why had I been able to become a noble without any formal ‘verification’?
 
 [Perhaps the royal family knew but turned a blind eye. At the time, you were practically a hero to the city.]
 
-…So that was the real reason.
+...So that was the real reason.
 
 “Evil spirits must always remain the common enemy of all the people. And in truth, they are. Those who strip us so completely of our lives and futures are more dangerous than any monster in the labyrinth.”
 
@@ -40,7 +40,7 @@ Well, it’s such a major policy that it hasn’t been implemented yet.
 
 “Deep wound..?”
 
-“My son… Eltora Tercerion is already dead. The one occupying my son’s body now is some nameless evil spirit.”
+“My son... Eltora Tercerion is already dead. The one occupying my son’s body now is some nameless evil spirit.”
 
 I was genuinely surprised.
 
@@ -48,7 +48,7 @@ Not because it was the first time I was hearing this, but because I didn’t exp
 
 “Judging from your reaction, it seems you truly didn’t know.”
 
-“Uh… I had no idea.”
+“Uh... I had no idea.”
 
 “In any case, he used my son’s identity to blackmail me. I couldn’t kill my son outright, so I had no choice but to comply.”
 
@@ -62,7 +62,7 @@ For the first time, it felt like I was catching a glimpse of the Marquis’s tru
 
 “When you returned, it was easy for me to come up with an excuse. Ironically, to stop that man’s plan, you could not be an evil spirit.”
 
-“…You were preparing in advance.”
+“...You were preparing in advance.”
 
 “That’s right. I worked behind the scenes to create false information and records, making your non-existent infiltration mission appear as if it were real. I made thorough preparations so that no one could tell it was fake.”
 
@@ -74,7 +74,7 @@ I did question why Duke Kealunus and the others trusted such a flimsy plan. I ne
 
 At last, I understood his intent—but I also clenched my fists tightly.
 
-“So that’s why… you sent us to Ice Rock?”
+“So that’s why... you sent us to Ice Rock?”
 
 The Marquis readily agreed, showing no change in expression.
 
@@ -84,7 +84,7 @@ How could someone be this shameless?
 
 After all those ‘sincere’ words just now, I almost wanted to smash my fist into his face right here.
 
-But…
+But...
 
 ‘I swore I’d endure.’
 
@@ -94,25 +94,25 @@ Now is not the time to unleash my anger.
 
 Yeah, that’s right.
 
-“So… tell me now. What is the reason for saying all this?”
+“So... tell me now. What is the reason for saying all this?”
 
 I asked as calmly as I could.
 
 He’s the second-in-command of a nation, not an idiot; it’s not like he would become emotional just because I saved him once.
 
-Of course, saving him probably had some effect…
+Of course, saving him probably had some effect...
 
 But there must be a valid reason for him to say all this—.
 
 “Because I am confused.”
 
-…Huh?
+...Huh?
 
 “You had no reason to save me. On the contrary, you would have wished for me to die; you’re not the type to try to gain my favor, are you?”
 
 Well, that much was true.
 
-But…
+But...
 
 “So why did you risk yourself to save me? I couldn’t make sense of it. But then I realized—it wasn’t just me.”
 
@@ -120,11 +120,11 @@ The marquiss fixed his gaze on me.
 
 “You’ve saved countless people over the years. Yet you never had any particular reason to save them. That allowed me to reach a conclusion. No, to finally admit it.”
 
-“And that is…?”
+“And that is...?”
 
 “That even if you are an evil spirit, you bear the nature of a hero.”
 
-A hero, huh…
+A hero, huh...
 
 To be honest, it didn’t feel real.
 
@@ -156,7 +156,7 @@ Those who hear a proposal and only see the bright side, and those who do the opp
 
 I always try to be the latter.
 
-So…
+So...
 
 “Use your power for peace and stability? What a strange thing to say. I’m already doing that.”
 
@@ -204,7 +204,7 @@ But that only raised more questions.
 
 I didn’t need to ask why he wanted Lee Baek-ho dead—that was obvious.
 
-But…
+But...
 
 “Why ask me to do it?”
 
@@ -218,7 +218,7 @@ His answer caught me off guard.
 
 “Of course, you don’t need to decide here and now, and even if you did decide, you don’t need to tell me. Just keep it in mind. The moment you bring me his head, you will have nothing left to worry about.”
 
-“……”
+“......”
 
 “Please make the right choice. You love this world, don’t you? Unlike other evil spirits.”
 
@@ -236,7 +236,7 @@ Just like with the research center admin I’d met in the underground lab.
 
 In the end, it always came down to one’s own judgment.
 
-‘Still, since he only asked me to keep it in mind…’
+‘Still, since he only asked me to keep it in mind...’
 
 It’s not like there’s any problem if I don’t clear it, right?
 
@@ -246,7 +246,7 @@ When I broke the long silence and spoke, the Marquis nodded with a face that sho
 
 “Do as you wish. Still, I’ve repaid my debt, so my mind should be at ease now.”
 
-“…What do you mean? I only said I’d think about it.”
+“...What do you mean? I only said I’d think about it.”
 
 “I’m the type who can’t sleep well without settling debts.”
 
@@ -258,11 +258,11 @@ The marquiss shrugged and continued.
 
 “Pointing you toward the right path—that was my repayment for you saving me.”
 
-“……”
+“......”
 
 “Whether you believe it or not, that’s for you to decide.”
 
-“…I’ll be going now.”
+“...I’ll be going now.”
 
 “Won’t you stay for a meal? It feels wrong to send you off like this.”
 
@@ -274,7 +274,7 @@ As I rode in the carriage he had lent me toward the military landing platform, I
 
 It had been an exhausting day.
 
-Clatter, clatter…
+Clatter, clatter...
 
 The gentle sound of carriage wheels rolling.
 
@@ -282,11 +282,11 @@ I let that rhythm serve as background noise and emptied my mind. Soon, drowsines
 
 “Hyung.”
 
-…Huh?
+...Huh?
 
 Was that an auditory hallucination?
 
-“Back then… why did you save the marquess?”
+“Back then... why did you save the marquess?”
 
 A clear voice rang in my ears, and I snapped my eyes open, staring out the window.
 

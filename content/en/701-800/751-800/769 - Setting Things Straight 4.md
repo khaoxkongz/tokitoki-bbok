@@ -12,13 +12,13 @@ Perhaps that is why boys are particularly fond of games. Those instincts might s
 
 Then again, it wouldn’t matter if I were wrong.
 
-“King…”
+“King...”
 
 I knew better than anyone that great power came with great responsibility, yet the thought of sitting on the throne was still enticing.
 
 Like I said, every man is born with at least a small desire to wield absolute power and unchallenged authority, even if only once.
 
-But…
+But...
 
 “What are you scheming?”
 
@@ -34,13 +34,13 @@ It didn’t seem like he had simply given up everything and was making one last 
 
 “What are you so wary of? It’s a task you would have had to do anyway, even if it weren’t for me.”
 
-“…What?”
+“...What?”
 
 I let out a disbelieving laugh, but the marquis didn’t budge and spoke shamelessly.
 
 “Isn’t that right? Think about it. If the king tried to harm that child, would you simply stand by and watch?”
 
-“…That would depend on the situation.”
+“...That would depend on the situation.”
 
 I thought for a moment before answering.
 
@@ -50,7 +50,7 @@ The marquis nodded as if that was enough.
 
 It was something I could partially admit.
 
-But…
+But...
 
 “You’re mistaken about something. It’s true that I’m acquainted with Ragna, but that doesn’t mean I’d sacrifice everything for her.”
 
@@ -64,7 +64,7 @@ I flinched and frowned as his words struck too close to the truth.
 
 This old man really has the mind of a snake.
 
-“…Fine. Go ahead and explain. Are you saying that if I wanted to, I could become king?”
+“...Fine. Go ahead and explain. Are you saying that if I wanted to, I could become king?”
 
 “So you at least have some interest?”
 
@@ -78,13 +78,13 @@ The marquis steadied his breathing and began speaking.
 
 “What’s your basis?”
 
-“There are several, but the most important one… is me.”
+“There are several, but the most important one... is me.”
 
 “You?”
 
 “Am I not still alive? Despite openly rebelling against the royal family. That alone proves that the royal authority today is no longer as absolute as it once was.”
 
-“I don’t know… couldn’t it just be that the Royal Family is plotting some strange scheme?”
+“I don’t know... couldn’t it just be that the Royal Family is plotting some strange scheme?”
 
 “The fact that they must resort to such schemes proves their power has weakened. In the past, they would never have needed such tricks.”
 
@@ -110,7 +110,7 @@ As the Marquis had said earlier, this was a deal, not cooperation, and the natur
 
 “Exactly. Even if it’s a weak justification, there’s still a difference between having the king’s blood and not. Without it, the people will resist anyone who tries to claim the throne. Blood will be shed day after day.”
 
-“I have a lot to say about that… but I understand what you’re getting at. Continue.”
+“I have a lot to say about that... but I understand what you’re getting at. Continue.”
 
 “That child’s very existence will be a great help to you as you prepare to carry out this plan.”
 
@@ -134,7 +134,7 @@ As if he could see straight through me.
 
 Of course, as I had just said, usurping the throne hadn’t yet become something that absolutely had to be done.
 
-But…
+But...
 
 It was still something worth keeping in mind.
 
@@ -146,9 +146,9 @@ Only then did I realize something.
 
 The marquis had clearly called this a deal earlier.
 
-But…
+But...
 
-“…This isn’t a deal.”
+“...This isn’t a deal.”
 
 A deal means an exchange—giving something and receiving something in return.
 
@@ -174,7 +174,7 @@ Surprisingly, the marquis even handed over Thunder to me.
 
 Though it didn’t quite feel real.
 
-“…You’re telling me I can really use Thunder with just this?”
+“...You’re telling me I can really use Thunder with just this?”
 
 Unlike the massive weapon I had imagined, Thunder had no physical form.
 
@@ -192,7 +192,7 @@ But it wasn’t a small number either. It was a weapon with the power to obliter
 
 “However, Thunder cannot be used inside the Labyrinth. As I said, Thunder refers to the ancient magic circle laid across this city.”
 
-“…I see.”
+“...I see.”
 
 “Ah, and one last thing.”
 
@@ -212,21 +212,21 @@ The moment I heard that, a conversation I once had with Lee Baek-ho flashed thro
 
 [Ah, you probably didn’t know. Maybe because it wasn’t in the game? Anyway, there’s a royal treasure like that, and the Marquis has it right now.]
 
-Right, so this was it…
+Right, so this was it...
 
 “That’s rather valuable,” I remarked. The marquis looked surprised to hear it.
 
-“…Do you even know what this is?”
+“...Do you even know what this is?”
 
 “Roughly. Isn’t it something that revives you in the royal palace if you die? Though it only works inside the city.”
 
-“So… you don’t know the whole story.”
+“So... you don’t know the whole story.”
 
 “Hmm?”
 
-“It does have that ability. But it doesn’t require you to die. Whether by force or by will, when the ring activates, you are transported to a specific location within the royal palace. I went there once before… and it felt like a place hiding an enormous secret.”
+“It does have that ability. But it doesn’t require you to die. Whether by force or by will, when the ring activates, you are transported to a specific location within the royal palace. I went there once before... and it felt like a place hiding an enormous secret.”
 
-A secret space…
+A secret space...
 
 I described the place I had seen in the palace basement because something clicked, but the Marquis shook his head.
 
@@ -254,7 +254,7 @@ But instead, I spoke.
 
 “Everything has its priorities, and in my current state, I have no choice, do I?”
 
-“…I see.”
+“...I see.”
 
 I let out a soft breath and murmured, “I won’t apologize.”
 
@@ -264,15 +264,15 @@ Countless people who should not have died had perished there.
 
 What’s more, he tried to kill me several times, and one of those attempts cost Rotmiller his life.
 
-Yes, that’s why…
+Yes, that’s why...
 
 “I feel the same.”
 
 It was only natural for the Marquis to have that attitude too. In his eyes, evil spirits were hateful creatures, more despicable than any other.
 
-“…Have you ever seen the mother of your child scream that she didn’t want to give birth? Beating her swollen belly with her fists until you had to tie her hands down? Have you ever seen your son suddenly turn into something pretending to be your son?”
+“...Have you ever seen the mother of your child scream that she didn’t want to give birth? Beating her swollen belly with her fists until you had to tie her hands down? Have you ever seen your son suddenly turn into something pretending to be your son?”
 
-…No.
+...No.
 
 And because of that, I couldn’t answer.
 
@@ -306,13 +306,13 @@ I slapped both my cheeks to clear away the idle, useless thoughts.
 
 Rather than wasting time on such meaningless reflections, I should focus on what needed to be done.
 
-“He’s lighter than I expected….”
+“He’s lighter than I expected....”
 
 I lifted the marquis’s body from the bed and placed it into my subspace.
 
 After all, I needed proof to show the king.
 
-“Guess that clears the mission…”
+“Guess that clears the mission...”
 
 Just as I had finished collecting the evidence and opened the door to leave, glasses who had been walking up and down the hallway rushed over.
 
@@ -322,7 +322,7 @@ Catching a glimpse of the bloodstained bed through the gap in the door, Glasses 
 
 He froze.
 
-“W-what’s that? D-don’t tell me… you killed the marquis?!”
+“W-what’s that? D-don’t tell me... you killed the marquis?!”
 
 Glasses nearly fainted in shock.
 
@@ -330,7 +330,7 @@ I patted his shoulder casually.
 
 “Relax. I got Thunder transferred to me.”
 
-“Haah… that’s good then… “he sighed with relief.
+“Haah... that’s good then... “he sighed with relief.
 
 Then, as if my words had finally sunk in, he quickly turned around and stared at me, confusion written on his face.
 

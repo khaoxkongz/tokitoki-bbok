@@ -4,9 +4,9 @@ Lee Baekho’s sudden comment had made the atmosphere heavy, but it didn’t las
 
 He quickly regained his usual cheerful demeanor, and I didn’t mention it again.
 
-But I couldn’t help but wonder…
+But I couldn’t help but wonder...
 
-‘…What would he be like now?’
+‘...What would he be like now?’
 
 I knew about his past.
 
@@ -18,9 +18,9 @@ Just like me, he had been diligently clearing the labyrinth when his team disban
 
 His distrust of others was a natural consequence.
 
-‘Well, it’s a bit strange to call it a ‘betrayal’ from a native’s perspective…’
+‘Well, it’s a bit strange to call it a ‘betrayal’ from a native’s perspective...’
 
-But if he hadn’t been betrayed…
+But if he hadn’t been betrayed...
 
 What would he be like now?
 
@@ -28,9 +28,9 @@ What would he be like now?
 
 “Just looking. Did you do something wrong?”
 
-“…Hyung, you’re too much! Of course not. Haha.”
+“...Hyung, you’re too much! Of course not. Haha.”
 
-“…….”
+“.......”
 
 “Anyway, can we talk privately for a moment?”
 
@@ -40,7 +40,7 @@ Lee Baekho glanced at Hyunbyul, and she sighed.
 
 “Haha, are you jealous, noona?”
 
-“…I’ll be back.”
+“...I’ll be back.”
 
 Hyunbyul left the room without much fuss, as usual.
 
@@ -58,7 +58,7 @@ Had she finally given up on correcting him?
 
 “So what’s the rush? Why did you ask Hyunbyul to leave?”
 
-“Ah, that? It’s not really a rush…”
+“Ah, that? It’s not really a rush...”
 
 “Then what is it?”
 
@@ -68,7 +68,7 @@ I sat down on the sofa and rested my chin on my hand. Lee Baekho sat across from
 
 “Yeah.”
 
-“Time flows normally even after the labyrinth closes… that’s amazing. Have you found a way out?”
+“Time flows normally even after the labyrinth closes... that’s amazing. Have you found a way out?”
 
 “Not yet.”
 
@@ -82,7 +82,7 @@ I sat down on the sofa and rested my chin on my hand. Lee Baekho sat across from
 
 “Yes. I thought there would be amazing discoveries out here, but there’s nothing. Not even a single rat. I should have stayed in the labyrinth and searched for the hidden area.”
 
-“I was wondering… why did you leave the kingdom?”
+“I was wondering... why did you leave the kingdom?”
 
 “I didn’t expect you to find the hidden area so quickly.”
 
@@ -94,7 +94,7 @@ I had found it strange that he, who was so obsessed with the labyrinth, had left
 
 “For free?”
 
-“Come on… you’re curious about the outside world too, aren’t you? Let’s share information.”
+“Come on... you’re curious about the outside world too, aren’t you? Let’s share information.”
 
 “You said there was nothing out there.”
 
@@ -124,7 +124,7 @@ I didn’t feel guilty.
 
 I hadn’t received anything from him yet, and he probably wouldn’t tell me everything he had discovered outside the walls either.
 
-‘Maybe I could learn something new if I discussed the Elder with him…’
+‘Maybe I could learn something new if I discussed the Elder with him...’
 
 But I couldn’t trust him.
 
@@ -156,7 +156,7 @@ He grinned at me.
 
 “I’m spending time with Hyunbyul noona today. She was really worried about you.”
 
-“Ah…”
+“Ah...”
 
 “I’ll be going now.”
 
@@ -166,17 +166,17 @@ I stopped him, and he tilted his head.
 
 I hesitated for a moment and then spoke.
 
-It might be unnecessary…
+It might be unnecessary...
 
 “Being smart isn’t about keeping secrets.”
 
-“…What? Did I hear you correctly?”
+“...What? Did I hear you correctly?”
 
 He looked confused, so I continued,
 
 “It’s not about being secretive.”
 
-“…Then what is it?”
+“...Then what is it?”
 
 “It’s about being afraid.”
 
@@ -200,11 +200,11 @@ She asked casually, and I answered in the same tone.
 
 “He said he was spending time with you.”
 
-“…W-What?! That… that liar!”
+“...W-What?! That... that liar!”
 
 “Why are you so flustered? It’s not like it’s the first time he’s said something like that.”
 
-“That’s true… I guess…”
+“That’s true... I guess...”
 
 She said that, but she was fanning herself with her hand, as if she was feeling hot.
 
@@ -216,13 +216,13 @@ I felt a surge of playfulness.
 
 I asked, a teasing smile on my face, and she frowned and glared at me.
 
-“…Do you want to fight?”
+“...Do you want to fight?”
 
-“Uh… no? Why would you say that?”
+“Uh... no? Why would you say that?”
 
-“Seriously… you’re becoming just like him.”
+“Seriously... you’re becoming just like him.”
 
-“…….”
+“.......”
 
 I had just been teasing her, and yet I was being scolded.
 
@@ -234,13 +234,13 @@ I didn't understand, but I quickly changed the subject.
 
 “What’s she like?”
 
-“…She’s a kind person. And naive. She’s been a little troublesome lately, though.”
+“...She’s a kind person. And naive. She’s been a little troublesome lately, though.”
 
 “Troublesome?”
 
 “Don’t you know? It’s because of Bjorn Yandel.”
 
-“Ah…”
+“Ah...”
 
 It hadn’t been my intention, but I had inadvertently caused trouble for her twice now.
 
@@ -252,7 +252,7 @@ It hadn’t been my intention, but I had inadvertently caused trouble for her tw
 
 Right, it was a close call.
 
-“…I was talking about your boss not bothering you anymore.”
+“...I was talking about your boss not bothering you anymore.”
 
 “Oh, really?”
 
@@ -272,7 +272,7 @@ She would never doubt me again.
 
 I cut her off before she could say anything more, and we spent the rest of the time reading and chatting.
 
-And after a while…
+And after a while...
 
 “Oppa, it’s time for me to go.”
 
@@ -284,13 +284,13 @@ I left the chat room and returned to Lee Hansu’s room. I checked the forums ag
 
 A navy blue suit and a lion mask.
 
-It had looked ridiculous at first, like I was wearing a costume… but now I was used to it.
+It had looked ridiculous at first, like I was wearing a costume... but now I was used to it.
 
-Alright, I was dressed…
+Alright, I was dressed...
 
 Step, step.
 
-…and I arrived at the Round Table. The other members were already there, waiting for me.
+...and I arrived at the Round Table. The other members were already there, waiting for me.
 
 “That’s ridiculous. It has to be a lie.”
 
@@ -300,7 +300,7 @@ Step, step.
 
 “That’s right, but he’s not someone to be ignored.”
 
-“Well, he does seem to know a lot of things… Ah!”
+“Well, he does seem to know a lot of things... Ah!”
 
 They stopped talking and greeted me with their eyes.
 
@@ -324,9 +324,9 @@ I gave the signal, and the meeting started without any delay.
 
 “I assume you’ve all read the post on the forums. There’s a high probability that it’s true.”
 
-“…And?”
+“...And?”
 
-“…That’s my information.”
+“...That’s my information.”
 
 The other members groaned.
 
@@ -336,7 +336,7 @@ The other members groaned.
 
 “Heehee, Clown, you got that from the forums, didn’t you? That guy was so pathetic.”
 
-“P-Pfft…”
+“P-Pfft...”
 
 Clown chuckled awkwardly at Butterfly’s comment.
 
@@ -346,7 +346,7 @@ But he had anticipated the ridicule.
 
 Goblin continued, and the members, their curiosity piqued, listened intently.
 
-“…Evidence?”
+“...Evidence?”
 
 “Oh, so there’s more to it?”
 
@@ -356,11 +356,11 @@ Goblin, seeing their interest, began his explanation.
 
 “I’m good at using the internet. I love arguing, and my specialty is doxxing.”
 
-“…What does that have to do with anything?”
+“...What does that have to do with anything?”
 
 “I’ve been investigating the author of that post. I read all their posts and comments, looking for clues.”
 
-“…And?”
+“...And?”
 
 “I couldn’t identify them, but I’m certain they’re a member of the Hex Clan.”
 
@@ -368,23 +368,23 @@ I was genuinely surprised.
 
 The other members looked confused, but I knew he was right.
 
-‘…He actually did it?’
+‘...He actually did it?’
 
 It was an unexpected talent.
 
 “I don’t know what to say.”
 
-“The Hex Clan… they were one of the sixty explorers who entered the hidden area with Bjorn Yandel…”
+“The Hex Clan... they were one of the sixty explorers who entered the hidden area with Bjorn Yandel...”
 
 “Queen, what do you think? You’re close to the GM, so you must know something.”
 
 Queen nodded, her expression a mix of surprise and confusion.
 
-“…I can’t believe it, but Goblin’s theory matches ours.”
+“...I can’t believe it, but Goblin’s theory matches ours.”
 
 “Really?”
 
-“Yes. But… I don’t understand how he did it. We had to recover the deleted posts to reach that conclusion…”
+“Yes. But... I don’t understand how he did it. We had to recover the deleted posts to reach that conclusion...”
 
 “Deleted posts? What kind of posts?”
 
@@ -394,6 +394,6 @@ What? Were they advertising their clan on the forums?
 
 It was ridiculous, but Queen’s testimony changed the other members’ perception of Goblin.
 
-“Hehe… I’m glad my investigation was correct.”
+“Hehe... I’m glad my investigation was correct.”
 
-…What was this guy’s deal?
+...What was this guy’s deal?

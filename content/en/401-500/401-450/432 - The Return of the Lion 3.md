@@ -1,8 +1,8 @@
 The Return of the Lion (3)
 
-The march for the triumph ceremony the marquis had planned was simple.
+The march for the triumph ceremony the Marquis had planned was simple.
 
-From the Dimensional Square of Lavigion, where we had returned, we would pass through the commercial city of Commelby and then march in a grand procession towards the imperial capital of Carnon.
+From the Dimensional Square of Ravigion, where we had returned, we would pass through the commercial city of Commelby before marching in a grand procession toward the imperial capital of Carnon.
 
 Ba-bam, ba-bam, ba-ba-bam-!
 
@@ -10,19 +10,21 @@ A military band in full uniform played a lively tune.
 
 Boom—! Boom—! Boom—!
 
-A wagon laden with drums continuously unleashed majestic beats as it rolled forward.“Waaaaaaaaah—!”
+A wagon laden with drums thundered out a majestic rhythm as it rolled forward.
+
+“Waaaaaaaaah—!”
 
 Cheers and blessings from the crowd.
 
-And in the middle of the road, scattered flower petals.
+Flower petals scattered across the road.
 
-“It’s the procession of heroes…!”
+“It’s the procession of heroes...!”
 
-Wearing gear that wouldn’t be used in real combat, like the gear of reverse heroes.
+Dressed in ceremonial gear that would never see real combat, we looked every bit the returning heroes.
 
 “Wowwwwwwwwwwwww-!”
 
-We kept moving forward, further and further.
+We continued onward through the cheering streets.
 
 The expressions on the faces of the people watching us were uniformly bright.
 
@@ -36,13 +38,13 @@ Some explorers clapped their hands.
 
 “Dad, what’s the Eye of the Sky?”
 
-“Not sure, but… it must’ve been something really important.”
+“Not sure, but... it must’ve been something really important.”
 
 “I want to be like those people someday!”
 
 “Sure you can—if it’s you, you can do anything.”
 
-There were families who had come just because there was a festival. A father put his little son on his shoulders.
+Some families had come simply because there was a festival. One father lifted his little son onto his shoulders.
 
 “Akuraba! That’s Akuraba over there!”
 
@@ -54,9 +56,9 @@ There were families who had come just because there was a festival. A father put
 
 Some were just there to catch a glimpse of famous faces in the crowd.
 
-And then…
+And then...
 
-“Thanks to you… my son can now rest in peace! Really, really… thank you… ……”
+“Thanks to you... my son can now rest in peace! Really, really... thank you... ......”
 
 Did she lose her family in Noark?
 
@@ -64,7 +66,7 @@ One woman ran up to the carriage, tears streaming down her face, and grabbed my 
 
 But do they even know?
 
-That in the original victory parade planned by the Marquis, there were only empty coffins with our names on the carriage.
+That in the victory parade originally planned by the Marquis, the carriage would have held nothing but empty coffins bearing our names.
 
 Beeeeeeeeep-
 
@@ -72,9 +74,9 @@ Overwhelmed by the sea of people, perhaps I was on the verge of a panic attack.
 
 The ringing in my ears grew louder, and smiling became increasingly difficult.
 
-At some point during this time.
+At some point,
 
-“Mister…”
+“Mister...”
 
 Erwin clasped my hand.
 
@@ -82,13 +84,13 @@ From the front wagon, even Kaislan turned around to look at me with concern.
 
 What—afraid I might cause a scene?
 
-“Waaaaaaaaah….”
+“Waaaaaaaaah....”
 
-After a long journey along the roadside, the procession finally arrived in Commelby.
+After a long procession through the streets, we finally arrived in Commelby.
 
 It was a bit different from Ravigion.
 
-The number of explorers had significantly increased, and the attire of the ordinary people was much more formal than the average in Ravigion.
+There were far more explorers here, and even ordinary citizens dressed much more formally than people in Ravigion.
 
 Well, compared to the imperial capital, it was still nothing.
 
@@ -102,9 +104,9 @@ Crowds of people, shouts, outstretched arms.
 
 Even as I watched them, I couldn’t feel any joy. It was suffocating.
 
-If there hadn’t been any shady schemes behind this expedition…
+If there hadn’t been any shady schemes behind this expedition...
 
-If only all of our members had come back alive…
+If only all of our members had come back alive...
 
 Those guys would’ve been able to see this sight, too.
 
@@ -126,9 +128,9 @@ The wagon wheels rolled on without stopping, eventually passing through Commelby
 
 Knights lined up at the open gates.
 
-On the ramparts, a band performed the climax of their music, dynamically capturing the moment.
+On the ramparts, a band launched into the climax of its performance, making the moment feel even grander.
 
-And then…
+And then...
 
 “I never thought I’d come here again.”
 
@@ -138,11 +140,9 @@ Right in front of the ‘Hall of Glory’ where I had been granted my title.
 
 “Welcome the heroes!”
 
-Before long, the grand doors of the palace swung open from both sides, and we stepped down from our carriage, stepping into the palace.
+Before long, the grand palace doors swung open. We stepped down from the carriage and entered.
 
-The line-up was a little different from the parade.
-
-The formation was a bit different from the parade formation outside.
+The formation was a little different from the parade outside.
 
 During the parade, I had been seated in the center carriage, but now I was at the very front.
 
@@ -150,7 +150,7 @@ During the parade, I had been seated in the center carriage, but now I was at th
 
 The cheers that erupted as we entered were noticeably smaller than on the streets.
 
-Well, most of those present here were nobles, or high-ranking members of merchant firms or guilds.
+Most of those present were nobles or high-ranking members of merchant companies and guilds.
 
 “What are you doing? Why aren’t you moving?”
 
@@ -168,43 +168,41 @@ People shouting, whistling, curious eyes peering through binoculars.
 
 So it was easy to spot them in the crowd of thousands.
 
-At this blessed gathering.
-
-Only they were like uninvited guests amidst the smiling crowd, spending a moment of mourning.
+Amid this supposedly blessed gathering, only they looked like uninvited guests among the smiling crowd, quietly mourning.
 
 “So, that’s where they are.”
 
-“Wait, hold on… Where are you going!”
+“Wait, hold on... Where are you going!”
 
 Ignoring Kaislan’s restraint, I turned and headed towards that section of the audience.
 
 Had he noticed where I was heading now?
 
-“…Darn it, I don’t know anymore.”
+“...Darn it, I don’t know anymore.”
 
 Kaislan no longer tried to stop me.
 
 Thud, thud.
 
-The band, though perplexed, professionally adjusted their direction without breaking character.
+The band, though visibly confused, professionally adjusted to my change of direction without missing a beat.
 
-And then…
+And then...
 
 Thud.
 
 I finally stopped.
 
-“…….”
+“.......”
 
 Those who had been quietly wiping away tears now looked at me in surprise.
 
-They were the families of our fallen comrades, whom I had asked the marquis to let into the Hall of Glory.
+They were the families of our fallen comrades, whom I had asked the Marquis to let into the Hall of Glory.
 
 Pababam, pababam, pabababam—!
 
 Sheesh, that’s been annoying me for a while now.
 
-Could they please just shut it?
+Could they please just shut up?
 
 I was frustrated, but apparently the band had neither the presence of mind nor the authority to stop playing. So I personally went over, took their instruments and threw them on the floor.
 
@@ -214,7 +212,7 @@ Instantly, the music cut off, and silence descended.
 
 At last, the crowd also quieted down, leaving only the sound of those family members softly sobbing.
 
-And then…
+And then...
 
 Thud.
 
@@ -228,25 +226,25 @@ That was supposed to be part of the formal ceremony in front of the empty throne
 
 The king isn’t going to show his face anyway.
 
-“Thank you….”
+“Thank you....”
 
 While I still couldn’t look them in the eyes, I felt a hesitant hand on my head.
 
-“What happened to… Ashid?”
+“What happened to... Ashid?”
 
 Yes, she was Ashid’s wife.
 
-“That guy… he was like a great mage from a fairy tale. He wasn’t afraid even in the face of death, and it was because of him that we were able to return alive.”
+“That guy... he was like a great mage from a fairy tale. He wasn’t afraid even in the face of death, and it was because of him that we were able to return alive.”
 
 She didn’t reply right away; maybe my words sounded formal or empty to her. She just wept quietly.
 
-“Is… is that so….”
+“Is... is that so....”
 
-Come to think of it, he was a liar, too. He always said his wife was a strong person…
+Come to think of it, he was a liar, too. He always said his wife was a strong person...
 
-“I… I just don’t know anymore… I’m so lost… I feel sorry for him… How could I…?”
+“I... I just don’t know anymore... I’m so lost... I feel sorry for him... How could I...?”
 
-“…….”
+“.......”
 
 “Huaaah!”
 
@@ -256,11 +254,11 @@ And then the dam burst.
 
 “M-Mackelly Reiadus! What happened to him? I haven’t heard anything! They just told me he died and that I had to attend!”
 
-“…Ventis Gerod! He was my father! But I didn’t even know he was sent on such a dangerous mission”
+“...Ventis Gerod! He was my father! But I didn’t even know he was sent on such a dangerous mission”
 
-“Carla! Please tell us! Why… why can’t Rick be here with us? Why are you the only one who survived?”
+“Carla! Please tell us! Why... why can’t Rick be here with us? Why are you the only one who survived?”
 
-The families in the seats ran up to us, hurling questions about their loved ones’ fates. We answered guiltily, as though we were criminals responsible for their ends.
+The families in the seats ran up to us, hurling questions about their loved ones’ fates. We answered with guilty hearts, as though we were criminals responsible for their deaths.
 
 Watching us, the rest of the crowd said things like:
 
@@ -270,19 +268,19 @@ Watching us, the rest of the crowd said things like:
 
 “This is the most dramatic triumph ceremony I’ve ever seen!”
 
-“No, this honestly just looks like chaos… but hey, it’s entertaining.”
+“No, this honestly just looks like chaos... but hey, it’s entertaining.”
 
 That chaotic scene went on for who knows how long.
 
-“…We can’t delay any further.”
+“...We can’t delay any further.”
 
-Soon, knights acting on the marquis’s orders came forward to manage the situation, and the parade resumed.
+Soon, knights acting on the Marquis’sss orders came forward to manage the situation, and the parade resumed.
 
 After a brief detour, we were back on the red carpet heading towards the empty throne.
 
-There stood the marquis.
+There stood the Marquis.
 
-‘So you finally decide to show yourself, huh? Hiding inside that crystal all this time.’
+‘So you finally decided to show yourself, huh? After hiding behind that crystal all this time.’
 
 I glanced at him once before kneeling down and bowing my head.
 
@@ -292,7 +290,7 @@ Just that it was easier to manage my emotions without making eye contact.
 
 “You’ve walked a rugged path, heroes!”
 
-Regardless of my sudden actions, the marquis delivered his scripted lines.
+Regardless of my earlier disruption, the Marquis delivered his scripted lines.
 
 In his speech, he summarized our journey: Thirty heroes, given a noble mission, had finally completed their task and survived numerous trials to return.
 
@@ -300,15 +298,15 @@ Just a story we made up, not the truth.
 
 They’d negotiated away the part about how no rescue team ever showed up.
 
-But still…
+But still...
 
 “Even the arctic cold could not cool your fervor. The rebels from the underworld could not seize your command.”
 
-The more the Marquis recounted our exploits and extolled our virtues, the more the crowd clapped.
+The more the Marquis recounted our exploits and extolled our virtues, the louder the crowd applauded.
 
-“Ahem, Ahem, Ahem… First of all, I would like to take this opportunity to talk about sacrifice.”
+“Ahem, Ahem, Ahem... First of all, I would like to take this opportunity to talk about sacrifice.”
 
-Following the marquis, the archbishop of the Tobera Church appeared. The high priest, who was balding, looked at us, offered words of consolation, and then called for a moment of silence, with particular reference to the priests and paladins who had sacrificed so much.
+Following the Marquis, the archbishop of the Tobera Church appeared. The high priest, who was balding, looked at us, offered words of consolation, and then called for a moment of silence, with particular reference to the priests and paladins who had sacrificed so much.
 
 Beeeeeeeeeeeeeep—
 
@@ -318,7 +316,7 @@ Beeeeeeeeeeeeeep—
 
 Then the Explorers’ Guild.
 
-After that, another, and another…
+After that, another, and another...
 
 Beeeeeeeeeeeeeep—
 
@@ -334,7 +332,7 @@ Finally, the ceremony reached its climax.
 
 “May the light of the royal family shine upon you!”
 
-The marquis’s words signaled the start of the band’s performance once again.
+The Marquis’sss words signaled the start of the band’s performance once again.
 
 It was the equivalent of saluting the flag at a school assembly—some formal piece that lasted about three minutes.
 
@@ -342,7 +340,7 @@ It was the equivalent of saluting the flag at a school assembly—some formal pi
 
 I mentally counted about two minutes, then opened my mouth to speak.
 
-Just loud enough for the marquis—standing about three meters away—to hear.
+Just loud enough for the Marquis, standing about three meters away, to hear.
 
 “Hey, Marquis.”
 
@@ -358,7 +356,7 @@ He must have realized I might ruin the entire event if he didn’t answer, so wi
 
 “As I said before, it will take another two months.”
 
-“Two months, huh….”
+“Two months, huh....”
 
 “That was the agreement, was it not?”
 
@@ -368,13 +366,13 @@ I gave a faint grin.
 
 “But now that I think about it, that feels too long. I’d like it done sooner.”
 
-The marquis didn’t answer.
+The Marquis didn’t answer.
 
 The band stopped playing, and it was time to continue the ceremony.
 
-“…….”
+“.......”
 
-He shot me a scolding glance, then went back to his speech praising the royal house.
+He shot me a warning glance, then returned to his speech praising the royal house.
 
 Fine, if you won’t cooperate, you leave me no choice.
 
@@ -382,7 +380,7 @@ They say barbarians only understand if you speak forcefully?
 
 “May the royal family’s light be upon you!”
 
-After a long speech about how magnanimous and mighty the royal family was, the marquis turned to us and shouted.
+After a long speech about the royal family’s magnanimity and might, the Marquis turned to us and shouted.
 
 This was the last act of the victory ceremony he’d outlined for us.
 
@@ -390,11 +388,11 @@ This was the last act of the victory ceremony he’d outlined for us.
 
 It was like a roll call. Once I gave the official report, our grueling expedition would be officially concluded.
 
-Which is why…
+Which is why...
 
-[Character has cast Gigantification]
+[The character has cast [Gigantification].]
 
-[Your physique grows in proportion to your Strength.]
+[The character’s physique grows in proportion to Strength.]
 
 I even used [Transcendence] to push my body to its size limit.
 
@@ -406,11 +404,11 @@ The moment my body expanded, thousands of eyes locked onto me.
 
 “This is treason against the royal family!”
 
-Some were angry that I had used a skill.
+Some were outraged that I had used a skill.
 
 Meanwhile—
 
-“…Gigantification?”
+“...Gigantification?”
 
 Bjorn Jandel’s signature skill.
 
@@ -420,23 +418,23 @@ Bjorn Jandel’s signature skill.
 
 “But that man’s dead.”
 
-“Besides, people said he was an evil spirit…”
+“Besides, people said he was an evil spirit...”
 
 Those in the crowd who recognized my skill voiced their doubts.
 
-And the marquis?
+And the Marquis?
 
-“……!”
+“......!”
 
-As soon as I used Gigantification, the marquis fell backwards.
+As soon as I used [Gigantification], the Marquis stumbled backward.
 
 What, did he think I was here to assassinate someone?
 
 Swoosh.
 
-I turned my gaze away from the count and stared at the empty throne.
+I turned my gaze away from the Marquis and stared at the empty throne.
 
-And then…
+And then...
 
 “In the presence of the sole king, I tell the truth.”
 
@@ -446,13 +444,13 @@ My eyes looked forward, but my voice was loud enough for everyone in the hall to
 
 One by one, with those moments in my heart that I never got to tell the bereaved family.
 
-“Pike Neldaine.”
+“Pike Neldain.”
 
-Executed as a traitor in Icerock.
+Executed as a traitor in Ice Rock.
 
 At the time, it seemed like the only choice. Now, I regret it a little. If he really wanted the expedition to fail, he could have been our ally.
 
-“Philip Aintrophy”
+“Philip Aintrophy.”
 
 A scout on Kaislan’s team. He died in Deadwood, ambushed while we waited for a rescue squad. His head was crushed. I never spoke with him much, but later, Kaislan told me he never married and was caring for elderly parents—a dutiful son, apparently.
 
@@ -464,11 +462,11 @@ He couldn’t even utter any final words.
 
 I’ll probably wonder for the rest of my life if there was no way he could’ve dodged it—or if he deliberately took the hit for someone else.
 
-“Fiona Aymers.”
+“Fiona Amos.”
 
 She was struck by a blind attack while chanting Mass Teleport with the other mages.
 
-“Nialo Cambell.”
+“Nialo Campbell.”
 
 He was a priest. He died stepping forward to aid an injured warrior.
 
@@ -476,13 +474,13 @@ He was a priest. He died stepping forward to aid an injured warrior.
 
 She was our ever-polite troll summoner. She saved everyone, yet chose to die alone, quietly. I hope she wakes up in a cozy house filled with the aroma of coffee.
 
-“Matt Hybriham.”
+“Matt Hybrid.”
 
 He was a paladin, our tanker.
 
-But I had stripped him of all his gear. In that state, he tried to forge a path and lost his life near the summit of Glacier’s Eye.
+But I had stripped him of all his gear. In that state, he tried to forge a path and lost his life near the summit of Glacier Eye.
 
-Farsible Erik Colson
+Parsible Eric Coulson
 
 A long-time friend and subordinate of Kaislan in the same unit. Kaislan wept for his death but consoled me.
 
@@ -492,11 +490,11 @@ And because he never gave up until the end.
 
 His death had meaning.
 
-‘That’s… the burden I must bear now.’
+‘That’s... the burden I must bear now.’
 
 I continued to speak.
 
-“Rick Jergesta.”
+“Rick Jergasta.”
 
 He was killed while fighting those Noark bastards after we regrouped. His cause of death was the same [Edge of the World] that took Might Million’s life.
 
@@ -504,7 +502,7 @@ He was killed while fighting those Noark bastards after we regrouped. His cause 
 
 When the Rose Knights attacked from behind, he stayed to buy time for our retreat. That old fellow always went on about romance. A mage performing a warrior’s job—maybe that’s the pinnacle of romance for him.
 
-“Roita Maemander.”
+“Loita Maemandor.”
 
 He was assisting us from a cliff when the Rose Knights ambushed. He died there.
 
@@ -520,7 +518,7 @@ He never woke up after being hit by [Soul Extraction].
 
 A cheerful old man whose motto was to live moderately and long.
 
-He died in a surprise attack by the Rose Knight Order that took advantage of the darkness.
+He died in a surprise attack by the Rose Knights that took advantage of the darkness.
 
 “Jun.”
 
@@ -528,15 +526,15 @@ A noble paladin who died standing.
 
 Even his enemies realized his death belatedly because he was such a towering figure to the end.
 
-“Tsion Iriven”
+“Tsion Iriven.”
 
-An archer from Team 5. When Sven Parav’s defensive line broke, he was torn in half by a monster summoned by Karui’s priest.
+An archer from Team 2. When Sven Parab’s defensive line broke, he was torn apart by a monster summoned by a priest of Karui.
 
 In his final moments, he asked a priest to sing a hymn of hope, even though a penalty meant he couldn’t hear it himself.
 
 “Puta Rickerburn.”
 
-A jack-of-all-trades mercenary who did dirty work for the Duke of Kealunas, who could guide and fight in close combat.
+A jack-of-all-trades mercenary who handled dirty work for the Duke of Keallunas and could both guide and fight in close combat.
 
 He wasn’t all that remarkable in combat—but at the end, he supposedly killed two Rose Knights in quick succession.
 
@@ -544,7 +542,7 @@ I couldn’t believe it when I heard it later.
 
 If only there had been a way to record it, to show at his funeral: Look how incredible this so-called ‘discarded tool of the Duke’ turned out to be.
 
-“…What Strength!”
+“...What Strength!”
 
 The knights tugged at my arm.
 
@@ -552,13 +550,13 @@ Maybe I really do look unstable.
 
 “Enough.”
 
-The marquis intervened and ordered the knights back.
+The Marquis intervened and ordered the knights back.
 
 Surprisingly, he did something I liked.
 
 “Periton Eriavosti, Benjamin Orman.”
 
-These two priests used the ultimate self-sacrificial spells to defeat the evil god’s summons wreaking havoc.
+These two priests used ultimate self-sacrificial spells to destroy the evil god’s rampaging summon.
 
 If not for them, we would have all died.
 
@@ -566,7 +564,7 @@ If not for them, we would have all died.
 
 He used awakening magic like Dwalki.
 
-Not only did he deal significant damage to the evil god’s summons, but he also killed three members of the Rose Knight Order.
+Not only did he deal tremendous damage to the evil god’s summon, he also killed three Rose Knights.
 
 The day before the labyrinth closed, Marone cried and told me.
 
@@ -574,9 +572,9 @@ Originally, she intended to do it, but Ashid shook his head and stopped her.
 
 “Gerold Aldidi.”
 
-He said he could leave the aftermath to me and sacrificed his life to break through the front lines.
+He told me he could leave the rest to me, then sacrificed his life to break through the enemy line.
 
-So many died…
+So many died...
 
 As I recited their names, I could feel the weight of each one of them.
 
@@ -590,15 +588,13 @@ Twenty people. Each of them had their own dreams or reasons for volunteering on 
 
 They died.
 
-In the cold snow.
-
 In the cold, lonely snow.
 
 Desperately longing for something.
 
 Not all of them were good guys, of course.
 
-There was one who embezzled money from his company, and Jun had even tortured innocent people. Puta Rickerburn, he must have done all sorts of bad things when he was a fixer for the Duke’s family.
+One had embezzled money from his company. Jun had tortured innocent people. And Puta Rickerburn must have done all kinds of dirty work as a fixer for the Duke’s family.
 
 Somewhere, someone might be saying “good riddance.”
 
@@ -608,36 +604,36 @@ None of them deserved to die like that.
 
 Because of them, we survived. That’s why—
 
-“Lirith Marone, Vercil Gowland, James Carla, Melend Kaislan….”
+“Lyris Marone, Vercil Gowland, James Carla, Melend Kaislan...”
 
 I speak clearly.
 
 For the sake of those still alive—
 
-“Sven Parab, Rabieniastorous, Emily Raines, Titana Akuraba, Erwin Fornacci Di Tersia……”
+“Sven Parab, Ravien, Emily Raines, Titana Akuraba, Erwin Fornacci di Tercia......”
 
-Before I called out my own name, I briefly looked up at the marquis.
+Before I called out my own name, I briefly looked up at the Marquis.
 
 He was looking at me with a businesslike smile.
 
 He must have decided that there was no point in stopping me after I used [Gigantification].
 
-The marquis then murmured softly as he watched me.
+The Marquis then murmured softly as he watched me.
 
 “Tsk, it would have been better for both of us if you had just held on a little longer.”
 
 Yes, it would have been better for you.
 
-But I feel too powerless if I don’t reclaim my name soon.
+But I would be too powerless if I didn’t reclaim my name soon.
 
 Let’s make a bigger scene.
 
-So, in that sense…
+So, in that sense...
 
 “The proud baron of the royal family.”
 
 Before thousands of nobles, I declared loudly.
 
-“I, Bjorn Jandel’s son, represent the expedition and announce that we have all returned safely from completing our mission!”
+“I, Bjorn Jandel, represent this expedition and announce that we have returned after completing our mission!”
 
 Announcing my return.

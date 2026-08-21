@@ -4,19 +4,19 @@ A white mask with no features.
 
 He wore a plain robe that covered his entire body, and his hands—the only visible skin—were covered in wrinkles.
 
-“Hey… who’s that old man?”
+“Hey... who’s that old man?”
 
-“…….”
+“.......”
 
 Black Mask and Butterfly exchanged puzzled looks at the stranger’s arrival.
 
 However, the Queen, who was also seeing him for the first time, reacted differently.
 
-“No way….”
+“No way....”
 
 Although it was her first time meeting him, she seemed to realize who the old man was.
 
-“Master…!”
+“Master...!”
 
 Realizing the stranger’s identity, Wolf abruptly stood up and rushed toward him.
 
@@ -28,15 +28,15 @@ This exchange made it clear that the two had some kind of connection.
 
 “This is the final meeting, isn’t it? I wanted to see your face one last time before I left. There’s also something I need to do here.”
 
-“Something you need to do…?”
+“Something you need to do...?”
 
 Wolf seemed curious about the details, but Master didn’t elaborate.
 
 Geez, what a way to leave people hanging!
 
-“More importantly… Would you mind stepping aside for a moment? I’d like to greet the others as well.”
+“More importantly... Would you mind stepping aside for a moment? I’d like to greet the others as well.”
 
-“Ah…! My apologies!”
+“Ah...! My apologies!”
 
 As the Master glanced subtly, the Wolf immediately apologized and returned to his seat.
 
@@ -74,7 +74,7 @@ Technically, it wasn’t the Round Table itself but the system of this Truth Gam
 
 “Pssit?!”
 
-“He… created the Round Table…?”
+“He... created the Round Table...?”
 
 The problem was the reactions of those listening nearby.
 
@@ -82,13 +82,13 @@ The problem was the reactions of those listening nearby.
 
 One word, two words, three words.
 
-“Ah, of course, I mean over twenty years ago… Back then, it was just evil spirits from the other world.”
+“Ah, of course, I mean over twenty years ago... Back then, it was just evil spirits from the other world.”
 
 With every exchange between the Master and me, the room erupted with intense reactions.
 
-“The Round Table existed even 20 years ago…?”
+“The Round Table existed even 20 years ago...?”
 
-“No, more importantly, evil spirits from another world…?”
+“No, more importantly, evil spirits from another world...?”
 
 Ugh, this is really annoying.
 
@@ -106,11 +106,11 @@ As he spoke, the old man shifted his gaze and addressed another member.
 
 “It’s good to see you, Fox. Have you been well?”
 
-“Huh? Ah, y-yes… It’s been a while.”
+“Huh? Ah, y-yes... It’s been a while.”
 
 “Honestly, I’m a little disappointed. You used to follow me so devotedly back when you had nothing, but now you don’t even think of me as a benefactor. Kekeke.”
 
-“H-How did you…!”
+“H-How did you...!”
 
 At the mention of her earlier conversation, Fox visibly panicked while the other members’ eyes gleamed with curiosity.
 
@@ -120,19 +120,19 @@ The reason was obvious.
 
 The old man had some means of eavesdropping on every conversation here.
 
-Which meant…
+Which meant...
 
-‘…He’s been listening in all along.’
+‘...He’s been listening in all along.’
 
 A chill ran down my spine.
 
-I knew he was evil, but to have such a nasty habit on top of that…
+I knew he was evil, but to have such a nasty habit on top of that...
 
 The truly creepy part was how nonchalantly he acted when he first walked in, pretending not to recognize the unfamiliar faces as if he hadn’t been listening the whole time.
 
 A pathological liar, through and through.
 
-“It’s not like that…”
+“It’s not like that...”
 
 “No need to explain. I truly don’t mind, so don’t worry about it.”
 
@@ -144,11 +144,11 @@ To this old man, Fox held no real value. Even if she were bleeding out right in 
 
 The Queen, who had been watching, joined the conversation.
 
-“Are you… really the Master of this Round Table, Auril Gavis?”
+“Are you... really the Master of this Round Table, Auril Gavis?”
 
 “I am. Why?”
 
-“…There’s something I’d like to ask. Wolf mentioned that you have the power to stop the community’s shutdown… Is that true?”
+“...There’s something I’d like to ask. Wolf mentioned that you have the power to stop the community’s shutdown... Is that true?”
 
 “It is. I’m the one who weakened your authority in the first place.”
 
@@ -156,13 +156,13 @@ His words were so nonchalant.
 
 The Queen paused for a long moment, then asked again.
 
-“…What did you say?”
+“...What did you say?”
 
 With an annoyingly smug laugh, Auril Gavis continued.
 
 “You said it seemed like a system malfunction, but in reality, the device I gave that friend was perfectly fine. It’s just that the authority I transferred to you was gradually being revoked, making it seem that way.”
 
-“Revoking authority… How is that possible?”
+“Revoking authority... How is that possible?”
 
 “Well, I couldn’t possibly have handed everything over to that friend of yours, is there?”
 
@@ -170,9 +170,9 @@ A concise and brutal answer that left no room for argument.
 
 “No need to be so disappointed. I’m just taking back what was originally mine. Besides, you’ve made good use of it all this time, haven’t you?”
 
-“……”
+“......”
 
-“Now, let’s end this discussion here…”
+“Now, let’s end this discussion here...”
 
 With the Queen silenced, Auril Gavis walked over to the gem on the Round Table and placed his hand on it.
 
@@ -204,7 +204,7 @@ As if pulled by invisible hands, the masks fell onto the table.
 
 “Ahhh!”
 
-“……!”
+“......!”
 
 “P-Pssit?!”
 
@@ -226,15 +226,15 @@ What did he look like again?
 
 I think he was Caucasian, but he disappeared too quickly to get a good look.
 
-Surprisingly, he seemed a bit chubbier than expected…
+Surprisingly, he seemed a bit chubbier than expected...
 
-‘And the other one… was Black Mask.’
+‘And the other one... was Black Mask.’
 
 She vanished even faster than the Clown—I didn’t even catch a glimpse of her.
 
 Before anyone else could disappear, I quickly scanned the others.
 
-“…What’s the meaning of this?!”
+“...What’s the meaning of this?!”
 
 The Queen was flustered and had the typical appearance of a foreigner: blue eyes and blonde hair.
 
@@ -242,7 +242,7 @@ Not exactly a stunning beauty, though.
 
 Just an ordinary-looking woman, probably in her early thirties. The other members stared in surprise; some even tilted their heads in recognition.
 
-“For some reason… her face looks familiar…”
+“For some reason... her face looks familiar...”
 
 Probably not just their imagination.
 
@@ -250,7 +250,7 @@ The Queen was responsible for vetting new players, after all.
 
 Next—
 
-‘Goblin is…’
+‘Goblin is...’
 
 Unexpectedly handsome.
 
@@ -260,7 +260,7 @@ Like, actor-level good looks.
 
 With his tanned skin, I thought he might be Southeast Asian, but he actually had the appearance of a stereotypical Latin American heartthrob.
 
-‘…Not important right now.’
+‘...Not important right now.’
 
 I pretended not to stare as I took in the members’ bare faces.
 
@@ -268,7 +268,7 @@ I knew their in-game appearances meant nothing, but honestly, I was a little cur
 
 What kind of people were they, really?
 
-‘Butterfly is Asian. Fox looks younger than I thought. Wolf is just an average middle-aged guy, as expected…’
+‘Butterfly is Asian. Fox looks younger than I thought. Wolf is just an average middle-aged guy, as expected...’
 
 The secret gatherings of the Round Table.
 
@@ -276,7 +276,7 @@ The Round Table was an exclusive circle, and the conversations held here were re
 
 But beneath their masks that lent an air of mystique, their faces were utterly ordinary. They didn’t look particularly strong, nor did any of them seem malicious.
 
-But then again…
+But then again...
 
 ‘I’m no different.’
 
@@ -288,23 +288,23 @@ None of the people here had clean hands.
 
 Those kinds of people died long ago.
 
-“Excuse me… Why did you remove our masks? It’s… um, honestly pretty uncomfortable. Ah! I-I’m not mad or anything, just…”
+“Excuse me... Why did you remove our masks? It’s... um, honestly pretty uncomfortable. Ah! I-I’m not mad or anything, just...”
 
 The Goblin asked cautiously, and Auril Gavis responded right away.
 
 “Hm, weren’t you curious? About the kind of people you’ve been talking to all this time? After all, it’s the last time—I figured it wouldn’t hurt for you all to interact without masks.”
 
-“O-oh… I see?”
+“O-oh... I see?”
 
 The Goblin nodded with a dazed look, then glanced sideways at me.
 
 I could tell what he wanted to ask without him saying it.
 
-“But… Mr. Lion, why…?”
+“But... Mr. Lion, why...?”
 
 “You mean, why I didn’t remove his mask?”
 
-“Yes… exactly.”
+“Yes... exactly.”
 
 Auril Gavis had stripped everyone of their masks without asking, but left me untouched.
 
@@ -312,7 +312,7 @@ Why?
 
 “Kekeke, even I have to be careful around this one! Who knows what might happen if I’m too rude?”
 
-“Ah… I-I see?”
+“Ah... I-I see?”
 
 Hearing this, the goblin gave an awkward nod.
 
@@ -320,11 +320,11 @@ Somehow, it was kind of funny.
 
 If he was just going to nod and accept it, why bother asking?
 
-Well… typical Goblin, I guess.
+Well... typical Goblin, I guess.
 
-“……”
+“......”
 
-“……”
+“......”
 
 An awkward silence settled over the room.
 
@@ -334,7 +334,7 @@ As if expecting me to do something.
 
 With no other choice, I finally broke the silence.
 
-“So… are you done now?”
+“So... are you done now?”
 
 If he had more business, I was urging him to get on with it.
 
@@ -352,7 +352,7 @@ I answered as if granting permission.
 
 My reasoning was simple: hear the question first, then decide whether or not to answer.
 
-But…
+But...
 
 “There are too many people listening for me to ask.”
 
@@ -364,17 +364,17 @@ The moment he mentioned “compensation,” my body tensed.
 
 There was no way this old man genuinely felt sorry enough to offer something like that.
 
-He definitely had something else up his sleeve…
+He definitely had something else up his sleeve...
 
 “Simply giving compensation would be boring, so let’s all play a game instead.”
 
 As expected, he was dragging this out.
 
-“A… game?”
+“A... game?”
 
 “Yes, a game. Don’t you all like games? For the record, the reward will go to the one person who wins.”
 
-“…Can you tell us what the reward is?”
+“...Can you tell us what the reward is?”
 
 Goblin asked about the prize before even hearing what the game was. Surprisingly, Auril Gavis gave a straight answer instead of deflecting for suspense.
 

@@ -1,4 +1,4 @@
-Expanding(3)
+Expanding (3)
 
 A noble is a servant of the king.
 
@@ -20,13 +20,13 @@ Not for a specific tribe.
 
 Even if there’s no explicit law that prohibits it, there still exists an unspoken rule.
 
-However…
+However...
 
 “Let’s move.”
 
 The tribe chief did not mention a single word about such political matters.
 
-If he was unaware of the unwritten rule, I didn’t know.
+Whether he was unaware of that unwritten rule, I didn’t know.
 
 Regardless, I put aside my curiosity.
 
@@ -50,17 +50,17 @@ In reality, the ‘Land of Proof’ was rather crudely made.
 
 The ground was not flat and was filled with gravel, and sometimes rainwater would collect and remain there during a duel.
 
-But…
+But...
 
 Thump-!
 
-The moment we arrive, my warrior’s heart starts pounding.
+The moment we arrived, my warrior’s heart started pounding.
 
 Right—who cares whether it’s a grand marble floor or a place with tall statues?
 What matters is that the tribe chief brought me here.
 Unlike before, when he just suddenly swung his axe at me without warning.
 
-‘It feels like… I’m being recognized.’
+‘It feels like... I’m being recognized.’
 
 It’s quite strange.
 
@@ -68,7 +68,7 @@ I’m not even a real barbarian warrior.
 
 Thud-!
 
-Then Why am I so excited?
+Then why am I so excited?
 
 Whoosh-!
 
@@ -80,7 +80,7 @@ A thick cloud of dust rose with a boom.
 
 Before I followed, I exchanged a glance and a nod with Aynar.
 
-But…
+But...
 
 ‘What?’
 
@@ -88,17 +88,17 @@ Though our eyes met and she nodded in encouragement, she didn’t have her usual
 
 Suddenly, I thought.
 
-‘…She might think I’ve taken something from her.’
+‘...She might think I’ve taken something from her.’
 
 And it makes sense, Aynar had been reading books in the library and making various efforts to become the tribe chief in my absence.
 
 Maybe my challenge today didn’t feel welcome—
 
-“Bjorn…….”
+“Bjorn...”
 
 Then Aynar approached me, her voice stiff without a trace of a smile.
 
-“Win and come back! Understand! I’m counting on you!’
+“Win and come back! Understand? I’m counting on you!”
 
 I felt oddly let down.
 
@@ -136,7 +136,7 @@ Thud.
 
 The tribe chief stopped at a distance and pulled out a large axe from his back. I quickly grabbed my hammer and shield and prepared myself.
 
-And…
+And...
 
 Swoosh.
 
@@ -148,14 +148,14 @@ Unlike explorers in their chaotic fights, there was no shouting about killing ea
 
 Just
 
-“……”
+“......”
 
 A single look that signalled we were both ready.
 
 “Bethel—raaaaaaaaaaaaaaaa!!”
 “Bethel—raaaaaaaaaaaaaaaa!!”
 
-We just ran towards each other without saying who would go first.
+We just ran toward each other without saying who would go first.
 
 ---
 
@@ -163,21 +163,21 @@ His axe and my shield collided.
 
 Boom-!
 
-The tribe chief, who’s a few centimetres taller than me, brought down his massive axe.
+The tribe chief, who was a few centimeters taller than me, brought down his massive axe.
 
-From this position we were locked in a power struggle.
+From there, we were locked in a contest of strength.
 
 ‘Back then, even with my [Gigantification] activated, I was lifted by his axe.’
 
 That memory suddenly came to mind, but the result was clearly different from before.
 
-At that time, I hadn’t received the Earth Dragon’s Blessing, nor did I have the Bayon’s essence, the Storm Gush’s essence, Bol-Herchan’s essence, or the Deep Sea Giant’s essence.
+At that time, I hadn’t received the Earth Dragon’s Blessing, nor did I have the Bayon Essence, the Stormgush Essence, Bol-Herchan Essence, or the Deepsea Giant Essence.
 
 There was no reason to be pushed back in strength now.
 
-But…
+But...
 
-[Character has cast [Gigantification]
+[The character has cast [Gigantification].]
 
 Starting with increasing my size, I pushed back the tribe chief with his axe.
 
@@ -187,13 +187,13 @@ Screech-
 
 He kept looking down on me.
 
-[Character has used [Wild Burst]
+[The character has used [Wild Burst].]
 
 [Temporarily, threat level increases three times, and physical stats increase accordingly.]
 
 I roar and swing my hammer at the tribe chief who was pushed back.
 
-[Character has cast [Swing]
+[The character has cast [Swing].]
 
 [The destructive power of blunt weapons greatly increases with Strength.]
 
@@ -203,19 +203,19 @@ Boom-!
 
 A loud explosion erupted as the weapons collided.
 
-[Gudnulf Olga has cast [Friction Heat]
+[Gudnulf Olga has cast [Friction Heat].]
 
 It felt like a bomb had exploded right in front of me, and hot air brushed past my cheek.
 
 But, that was it.
 
-[The opponent’s weapon absorbs a certain amount of impact]
+[The opponent’s weapon absorbs a certain amount of impact.]
 
-[Heat has been generated]
+[Heat has been generated.]
 
 It’s a stacking-type skill.
 
-“……!”
+“......!”
 
 The more this “heat” builds up, the better it performs. But at the start of a fight, all it really does is soften some of the impact.
 
@@ -237,21 +237,21 @@ Flash-!
 
 The tribe chief stepped through the air and shot even higher.
 
-[Gudnulf Olga has cast [Flame Leap]
+[Gudnulf Olga has cast [Flame Leap].]
 
-One of the superior mobility skills of [Leap]
+One of the superior mobility skills derived from [Leap].
 
 Unlike Manticore’s version, it can be used even in midair, though its travel distance is relatively short.
 
 And more importantly, its additional effect is different.
 
-[The next skill’s fire damage increases by 200%]
+[The next skill’s fire damage increases by 200%.]
 
-A double-damage multiplier is hard to come by in mobility skills.
+A double-damage multiplier was hard to come by in a mobility skill.
 
-Because of that, it was practically the best-in-slot mobility skill in the fire-based route…
+Because of that, it was practically the best-in-slot mobility skill in the fire-based route...
 
-「Gudnulf Olga has cast [Thunderflame].」
+[Gudnulf Olga has cast [Thunderflame].]
 
 Landing behind me, the tribe chief slammed his axe down.
 
@@ -259,13 +259,13 @@ Kwaaaaaaaang—!
 
 An explosion erupted over my shield, sending a jolt through my bones for the first time in a while.
 
-「Heat has been generated.」
+[Heat has been generated.]
 
 It felt like I was fighting some giant monster.
 
 As a warrior, I returned as much as I got, swinging my hammer.
 
-And…
+And...
 
 Thud-!
 
@@ -273,9 +273,9 @@ What? How did that hit?
 
 The hammer struck the chief’s jaw, causing him to stumble back three steps.
 
-‘Ah… right, he’s a strength-type, too…’
+‘Ah... right, he’s a strength-type, too...’
 
-Maybe it’s because I’ve been fighting a lot of agility-types lately?
+Maybe it was because I’d been fighting so many agility-types lately.
 
 It felt strange to land a blow that was meant more as a check. But, being a strength character, he was much tougher than the agile ones.
 
@@ -283,22 +283,22 @@ Boom!
 
 I swung my hammer again before he could recover, but he had regained his senses and blocked it with his axe.
 
-[Heat has been generated]
+[Heat has been generated.]
 
 Is this the third stack?
 
-It seems about right, but there’s no need to keep an exact count. Once it hits ten stacks, it’ll be obvious anyway.
+That seemed about right, but there was no need to keep an exact count. Once it hits ten stacks, it’ll be obvious anyway.
 
-「Heat has been generated.」
-「Heat has been generated.」
-「Heat has been genera…」
-「…….」
+[Heat has been generated.]
+[Heat has been generated.]
+[Heat continues to build...]
+[...]
 
 After we’d exchanged several blows and enough stacks had built up—
 
-「Stored heat enhances the next attack.」
-「Gudnulf Olga has cast [Flame Leap].」
-「The next skill’s fire damage increases by 200%」
+[Stored heat enhances the next attack.]
+[Gudnulf Olga has cast [Flame Leap].]
+[The next skill’s fire damage increases by 200%.]
 
 The tribe chief leaped high and struck down with his axe.
 
@@ -306,7 +306,7 @@ Right, how could anyone resist this basic combo?
 
 Tadat.
 
-I could’ve blocked it, but to preserve my shield’s condition, I simply retreated to open up some distance. And then…
+I could’ve blocked it, but to preserve my shield’s condition, I simply retreated to open up some distance. And then...
 
 Kwaaaaaaaaaang—!
 
@@ -324,25 +324,25 @@ While I was contemplating this, the tribe chief slammed the ground.
 
 It was a skill from the Level 3 monster, Hellsmith.
 
-[Gudnulf Olga has cast [Pounding]
+[Gudnulf Olga has cast [Pounding].]
 
 [The flames dwelling within the earth awaken]
 
-Honestly, it was surprising.
+Honestly, that was surprising.
 
-I didn’t expect him to pull out his finisher before he’d stacked enough heat.
+I hadn’t expected him to pull out his finisher before he’d stacked enough heat.
 
 Boom-!
 
 The ground split, and flames that soared engulfed the tribe chief. Or rather, they enveloped him?
 
-「Pounding] is a type of buff skill」
+[[Pounding] is a buff skill.]
 
-「All fire skill damage is significantly increased」
+[All fire-skill damage is significantly increased.]
 
-「Physical stats greatly increase in proportion to fire affinity」
+[Physical stats greatly increase in proportion to Fire Affinity.]
 
-「Continuously burns the surrounding area.」
+[The surrounding area is continuously burned.]
 
 Wrapped in flames, the tribe chief immediately kicked off the ground and dashed toward me.
 
@@ -352,8 +352,8 @@ Though I blocked his swung axe with my shield, the searing heat caused a stingin
 
 Well, activating the Fire Orb helped reduce it a bit.
 
-「You have activated the Orb of Fire」
-「All ongoing fire-based damage effects within a 15-meter radius are reduced by 50%.」
+[The character has activated [Orb of Fire].]
+[All ongoing fire-based damage within a 15-meter radius is reduced by 50%.]
 
 Glad I brought this along.
 
@@ -365,13 +365,13 @@ Several more clashes followed. If you listened to the barbarians’ roaring chee
 
 Because from the start, I had the advantage in terms of skill synergy.
 
-The axe kept clashing with my hammer—and he couldn’t break my stance since I wasn’t losing in Strength either.
+His axe kept clashing with my hammer, but he couldn’t break my stance because I wasn’t losing in Strength either.
 
 Fwooooosh—!
 
-The reduced fire damage was something my natural regeneration could handle easily…
+The reduced fire damage was something my natural regeneration could handle easily...
 
-「Stored heat enhances the next attack.」
+[Stored heat enhances the next attack.]
 
 I avoided any potentially dangerous situations by stepping back.
 
@@ -381,7 +381,7 @@ Maybe it’d be one thing if I were a pure tank and not part damage dealer—
 
 Thud—!
 
-But I was a Warrior, who wielded a shield for defence and a hammer to do damage.
+But I was a Warrior who wielded a shield for defense and a hammer for damage.
 
 Ah, of course, that didn’t mean I was overwhelmingly dominating.
 
@@ -389,29 +389,29 @@ Boom-!
 
 The tribe chief was by no means an easy opponent.
 
-[The accumulated heat enhances the next strike]
+[Accumulated heat enhances the next strike.]
 
 The tribe chief used Flame Leap in a feint, then smashed his axe into my Adamantium shield.
 
-「Gudnulf Olga has cast [Resonance of Nature].」
+[Gudnulf Olga has cast [Resonance of Nature].]
 
-「Gudnulf Olga has cast [Fuse].」
+[Gudnulf Olga has cast [Fuse].]
 
 He unleashed a barrage of threatening skills fitting his fire-warrior concept.
 
 And that wasn’t all.
 
-[All stats are temporarily boosted by the accumulated heat]
+[All stats are temporarily boosted by the accumulated heat.]
 
 Upon reaching 50 stacks, he went even more insane.
 
-「By the tribe chief’s unique trait [Embers], he regenerates in proportion to the fire damage inflicted.」
+[Due to the tribe chief’s unique trait [Embers], he regenerates in proportion to the fire damage inflicted.]
 
-「By the tribe chief’s unique trait [Scorching], all stats increase in proportion to consumed resources.」
+[Due to the tribe chief’s unique trait [Scorching], all stats increase in proportion to consumed resources.]
 
-The effects he’d gained from the Golden Sun imprint were unexpectedly annoying to deal with.
+The effects he’d gained from the Golden Sun Imprint were unexpectedly annoying to deal with.
 
-The fact that [Scorching] was activated meant that he’d raised his imprint to at least level 9…
+The fact that [Scorching] was activated meant that he’d raised his imprint to at least level 9...
 
 ‘Ha, no wonder he’s so tough, even though he’s not a tank.’
 
@@ -419,21 +419,21 @@ I mentally praised him several times over—he truly was the epitome of a high-l
 
 Strong damage, a solid physique, and regenerative abilities that showed no fear of injury.
 
-And above all…
+And above all...
 
 “Bethel—raaaaaaaaa!”
 
 The more cornered he was, the more ferocious he became.
 
-‘His nickname… The Flame Warrior’
+‘His nickname... The Flame Warrior’
 
 I finally understood the story I had heard so long ago about the tribe chief’s youth.
 
 He was recruited by the largest clan at the time and after the attack on the Frostlord’s palace in one of the 8th-floor rifts, they started to see him as their leader.
 
-Back then, I thought the guy was overrated, but now…
+Back then, I thought the guy was overrated, but now...
 
-‘Right… at this level, I can see why they wanted him.’
+‘Right... at this level, I can see why they wanted him.’
 
 He was considered one of the weaker tribe chiefs historically, but he was still plenty strong.
 
@@ -443,11 +443,11 @@ Yet not enough to overcome this unmistakable gulf between us.
 
 ‘Time to wrap this up.’
 
-‘One… two… three…’
+‘One... two... three...’
 
 As I mentally counted to three, the flames engulfing the tribe chief died down.
 
-[Pounding] has been deactivated]
+[[Pounding] has been deactivated.]
 
 That buff, practically his finisher, had finally ended.
 
@@ -455,15 +455,15 @@ Now it was my turn to go on the offensive and end this.
 
 Boom-!
 
-I cast [Swing] with every attack, continuously linking [Transcendence] and [Eye of the Storm], giving him no room to breathe.
+I used [Swing] with every attack, continuously linking [Transcendence] and [Eye of the Storm], giving him no room to breathe.
 
-Of course, this would quickly deplete my MP, but…
+Of course, this would quickly deplete my MP, but...
 
 ‘I haven’t even used [Soul Dive] yet.’
 
 Sensing my determination to finish the fight, the tribe chief’s resistance became even fiercer.
 
-And…
+And...
 
 Crack-!
 
@@ -485,7 +485,7 @@ I blocked the axe with my hammer.
 
 And at that moment.
 
-[All heat has been charged]
+[All heat has been fully charged.]
 
 The tribe chief’s axe began to emit a red-hot glow as if it had just come out of the forge.
 
@@ -493,11 +493,11 @@ Phew, so he’s finally accumulated a full stack.
 
 I had tried to end it before that.
 
-[All stats are significantly increased due to the heat]
+[All stats are significantly increased due to the accumulated heat.]
 
 Of course, reaching the full stack doesn’t mean his condition is good. Blood dripped down his forehead, and his arms, legs, and abdomen were all grotesquely swollen.
 
-Honestly, it was a wonder how he was still standing…
+Honestly, it was a wonder how he was still standing...
 
 “Ah.”
 
@@ -521,15 +521,15 @@ So that’s what he wanted to say?
 
 He spoke as though acknowledging me, but his eyes were nowhere near those of a man who’d accepted defeat. And sure enough, his next words confirmed that.
 
-“But…”
+“But...”
 
 Then the tribe chief let out a roar.
 
 “It still pisses me off to lose!!”
 
-“…….”
+“...”
 
-“So! I’M the one who’ll win…!!!”
+“So! I’M the one who’ll win...!!!”
 
 With that shout, he charged at me, undeterred by all the hammer blows he’d taken.
 
@@ -557,11 +557,11 @@ Isn’t there a saying?
 
 Barbarians only hear what they want to.
 
-At the moment, that was the enemy’s breathing, the sound of his feet hitting the ground, and…
+At the moment, that was the enemy’s breathing, the sound of his feet hitting the ground, and...
 
 Whoosh—!
 
-…and the sound of the wind.
+...and the sound of the wind.
 
 Tadat.
 
@@ -569,7 +569,7 @@ I didn’t see it coming with my eyes. My body just moved on its own.
 
 I kicked off the ground and stepped back, and at that moment, the red-hot axe slashed up from below, grazing my torso.
 
-“…!”
+“...!”
 
 What the—what was that move?
 How did I dodge that? If that had landed cleanly, who knows what might’ve happened. Actually, how did he even swing from that angle?
@@ -592,23 +592,23 @@ Finally, his wrist completely shattered, and the axe fell to the ground.
 
 However, I was mistaken to think that was the end of the duel.
 
-“…?”
+“...?”
 
-The tribal chief, with his remaining hand, clenched a fist and stared at me.
+The tribe chief, with his remaining hand, clenched a fist and stared at me.
 
 An unspoken indication that the fight was not over yet.
 
-“Ah… typical barbarians…”
+“Ah... typical barbarians...”
 
 A whirlwind of emotions surged through me.
 
-A feeling of annoyance emerged and at the same time I thought, “Ah yes, this is what we barbarians are all about.”
+Annoyance surged up, yet at the same time I found myself thinking, ‘Ah, yes. This is what we barbarians are all about.’
 
 I also felt a twinge of regret.
 
 Well, I would’ve liked to put on a real flashy KO in front of everybody, but—
 
-‘Eh, it’s fine…’
+‘Eh, it’s fine...’
 
 If you ask me, we barbarians would enjoy something like this anyway.
 
@@ -625,7 +625,7 @@ Punch! Punch! Punch!
 
 It seemed today’s hero wasn’t me after all.
 
-“S-the winner… is decided…!!”
+“S-the winner... is decided...!!”
 
 “Bjorn, son of Jandel! Bjorn, son of Jandel, is the new tribe chief!!”
 

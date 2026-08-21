@@ -4,7 +4,7 @@ Despite the rapids crashing against me, my absurdly heavy body continued to sink
 
 My mind felt hazy, as though I were drunk, and I had one final thought.
 
-‘……Is this how it ends?’
+‘......Is this how it ends?’
 
 After all that hardship and journey, this is how it ends?
 
@@ -18,7 +18,7 @@ I can’t fall asleep like this. If I do, I’d be in real trouble.
 
 Even as I thought that, part of me gave up.
 
-‘Ah, whatever…….’
+‘Ah, whatever.......’
 
 I’ve reached my limit holding on.
 
@@ -26,9 +26,9 @@ Baek-ho or one of the others on the boat will come and save me anyway.
 
 Yeah, they’ll definitely save me.
 
-So…
+So...
 
-‘Let’s just… sleep…’
+‘Let’s just... sleep...’
 
 Just as I was about to let go of the last thread of consciousness—
 
@@ -58,11 +58,11 @@ An ordinary-looking girl, about ten years old, with straight brown hair that fel
 
 Even though I was dazed, I immediately recognised her.
 
-‘Ellis Groundia…’
+‘Ellis Groundia...’
 
 The Earth Witch I had met before in the cabin.
 
-‘Why are you here……?’
+‘Why are you here......?’
 
 I tried to speak, but no sound came out.
 
@@ -74,7 +74,7 @@ Then—
 
 Her voice was dreamy and almost seductive, yet it also carried a strange note of pleading.
 
-“So please…”
+“So please...”
 
 She stared straight at me, eyes unfathomably deep.
 
@@ -90,7 +90,7 @@ Then—
 
 My whole body froze. This time, the cause was mental rather than physical.
 
-“…It’s thin.”
+“...It’s thin.”
 
 I looked down at my hand, opening and closing it several times, then blankly scanned my surroundings before closing my eyes again.
 
@@ -108,13 +108,13 @@ Setting aside the fact that the endless energy I once felt every day was gone, i
 
 My head felt like it was going to split open.
 
-And……
+And......
 
-Sigh…
+Sigh...
 
 When I opened my eyes again, the space around me hadn’t changed.
 
-“This is……”
+“This is......”
 
 A place so familiar to me that calling it familiar wasn’t enough.
 
@@ -133,13 +133,13 @@ That thought crossed my mind for a second, but—
 The room I’d seen in the community forums was neat and tidy.
 This one was nothing like that.
 
-‘What the hell…?’
+‘What the hell...?’
 
 The place was a total mess.
 
 Books were spilled all over the floor beside the desk; the monitor had been taken; the wardrobe and drawers had been left wide open; and clothes were strewn everywhere.
 
-…It really did feel like something was missing.
+...It really did feel like something was missing.
 
 I suddenly realized I was completely naked, so I grabbed a few pieces of clothing from the floor and put them on.
 
@@ -153,7 +153,7 @@ The living room was also a complete mess. It looked like the aftermath of a poli
 
 Every single drawer was open and various random items were scattered on the floor.
 
-“Sigh……”
+“Sigh......”
 
 Feeling my throat getting dry, I thought about getting a drink of cold water and opened the fridge door.
 
@@ -165,7 +165,7 @@ The moment I opened the fridge, a rotten stench hit me, as if the appliance had 
 
 Feeling nauseated, I quickly closed the door and collapsed onto the floor.
 
-‘Ugh, I’m gonna die……’
+‘Ugh, I’m gonna die......’
 
 The smell only made my splitting headache worse.
 My dizziness intensified.
@@ -198,17 +198,17 @@ I have to fight an enemy hiding somewhere or obtain a key to wake from the dream
 
 Only one thing still bothered me—
 
-‘…Was that really just a dream?’
+‘...Was that really just a dream?’
 
 The Earth Witch I met just before losing consciousness.
 
-And the words she spoke to me…
+And the words she spoke to me...
 
 The more I thought about it, the more uneasy I felt.
 
 My thoughts trailed there when—
 
-Beep-beep, beep, beep, bee-beep…
+Beep-beep, beep, beep, bee-beep...
 
 I heard someone trying to punch in the passcode on my front door.
 
@@ -224,7 +224,7 @@ This was a dream world.
 
 Whoever was trying to open that door could very well be an enemy.
 
-‘The knife… it’s gone……?’
+‘The knife... it’s gone......?’
 
 It caught me off guard, but it wasn’t the first time something like that had happened to me. I immediately reassessed and turned my body towards the front door.
 
@@ -236,7 +236,7 @@ Besides, since they’ve stripped me of all my physical abilities, it’s highly
 
 ‘Especially since the setting’s modern.’
 
-Beep, bee-beep…
+Beep, bee-beep...
 
 The numbers were being entered one by one, slowly.
 
@@ -254,7 +254,7 @@ Before the code could even finish, I flung the door open and lunged forward—
 
 The stranger shouted as the suddenly opened door smacked him square in the nose. He wasn’t the only one who looked confused.
 
-“Wait…” I mumbled. It wasn’t just one person? “More than one, huh?”
+“Wait...” I mumbled. It wasn’t just one person? “More than one, huh?”
 
 My aching head made it hard to shake off the daze, but my decision was as quick as ever.
 
@@ -288,13 +288,13 @@ I made a tight fist and drove it into the face of the fallen man with all my mig
 
 I didn’t hear the familiar sound of a watermelon cracking, as I did in my barbarian days, but that hit should have been hard enough.
 
-‘…Apparently not.’
+‘...Apparently not.’
 
 “You crazy bastard!”
 
 Even after taking a direct hit, he grabbed my shoulders and slammed me against the wall.
 
-“Ha, damn it, I’m pissed……”
+“Ha, damn it, I’m pissed......”
 
 He was huge, a heavily built, muscular type.
 
@@ -304,7 +304,7 @@ Back in the day, I’d have frozen up at the mere sight of him.
 
 One thing was clear: he was pissed.
 
-But…
+But...
 
 ‘Why’s he so sloppy?’
 
@@ -314,7 +314,7 @@ After all, how many life-or-death situations had I been through?
 
 Even if I’m back to ordinary specs, if I can’t handle this much on my own, I should just go die.
 
-Therefore……
+Therefore......
 
 “Ahhhhk!!”
 
@@ -322,7 +322,7 @@ After bending back the fingers he was using to grab me, I drove a straight punch
 
 He stumbled back from the impact, and I seized the moment to slip inside his guard and twist around into a rear choke.
 
-“Ghk, kuh, keuh, glug……!”
+“Ghk, kuh, keuh, glug......!”
 
 I locked the position firmly, choking his neck and blocking the flow of oxygen and blood to his brain. The man’s struggles intensified.
 
@@ -336,7 +336,7 @@ He struggled desperately, but it was meaningless.
 
 Just because I don’t get physical resistance bonuses, do you think I’ll let go because it hurts?
 
-“Keuh, kh… Pl-, please……”
+“Keuh, kh... Pl-, please......”
 
 Sensing it was useless, he tapped my arm pleadingly.
 
@@ -356,13 +356,13 @@ The door lock started beeping again.
 
 God, what a nightmare difficulty right from the start.
 
-“P-please…”
+“P-please...”
 
 I tightened my hold. My mind was already running battle simulations.
 
 Total of five enemies.
 
-‘If I drop this guy, that leaves four…’
+‘If I drop this guy, that leaves four...’
 
 Well, it seems possible somehow.
 
@@ -372,7 +372,7 @@ It’d be hell, but possible.
 
 The moment the man’s body went limp, I released the grip and stood up.
 
-And then…
+And then...
 
 “Oh, look at this sweet starting weapon.”
 
@@ -402,7 +402,7 @@ There is a golden time for everything.
 
 So, if you avoid a situation, a more difficult one will come later.
 
-Therefore……
+Therefore......
 
 Swing.
 
@@ -442,7 +442,7 @@ Personally, I like that type, but when they’re the enemy, it’s just a weakne
 
 “Team Leader Kang! Please, snap out of it! Huh?!”
 
-‘One is preoccupied checking on his condition……’
+‘One is preoccupied checking on his condition......’
 
 The two I need to deal with immediately are right here.
 
@@ -452,7 +452,7 @@ Shwaaak-!
 
 If the ‘Team Leader Kang’ I caught earlier was a regular Goblin, these guys could be considered mutant variants.
 
-Goblin Swordsmen…
+Goblin Swordsmen...
 
 “No, since they have batons, are they Goblin Cops?”
 
@@ -476,9 +476,9 @@ This may seem minor, but it’s the decisive difference between an ordinary pers
 
 When you swing or thrust a weapon with all your might.
 
-Those who are untrained will, without fail, miss the intended location and…
+Those who are untrained will, without fail, miss the intended location and...
 
-‘…Fail to transfer power properly.’
+‘...Fail to transfer power properly.’
 
 Ah, of course, I had long since passed that stage.
 
@@ -490,7 +490,7 @@ Having taken a direct hit to the temple, the man collapsed powerlessly.
 
 The other one was suddenly terrified. The one who’d been standing to the side slowly stepped back, eyes fixed on me.
 
-“…”
+“...”
 
 Perfect.
 
@@ -502,7 +502,7 @@ I aggressively dashed forward.
 
 Once I had covered a sufficient distance, I swung the baton using the power of my waist.
 
-But……
+But......
 
 Whooosh-!
 
@@ -526,7 +526,7 @@ A small, dull pop. Too weak to be a gunshot
 
 It sounded like a BB gun being fired.
 
-And then….
+And then....
 
 Thud—
 
@@ -544,4 +544,4 @@ That’s when I finally realized what had hit me.
 
 Bzzzzzzzt—!
 
-“…A taser? That’s… cheating…”
+“...A taser? That’s... cheating...”

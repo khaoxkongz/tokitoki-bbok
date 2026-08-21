@@ -10,9 +10,9 @@ This place is outside the walls.
 
 The monsters’ heightened intelligence and the fact that their bodies remained after death served as proof of this.
 
-However, the problem was…
+However, the problem was...
 
-The only problem is…
+The only problem is...
 
 It’s impossible for us to walk back to where we came from.
 
@@ -24,9 +24,9 @@ Even if it was technically somewhere on the continent, the gray boundary surroun
 
 In other words, we were physically trapped, with no way out.
 
-“…Baron? What do we do now?”
+“...Baron? What do we do now?”
 
-Baek-ho glanced at me and asked. “…Baron? What do we do now?”
+Baek-ho glanced at me and asked. “...Baron? What do we do now?”
 
 This guy! I I swear!
 
@@ -50,7 +50,7 @@ Ah, should I really smack him?
 
 The thought did cross my mind, but I thought of Star Annihilation and forced myself to hold back.
 
-“Yes…” I muttered, clenching my teeth. “That’s a great gain. And we’ve more or less finished this map.”
+“Yes...” I muttered, clenching my teeth. “That’s a great gain. And we’ve more or less finished this map.”
 
 “You’ve only drawn the outer border; the inside is completely empty?”
 
@@ -60,7 +60,7 @@ I spoke in the confident leader tone I’d honed through countless experiences, 
 
 “Isn’t that just baseless confidence? How would you know there’s a Dimensional Stone?”
 
-Well…
+Well...
 
 ‘Because [Dungeon & Stone] is that kind of game.’
 
@@ -68,7 +68,7 @@ Of course, this might be a somewhat careless thought.
 
 We were outside the city walls—a place I’d never been to in the game—and the reality of this world was far different from the one I’d known there.
 
-But…
+But...
 
 “So, what do you suggest we do then?”
 
@@ -86,11 +86,11 @@ That is my ironclad rule.
 
 When I looked Yi Baek-ho straight in the eye and said that, he fell silent for a moment, then replied somewhat impressively.
 
-“…..…Wow. That was smooth. Is this how you’ve charmed everyone all along?”
+“........Wow. That was smooth. Is this how you’ve charmed everyone all along?”
 
 At his words, the archer next to him added a comment.
 
-“That was… oddly reassuring. For a moment, I felt like I didn’t have a single worry.”
+“That was... oddly reassuring. For a moment, I felt like I didn’t have a single worry.”
 
 “Hahaha! I never thought the Baron was wrong in the first place! We have to do something! If we don’t do anything, we’ll starve to death.” Aures burst out laughing heartily and the tension eased.
 
@@ -98,7 +98,7 @@ That was exactly why an optimistic warrior like him was essential to any party. 
 
 “All right. Let’s move out again.”
 
-…Let’s go.
+...Let’s go.
 
 ***
 
@@ -114,7 +114,7 @@ So, our exploration method was very simple.
 
 Rather than leaving everything to our scout Bright, we all stayed alert as we moved, scanning our surroundings.
 
-And if we discover something…
+And if we discover something...
 
 “It looks like a shallow pond, but the water is remarkably deep. It’s a perfect place to hide something.”
 
@@ -130,11 +130,11 @@ Otherwise, it would’ve been hard to notice.
 
 “Baron! Come look at this! Doesn’t this look suspicious?”
 
-“Suspicious how…?”
+“Suspicious how...?”
 
 “Right here! This flower petal’s broken!”
 
-“…Forget it. Keep moving.”
+“...Forget it. Keep moving.”
 
 Of course, I filtered out the nonsense to save time.
 
@@ -156,15 +156,15 @@ And so the search resumed.
 
 Our pace was slow but steady, and the map gradually filled in.
 
-‘Oldrock Plains is about 70% complete now…’
+‘Oldrock Plains is about 70% complete now...’
 
 The structure of the area we’re currently in is simple.
 
 At the center was the Primordial Land, the place we’d reached through the portal. To its west stretched the Ancient Stone Plains; to the north, the Lava Fields; to the east, the Dreaming Waterfalls; and to the south, Dragonskull Mountain.
 
-However, excluding the Primordial Land, all the other areas have their fields cut off midway due to the grey boundary…
+However, excluding the Primordial Land, all the other areas have their fields cut off midway due to the grey boundary...
 
-‘The biggest problem might be Dreaming Waterfalls…’
+‘The biggest problem might be Dreaming Waterfalls...’
 
 Both the Lava Fields and Dreaming Waterfalls were modeled after 9th-layer zones—dangerous but manageable.
 
@@ -174,11 +174,11 @@ Especially since we need to search meticulously for the Dimensional Stone, not j
 
 “Human! Traces of a human!”
 
-…Huh?
+...Huh?
 
 “Someone! Human traces!”
 
-…Huh?
+...Huh?
 
 “It’s true. Those are definitely human footprints.”
 
@@ -192,7 +192,7 @@ I quickly gave the order and we followed the traces at maximum speed.
 
 Before long—
 
-“…”
+“...”
 
 We saw a lone man standing motionless in the middle of the plain.
 
@@ -210,7 +210,7 @@ In fact, he wasn’t even human.
 
 A black spider clung to his face.
 
-“…What, it’s just a Bayon.”
+“...What, it’s just a Bayon.”
 
 A Level 3 humanoid monster, Bayon.
 
@@ -220,7 +220,7 @@ They usually appeared in The Land of Immortality, one of the 7th Floor’s dark 
 
 “Ha, and here I thought it’d be Dailan.”
 
-“Another dead end, huh…”
+“Another dead end, huh...”
 
 My teammates looked disheartened, but honestly, I was thrilled.
 
@@ -234,7 +234,7 @@ Not just because they dropped [Transcendence], but because their byproduct—the
 
 “Well, at least you’re lucky, Baron. That thing drops 8th-stage imprint materials, right?”
 
-“…”
+“...”
 
 “Still, I’m jealous. You’ve got so much room left to grow stronger.”
 
@@ -260,7 +260,7 @@ The standard approach was always to scout them first—
 
 Crunch!
 
-…Or maybe it didn’t matter after all.
+...Or maybe it didn’t matter after all.
 
 “Ah! That hit the spot!”
 
@@ -274,7 +274,7 @@ When we defeated ‘Gigageros’ before, I was too distracted to be sure, but.
 
 It seems we gain experience points here too.
 
-“Let’s see… Let’s loot our Baron’s engraving material first… Huh?”
+“Let’s see... Let’s loot our Baron’s engraving material first... Huh?”
 
 As Baek-ho reached to peel the spider off the Bayon’s face, he suddenly froze.
 
@@ -284,13 +284,13 @@ Even Aures jumped in shock after taking a look.
 
 I immediately knew something was wrong and rushed over to check the Bayon’s body.
 
-“…Huh?”
+“...Huh?”
 
 What is this?
 
 I stared down in disbelief at the face behind the spider, and the others were just as shocked.
 
-“The color’s different, but… i-isn’t this him?”
+“The color’s different, but... i-isn’t this him?”
 
 The humanoid monster we’d just defeated had Dailan’s face.
 
@@ -300,7 +300,7 @@ Dalan had lured us here, only to vanish afterward. Why had he turned into a mons
 
 At the GM’s cautious request, the ruin scholar finally spoke.
 
-“…Might I hear your opinion?”
+“...Might I hear your opinion?”
 
 “I’m not entirely sure, but I once read in an old book that Bayons were actually ancient explorers who died in the labyrinth.”
 
@@ -310,7 +310,7 @@ Coincidentally, I knew about that too. I’d spent every day digging into the ga
 
 “That’s what they say, but it’s not a well-founded story. It’s closer to a folktale for popular entertainment, if anything.”
 
-“…I see.”
+“...I see.”
 
 Just what kind of situation have we found ourselves in?
 
@@ -318,11 +318,11 @@ Still, I snatched the monster’s byproduct from Baek-ho’s hands.
 
 Curiosity was one thing, loot was another.
 
-‘Just one more left now…’
+‘Just one more left now...’
 
 Only one material remained for the 8th-stage imprint.
 
-‘Well, given the characteristics of this outer region, I should be able to get it soon enough…’
+‘Well, given the characteristics of this outer region, I should be able to get it soon enough...’
 
 Even so, finding a rare Bayon out here was pure luck.
 
@@ -332,11 +332,11 @@ Just then, Aureus stood up excitedly.
 
 In his hand was a palm-sized identification card.
 
-“Let’s see… name says…”
+“Let’s see... name says...”
 
 Thump.
 
-“‘Hans’…? Ah! Right! That’s it! His name was Hans!”
+“‘Hans’...? Ah! Right! That’s it! His name was Hans!”
 
 My heart began pounding furiously.
 

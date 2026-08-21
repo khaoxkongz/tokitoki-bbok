@@ -2,11 +2,11 @@ Declaration of War(1)
 
 Regret washed over me.
 
-I shouldn’t have… done the Floor Lord raid.
+I shouldn’t have... done the Floor Lord raid.
 
 If I had just paid the Gearfang Clan their fair share of the essence we took, I wouldn’t have even thought of attempting this raid.
 
-No, actually…
+No, actually...
 
 If only I hadn’t played that game.
 
@@ -18,7 +18,7 @@ I clenched my fists so hard they bled as I forced myself to stand.
 
 There was something I had to do before I let myself drown in regret.
 
-No, to be precise…
+No, to be precise...
 
 ‘It’s not even time to regret yet.’
 
@@ -64,7 +64,7 @@ It felt like using a cheat code.
 
 I had no skills, but purely in terms of basic stats, I felt several times stronger than I usually did in Gigantification.
 
-‘In this state, even if I get hit by aura, it probably won’t hurt much…’
+‘In this state, even if I get hit by aura, it probably won’t hurt much...’
 
 Still, there was no reason to just stand there and get slashed, so I managed the distance and went on an all-out offensive, hammering away at the bastard.
 
@@ -86,9 +86,9 @@ But he didn’t recover like before.
 
 This made it even more likely that my hypothesis was correct.
 
-‘There’s also the possibility that his recovery ability is a one-time use skill or something…’
+‘There’s also the possibility that his recovery ability is a one-time use skill or something...’
 
-But if my assumption was right—if this was a boss monster that could only be killed when left alone—then…
+But if my assumption was right—if this was a boss monster that could only be killed when left alone—then...
 
 ‘Maybe.’
 
@@ -108,7 +108,7 @@ And at the same time.
 
 As I felt the sensation of gaining experience, the bastard’s body turned into a haze of light and scattered.
 
-‘…Is it over?’
+‘...Is it over?’
 
 Did I get my hopes up in vain?
 
@@ -144,7 +144,7 @@ Flicker-!
 
 With the sound of flames igniting, the surroundings brightened.
 
-“……”
+“......”
 
 The place was a dark cave.
 
@@ -156,7 +156,7 @@ I didn’t know, but I approached and opened the first page of the book.
 
 It was written in an ancient language, but for some reason, I could read it without any issues.
 
-[If I were to depict the emotion of fear, I would not hesitate to capture his face on a blank canvas. Centurion Dreadpier. The one who showed me what true fear is…]
+[If I were to depict the emotion of fear, I would not hesitate to capture his face on a blank canvas. Centurion Dreadpier. The one who showed me what true fear is...]
 
 As I focused on reading, my vision flickered, and the letters blurred.
 
@@ -188,7 +188,7 @@ Am I really going to die like this?
 
 No matter what, I don’t want to die.
 
-But betraying my comrades…
+But betraying my comrades...
 
 “Trust me.”
 
@@ -196,13 +196,13 @@ It’s strange.
 
 Why does that short sentence not sound like a lie?
 
-“……”
+“......”
 
 I quietly opened my eyes.
 
 The woman who had been assigned the mission with me and had journeyed alongside me for a long time was also looking around with frightened eyes.
 
-“……”
+“......”
 
 When our eyes met, I instinctively knew.
 
@@ -224,7 +224,7 @@ It felt ominous.
 
 A seed of doubt had been planted, gnawing at my fear and growing larger by the minute.
 
-[If I were to kill someone… it would be best to kill that guy…]
+[If I were to kill someone... it would be best to kill that guy...]
 
 Then, out of nowhere, I heard her inner voice. It wasn’t something I could dismiss as a mere hallucination.
 
@@ -234,7 +234,7 @@ And where is this place?
 
 The very space where the spirit of the Earth Mother resides.
 
-A revelation… this must be a revelation from the Earth Mother.
+A revelation... this must be a revelation from the Earth Mother.
 
 She revealed the woman’s evil thoughts to me to save her young child.
 
@@ -242,17 +242,17 @@ Before I knew it, I had accepted as fact that the woman was planning to betray u
 
 Was that why?
 
-“Huff, huff, huff……”
+“Huff, huff, huff......”
 
 When I came to my senses, I was holding a dagger, breathing heavily.
 
 The woman who had met my eyes looked at me with wide eyes.
 
-“You, you… were you just thinking…? About whether to kill me or not……”
+“You, you... were you just thinking...? About whether to kill me or not......”
 
 “N-no! That’s not it!”
 
-“D-don’t lie! I… I can tell……! I heard it clearly……!”
+“D-don’t lie! I... I can tell......! I heard it clearly......!”
 
 With those words, I stabbed her with the dagger.
 
@@ -270,9 +270,9 @@ He looked at me and laughed heartily, as if genuinely pleased. Then he spoke pla
 
 My body, still trembling with excitement, asked.
 
-“But you.. said.. O-one person… if I stab one person… you will let me live……?”
+“But you.. said.. O-one person... if I stab one person... you will let me live......?”
 
-“Of course, I won’t kill you. But… will you be safe? If you put down the dagger, I might just let your friends go too.”
+“Of course, I won’t kill you. But... will you be safe? If you put down the dagger, I might just let your friends go too.”
 
 I felt like my vision was darkening.
 
@@ -306,7 +306,7 @@ I’ll let you live.
 
 Under his gaze, which looked at me like an amusing toy, I ran without looking back. After running for hours without rest, I reached the cave entrance and realized what I had done.
 
-“N-no…… I, I… didn’t……”
+“N-no...... I, I... didn’t......”
 
 A new fear began to sprout inside me.
 
@@ -324,13 +324,13 @@ It felt as if my corrupted soul was being torn apart.
 
 In that eternal agony, a warm energy gently caressed my soul. But that energy only provided comfort—it couldn’t piece together my shattered soul.
 
-“Sigh… It’s all over.”
+“Sigh... It’s all over.”
 
 And so, I shed my pitiful human body and transformed into a new being.
 
 A being with infinite power and authority beyond that of a human, yet an empty shell filled only with desire and emotion.
 
-“…An unusual case. It seems you still have some sanity left.”
+“...An unusual case. It seems you still have some sanity left.”
 
 “Impossible.”
 
@@ -342,7 +342,7 @@ I answered.
 
 “Dread Fear.”
 
-“…What? That’s my name—.”
+“...What? That’s my name—.”
 
 Crunch.
 
@@ -366,9 +366,9 @@ No, should I now call him the nameless pilgrim?
 
 After gaining power at the end, he devoured that guy and stole his name.
 
-‘…What the hell is going on here?’
+‘...What the hell is going on here?’
 
-I was a little… no, honestly, very confused.
+I was a little... no, honestly, very confused.
 
 The raid was already over.
 
@@ -380,7 +380,7 @@ So, what the hell is this thing in front of me?
 
 While I was cautiously observing him, his mouth opened.
 
-“Why was it… that none of you ever felt fear?”
+“Why was it... that none of you ever felt fear?”
 
 I think I understand what he wants to ask.
 
@@ -398,7 +398,7 @@ But that wasn’t all.
 
 The Dread Fear bastard used a skill to make us believe his words unconditionally, and just when we thought we might win after a hard fight, he would recover to full health with an absurd ability.
 
-But…
+But...
 
 “None of us are as weak as you.”
 
@@ -406,7 +406,7 @@ In the end, none of us betrayed each other.
 
 At my blunt answer, he nodded quietly.
 
-“I see…”
+“I see...”
 
 It felt incredibly strange to have such a conversation with a boss monster, both in the game and in reality.
 
@@ -428,11 +428,11 @@ Not only that, but his concept was also a clue.
 
 Fear, hatred, and all that, but in the end, the phrase that appeared when he showed up was ‘testing faith,’ wasn’t it?
 
-“…Truly astonishing.”
+“...Truly astonishing.”
 
 The creature let out a strange exclamation after hearing my explanation.
 
-“To vaguely understand the laws of this world…”
+“To vaguely understand the laws of this world...”
 
 What laws?
 
@@ -448,7 +448,7 @@ It wasn’t the answer I expected, but the moment I heard it, a shiver ran throu
 
 Yes, it’s true that everyone didn’t just die like that.
 
-“…Tell me. What do you mean by choice?”
+“...Tell me. What do you mean by choice?”
 
 “Exactly as I said.”
 
@@ -480,7 +480,7 @@ He gazed at me for a moment and then answered.
 
 “You would gain even more.”
 
-“……”
+“......”
 
 “That too is one of this world’s rules.”
 

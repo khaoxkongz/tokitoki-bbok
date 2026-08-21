@@ -2,34 +2,34 @@ Dilemma (7)
 
 Once, twice, three times, four times.
 
-The more we tried to connect with the main force, the deeper the ominous feeling sank into my bones.
+The more we tried to contact the main force, the stronger the ominous feeling became.
 
-There’s nothing else I can do.
+There was nothing else I could do.
 
 “Try one more time.”
 
-“Yes, sir…”
+“Yes, sir...”
 
-All we can do is keep attempting.
+All we could do was keep trying.
 
 However, even after several more tries, we still failed to connect with the main force.
 
-‘…What in the world happened?’
+‘...What in the world happened?’
 
 Originally, our expedition plan was as follows:
 
 Launch a surprise attack and infiltrate the enemy’s base.
-Use the Eye of the Sky to contact the main force waiting in the Dragon Mountain Range.
+Use the Eye of the Sky to contact the main force waiting in the Dragon Mountains.
 Destroy the target and escape, then rendezvous with the main force who would come to meet us.
 The key point of this plan was that the main force would concentrate their power temporarily to break through a section of the front line, then meet us at the rendezvous point so we could retreat together.
 
-But…
+But...
 
 “It’s no use. We can’t connect.”
 
 The most crucial part of the plan—contacting the main force—had failed.
 
-‘Could it be… they’ve abandoned us?’
+‘Could it be... they’ve abandoned us?’
 
 For a brief moment, the worst-case scenario crossed my mind, but I quickly shook my head.
 
@@ -49,13 +49,13 @@ Before making my decision, I took a moment to organize my thoughts.
 
 Time was running out.
 
-We have to do the best we can with our limited resources.
+We had to do the best we could with what little we had.
 
-What will most aid our survival?
+What would give us the best chance of survival?
 
 It didn’t take me long to decide.
 
-Though I’m not sure if this is the best possible choice.
+I wasn’t sure it was the best possible choice.
 
 Tuk, tuk.
 
@@ -71,19 +71,19 @@ No better idea is coming to mind anyway.
 
 So far, we’ve been attempting to contact the main force by dialing their designated communication coordinates.
 
-But…
+But...
 
-“What? If we do that, everything we say will be broadcasted without restriction across the entire region…?”
+“What? If we do that, everything we say will be broadcasted without restriction across the entire region...?”
 
 “That’s exactly what I want.”
 
 There’s no point in leaving missed messages for someone who’s not answering.
 
-“…Alright.”
+“...Alright.”
 
 Akuraba, understanding my intentions perfectly, hesitated for a moment but eventually agreed without objection.
 
-And…
+And...
 
 “All set. The bandwidth is also at maximum.”
 
@@ -95,11 +95,11 @@ I carefully pressed the button.
 
 I was a bit nervous.
 
-Right now, this device is set to a broadcasting mode similar to a radio transmission.
+The device was now set to a broadcast mode similar to a radio transmission.
 
-This means the transmission will be heard all over the continent by anyone who has their message stone activated, regardless of whether they are friend or foe.
+That meant anyone on the continent with an active message stone could hear the transmission, friend or foe.
 
-But…
+But...
 
 “Everyone, listen.”
 
@@ -121,17 +121,17 @@ At this point, I could only hammer my voice into their ears.
 
 A dreary, barren plain stretching endlessly.
 
-And there…
+And there...
 
-“….”
+“....”
 
-…lay the shattered remains of the Eye of the Sky.
+...lay the shattered remains of the Eye of the Sky.
 
 A man pulled off his robe, revealing the face hidden beneath.
 
 His skin looked like it had been drenched in some acidic substance.
 
-“…What happened here?”
+“...What happened here?”
 
 The man with the grotesque face glanced around, and those who met his gaze were quick to avert their eyes.
 
@@ -143,7 +143,7 @@ The man reached out and grabbed the nearest explorer by the neck.
 
 “If you want to live, speak up. What happened here?”
 
-“I-I’ll tell you…! I’ll tell you everything without hiding anything!”
+“I-I’ll tell you...! I’ll tell you everything without hiding anything!”
 
 The trembling explorer spilled his story, and Vagos loosened his grip slightly, willing to hear him out.
 
@@ -156,19 +156,19 @@ The message stone had gone silent after that final transmission, leaving Regal V
 
 As the details emerged, an overwhelming tide of fury surged within him.
 
-“Th-that’s because… when you took the main forces out on an expedition—”
+“Th-that’s because... when you took the main forces out on an expedition—”
 
 “You’re blaming me?”
 
-“Gu- guhuck! No, that’s not what I mean! It-it’s just because they cowardly brought monsters with them…! We-we were outmatched!”
+“Gu-guhuck! No, that’s not what I mean! It-it’s just because they cowardly brought monsters with them...! We-we were outmatched!”
 
-“…Useless trash.”
+“...Useless trash.”
 
 His grip tightened again. The explorer, sensing his death, blurted out a name in desperation.
 
 “T-Titana Akuraba!”
 
-“Titana Akuraba…?”
+“Titana Akuraba...?”
 
 Regal Vagos froze for a moment, recognizing the name.
 
@@ -198,13 +198,13 @@ And perhaps because of that, Vagos felt a mix of regret and resentment toward hi
 
 The surrounding explorers flinched, and Kael sighed, pulling out his trump card.
 
-“…If you do, the Commander won’t stand for it.”
+“...If you do, the Commander won’t stand for it.”
 
 The commander of Orcules.
 
 The traitor, Ricardo Lühensprache.
 
-“You bastard…!”
+“You bastard...!”
 
 The mention of that name made Regal Vagos seethe, but he restrained himself.
 
@@ -212,13 +212,13 @@ No matter how furious he was, even Vagos couldn’t ignore that name.
 
 “This is already a significant event. The commander will likely return from the front lines to assess the situation. Please, act wisely for now.”
 
-“…Tch.”
+“...Tch.”
 
 In the end, Vagos swallowed his anger.
 
 He couldn’t afford to give the commander any more ammunition to use against him.
 
-But…
+But...
 
 “The Blood Spirit Queen’s man? Rihen Schuiz?”
 
@@ -250,7 +250,7 @@ Click, click, click.
 
 Regal Vagos replayed the recorded message several times over, then finally loosened his grip and let out a bitter laugh.
 
-“…No wonder it sounded familiar.”
+“...No wonder it sounded familiar.”
 
 So that was it.
 
@@ -260,9 +260,9 @@ At last, Regal Vagos realized who the voice belonged to.
 
 [We are heading to the rendezvous area now.]
 
-Due to Amelia Rainweilz’s betrayal, he had been unable to recall this sworn enemy for over three years. Once his body healed and his memory returned, he realized it was that precious sword that had been stolen.
+Because of Amelia Rainweilz’s betrayal, he had been unable to remember this sworn enemy for over three years. Once his body healed and his memories returned, he remembered that his precious sword had been stolen.
 
-A thief who’d stolen a treasured sword that cost him so much to acquire.
+A thief who had stolen a treasured sword that had cost him so much to obtain.
 
 He had always assumed the thief was dead.
 
@@ -272,7 +272,7 @@ He suspected the royal family knew about the thief’s identity.
 
 No, maybe the royal family had engineered his supposed death.
 
-Or they wouldn’t have placed a man called ‘the Man of the Blood Spirit Queen’ as the leader of an expedition involving a big shot like Akuraba.”
+Otherwise, they wouldn’t have placed a man called ‘the Man of the Blood Spirit Queen’ in command of an expedition involving someone as prominent as Akuraba.
 
 “Bjorn Jandel.”
 
@@ -288,21 +288,19 @@ It’s time to meet him again.
 
 ---
 
-Several Days Later…
+Several days later...
 
 Deadwood.
 
-A field located west of the Dragon Mountains, an area which Noark considers its territory and where the royal army never managed to set foot during the war…
+A field west of the Dragon Mountains—territory claimed by Noark, where the royal army had never managed to set foot during the war...
 
 It’s also the predetermined rendezvous area we’d agreed upon with the royal family in advance.
 
-“…..”
+“......”
 
-We hold our breath while waiting there.
+We held our breath as we waited there, trusting that if the main force had heard our message, they would come to our rescue.
 
-Trusting that if they hear our message, they’ll come to our rescue.
-
-“….“
+“......”
 
 Curled up on a branch of a lifeless tree, we endured the restless hours.
 
@@ -310,7 +308,7 @@ This was now our third day.
 
 “If they moved immediately upon receiving the message, they should have arrived yesterday.”
 
-“Why… aren’t they here yet?”
+“Why... aren’t they here yet?”
 
 “Sir Kaislan, lower your voice. We don’t have the energy to use voice suppression magic anymore.”
 
@@ -328,21 +326,21 @@ He was an explorer belonging to Melend Kaislan’s team.
 
 Class: Scout.
 
-He primarily learned skills that would help in navigation, such as [Current Manipulation], [Lightening], and [Excess Supply]. He died in the battle that took place in the morning.
+He had primarily acquired navigation-related skills such as [Current Manipulation], [Lightening], and [Excess Supply]. He died in that morning’s battle.
 
-While we still had some spare mana, the mages had run out of stamina, causing our Stealth Magic to briefly disengage.
+Although we still had some mana to spare, the mages had run out of stamina, causing our Stealth magic to drop for a moment.
 
 The Noark guys searching below discovered us, and Philip’s head was crushed during an intense combat when he attempted to fight them off, leading to his immediate death.
 
-A few more hours passed since that incident.
+A few more hours had passed since that incident.
 
-“Shuiz, it’s not safe here either.”
+“Schuiz, it’s not safe here either.”
 
 The anxiety among the members had reached its peak.
 
 It wasn’t surprising. Noark would have noticed the absence of their patrol by now.
 
-As time passes, their search efforts would intensify.
+As time passed, their search efforts would only intensify.
 
 In fact, the frequency of Noark soldiers passing beneath us had already increased significantly.
 
@@ -354,7 +352,7 @@ In fact, the frequency of Noark soldiers passing beneath us had already increase
 
 “W-what are you saying?! Are you implying the royal family has abandoned us?!”
 
-“I didn’t say that. It’s just… we failed to establish contact as well. If they have some situation on their end, it would be wise for us to act accordingly.”
+“I didn’t say that. It’s just... we failed to establish contact as well. If they have some situation on their end, it would be wise for us to act accordingly.”
 
 “You may have a point, but I disagree. In our current exhausted state, how far can we even go? If we’re discovered along the way, we’ll be annihilated.”
 
@@ -362,7 +360,7 @@ In fact, the frequency of Noark soldiers passing beneath us had already increase
 
 As is always the case in emergencies, opinions were sharply divided.
 
-‘Haah….’
+‘Haah...’
 
 I let out a deep sigh internally.
 
@@ -374,12 +372,12 @@ We have to make some sort of decision now.
 
 We essentially have three choices.
 
-The first one is to stay here and quietly wait.
+The first was to stay here and wait quietly.
 
-In the best case scenario, we’d all remain safe until the rescue force arrives.
-In the worst case, however…
-‘…We’d die here like dogs, fighting a losing battle.’
-The second choice is not to wait but to move on, directly breaking through to the area under the royal family’s control.
+In the best-case scenario, we would all remain safe until the rescue force arrived.
+In the worst case, however...
+‘...We’d die here like dogs, fighting a losing battle.’
+The second was to stop waiting and break through directly to territory controlled by the royal family.
 
 Deadwood is far less critical than the Dragon Mountains, so the front lines here are weaker and troop presence is lower.
 
@@ -387,7 +385,7 @@ We chose this rendezvous area precisely for that reason.
 
 It’s not an utterly unreasonable plan.
 
-But…
+But...
 
 ‘With fewer than thirty of us remaining, it would still be very difficult.’
 
@@ -395,9 +393,9 @@ It would be a miracle if even 10% of us survived to reach safety.
 
 In the worst-case scenario, the result would be the same as the first option.
 
-‘That leaves only one other choice…’
+‘That leaves only one other choice...’
 
-The third choice is a kind of endurance strategy.
+The third was an endurance strategy of sorts.
 
 Just like how the enemy base near the frontline was left empty, maybe we can hide somewhere behind their main lines until the labyrinth closes.
 
@@ -411,13 +409,13 @@ Even if we execute everything perfectly, there will be many casualties.
 
 That thought almost made me laugh.
 
-I briefly think, since a total annihilation ending is possible with the worst outcomes anyway, maybe the best choice is the one where everyone lives in the best-case scenario: staying put and waiting.
+For a moment, I thought that since every option could end in total annihilation, perhaps the best choice was the one where everyone survived in the best-case scenario: stay put and wait.
 
 If it fails, at least we can blame the royal family for failing us.
 
-“…No, that’s nonsense.”
+“...No, that’s nonsense.”
 
-“Huh? What did you just say, Commander Shuiz?”
+“Huh? What did you just say, Commander Schuiz?”
 
 Ignoring Kaislan’s puzzled look, I spoke up.
 
@@ -429,9 +427,9 @@ We have to choose something.
 
 “Everyone, get ready. We’re leaving this place now.”
 
-“You mean… you won’t wait for the main force anymore?”
+“You mean... you won’t wait for the main force anymore?”
 
-“Yes, we’ve waited long enough and stood up. Oh, and don’t worry too much.”
+“Yes. We’ve waited long enough. Everyone, get up. And don’t worry too much.”
 
 I gave Kaislan a slight smile.
 

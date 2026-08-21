@@ -6,7 +6,7 @@ The clip they showed was very short.
 
 A solidly constructed building stood in a bright, clear setting with laundry hanging from a balcony, creating a peaceful scene.
 
-And then…
+And then...
 
 One second was all it took.
 
@@ -19,11 +19,11 @@ How could you possibly respond to something that fast, something that hurtles in
 
 Would you dodge it? Or block it?
 
-The people inside that building in the video probably never even recognized the missile’s existence until it exploded. Well, maybe they heard an air-raid siren or something…
+The people inside that building in the video probably never even recognized the missile’s existence until it exploded. Well, maybe they heard an air-raid siren or something...
 
 Anyway, that’s not what matters right now.
 
-“Fuck…”
+“Fuck...”
 
 A missile was racing toward us at a speed that seemed to ignore physics itself. I stood frozen, gaping at it.
 
@@ -47,19 +47,19 @@ Right now, I have two choices.
 
 The first was to link [Transcendence] and [Gigantification], enlarging my body as much as possible. With the effect of “Unity,” Aegis’s barrier would scale in proportion to my size. If I could pull off a proper guard, I might block it without taking any damage.
 
-But…
+But...
 
-“…No. That won’t work.”
+“...No. That won’t work.”
 
 As I watched “Thunder” rapidly close in, I quickly reconsidered.
 
-It’s not even a nuclear bomb…
+It’s not even a nuclear bomb...
 
 Why the hell is it so big?
 
 Even if I stacked [Gigantification] multiple times, it wouldn’t be large enough to guard against that.
 
-Which means…
+Which means...
 
 There was only one option left.
 
@@ -97,9 +97,9 @@ The skin over my knuckles rippled, becoming sharper.
 
 Now this brought back good memories. Tossing aside my hammer and shield to beat monsters down with my fists had always been fun, and those watching from the sidelines enjoyed it too.
 
-But…
+But...
 
-“Ha… You’ve got to be kidding me…”
+“Ha... You’ve got to be kidding me...”
 
 What am I supposed to do with that in this situation?
 
@@ -107,7 +107,7 @@ Still, it’s a hundred—no, a thousand—times better than the first effect, w
 
 Anyway, time to check the last effect—
 
-“Wha—? Jandel, your head… You’ve got horns!”
+“Wha—? Jandel, your head... You’ve got horns!”
 
 The moment I heard Rottmiller’s voice, I cursed.There was no need to check the effect anymore.
 
@@ -120,7 +120,7 @@ We weren’t inside the Labyrinth; how was I supposed to use this in a city with
 
 How am I supposed to use that here?
 
-“…Ha.”
+“...Ha.”
 
 This was exactly why I hadn’t used [Mutating Shell] until now.
 
@@ -160,7 +160,7 @@ After taking one last look at the incoming “Thunder,” I raised my shield abo
 
 With one final prayer, I braced my entire body for the impact that was about to come—
 
-‘Huh…?’
+‘Huh...?’
 
 Suddenly, a brilliant white light erupted from somewhere. When I checked, it was the armor I was wearing.
 
@@ -184,7 +184,7 @@ But—
 
 Shraaak—
 
-Black wings sprouted from my back and spread wide. It was one of the hundreds of effects available through [Mutating Shell]…
+Black wings sprouted from my back and spread wide. It was one of the hundreds of effects available through [Mutating Shell]...
 
 「Character’s Physical Resistance is 1,500 or higher. Character gains a new special effect.」
 
@@ -238,9 +238,9 @@ I couldn’t feel time, and so time itself did not exist.
 
 The white universe slowly dimmed, its pristine canvas gradually stained by darkness. Faint sounds began to filter through.
 
-“…! …!”
+“...! ...!”
 
-“…!”
+“...!”
 
 Someone was shouting.
 
@@ -250,9 +250,9 @@ Blink.
 
 I opened and closed my eyes. I’m not sure if I actually performed the physical action, but regardless—
 
-“……”
+“......”
 
-“……!”
+“......!”
 
 I felt something touch me. Someone was shaking me. It seemed like my body was being carried somewhere.
 
@@ -300,11 +300,11 @@ Who I was. What I had done. What I was going through.
 
 The things I had once been able to grasp only with intense concentration now returned to me effortlessly, along with knowledge of the “outside world.”
 
-“…Over here!!”
+“...Over here!!”
 
 A desperate voice.
 
-But… whose voice was that?
+But... whose voice was that?
 
 I wasn’t sure.
 
@@ -322,7 +322,7 @@ I hit the ground and tumbled.
 
 I could feel it, but like a drunk person, I couldn’t control my body at all—
 
-“…Damn it!”
+“...Damn it!”
 
 “H-he’s not healing!”
 
@@ -330,25 +330,25 @@ I could feel it, but like a drunk person, I couldn’t control my body at all—
 
 They’re all working so hard.
 
-Well… not really.
+Well... not really.
 
 This happened because of me.
 
-‘Amelia…’
+‘Amelia...’
 
 How would she react if she found out what I did?
 
-Yeah… she definitely wouldn’t praise me.
+Yeah... she definitely wouldn’t praise me.
 
-“…Better not tell her.”
+“...Better not tell her.”
 
 Yeah. That’s probably for the best.
 
 Even if I explained that there was a high chance of survival and that this was the only way to save everyone, I doubt she’d understand.
 
-“…Jandel! Can you hear me? Are you awake?!”
+“...Jandel! Can you hear me? Are you awake?!”
 
-……Huh? ‘Wait, why am I moving?’
+......Huh? ‘Wait, why am I moving?’
 
 I opened my eyes. I couldn’t tell how much time had passed, but when I looked up, only one person was in sight.
 
@@ -362,11 +362,11 @@ The scout of Team Half-ling, my first party, and a former ally who shared some o
 
 He spoke with frantic urgency. I slowly pushed myself up. I didn’t know the details, but the situation looked dire. Besides, my body seemed to have recovered enough that moving didn’t feel like an impossible task.
 
-Right, so…
+Right, so...
 
 “Don’t worry. I’m fine enough to mov—”
 
-I was about to say ‘move’, but then…
+I was about to say ‘move’, but then...
 
 「Character’s Soul Power is insufficient. Mutating Shell has ended.」
 
@@ -380,7 +380,7 @@ Honestly, I didn’t care about the cosmetic changes. If there was a problem rig
 
 The ‘debt’ I had been paying off in installments was suddenly called in as a lump sum.
 
-“Ah…”
+“Ah...”
 
 I’m screwed.
 

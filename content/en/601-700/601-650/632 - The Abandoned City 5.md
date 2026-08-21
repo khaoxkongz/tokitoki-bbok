@@ -30,7 +30,7 @@ I wonder if something like this could be engraved on the Stone of Honor as well.
 
 I muttered loud enough for everyone to hear, but the woman, who looked like she wouldn’t shed a tear even if the world ended, completely ignored me.
 
-And then…
+And then...
 
 “Baron Jandel, are you planning to raise a private army?”
 
@@ -42,7 +42,7 @@ If I answered with something like, “Why not raise a private army?” it would 
 
 In the worst case, I could be accused of treason.
 
-So…
+So...
 
 “Of course not. I have no intention of forming a private army. I swear it on my name and my honor as a warrior.”
 
@@ -56,7 +56,7 @@ Tch, so strict.
 
 I clicked my tongue, then decided to answer her question.
 
-“Well… isn’t it good to have more servants? I like things lively, you know…”
+“Well... isn’t it good to have more servants? I like things lively, you know...”
 
 “You want 9,000 retainers just because you like liveliness?”
 
@@ -64,11 +64,11 @@ I clicked my tongue, then decided to answer her question.
 
 Cutting her off with my nonsense, I quickly continued.
 
-“And it’s not just because I like having a crowd—I genuinely need them all. For example, this document lists Kaina Elmoshi as a… Oh! Kitchen assistant!”
+“And it’s not just because I like having a crowd—I genuinely need them all. For example, this document lists Kaina Elmoshi as a... Oh! Kitchen assistant!”
 
 “Baron, do you honestly expect us to believe that?”
 
-…Well, of course not.
+...Well, of course not.
 
 Even I knew that no one would believe such an excuse.
 
@@ -76,7 +76,7 @@ But so what?
 
 “Whether you believe me or not, why should you care?”
 
-“……”
+“......”
 
 “If anything, I’m the one who doesn’t understand why you’re making a fuss. Weren’t you just following the King’s orders yesterday? These people are now my retainers, and they’ve obtained legitimate entry permits. So why are you trying to stop me?”
 
@@ -84,7 +84,7 @@ As I pressed her openly, she couldn’t refute anything.
 
 Time to press harder.
 
-So…
+So...
 
 “Human woman. If you’re capable, make the decision yourself.” I lowered my voice and continued, “If not, then shut up.”
 
@@ -94,17 +94,17 @@ The Rose Knight’s expression didn’t change much.
 
 But perhaps my advice had some impact on her.
 
-“…”
+“...”
 
-“…”
+“...”
 
 An awkward silence fell, with even the knights at the checkpoint rolling their eyes nervously. After a long pause, the woman finally spoke.
 
-“Baron…”
+“Baron...”
 
 “Baron?”
 
-“…You will regret today’s decision.”
+“...You will regret today’s decision.”
 
 Pfft, what kind of threat was that?
 
@@ -116,7 +116,7 @@ Whenever things didn’t go their way, people always resorted to ominous warning
 
 As I kept poking at her till the end, the woman glared at me bitterly before she turned to the knights:
 
-“…Let them through!”
+“...Let them through!”
 
 Whew. One hurdle cleared.
 
@@ -126,7 +126,7 @@ All the shops were closed, and not a soul was in sight.
 
 “Hey lady, what’s going on here?”
 
-“…District 4 has been temporarily closed for the safety of the citizens.”
+“...District 4 has been temporarily closed for the safety of the citizens.”
 
 “What about the other districts?”
 
@@ -134,7 +134,7 @@ All the shops were closed, and not a soul was in sight.
 
 I almost couldn’t believe my ears.
 
-“…What?”
+“...What?”
 
 Her words didn’t make sense.
 
@@ -158,9 +158,9 @@ No matter what I asked after that, the only response I got was to go and ask him
 
 Soon after, we arrived at the District 4 square and set up a temporary shelter for the residents of Bifron and those from District 7. She told us that it would take some time to decide on our treatment, and that we would have to stay there until then.
 
-“Huh…”
+“Huh...”
 
-“…I don’t think I’ve ever seen Free Plaza this empty in my life.”
+“...I don’t think I’ve ever seen Free Plaza this empty in my life.”
 
 Still, the people didn’t seem too bothered by the royal family’s treatment.
 
@@ -168,11 +168,11 @@ They just seemed to accept it as normal.
 
 “Baron, this way please. The Chancellor is waiting.”
 
-“…I’ll be back. Emily, Versil. Take care of things here.”
+“...I’ll be back. Emily, Versil. Take care of things here.”
 
 Once the situation at the plaza was settled, I followed the rose knight to a high-end residence not far away.
 
-And…
+And...
 
 “The Chancellor will contact you shortly.”
 
@@ -206,13 +206,13 @@ He can even use military teleportation circles at will. It was laughable, but of
 
 [Yes. They’ve all returned to the city unharmed and submitted their reports. It’s thanks to them we learned you were in District 7.]
 
-“I see…”
+“I see...”
 
 I usually disliked small talk, but this time, it was a good way to gather information.
 
 “Then how did you know we were in Bifron?”
 
-[From an agent we secretly deployed in District 7. I heard you declared in front of everyone that you were going to Bifron… Why did you do that? I heard they said they’d let you go.]
+[From an agent we secretly deployed in District 7. I heard you declared in front of everyone that you were going to Bifron... Why did you do that? I heard they said they’d let you go.]
 
 I was expecting that question, so I answered smoothly.
 
@@ -222,7 +222,7 @@ I was expecting that question, so I answered smoothly.
 
 “Unfortunately, after several days of investigating, I still haven’t found anything.”
 
-[I see… Regardless, I’ll relay your information to the strategy room. The Noark forces may be plotting something in Bifron.]
+[I see... Regardless, I’ll relay your information to the strategy room. The Noark forces may be plotting something in Bifron.]
 
 “Oh, that’s a relief.”
 
@@ -244,19 +244,19 @@ Would’ve been nice if he’d just dropped dead, though.
 
 “Oh, so can I expect a promotion?”
 
-[…That conversation will have to wait. There will be a proper recognition ceremony for the expedition’s achievements someday, but right now, we’re in a state of war.]
+[...That conversation will have to wait. There will be a proper recognition ceremony for the expedition’s achievements someday, but right now, we’re in a state of war.]
 
 In other words, the rewards for our achievements can only be determined after the Noark invasion is over.
 
 That was fair enough, so I didn’t press further.
 
-‘Anyway, that’s enough small talk…’
+‘Anyway, that’s enough small talk...’
 
 It was time to get to the main topic.
 
 But just as I was about to speak, the Chancellor beat me to it.
 
-[By the way, I heard you’ve taken in the residents of Bifrons as your retainers…]
+[By the way, I heard you’ve taken in the residents of Bifrons as your retainers...]
 
 Since this old man, who usually liked getting straight to the point, was speaking so roundabout, my actions must have caught his attention at least a little.
 
@@ -264,7 +264,7 @@ Since this old man, who usually liked getting straight to the point, was speakin
 
 “Send them back? Did I do something illegal?”
 
-[No, it’s not that. But… from our perspective, having all those people come out of Bifron isn’t exactly desirable. You’re a noble now—you should understand.]
+[No, it’s not that. But... from our perspective, having all those people come out of Bifron isn’t exactly desirable. You’re a noble now—you should understand.]
 
 “You’re saying I should abandon personal feelings and act in the royal family’s interest?”
 
@@ -276,7 +276,7 @@ Since this old man, who usually liked getting straight to the point, was speakin
 
 “Sorry, but I’m not good at saying harsh things to people.”
 
-[…You?]
+[...You?]
 
 The Chancellor let out a disbelieving laugh.
 
@@ -284,7 +284,7 @@ Tch, don’t you know how sensitive and introverted I am?
 
 “Anyway, if it’s not illegal, then this discussion is over. It’s already done.”
 
-[…Baron, I say this out of concern for you.]
+[...Baron, I say this out of concern for you.]
 
 Concern my ass.
 
@@ -292,7 +292,7 @@ If I dropped dead right now, he’d probably be the happiest man alive.
 
 “I appreciate the concern, but I’ll handle my own decisions.”
 
-[……]
+[......]
 
 “So, what are your plans for Bifron?”
 
@@ -300,9 +300,9 @@ If the retainers were the main topic for the Chancellor, this was the main topic
 
 What does the royal family intend to do with Bifron?
 
-[I can’t disclose military intelligence lightly… but I suppose there’s no need to hide it from you. You’ve likely already guessed.]
+[I can’t disclose military intelligence lightly... but I suppose there’s no need to hide it from you. You’ve likely already guessed.]
 
-“If I had to guess…”
+“If I had to guess...”
 
 [Correct. The moment the Noark forces take shelter there. We plan to annihilate Bifron]
 
@@ -310,7 +310,7 @@ He spoke calmly, but his words were cold and brutal.
 
 “Even though they planned to blow up Bifron, he had just told me to send its residents back.”
 
-‘…What the hell do these people think of human lives?’
+‘...What the hell do these people think of human lives?’
 
 It was a savage world, but from a distance, I wasn’t much different.
 
@@ -324,7 +324,7 @@ Even if he said he didn’t know, I couldn’t believe it.
 
 Given how both the royal family and Noark were acting, something was clearly going on.
 
-A secret they won’t tell me, huh…
+A secret they won’t tell me, huh...
 
 That just made me more curious.
 
@@ -350,12 +350,12 @@ The Chancellor tilted his head at my use of the past tense, but thinking it was 
 
 As soon as I heard that, I lowered my head.
 
-After all, the spoils from the basement floor 1… I hadn’t expected that the reason they went out of their way to rescue me was because of those.
+After all, the spoils from the basement floor 1... I hadn’t expected that the reason they went out of their way to rescue me was because of those.
 
-[…Why are you suddenly lowering your head?]
+[...Why are you suddenly lowering your head?]
 
 Well, because if I made eye contact, it would be hard to keep a straight face.
 
-“…Sorry, Marquis.”
+“...Sorry, Marquis.”
 
 I used them all up.

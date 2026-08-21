@@ -8,7 +8,7 @@ However, among the rifts on the fifth floor, there is one oddity: the Rift of Li
 
 And the Guardian of that place, Hell Giant Herza, possesses an essence that slightly deviates from this norm.
 
-“Alright, Emily… If you’re rested up, let’s give it a try.”
+“Alright, Emily... If you’re rested up, let’s give it a try.”
 
 By standard logic, one should be able to use all three of the Level 4 monster Cyclops’s active skills. However, Herza’s essence only granted one, and it isn’t even a skill that a normal Cyclops possesses.
 
@@ -34,9 +34,9 @@ Whoosh—
 
 The black aura covering my hammer dispersed into the air.
 
-Amelia had deactivated the skill, but…
+Amelia had deactivated the skill, but...
 
-“…The soul power consumption is extreme.”
+“...The soul power consumption is extreme.”
 
 “How bad is it?”
 
@@ -52,7 +52,7 @@ There are three ways to use [Wave Link].
 
 The first was what we just did: manifesting one’s own skill through an ally. It was essentially a support-type application.
 
-The second is…
+The second is...
 
 ‘A boss pattern.’
 
@@ -80,7 +80,7 @@ Sure, using it offensively lets you cast skills from the enemy’s position and 
 
 Wave link truly shined when it was used in this way instead.
 
-“Really… the soul consumption is the same. What the hell is this combination?”
+“Really... the soul consumption is the same. What the hell is this combination?”
 
 Well, as a gamer, I obviously didn’t know the mechanics behind it.
 
@@ -90,15 +90,15 @@ When [Wave Link] was used on a summon, MP consumption didn’t increase.
 
 Oh, and of course, clones also counted as summons.
 
-“With this… I can engage in much more varied combat.”
+“With this... I can engage in much more varied combat.”
 
 Amelia, who had considerable combat experience, seemed to instantly grasp the value of this new ability.
 
-“By the way, what about the Embodied ability? I haven’t heard anything about what you call passive skills in your world yet…….”
+“By the way, what about the Embodied ability? I haven’t heard anything about what you call passive skills in your world yet.......”
 
 “Oh, you don’t know about Cyclops?”
 
-“It’s not exactly a common monster… You’re the weird one for knowing every trait of every monster.”
+“It’s not exactly a common monster... You’re the weird one for knowing every trait of every monster.”
 
 Perhaps embarrassed by her lack of knowledge, Amelia deflected by making me seem like the odd one.
 
@@ -108,7 +108,7 @@ I smirked and pulled out an item I’d gone through great lengths to obtain befo
 
 Amelia’s eyes filled with confusion.
 
-“This is…”
+“This is...”
 
 A one-eyed eyepatch.
 
@@ -130,7 +130,7 @@ The core of Dungeon & Stone was matchups.
 
 Some enemies were impossible to defeat without the right counter, while others became much easier with the proper matchup.
 
-And…
+And...
 
 ‘It’d be a waste to let this talent pool go unused.’
 
@@ -144,7 +144,7 @@ This labyrinth was designed around solo or dual rift clears, but it clearly wasn
 
 If I brought a mage into eligible rifts, I could store the essences in test tubes and bring them out. But in all other cases, they had to be left behind.
 
-‘Even the cheapest ones would sell for hundreds of millions of Stones in the auction house…’
+‘Even the cheapest ones would sell for hundreds of millions of Stones in the auction house...’
 
 Of course, the biggest regret was Aynar.
 
@@ -162,13 +162,13 @@ It’s unlike any other part of the labyrinth.
 
 I can’t even begin to count how many new things I’ve seen or how much I’ve gained here.
 
-“……”
+“......”
 
 What exactly is this place?
 
 Ever since meeting Mr. Vampire, that thought had filled my mind whenever I was alone.
 
-The Silver Sea, the Rainy Season, Dimensional Collapse, the Village Chief, Hamsiki…
+The Silver Sea, the Rainy Season, Dimensional Collapse, the Village Chief, Hamsiki...
 
 I repeated them in my head so I wouldn’t forget, and go over anything I might’ve missed.
 
@@ -182,7 +182,7 @@ I got to my feet, letting go of the brief pause I’d taken to clear my head.
 
 Near the statue of Calpion, the guardian of the 4th floor rift, an explorer was pleading with Raven.
 
-‘His name was…?’
+‘His name was...?’
 
 Can’t remember.
 
@@ -212,7 +212,7 @@ Honestly, I was the one who’d saddled him with this annoying task. So in that 
 
 “If you’re so eager for a test, I’ll help you out.”
 
-“Baron Jandel…?”
+“Baron Jandel...?”
 
 The man looked surprised for a moment, then nodded as if things worked out in his favor.
 
@@ -226,13 +226,13 @@ Not surprising. Explorers have always been macho like that.
 
 Honestly, I find this approach easier too.
 
-“Uh… Jandel? You don’t have to waste your strength on this…”
+“Uh... Jandel? You don’t have to waste your strength on this...”
 
 What’s she saying?
 
 “This isn’t a waste of strength.”
 
-“…Huh?”
+“...Huh?”
 
 “It’s saving time.”
 
@@ -248,7 +248,7 @@ As expected from someone nicknamed “Big Hammer,” his body was sturdy. The du
 
 Maybe 15 minutes?
 
-“I concede…”
+“I concede...”
 
 He never managed to land a blow, while I sent him flying every time my hammer struck his jaw.
 
@@ -278,7 +278,7 @@ Even after absorbing Bellarios’s essence and equipping Aegis’s wall, my dama
 
 “No, I mean for wasting 15 minutes on something I could’ve handled in 5.”
 
-“…Huh.”
+“...Huh.”
 
 For a second, my mind went blank.
 
@@ -292,13 +292,13 @@ As I took a few steps after her, Raven activated a sound-dampening spell. I, too
 
 “Is this something that needs to be kept secret?”
 
-“Huh? No, not really… I’m not sure. You’d be the better judge.”
+“Huh? No, not really... I’m not sure. You’d be the better judge.”
 
 “Go ahead.”
 
 I bent down slightly to match her height and listened intently as Raven slowly began.
 
-“As you know, since I’ve been acting as a sort of examiner, I’ve had plenty of chances to hear about what goes on inside. And well…”
+“As you know, since I’ve been acting as a sort of examiner, I’ve had plenty of chances to hear about what goes on inside. And well...”
 
 Cutting to the chase—
 
@@ -314,13 +314,13 @@ That was my first thought, but—
 
 “No, I mean literally nothing. Not even vague mutterings or threats.”
 
-“Oh…”
+“Oh...”
 
 “Now, as soon as someone enters, his eyes go red and he just attacks. It’s weird, don’t you think? Right after you left, he was still talking.”
 
 My fingers moved to my chin in deep thought.
 
-“That is strange…”
+“That is strange...”
 
 It is suspicious.
 
@@ -338,9 +338,9 @@ A question no barbarian could answer—
 
 But as a gamer, I had a theory.
 
-[Actually… my madness is returning.]
+[Actually... my madness is returning.]
 
-If the Duke speaking coherently was considered a bug by the labyrinth…
+If the Duke speaking coherently was considered a bug by the labyrinth...
 
 Hotfix.
 
@@ -356,7 +356,7 @@ Total: 41.
 
 At first, the boss fight seemed overwhelming, but as we continued to advance, the end was near.
 
-‘Just one more…’
+‘Just one more...’
 
 Only one statue remained: a fifth-floor Rift Guardian.
 
@@ -364,7 +364,7 @@ This is a unique rift that appears with an extremely low probability, and it’s
 
 That’s why I saved it for last.
 
-“Sigh…”
+“Sigh...”
 
 Even though dozens of lights had already lit up, the stone gate remained motionless.
 
@@ -380,7 +380,7 @@ I considered sitting this one out, but there was no good alternative.
 
 A tank was essential for this boss fight, and there was no one who could reliably fill my role.
 
-Well, that wasn’t entirely true. If I looked hard enough, I could find candidates, but…
+Well, that wasn’t entirely true. If I looked hard enough, I could find candidates, but...
 
 ‘They’re just not reliable enough.’
 
@@ -398,7 +398,7 @@ In fact, after Raven, Erwin had accompanied me the most on guardian hunts.
 
 For easier rifts, I brought mages to harvest essences. For harder ones, I always took Erwin unless specific conditions applied.
 
-‘…No.’
+‘...No.’
 
 I shook my head.
 
@@ -406,7 +406,7 @@ This boss couldn’t be defeated through brute force alone.
 
 What about Amelia, then?
 
-‘She’s not bad, but…’
+‘She’s not bad, but...’
 
 Aynar might be the better option.
 
@@ -422,6 +422,6 @@ And he’s standing right in front of me.
 
 The moment my words landed, he blinked in confusion.
 
-“Huh? Me? Why, why me…?”
+“Huh? Me? Why, why me...?”
 
 It was Sven Parav, the holy knight of the Leatlas Church.

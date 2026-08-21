@@ -1,6 +1,6 @@
 # Red Ocean (5)
 
-The Ten Great Clans, the Five Great Clans, the Four Great Clans…
+The Ten Great Clans, the Five Great Clans, the Four Great Clans...
 
 In the past, the major and well-known clans were often grouped together, but that kind of categorization has quietly faded away.
 
@@ -12,13 +12,13 @@ Just a few years ago, their only real claim to fame was their captain. However, 
 
 Raven’s assessment of the clan was as follows:
 
-“The Golden Tree Clan? Well, I heard they were quite active during the war, but in my opinion, it feels like they only picked the easy battlefields. Still, they seem to have built up a solid force… If I had to rank them, they’d probably rank at the bottom of the old Ten Great Clans.”
+“The Golden Tree Clan? Well, I heard they were quite active during the war, but in my opinion, it feels like they only picked the easy battlefields. Still, they seem to have built up a solid force... If I had to rank them, they’d probably rank at the bottom of the old Ten Great Clans.”
 
 “What about you, Adnus?”
 
-“They’re a clan surrounded by all kinds of rumors, but there’s no denying their strength. Ah, I’ve also heard they have strong ties with political and business figures. Apparently, they even have some connection to Count Alminus… and with our guild’s Third Branch Manager, they’re practically soulmates.”
+“They’re a clan surrounded by all kinds of rumors, but there’s no denying their strength. Ah, I’ve also heard they have strong ties with political and business figures. Apparently, they even have some connection to Count Alminus... and with our guild’s Third Branch Manager, they’re practically soulmates.”
 
-“I see…”
+“I see...”
 
 According to the guild master, a total of ninety members from the Golden Tree Clan had entered the labyrinth, making them the fourth-largest clan currently inside.
 
@@ -28,37 +28,37 @@ Otherwise, they wouldn’t have been allocated that many members.
 
 “But what do you mean by ‘a lot of rumors’?”
 
-“There are occasional whispers of internal issues. They say the members are worked extremely hard… though there haven’t been any insiders openly testifying or exposing anything. Which probably means they keep a very tight lid on things.”
+“There are occasional whispers of internal issues. They say the members are worked extremely hard... though there haven’t been any insiders openly testifying or exposing anything. Which probably means they keep a very tight lid on things.”
 
-“Worked extremely hard, huh…”
+“Worked extremely hard, huh...”
 
 Was that why Mr Bear looked so troubled when he talked about his clan?
 
 “Still, it’s not all bad. In fact, more so than most. The pay is good, and the essences are shared among the members instead of being sold. It seems they focus on nurturing the clan’s growth.” Fun& Trivia
 
-Hmm, I suppose so…
+Hmm, I suppose so...
 
 The Guild Master’s words seemed to be true. The last time I saw Mr. Bear, he had absorbed numerous new Essences and had apparently advanced to Rank 3 as a result.
 
-“Abman… he’ll be okay, right…?”
+“Abman... he’ll be okay, right...?”
 
 While Misha shared my concerns, Aynar was simply excited at the thought of meeting Mr Bear on this island.
 
 “Come on, let’s head in already! Running into Urikfried here is a good omen!”
 
-Well, it didn’t exactly feel like a good omen to me, but…
+Well, it didn’t exactly feel like a good omen to me, but...
 
 “So, what will you do, Jandel?”
 
 “What do you mean? Of course we’re going in.”
 
-“…Alright. Got it.” Amelia broke in.
+“...Alright. Got it.” Amelia broke in.
 
 As I made my decision, Amelia showed a slightly strange expression. It felt like she had something to say but was holding back.
 
 “Just say it. What is it?”
 
-“Well… if we run into the Golden Ghost, don’t take him too lightly.”
+“Well... if we run into the Golden Ghost, don’t take him too lightly.”
 
 Her words made me tilt my head. She was giving me that warning even though she knew how cautious I was before making any move.
 
@@ -104,21 +104,21 @@ Understandable
 
 The average monster rank here was only around level 6.
 
-“Uugh…! When exactly is the strong one coming out…?”
+“Uugh...! When exactly is the strong one coming out...?”
 
 “What’s wrong, Aynar? Isn’t it better if it’s easy?”
 
 “Misha! I want an enemy who’s strong enough to feature in my autobiography!”
 
-“Ah… I-I see. I don’t really know much, so you should ask Bjorn.”
+“Ah... I-I see. I don’t really know much, so you should ask Bjorn.”
 
-“…No.”
+“...No.”
 
 “Why?”
 
 “If I ask Bjorn something like that, Emily Raines will scold me.”
 
-“Ah…”
+“Ah...”
 
 I felt a twinge of pity for Ainar as her mood quickly sank, even as she looked at me with pleading eyes. Still, Amelia had trained her well.
 
@@ -126,11 +126,11 @@ If she ever became a mother, she’d probably raise her children well.
 
 “Jandel.”
 
-“…I wasn’t thinking anything weird.”
+“...I wasn’t thinking anything weird.”
 
 “What are you talking about?”
 
-“Ahem… so, why did you call me?” I cleared my throat and asked
+“Ahem... so, why did you call me?” I cleared my throat and asked
 
 “I think we’ve entered the Golden Tree Clan’s territory.”
 
@@ -144,7 +144,7 @@ Well, that was only natural. We were close to the island’s center.
 
 We continued toward the center without changing direction. And finally, when we arrived at the entrance to the cave at the center of the island,
 
-“…No one’s here.”
+“...No one’s here.”
 
 The only thing that greeted us was an empty campsite, scattered with signs that people had once been there.
 
@@ -154,7 +154,7 @@ Still, our confusion lasted only for a moment.
 
 Dozens of presences appeared behind us, and Amelia, our human radar, spoke at the same time.
 
-“…Jandel. We’re surrounded.”
+“...Jandel. We’re surrounded.”
 
 I didn’t need her to tell me.
 
@@ -186,7 +186,7 @@ Look at him, such a smooth liar.
 
 I nodded while scanning the ninety figures emerging from hiding. It was clear they had detected us before we noticed them, meaning their detection abilities surpassed ours.
 
-“And they even managed to set up an ambush with this many people…”
+“And they even managed to set up an ambush with this many people...”
 
 Did he really not know it was us?
 
@@ -204,7 +204,7 @@ They became part of nature, carrying poison within to survive, puffing themselve
 
 Because if you looked weak, you got torn apart.
 
-“By the way, this is quite a predicament… Is ‘that guy’ your objective as well, Viscount Jandel?”
+“By the way, this is quite a predicament... Is ‘that guy’ your objective as well, Viscount Jandel?”
 
 I wasn’t sure exactly which ‘guy’ he was referring to, but I responded with a question while affirming.
 
@@ -226,7 +226,7 @@ It felt a bit unsettling, but I couldn’t disagree with what he said. The real 
 
 Competition itself wasn’t wrong.
 
-Judging by his behavior, he doesn’t seem like the type to do that, but…
+Judging by his behavior, he doesn’t seem like the type to do that, but...
 
 He was being unusually agreeable.
 
@@ -240,7 +240,7 @@ If we were a no-name clan, we would’ve been treated very differently.
 
 “Let’s hear it.”
 
-“We won’t interfere with each other. And whoever opens the door to that cave first earns the right to challenge it… what do you think?”
+“We won’t interfere with each other. And whoever opens the door to that cave first earns the right to challenge it... what do you think?”
 
 “Fine.”
 
@@ -248,7 +248,7 @@ If we were a no-name clan, we would’ve been treated very differently.
 
 “‘Do our best’ is too casual for you to say to me.”
 
-“…Haha. You’re quite an interesting man, my lord.”
+“...Haha. You’re quite an interesting man, my lord.”
 
 Hmm, I wasn’t joking. I meant that sincerely.
 
@@ -266,7 +266,7 @@ Well, she wasn’t wrong about that.
 
 “But is that a bad thing?”
 
-“…Huh? Well, no, not really… but when a teammate says something like that, shouldn’t you at least agree? You’re the captain.”
+“...Huh? Well, no, not really... but when a teammate says something like that, shouldn’t you at least agree? You’re the captain.”
 
 What is she even saying?
 

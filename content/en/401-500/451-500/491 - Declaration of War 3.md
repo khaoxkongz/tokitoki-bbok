@@ -12,13 +12,13 @@ By the way, these achievements weren’t written by people.
 
 The monument, crafted with forgotten ancient magic, is closely tied to the labyrinth. When a remarkable feat is achieved within the Labyrinth, it inscribes the record in the empty spaces.
 
-‘…That was the setting, right?’
+‘...That was the setting, right?’
 
 It felt somewhat surreal.
 
 In truth, the Stone of Honor was just a common decoration in the game. After all, in the ten years I played, it never activated even once. I just thought of it as a piece of worldbuilding flavor.
 
-But…
+But...
 
 “Who would’ve guessed it actually worked?”
 
@@ -26,7 +26,7 @@ Under the knights’ escort, I arrived at the square and looked around blankly, 
 
 Around the square, which the knights were controlling, crowds of onlookers had gathered. As this was the Imperial City of Carnon, there were many nobles among them, and most people were dressed quite neatly.
 
-“Björn Jandel! It’s Baron Björn Jandel…!”
+“Björn Jandel! It’s Baron Björn Jandel...!”
 
 “Wowwwwww!”
 
@@ -80,7 +80,7 @@ A flash popped out of the magical recording device in his hand.
 
 “Please smile! This is a moment that will be eternally recorded in history books!”
 
-A history book…
+A history book...
 
 ‘Well, I guess this isn’t so bad.’
 
@@ -100,9 +100,9 @@ That should be a good A-cut, right?
 
 [Character’s Fame has increased by +10.]
 [Character’s Fame has increased by +10.]
-[Character’s Fame has increased by +10…]
-[…]
-[…]
+[Character’s Fame has increased by +10...]
+[...]
+[...]
 
 ---
 
@@ -116,15 +116,15 @@ After the photos were taken, I was summoned by the royal scribe for what felt li
 
 If I hadn’t been a noble, it definitely would’ve been an interrogation.
 
-[Ah, yes… You can’t speak about it. I see.]
+[Ah, yes... You can’t speak about it. I see.]
 
 [An explorer’s experience and knowledge are their assets. Why should I give that away for free?]
 
-[…W-well, according to labyrinth laws, we can’t force you, Baron. But for the sake of the kingdom, and our descendants, could you reconsider?]
+[...W-well, according to labyrinth laws, we can’t force you, Baron. But for the sake of the kingdom, and our descendants, could you reconsider?]
 
 [Hmm, it seems like none of the other senior explorers before me gave detailed answers either, right?]
 
-[W-well, that’s…]
+[W-well, that’s...]
 
 [I’m hungry. I’ll be going now!]
 
@@ -148,7 +148,7 @@ But now?
 
 “Giant! He’s a giant!”
 
-“The great giant who will lead us into a new era…!”
+“The great giant who will lead us into a new era...!”
 
 “Glory forever to Raphdonia!”
 
@@ -158,7 +158,7 @@ Thinking about it, it made some sense.
 
 There’s a difference between someone with the potential to be a hero and an actual hero.
 
-“To think that such a hero would be born in my lifetime…”
+“To think that such a hero would be born in my lifetime...”
 
 The Great Sage Gabrielius.
 
@@ -174,7 +174,7 @@ Just being in the same space with me makes people feel as if they’re a part of
 
 So, I gave fan service wherever I could.
 
-“Honey! The Baron called out our child’s name…!”
+“Honey! The Baron called out our child’s name...!”
 
 “This child will grow up to be great! I’m sure of it!”
 
@@ -190,7 +190,7 @@ Somehow, word had spread here as well.
 
 A huge crowd had gathered outside my house, cheering like it was some kind of festival. And it wasn’t until nightfall, when knights from Mozlan arrived to control the crowd, that things finally quieted down.
 
-“Phew… It’s finally quiet.”
+“Phew... It’s finally quiet.”
 
 I sighed and collapsed onto the sofa. And Erwin, who had been peering out through the curtains, approached.
 
@@ -198,11 +198,11 @@ I sighed and collapsed onto the sofa. And Erwin, who had been peering out throug
 
 “This is insane. If today was this bad, I can’t imagine tomorrow.”
 
-“But I think it’ll calm down faster than you expect. People tend to… forget quickly.”
+“But I think it’ll calm down faster than you expect. People tend to... forget quickly.”
 
 “Like when they thought I was dead?”
 
-“……Yes.”
+“......Yes.”
 
 As Erwin sat across from me, Auyen brought out tea as if he had been waiting.
 
@@ -214,7 +214,7 @@ Auyen’s voice and expression were different from usual.
 
 He was always polite, but today there was an unmistakable sense of respect radiating from him.
 
-“To think that I would meet you, repent for my sins, and follow you… It must be fate. I will do my best to support you on your path, even from the lowest position.”
+“To think that I would meet you, repent for my sins, and follow you... It must be fate. I will do my best to support you on your path, even from the lowest position.”
 
 He was acting as if he were a porter for some heroic party.
 
@@ -228,7 +228,7 @@ After Auyen left, Vercil and Amelia entered the room together.
 
 “No, it’s good I didn’t leave. Given the circumstances, coming back tomorrow would have been difficult. I am tired anyway.”
 
-“That’s… true.”
+“That’s... true.”
 
 Honestly, it still doesn’t feel real.
 
@@ -240,11 +240,11 @@ If we’re talking about difficulty, the Ice Rock expedition was several times h
 
 Back then, countless people died.
 
-‘If we’re talking about difficulty, that was much harder…’
+‘If we’re talking about difficulty, that was much harder...’
 
 “Anyway, did you manage to get some sleep?”
 
-“No… I couldn’t sleep. Don’t worry about it. This trip was only seven days, right? And if you exclude the last day, they were all pretty easy”
+“No... I couldn’t sleep. Don’t worry about it. This trip was only seven days, right? And if you exclude the last day, they were all pretty easy”
 
 Hmm, that’s true.
 
@@ -252,7 +252,7 @@ Usually, after returning from the labyrinth, I’d be so exhausted that I’d pa
 
 Actually, Aynar is the only one knocked out cold right now.
 
-“By the way, I spent the extra time carefully examining this…”
+“By the way, I spent the extra time carefully examining this...”
 
 Vercil began, placing the “No. 12 Trust” on the table. It was the item I had handed over before following the knights to Carnon.
 
@@ -268,11 +268,11 @@ Vercil demonstrated by trying to attach the bracelet to Amelia’s wrist, but it
 
 “Yes. That seems to be the case.”
 
-“Hmm…”
+“Hmm...”
 
 While I was thinking it over, Vercil carefully asked,
 
-“So… one of us four has to use it, but what do you think?”
+“So... one of us four has to use it, but what do you think?”
 
 ‘Trust’ is a versatile item.
 
@@ -291,7 +291,7 @@ Immunity to damage inflicted by bound allies.
 All beneficial effects granted to bound allies are doubled.
 If a priest or support-type explorer wears it, their abilities are doubled.
 
-‘In our case, we can exclude the third option…’
+‘In our case, we can exclude the third option...’
 
 So, there are only two uses left.
 
@@ -323,7 +323,7 @@ Now, only the two of us remained in the room.
 
 Amelia, who had been standing beside me the whole time, sat down on the sofa.
 
-“……If I had known it would turn out like this, I wouldn’t have gone through with the interrogation.”
+“......If I had known it would turn out like this, I wouldn’t have gone through with the interrogation.”
 
 Well, from her perspective, it must be a bit disappointing.
 
@@ -337,21 +337,21 @@ When I checked earlier, the names of the team members who had been omitted under
 
 In other words, if she hadn’t left midway, her real name, “Amelia Rainweilz,” would’ve been exposed.
 
-“I… know that.”
+“I... know that.”
 
 “Do you?”
 
-“It’s just… a bit bittersweet.”
+“It’s just... a bit bittersweet.”
 
-“…Huh?”
+“...Huh?”
 
 As I tilted my head in confusion, Amelia stared straight at me and said,
 
 “It means I can’t stand by your side with my real name.”
 
-“Ah……”
+“Ah......”
 
-Uh, well……
+Uh, well......
 
 I fumbled for words, opening and closing my mouth like a fish out of water. Amelia, as if she had only been venting for a moment, calmly changed the subject.
 
@@ -367,7 +367,7 @@ In truth, I had asked her to stay so I could hear this, but seeing the seriousne
 
 “There’s something wrong with my memory.”
 
-“……Huh?”
+“......Huh?”
 
 At first, it sounded like nonsense, but as I listened further, it turned out to be a rather serious issue.
 
@@ -389,7 +389,7 @@ Sigh. If she’s this certain, there must really be something wrong.
 
 “Moreover, when I looked back, there were some strange inconsistencies in my memory. There were parts where, if it had been the real me, I would’ve been more thorough, but the me in my memory just brushed past them.”
 
-“…….”
+“.......”
 
 “So, I considered the possibility of hallucination magic. Maybe someone manipulated and filled in my memories.”
 
@@ -397,7 +397,7 @@ Sigh. If she’s this certain, there must really be something wrong.
 
 “I’m still not sure about this part. I had Gowland examine me, but she said she couldn’t find any traces of that.”
 
-Memory manipulation……
+Memory manipulation......
 
 Who could be behind this?
 
@@ -409,7 +409,7 @@ As I pondered this, Amelia cautiously added one more thing.
 
 “And one more thing. When I came to and checked everything again, all the weapons were clean.”
 
-“…Weapons?”
+“...Weapons?”
 
 “Yes, even the blade that stabbed you. It was as clean as if it had been wiped down.”
 
@@ -419,7 +419,7 @@ What on earth happened?
 
 I felt relieved that Amelia got out unharmed, but it also meant I had more work to do.
 
-“Those guys… they said they took the job from the black market. They didn’t know who the client was.”
+“Those guys... they said they took the job from the black market. They didn’t know who the client was.”
 
 Let’s start there.
 

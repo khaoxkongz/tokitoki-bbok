@@ -2,29 +2,29 @@
 
 The art museum in District 4 had been abandoned after the Noark invasion. There, a woman was placing the paintings hanging on the walls into her subspace.
 
-“Um… Lady Emily?”
+“Um... Lady Emily?”
 
 “I’m not stealing.”
 
-“…Pardon?”
+“...Pardon?”
 
-“If we leave them here, people who don’t understand their value might damage them carelessly…”
+“If we leave them here, people who don’t understand their value might damage them carelessly...”
 
-“Ah, ah… I see.”
+“Ah, ah... I see.”
 
 “It’s absolutely not because I intend to keep them and hang them in my house later. If anyone asks for them back, I plan to return them immediately. Understood?”
 
-“…Yes, I understand. But what I wanted to say wasn’t about that; it was something else…”
+“...Yes, I understand. But what I wanted to say wasn’t about that; it was something else...”
 
 At Auyen’s words, Amelia coughed awkwardly.
 
-“…Go on.”
+“...Go on.”
 
-“Well… it’s nothing serious… Ah! And of course I’m not trying to rush you! I was just wondering… what your plans are going forward…”
+“Well... it’s nothing serious... Ah! And of course I’m not trying to rush you! I was just wondering... what your plans are going forward...”
 
 Amelia rested her hand on her chin in thought. After a brief pause, she replied, “I’m thinking.”
 
-“…Excuse me?”
+“...Excuse me?”
 
 “We can stay like this for the time being. There’s no need to rush into anything. Even if it’s frustrating, just endure it a little longer.”
 
@@ -38,19 +38,19 @@ With that, Amelia continued wandering through the dark museum, with Auyen assist
 
 “Those are trash. I heard the artist used to commit vile acts with young girls while he was alive.”
 
-“…Let’s burn them.”
+“...Let’s burn them.”
 
 After burning the legacy works, Amelia rested against a wall, and Auyen refrained from speaking to her for a long while.
 
-“……”
+“......”
 
-“……”
+“......”
 
 The silence lingered until the light outside the window finally faded.
 
 Auyen spoke in a subdued voice.
 
-“…I’m sorry, Miss Emily.”
+“...I’m sorry, Miss Emily.”
 
 Sorry about what?
 
@@ -58,7 +58,7 @@ But Amelia understood without him having to spell it out and let out a small chu
 
 “Are you talking about when we got separated?”
 
-“Yes… If I hadn’t fallen behind back then… the two of us wouldn’t be hiding out like this.”
+“Yes... If I hadn’t fallen behind back then... the two of us wouldn’t be hiding out like this.”
 
 On the day the main force withdrew, Ayen was on the front line when he was struck by an arrow. Unable to dodge it, he was left behind.
 
@@ -66,23 +66,23 @@ Amelia saw it happen and immediately turned back to help him. She managed to sav
 
 After moving as stealthily as possible to avoid enemies, they eventually arrived here, at the Sector 4 Art Museum.
 
-“…I’m sorry. I held you back…”
+“...I’m sorry. I held you back...”
 
 “It’s not ‘I’m sorry’.”
 
-“…Yes?”
+“...Yes?”
 
 “In times like this, you say ‘Thank you’.”
 
 Even as she said that, Amelia found it a little amusing and smiled.
 
-‘Not “I’m sorry,” but “Thank you,” huh…’
+‘Not “I’m sorry,” but “Thank you,” huh...’
 
 It was something she never would have said back when she was filled only with hostility.
 
 The thought sent a sudden pang of longing through her. It was not a vague sense of missing someone, but a feeling tied to a single, specific person.
 
-“…I hope he isn’t doing anything reckless.”
+“...I hope he isn’t doing anything reckless.”
 
 Even though her worry for him occupied most of her thoughts, she still noticed something.
 
@@ -96,7 +96,7 @@ She normally didn’t like places like this.
 
 They say childhood habits last a lifetime—dark places felt mentally comfortable to her, while bright ones caused an inexplicable irritation.
 
-But…
+But...
 
 “Not bad.”
 
@@ -114,11 +114,11 @@ Had she always been such a greedy person?
 
 For the first time in a long while, she spoke her own name aloud.
 
-“Maybe…”
+“Maybe...”
 
 Maybe her days of living in the shadows were finally coming to an end—
 
-“…?”
+“...?”
 
 Just then, she sensed something wrong with her body and quickly activated her ability.
 
@@ -126,7 +126,7 @@ Just then, she sensed something wrong with her body and quickly activated her ab
 
 However, the ability she knew as well as her own body failed to activate.
 
-“…Is this punishment for being greedy?”
+“...Is this punishment for being greedy?”
 
 She knew the reason all too well.
 
@@ -152,7 +152,7 @@ I coolly gave up on chasing the Corpse Collector. However, there was still a cha
 
 ‘Alluva Raven! That mage — your old ally — is the traitor!”
 
-Huh, so Raven was the traitor… .
+Huh, so Raven was the traitor... .
 
 The moment I heard it, my grip on the hammer tightened.
 
@@ -170,39 +170,39 @@ Saw what?
 
 I thought listening to any more of this nonsense would be a waste of time, but practical, the woman’s mouth moved faster than my hammer.
 
-“When the Imperial Capital, Carnon, was burning! You definitely said it while looking at her—‘I never thought I’d be betrayed like this…’!”
+“When the Imperial Capital, Carnon, was burning! You definitely said it while looking at her—‘I never thought I’d be betrayed like this...’!”
 
-“…Are you on drugs or something?”
+“...Are you on drugs or something?”
 
-“N-No! I know it sounds weird! But… Eek! Wait! Put the hammer down! I can explain!”
+“N-No! I know it sounds weird! But... Eek! Wait! Put the hammer down! I can explain!”
 
 “Ten seconds.”
 
-“…Huh?”
+“...Huh?”
 
-“Nine, eight…”
+“Nine, eight...”
 
 When I ignored her and started counting, Viviane realised what it meant and began explaining herself frantically.
 
-“Y-You might not know this, but I used the Level 1 dark magic [Future Sight]! Ah! O-Of course, I couldn’t do it alone! There were many other dark mages and we received tremendous support, so we barely managed to succeed… .”
+“Y-You might not know this, but I used the Level 1 dark magic [Future Sight]! Ah! O-Of course, I couldn’t do it alone! There were many other dark mages and we received tremendous support, so we barely managed to succeed... .”
 
 “You should stick to the main point.”
 
 “We used that magic to foresee whether this operation would succeed, but the spell failed. We saw Carnon burning, but we didn’t see the most important scene—the king’s death—and instead saw a completely different scene!”
 
-“……And you’re saying that was the scene where Raven betrayed me?”
+“......And you’re saying that was the scene where Raven betrayed me?”
 
 “Yes! That’s right! That’s why I said I saw it myself!”
 
-Hmm… I suppose I could listen to her a little more.
+Hmm... I suppose I could listen to her a little more.
 
 “30 seconds extra.”
 
-“……No, I’m serious!”
+“......No, I’m serious!”
 
 “That’s why I’m giving you time to convince me whether it’s true or not.”
 
-“……You want me to prove my words are true in 30 seconds? How am I supposed to—?”
+“......You want me to prove my words are true in 30 seconds? How am I supposed to—?”
 
 Who knows?
 
@@ -252,21 +252,21 @@ Vivian seemed to have expected my response, as she immediately offered her next 
 
 “Communications.”
 
-“…?”
+“...?”
 
 “If I’m with you, I can eavesdrop on the command staff’s communications.”
 
-“…Hmm.”
+“...Hmm.”
 
 “Wouldn’t knowing their overall movements be helpful? I’m not just talking about strategic aspects. If something happens to your allies, you’ll be able to know immediately.”
 
-“……”
+“......”
 
 “That’s all. If you say you don’t need this either, there’s nothing else I can offer.”
 
 Right, is that so.
 
-“So… what are you going to do?”
+“So... what are you going to do?”
 
 She spoke quite boldly, but I could tell she was terrified.
 
@@ -304,23 +304,23 @@ Hmm, was he too busy running away to control them?
 
 I don’t know, but as soon as we had exchanged brief greetings, Raven’s gaze shifted to my shoulder.
 
-“But that woman… It’s her, right?”
+“But that woman... It’s her, right?”
 
 “Oh, you know her?”I asked
 
 “Even if I hadn’t, I probably would have known anyway.”
 
-“Ahaha… Hello? Long time no see, Big Sis…”
+“Ahaha... Hello? Long time no see, Big Sis...”
 
-“…Big Sis?”
+“...Big Sis?”
 
 “Huh? Am I wrong? I thought you were older than Mr. Jandel—”
 
 Raven fell silent.
 
-“……Call me by my name. I don’t remember giving you permission to call me by such a title.”
+“......Call me by my name. I don’t remember giving you permission to call me by such a title.”
 
-“Ahaha… I understand. Miss Raven.”
+“Ahaha... I understand. Miss Raven.”
 
 Since this wasn’t a place for open conversation, we moved into a nearby building.
 
@@ -334,13 +334,13 @@ Aside from the part about the traitor, the entire story could be summed up in th
 
 “So you’re conflicted? Whether to use this woman or just dispose of her.”
 
-“Hmm… Then shall we first verify the conditions she offered?”
+“Hmm... Then shall we first verify the conditions she offered?”
 
 Raven approached Viviane.
 
 “You said you can access Noark’s upper-level communication network, right? Let’s see. You might have already lost access rights.”
 
-“…Hehe, I don’t think that’ll happen.”
+“...Hehe, I don’t think that’ll happen.”
 
 “That’s why I’m telling you to show me. I need to know how important the information being exchanged is.”
 
@@ -348,7 +348,7 @@ Raven approached Viviane.
 
 At Raven’s demand, Viviane pulled out a black crystal ball and connected it to the network. The network seemed to be functioning normally.
 
-However…
+However...
 
 [Zibne, Ter-a, Didibar.]
 
@@ -356,17 +356,17 @@ However…
 
 “Military code phrases. Even the intelligence department hasn’t fully decoded them yet.”
 
-“I see… That explains why you connected to the communications network so easily. You were confident we would not kill you the moment you revealed this.”
+“I see... That explains why you connected to the communications network so easily. You were confident we would not kill you the moment you revealed this.”
 
 “I’m not that stupid, you know?”
 
 “Enough, just translate it. What are they saying?”
 
-“Sector 5-3, Royal forces, signs of gathering, observe… That’s what they’re saying.”
+“Sector 5-3, Royal forces, signs of gathering, observe... That’s what they’re saying.”
 
 Raven and I exchanged a silent look. We both immediately knew where 5-3 was. After all, I was the one who had asked the soldiers to create a distraction the next morning.
 
-“Wiretapping… might actually be useful.”
+“Wiretapping... might actually be useful.”
 
 Still, we needed further testing.
 
@@ -384,10 +384,10 @@ I noticed then that she suddenly flinched.
 
 Viviane answered cautiously.
 
-“4-7 refers to an area in District 4… and, well… those two intruders… I think they might be your allies, Mr. Jandel.”
+“4-7 refers to an area in District 4... and, well... those two intruders... I think they might be your allies, Mr. Jandel.”
 
-“…Then what about ‘L’?”
+“...Then what about ‘L’?”
 
-“Ricardo Lühensprache. It’s the code word for our captain…….”
+“Ricardo Lühensprache. It’s the code word for our captain.......”
 
 Son of a bitch.

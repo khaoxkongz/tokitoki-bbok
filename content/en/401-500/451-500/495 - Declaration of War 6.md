@@ -2,9 +2,9 @@ Declaration of War(6)
 
 A declaration of war that had been held back for over ten years.
 
-“……!!”
+“......!!”
 
-“……!!”
+“......!!”
 
 Whether it was the mages, the citizens filling the square, or the knights of Mozlan, everyone’s jaws dropped and eyes widened.
 
@@ -14,7 +14,7 @@ The old mage, who had been wearing a similar expression, finally managed to gath
 
 “This is too serious to be a joke.”
 
-Joke…?
+Joke...?
 
 Well, it’s true that when people are confronted with something shocking, denial is the first reaction.
 
@@ -24,7 +24,7 @@ The barbarians needed time to process this too.
 
 About three seconds, maybe.
 
-“…Wa-war!!”
+“...Wa-war!!”
 
 One warrior shouted, and that was the spark.
 
@@ -40,7 +40,7 @@ As over a thousand warriors roared in unison, the group of mages guarding the fr
 
 I could understand why.
 
-It’s absurd to compare the combat power of mages and warriors based on their size alone, but…….
+It’s absurd to compare the combat power of mages and warriors based on their size alone, but.......
 
 The visual effect was undeniable.
 
@@ -56,7 +56,7 @@ I took a large step towards the group of over a hundred mages and asked.
 
 “Does it still sound like a joke to you?”
 
-“……”
+“......”
 
 The old mage didn’t answer, his face blank, as if he were dreaming.
 
@@ -72,15 +72,15 @@ A knight of Mozlan rushed over, clearly panicked.
 
 He had been momentarily stunned by the barbarians’ frenzied energy, but it seemed he had finally remembered his role.
 
-“W-war, you say? Let’s all calm down and talk this through, shall we? For the sake of the royal family…!”
+“W-war, you say? Let’s all calm down and talk this through, shall we? For the sake of the royal family...!”
 
 For someone who was flustered, his phrasing wasn’t bad.
 
 If he had tried to threaten me by implying the royal family wouldn’t stand idly by, the atmosphere would have turned even uglier.
 
-“Dialogue, huh…”
+“Dialogue, huh...”
 
-“Y-yes! Surely, we can find common ground through dialogue! Both the Mage Tower and the barbarians are pillars supporting this city, aren’t they? For the sake of the city, please…!”
+“Y-yes! Surely, we can find common ground through dialogue! Both the Mage Tower and the barbarians are pillars supporting this city, aren’t they? For the sake of the city, please...!”
 
 The knight tried desperately to buy time, and I pretended to think before nodding.
 
@@ -96,7 +96,7 @@ The attention of the entire city had been drawn sufficiently.
 
 If we stormed in now, only the barbarians would be seen as the villains.
 
-Yes, well…
+Yes, well...
 
 “Lewin Pastolm of the Egatil School!”
 
@@ -105,7 +105,7 @@ I began to call out names one by one.
 “Lurendel Rungonerd of the Hulbent School! Odwik Bertef of the Alterse School! Elenel Dwaynain of the Galatir School!”
 As I called out the names of the mages affiliated with the Mage Tower, the citizens listened intently, wondering what was happening.
 
-“Ebound School’s Tols Ellin! Ornstalt School’s Ucla Tragzig! Wilton School’s….”
+“Ebound School’s Tols Ellin! Ornstalt School’s Ucla Tragzig! Wilton School’s....”
 
 After listing a total of 21 mage names, I turned to the old mage.
 
@@ -119,13 +119,13 @@ After listing a total of 21 mage names, I turned to the old mage.
 
 Every war needs a justification.
 
-“Ah! So that’s why the barbarians were in the Mage’ Tower…”
+“Ah! So that’s why the barbarians were in the Mage’ Tower...”
 
 “They rescued slaves from the black market, and that’s when they got such information!”
 
 The onlookiers finally understood why I came to the mage tower and nodded. They agreed that they would have protested too if they were in my shoes.
 
-But…
+But...
 
 If I was going to end it with just that, I wouldn’t even have come.
 
@@ -135,7 +135,7 @@ An appetizer is still just an appetizer—it can’t be the main course.
 
 I called out one more name and asked, “Do you know who this is?”
 
-“……”
+“......”
 
 The old mage said nothing, like someone who’d been advised by a lawyer to keep quiet.
 
@@ -145,9 +145,9 @@ Well, staying silent won’t change the truth.
 
 I dropped the bomb without the slightest hesitation.
 
-“……!!”
+“......!!”
 
-“……!!”
+“......!!”
 
 This was a completely different matter from simply ordering the hearts of barbarians.
 
@@ -155,7 +155,7 @@ The heart of a specific, living person.
 
 This order was essentially a request for assassination.
 
-“…Sir Guirn, if these words are true, not only will that man’s head be on the line, but the Mage Tower will also have to take responsibility.”
+“...Sir Guirn, if these words are true, not only will that man’s head be on the line, but the Mage Tower will also have to take responsibility.”
 
 Even the Mozlan knight, who had been trying to figure out how to stop me, changed his expression and pressured the old mage.
 
@@ -163,7 +163,7 @@ After all, Mozlan wasn’t the knights of the mages.
 
 Mozlan was created to uphold the authority of the nobility.
 
-“…Nothing is confirmed yet. But I promise you this: if such a thing did occur, it will be strictly investigated under the principles of the Mage Tower.”
+“...Nothing is confirmed yet. But I promise you this: if such a thing did occur, it will be strictly investigated under the principles of the Mage Tower.”
 
 The old mage made a vague promise, and the Mozlan Knight could say no more.
 
@@ -173,9 +173,9 @@ Of course, I had no such limitations.
 
 “The Mage Tower is suspected of colluding with the traitors of the black market. Therefore, your investigation cannot be trusted.”
 
-“…Regardless of the Baron’s trust, this is within our authority. Moreover, there is no evidence yet.”
+“...Regardless of the Baron’s trust, this is within our authority. Moreover, there is no evidence yet.”
 
-“Evidence, huh…”
+“Evidence, huh...”
 
 Yeah, I expected that kind of response.
 
@@ -183,7 +183,7 @@ I pulled out an ancient barbarian secret technique.
 
 “I swear.”
 
-“……?”
+“......?”
 
 “As the chief of the barbarians and the son of Jandel, Baron of the Kingdom of Raphdonia, Bjorn swear in the name of the tribe and the kingdom! All the words I have spoken here today are true!”
 
@@ -209,7 +209,7 @@ The heroic deeds I’ve accomplished, the weight of my name, the stubborn impres
 
 “You are free to do that, but do you really want to? Just calling them and asking would end it.”
 
-“……”
+“......”
 
 “By tonight, Mozlan will likely have the authority to investigate the mages of the mage tower. A conspiracy to assassinate nobility is a grave matter. Do you really wish for that?”
 
@@ -223,7 +223,7 @@ But the old mage refused.
 
 “You’re choosing a difficult path. Just call them out and question them—it’s that simple, yet you refuse.”
 
-“……”
+“......”
 
 The old mage exercised his right to remain silent, and with that, public opinion was sealed.
 
@@ -235,7 +235,7 @@ Silence can sometimes be the clearest answer.
 
 The narrative was clear: the Mage Tower was an evil force, and the barbarians’ anger was justified.
 
-Had the old man promised to summon and punish the mages I’d named, this might never have gone so far. But…
+Had the old man promised to summon and punish the mages I’d named, this might never have gone so far. But...
 
 ‘He must be thinking that if they can just get through today, they’ll find some way to smooth things over—whether by lobbying or whatever else.’
 
@@ -279,9 +279,9 @@ With the civilians mixed in, the mages won’t be able to react properly.
 
 Yeah, the stage is set.
 
-So…
+So...
 
-“Huuuu…”
+“Huuuu...”
 
 I took a deep breath, steadied myself, and then shouted with all my might.
 
@@ -305,7 +305,7 @@ The neatly pressed uniform despite the overwhelming workload.
 
 The tired but sharp blue eyes.
 
-The small hand holding a pen…
+The small hand holding a pen...
 
 “What are you doing? Aren’t you leaving?”
 
@@ -313,7 +313,7 @@ Startled by his superior’s words, he quickly opened his mouth to explain.
 
 “I, I noticed you’ve been reading the newspapers a lot lately.”
 
-“Ah… this?”
+“Ah... this?”
 
 Indeed, on his superior’s desk, there were stacks of newspapers from various companies.
 
@@ -321,9 +321,9 @@ However, when he pointed it out, his usually confident superior averted his eyes
 
 As if embarrassed.
 
-“It’s just… a hobby. Being cooped up here every day is suffocating, you know? I need to know what’s happening in the world.”
+“It’s just... a hobby. Being cooped up here every day is suffocating, you know? I need to know what’s happening in the world.”
 
-“…I see.”
+“...I see.”
 
 But the newspapers on his superior’s desk always had the same content. No, more accurately, the subject of the articles was always the same.
 
@@ -337,9 +337,9 @@ Alex tilted his head in confusion.
 
 “Aren’t you happy? Baron Jandel was also your former colleague.”
 
-“Former colleague… yes…”
+“Former colleague... yes...”
 
-“Ah……”
+“Ah......”
 
 Realizing his mistake too late, Alex held his tongue.
 
@@ -349,15 +349,15 @@ Incompetent subordinates like himself.
 
 He could never produce such an expression.
 
-“……”
+“......”
 
-“……”
+“......”
 
 As if remembering the past, his superior silently cupped her chin and looked out the window, while Alex stared blankly at his profile.
 
 How long did that last?
 
-“Deputy commander! There’s an emergency deployment order……!”
+“Deputy commander! There’s an emergency deployment order......!”
 
 The office door burst open, and a member of the unit rushed in.
 
@@ -379,7 +379,7 @@ Baron Jandel was leading his tribe towards the Mage Tower.
 
 “We are still confirming. However, with an armed group of over a thousand on the move, it seems that the Public Security Bureau has requested military support.”
 
-“I see…”
+“I see...”
 
 True to the military’s efficiency, within minutes of the emergency call, the entire corps had gathered at the training ground. They immediately boarded carriages and headed for the military transport platform.
 
@@ -391,7 +391,7 @@ Despite Alex’s words, the commander remained silent.
 
 She just nervously bit her nails, something she never did under normal circumstances.
 
-“That man… what kind of trouble is he trying to cause this time…?”
+“That man... what kind of trouble is he trying to cause this time...?”
 
 Seeing her evident anxiety, Alex tried to offer words of reassurance.
 
@@ -403,9 +403,9 @@ There’s no need to worry too much.
 
 It wasn’t just empty words; he really believed what he was saying. But the Commander’s anxious expression showed no sign of easing.
 
-“……Alex. I think you’re misunderstanding something. Right now, I’m not worried about Baron Jandel.”
+“......Alex. I think you’re misunderstanding something. Right now, I’m not worried about Baron Jandel.”
 
-“Huh…? But still, it’s the Mage Tower we’re talking about.”
+“Huh...? But still, it’s the Mage Tower we’re talking about.”
 
 Alex couldn’t understand.
 
@@ -417,19 +417,19 @@ As he pondered, his Commander spoke again.
 
 “Do you remember what happened to the Explorer’s Guild because of him?”
 
-“Ah, you mean that false accusation incident…”
+“Ah, you mean that false accusation incident...”
 
 “Yes. Back then, a massive escape occurred, and the entire guild branch was destroyed. The regional manager was held accountable and lost the next election because of it.”
 
-“Still… the guild and the Magie Tower are different.”
+“Still... the guild and the Magie Tower are different.”
 
 Even if you consider the entire Explorer’s Guild, it’s nothing compared to the Mage Tower.
 
-But…
+But...
 
-“I… used to think that way too… That the guild and the Mage Tower were fundamentally different. That the Mage Tower wasn’t the kind of organization that could be swayed by a single barbarian…”
+“I... used to think that way too... That the guild and the Mage Tower were fundamentally different. That the Mage Tower wasn’t the kind of organization that could be swayed by a single barbarian...”
 
-“Are you saying… that’s not the case anymore?”
+“Are you saying... that’s not the case anymore?”
 
 Raven nodded without hesitation.
 
@@ -439,9 +439,9 @@ Alex couldn’t find the words to respond.
 
 Years had passed since then, and now he was the leader of his race and a baron of the kingdom.
 
-“More than anything… I know him well.”
+“More than anything... I know him well.”
 
-“……?”
+“......?”
 
 “Alex, trust me. If he’s done something, no matter how reckless it seems, it’s not really reckless.”
 

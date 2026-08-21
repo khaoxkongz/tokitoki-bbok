@@ -4,7 +4,7 @@ The curse of the witch that spread across the world in ancient times was somethi
 
 After the curse, the entire continent turned into a wasteland where no living creature could survive, and only Raphdonia managed to escape the calamity.
 
-…Or at least, that’s what people had been told.
+...Or at least, that’s what people had been told.
 
 But outside the walls, the witch’s curse did not exist.
 
@@ -14,7 +14,7 @@ No, to be precise, the curse as we knew it did not exist.
 
 Just like the post by some Noark player on Ghostbusters. The land beyond the walls wasn’t filled with death.
 
-Well… it’s not exactly “fine,” either.
+Well... it’s not exactly “fine,” either.
 
 Standing at the edge of the cliff, I looked out at the monochrome world spread before me.
 
@@ -24,7 +24,7 @@ Everything was grey, except for the red glow of the rising sun in the distance, 
 
 As the GM muttered, this world was far from normal. But that only raised more questions. The palace had never spoken a single word of truth.
 
-Radiation, my ass…
+Radiation, my ass...
 
 There was no poison in the air.
 
@@ -40,7 +40,7 @@ The GM lowered his telescope—when did he get that?—and kept speaking.
 
 “How could they tell the people inside the walls? That this world is slowly heading toward destruction?”
 
-“…What do you mean by that?”
+“...What do you mean by that?”
 
 “Look below.”
 
@@ -52,19 +52,19 @@ My eyes followed his direction, and I could see the gray color steadily encroach
 
 Looking at the place he pointed to, I could see that the gray color was slowly encroaching on the land.
 
-“The problem is… I don’t think this is happening only here.”
+“The problem is... I don’t think this is happening only here.”
 
-“…And what do you mean by that?”
+“...And what do you mean by that?”
 
 “Earlier, those who went outside the walls returned to the city, right? It is probably happening on the opposite side of the continent as well.”
 
 “But even so, is there a reason to return to the city? If what you say is true, the city would be the first to fall, wouldn’t it?”
 
-“Well… perhaps they know something we don’t. Maybe the encroachment cannot break through the protective barrier of the city’s magic circle.”
+“Well... perhaps they know something we don’t. Maybe the encroachment cannot break through the protective barrier of the city’s magic circle.”
 
 His explanation was baseless and unbecoming of a mage.
 
-But…
+But...
 
 He’s not entirely wrong.
 
@@ -75,7 +75,7 @@ This means there is a way to survive inside Raphdonia.
 I don’t know exactly what it is yet.
 
 ‘I’ll have to figure it out by exploring the city myself.’
-With that, the GM and I went down to the coastline and conducted a few investigations, but in the end, we didn’t uncover much. To sum up the little we did find…
+With that, the GM and I went down to the coastline and conducted a few investigations, but in the end, we didn’t uncover much. To sum up the little we did find...
 First off, that grey area is literally a land of death.
 
 Anything that touches it instantly loses its colour and hardens into stone.
@@ -106,7 +106,7 @@ However, if the protective magic circle surrounding the city can block the erosi
 
 When I said this with a slight laugh, the GM’s eyes widened.
 
-He looked at me like he couldn’t believe I was saying something so… normal.
+He looked at me like he couldn’t believe I was saying something so... normal.
 
 “Don’t you want to—”
 
@@ -126,7 +126,7 @@ After that, we left the shore and headed towards the wall, conversing along the 
 
 “That all this hasn’t been discovered yet. From the atop of the walls in District 10, you’d be able to see the state of the world outside. But I don’t think I’ve even heard any rumors like that.”
 
-“So… I take it you’ve never stood atop the walls, Baron?”
+“So... I take it you’ve never stood atop the walls, Baron?”
 
 “I have.”
 
@@ -134,7 +134,7 @@ When I told him about my experience of climbing the Bifron wall and admiring the
 
 “That’s because Bifron is a special case. As far as I know, the other walls are covered by illusion magic. Only Bifron’s illusion has malfunctioned.”
 
-“…is that so?”
+“...is that so?”
 
 “Yes. Outsiders wouldn’t know, so it’s natural that you didn’t. And apparently, even the soldiers and knights stationed there think the scenery is just an illusion.”
 
@@ -142,9 +142,9 @@ That was the first I’d heard of it.
 
 As a high-ranking mage who has lived a long life, he certainly knows a lot.
 
-“But… don’t the sanctuaries also have illusion spells cast over them?”
+“But... don’t the sanctuaries also have illusion spells cast over them?”
 
-Ah, that…….
+Ah, that.......
 
 “Yes, I just didn’t realise the walls were the same, too.”
 
@@ -161,7 +161,7 @@ When Noark activated the old royal magic circle, the sanctuary was instantly cut
 If you continue walking through the sanctuary, you will eventually reach a section blocked by an invisible wall that prevents you from going any further. From what I recall, a forest once stretched beyond the boundary.
 
 [All things must be done in order.]
-[…]
+[...]
 
 [Warrior, the time has not yet come for you to wonder about what lies beyond.]
 
@@ -171,11 +171,11 @@ I’ve grown far stronger since then.
 
 Maybe now, it is time to wonder about the outside.
 
-“Well… it’s only natural you assumed the sanctuary was an exception. After all, the illusion magic was supposedly cast to consider the other races.”
+“Well... it’s only natural you assumed the sanctuary was an exception. After all, the illusion magic was supposedly cast to consider the other races.”
 
 “It suddenly makes me curious. What it’s really like.”
 
-“Pardon……?”
+“Pardon......?”
 
 “Since we’re nearby anyway. It’s on the way anyway.”
 
@@ -193,25 +193,25 @@ This was the sanctuary of the fairies in District 9.
 
 We could see inside without much difficulty.
 
-“…Just forest, huh.”
+“...Just forest, huh.”
 
 Since it’s the outermost boundary of the Sanctuary, it was impossible to see the fairy settlements or cities, but it was still fascinating.
 
-So huge…
+So huge...
 
 The trees were enormous and perfectly aligned, as though they had been cultivated for millennia.
 
-“…I came here because you said we should check it, but now that we’re here, what are you going to do?” As I was absorbed in watching, the GM nudged me.
+“...I came here because you said we should check it, but now that we’re here, what are you going to do?” As I was absorbed in watching, the GM nudged me.
 
-Surprisingly, at that moment…
+Surprisingly, at that moment...
 
-“…Huh?”
+“...Huh?”
 
 I thought I saw something moving beyond the barrier.
 
 “Wait a moment.”
 
-“…What?”
+“...What?”
 
 “Quiet.”
 
@@ -225,7 +225,7 @@ With his silver hair and youthful appearance, the fairy seemed to be either unde
 
 The fairy slowly approached our direction.
 
-“Can he see us…?”
+“Can he see us...?”
 
 I wondered about it, since he was heading straight for us, but it seemed unlikely. If he had seen us, his expression wouldn’t be so calm.
 
@@ -235,7 +235,7 @@ The fairy arrived at the barrier and placed his hand against it, as if feeling i
 
 He muttered something—
 
-“… …”
+“... ...”
 
 But the barrier prevented us from hearing.
 
@@ -243,7 +243,7 @@ Somehow, though, the GM translated.
 
 “He said it feels suffocating.”
 
-“…You can read lips?”
+“...You can read lips?”
 
 “A little trick I picked up. It wasn’t a difficult word.”
 
@@ -253,7 +253,7 @@ No wonder we were both former players, after all.
 
 Being able to understand someone through language and understanding speech by reading lips are two different stories.
 
-“Oh, now he’s mumbling to himself, ‘I wonder what’s outside…’
+“Oh, now he’s mumbling to himself, ‘I wonder what’s outside...’
 
 Thanks to his interpretation, I understood why the fairy was making that expression.
 
@@ -267,7 +267,7 @@ Well, as expected of a mage, he speaks well.
 
 “Well then, if your curiosity’s satisfied, shall we be on our way?”
 
-“…Yeah, let’s go.”
+“...Yeah, let’s go.”
 
 As I turned away, I cast one last glance at the silver-haired fairy.
 
@@ -289,19 +289,19 @@ He no longer seemed so wary of me.
 
 “Hmm, from what I’ve heard, I believe at least one of them was true—.”
 
-“……You’ve gotten very comfortable, haven’t you?”
+“......You’ve gotten very comfortable, haven’t you?”
 
-“Haha… S-sorry.”
+“Haha... S-sorry.”
 
 He wasn’t just chatting now, he also started throwing out personal questions he must have been curious about.
 
-“Um… What is your goal, Baron?”
+“Um... What is your goal, Baron?”
 
 “Are you picking a fight?”
 
 “N-no, it’s not that. I’m really asking because I’m curious. You’re always ahead in dangerous matters and live so busily, right?”
 
-“……I don’t have one.”
+“......I don’t have one.”
 
 “Pardon?”
 
@@ -315,17 +315,17 @@ And since life is give-and-take, I asked him something in return.
 
 “Yeah. You wouldn’t ask unless you had one yourself.”
 
-“There’s… someone I really want to meet again someday.”
+“There’s... someone I really want to meet again someday.”
 
 As a fellow player, I assumed his goal was to return to our original world—and that his reason for doing so was tied to “someone.”
 
-Family, maybe…?
+Family, maybe...?
 
 I didn’t pry. I just nodded.
 
-“…I see. I hope you’ll meet them again.”
+“...I see. I hope you’ll meet them again.”
 
-“…Thank you.”
+“...Thank you.”
 
 “Stay strong.”
 
@@ -333,7 +333,7 @@ I clapped him firmly on the shoulder. He tried to dodge, but the GM still smirke
 
 Then he said—
 
-If not for the incomprehensible ‘cultural differences’… Baron Yandel, you’d actually be quite a good person.”
+If not for the incomprehensible ‘cultural differences’... Baron Yandel, you’d actually be quite a good person.”
 
 I couldn’t tell if it was a compliment or sarcasm.
 
@@ -345,7 +345,7 @@ Still feels a little unfair, though.
 
 If they had started as barbarians like me, they’d have acted the same way.
 
-…Probably.
+...Probably.
 
 “Let’s camp here tonight.”
 
@@ -359,7 +359,7 @@ I closed my eyes and was double-checking tomorrow’s schedule when suddenly, a 
 
 “The sky, you see.”
 
-“……?”
+“......?”
 
 “The sky is the same in any world.”
 
@@ -369,11 +369,11 @@ Just lying down at night and staring at the sky made me forget where I really wa
 
 But perhaps realizing too late that he’d spoken recklessly, he quickly added an unnecessary clarification.
 
-“Ah, I mean… whether inside or outside the walls.”
+“Ah, I mean... whether inside or outside the walls.”
 
 “Yeah. Really, there’s no difference.”
 
-“……”
+“......”
 
 And so we both remained silent for a while, gazing up at the sky.
 
@@ -383,7 +383,7 @@ Out here, sleeping rough beneath the open sky, he seemed to be lost in old memor
 
 “Baron.”
 
-“…What is it?”
+“...What is it?”
 
 “You asked once about the first school of magic I joined, didn’t you?”
 

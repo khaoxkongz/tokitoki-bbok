@@ -1,52 +1,52 @@
-Like Ice (3)
+Like Ice (4)
 
-As soon as [Spiritualization] is activated.
+As soon as [Spiritization] activated—
 
-[A spirit of wind resides within the character’s body]
+[A wind spirit resides within the character’s body.]
 
-A translucent wind began to swirl around my skin.
+A translucent wind began swirling around my body.
 
 We couldn’t exchange words or glances, but I could sense what Erwin was aiming for.
 
-「All incoming damage receives an avoidance bonus.」
+[All incoming damage receives an evasion bonus.]
 
-An evasion bonus that is activated on a probabilistic basis.
+An evasion bonus that triggered probabilistically.
 
-For reference, this evasion bonus provides the highest probablility of success against magical attacks .
+For reference, this evasion bonus had its highest chance of activating against magical attacks.
 
-Perhaps because of that, there was also another condition attached to this mode:
+Perhaps because of that, the mode also came with another condition:
 
-「All magical damage received is doubled.」
+[All magical damage received is doubled.]
 
-That’s why I didn’t use the wind mode when facing mages or support types.
+That was why I normally avoided Wind Mode against mages or support-types.
 
-I felt the risk was too high.
+The risk had always felt too high.
 
-A 50% chance to evade?
+A fifty-percent chance to evade?
 
-It sounds good, but if you fail and take double damage, it can be even more dangerous given the nature of the game.
+It sounded good, but in a game like this, failing the check and taking double damage could be even more dangerous.
 
-Still…
+Still...
 
 Whooosh—!
 
-The coin was already tossed.
+The coin had already been tossed.
 
-So there was only one thing to do.
+So there was only one thing left to do.
 
 Thump.
 
-Just watch the outcome.
+Watch the result.
 
 Whiiiiish-!
 
-In a moment where everyone’s fate might hang in the balance.
+With everyone’s fate potentially hanging in the balance—
 
-Without dragging it out, the result appeared immediately.
+the result came immediately.
 
-[The character has successfully evaded]
+[The character has successfully evaded the attack.]
 
-The [Edge of the World’s End] that seemed to pierce my body was pushed aside by the whirlwind, barely grazing my skin before its trajectory changed.
+The [Edge of the World’s End], which had seemed certain to pierce me, was swept aside by the whirlwind. It barely grazed my skin before veering away.
 
 And then—
 
@@ -54,132 +54,130 @@ KWA-AAAAANG—!
 
 With a thunderous crash, the black spear lodged itself into the ceiling.
 
-“……!”
+“......!”
 
-The wind that had been wrapped around my entire body dissipated, leaving a hollow feeling, as if my heart had plunged downwards.
+The wind wrapped around my body dissipated, leaving a hollow sensation as though my heart had dropped.
 
-「All of Erwin Fornacci di Tercia’s natural power has been exhausted.」
-「[Spiritization] is canceled.」
+[All of Erwin Fornacci di Tercia’s natural power has been exhausted.]
+[The [Spiritization] state has been canceled.]
 
 So, that was all she had left.
 
-…I’ll think later.’
+‘...I’ll think about that later.’
 
-Still holding Erwin’s body, I rolled once on the floor and got back on my feet.
+Still holding Erwin, I rolled across the floor once and sprang back to my feet.
 
-“Bjorn…”
+“Bjorn...”
 
-Huh? What happened to ‘mister’?
+Huh? What happened to “Mister”?
 
-The sudden name change felt strange, but I didn’t dwell on it.
+The sudden change in how she addressed me felt strange, but I didn’t dwell on it.
 
 Checking her condition came first.
 
-“It’ll be tough, but can you handle that support type user over there? Just keep him occupied.”
+“It’ll be rough, but can you handle that support-type over there? Just keep him occupied.”
 
-“…I can do it.”
+“...I can do it.”
 
-Good, the baton’s been passed.
+Good. The baton had been passed.
 
-“You bastard…!”
+“You bastard...!”
 
 As soon as I took up my position and turned, a shock reverberated through my shield.
 
 Crack!
 
-Regal Vargos, the dragonslayer.
+Regal Vagos, the Dragon Slayer.
 
-The one who first taught me what it meant to lose a companion.
+The man who had first taught me what it meant to lose a companion.
 
 Crack!
 
-He swung his sword hard and wildly, but I parried each blow and kept thinking.
+He swung hard and fast, but I parried each blow while my thoughts kept moving.
 
-‘I thought I’d be overjoyed to tears…’
+‘I thought I’d be overjoyed to tears...’
 
 But I’m not.
 
 Well, it’s not so surprising.
 
-Though I’ve longed for this moment, I’ve lost so much along the way.
+I had longed for this moment for years, but I had lost too much along the way.
 
-“You… how are you this damn stubborn?”
+“You... how are you this damn stubborn?”
 
 “And you, who followed me all the way here to kill me, have the nerve to say that?”
 
 “I’ll finish this!”
 
-He put more strength into his blade, Wringing himself out like a dry towel.
+He poured more strength into his blade, wringing himself out like a dry towel.
 
 The source of his drive was obvious.
 
-Sure, he hated me, but more importantly he knew there was no other way out of this place alive unless he killed me.
+Sure, he hated me. More importantly, he knew there was no way out of this place alive unless he killed me.
 
 Ka-chak—!
 
-The situation is simple.
+The situation was simple.
 
-Having returned from the brink of death, Erwin is squeezing out her last bit of energy to keep the support type user busy.
+Having returned from the brink of death, Erwin was squeezing out the last of her strength to keep the support-type occupied.
 
 “Emily! We don’t have to worry about that bastard, right?”
 
-“…Stating the obvious.”
+“...Stating the obvious.”
 
-Amelia was engaged in a close battle with the bald Rephless.
+Amelia was locked in close combat with the bald Rephless.
 
-Everyone else is down.
+Everyone else was down.
 
-Some might still be breathing, but they’re clinging to life by a thread. They have no strength left to fight.
+Some might still have been breathing, but they were clinging to life by a thread and had no strength left to fight.
 
-In other words…
+In other words...
 
 Clang—!
 
-The winner of this long battle will be decided soon.
+The winner of this long battle would be decided soon.
 
 Ka-chak—!
 
-The winner of this long battle will be decided soon.
+I shoved against his blade with my shield.
 
-I push against his blade with my shield.
+Though Recoil had wrecked my resistance stat, my strength remained intact.
 
-Though my resistance stat had been wrecked by Recoil, my strength hadn’t decreased.
+A simple shove sent him stumbling back three steps.
 
-With my simple shove, he stumbled back three steps.
-
-Having taken several of his blows, I’d roughly gauged his condition. Now it was my turn.
+After taking several of his blows, I had a rough sense of his condition. Now it was my turn.
 
 “Bethel—RAAAAAH!”
 
-I charged forward, shouting the name of my ancestors.
+I charged forward, roaring the name of my ancestors.
 
-No matter how loudly I scream, the [Wild Burst], which is classified as an active skill, will not activate. …. But I couldn’t help doing it to get into the mood.
+No matter how loudly I shouted, [Wild Burst] wouldn’t activate while my active skills were sealed. But I couldn’t help it—it put me in the right frame of mind.
 
 Whooong—!
 
-With the strength of my ancestors, I brought down the hammer.
+With the strength of my ancestors behind me, I brought the hammer down.
 
-The bastard took two steps to step back, and as my hammer swung down, he stretched out his blade toward the opening.
+The bastard retreated two steps and thrust his blade toward the opening as my hammer came down.
 
-He’s certainly had a lot of real combat experience.
+He certainly had plenty of real combat experience.
 
-But…
+But...
 
-‘That’s why his judgments are so predictable.’
+‘That’s exactly why his choices are so predictable.’
 
-Before long, his sword sank into my side.
+His sword sank into my side.
 
-Because my resistance stat was lowered, the wound felt all the more vivid.
+With my resistance stat reduced, the wound felt brutally vivid.
 
 Puuuk—!
 
-I could have dodged or blocked if I really wanted to.
+I could have dodged or blocked if I had truly wanted to.
 
 But if I had, the fight would’ve dragged out longer.
 
 Whoosh.
 
-As soon as his sword struck my side, I reached out as if I had been waiting for the chance
+The instant his sword sank into my side, I reached out as though I had been waiting for exactly that opening.
 
 My target: his neck.
 
@@ -189,7 +187,7 @@ But maybe he knew this.
 
 Tap.
 
-He quickly retreated backward.
+He sprang backward.
 
 So urgently that he left behind something he shouldn’t have.
 
@@ -197,33 +195,33 @@ So urgently that he left behind something he shouldn’t have.
 
 I gritted my teeth and pulled out the sword stuck in my side.
 
-And with lips crusted in dried blood, I grinned.
+With dried blood crusted across my lips, I grinned.
 
-“I don’t need any more swords”
+“I don’t need any more swords.”
 
-“……”
+“......”
 
 “And seriously, what kind of swordsman keeps losing his sword?”
 
-I clicked my tongue as if he were pathetic. His face hardened and his eyes seemed ready to shoot lasers.
+I clicked my tongue as if looking at something pathetic. His face hardened, his eyes almost fierce enough to shoot lasers.
 
 However, his actions didn’t match his eyes.
 
-Panicked by losing his sword, he didn’t know what to do.
+Without his sword, panic had clearly scrambled his judgment.
 
 Thud.
 
 Suddenly, he dashed.
 
-Not towards me, but to the side.
+Not toward me, but to the side.
 
 Again, his intention was crystal clear.
 
 ‘He’s thinking of using the sword on the ground?’
 
-Back in the maze, when he couldn’t use his sword, he had rushed to Misha to steal hers. He claimed it as“ours,” and until Rotmiller blocked him and stowed the weapon into his [Treasure Vault], I could only watch helplessly as he rampaged.
+Back in the maze, when he lost access to his sword, he had rushed Misha and stolen hers. He claimed it as “ours,” and until Rotmiller stopped him and stored the weapon in his [Treasure Vault], I could only watch helplessly as he rampaged.
 
-But…
+But...
 
 ‘This time it’s different.’
 
@@ -231,9 +229,9 @@ I no longer have to pick between the worst evil and a lesser evil.
 
 Back then, when he presented us with two options, we had to choose one of them.
 
-Now the tables have turned completely.
+Now the tables had turned completely.
 
-He’s the one forced to choose.
+Now he was the one being forced to choose.
 
 Tap.
 
@@ -243,9 +241,9 @@ The moment he moved, I also lunged forward.
 
 The distance closed in an instant, and his pupils shook.
 
-He’s wondering if it’s right to pick up that sword, or what else he could do..
+He was trying to decide whether to grab the sword or do something else.
 
-As the hammer whirled above, the choice he made was pitifully poor.
+With the hammer whirling overhead, the choice he made was pitiful.
 
 Thud.
 
@@ -253,21 +251,21 @@ He rolled on the ground, abandoning the sword that lay there.
 
 ‘Did I worry needlessly about a feint?’
 
-If I were him, I’d pretend to reach for the sword and then exploit an opening.
+If I were him, I would have pretended to reach for the sword and used the reaction to create an opening.
 
 Well, he’s a swordsman, after all. Maybe he’s just not that cunning.
 
-Hmm, if the sword was that important, he might have considered sacrificing a shoulder to secure it.
+If the sword mattered that much, he should have considered sacrificing a shoulder to secure it.
 
-‘…Maybe he’s aiming for something else.’
+‘...Maybe he’s aiming for something else.’
 
 It would be a lie to say I wasn’t disappointed in him, but I chose caution over complacency.
 
-Better to remain wary than to let my guard down.
+Better to stay wary than grow complacent.
 
-No underestimating the enemy.
+Never underestimate the enemy.
 
-So, in that sense…
+So, in that sense...
 
 Whoosh!
 
@@ -277,37 +275,37 @@ Thud!
 
 He retreated again.
 
-And when this had happened several times…
+And when this had happened several times...
 
 Pop.
 
-He finally backed into a wall.
+He finally backed himself into a wall.
 
 At the same time, his eyes widened in panic.
 
 I realized then—
 
-‘This bastard… Didn’t he think about the wall?’
+‘This bastard... did he seriously forget about the wall?’
 
 His secret weapon?
 
 There was none.
 
-He was just dodging desperately and ended up cornered.
+He had simply kept dodging until he cornered himself.
 
 That’s all.
 
 KWAJIK—!
 
-I brought the hammer down on his left shoulder to confirm it.
+I brought the hammer down on his left shoulder to confirm my suspicion.
 
-“Ugh…!!”
+“Ugh...!!”
 
 With bloodshot eyes, he groaned and tried to flee to the side.
 
-The feeling was odd.
+The feeling was strange.
 
-Was it a sense of emptiness?
+Was this what emptiness felt like?
 
 “If you were going to give up your shoulder, you should’ve at least secured a weapon.”
 
@@ -315,43 +313,43 @@ If he was going to let me crush his shoulder anyway, he might as well have picke
 
 Instead of feeling glad, I was frustrated.
 
-So…
+So...
 
 Crunch.
 
-Like an eel slipping away, he tried to get away, but I grabbed him by the neck and threw him against the wall.
+He tried to slip away like an eel, but I caught him by the neck and hurled him into the wall.
 
 Boom!
 
 He coughed up blood, his mouth gaping wide.
 
-“Cough…!”
+“Cough...!”
 
 I swung the hammer once more.
 
-The target was his crown, but in the midst of it he threw his body to the side to avoid it.
+I aimed for the crown of his head, but he threw himself sideways at the last instant.
 
 Crunch!
 
 Thanks to that, his left leg was completely crushed.
 
-“Aaaaah…!”
+“Aaaaah...!”
 
 He screamed.
 
-It was not at all satisfying.
+It wasn’t satisfying at all.
 
-Even Six, the woman I killed earlier, remained calm as her head was crushed, but he was screaming like a child.
+Even Six had remained calm while I crushed her skull. Vagos, meanwhile, screamed like a child.
 
-“Because of a bastard like you…”
+“Because of a bastard like you...”
 
-Still, his will to survive was remarkable.
+Still, his will to live was remarkable.
 
 Drag.
 
 He dragged his shattered leg across the floor, trying to distance himself from me.
 
-Where was he heading? To where Amelia was fiercely fighting the bald boxer.
+Where was he going? Toward Amelia, who was still fighting the bald boxer.
 
 Is he trying to rely on him?
 
@@ -359,29 +357,29 @@ Squish.
 
 I stepped on his back, stopping him.
 
-Perhaps now he is realizing?
+Maybe he finally understood.
 
-“…Kill me.”
+“...Kill me.”
 
 He gritted his teeth and shouted.
 
 It was rather fortunate.
 
-He stuttered a bit, but at least he wasn’t pathetically begging for his life.
+His voice shook a little, but at least he wasn’t pathetically begging for his life.
 
 That would have really soured my mood.
 
 Boom!
 
-While Amelia was still fighting, I quickly finished my contemplation.
+Amelia was still fighting, so I ended my contemplation quickly.
 
-No need to drag this out. I’d say what I need to say and end it.
+There was no need to drag this out. I would say what I had come to say, then end it.
 
 “Do you remember Leor Wuerv Dwalki?”
 
-“Kuh… kehuhuhuhuh…”
+“Kuh... kehuhuhuhuh...”
 
-Facing death, he sneered as if he had found my weak spot.
+Facing death, he sneered as though he had found a weakness to exploit.
 
 It didn’t matter.
 
@@ -391,21 +389,21 @@ We never recovered his body from the labyrinth.
 
 We held a funeral with just a few of his belongings.
 
-On that day, I made a promise.
+That day, I had made a promise.
 
 When the time came, I would say these words to this bastard’s face.
 
-So…
+So...
 
 “You just listen.”
 
 I smashed his other shoulder with the hammer and said:
 
-“Leor Wuerv Dwalki…”
+“Leor Wuerv Dwalki...”
 
-It’s been nearly three years…
+It’s been nearly three years...
 
-“That so-called half- mage who saved all of us that day in the labyrinth…”
+“That so-called half-mage who saved all of us that day in the labyrinth...”
 
 It took a damn long time, but—
 
@@ -419,47 +417,47 @@ He didn’t lose to you.
 
 “Which means he won, understand?”
 
-He still didn’t reply.
+He still didn’t answer.
 
 Pride, I suppose.
 
-I flipped him over, lifted him up on my toes, and forced him to nod.
+I flipped him over, hauled him up by the collar, and forced his head into a nod.
 
 ‘Phew, is it all finally over?’
 
 It still doesn’t feel real, but I think so.
 
-Anyway, that’s enough…
+Anyway, that’s enough...
 
 KWAJIK—!
 
-Now die, you mother fucker.
+Now die, you motherfucker.
 
 ---
 
 Crack!
 
-Following the dragon slayer, I smashed the bald boxer’s head with a hammer, joining forces with Amelia.
+After finishing the Dragon Slayer, I joined Amelia and smashed the bald boxer’s head with my hammer.
 
-[You have killed Manua Rephless]
+[You have killed Manua Rephless.]
 
-Next was the support type user, who was desperately trying to escape Erwin’s pursuit, causing chaos.
+Next came the support-type, who was desperately trying to escape Erwin’s pursuit.
 
-「You have killed Kael Elvad Jeneger」
+[You have killed Kael Elvad Genegger.]
 
-With that, all the enemies’ heads were smashed.
+With that, every enemy was down.
 
 As soon as my mind registered that fact—
 
-The feverish heat of battle drained away, replaced by the cold air wrapping around me.
+The feverish heat of battle drained from me, replaced by the cold air wrapping around my body.
 
 Whoooo—
 
-With the enemies gone, silence fell as if a storm had passed.
+With the enemies gone, silence settled over the cave like the calm after a storm.
 
-Because of that, I finally felt it sink in.
+Only then did reality finally sink in.
 
-“It’s over…”
+“It’s over...”
 
 At last, the battle ended.
 
@@ -467,43 +465,43 @@ But there was no time to rest.
 
 “Amelia, check if any enemies are still breathing.”
 
-“I-I’ll help, too…!”
+“I-I’ll help, too...!”
 
 “Help by resting. That’s enough.”
 
-I left the kills-confirmation to Amelia, and forced Erwin, who had spent her last energy, to rest.
+I left confirming the kills to Amelia and made Erwin, who had exhausted the last of her strength, rest.
 
-And I…
+And I...
 
 Creak.
 
-Gathered the fallen members lying on the cold ground.
+I gathered the fallen members from the cold ground.
 
-For those still breathing, I checked their injuries, and for those who were now cold and still, I gently closed their eyes.
+I checked the injuries of those still breathing. For those who had already gone cold and still, I gently closed their eyes.
 
 Even calling it “devastating” felt insufficient.
 
-‘Sven Parab, Melend Kaislan, Lyris Marone, Titana Akuraba, Rabien, James Carla, Vercil Gowland, Erwin, Amelia.’
+‘Sven Parab, Melend Kaislan, Lyris Marone, Titana Akuraba, Ravien, James Carla, Vercil Gowland, Erwin, Amelia.’
 
 And me.
 
-“Ten…”
+“Ten...”
 
-The number of our expedition members who survived.
+That was the number of expedition members still alive.
 
 Everyone else was dead.
 
-“Jandel… I found some potions for you.”
+“Jandel... I found some potions for you.”
 
 After rummaging through the corpses of the Rose Knights and the Noark members, Amelia returned with potions. They were distributed based on the severity of the wounds.
 
 “I’ll look for more potions.”
 
-“Thanks, Emily…”
+“Thanks, Emily...”
 
 The potions were insufficient for everyone’s full recovery, but by administering them in order of urgency, the members hovering between life and death gradually regained consciousness.
 
-And…
+And...
 
 “It’s really just us left.”
 
@@ -511,25 +509,25 @@ The surviving members of the expedition bore a deep darkness beneath their eyes.
 
 It was simple.
 
-We knew each other too well by now, so there was no joy in surviving alone.
+By now, we knew one another too well to feel joy at surviving when so many others hadn’t.
 
-Instead of relief, fury and grief came first.
+Grief and fury came before relief.
 
-“Uwaaaah…!”
+“Uwaaaah...!”
 
-Unlike Mage Marone, who wept openly, most just clenched their fists, enduring their sorrow in silence.
+Unlike Mage Marone, who wept openly, most simply clenched their fists and endured their grief in silence.
 
-“Ashid had a wife waiting at home. Eriavosti’s priest had children.”
+“Ashid had a wife waiting at home. Priestess Eriavosti had a child.”
 
-“Ventis Gerod dreamed of reaching the abyss someday.”
+“Ventis Gerod dreamed of reaching the Abyss someday.”
 
 “Iribon said he’d open a shop when this expedition was over.”
 
-“None of them deserved to die here. Not like this… Then why… why did they have to die…?!”
+“None of them deserved to die here. Not like this... Then why... why did they have to die...?!”
 
 It didn’t take long for their grief to turn into anger.
 
-“Jandel… please tell us. What did we do so wrong to deserve this fate? Why did we all have to die here?”
+“Jandel... please tell us. What did we do so wrong to deserve this fate? Why did we all have to die here?”
 
 At last, the fundamental question arose.
 
@@ -539,29 +537,29 @@ At last, the fundamental question arose.
 
 “That won’t help. We need to go public! Let everyone know what happened here!”
 
-“Royalty’s involved, so it’ll be difficult, but maybe possible. Rabien is of the Dragon tribe, and Akuraba, you’re a Dwarf with some influence.”
+“Royalty is involved, so it’ll be difficult, but maybe it’s possible. Ravien is of the Dragon Tribe, and Akuraba, you’re a dwarf with influence of your own.”
 
-“Jandel was also a tribe chief candidate, right? And Miss Erwin holds an important position among the Fairies”
+“Jandel was also a tribe chief candidate, right? And Miss Erwin holds an important position among the Fairies.”
 
 “Yes! If all four major races come together, then maybe—!”
 
-As they poured out their emotions, my head and heart grew cold.
+As they poured out their emotions, my head and heart only grew colder.
 
 I too wanted to rage with them.
 
 But I shouldn’t.
 
-[Indeed… you are… meant to be… a giant…]
+[Indeed... you are... meant to be... the Giant...]
 
-If I am to become the giant that old Didi foresaw, I can’t give in to anger like that.
+If I was going to become the Giant Old Didi believed in, I couldn’t surrender to that kind of anger.
 
 “Jandel! What do you think? You’re not just going to sit and do nothing, right?”
 
-As they trembled with their hot emotions, I answered:
+While they trembled with raw emotion, I answered:
 
-“I… No, we are going to do nothing.”
+“I... no. We are going to do nothing.”
 
-“…What?”
+“...What?”
 
 “The only way for us to survive is to remain silent.”
 
@@ -569,131 +567,131 @@ As they trembled with their hot emotions, I answered:
 
 “Kaislan, as a knight you know this. Even if all four races marched on the royal palace, we’d just be massacred.”
 
-Even Kaislan, who had always been on my side in steering public opinion, didn’t respond this time.
+Even Kaislan, who had so often helped steer the group in my favor, said nothing this time.
 
-Yeah, he didn’t want to answer.
+Yeah. He didn’t want to answer.
 
 I just continued speaking.
 
-“Uniting the four races is impossible from the start. Do you really think they would all risk their lives and fight with us? Stake the fate of their entire races?”
+“Uniting all four races is impossible from the start. Do you really think they would risk everything to fight beside us? Stake the fate of their entire peoples?”
 
 I don’t think so.
 
 This world isn’t a fairy tale.
 
-Here, everyone carefully calculates before taking action.
+In this world, everyone calculates before taking action.
 
-“But still… we must do something!”
+“But still... we must do something!”
 
 “And if that something kills us all?”
 
 “It’s better than doing nothing!”
 
-“Marone, do you really think so? If we throw away these lives we barely managed to hold onto, would our dead comrades be happy about that?”
+“Marone, do you really believe that? If we throw away the lives we barely managed to preserve, would our dead comrades be happy?”
 
-“Then… what do you propose we do?!”
+“Then... what do you propose we do?!”
 
-Marone, who always managed to smile even in hardships, was now yelling, but I kept speaking:
+Marone, who had always managed to smile even through hardship, was shouting now. I kept speaking anyway.
 
 “As I said, we do nothing.”
 
 “······.”
 
-“We won’t complain, or even speak a word about it.”
+“We won’t complain. We won’t say a word about what happened.”
 
 “······.”
 
-“We’ll assume that the main force didn’t come for us due to some unavoidable circumstances, and…”
+“We’ll accept that the main force failed to reach us because of unavoidable circumstances, and...”
 
 “······.”
 
-“We must also say that the secret forces of Noark raised on the 8th floor weren’t killed by us.”
+“We’ll say the secret force Noark raised on the 8th floor wasn’t killed by us either.”
 
-If we admitted to defeating those soldiers, it would be considered a significant achievement, but we can never reveal it to anyone.
+Defeating those soldiers would have been a tremendous achievement, but we could never reveal it.
 
-“The Rose Knights, regarded as a city legend?”
+“And the Rose Knights—the ones people treat like an urban legend?”
 
 It’s the same with them.
 
-Facing them would be a lifelong boast-worthy feat, an achievement to share over drinks for decades—
+Surviving a battle against them would have been something to boast about over drinks for decades—
 
 “But we have to say we never even encountered them.”
 
-That’s how it must be.
+That was how it had to be.
 
-Only we know what happened here.
+Only we would know what had happened here.
 
-If we remain silent and pretend to know nothing, those who sent us here will piece together their own version of events—
+If we stayed silent and pretended to know nothing, those who had sent us here would piece together their own version of events—
 
-In a way that makes sense to them.
+one that made sense from their perspective.
 
-They’ll probably think something like: The enemies who’d been pursuing us ended up clashing with the Rose Knights under strange circumstances—and we just got lucky and made it out.
+They would probably assume the enemies pursuing us had somehow clashed with the Rose Knights, and that we had simply gotten lucky enough to escape.
 
-“Then… what about the dead?” Marone asked, her voice trembling with tears.
+“Then... what about the dead?” Marone asked, her voice trembling with tears.
 
-“Those people…” I bit my lip as I spoke.
+“Those people...” I bit my lip as I spoke.
 
-“Those people… after escaping the Glacier’s Eye, we’ll say they died to monsters.”
+“We’ll say they died to monsters after we escaped the Glacier Eye.”
 
-“M-Monsters…?”
+“M-Monsters...?”
 
-“Yes, because we were exhausted from escaping the Glacier’s Eye. We had to abandon our gear; we ran out of food. It’s not an unbelievable story that…”
+“Yes. We were exhausted after escaping the Glacier Eye. We had abandoned our gear and run out of food. It isn’t unbelievable that...”
 
-“That’s a lie! They didn’t die like that! They fought with such strong people. There were so many times when it seemed better just to die…”
+“That’s a lie! They didn’t die like that! They fought enemies that strong. There were so many times when it would have been easier just to die...”
 
-“…”
+“...”
 
-“And yet we fought… all of us… until the very end, none of us gave up, and we won! But now… monsters? Saying they died to monsters…?”
+“And yet we fought... all of us... until the very end. No one gave up, and we won! But now... monsters? We’re supposed to say they died to monsters...?”
 
-“Stop it, Marone…” Kaislan embraced her, trying to calm her down.
+“Stop, Marone...” Kaislan pulled her into an embrace, trying to calm her.
 
 As Marone wailed, Sven Parab stepped forward.
 
-“Then… what happens next?”
+“Then... what happens next?”
 
-“In the end, the world will hear that we survived until the closure by hiding, barely clinging to life. That will be the final tale of our expedition.”
+“In the end, the world will hear that we hid until the labyrinth closed and barely survived. That will be the official story of our expedition.”
 
-“I see. That certainly seems like the safest way to survive. But…”
+“I see. That certainly seems like the safest way to survive. But...”
 
-He turned to me, speaking with a firmness I’d never heard from him before.
+He turned to me, his voice firmer than I had ever heard it.
 
 “I still don’t like it.”
 
 His voice was steady, but there was no hostility in his eyes.
 
-Why not?
+I wondered why.
 
 “But I’ll do as you say.”
 
 “Why?”
 
-“Because just looking in your eyes, I can tell. You’re the one who dislikes this whole affair the most.”
+“Because I can tell just by looking at you. You’re the one who hates this whole thing the most.”
 
 I was at a loss for words, and this time Akuraba spoke up.
 
-“You… you’re not going to remain silent forever, are you?”
+“You... you’re not planning to stay silent forever, are you?”
 
-“…Of course not.”
+“...Of course not.”
 
 “Then I’ll wait.”
 
 Akuraba stepped back, and then James Carla took his turn.
 
-“I’ll… try it too. I’ll have to face that damn clan leader and pretend nothing’s wrong… but that will still be better than today, when I couldn’t even see my comrades as they died…”
+“I’ll... do it too. I’ll have to face that damn clan leader and pretend nothing happened... but even that will be better than today, when I couldn’t even see my comrades as they died...”
 
-I could feel the intense heat of their determination, even with my eyes closed.
+Their determination burned hot enough that I could almost feel it physically.
 
-I approached each of the other surviving members, seeking and confirming their intentions.
+I went to each of the other survivors and confirmed their decision.
 
 After that was all done—
 
 “Lyris Marone.”
 
-Finally, I approached the mage who sat slumped on the ground.
+Finally, I approached the mage sitting slumped on the ground.
 
 When our eyes met, she looked up at me and asked:
 
-“How long…?”
+“How long...?”
 
 “······.”
 
@@ -705,24 +703,26 @@ But if I have to answer honestly—
 
 “A very long time.”
 
-It will take more than just a few years before we can finally draw our swords.
+It would take far more than a few years before we could finally draw our swords.
 
-But still, one thing is certain—
+But still, one thing was certain—
 
 “······I see.”
 
 On the 71st day of the expedition—
 
-Inside the icy cave on the 7th floor of Ice Rock—
+inside the icy caves of the 7th-floor Ice Rock—
 
-On the frozen ground where the cold seeped up from beneath—
+on frozen ground with cold seeping up from below—
 
-“If waiting… If waiting works…!”
+“If waiting... If waiting works...!”
 
-It’s not a white-hot fury that burns itself out quickly.
+this was not a white-hot fury that would burn itself out in an instant.
 
-It’s precisely because it’s not that kind of rage that, even over time, it will never extinguish—this cold fury.
+Precisely because it was not that kind of rage, time would not extinguish it.
+
+A cold fury.
 
 “I’ll wait too.”
 
-Each of us etched it into our hearts.
+Each of us carved it into our hearts.

@@ -34,21 +34,21 @@ Well, there was a way to counter that too, but still.
 
 Anyway.
 
-“Psssit…”
+“Psssit...”
 
 Right, there’s no reason to be intimidated here.
 
 Step
 
-Even as the giant radiated an aura with the force of a freight train…
+Even as the giant radiated an aura with the force of a freight train...
 
-And even though he did not believe he could pierce the barbarian’s absurdly high defenses to deal any meaningful damage… History
+And even though he did not believe he could pierce the barbarian’s absurdly high defenses to deal any meaningful damage... History
 
-‘…If it’s just about surviving!’
+‘...If it’s just about surviving!’
 
 At the very least, he was sure he could run. The barbarian’s defenses were absurdly high, but his speed was lacking, as Necrapeto had learned not long ago during the chase.
 
-Of course, since his own mobility wasn’t great either, he had almost been caught back then, but….
+Of course, since his own mobility wasn’t great either, he had almost been caught back then, but....
 
 “Oh, you’re laughing?”
 
@@ -58,15 +58,15 @@ His physical stats had increased significantly, and his summons were far stronge
 
 Analysing the situation calmly, he saw absolutely no reason to be intimidated by the barbarian.
 
-So then…
+So then...
 
-“Why, is it wrong to smile? Pssit…”
+“Why, is it wrong to smile? Pssit...”
 
 As his confidence soared, his mind naturally found ease.
 
 “Well, it’s not wrong. It’s just strange seeing someone who looked half-dead a moment ago suddenly act like this.”
 
-“Half-dead? Nonsense… I was merely a bit surprised. Psssit….”
+“Half-dead? Nonsense... I was merely a bit surprised. Psssit....”
 
 His body reflected his resolve as his hunched shoulders straightened and spread wide.
 
@@ -74,7 +74,7 @@ As the saying goes, positivity begets positivity.
 
 Once he started thinking positively, he started noticing more and more advantages he had over the barbarian. History
 
-“Twenty-four hours… that should be enough.”
+“Twenty-four hours... that should be enough.”
 
 If twenty-four hours passed without anyone dying, everyone would be expelled from this place and returned to their original locations.
 
@@ -120,13 +120,13 @@ How did he dodge that so easily? He would have been hit for sure in the past.
 
 That foolish barbarian knew nothing about the Netherworld, and that gap in knowledge played directly into the necromancer’s hands in this terrain.
 
-Right, so….
+Right, so....
 
-“Hmm… maybe I could even try taking him down?”
+“Hmm... maybe I could even try taking him down?”
 
 It was just a single dodge, but that one success gave Abet Necrapeto tremendous confidence, along with a hint of greed.
 
-After all…
+After all...
 
 The Corpse Collector, Abet Necrapeto, defeating the giant Bjorn Jandel one-on-one. What an incredible story that would make—.
 
@@ -142,17 +142,17 @@ But, what was this now?
 
 The man did not understand what the barbarian meant and tilted his head. “What are you talking about?”
 
-“Wait, you don’t know? Wow. I mean, I don’t really want to be the one to tell you…”
+“Wait, you don’t know? Wow. I mean, I don’t really want to be the one to tell you...”
 
 It was as if the barbarian knew something about the gas.
 
 Feeling that something was wrong, the man asked again to confirm.
 
-“…Do you know where this place is?”
+“...Do you know where this place is?”
 
 “Why wouldn’t I? You summoned it with that staff. The Netherworld. If I get hit by that gas, I get cursed and if you do, you’re blessed.”
 
-“….”
+“....”
 
 At the barbarian’s concise explanation, Abet Necrapeto was left speechless.
 
@@ -162,7 +162,7 @@ It wasn’t that he didn’t know the fact himself. Rather, he was shocked that 
 
 His mind froze for a moment, but upon reflection, he realised there was no reason to panic.
 
-“…That, that can’t be. Anyone might know a little about the Netherworld. It’s quite famous, after all.”
+“...That, that can’t be. Anyone might know a little about the Netherworld. It’s quite famous, after all.”
 
 “Oh? Then shall we start again?”
 
@@ -182,7 +182,7 @@ When he first saw the barbarian, his first thought was to flee, but he planned t
 
 The barbarian immediately saw through Trait No. 3, which the man had created through countless remodels.
 
-And then….
+And then....
 
 “This guy’s weakness is here, so it’s easy.”
 
@@ -190,15 +190,15 @@ Crunch!
 
 Despite its damage immunity, No. 3 was struck at its sole weak point and collapsed helplessly.
 
-Of course, it would resurrect soon due to the field effect, but….
+Of course, it would resurrect soon due to the field effect, but....
 
-‘…H-how does he know?’
+‘...H-how does he know?’
 
 Abet Necrapeto’s surging confidence dipped slightly, replaced by a creeping anxiety.
 
 Still, he tried to cling to hope.
 
-“…The [Avenger] trait can just be tanked.”
+“...The [Avenger] trait can just be tanked.”
 
 Crunch!
 
@@ -214,7 +214,7 @@ The barbarian periodically slammed his hammer into the field monsters that ampli
 
 He even struck the ground when it suddenly bulged upward.
 
-“…Why is he hitting that?”
+“...Why is he hitting that?”
 
 “Ah, you don’t know? My resistance goes up if I hit this.”
 
@@ -222,7 +222,7 @@ A hidden piece that even he, who had visited the Netherworld countless times, di
 
 Boom!
 
-After trying it himself, it really did feel like his skin became slightly tougher…
+After trying it himself, it really did feel like his skin became slightly tougher...
 
 Badump!
 
@@ -232,11 +232,11 @@ The feeling that something was wrong continued to swell in his heart. Still, he 
 
 “Oh? Looks like it’s finally time for a big summon.”
 
-“…What?”
+“...What?”
 
 “What, weren’t you about to pull out the Underworld King?”
 
-“….”
+“....”
 
 That was right.
 
@@ -302,7 +302,7 @@ No matter what answer the living one gave, the Underworld King would rage and st
 
 Pshuuu—
 
-…Or so he thought.
+...Or so he thought.
 
 “What?”
 
@@ -318,11 +318,11 @@ The answer came quickly.
 
 With those words, the Underworld King vanished.
 
-“N-no! Lord Netherworld King! H-here! He’s right here! There is a living one here, so please come back! Come back…!”
+“N-no! Lord Netherworld King! H-here! He’s right here! There is a living one here, so please come back! Come back...!”
 
 Necrapeto shouted desperately at the sky, but the Netherworld King did not reappear.
 
-“……”
+“......”
 
 An empty silence followed.
 
@@ -342,7 +342,7 @@ The mere fact of knowing it was what made no sense.
 
 He had never seen anyone avoid the Netherworld King like that before, nor had he ever read an account by a known wielder of the Staff of the Netherworld that mentioned such a thing.
 
-“…H-how do you know everything?”
+“...H-how do you know everything?”
 
 Necrapeto asked in resignation, and the barbarian shrugged.
 
@@ -358,7 +358,7 @@ Thump!
 
 It wasn’t just a feeling that something was wrong.
 
-This….
+This....
 
 Thump!
 
@@ -390,7 +390,7 @@ On top of that, I had played a necromancer myself before, so my understanding of
 
 The problem was that once I countered even the Netherworld King, his fighting spirit shattered and he immediately turned to flee.
 
-I think… it’s time.
+I think... it’s time.
 
 Of course, I had no idea how many stacks I had accumulated. Just from charging through the army of corpses and letting them hit me, I had probably built up a decent number.
 
@@ -410,7 +410,7 @@ It was nowhere near the Netherworld King I had seen earlier, but it was still mo
 
 Right on cue, the guy glanced back and began to panic.
 
-“…W-what is that thing?!”
+“...W-what is that thing?!”
 
 Seriously, is he a kid or what?
 
@@ -430,7 +430,7 @@ A cloud of smoke erupted as the explosion rumbled outward.
 
 [Abet Necrapeto has cast [Momentary Immortality]]
 
-Alright, that should take care of his invincibility skill…
+Alright, that should take care of his invincibility skill...
 
 Grin.
 

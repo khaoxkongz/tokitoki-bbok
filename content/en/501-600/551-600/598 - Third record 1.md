@@ -8,11 +8,11 @@ The clear condition for this chapter is simple.
 
 Rescue me and Erwin, then survive in this city until nightfall. That’s it.
 
-By the way, I got this information from Gahyun Versilius hint ability…
+By the way, I got this information from Gahyun Versilius hint ability...
 
-“…So you just intuitively know? Can’t you explain it in more detail?”
+“...So you just intuitively know? Can’t you explain it in more detail?”
 
-“Haha, I wish I could…but I don’t have the words to express it any more deeply.”
+“Haha, I wish I could...but I don’t have the words to express it any more deeply.”
 
 “Then don’t describe—just answer my questions. Yes or no. You can do that much, right?”
 
@@ -24,7 +24,7 @@ By the way, I got this information from Gahyun Versilius hint ability…
 
 “Then is it something you have to see before it hits you?”
 
-“Not that either. It’s more like… every time I move to a new location, I immediately get a feeling of what I’m supposed to do. Ah, of course, sometimes clues or information trigger that feeling too.”
+“Not that either. It’s more like... every time I move to a new location, I immediately get a feeling of what I’m supposed to do. Ah, of course, sometimes clues or information trigger that feeling too.”
 
 “I see.”
 
@@ -38,7 +38,7 @@ Of course, I can’t deny that it’s a convenient ability.
 
 But relying on it too much could lead to disaster. That was my final assessment.
 
-“By the way… Baron Jandel, you have quite the inquisitive mind. I was quite surprised. Haha.”
+“By the way... Baron Jandel, you have quite the inquisitive mind. I was quite surprised. Haha.”
 
 Gahyun Versilius said this with a warm, grandfatherly laugh.
 
@@ -50,7 +50,7 @@ Seriously, what is it with nobles and their roundabout way of speaking?
 
 “One last question.”
 
-“…What is it?”
+“...What is it?”
 
 “Can you tell what happens if we don’t wait till night and instead leave the city?”
 
@@ -60,9 +60,9 @@ Seriously, what is it with nobles and their roundabout way of speaking?
 
 “The city is surrounded by a high-dimensional magical barrier, not just a regular protection spell. Others may pass through it normally, but we can’t.”
 
-“I see… That’s all the questions, then. Thanks. Get some rest.”
+“I see... That’s all the questions, then. Thanks. Get some rest.”
 
-“Hoho…”
+“Hoho...”
 
 He must have been waiting to hear that. Gahyun silently made his way to a corner and sat down.
 
@@ -84,31 +84,31 @@ And besides, I wasn’t lacking conversation partners at the moment.
 
 “High Priest Hestia.”
 
-“…Yes, Baron. What is it?”
+“...Yes, Baron. What is it?”
 
 When I squatted down to sit next to the high priest, he scooched over a bit, seeming a little uneasy.
 
-“I’ve nothing more to add about my abilities beyond what I said earlier…”
+“I’ve nothing more to add about my abilities beyond what I said earlier...”
 
 “That’s fine—I’m not here to ask about that.”
 
-“Then…?”
+“Then...?”
 
 He shot me with a questioning look.
 
-He probably thought I’d bother him the same way I did with Gahyun earlier…
+He probably thought I’d bother him the same way I did with Gahyun earlier...
 
 But that wasn’t my intention.
 
 “There’s one thing I’d like to know about the internal affairs of the Leatlas Church.”
 
-“Internal affairs… of the Church?”
+“Internal affairs... of the Church?”
 
 When I subtly brought it up, the high priest’s expression instantly hardened.
 
 Just a moment ago, he’d looked like a kind old neighbor. Now, he gave off the pressure of someone negotiating at a high-stakes table.
 
-“First… tell me what you mean.”
+“First... tell me what you mean.”
 
 A confusing answer. Neither a clear yes nor no.
 
@@ -116,7 +116,7 @@ So I decided to test the waters first.
 
 “I’m curious about Sven Parab’s standing within the Church.”
 
-“Parab’s standing…”
+“Parab’s standing...”
 
 The High Priest stared at me for a moment, his voice trailing off.
 
@@ -140,7 +140,7 @@ He seemed lost in thought for a moment before his eyes sharpened and focused bac
 
 “It must be a misunderstanding.”
 
-“A misunderstanding…?”
+“A misunderstanding...?”
 
 “Yes.”
 
@@ -148,17 +148,17 @@ He seemed lost in thought for a moment before his eyes sharpened and focused bac
 
 “Even if it appeared that way to you, it’s simply a misunderstanding. So I suggest you focus only on what you need to do, Baron.”
 
-“Uh…”
+“Uh...”
 
 “After all, it’s an internal Church matter. Isn’t that right?”
 
 Though his tone and expression irked me, I didn’t show it and took a step back.
 
-“…Fine.”
+“...Fine.”
 
 I hadn’t expected him to react so strongly, which was the first reason I took my steps back.
 
-And the second…
+And the second...
 
 ‘The fact that he reacted so defensively only makes it more suspicious.’
 
@@ -166,7 +166,7 @@ His reaction was enough of a gain for me.
 
 If they were just using him as a discardable pawn because he was an evil spirit, they wouldn’t have reacted so intensely.
 
-‘Then there must be another reason…’
+‘Then there must be another reason...’
 
 Hmm, what could it be?
 
@@ -178,33 +178,33 @@ He must’ve been curious about my conversation with the High Priest.
 
 When our eyes met, Gahyun looked away awkwardly and closed his eyes.
 
-‘…Might as well get some rest.’
+‘...Might as well get some rest.’
 
 I spent the rest of the time resting near Erwin.
 
-And before I knew it…
+And before I knew it...
 
 “Sir Versilius, it’s been well past nightfall. How much longer do we have to wait?”
 
 Even after midnight, nothing had happened. So we decided to leave the basement and go upstairs.
 
-Because, according to Gahyun’s intuition, it felt like we had to go up…
+Because, according to Gahyun’s intuition, it felt like we had to go up...
 
 “There you are! I’ve been searching for you all over!”
 
 A knight, walking alone in the empty house, saw us. Actually, he looked at Gahyun before approaching him with open arms.
 
-“Who… are you?”
+“Who... are you?”
 
 “Haha! You don’t recognize me? Come now! Even if it’s been a while, surely you recognize an old friend?”
 
 With that cheerful voice, the knight took off his helmet.
 
-“……”
+“......”
 
 Judging by his expression, Gahyun still didn’t recognize him.
 
-But…
+But...
 
 “Mister. I’ve met him before. That Imperial knight who helped us escape the village. It’s him.”
 
@@ -212,7 +212,7 @@ But…
 
 Erwin recognized him.
 
-And then…
+And then...
 
 “Jandel, seems like the same goes for you.”
 
@@ -236,13 +236,13 @@ The knight laughed cheerfully and gave us his name.
 
 As soon as he dropped the name that stunned all the residents of this world, a wave of shock responses erupted.
 
-“Ah…”
+“Ah...”
 
-“Oh…”
+“Oh...”
 
-“Mm…”
+“Mm...”
 
-…This guy is the Immortal King?
+...This guy is the Immortal King?
 
 ---
 
@@ -252,7 +252,7 @@ The man who saved Raphdonia, once nothing more than a mere territory, from destr
 
 The village chief had downplayed his achievements, saying it was all thanks to having “a good friend,” but that didn’t change the fact that he was a historical figure.
 
-But…
+But...
 
 “Just call me Ravigion. The enemy of my enemy is my friend. And a friend of my friend is also my friend, no?”
 
@@ -262,31 +262,31 @@ Because in my mind, the Immortal King was a monster exuding charisma and an oppr
 
 “Now then—”
 
-“Wait! Can we discuss this for a moment… or rather, may we?”
+“Wait! Can we discuss this for a moment... or rather, may we?”
 
 Gahyun, currently playing the role of the “friend,” couldn’t hide his confusion and cut him off.
 
-“Discuss…? Very well, I’ll give you some space.”
+“Discuss...? Very well, I’ll give you some space.”
 
-“No need… for that. We can just use magic.”
+“No need... for that. We can just use magic.”
 
 “Do as you please. But try to make it quick. We never know when the Imperial army might attack.”
 
-“Don’t… worry. It’ll be… quick.”
+“Don’t... worry. It’ll be... quick.”
 
 With the knight’s permission, Gahyun immediately used voice control magic and spoke.
 
-“That… that guy, is he for real?! What he just said…!”
+“That... that guy, is he for real?! What he just said...!”
 
 The first to respond was the High Priest.
 
 “Perhaps it’s just a coincidence. Ravigion III implies there was a II and a I before him, doesn’t it?”
 
-“Ah… right. Right…”
+“Ah... right. Right...”
 
 It seemed like the mage’s brain was finally starting to work again. Gahyun muttered to himself, trying to sort through his jumbled thoughts.
 
-“I’ve heard that the first and seventeenth lords of the fortress were named Ravigion. Their middle names are lost to history, as they were ancient bloodlines before the Last Fortress was built. But yes, maybe he’s one of those two…”
+“I’ve heard that the first and seventeenth lords of the fortress were named Ravigion. Their middle names are lost to history, as they were ancient bloodlines before the Last Fortress was built. But yes, maybe he’s one of those two...”
 
 Gahyun’s words sounded more like desperate attempts to rationalize the situation rather than genuine reasoning.
 
@@ -294,7 +294,7 @@ Of course, the village chief cut him off without mercy.
 
 “Sir Versilius, get a hold of yourself. Witches have already appeared in this age. There’s no way that man is Ravigion I or II.”
 
-“Ah… ah……”
+“Ah... ah......”
 
 “If you’re really curious, just ask him what his wife’s name is. Not that it would mean much if he’s impersonating the Immortal King.”
 
@@ -306,27 +306,27 @@ However, he was trembling so much he couldn’t even make eye contact, so I spok
 
 “Ravigion, what’s your wife’s name?”
 
-“Ah… So you suspect that I am an imposter?”
+“Ah... So you suspect that I am an imposter?”
 
 “Answer first.”
 
 “Karnon. That’s my wife’s name. She’s currently overseeing the territory in my absence. She’s also handling the tasks you requested.”
 
-“Tasks I requested…?”
+“Tasks I requested...?”
 
 Gahyun tilted his head in confusion. He clearly had no idea what the Knight was talking about. This prompted the chief to clear his throat and signal for Gahyun to continue.
 
-‘Ah, now that I think about it, he mentioned that in earlier chapters, acting out of character led to complications…’
+‘Ah, now that I think about it, he mentioned that in earlier chapters, acting out of character led to complications...’
 
 There was no need to unnecessarily raise suspicion with the Immortal King, who was probably an ally NPC.
 
 “Anyway, take this first.”the immortal king said, placing something in Gahyun’s hand.
 
-“What is this…?”
+“What is this...?”
 
-“Hm… You’re acting quite odd today. Isn’t this the item you asked for? You went so far as to call me all the way out here.”
+“Hm... You’re acting quite odd today. Isn’t this the item you asked for? You went so far as to call me all the way out here.”
 
-“Ah…! R-Right, right?”
+“Ah...! R-Right, right?”
 
 Gahyun accepted the black gem with an awkward expression.
 
@@ -342,11 +342,11 @@ Instinctively, I tried to step back, but my body wouldn’t move.
 
 The possibility flashed through my mind, but thankfully, the Immortal King’s expression showed genuine concern.
 
-“Honsetly… I still don’t quite understand.”
+“Honsetly... I still don’t quite understand.”
 
-“…?”
+“...?”
 
-“Even if that object works properly, reaches the Demon Abyss, and you come face-to-face with the Evil God…”
+“Even if that object works properly, reaches the Demon Abyss, and you come face-to-face with the Evil God...”
 
 The sudden monologue.
 

@@ -2,7 +2,7 @@
 
 Platinum white hair styled into a pompadour and a flawless skin that heightened the chill of his cold eyes.
 
-Just looking at that, he gives the impression of a handsome nobleman, but…
+Just looking at that, he gives the impression of a handsome nobleman, but...
 
 “Whoa!”
 
@@ -28,7 +28,7 @@ After confirming the coachman was still focused on the road, I replied in my usu
 
 “Well, who wouldn’t be surprised? You just came popping in through the window like that.”
 
-“Hmm, but that didn’t seem to be the only reason…”
+“Hmm, but that didn’t seem to be the only reason...”
 
 “Of course not. But seriously, how thin are you? Eat properly and train more. What kind of man squeezes through such a narrow window?”
 
@@ -38,10 +38,10 @@ After confirming the coachman was still focused on the road, I replied in my usu
 
 Instead of asking him directly, I led the conversation as if I were scolding him, which made him look embarrassed.
 
-And…
+And...
 
-“……”
-“……”
+“......”
+“......”
 
 A heavy silence settled in.
 
@@ -49,7 +49,7 @@ Honestly, we weren’t supposed to be sitting here talking at all.
 
 Not after how things ended last time.
 
-[ …So you were going to use the Resurrection Stone on me? ]
+[ ...So you were going to use the Resurrection Stone on me? ]
 
 [ Yes. Because you couldn’t cut ties yourself. I thought I’d help. They’re useless connections anyway once we go home, right?]
 
@@ -59,11 +59,11 @@ If I ever saw this bastard again, I’d make sure to grant his wish.
 
 “So, did you come find me because you want to leave? To escape this shitty world you hate so much?”
 
-“Come on, hyung… Are you still sulking about that?”
+“Come on, hyung... Are you still sulking about that?”
 
 That’s the biggest reason I don’t want to get involved with him.
 Like some sociopath, he can treat all of that as if it’s nothing. I just can’t understand it.
-But…
+But...
 
 ‘Not yet.’
 
@@ -85,7 +85,7 @@ At his brazen words, I smirked.
 
 “It’s not me. It’s you.”
 
-“…?”
+“...?”
 
 “You’re the one always doing shady things behind people’s backs.”
 
@@ -93,7 +93,7 @@ The carriage felt far too small for us to be sitting face-to-face. I let a trace
 
 Maybe he found it amusing?
 
-“…Interesting.”
+“...Interesting.”
 
 With that short remark, Baek-ho closed his mouth and fixed his eyes on me.
 
@@ -111,7 +111,7 @@ However, he couldn’t possibly use magic, so the “Ruin Scholar” must have c
 
 The two had been together like partners for some time now.
 
-‘No wonder I felt like I was going to die from the pain…’
+‘No wonder I felt like I was going to die from the pain...’
 
 Still, one thing was reassuring. There’s no way mages like that are common.
 
@@ -119,7 +119,7 @@ Still, one thing was reassuring. There’s no way mages like that are common.
 
 “Tch, do I have to answer just because you asked?”
 
-“Well, no… but I am curious. Once you asked me to kill the Marquis, and now you throw yourself in harm’s way to protect him?”
+“Well, no... but I am curious. Once you asked me to kill the Marquis, and now you throw yourself in harm’s way to protect him?”
 
 “That’s what I want to say. When I asked to kill him, you said you couldn’t, so why are you doing this now? It’s not like he’ll stay dead anyway, since he just revives in the palace?”
 
@@ -127,7 +127,7 @@ At my counter, Baek-ho fell silent.
 
 Selfish bastard.
 
-“…Let’s just say I had my reasons.”
+“...Let’s just say I had my reasons.”
 
 “Then let’s just say I had mine too.”
 
@@ -141,7 +141,7 @@ Baek-ho stared at me for a moment, then let out a sigh.
 
 “True. But it looks like resurrection takes time. I thought I could use that gap. With the proxy gone, there’s a chance the New World King might be forced to move.”
 
-“The New World King…?”
+“The New World King...?”
 
 “Yeah. The guy who’s always sick, who never shows up at public events.”
 
@@ -161,7 +161,7 @@ Better not to strain things between us. For now, the smart move is to use him wh
 
 After making my decision, I gave him the full explanation. Surprisingly, it only took one line:
 
-“…A mistake?”
+“...A mistake?”
 
 Yes. That day, saving the Marquis had been a mistake.
 
@@ -177,7 +177,7 @@ In the end, he seemed convinced by my honest explanation—or perhaps because my
 
 Either way, he frowned but nodded reluctantly.
 
-“…Sure, I guess that makes sense.”
+“...Sure, I guess that makes sense.”
 
 “It’s not that it makes sense—it’s the truth. I regretted it as soon as I did it.”
 
@@ -191,7 +191,7 @@ Of course, the Marquis’s real reason was to make peace with me on the conditio
 
 But it’s not like Baek-ho was being completely honest with me either.
 
-“……Is that really all?”
+“......Is that really all?”
 
 “You do realize that’s about the most useless question in the world, right?”
 
@@ -205,7 +205,7 @@ Honestly, I felt the same for him.
 
 Even hearing it straight from his mouth, I couldn’t tell. Did he truly not know what I was thinking, or was it all an act?
 
-“…Well, since we’re talking, what are you even up to these days?”
+“...Well, since we’re talking, what are you even up to these days?”
 
 “Your tone suddenly got friendly? Earlier you looked like you were about to beat me to death.”
 
@@ -217,7 +217,7 @@ Even hearing it straight from his mouth, I couldn’t tell. Did he truly not kno
 
 “Isn’t it true? Emotions are fleeting. In the end, we both act rationally for our own benefit.”
 
-“……”
+“......”
 
 “Though I guess you sometimes let emotions rule you.”
 
@@ -229,7 +229,7 @@ At least his willingness to answer made things easier.
 
 But now came the hard part
 
-Questions, questions…
+Questions, questions...
 
 He said “a few,” so I have to choose carefully.
 
@@ -241,7 +241,7 @@ The last update I knew about him was that he went outside the walls to meet ‘A
 
 So, did he achieve that goal?
 
-“Haha, that old man… How should I put it—”
+“Haha, that old man... How should I put it—”
 
 “Answer only with yes or no.”
 
@@ -261,7 +261,7 @@ Despite my unease, I pressed on with another question.
 
 The way he’s speaking, it seems like he didn’t hear it directly.
 
-So…
+So...
 
 ‘If Black Mask was Hyeon-bol and Wolf was sent by Auril Gavis..’
 
@@ -275,7 +275,7 @@ This time, I asked for a full answer rather than just a yes or no.
 
 He said I wasn’t curious, but I was. I was really curious about his recent life.
 
-“I just kept myself busy, doing this and that. I traveled the outside world, stayed for a while at the camp where the Noarkans live. I even went into the labyrinth through the portal that leads to the seventh floor…… Oh, and somehow, I ended up with a new ally too.”
+“I just kept myself busy, doing this and that. I traveled the outside world, stayed for a while at the camp where the Noarkans live. I even went into the labyrinth through the portal that leads to the seventh floor...... Oh, and somehow, I ended up with a new ally too.”
 
 Even though he answered vaguely, I could feel it.
 
@@ -283,7 +283,7 @@ Each line carried a weight of untold stories.
 
 While I was exploring the underground first floor, he’d been on his own journey, living his own battles.
 
-“…A new ally?”
+“...A new ally?”
 
 “I can’t tell you about this one yet; it’s a secret. But if I leave it at that, I’ll seem like such a jerk. I’ll subtract this question from the count. Okay, since it’s the last question, make it a good one.”
 
@@ -293,7 +293,7 @@ While I was exploring the underground first floor, he’d been on his own journe
 
 “Isn’t this a few?”
 
-…Well. He wasn’t wrong.
+...Well. He wasn’t wrong.
 
 Since it felt like a bonus question anyway, I let go of my hesitation and asked my final question.
 
@@ -307,7 +307,7 @@ Soon enough, I had my answer.
 
 “To survive.”
 
-“…What?”
+“...What?”
 
 “Isn’t that the purpose of life for everyone? People work hard just to live well, and live long.”
 
@@ -319,9 +319,9 @@ He said it jokingly, but I could sense the truth behind his words.
 
 What kind of place is it outside the walls? I wanted to ask, but unfortunately, I had no more questions.
 
-“Mmm… feels like my answer to your last one was too short. So, here’s a little bonus.”
+“Mmm... feels like my answer to your last one was too short. So, here’s a little bonus.”
 
-…Bonus?
+...Bonus?
 
 I tilted my head, and Baek-ho grinned.
 
@@ -331,6 +331,6 @@ It was ironic:the moment I was told to rest easy, I became intensely uneasy.
 
 That’s because people like us always look for the meaning behind the words.
 
-‘For the next year…’
+‘For the next year...’
 
 It means that after that period, something big is coming.

@@ -22,7 +22,7 @@ No matter how many times the Lord of Noark heard it, it simply made no sense. Ev
 
 What on earth was the Marquis thinking? To bring someone in without even placing an essence sealer, right under his very nose!
 
-“I suspect… they were perhaps overconfident in their own information, but…”
+“I suspect... they were perhaps overconfident in their own information, but...”
 
 “For the sake of argument, let’s say the Marquis might act that way. But among all those guards, not a single one questioned it?”
 
@@ -46,7 +46,7 @@ Normally, that would have been his impression. Instead, his thoughts were cut sh
 
 The Noark lord might have sympathized with their feelings if events had unfolded differently, but there was no room for that now. What should have remained an attempt had succeeded, and the marquess might well have been assassinated.
 
-‘…Those useless idiots.’
+‘...Those useless idiots.’
 
 Now the marquis’s attendants were nothing but complete failures. Still, since he wasn’t one of those failures, he didn’t voice the thought aloud. Why would he? The Noark lord was not upset with him, and nothing positive would result from a superior being privy to a subordinate’s thoughts.
 
@@ -74,7 +74,7 @@ He had noticed the misunderstanding early on, but the atmosphere hadn’t allowe
 
 He skipped the details about the artifact’s number and name. In this situation, that wasn’t important.
 
-“I don’t know whether I should feel relieved…” His relatively sharp superior finally grasped the full scope of the situation and asked, “Does the authority to wield the magic weapon still rest solely with the marquiss?”
+“I don’t know whether I should feel relieved...” His relatively sharp superior finally grasped the full scope of the situation and asked, “Does the authority to wield the magic weapon still rest solely with the marquiss?”
 
 The ancient weapon, considered more strategically valuable than even the captain of Orcules, was reduced to nothing but scrap, all because of a mere rank seven navigator.
 
@@ -86,7 +86,7 @@ The question lacked a subject, but the man, who had served the same lord for ove
 
 “The authority to proceed with the plan to capture Bjorn Jandel using the Divine Spear Aynar has temporarily been transferred to the eldest son, Eltora Tercerion.”
 
-“…And if something happens to him during that time?”
+“...And if something happens to him during that time?”
 
 Then things would get complicated.
 
@@ -102,13 +102,13 @@ This was an issue caused by external factors rather than an internal one, which 
 
 “You, My Lord, may temporarily take over the command.”
 
-“…I see.”
+“...I see.”
 
 Having heard the desired answer, the Lord seemed in a much better mood than before. Only then did he voice a personal question born of curiosity.
 
 “By the way, what happened to that Navigator?”
 
-“Well, about that…”
+“Well, about that...”
 
 Realizing that his boss’s mood had lightened, the subordinate began to talk with a more relaxed heart.
 
@@ -122,7 +122,7 @@ The first thought that came to him when he opened his eyes in the dark, undergro
 
 This was a world where you’d be sent to the gallows if you couldn’t pay your taxes. Consequently, common sense meant struggling desperately to survive every single moment. As a resident of such a world, Auyen Rocklov knew the value of life—or more accurately, the value of his life—better than anyone.
 
-However…
+However...
 
 ‘Seriously, why am I alive?’
 
@@ -130,17 +130,17 @@ Rather than relief, what he felt was confusion. He was relieved, to be sure, but
 
 So, he reconstructed the events before he lost consciousness.
 
-[Cough…!]
+[Cough...!]
 
 Immediately after the Marquis collapsed, vomiting blood.
 
-[Y-Your Excellency…!!]
+[Y-Your Excellency...!!]
 
 A number of high-ranking servants, seemingly mages or priests, rushed to the marquess with worried expressions.
 
-Then…
+Then...
 
-It’s an assassination…
+It’s an assassination...
 
 The knights, whose only role was to rely on brute strength, rushed him and overpowered him. He was forced to the ground as his entire body was restrained.
 
@@ -148,11 +148,11 @@ And “entire body” was no exaggeration. His arms, legs, neck, ankles, left th
 
 Thinking back, it wasn’t hard to understand. How could they stay still when the Marquis had collapsed? There was no room for thoughts like, ‘Other knights have him restrained, I’ll just watch.’
 
-[……]
+[......]
 
 Crushed under dozens of knights, he couldn’t breathe, and his consciousness gradually faded. And when he opened his eyes, he was here.
 
-Seriously… why am I alive?
+Seriously... why am I alive?
 
 One strange aspect of consciousness was that even while suffocating, the mind could still take in information clearly.
 
@@ -184,7 +184,7 @@ But—
 
 After hearing the request, it took a long time before Auyen could respond with a dazed voice.
 
-“…huh?”
+“...huh?”
 
 He couldn’t understand it at all.
 
@@ -227,7 +227,7 @@ Like this one.
 
 “She’s bait. To hook a much bigger fish.”
 
-“A bigger fish… Ah! Are they trying to catch the Giant?”
+“A bigger fish... Ah! Are they trying to catch the Giant?”
 
 “Exactly. Otherwise, there’d be no reason to devote this much manpower to guarding a single subdued barbarian.”
 
@@ -235,15 +235,15 @@ After hearing the theory, the man said nothing. He simply studied the person who
 
 “Haha, of course not! I only heard it from someone assigned to this mission. They had apparently been at headquarters before that.”
 
-“…And that ‘short-sighted’ nonsense was his too, right?”
+“...And that ‘short-sighted’ nonsense was his too, right?”
 
-“Obviously! Educated types always insist on using fancy words…”
+“Obviously! Educated types always insist on using fancy words...”
 
 Judging by how the conversation unfolded, this was not merely a theory the two of them had devised, but the official plan.
 
 Hidden in the ceiling, Amelia couldn’t afford to ignore what she had just heard.
 
-‘………………So it was bait to lure out Jandel.’
+‘..................So it was bait to lure out Jandel.’
 
 She was glad she had come to save Aynar despite Auyen’s advice, but time was running out. The situation had become a race against the clock. She needed to act before Jandel walked into the trap, because it was obvious that the barbarian would rush in to save his ally the moment he heard, even knowing it was a trap.
 
@@ -261,15 +261,15 @@ The answer came from an unexpected place.
 
 Soon, a man dismissed the troops guarding the area and approached the cell where Aynar was imprisoned.
 
-Eltora Tercerion…
+Eltora Tercerion...
 
 Amelia’s eyes glistened as she crouched in the darkness. She did not know what business that man had with Aynar, but it was clearly nothing good. He was the marquiss’s son, perhaps the greatest evil of the era. It was obvious he was plotting something.
 
-Auyen…?
+Auyen...?
 
 ‘Dammit, he was captured?’ After identifying the face of the man following the Marquis’s son, Amelia bit her lip and swiftly ran simulations in her head.
 
-‘If he doesn’t even know I’m up here…’
+‘If he doesn’t even know I’m up here...’
 
 Not only could she take his head, she could also subdue him.
 
@@ -295,22 +295,22 @@ The dagger stopped just short of Eltora’s widened pupils.
 
 “He’s on your side! That man—”
 
-…Huh? On our side?
+...Huh? On our side?
 
-What was he talking about? Ah, perhaps…
+What was he talking about? Ah, perhaps...
 
-“…You’ve been brainwashed already?”
+“...You’ve been brainwashed already?”
 
-“Wh-What? Brainwashed? N-No, that’s not it…….”
+“Wh-What? Brainwashed? N-No, that’s not it.......”
 
-“Those bastards…….”
+“Those bastards.......”
 
 “No, I’m really fine, I swear!”
 
 In the end, he explained the entire situation to Amelia, and it took her a long time to come to terms with it.
 
-“…So, you’re saying this guy is planning to betray his own father and join us?”
+“...So, you’re saying this guy is planning to betray his own father and join us?”
 
-“Yes………………! That’s right!”
+“Yes..................! That’s right!”
 
 Auyen nodded his head vigorously.

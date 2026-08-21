@@ -14,7 +14,7 @@ Of course, Hyun-byeol and my mother were both visibly flustered by the sudden ch
 
 “That’s great, oppa. Really, I’m so glad.”
 
-“Let’s go home… home, Han-soo…”
+“Let’s go home... home, Han-soo...”
 
 In the end, both were just happy that things turned out well.
 
@@ -22,13 +22,13 @@ And just like that, the discharge procedures were completed in a day.
 
 After finally leaving the hospital, where I’d felt trapped for what seemed like forever, I simply followed my mother home.
 
-“I came by earlier to clean up a little, but it’s still kind of a mess…If I’d known you’d be discharged this soon, I’d have done more in advance…”
+“I came by earlier to clean up a little, but it’s still kind of a mess...If I’d known you’d be discharged this soon, I’d have done more in advance...”
 
-“…You’re not leaving?”
+“...You’re not leaving?”
 
-“I’ll stay for a while to help you out… U-Unless you’re uncomfortable, of course! I can just come and go, I won’t sleep over—”
+“I’ll stay for a while to help you out... U-Unless you’re uncomfortable, of course! I can just come and go, I won’t sleep over—”
 
-“Haa… It’s fine. It’s over two hours away; no point going back and forth. Just stay here.”
+“Haa... It’s fine. It’s over two hours away; no point going back and forth. Just stay here.”
 
 Since I’d be leaving this world soon anyway, I thought it would be too much trouble to ask her to leave. So, I started living with my mother again. Having her around was surprisingly convenient.
 
@@ -36,7 +36,7 @@ Since I’d be leaving this world soon anyway, I thought it would be too much tr
 
 Meals came right on time.
 
-…How long has it been since I last had food like this?
+...How long has it been since I last had food like this?
 
 And that food—God, it tasted good.
 
@@ -58,7 +58,7 @@ After finishing the house cleaning, I went straight to an electronics store and 
 
 “There’s a game that needs at least five to run properly.”
 
-“…R-Really?”
+“...R-Really?”
 
 She seemed puzzled, but that was only because she hadn’t played Dungeon & Stone.
 
@@ -66,7 +66,7 @@ The core of [Dungeon and Stone] is luck and grinding.
 
 You have to keep retrying, and one computer just wasn’t enough.
 
-If I run four instances per laptop… I can raise twenty characters simultaneously.
+If I run four instances per laptop... I can raise twenty characters simultaneously.
 
 That’s how I’d played for nine years before, anyway.
 
@@ -89,7 +89,7 @@ Because the first floor couldn’t be easily automated, I had to stay hands-on, 
 「Your character has recruited a warrior as a companion.」
 「Your character has recruited an archer as a companion.」
 「Your character has recruited an archer as a companion.」
-「Your character has recruited a warrior as a companion….」
+「Your character has recruited a warrior as a companion....」
 
 Once I returned from the labyrinth, I recruited companions from the Explorer’s Guild and things finally eased up.
 
@@ -185,7 +185,7 @@ That old man’s voice kept echoing in my head.
 
 The things I told myself not to get confused about kept resurfacing.
 
-Is this really… just a dream?
+Is this really... just a dream?
 
 Was the witch who told me not to come back just a figment of my imagination?
 
@@ -216,13 +216,13 @@ That’s why I locked myself away, grinding Dungeon & Stone day after day.
 
 If I can press the ‘Yes’ button again upon seeing that message, it will prove my desire and will.
 
-Maybe… this was just another reality.
+Maybe... this was just another reality.
 
 I’d stopped taking the drugs that dulled my mind, and because of that, I’ve become even more confused.
 
 Evidence was piling up before my eyes.
 
-If this wasn’t a dream…
+If this wasn’t a dream...
 
 Munch, munch.
 
@@ -270,7 +270,7 @@ I will live there.
 
 Perhaps one day I will even start a family there.
 
-Yeah, so that’s why…
+Yeah, so that’s why...
 
 Tap-tap-tap-tap-tap.
 
@@ -302,23 +302,23 @@ Of course, the process wasn’t without stress.
 
 Whenever the party I’d trained got wiped out Randomly, I’d just scream into the empty room.
 
-“Phew…”
+“Phew...”
 
 As I devoted all my time except for sleep to the game, it became hard to stay sane, so I started chugging beers one after another.
 
-“Han-soo, I think you should stop playing that game now…”
+“Han-soo, I think you should stop playing that game now...”
 
 “There are people inside the game!”
 
 Seeing this, both Mom and Hyun-byeol grew visibly exhausted.
 
-“Ma’m… this can’t go on.”
+“Ma’m... this can’t go on.”
 
 “But you said if he clears it and nothing happens, that would help him face reality.”
 
-“I did… but he’s only getting worse. Maybe we should get him back on his medication…”
+“I did... but he’s only getting worse. Maybe we should get him back on his medication...”
 
-“I’m sorry, Hyun-byeol… this is all my fault…”
+“I’m sorry, Hyun-byeol... this is all my fault...”
 
 “No, ma’am. I’ll keep helping however I can.”
 
@@ -352,7 +352,7 @@ Like a Barbarian.
 
 [Game Over.]
 
-[Character has reached the 10th Floor…]
+[Character has reached the 10th Floor...]
 
 .
 .
@@ -367,11 +367,11 @@ Like a Barbarian.
 
 I screamed in front of the monitor. Hyun-Byeol, who had been lying in bed reading a book, frowned and came over when she heard me.
 
-“…What is it? Why are you suddenly shouting?”
+“...What is it? Why are you suddenly shouting?”
 
 “I’m here! I made it, I tell youuuuu!!”
 
-“……..you beat the game?”
+“........you beat the game?”
 
 When I nodded slightly in response, Hyun-Byeol’s expression changed.
 
@@ -383,7 +383,7 @@ She didn’t respond.
 
 “That’s cruel of you, Oppa, calling it a waste.”
 
-“…Huh?”
+“...Huh?”
 
 “Most people would think I was the one who wasted my time,” Hyeon-Byeol said. “But I never, not even once, thought it was a waste.”
 
@@ -394,17 +394,17 @@ Seeing Hyeon-Byeol, usually so strong, show vulnerability left me at a loss for 
 After all, she had been there for me this whole time.
 I’d be lying if I said I hadn’t grown attached.
 
-“Do you… really have to press it?”
+“Do you... really have to press it?”
 
-“…What?”
+“...What?”
 
-“That ‘YES’ button. Can’t you… just not press it?”
+“That ‘YES’ button. Can’t you... just not press it?”
 
-“Hyun-byeol…? What are you saying? Why wouldn’t I press it?”
+“Hyun-byeol...? What are you saying? Why wouldn’t I press it?”
 
 I asked as calmly as possible, but her voice trembled.
 
-“Because… once you do, you think you’ll go back to your original world, right?”
+“Because... once you do, you think you’ll go back to your original world, right?”
 
 She’d never believed my story about entering the game. But now that the moment had come, was she starting to have doubts?
 
@@ -430,23 +430,23 @@ My dream had changed.
 
 I had found something greater—something I truly desired.
 
-So…
+So...
 
-“You could just… start over here, you know—”
+“You could just... start over here, you know—”
 
 “I have to go back.”
 
 I made my resolve clear.
 
-“…”
+“...”
 
 A heavy silence filled the room.
 
-“Hyun-byeol, I’m sorry. Once I’m back, I’ll really help you, I promise… okay? I have to go, or I can’t send the other you back.”
+“Hyun-byeol, I’m sorry. Once I’m back, I’ll really help you, I promise... okay? I have to go, or I can’t send the other you back.”
 
 I tried to laugh it off like a joke, but she just sighed.
 
-“…God, you sound so stupid. Fine. Do whatever you want. I only said not to press it because… I was mad, that’s all.”
+“...God, you sound so stupid. Fine. Do whatever you want. I only said not to press it because... I was mad, that’s all.”
 
 After that, Hyun-Byeol sulkily lay down on the bed and opened her book. I sat back down in the chair and looked at the monitor.
 
@@ -463,7 +463,7 @@ It seemed like an unnecessary effect from a player’s perspective.
 
 But something felt strange.
 
-“……”
+“......”
 
 Unlike last time, when I clicked without hesitation, my hand won’t move.
 

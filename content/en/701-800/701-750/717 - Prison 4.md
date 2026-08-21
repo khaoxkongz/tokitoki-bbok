@@ -28,7 +28,7 @@ The gear. The status. The money.
 
 No matter how much he talked about these things, in the end, it was all just a prisoner bragging about his shackles.
 
-“Ha… I want a Big Mac.”
+“Ha... I want a Big Mac.”
 
 Because this world was a prison.
 
@@ -61,7 +61,7 @@ As proof, he had also returned the crest that had been attached to his armor.
 
 He no longer had to attend morning prayers, pre-meal prayers or the late-night prayers that everyone gathered for before going to sleep.
 
-But…
+But...
 
 Badump-
 
@@ -69,7 +69,7 @@ Despite this, the man in the mirror knelt on the carpeted floor, closed his eyes
 
 It was something he had continued every morning, even after leaving the Order.
 
-“The star that rises at twilight shall guide us…”
+“The star that rises at twilight shall guide us...”
 
 Actually, the man hated praying.
 
@@ -123,9 +123,9 @@ She gave off an overall gentle impression, but she was also a stubborn and just 
 
 “Miss Marone? What is the matter? There should still be time before the gathering.”
 
-“I heard it’s difficult to put on large armor by yourself… I came to see if I could help. Well, it looks like you’ve already finished on your own!”
+“I heard it’s difficult to put on large armor by yourself... I came to see if I could help. Well, it looks like you’ve already finished on your own!”
 
-“Ahaha… It was difficult for me at first too, but eventually, I got the hang of it. Thank you for your concern.”
+“Ahaha... It was difficult for me at first too, but eventually, I got the hang of it. Thank you for your concern.”
 
 “If you’re finished, shall we go together? It’s almost time for the gathering anyway.”
 
@@ -139,7 +139,7 @@ Versyl Gowland.
 
 Another prisoner in this vast prison, with shackles comparable to his own. And someone who had recently acquired a new shackle.
 
-“I didn’t notice it at first, but lately I’ve been feeling the weight of Mr. Jandel’s absence. Ms. Gowland must be having a difficult time…”
+“I didn’t notice it at first, but lately I’ve been feeling the weight of Mr. Jandel’s absence. Ms. Gowland must be having a difficult time...”
 
 Parav forced an awkward smile and steadied his breathing.
 
@@ -187,19 +187,19 @@ The tremors could be faintly felt even on the sixth underground floor.
 
 I quietly organized my thoughts while looking at Raven.
 
-“So, there’s a portal…”
+“So, there’s a portal...”
 
 When a barbarian heard something nonsensical, they never called it impossible or let it limit their imagination. The mage who had voiced the ridiculous idea, however, seemed to doubt her own senses.
 
-“It’s just that I can faintly sense the unique mana wave of a portal over there…”
+“It’s just that I can faintly sense the unique mana wave of a portal over there...”
 
 Although she wasn’t a ‘Guide’ who could instinctively sense portals from afar, she was a mage who was more sensitive to mana than anyone else.
 
 So there must really be a portal over there.
 
-Besides… I’ve heard about this place before.
+Besides... I’ve heard about this place before.
 
-Tap, tap…
+Tap, tap...
 
 The Round Table twenty years ago.
 
@@ -213,7 +213,7 @@ Besides the Dimensional Plaza, there is another portal somewhere in the palace b
 
 Perhaps this is it.
 
-“It’s unlikely to be a portal connected to the labyrinth, right…?”
+“It’s unlikely to be a portal connected to the labyrinth, right...?”
 
 Well, I’d have to check to be sure, but it’s highly likely it’s not connected to the Labyrinth.
 
@@ -255,19 +255,19 @@ It felt as if we had entered a space completely cut off from the outside world, 
 
 “What about teleportation? We can still use teleportation, right?”
 
-“Pardon?’ Then realization set in, and fear crossed her face at the thought that she might be trapped here forever. ‘Ahh… j-just give me a moment!’”
+“Pardon?’ Then realization set in, and fear crossed her face at the thought that she might be trapped here forever. ‘Ahh... j-just give me a moment!’”
 
-And then…
+And then...
 
-“Um, Mr. Jandel…?”
+“Um, Mr. Jandel...?”
 
 “Say it.”
 
-“Well… There’s good news and bad news—”
+“Well... There’s good news and bad news—”
 
 “Bad news first.”
 
-“It seems I can’t use multiple teleportation magic here. The magic keeps scattering….”
+“It seems I can’t use multiple teleportation magic here. The magic keeps scattering....”
 
 ‘So are we really trapped here?’
 
@@ -281,11 +281,11 @@ It was hard to believe, but I tried to continue as calmly as possible.
 
 “We can escape, but we won’t know where we’ll end up.”
 
-…So at least we don’t have to worry about being trapped forever.
+...So at least we don’t have to worry about being trapped forever.
 
 That alone was a relief.
 
-“Since you’ve used military magic circles before, you might know this. It works almost the same way. You set up a designated coordinate, and then you can move back and forth by just consuming mana…”
+“Since you’ve used military magic circles before, you might know this. It works almost the same way. You set up a designated coordinate, and then you can move back and forth by just consuming mana...”
 
 “The point.”
 
@@ -307,7 +307,7 @@ As if she already knew what I would choose, Raven didn’t say another word and 
 
 Since she said it would take a while, I approached the cube-shaped structure in the centre. It wasn’t black, but it wasn’t white either. It was a gray cube. When I touched the outside, the surface was soft enough to leave an indent, yet durable enough that even repeated blows from my iron mace failed to produce a single crack.
 
-‘If there’s really a portal inside, there must be a way to enter…’
+‘If there’s really a portal inside, there must be a way to enter...’
 
 Hmm, was it the kind of thing that needed magic or a card key to open an entrance? But if magic worked, Raven should have been able to do something.
 
@@ -317,13 +317,13 @@ Noark. Who are they working with, and what are they aiming to achieve?
 
 hat was probably a more important question than figuring out what this mysterious box was. There were several suspicious points I couldn’t ignore if their only goal was to destroy the royal palace.
 
-‘…District 7.’
+‘...District 7.’
 
 And is District 7 okay?
 
 From what I could tell, Thunder seemed to explode once more before everything completely collapsed. I sincerely hoped they were safe.
 
-“…Huh?”
+“...Huh?”
 
 All of a sudden, I flinched and instinctively stepped back from the box.”
 

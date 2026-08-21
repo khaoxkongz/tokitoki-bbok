@@ -30,7 +30,7 @@ From ‘someone’ who was dragged into this world while playing the game.
 
 As the theory took shape in my mind, it also answered my question about the elevator.
 
-No, more precisely……
+No, more precisely......
 
 “‘Hmm, I assumed you would have expected this much upon entering,’ the king mused.”
 
@@ -44,7 +44,7 @@ Perhaps I really was as naive as he suggested.
 
 Just because this was a savage world did not mean its people were unintelligent. And just because we were evil spirits from a distant world did not mean they would rush to burn us like witches without first trying to assess us. That would be foolish.
 
-‘There was far more than met the eye…’
+‘There was far more than met the eye...’
 
 The evil spirits who interacted with the Ghost Busters community weren’t the only ones that existed here. I had known that ever since the first sentence of the letter I received back then.
 
@@ -58,7 +58,7 @@ There must have been far more modern humans brought into this world than I had r
 
 Among them would have been people capable of building machines powered by electricity or steam.
 
-Of course, from their perspective, they couldn’t simply release such creations into the world without risking exposure of their identities, but…
+Of course, from their perspective, they couldn’t simply release such creations into the world without risking exposure of their identities, but...
 
 ‘This is different.’
 
@@ -74,7 +74,7 @@ The King of the New World pressed a button in his hand, and a familiar melody be
 
 It was a song by a well-known British band, about wishing for everything to turn out well.
 
-And seeing me like that…
+And seeing me like that...
 
 “Why are you making that face?”
 
@@ -90,19 +90,19 @@ My head throbbed.
 
 I couldn’t even begin to describe what I felt in that moment. It felt like watching video evidence of a loved one cheating. My absolute certainty that something like this could never happen had been shattered.
 
-‘…No, since when does science appear in fantasy?’
+‘...No, since when does science appear in fantasy?’
 
 To think that such betrayal would come from Dungeon and Stone, the game I had enjoyed for over a decade.
 
 “Judging by your expression, you seem to know this music?”
 
-“……”
+“......”
 
-“The one who sang and recorded this song was an American. So it feels a little different from the original…… but what can you do? The listeners say it captured the spirit of the original well enough, so I suppose that is fine.”
+“The one who sang and recorded this song was an American. So it feels a little different from the original...... but what can you do? The listeners say it captured the spirit of the original well enough, so I suppose that is fine.”
 
 After thinking about it for a moment, I decided to take the King’s advice and speak plainly.
 
-“…What happened to that American?”
+“...What happened to that American?”
 
 There was no point pretending to be a barbarian in front of this guy anyway. He had already gone beyond identifying me as an evil spirit and had figured out that I was Korean.
 
@@ -112,9 +112,9 @@ There was no point pretending to be a barbarian in front of this guy anyway. He 
 
 “Hahaha! Did your brain turn barbarian as well?”
 
-“Answer me……”
+“Answer me......”
 
-“Hm… let me see. What did happen to him……”
+“Hm... let me see. What did happen to him......”
 
 As he trailed off deliberately, the knight standing in front of him answered in his stead.
 
@@ -134,21 +134,21 @@ Compared to them, we were just a tiny part of the world, nothing more than a sin
 
 I was learning that lesson painfully today.
 
-“…Was that why you’ve been hunting evil spirits? To capture them and strip them of their knowledge?”
+“...Was that why you’ve been hunting evil spirits? To capture them and strip them of their knowledge?”
 
 The reply came with a small, mocking chuckle from behind the silk veil. “Not at all. It is an undeniable truth that evil spirits must be eradicated from this world. We merely took some incidental benefits along the way.”
 
-“……”
+“......”
 
 “Ah, of course. The rage of the fox riding the tiger was also one of the reasons. A rage directed at the very existence known as evil spirits.”
 
-……The fox riding the tiger’s back?
+......The fox riding the tiger’s back?
 
 “I couldn’t help but frown. I had no idea who he was referring to.”
 
 “Oho, so you don’t know that story yet?”
 
-“……”
+“......”
 
 “Then I cannot tell you here. After all, a story is most enjoyable when it is heard directly from the person who was involved.”
 
@@ -168,7 +168,7 @@ Instead of asking about the ‘fox,’ I brought up another topic.
 
 “Wrong.”
 
-“…?”
+“...?”
 
 “I have no reason to answer, so it is a wrong question, barbarian.”
 
@@ -188,7 +188,7 @@ However, I knew one thing.
 
 Crisis can sometimes be turned into opportunity.
 
-‘Maybe…’
+‘Maybe...’
 
 Today, I might be able to take a giant step toward the secrets of this world that I had harboured for so long.
 
@@ -206,7 +206,7 @@ Even if I didn’t get an answer, I had nothing to lose; if I caught even one pi
 
 “Huh? I wasn’t exactly hiding. I just happen to sleep a lot, so I couldn’t go out.”
 
-“Sleep…?”
+“Sleep...?”
 
 “There’s a reason for it.”
 
@@ -220,7 +220,7 @@ Not Baron, but Viscount.
 
 If it wasn’t just a slip of the tongue or a lapse in memory, then what did it mean? Was it too much of a leap to think he might have outdated information because he had been ‘sleeping’ at the time?
 
-‘…Perhaps there are constraints on him being awake.’
+‘...Perhaps there are constraints on him being awake.’
 
 Though it was still just a speculation, considering the subject, it was precious information.
 
@@ -236,13 +236,13 @@ Though it was still just a speculation, considering the subject, it was precious
 
 “There was one thing I wanted to check, but that’s already finished.”
 
-“……”
+“......”
 
 “Does that mean you have no more business with me?”
 
 “No, that’s not it.”
 
-“…Then speak.”
+“...Then speak.”
 
 “I’ll tell you in a bit. Usually, when eating, you save the most delicious part for last, don’t you?”
 
@@ -262,7 +262,7 @@ The King of the New World, who had been answering my rapid-fire questions, sudde
 
 “Besides, aren’t you asking too many questions? I’ll answer exactly one more, so keep that in mind. And of course, I won’t answer anything that crosses the line.”
 
-Right, the final question…
+Right, the final question...
 
 Judging by his tone, he likely wouldn’t answer any critical pieces of information.
 
@@ -270,7 +270,7 @@ In that case, what would be a good final question?
 
 Of the things that didn’t cross the line, what would be the most rational question to ask?
 
-Tap, tap…
+Tap, tap...
 
 After a brief moment of thought, I slowly opened my mouth.
 
@@ -292,7 +292,7 @@ I had expected as much, but this bastard of a King definitely had a few screws l
 
 “So I figured I’d try persuasion first.”
 
-“……”
+“......”
 
 “Before telling you that if you don’t do as I say, I’ll dispose of everyone you know.”
 

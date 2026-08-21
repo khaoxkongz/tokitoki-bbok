@@ -4,7 +4,7 @@ While I was reading through the diary, Hyun-byeol asked from beside me,
 
 “How is it? Interesting, right?”
 
-“I don’t know…”
+“I don’t know...”
 
 Honestly, I could not really call it an enjoyable read. I never liked the romance genre to begin with, and I was not the type to care about other people’s love lives either.
 
@@ -12,7 +12,7 @@ However, it was still somewhat intriguing. After all, the protagonist of this st
 
 This book contained the reason for everything the marquis had endured that ultimately drove him to make the reckless decision to defy the king.
 
-‘I still don’t get it, though…’
+‘I still don’t get it, though...’
 
 It was hard to grasp the full motive just from the beginning.
 
@@ -26,9 +26,9 @@ The girl remained quiet for a while before saying, “Then you should go back ea
 
 [Every single day, the thought wouldn’t leave me. What did that silence mean? Could it be that she felt the same way?]
 
-It was neither entertaining nor important for me to know how much the marquis suffered and brooded over his feelings, so I skipped that part. Time passed, and the Marquis’s son was born. Though his joy in raising his son was genuine…
+It was neither entertaining nor important for me to know how much the marquis suffered and brooded over his feelings, so I skipped that part. Time passed, and the Marquis’s son was born. Though his joy in raising his son was genuine...
 
-[Yet sometimes the thought would come to me. What kind of child would we have had together? Would that child have been as lovely as this one… or perhaps even more so?]
+[Yet sometimes the thought would come to me. What kind of child would we have had together? Would that child have been as lovely as this one... or perhaps even more so?]
 
 To erase such sinful thoughts, the Marquis devoted himself even more to his family. Around that time he also began taking charge of the family’s affairs in place of his bedridden father.
 
@@ -64,11 +64,11 @@ Reading the story with mild disinterest, my eyes suddenly sharpened. Although th
 
 [Meirin Hwenbenia Raphdonia.]
 
-…What?
+...What?
 
 [That was her name.]
 
-Seriously…?
+Seriously...?
 
 ***
 
@@ -90,7 +90,7 @@ Meirin Hwenbenia Raphdonia was most likely Ragna’s mother.
 
 And that meant—
 
-Ragna… is a descendant of the royal family?
+Ragna... is a descendant of the royal family?
 
 Even if she was an illegitimate child born from an affair before the princess was married.
 
@@ -102,9 +102,9 @@ The nameless princess was likely involved somehow, but since I didn’t know the
 
 All the answers I wanted were in here.
 
-[During our stay at the secret safehouse, I listened to her story over and over again. The tales were far more shocking than I had imagined. To think such secrets were hidden within the Royal Family…]
+[During our stay at the secret safehouse, I listened to her story over and over again. The tales were far more shocking than I had imagined. To think such secrets were hidden within the Royal Family...]
 
-“Wait… does it explain that secret later?”
+“Wait... does it explain that secret later?”
 
 “Nope.”
 
@@ -130,7 +130,7 @@ Eventually, they found us, and I finally faced ‘him’ in the audience chamber
 
 The story after the private audience with the King could be summarized briefly. The Marquis returned to the secret safehouse and continued their sweet time, and that love eventually bore fruit. A child was conceived. The Marquis felt a happiness far greater than when Eltora was born.
 
-But…
+But...
 
 ‘If it were a happy ending, there wouldn’t be this many pages left.’
 
@@ -140,7 +140,7 @@ The incident that changed his life was something even I, who had seen countless 
 
 [One day, as usual, we lay together in bed, whispering our love while I gently touched her swollen belly. Suddenly Meirin screamed.]
 
-[Who am I? Who are you? Where is this place…? Meirin babbled incomprehensible words like a madwoman. Then she said something that should never have come from her lips.]
+[Who am I? Who are you? Where is this place...? Meirin babbled incomprehensible words like a madwoman. Then she said something that should never have come from her lips.]
 
 [Dungeon & Stone.]
 
@@ -160,7 +160,7 @@ Although the marquis, the author of the diary, did not mention this issue direct
 
 Perhaps, for some reason, Meirin’s biological age had been frozen. Given that the royal family possessed strange life-support devices, I couldn’t rule out this possibility.
 
-‘…I see why Hyeon-byeol called this a “tragedy”.
+‘...I see why Hyeon-byeol called this a “tragedy”.
 
 After Meirin was possessed by an evil spirit, the Marquis’s life turned into hell.
 
@@ -176,9 +176,9 @@ Then—
 
 The evil spirit died after giving birth to Ragna. The Marquis, however, told the Royal Family that the evil spirit had died in childbirth and smuggled Ragna away. He wanted this child, at least, to grow up peacefully.
 
-But…
+But...
 
-“And then, even Eltora became an evil spirit…”
+“And then, even Eltora became an evil spirit...”
 
 As time passed, even his eldest son, the only close family he had left, became an evil spirit. In the end, only Ragna remained.
 
@@ -216,7 +216,7 @@ I had expected something exciting at the end, but it just ended like that.
 
 “Come on. How could you summarize that in three lines?”
 
-“…What? Isn’t it easy?”
+“...What? Isn’t it easy?”
 
 1. The Marquis falls in love with a princess.
 
@@ -248,17 +248,17 @@ Having finished the diary, my head felt even more cluttered with unresolved ques
 
 “Yeah, but that is Plan A. Even he believes it has a low chance of success, considering he left this diary behind.”
 
-“That… is true, I guess?”
+“That... is true, I guess?”
 
-“Given the Marquis’s personality, there’s definitely a Plan B to keep Ragna alive… but I can’t even get a grasp on what it is. Just hiding her and keeping her asleep in this secret villa? Isn’t that a bit too naive?”
+“Given the Marquis’s personality, there’s definitely a Plan B to keep Ragna alive... but I can’t even get a grasp on what it is. Just hiding her and keeping her asleep in this secret villa? Isn’t that a bit too naive?”
 
 Hearing my words, Hyeon-byeol thought it over before answering.
 
-“Maybe… you’re Plan B, Oppa?”
+“Maybe... you’re Plan B, Oppa?”
 
-“…What?”
+“...What?”
 
-“No, think about it. Including that time you almost ended up marrying her…”
+“No, think about it. Including that time you almost ended up marrying her...”
 
 Hyeon-byeol’s voice trailed off as she let out a small smirk.
 

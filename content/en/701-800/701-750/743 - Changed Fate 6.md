@@ -12,7 +12,7 @@ Go to District 7, and A dies. Go to the sanctuary, and B dies.
 
 I didn’t know who A or B would be, but I was certain they would both be allies equally precious to me.
 
-But…
+But...
 
 That damn “elder” offered his advice through the wolf.
 
@@ -50,7 +50,7 @@ Even if I regretted it later, at least it would be my own regret, not something 
 
 If he was going to give advice like that, he should’ve known I’ve always been a contrarian—
 
-…Huh?
+...Huh?
 
 Did he actually predict that I’d react this way?
 
@@ -62,7 +62,7 @@ Even without his advice, I was still going to the sanctuary. There was no reason
 
 The more I thought about it, the more distracted I became, so I cleared my head and focused solely on reaching my destination.
 
-10 minutes, 20 minutes, 30 minutes…
+10 minutes, 20 minutes, 30 minutes...
 
 After running for quite some time—
 
@@ -78,13 +78,13 @@ Tadadadat—!
 
 I sped up and Soon, I spotted where the wall met the border of the sanctuary and ran toward the gate.
 
-“…Huh?”
+“...Huh?”
 
 It was pure coincidence that I noticed him.
 
 Even though the thick trees made it hard to see the ground.
 
-“…Rotmiller?”
+“...Rotmiller?”
 
 My first scout.
 
@@ -108,9 +108,9 @@ Rotmiller stared at me like he’d seen a ghost.
 
 And in that instant, I realized.
 
-“…Jandel?”
+“...Jandel?”
 
-So A… was Rotmiller.
+So A... was Rotmiller.
 
 ***
 
@@ -120,7 +120,7 @@ Well, more than half escaped like cockroaches, but still.
 
 “Are you alright, Rotmiller?”
 
-“Ah…”
+“Ah...”
 
 “Looks like you’re not.”
 
@@ -132,19 +132,19 @@ He didn’t look well, so I splashed a potion over his wounds. Only then did he 
 
 However, the burst of energy was so strong that it took him a while to return to normal.
 
-“Bjorn…”
+“Bjorn...”
 
 “Looks like you’re finally awake.”
 
-“…Th-thanks to you, I am alive.”
+“...Th-thanks to you, I am alive.”
 
 “How’s your body? I’ve got plenty of potions.”
 
-“…I’m fine. I’m all healed up.”
+“...I’m fine. I’m all healed up.”
 
 Hmm. Good enough.
 
-“By the way, Jandel… how did you end up here………………”
+“By the way, Jandel... how did you end up here..................”
 
 Ah, that.
 
@@ -152,7 +152,7 @@ I knew he was curious, but explaining everything would take way too long.
 
 “We can talk about me later. First, tell me what the situation is.”
 
-“Ah……………”
+“Ah...............”
 
 Rottmiller also seemed to realize that now wasn’t the time for questions. He quickly returned to his old, reliable self and briefed me on the situation.
 
@@ -160,13 +160,13 @@ To sum it up:
 
 “The Noark bastards disabled the barrier first, then invaded. We were badly outnumbered and forced to retreat. During the chaos, our elites slipped through the expanded frontline to take the enemy commanders’ heads.”
 
-“However, I don’t know if their plan succeeded or failed… This isn’t the time for that. You need to get over there and help…”
+“However, I don’t know if their plan succeeded or failed... This isn’t the time for that. You need to get over there and help...”
 
-“…Huh?” He gasped
+“...Huh?” He gasped
 
 Rottmiller didn’t seem to understand why I was carrying him.
 
-“Why are you carrying me…? Leave me. I’ll only slow you down.”
+“Why are you carrying me...? Leave me. I’ll only slow you down.”
 
 Coldly speaking, Rottmiller wasn’t wrong.
 
@@ -174,13 +174,13 @@ Although he was still the same, I had changed far too much since my days with Te
 
 He wouldn’t just be unhelpful; he’d be a hindrance.
 
-But…
+But...
 
 “You’re my scout, aren’t you?”
 
 Leaving him alone just didn’t sit right with me. And there was no guarantee he’d be safe just because I saved him this once.
 
-So…
+So...
 
 “You should be the one to tell me where I need to go.”
 
@@ -190,7 +190,7 @@ When I spoke jokingly, Rottmiller froze for a moment before letting out a small 
 
 “Isn’t there a saying that people die when they change? I plan on living a long time.”
 
-It took him a moment to respond “……..I don’t know how their plan went, but let’s head toward the main gate for now.”
+It took him a moment to respond “........I don’t know how their plan went, but let’s head toward the main gate for now.”
 
 With that, I ran quickly towards the gate with Rottmiller on my back.
 
@@ -204,7 +204,7 @@ Although it was a soldier’s duty to block an enemy charge, the Noarkans hastil
 
 Thanks to them—always so kind in the face of the strong—it wasn’t long before I passed through the forest path and arrived at the battle-scarred gate.
 
-…A lot of people died.’
+...A lot of people died.’
 
 The area in front of the gate was littered with corpses.
 
@@ -222,7 +222,7 @@ The one I smacked on the head after he complained about the improved equipment a
 
 The moment I saw their faces, my jaw clenched involuntarily, but I finished scanning the area first.
 
-For some reason, whenever our eyes met, those Noark bastards would avert their gaze or back away…
+For some reason, whenever our eyes met, those Noark bastards would avert their gaze or back away...
 
 ‘Not important, ignore them.’
 
@@ -230,7 +230,7 @@ There were only two things worth paying attention to.
 
 Where the gate should have been, there was nothing but rubble. Even the wall had crumbled, and the debris sealed off the only path between the sanctuary and District 7.
 
-And…
+And...
 
 “Huh? Isn’t that Bjorn?”
 
@@ -240,7 +240,7 @@ For some unknown reason, my allies were peering down at me from the top of the w
 
 As soon as our eyes met, I started counting:
 
-Aynar, Versil, Misha, Erwin, James Carla…
+Aynar, Versil, Misha, Erwin, James Carla...
 
 Excluding Amelia, Auyen, Parab, and Marone, all members were there and unharmed.
 
@@ -260,7 +260,7 @@ Perhaps due to my reputation, they all just kept their distance and watched, not
 
 “I heard from Rotmiller that the plan was to strike the Noark leadership. Did that succeed?”
 
-“Ah… that… we failed.”
+“Ah... that... we failed.”
 
 But from what she explained, the outcome was actually better than failure.
 
@@ -268,17 +268,17 @@ They didn’t capture the leadership, but they lured Noark’s elites outside th
 
 “Now we’re occupying the top of the wall and blocking their reinforcements from entering the sanctuary!”
 
-Hmm… so that’s why they were up there.
+Hmm... so that’s why they were up there.
 
 If I hadn’t run into Rotmiller, I probably would’ve met them on the wall too.
 
-“Anyway, Ms. Gowland…” Maybe because I’d been gone so long, Erwin kept rambling just to keep the conversation going, even in the middle of a war.
+“Anyway, Ms. Gowland...” Maybe because I’d been gone so long, Erwin kept rambling just to keep the conversation going, even in the middle of a war.
 
 I cut her off with a smirk.
 
 “That’s enough. It’s obvious what the next step in the plan is.”
 
-“…Huh?”
+“...Huh?”
 
 ‘Huh?’ what.
 
@@ -290,23 +290,23 @@ So there’s only one thing to do.
 
 “We just have to wipe them out, right?”
 
-“…Ah! You really are smart!”
+“...Ah! You really are smart!”
 
 I was used to Erwin’s mindless praise, so I let it slide and scanned the area once more.
 
 Whether they had heard that the gate had collapsed or because I had drawn so much attention while running, more and more Noarkans were gathering in the clearing in front of the gate.
 
-One, two, three, four…
+One, two, three, four...
 
 There were so many Noarkans that counting them was meaningless.
 
 It would take quite a while to kill them all with a hammer, one by one.
 
-Therefore…
+Therefore...
 
 “Erwin, get ready.”
 
-“…Huh?”
+“...Huh?”
 
 “It’s been a while since we did ‘that’.”
 
@@ -322,7 +322,7 @@ Without me having to say anything, she understood and activated her skill.
 
 「Strong bonus against piercing and slashing attacks.」
 
-「Agility greatly increased………………」
+「Agility greatly increased..................」
 
 Well, for mowing down mobs, nothing beats this.
 
@@ -342,7 +342,7 @@ And because I came to the sanctuary,
 
 A survived.
 
-Then…
+Then...
 
 KWA-A-A-A-A-A-A-A-A-ANG—!!!
 

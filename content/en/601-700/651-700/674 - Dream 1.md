@@ -24,7 +24,7 @@ Here, all sorts of things explode.
 
 Like this.
 
-“Uh… the ground’s swelling”
+“Uh... the ground’s swelling”
 
 “It’s going to blow! Everyone, get back!”
 
@@ -44,7 +44,7 @@ BOOOOM!
 
 Sometimes, explosions would just happen out of nowhere — right in the air.
 
-And the biggest problem is…
+And the biggest problem is...
 
 Ssshhhhh!
 
@@ -68,7 +68,7 @@ GM rushed over and cast a spell on me, and Jayna—the party’s only healer—d
 
 “Heal.”
 
-“……Done.”
+“......Done.”
 
 As evident in The Toxic Lava Zone, mages and healers are indispensable.
 
@@ -88,7 +88,7 @@ While exploring the Toxic Lava Zone, you’d occasionally come across a small tr
 
 Naturally, lava fruit had to be prioritised for the healer and mages.
 
-“Uh… Baek-ho? I’m running out of Soul Power. I can’t use my abilities anymore…”
+“Uh... Baek-ho? I’m running out of Soul Power. I can’t use my abilities anymore...”
 
 “So what?”
 
@@ -96,7 +96,7 @@ Naturally, lava fruit had to be prioritised for the healer and mages.
 
 “You’re just supposed to take hits anyway. Don’t get greedy.”
 
-“……”
+“......”
 
 Most of the Lava Fruits were given to the healers and mages, so the rest of the group’s MP continued to decrease.
 
@@ -110,13 +110,13 @@ Thanks to the Abyss Giant’s active skill, I could periodically recover MP and 
 
 This was unlike Rex Aures, who had chosen Giant’s Blood.
 
-“…I envy you deeply, Baron Jandel.”
+“...I envy you deeply, Baron Jandel.”
 
 ‘Then you should have eaten the green essence. MP is everything in this game.’
 
 “The Baron is the main tank. You just play the sub-tank and don’t touch the Lava Fruit, got it?”
 
-“…Got it.”
+“...Got it.”
 
 Aures stepped back, looking dejected. But truthfully, things weren’t going well for anyone.
 
@@ -124,11 +124,11 @@ Aures stepped back, looking dejected. But truthfully, things weren’t going wel
 
 “I’m in the same boat, so stop complaining, okay?”
 
-“……Ryo, Ryoukai”
+“......Ryo, Ryoukai”
 
 “What’s that pronunciation? You sound like a Japanese soldier. Say ‘okay,’ not ‘ryokai.’ Got it?”
 
-“Baek-ho… What’s a Japanese soldier?”
+“Baek-ho... What’s a Japanese soldier?”
 
 “Don’t worry about it.”
 
@@ -140,7 +140,7 @@ In chess terms, it was like starting a match without bishops or rooks. Funny eno
 
 From Level 3 monsters onwards, it became brutally difficult. If a Level 2 monster appeared, our only option was to run.
 
-‘…Luckily, no Level 2s have appeared yet.’
+‘...Luckily, no Level 2s have appeared yet.’
 
 Badump-Badump-!
 
@@ -148,13 +148,13 @@ Of course, that doesn’t mean we can let our guard down.
 
 “Baron, I think we’ve pushed ourselves too far. How about we step outside for a break?”
 
-“…Let’s do that.”
+“...Let’s do that.”
 
 As we filled in the missing sections of the map while traversing the Toxic Lava Zone, we’d retreat from the area whenever exhaustion set in to take short rests.
 
 It was the same trick I’d often used during my original exploration of the ninth floor, since the field effect disappeared the moment you left the area.
 
-‘…Though that only works since we’re near the southern edge of the Toxic Lava Zone.’
+‘...Though that only works since we’re near the southern edge of the Toxic Lava Zone.’
 
 Anyway, after spending a long time exploring and filling in the map, and with the Hans effect probably wearing off—
 
@@ -168,13 +168,13 @@ We found a stone monument similar to the one in the Primordial Land.
 
 “Hahaha! Look at this mage. Do you think I’d mistake that for letters? Nonsense!”
 
-“……”
+“......”
 
 Although it resembled the one we’d found in the Primordial Land, we stopped searching and started examining the stone monument — it had been a while since we’d come across anything new.
 
-But…
+But...
 
-“The characters inscribed are different from the monument in the Primordial Land, but I can’t decipher them, so it’s meaningless… Other than that, everything else is the same. It’s sturdy, and we can’t get any information from it other than that, just like last time.
+“The characters inscribed are different from the monument in the Primordial Land, but I can’t decipher them, so it’s meaningless... Other than that, everything else is the same. It’s sturdy, and we can’t get any information from it other than that, just like last time.
 
 There was no way an investigation that failed last time would succeed this time. Having learned from our last waste of time, we finished things up quickly.
 
@@ -212,7 +212,7 @@ Dreaming Waterfalls.
 
 This field is practically the final trial of the ninth-floor Star Grave.
 
-Beyond it is the portal to the tenth floor… and it’s pure hell.
+Beyond it is the portal to the tenth floor... and it’s pure hell.
 
 ‘This place is fucking ridiculous.’
 
@@ -232,7 +232,7 @@ We’re sailing across it in a boat with three of our allies fast asleep.
 
 “This time it’s three who’ve fallen asleep.”
 
-“Jayna, Gramps, Harvellion… of course, it just had to be the three most important ones.”
+“Jayna, Gramps, Harvellion... of course, it just had to be the three most important ones.”
 
 “Let’s hope no one else nods off until they wake up.”
 
@@ -270,7 +270,7 @@ It’s one of the irritating parts of Dreaming Waterfalls.
 
 It’s possible to increase your speed, but if you do, the sleeping monsters underwater will wake up and swarm you.
 
-The only method is to use a specially crafted boat to move quietly and quickly…
+The only method is to use a specially crafted boat to move quietly and quickly...
 
 ‘Though his boat doesn’t have that feature.’
 
@@ -278,7 +278,7 @@ Well, even when exploring the 9th floor, you don’t need to come to the Dreamin
 
 “Anyway, keep quiet. If you make noise and monsters appear, it’ll be annoying.”
 
-“Ah, understood……”
+“Ah, understood......”
 
 Aures lowered his voice, afraid of Baek-ho’s scolding.
 
@@ -288,11 +288,11 @@ Meanwhile, the archer leaned towards me and whispered quietly.
 
 “Then we’ll have to investigate under the lake.”
 
-“…That will raise the difficulty tremendously.”
+“...That will raise the difficulty tremendously.”
 
 “Let’s just hope it doesn’t come to that.”
 
-“Yes, Baron…”
+“Yes, Baron...”
 
 After that, we slowly moved forward, steering the boat and didn’t encounter any monsters.
 
@@ -300,13 +300,13 @@ The calmness of the surroundings almost made you forget how dangerous this place
 
 Of course, that was only the case for those who were awake.
 
-‘Phew… Finally woke up. I thought I was going to die there.’
+‘Phew... Finally woke up. I thought I was going to die there.’
 
 “Gramps, you slept soundly and woke up, so why that expression?”
 
-“Just… had a somewhat unpleasant dream.”
+“Just... had a somewhat unpleasant dream.”
 
-“Heh… Now that you say that, I’m curious?”
+“Heh... Now that you say that, I’m curious?”
 
 Time passed, and one by one, the others woke up, starting with the GM. Not long after, they began to fall asleep again.
 and not long after, others began to fall asleep again.
@@ -318,33 +318,33 @@ Baek-ho collapsed into sleep, unable to resist the field effect.
 Watching him sleep so soundly, I felt an impulse well up.
 If I just throw him overboard now, I could easily solve the problem.
 
-‘……Getting out of here comes first.’
+‘......Getting out of here comes first.’
 
 Shaking off the thought, I looked at the map and focused on steering in Baek-ho’s place.
 
-And after a while…
+And after a while...
 
-“Ugh… Seriously, this pisses me off every single time ”
+“Ugh... Seriously, this pisses me off every single time ”
 
-“Yes… unlike the illusions on the 4th floor, this one feels all too real.”
+“Yes... unlike the illusions on the 4th floor, this one feels all too real.”
 
 Starting with Lee Baek-ho, the other members woke up, and the next group fell asleep.
 
-And…
+And...
 
 ‘Wait. What the hell?’
 
 I’m the only one not falling asleep.
 
-Well, falling asleep is completely random, so it’s not an impossible situation…
+Well, falling asleep is completely random, so it’s not an impossible situation...
 
 ‘It’s not bad, right?’
 
-Since falling asleep means suffering through nightmares, I took it as good luck…
+Since falling asleep means suffering through nightmares, I took it as good luck...
 
 Thump!
 
-…No, wait. Isn’t this too suspicious?
+...No, wait. Isn’t this too suspicious?
 
 Once the thought crossed my mind, I grew even more anxious about the fact that I couldn’t fall asleep—and that uneasiness only deepened as time went on.
 
@@ -352,7 +352,7 @@ Amazingly, I still didn’t fall asleep—not even by the time we reached the ed
 
 “Baron, why do you look like that?”
 
-“……It’s nothing.”
+“......It’s nothing.”
 
 If I said it out loud, it would only make it an omen. It was better not to say anything.
 
@@ -376,13 +376,13 @@ A massive hole had opened at the center of the lake, plunging downward to form a
 
 “Roger.”
 
-Starting from this point, we planned to steer the boat around the entire lake to complete the rest of the map. So, just as we were about to move according to plan…
+Starting from this point, we planned to steer the boat around the entire lake to complete the rest of the map. So, just as we were about to move according to plan...
 
-“……Something’s coming from below.”
+“......Something’s coming from below.”
 
 In place of Bright, who was fast asleep, the Ruin Scholar quickly muttered something under his breath.
 
-At first, it was hard to hear because of the waterfall’s sound, but…
+At first, it was hard to hear because of the waterfall’s sound, but...
 
 “Turn the bow!”
 
@@ -396,13 +396,13 @@ A massive, serpent-shaped monster rose from the waterfall. Although the GM, who 
 
 Because it’s an incredibly famous bastard.
 
-“…Draizen.”
+“...Draizen.”
 
 A Level-1 Illusion type monster.
 
 Similar to Kariadea the Glacier Mage, it’s a special boss that only appears in this area.
 
-“We’re screwed, this is……”
+“We’re screwed, this is......”
 
 This time, I didn’t even have to say it.
 
@@ -427,15 +427,15 @@ This is its home turf.
 
 Honestly, I can’t even be sure we can escape safely.
 
-Is the Hans effect only kicking in now…?
+Is the Hans effect only kicking in now...?
 
 That was the first thought that filled my mind the moment I saw the Draizen.
 
-“…Like hell.”
+“...Like hell.”
 
 Who cares about Hans or whatever.
 
-“Phew……”
+“Phew......”
 
 I steadied my breathing and pulled myself together.
 
@@ -445,7 +445,7 @@ Only then will we be able to overcome this crisis properly.
 
 Just as I was bracing myself—
 
-“…Huh?”
+“...Huh?”
 
 I was suddenly hit by a wave of drowsiness, as if I’d just taken a sleeping pill.
 
@@ -455,19 +455,19 @@ At the same time—
 
 My vision spun and blurred.
 
-“This… shi—…”
+“This... shi—...”
 
 It was the same feeling I’d had when we got closer to the Dreaming Waterfalls during that long walk around the perimeter.
 
 No wonder it didn’t trigger all this time.
 
-“Why… now… of all times…”
+“Why... now... of all times...”
 
 With that, I lost my balance and fell forward.
 
 As the boat rocked violently from the increased speed, I swayed from side to side before losing my grip on the edge and being flung overboard.
 
-“Baron…!”
+“Baron...!”
 
 The sounds around me grew faint.
 
@@ -479,4 +479,4 @@ But even in that dangerous situation, there was nothing I could do.
 
 「Your character falls asleep.」
 
-……Goddammit.
+......Goddammit.

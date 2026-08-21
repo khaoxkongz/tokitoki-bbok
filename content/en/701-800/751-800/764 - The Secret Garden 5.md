@@ -14,7 +14,7 @@ Strictly speaking, it was a book filled with undecipherable coded writing that I
 
 “Are you implying I’m an incompetent woman right now?”
 
-“Uh… no, that’s not what I meant…”
+“Uh... no, that’s not what I meant...”
 
 “I’m joking. This is not something you can obtain through skill alone.”
 
@@ -22,21 +22,21 @@ Hyun-byeol laughed at my flustered reaction and continued speaking before I had 
 
 “The Marquis himself gave it to me.”
 
-“…Huh?”
+“...Huh?”
 
 “He gave it to me. Right after he forcibly put Countess Phefroc to sleep and confined her here.”
 
 Just because she spoke casually didn’t mean it was easy for the listener to process.
 
-“…You’re saying he just handed you his diary?”
+“...You’re saying he just handed you his diary?”
 
 “Well, not exactly for no reason. Marquis Tercerion had been subconsciously searching for someone who could understand the life he had lived, even if only in its simplest parts. Those were his words, not mine.”
 
-“And… that person was you?”
+“And... that person was you?”
 
 “Specifically, it was for Countess Phefroc. The Marquis told me to give her this diary when she wakes up, regardless of how this ends. He said if a situation arose where it couldn’t be delivered, I should burn it.”
 
-“Still, it’s suspicious that he let you read it…”
+“Still, it’s suspicious that he let you read it...”
 
 “That’s why I say he’s a lonely man. When I asked him what he’d do if I read it after taking the book, he told me to just read it if I wanted to.”
 
@@ -44,13 +44,13 @@ Just because she spoke casually didn’t mean it was easy for the listener to pr
 
 The more we talked, the more I felt that the Marquis Hyunbyeol I knew and the Marquis Hyunbyeol you know are completely different people.
 
-But…
+But...
 
 In a way, that was only natural.
 
 Didn’t I treat the Marquis differently from how I treated Hyun-byeol? Everyone has unexpected sides to them. It’s just that the faces we can see are limited by our relationship with them.
 
-“So… are you going to read it or not?”
+“So... are you going to read it or not?”
 
 “I should. This is a chance to read the marquis’s secret diary. Though I suppose I would not be the first.”
 
@@ -72,7 +72,7 @@ For a moment I was so stunned that I couldn’t speak.
 
 Of course Hyunbyeol’s reasoning was sound. And in fact, that was exactly what had happened.
 
-But still…
+But still...
 
 “Didn’t you just say the Marquis was a lonely person?”
 
@@ -94,11 +94,11 @@ Now, let’s get back to the diary.
 
 Shortly after I started reading, I realised that the gaps between the entries were very long.
 
-The 16 of the 7th month, the 27 of the 8th month, the 27 of the 9th…
+The 16 of the 7th month, the 27 of the 8th month, the 27 of the 9th...
 
 The dates were scattered far apart.
 
-Of course, it was not because he had put it off like summer homework until the very last day, nor because the marquis was the type to diligently keep a diary every day. This diary was simply…
+Of course, it was not because he had put it off like summer homework until the very last day, nor because the marquis was the type to diligently keep a diary every day. This diary was simply...
 
 “A compilation.”
 
@@ -124,7 +124,7 @@ After returning home, the Marquis debated whether she had been real or just a ha
 
 Eventually, he resolved to find the girl again.
 
-And then…
+And then...
 
 [On the twenty-seventh day of the eighth month, at the end of summer, when the night winds had begun to turn cold.]
 
@@ -148,7 +148,7 @@ He lowered her guard while keeping his distance, using conversational techniques
 
 Driven by an even greater curiosity, the Marquis started visiting the palace at every opportunity.
 
-And then…
+And then...
 
 [The twenty second day of the ninth month. Our third meeting took place.]
 
@@ -180,7 +180,7 @@ Right then, Hyeon-byeol spoke up.
 
 “Then look at the desk over there. That portrait is the Marquis when he was young.”
 
-“……Are you serious?”
+“......Are you serious?”
 
 He was ridiculously handsome. I suppose he had to be, for the nameless girl to blush a little when he asked to see her again.
 
@@ -192,7 +192,7 @@ Almost like she was thinking, You should experience it too.
 
 I didn’t question it and continued reading.
 
-Summer passed into autumn, winter, and spring…
+Summer passed into autumn, winter, and spring...
 
 As the seasons changed, the Marquis continued meeting the girl, and their relationship slowly shifted.
 
@@ -241,7 +241,7 @@ But the girl never appeared.
 
 [Only when something is missing do we realize our true feelings. At the time I didn’t understand it. Wouldn’t it be better to cherish things while you still have them? I thought people were simply foolish.]
 
-[Yes… that’s what I thought back then.]
+[Yes... that’s what I thought back then.]
 
 The Marquis finally realized his own feelings.
 
@@ -253,7 +253,7 @@ He forced his way into the palace on any pretext he could.
 
 But he never found the girl.
 
-And then…
+And then...
 
 “Do they meet again?”
 
@@ -291,13 +291,13 @@ In his imagination she would cry and embrace him.
 
 [I had imagined that moment hundreds, thousands of times every night.]
 
-[But on that day… I did not ask her a single question.]
+[But on that day... I did not ask her a single question.]
 
 [Because I had a pregnant wife.]
 
 After reading the final line on that page, a curse escaped my mouth without me realizing it.
 
-“Wait… what the fuc…”
+“Wait... what the fuc...”
 
 It seemed like this story needed another genre added to it.
 

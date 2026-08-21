@@ -6,9 +6,9 @@ The last time we came here, we were caught by surprise.
 
 We found the mid-boss, Macairo, already dead and reduced to nothing more than a small pile of bones.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Once again, we were caught off guard, but this time for a completely different reason.
 
@@ -18,33 +18,33 @@ When we opened the coffin, the body was gone.
 
 “Aures, you were the last one to investigate this place alone, right?”
 
-“Y-yes…?”
+“Y-yes...?”
 
 “Was it there then? Inside the coffin.”
 
 As Baek-ho asked, fixing Aures with a sharp gaze, he avoided his eyes and hedged his words.
 
-“Well…”
+“Well...”
 
 “Well, what? Answer clearly. Was it there then?”
 
-“…I don’t know.”
+“...I don’t know.”
 
 “You don’t know? What do you mean by that?”
 
-“When I came last time, I didn’t open the coffin to check….”
+“When I came last time, I didn’t open the coffin to check....”
 
-“Are you kidding me? You came all the way to the stone chamber and didn’t even open the coffin before going back…? Don’t tell me you slacked off and came back without even reaching the stone chamber?”
+“Are you kidding me? You came all the way to the stone chamber and didn’t even open the coffin before going back...? Don’t tell me you slacked off and came back without even reaching the stone chamber?”
 
 At Baek-ho’s interrogatory tone, Aures waved his hands frantically.
 
-“Of course not! I definitely came all the way up! My legs were hurting, so I, I just climbed a bit slowly…!”
+“Of course not! I definitely came all the way up! My legs were hurting, so I, I just climbed a bit slowly...!”
 
 “Don’t be so hard on him. It was just a mistake.”
 
 Encouraged by Jayna’s supportive words, Aures seemed to regain some confidence and raised his voice slightly as he said,
 
-“B-besides! Don’t act like you don’t know you gave me the most troublesome task! And I still went without complaining! Hearing this now is kind of hurtful…!”
+“B-besides! Don’t act like you don’t know you gave me the most troublesome task! And I still went without complaining! Hearing this now is kind of hurtful...!”
 
 Baek-ho wasn’t entirely innocent either, but listening from the sidelines, I couldn’t help being impressed by his audacity.
 
@@ -58,7 +58,7 @@ Aures wasn’t sure if Ruin Gramps was supporting him or not, but he nodded alon
 
 “Y-yes, Lord Ruingenes is right!”
 
-…So he chose to take it as support.
+...So he chose to take it as support.
 
 The whole situation hit me with a wave of exhaustion. And, just as Fallen Gramps had pointed out, it was starting to feel like it really was our fault.
 
@@ -66,7 +66,7 @@ Even Baek-ho seemed to share my thoughts; he only let out a heavy sigh and didn�
 
 “Fine, this isn’t important right now.”
 
-“How on earth did the corpse disappear…?”
+“How on earth did the corpse disappear...?”
 
 The conversation finally got back on track as everyone began offering their own theories.
 
@@ -78,7 +78,7 @@ The conversation finally got back on track as everyone began offering their own 
 
 Despite searching so thoroughly, we couldn’t find a single strand of hair.”
 
-“…Oh! Then maybe they’re bald!”
+“...Oh! Then maybe they’re bald!”
 
 Baekho nodded at GM’s conclusion. “Someone really could be hiding here.”
 
@@ -86,23 +86,23 @@ Baekho nodded at GM’s conclusion. “Someone really could be hiding here.”
 
 “Or maybe one of us has been scheming something from the start.”
 
-…This guy, seriously.
+...This guy, seriously.
 
 He was the same as always. Was doubting his allies just a habit for him?
 
-‘At this point, it’s almost an illness…’
+‘At this point, it’s almost an illness...’
 
 Of course, I knew a bit about Baekho’s painful past, so it wasn’t completely hard to understand.
 
-But…
+But...
 
 “Stop doubting your allies.” I warned anyway. “That’s something you should save only for the absolute last resort.”
 
-“…When did I say I was accusing anyone? I just said it’s a possibility. We have to keep our options open, right?” Baekho snapped, sounding like a grumpy kid.
+“...When did I say I was accusing anyone? I just said it’s a possibility. We have to keep our options open, right?” Baekho snapped, sounding like a grumpy kid.
 
 I just sighed internally and changed the subject.
 
-Because now… I needed answers.
+Because now... I needed answers.
 
 “Enough. Just answer properly. And don’t try to dodge the question this time.”
 
@@ -116,7 +116,7 @@ Why did Baek-ho lead his allies outside the city walls?
 
 I’ve asked him many times in many different ways, but he never gave a proper answer.
 
-“…What does that have to do with the current situation?”
+“...What does that have to do with the current situation?”
 
 “Of course it does. No matter how I look at it, nothing we’ve encountered seems to be targeting either me or Havellion.”
 
@@ -128,7 +128,7 @@ And now we’re trapped in this Golden Ruins.
 
 “Whoever’s been pulling the strings, I think they are targeting you guys.”
 
-“……”
+“......”
 
 “So just tell me already. I need to know what you were trying to do out there if I’m going to figure out what they want.”
 
@@ -148,17 +148,17 @@ Baekho cast me a quick sidelong glance, then sighed and admitted in defeat,
 
 “I haven’t made one yet. I just marked a few spots because I wanted to investigate properly and was about to head back.”
 
-They were about to head back…
+They were about to head back...
 
 Something suddenly occurred to me at that.
 
-Perhaps this mysterious figure wasn’t trying to block Baekho’s goals outside the city walls. Rather, there was a strong possibility that their goal was…
+Perhaps this mysterious figure wasn’t trying to block Baekho’s goals outside the city walls. Rather, there was a strong possibility that their goal was...
 
 [Haah, we’re screwed. Gramps said it’d take at least a year to fix.]
 
-…to prevent Lee Baek-ho from returning to the city.
+...to prevent Lee Baek-ho from returning to the city.
 
-So, he destroyed the return magic circle and eliminated all evidence of it…
+So, he destroyed the return magic circle and eliminated all evidence of it...
 
 ‘But since I and the GM happened to be outside too, we ended up joining forces.’
 
@@ -166,9 +166,9 @@ With the GM, who could quickly fix the magic circle, their plan was disrupted.
 
 So they lured us to the dimensional stone and trapped us here.
 
-…Maybe I’m jumping to conclusions?
+...Maybe I’m jumping to conclusions?
 
-Hmm… well, it wasn’t a baseless idea, but I still didn’t have enough proof to say for certain that this was how things were unfolding.
+Hmm... well, it wasn’t a baseless idea, but I still didn’t have enough proof to say for certain that this was how things were unfolding.
 
 So, I decided to ask more questions.
 
@@ -180,11 +180,11 @@ That might be the most important detail here.
 
 “What’s supposed to happen then?”
 
-“………”
+“.........”
 
 “Tell me. If I’m going to guess who broke the magic circle, I need to know.”
 
-“…God, this is giving me a headache.”
+“...God, this is giving me a headache.”
 
 Baekho rubbed his forehead and finally decided that keeping things hidden wouldn’t help.
 
@@ -194,7 +194,7 @@ His lips parted slowly.
 
 “It’s war.”
 
-“…War?”
+“...War?”
 
 “Once the preparations in Noark are complete, they’re going to march on the imperial capital, Carnon, and kill the King of Raphdonia.”
 
@@ -210,13 +210,13 @@ And most likely, Baek-ho is closely related to this plan.
 
 However, if this is true, far too many people would try to stop Lee Baek-ho. Figuring out exactly who it was would be difficult.
 
-If I really had to guess, the royal family is the most likely to have caught wind of this and taken action…
+If I really had to guess, the royal family is the most likely to have caught wind of this and taken action...
 
 After all, they were infamous for this kind of shady, underhanded operation.
 
-“But Baron… if they really are targeting us like you said, then you know the whole situation gets even more f***ed, right?”
+“But Baron... if they really are targeting us like you said, then you know the whole situation gets even more f***ed, right?”
 
-“…What do you mean?”
+“...What do you mean?”
 
 “I mean, it’s not like I told everyone about our trp. We didn’t even tell the Lord of Noark that we were leaving.’
 
@@ -256,7 +256,7 @@ If a traitor really existed, this wouldn’t be the kind of reaction you’d exp
 
 However, he still seemed intent on confirming every last detail.
 
-“Well then, since everyone’s agreed…”
+“Well then, since everyone’s agreed...”
 
 Baek-ho reached into his subspace and pulled out an item.
 
@@ -306,19 +306,19 @@ Judging by the reduced heat in his voice, Baek-ho’s suspicion seemed to have e
 
 “A waste? What is that supposed to—”
 
-“Exactly what it sounds like. Since it’s already turned on… why don’t we take this chance to learn a bit more about each other? I mean, we’ve been together for quite a while, but we don’t actually know each other that well, right?”
+“Exactly what it sounds like. Since it’s already turned on... why don’t we take this chance to learn a bit more about each other? I mean, we’ve been together for quite a while, but we don’t actually know each other that well, right?”
 
 Baek-ho continued in a suggestive voice, grinning as he looked at Jane Flyer.
 
 “So, first question.”
 
-“…….”
+“.......”
 
 “Jayna Flyer—do you still want to kill me, Lee Baekho?”
 
 I had no idea why that question had come out of nowhere.
 
-But…
+But...
 
 “Answer yes if it’s true, no if it’s not.”
 
@@ -328,4 +328,4 @@ Jayna’s expression hardened as well, and she answered in an equally icy voice:
 
 “Yes.”
 
-…How are these people even functioning as teammates?
+...How are these people even functioning as teammates?

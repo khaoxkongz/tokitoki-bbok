@@ -6,7 +6,7 @@ As the captain, it felt only right that I say a few words to her.
 
 “Haha, congratulations. You’ve finally got your hands on some authority.”
 
-“…Please stop joking.”
+“...Please stop joking.”
 
 Well, I just wanted to lighten the mood since she seemed to be taking the vice-leader position a bit too seriously.
 
@@ -18,11 +18,11 @@ Well, the second-in-command does need to have a serious side.
 
 “Starting today, you are our clan’s Vice-Leader. When I am not here, you must lead the clan in my stead. Everyone will help you, but the final judgment must be yours, and you must bear the responsibility for the outcome.”
 
-“I know…”
+“I know...”
 
 Judging by her expression, she wasn’t taking this lightly. It put me at ease, and I felt confident she would handle the vice-captain’s duties diligently without cutting any corners.
 
-Good. In that case…
+Good. In that case...
 
 I don’t need to give a long speech.
 
@@ -30,7 +30,7 @@ In the end, I decided not to bother with the advice I’d planned beforehand. Fo
 
 “You’ll do well.”
 
-“…….”
+“.......”
 
 “Let’s go, everyone is waiting.”
 
@@ -56,7 +56,7 @@ This city respects freedom as long as you pay taxes and follow the law.
 
 The key was simply not getting caught for having gone outside the walls.
 
-Okay, that’s settled then…
+Okay, that’s settled then...
 
 After that, we spent some time discussing our future plans.
 
@@ -70,9 +70,9 @@ After that, we spent some time discussing our future plans.
 
 “Yes, that’s right. Though, of course, it all depends on your disposition.”
 
-“My disposition…?”
+“My disposition...?”
 
-Wasn’t I fairly normal? Well… I did like hitting more than getting hit.
+Wasn’t I fairly normal? Well... I did like hitting more than getting hit.
 
 “Many will see this war as an opportunity.”
 
@@ -98,9 +98,9 @@ The roads were completely empty because everyone had already been evacuated.
 
 However, the closer we got to the Bifron walls, the more people we encountered along the way.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 They weren’t civilians selling fruit or going about everyday tasks, but adventurers and soldiers—people who made their living by fighting.
 
@@ -108,9 +108,9 @@ It didn’t take long before they began whispering about us.
 
 “Bjorn, son of Jandel.”
 
-“That’s the Anabada Clan……”
+“That’s the Anabada Clan......”
 
-“I heard they went for some kind of group training…”
+“I heard they went for some kind of group training...”
 
 “Then are they only now confirming the mobilization order and joining the war?”
 
@@ -124,7 +124,7 @@ Most of them reacted positively to seeing us.
 
 In the chaos of war, a powerful ally was the most dependable thing there was. Even those who would usually look at us with envy or jealousy seemed glad to see us.
 
-“…I heard he doesn’t abandon his comrades.”
+“...I heard he doesn’t abandon his comrades.”
 
 “I hope that reputation is true.”
 
@@ -158,15 +158,15 @@ The knight didn’t waste time asking questions in front of everyone.
 
 Right, that Marquis’s son.
 
-No, to be precise…
+No, to be precise...
 
-[My son… Eltora Tercerion is already dead. What now possesses my son’s body is some nameless evil spirit.]
+[My son... Eltora Tercerion is already dead. What now possesses my son’s body is some nameless evil spirit.]
 
 The evil spirit that had taken over his son’s body, and the same one that deserted us during the Ice Rock Expedition.
 
 ‘With a bastard like that sitting in the commander’s seat, it’s no wonder the country’s a mess.’
 
-“Um… Baron?”
+“Um... Baron?”
 
 “I understand. Lead the way.”
 
@@ -176,13 +176,13 @@ As it wasn’t possible to talk in the middle of the street with everyone watchi
 
 “Vercil, over here. You’re coming with me.”
 
-“Um… that is…”
+“Um... that is...”
 
 The knight who brought us here looked as though he wanted to stop Versyl from coming along, but he kept quiet after what I said next.
 
 “She’s my clan’s vice-captain. It would be better if she were present as well.”
 
-“Yes, then this way…”
+“Yes, then this way...”
 
 The knight then led us to a guest room on the third floor, where someone I hadn’t seen in a long while was waiting.
 
@@ -198,15 +198,15 @@ He didn’t even hold a noble title, yet he acted arrogantly just because he was
 
 Feeling irritated for some reason, I plopped down on the sofa, only for it to collapse beneath me with a loud crack.
 
-“I’ll… just stand behind you.” With that, Vercyl stood behind me.
+“I’ll... just stand behind you.” With that, Vercyl stood behind me.
 
-It was only then that the Marquis’s son… or rather, the bastard, seemed to register her presence and frowned at the knight who guided us.
+It was only then that the Marquis’s son... or rather, the bastard, seemed to register her presence and frowned at the knight who guided us.
 
 “I said not to let anyone else in, didn’t I?”
 
-“He said… she was the Anabada Clan’s Vice-Captain…”
+“He said... she was the Anabada Clan’s Vice-Captain...”
 
-“Hmm, the Vice-Leader…”
+“Hmm, the Vice-Leader...”
 
 At first, the bastard looked ready to throw her out, but then he paused, bringing a hand to his chin as he seemed to reconsider his decision.
 
@@ -238,7 +238,7 @@ Seeing him puff up just because he got a little power was pathetic, so I quickly
 
 An answer that anyone would find suspicious, but openly showing doubt toward a noble like me would be a serious mistake.
 
-“…Haha, is that so?”
+“...Haha, is that so?”
 
 As expected, he didn’t press the issue, and the topic was closed.
 
@@ -266,7 +266,7 @@ It was information I hadn’t heard from Kaislan.
 
 “I don’t mind.”
 
-“If so, I would welcome it… but for now, it would be better to go to the Military Command and discuss it directly. I do not have the authority to arbitrarily incorporate a titled noble such as yourself, Baron Jandel.”
+“If so, I would welcome it... but for now, it would be better to go to the Military Command and discuss it directly. I do not have the authority to arbitrarily incorporate a titled noble such as yourself, Baron Jandel.”
 
 “Tch. So I’ll have to stop by the Imperial Capital, Karnon, first.”
 
@@ -284,7 +284,7 @@ He let out a sigh. “I don’t even know where to start. Long story short, the 
 
 So, the royal family’s version of a nuclear missile?
 
-Hard to tell just from the description…
+Hard to tell just from the description...
 
 Was the vibration I felt earlier in the sewers caused by that ‘magical weapon’?
 
@@ -298,7 +298,7 @@ Still, one thing was positive.
 
 Perhaps the ‘incident’ recorded in the record stone doesn’t happen here and now. Perhaps the palace would easily crush the Noarkans, drive them out and restore peace.
 
-‘…That might be too hopeful.’
+‘...That might be too hopeful.’
 
 Sigh. If it weren’t for goblin’s intuition, I could have relaxed a little.
 
@@ -308,7 +308,7 @@ Sigh. If it weren’t for goblin’s intuition, I could have relaxed a little.
 
 As I stood up, the bastard spoke to me like he was my superior.
 
-“Before you go, is there anything you’d like to ask… or anything you’d like to say?”
+“Before you go, is there anything you’d like to ask... or anything you’d like to say?”
 
 Ah. That.
 
@@ -316,7 +316,7 @@ Ah. That.
 
 I’d already decided that there was one thing I had to say before leaving.
 
-Yeah. So…
+Yeah. So...
 
 “Eltora Tertcerion.”
 

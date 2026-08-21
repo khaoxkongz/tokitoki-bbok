@@ -20,13 +20,13 @@ Starting from the days when he didn’t even know I was Lee Han-soo.
 
 All those moments flashed through my mind like a panorama, and a strange, indescribable thrill ran through my entire body.
 
-“To think I’d actually get an apology out of this bastard…”
+“To think I’d actually get an apology out of this bastard...”
 
 Sure, the apology wasn’t sincere. But how often does anyone apologize sincerely?
 
 For me, this was more than enough. Sincere or not didn’t matter.
 
-“So… we’re done here, right?”
+“So... we’re done here, right?”
 
 Baek-ho glanced at me like a puppy who’s done something wrong and asked. Well, to be honest, I had already made up my mind.
 
@@ -34,11 +34,11 @@ Rather than being pushed around by him again and again, I believed it was better
 
 Even so, cornering Lee Baek-ho to his limit would only make things worse.
 
-“Really, what did I do so wrong? I just wanted to ask a few questions…”
+“Really, what did I do so wrong? I just wanted to ask a few questions...”
 
 Because in a fight like this, there is no winner. Only someone left to suffer alone in hell.
 
-Still, he backed down first today…
+Still, he backed down first today...
 
 Pushing him any further out of greed wasn’t the smart choice. There was only one thing left for me to do.
 
@@ -56,11 +56,11 @@ In short, don’t even think about wriggling out of this cheaply. Pay as much co
 
 Lee Baek-ho let out a deep sigh as he spoke, but I didn’t give any answer. After all, it’s the losing side that should make the first offer.
 
-“……”
+“......”
 
 As I kept my mouth shut and just stared at him, Lee Baek-ho cautiously made his first proposal.
 
-“…How about 200 million Stones per person?”
+“...How about 200 million Stones per person?”
 
 Even now, he was trying to save money.
 
@@ -70,13 +70,13 @@ Even now, he was trying to save money.
 
 I pointed towards the Ruin Scholar and spoke. Lee Baek-ho flared up as if the idea were absurd.
 
-“…What? No, why on earth?”
+“...What? No, why on earth?”
 
 Is he asking because he really doesn’t know the reason?
 
 “The fact that we’re not killing him here is an enormous concession on our part.”
 
-“……”
+“......”
 
 “If you’re short on money, just give up on those two instead. Don’t even think about compromising on this part.”
 
@@ -97,7 +97,7 @@ His exchange with the Fallen Scholar was pathetic enough, but the true ugliness 
 
 “Oh, right. And you two — pay for your own heads, okay?”
 
-“…W–what do you mean by that? Baek-ho?”
+“...W–what do you mean by that? Baek-ho?”
 
 Aures, who had thrown his body in harm’s way and even sacrificed an arm under Baek-ho’s command, asked in a voice filled with betrayal.
 
@@ -105,11 +105,11 @@ But Baek-ho’s shamelessness was unmatched.
 
 “What, should I pay for you? You’re adults, aren’t you? Handle your own lives.”
 
-“…….”
+“.......”
 
 “Hmm? And maybe try using your heads for once. If I wanted to abandon you all and run away, I could.”
 
-“…….”
+“.......”
 
 Even I was speechless at the insane logic he spouted.
 
@@ -117,9 +117,9 @@ I couldn’t imagine how Jayna or Aures must have felt having a leader like that
 
 Though, judging by their reactions, maybe this wasn’t new.
 
-“…Whatever. Might as well ask for realistic things. I’ll pay my own share. And I’d rather die than owe that bastard anything.”
+“...Whatever. Might as well ask for realistic things. I’ll pay my own share. And I’d rather die than owe that bastard anything.”
 
-“…T–then I will pay for myself as well.”
+“...T–then I will pay for myself as well.”
 
 Both of them agreed without resisting much.
 
@@ -133,21 +133,21 @@ And once everything was settled, I collected the payment with Versyl and the GM 
 
 Bersil and the GM lowballed the value of the items offered as part of the settlement, and whenever Lee Baekho protested, they immediately called for me.
 
-“Uh… Captain?”
+“Uh... Captain?”
 
 “Good thing you’re here, Baron,” Baekho grumbled. “You also know this makes no sense, right? How can ogre leather armor—”
 
 “If you’re not satisfied with our pricing, you can sell it yourself later. For today, pay in cash.”
 
-“……”
+“......”
 
 “If you don’t have the ability to pay in cash, then just stay quiet.”
 
-“Ah, so that’s why you only bumped it up by one hundred million stones when I offered two hundred million…”
+“Ah, so that’s why you only bumped it up by one hundred million stones when I offered two hundred million...”
 
 Only then did Baek-ho understand why I hadn’t pushed the price higher, even when he complained. And once he accepted that us taking these items was already included in the cost, he didn’t utter another word.
 
-‘…It’s quite a haul, though.’
+‘...It’s quite a haul, though.’
 
 Once the settlement accounting was finished and we tallied the final amount:
 
@@ -185,7 +185,7 @@ To be honest, this was the most unexpected reward. Even though its number was lo
 
 Despite looking like a bag, Alonso’s Travel Bag is a talisman. In the game’s English version, however, it was categorised as a ‘Charm’.
 
-“A talisman… like No. 9999 ‘Beginner’s Luck’?”
+“A talisman... like No. 9999 ‘Beginner’s Luck’?”
 
 “Yes.”
 
@@ -194,7 +194,7 @@ It raised the chance of getting an essence when defeating a monster for the firs
 
 Unlike No. 1001 Alonso’s Bag.
 
-“So what’s the effect? Honestly, I have no idea what it could even do…”
+“So what’s the effect? Honestly, I have no idea what it could even do...”
 
 Amelia answered Versyl’s question instead of me.
 
@@ -204,7 +204,7 @@ Surprisingly, she was a walking encyclopedia when it came to items like this—l
 
 It feels just like that.
 
-However, as an expert in [Dungeon & Stone], let me add a bit to the explanation…
+However, as an expert in [Dungeon & Stone], let me add a bit to the explanation...
 
 ‘It’s not so much that it lowers the chance of being attacked, but rather lowers your threat value.
 
@@ -222,7 +222,7 @@ I’ll decide who to give this to later, but for now, it’s probably best to gi
 
 “Of course.”
 
-“Ha… How did it even come to this… Then we’ll be going now?”
+“Ha... How did it even come to this... Then we’ll be going now?”
 
 “Wait, where do you think you’re going?”
 
@@ -232,7 +232,7 @@ I hurriedly stopped them as they tried to leave right after the settlement was f
 
 “I can still ask, right?”
 
-“I don’t know. The original plan was to fix that teleportation circle and return to the city…But what can we do? Even if we go back now, there’s nothing we can do.”
+“I don’t know. The original plan was to fix that teleportation circle and return to the city...But what can we do? Even if we go back now, there’s nothing we can do.”
 
 The underlying message was that if he tried to stick to the original plan, that old man would show up and get rid of him. But it didn’t matter, so I let it slide.
 
@@ -244,11 +244,11 @@ Hm.
 
 Honestly, I had considered keeping them around.
 
-[The evil spirit from another world—after losing three of his allies, will realize the path he must take…]
+[The evil spirit from another world—after losing three of his allies, will realize the path he must take...]
 
 If I turned them into actual companions, maybe I could use them as sacrifices.
 
-But…
+But...
 
 “So don’t bother trying to keep us. No matter what you say, we’re not traveling with you.”
 
@@ -256,25 +256,25 @@ There was no chance that a prideful guy like him would team up with me after bei
 
 Alright, let’s just end this cleanly.
 
-I didn’t really think it would work out anyway. It’s not like I would ever truly consider these guys ‘allies’ in any situation… Besides, if I started thinking of them as actual allies…the entire plan would lose its purpose anyway.
+I didn’t really think it would work out anyway. It’s not like I would ever truly consider these guys ‘allies’ in any situation... Besides, if I started thinking of them as actual allies...the entire plan would lose its purpose anyway.
 
 “Cough! Cough! Ptooey! Well then, we’ll be off.”
 
 Baek-ho spat on the ground like someone trying to shake off bad luck, then led his so-called allies away.
 
-“They’re gone…”
+“They’re gone...”
 
 Once the tension drained from my body, my allies came over.
 
-“Mister, are you okay……?”
+“Mister, are you okay......?”
 
-“You… you look quite exhausted……”
+“You... you look quite exhausted......”
 
 I sprawled out on the ground with my arms spread, watching my allies’ worried faces gather around me.
 
 “Bjorn Jandel.”
 
-Through that circle of faces, I saw Amelia. And she looked… a little angry.
+Through that circle of faces, I saw Amelia. And she looked... a little angry.
 
 “Explain. How you ended up out here, why you couldn’t come back, and why you were fighting those bastards.”
 
@@ -298,12 +298,12 @@ I’d narrowly escaped disaster thanks to my allies coming outside the walls. We
 
 But even so—
 
-In the end, we still ran into each other…
+In the end, we still ran into each other...
 
 Can this really be considered a good thing?
 
-The fact that I could reunite with allies I hadn’t expected to see again for months…
+The fact that I could reunite with allies I hadn’t expected to see again for months...
 
-[The evil spirit from another world—after losing three of his allies, will realize the path he must take…]
+[The evil spirit from another world—after losing three of his allies, will realize the path he must take...]
 
 Can I really write all of this off as coincidence?

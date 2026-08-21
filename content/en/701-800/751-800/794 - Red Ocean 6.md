@@ -8,9 +8,9 @@ Of course, we took out any monsters that appeared along the way.
 
 The only reason I said we were wandering aimlessly was because we hadn’t engaged in any proper battles.
 
-“……This is boring.”
+“......This is boring.”
 
-“Yeah… I’m starting to think doing paperwork would be more fun than this.”
+“Yeah... I’m starting to think doing paperwork would be more fun than this.”
 
 The average rank of monsters that appeared on Skull Island was 6, but even that’s an inflated number due to a few rare high-level entities. Usually, the ones we encountered were Level 7 or 8. There aren’t any new species here either. The only thing that has actually given us any decent experience so far is the Skeleton Ghost. Statistics
 
@@ -18,13 +18,13 @@ The average rank of monsters that appeared on Skull Island was 6, but even that�
 
 Even Auyen, who wasn’t a combatant, had slipped into the same mood, which only proved how dull it was to wander around like this with no clear purpose.
 
-At first, they were all fired up because of the competition…
+At first, they were all fired up because of the competition...
 
 Well, it wasn’t hard to understand.
 
 It had already been two days since that encounter.
 
-“…You don’t think they’ve found it yet either, right?”
+“...You don’t think they’ve found it yet either, right?”
 
 “They haven’t. If the cave had opened, we would’ve noticed from here.”
 
@@ -34,13 +34,13 @@ I almost dismissed Raven’s question with a scoff, but thinking about it, it wa
 
 “I mean, they had those with them too. And quite a lot of them, at that.” Raven insisted
 
-“Ah, that…”
+“Ah, that...”
 
 The “thing” Raven was referring to was a Numbers Item. We couldn’t be completely certain they had it, but the chances were high that they did.
 
 “Yeah. Didn’t you agree too, Mr. Jandel? Without that item, it wouldn’t make sense for them to stay hidden from us.”
 
-Well… that’s true.
+Well... that’s true.
 
 Detection was only a secondary skill. Since Erwin and Amelia were primarily combat-focused, I could excuse them for not picking up on our opponents. But Beleg, who joined us this time, is an explorer with the nickname ‘The Tracker.’
 
@@ -70,7 +70,7 @@ If they used that, then hiding that many people would make sense.
 
 Looking back, they had all been standing still at the time. They only revealed themselves when we reached the cave entrance, and some of my other clan members even said they spotted similar insignias on them. Standardized& Admissions Tests
 
-The problem is… to hide all ninety of them, they’d need at least three of those. It wasn’t so much about how they managed to obtain something so valuable, but about the kind of person this Golden Ghost was, to have secured three of them in the first place. No matter how I looked at it, their intentions didn’t seem..
+The problem is... to hide all ninety of them, they’d need at least three of those. It wasn’t so much about how they managed to obtain something so valuable, but about the kind of person this Golden Ghost was, to have secured three of them in the first place. No matter how I looked at it, their intentions didn’t seem..
 
 If this theory is true, I’m more curious about something else.
 
@@ -80,7 +80,7 @@ At that moment, Beleg suddenly stopped walking and whispered to me.
 
 “I told you to call me Captain.”
 
-“…People are approaching.”
+“...People are approaching.”
 
 “How many?”
 
@@ -102,7 +102,7 @@ After waiting a short while, a team of explorers wearing the Golden Tree Clan’
 
 And then—
 
-“…Jandel?”
+“...Jandel?”
 
 “Abman.”
 
@@ -110,19 +110,19 @@ A completely unexpected reunion.
 
 I had seen him briefly when we faced off in front of the cave, but it wasn’t a situation where we could exchange proper greetings.
 
-Anyway, once I realised what was going on, I couldn’t help but laugh dryly. Judging by how flustered he was, it didn’t seem like he had come looking for me on purpose….
+Anyway, once I realised what was going on, I couldn’t help but laugh dryly. Judging by how flustered he was, it didn’t seem like he had come looking for me on purpose....
 
 “Looks like you got lost.”
 
-“…That’s not possible. We were just passing through.”
+“...That’s not possible. We were just passing through.”
 
 Hmm? Given his abilities, it was obvious he was their team’s scout.
 
 Back when we were Team Apple Narak, we already had a proper scout, yet I still had to learn navigation from Rotmiller.
 
-Well, looking back, that worked out for the best…
+Well, looking back, that worked out for the best...
 
-“Ugh… again?”
+“Ugh... again?”
 
 One of his teammates sighed.
 
@@ -132,11 +132,11 @@ Ours had been mixed with affection.
 
 “Didn’t you hear the captain? He said to avoid contact as much as possible.”
 
-“Ah…”
+“Ah...”
 
 “Did you do this on purpose? Trying to meet your old friend and chat?”
 
-“N-no…! Of course not…! This is just a coincidence!”
+“N-no...! Of course not...! This is just a coincidence!”
 
 “What coincidence? This is just your incompetence.”
 
@@ -146,7 +146,7 @@ Even from that short exchange, I could tell what kind of relationship they had w
 
 And perhaps because he knew that, Mr. Bear glanced at us uncomfortably.
 
-No—more precisely…
+No—more precisely...
 
 It was the expression of someone who didn’t want to be seen like this.
 
@@ -156,9 +156,9 @@ No one wants their friends or family to see them being belittled by their superi
 
 They were likely holding back because I was present.
 It was a harsh truth that the most brutal and humiliating acts were carried out where no one else could witness them.
-“Anyway, I apologize, Baron. We didn’t come to interfere… as you can see, this was his mistake.”
+“Anyway, I apologize, Baron. We didn’t come to interfere... as you can see, this was his mistake.”
 
-“…I have no intention of blaming anyone. Don’t worry about it.”
+“...I have no intention of blaming anyone. Don’t worry about it.”
 
 “That’s a relief. You heard him. Let’s go.”
 
@@ -168,9 +168,9 @@ I could force a short conversation if I wanted, but that wouldn’t be good for 
 
 They might accuse him of passing us information.
 
-Just as I was about to send them on their way…
+Just as I was about to send them on their way...
 
-“…Tch. How did a loser like him end up on our team?”
+“...Tch. How did a loser like him end up on our team?”
 
 That muttered remark was far too loud to be just to himself.
 
@@ -178,7 +178,7 @@ That muttered remark was far too loud to be just to himself.
 
 With a single slash, an ice wall rose up in front of the group as they turned to leave.
 
-“You… what did you just say?”
+“You... what did you just say?”
 
 Misha had snapped.
 
@@ -240,7 +240,7 @@ It was Mr. Bear.
 
 His voice was so firm that Misha looked stunned.
 
-“…Why?”
+“...Why?”
 
 She didn’t understand why he had shut her down so coldly.
 
@@ -256,7 +256,7 @@ The team leader did.
 
 “Whether you repay it or not doesn’t matter. In exchange for the loan, he agreed to complete a set number of expeditions. This is his first. After this, he still has twenty-three more to go.”
 
-“So… that’s why you treat him like that? Because he can’t leave…?”
+“So... that’s why you treat him like that? Because he can’t leave...?”
 
 “I don’t know what you’re talking about.”
 
@@ -274,7 +274,7 @@ As I stepped back, the team leader nodded, and it seemed like the incident would
 
 But perhaps she couldn’t let it go—
 
-“…Why do you act like that?”
+“...Why do you act like that?”
 
 Misha called out to them again as they turned to leave.
 
@@ -284,7 +284,7 @@ It didn’t look like Misha would attack them outright.
 
 “I don’t understand what you mean.”
 
-“I’m asking why you act like that. You’re teammates, aren’t you…? Then why do you look down on him and treat him like that…? Is that… is that fun for you?”
+“I’m asking why you act like that. You’re teammates, aren’t you...? Then why do you look down on him and treat him like that...? Is that... is that fun for you?”
 
 Her question was so pure that the team leader looked
 momentarily stunned.
@@ -293,7 +293,7 @@ Then his expression hardened.
 
 “How nice. You must be living in a world completely separate from ours.”
 
-“…What?”
+“...What?”
 
 “We’ll be going now.”
 
@@ -301,11 +301,11 @@ With that, they disappeared back into the brush they had come from.
 
 Misha bit her lip, still upset.
 
-“Bjorn…”
+“Bjorn...”
 
 “Don’t worry. I have a plan.”
 
-“…R-Really?”
+“...R-Really?”
 
 It wasn’t a plan I’d had from the start; I just came up with it now.
 

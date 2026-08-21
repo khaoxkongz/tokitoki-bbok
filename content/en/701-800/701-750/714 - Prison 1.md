@@ -10,13 +10,13 @@ Did I just get hit?
 
 Why can’t I put any strength into my body?
 
-‘…Huh?’
+‘...Huh?’
 
-Am I… going to die like this?
+Am I... going to die like this?
 
 Just like that?
 
-Such a pointless death…?
+Such a pointless death...?
 
 Crunch!!!
 
@@ -38,7 +38,7 @@ This was Rapdonia. A cold-blooded world where a single mistake leads to death.
 
 “Baron Jandel is running amok!!”
 
-Right, so….
+Right, so....
 
 CRACK—!
 
@@ -54,7 +54,7 @@ The eyes of the Orcules members went wide and the faces of my search squad turne
 
 Just in case, I struck a few more times.
 
-“……”
+“......”
 
 When the faint screams finally stopped and only the wet sound of something being mashed like mud remained.
 
@@ -62,7 +62,7 @@ SQUELCH!
 
 Feeling that unique sensation through my fingertips, I finally backed away, pretending to yield to the soldiers restraining me.
 
-“Baron… what in the world have you done.”
+“Baron... what in the world have you done.”
 
 Knight Gramps rushed towards me with a complicated expression, not even checking the Vice-Commander’s condition.
 
@@ -70,11 +70,11 @@ His years of experience had told him instantly.
 
 With a skull wrecked like that, the guy was a goner even if a High Priest were standing right in front of him.
 
-“To execute the most valuable prisoner without any formal procedure… depending on how it’s viewed, this could even be interpreted as treason.”
+“To execute the most valuable prisoner without any formal procedure... depending on how it’s viewed, this could even be interpreted as treason.”
 
 “Ah, my apologies. He insulted me to my face, and I couldn’t control my anger.”
 
-“Insulted you…?”
+“Insulted you...?”
 
 “That bastard looked at me, sneered, and called me a coward.”
 
@@ -92,7 +92,7 @@ Okay. That’s enough.
 
 When I cut off the knight’s testimony and shouted in a fury, Knight Gramps clutched his forehead.
 
-“……Fine. The reason doesn’t matter.”
+“......Fine. The reason doesn’t matter.”
 
 “Oh, so you’re going to let it slide?”
 
@@ -104,7 +104,7 @@ In fact, he seemed to view me even more favourably.
 
 “Still, I’ve learned one thing.”
 
-“…?”
+“...?”
 
 “Honestly, I was worried because you are from a different race, but your patriotism is beyond doubt.”
 
@@ -116,7 +116,7 @@ I wasn’t sure, but I realised one thing.
 
 Royal Gramps clearly wasn’t fond of the Marquis, who was serving as the King’s proxy.
 
-‘…I’ve gained a surprisingly reliable ally from an unexpected place.’
+‘...I’ve gained a surprisingly reliable ally from an unexpected place.’
 
 Perhaps today’s incident will end without too much trouble after all.
 
@@ -128,7 +128,7 @@ A knight who had been handling the vice-captain’s corpse ran over urgently and
 
 “H-he’s alive!!”
 
-“……Huh?”
+“......Huh?”
 
 “Demon Eye, Roland Banozant is still alive!”
 
@@ -136,20 +136,20 @@ No way, you’ve got to be kidding.
 
 “Are you certain?!”
 
-……He survived that?
+......He survived that?
 ***
 
 Sometimes in the movies, you see scenes like that. Just when you think, ‘Did I get him?’, the enemy you thought was dead gets back up and enters a second phase.
 
 Of course, this situation was different.
 
-“……Keuh, keuheuhk.”
+“......Keuh, keuheuhk.”
 
 Far from coming back stronger, he was barely alive, vomiting blood and rolling around on the ground.
 
 Naturally, there was no second phase. The only difference was that Knight Gramps was standing in front of me, just in case I caused another scene.
 
-Huh… What do I do now?
+Huh... What do I do now?
 
 While I was thinking that, the knights who had received Knight Gramps’ signal swiftly loaded the vice commander onto the carriage and departed.
 
@@ -163,11 +163,11 @@ The reason he survived in that condition wasn’t because I was weak, but becaus
 
 But one thing still puzzled me.
 
-“……How on earth did he survive?”
+“......How on earth did he survive?”
 
 “If we find out through the investigation later, I’ll let you know. So you stay here, calm down a bit, and then return to the military headquarters. I’ll speak to the Marquis.”
 
-So even Knight Gramps didn’t know how the vice-captain had survived. Well… it was probably an item or some kind of essence.
+So even Knight Gramps didn’t know how the vice-captain had survived. Well... it was probably an item or some kind of essence.
 
 ‘He said he’d let me know later, so I’ll hear about it then.’
 
@@ -175,17 +175,17 @@ So even Knight Gramps didn’t know how the vice-captain had survived. Well… i
 
 With that, Knight Gramps also left. I spent some time in the Marquis’s garden organizing my thoughts before inspecting the mansion once more.
 
-I wanted to properly check that hideout where the Noark bastards were hiding…
+I wanted to properly check that hideout where the Noark bastards were hiding...
 
 “So this is what it looks like.”
 
 If the Marquis’s secret study was a workspace, then this place was practically a shelter. You know, like those ‘panic rooms’ they build in foreign houses in case of burglaries
 
-“Nothing special here…”
+“Nothing special here...”
 
 After a quick look around, I told the soldiers to continue the investigation and headed back out with my team towards the royal palace.
 
-And then…
+And then...
 
 “The Commander in Chief has summoned you.”
 
@@ -193,7 +193,7 @@ As expected, I was called to the Marquis the moment I arrived.
 
 “Everyone, leave.”
 
-“But…”
+“But...”
 
 “It’s fine. Don’t make me say it twice.”
 
@@ -203,7 +203,7 @@ The marquiss dismissed all the guard knights, turning our discussion into a priv
 
 Once we were seated, the Marquis glared at me for a moment before speaking.
 
-“So… you really discovered them while searching my estate?”
+“So... you really discovered them while searching my estate?”
 
 “I was lucky.”
 
@@ -227,7 +227,7 @@ Not wanting to waste time on a meaningless Q&A session, I got straight to the po
 
 “You mean that Demon Eye whom you tried to kill so abruptly?”
 
-“…It was an impulsive action.”
+“...It was an impulsive action.”
 
 “Hm. Even if that’s what you say, there are still motives that can be logically inferred from your actions. For example, the need to silence him.”
 
@@ -237,7 +237,7 @@ It’s not something a tank should say, but the best defense is a good offense.
 
 “Well, from that perspective, aren’t you the most suspicious one?”
 
-“……?”
+“......?”
 
 “Compared to me, who smashed the vice commander’s head, you look far more suspicious for hiding Noark’s special forces within your estate.”
 
@@ -245,7 +245,7 @@ This wasn’t something I made up just to attack him. I genuinely found it suspi
 
 At first, I had thought the Noarkans had infiltrated the Marquis’s estate without his knowledge.
 
-But…
+But...
 
 [Very well. We surrender.]
 
@@ -253,19 +253,19 @@ No matter how I looked at it, the vice-commander could only have made that choic
 
 By process of elimination, the most likely candidate was him.
 
-“…I did not hide them.”
+“...I did not hide them.”
 
 “Then what happened to those who were captured?”
 
 “They are currently imprisoned in the underground prisons. Interrogators from the Intelligence Bureau will begin intense questioning soon.”
 
-“I see… is that so…”
+“I see... is that so...”
 
 I let the topic drop there and returned to what we had been discussing earlier.
 
 “In any case, I kept my end of the deal. Now send me back to District Seven.”
 
-“…That won’t be possible.”
+“...That won’t be possible.”
 
 “Why not?”
 
@@ -291,7 +291,7 @@ What mattered was time.
 
 And even more than that, the Marquis’s intention.
 
-“Two days…”
+“Two days...”
 
 Damn it. What should I do?
 
@@ -307,11 +307,11 @@ If I deserted here or refused the punishment, things could easily turn out even 
 
 He even said I wouldn’t need to be shackled while I stayed. If things went south, I could just break the iron bars and escape.
 
-Yeah, so…
+Yeah, so...
 
 “Two days. Exactly two days.”
 
-“…You’ve made a wise decision.”
+“...You’ve made a wise decision.”
 
 Let’s observe the situation for a bit.
 

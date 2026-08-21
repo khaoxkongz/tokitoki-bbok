@@ -10,11 +10,11 @@ Bifron was also one of the candidates for our escape route, as we could reach Di
 
 “That’s not a problem. There’s a secret passage in the sewers that bypasses the barrier.”
 
-“There’s something like that…?”
+“There’s something like that...?”
 
 “Yes, I was exiled here once for twenty days and accidentally discovered it.”
 
-“Ah! That time! I remember now! I was so worried back then…”
+“Ah! That time! I remember now! I was so worried back then...”
 
 Although we had secured a passage into Bifron, it wasn’t our final route. There were too many soldiers crawling around in the sewers. So, aiming for the walls directly seemed like the better option.
 
@@ -24,7 +24,7 @@ And most of all, there was the issue of Bifron itself.
 
 “Bi—Bifron?”
 
-“…I don’t feel great about going there.”
+“...I don’t feel great about going there.”
 
 “We don’t even have antidotes right now!”
 
@@ -32,13 +32,13 @@ To execute our escape plan, we needed manpower, but most explorers were extremel
 
 Well, I’d probably feel the same if I had to enter a radioactive zone without protective gear.
 
-‘……I can’t exactly say there’s no witch’s poison either.’
+‘......I can’t exactly say there’s no witch’s poison either.’
 
 Even though I knew the world outside the walls was safe, as a noble, I can’t just say that.
 
 There’s a big difference between a rumor and a noble publicly confirming it.
 
-‘…Well, it’s not like it’s completely false, either.’
+‘...Well, it’s not like it’s completely false, either.’
 
 The outside is fine.
 
@@ -68,7 +68,7 @@ For someone like me, who had built up considerable defensive stats, it was manag
 
 Still, it was a little frustrating.
 
-‘They said they wouldn’t stop us if we went to Bifron…’
+‘They said they wouldn’t stop us if we went to Bifron...’
 
 Maybe that promise only applied to the soldiers stationed at the walls. Or maybe communication broke down somewhere along the chain of command.
 
@@ -92,7 +92,7 @@ Badump—
 
 I suddenly craved a cigarette, though I had never smoked in my life.
 
-‘…How many died?’
+‘...How many died?’
 
 Sacrifices are inevitable.
 
@@ -106,7 +106,7 @@ Even though I knew that, decisions like this always weighed heavily on me.
 
 I kept telling myself that, but part of me still wondered—
 
-‘…‘…If we had just taken the wall when they let us, maybe some of them would’ve lived.’
+‘...‘...If we had just taken the wall when they let us, maybe some of them would’ve lived.’
 
 Not that I regretted my decision.
 
@@ -114,7 +114,7 @@ It just makes me want to live even harder going forward.
 
 I just needed to be stronger. Then I wouldn’t have had to give anything up in this place.
 
-So…
+So...
 
 Crunch—
 
@@ -126,7 +126,7 @@ Too easy. Almost too easy.
 
 “W-What is this?!”
 
-“Fall back! Get away…!!”
+“Fall back! Get away...!!”
 
 With Aegis’s wall active, there was no stopping me in a narrow hallway like this.
 
@@ -150,9 +150,9 @@ So, we slowed our pace and moved more comfortably.
 
 I asked Versil, who was overseeing personnel management.
 
-She didn’t know the exact numbers, but…
+She didn’t know the exact numbers, but...
 
-“The lower-ranking explorers, Rank 7 and below, took the biggest hit. I tried to assign them to safer positions, but…”
+“The lower-ranking explorers, Rank 7 and below, took the biggest hit. I tried to assign them to safer positions, but...”
 
 “I see.”
 
@@ -162,21 +162,21 @@ Even the rough estimates brought a bitter feeling.
 
 I should be numb to it by now. But maybe it’s my age catching up to me, those numbers don’t feel like just numbers anymore.
 
-“…What are you thinking, Jandel?”
+“...What are you thinking, Jandel?”
 
 “Nothing.”
 
-“……”
+“......”
 
 After traveling through the secret passage for a while, we finally entered Bifron’s sewer system.
 
-And then…
+And then...
 
 “Jandel, people.”
 
 The moment we arrived, we ran into unfamiliar faces.
 
-Fortunately, they weren’t Noark soldiers, but…
+Fortunately, they weren’t Noark soldiers, but...
 
 “B-Boss?
 
@@ -186,21 +186,21 @@ Surprisingly, I recognized them.
 
 I immediately grabbed one by the scalp and yanked, revealing the man with the familiar jellyfish haircut as his wig came off.
 
-His name was…
+His name was...
 
-“…Jingjing?”
+“...Jingjing?”
 
-“…Y-Yes! It’s me! Jingkasar Feljain! Your loyal right-hand man, boss!”
+“...Y-Yes! It’s me! Jingkasar Feljain! Your loyal right-hand man, boss!”
 
 Right-hand man? I barely remembered his full name.
 
 He was just some guy who used to serve me when I was in Bifron a few years back.
 
-But pleasant surprises aside…
+But pleasant surprises aside...
 
 “So what the hell are you doing here alone?” I asked Jingjing
 
-“Ah… The atmosphere felt off. I was trying to find a way out of Bifron.”
+“Ah... The atmosphere felt off. I was trying to find a way out of Bifron.”
 
 Come to think of it, he knew about the secret passage thanks to me.
 
@@ -218,9 +218,9 @@ Hmm, had he? He does look balder than before.
 
 “It’s not like I could survive alone. I just wanted to get out and confirm what was happening outside!”
 
-“So that’s how you’ve changed, huh…”
+“So that’s how you’ve changed, huh...”
 
-“Eh? Then what kind of change did you think I meant…?”
+“Eh? Then what kind of change did you think I meant...?”
 
 “Whatever. I’ve got some questions, so just answer them.”
 
@@ -228,15 +228,15 @@ Since I had found a local, I immediately started checking the city’s status.
 
 Maybe the Noark forces had already invaded this place too.
 
-But…
+But...
 
-“Noark…? You mean they caused all this?”
+“Noark...? You mean they caused all this?”
 
 Jingjing hadn’t even realized the current chaos was because of Noark.
 
 Had the royal family not told the citizens anything?
 
-“Well… all of a sudden, chaos broke out and the soldiers locked the checkpoint gates, then just told us to stay put. Haven’t heard a word since. But there’s constant fighting near the walls… The residents were terrified.”
+“Well... all of a sudden, chaos broke out and the soldiers locked the checkpoint gates, then just told us to stay put. Haven’t heard a word since. But there’s constant fighting near the walls... The residents were terrified.”
 
 Even for Bifron, this was outrageous.
 
@@ -244,11 +244,11 @@ They could have at least told people that war had broken out.
 
 “So that’s why you said you were trying to get out to learn more.”
 
-“Yes… I had no idea things were this bad. Noark actually invaded…? H-How bad is it?”
+“Yes... I had no idea things were this bad. Noark actually invaded...? H-How bad is it?”
 
 “Zones 7 and 13 have been taken. We just barely escaped from Zone 7 ourselves.”
 
-“Wh-What…?!”
+“Wh-What...?!”
 
 Jingjing’s mouth dropped open at the news that two city districts had fallen, but there was no time to wait for him to recover from his shock.
 
@@ -262,7 +262,7 @@ I started with whether any suspicious figures had appeared recently and how the 
 
 “Good.”
 
-“And the atmosphere changed too. If any goods were left over, people would even ask the guards to exchange them for books…”
+“And the atmosphere changed too. If any goods were left over, people would even ask the guards to exchange them for books...”
 
 “Books?”
 
@@ -270,7 +270,7 @@ I started with whether any suspicious figures had appeared recently and how the 
 
 “Why?”
 
-“…So at least the kids might have a shot at living in the city someday. People like us don’t have much time left, after all…”
+“...So at least the kids might have a shot at living in the city someday. People like us don’t have much time left, after all...”
 
 I stopped walking and looked at him.
 
@@ -280,21 +280,21 @@ I stopped walking and looked at him.
 
 “You really have changed.”
 
-He flinched when I called his name for the first time, then gave a self-deprecating smile. “Many years have passed, y’know…”
+He flinched when I called his name for the first time, then gave a self-deprecating smile. “Many years have passed, y’know...”
 
 “Yeah.”
 
-“And look at you, Boss. You became a baron recently…? Oh, this way leads straight to the dimensional square!”
+“And look at you, Boss. You became a baron recently...? Oh, this way leads straight to the dimensional square!”
 
 We followed a shortcut he knew and emerged to the surface, a seemingly different yet familiar Bifron greeted me.
 
-“…This place has changed too.”
+“...This place has changed too.”
 
 It looked so much cleaner.
 
 When I last came here, even the closed-off dimensional square was so neglected it was practically in ruins.
 
-“Everyone worked hard to make it happen…”
+“Everyone worked hard to make it happen...”
 
 Though Jingjing said that, it wasn’t hard to tell that he was the one who had worked the hardest.
 
@@ -302,13 +302,13 @@ Though Jingjing said that, it wasn’t hard to tell that he was the one who had 
 
 “Wow! It’s Uncle Felzain!”
 
-“Uncle!! …Huh?”
+“Uncle!! ...Huh?”
 
 The children playing in the square immediately greeted Jingjing warmly the moment they saw him.
 
 “Don’t be scared! This is Jandel’s son, Bjorn, that Giant Baron himself!”
 
-…Huh?
+...Huh?
 
 “Wooooow, really?!”
 
@@ -322,13 +322,13 @@ Honestly, this wasn’t an unfamiliar situation.
 
 Kids in the city loved anything “big” and “explorers.” Ever since I gained fame, I’d been met with these kinds of stares wherever I went in the city.
 
-But…
+But...
 
 “Giant Baron! Thank you!”
 
 I think this was the first time I’d ever heard words like that.
 
-“Why are you thanking… me?”
+“Why are you thanking... me?”
 
 Hearing my mutter, Jingjing smiled sheepishly.
 
@@ -338,11 +338,11 @@ Hearing my mutter, Jingjing smiled sheepishly.
 
 “Kids need hope. Besides, it’s not like it’s a lie, is it?”
 
-“…?”
+“...?”
 
 “Bifron only changed because of you, Boss.”
 
-“…Ahem.”
+“...Ahem.”
 
 So he changed, huh? He sure got better at flattery.
 
@@ -354,7 +354,7 @@ Now that we’d arrived at our destination, I started with reorganizing.
 
 I had the wounded lie down in the square to be treated by the priests, and those who still had energy were assigned to scout the area.
 
-And then…
+And then...
 
 “Feljain, you’re coming with me.”
 
@@ -362,9 +362,9 @@ Taking only Jingjing with me, I headed toward the 4th District checkpoint.
 
 Since the 13th and 7th Districts were occupied, I judged that we might be able to make contact with the city through here.
 
-But…
+But...
 
-“…No one’s here.”
+“...No one’s here.”
 
 What’s going on?
 
@@ -372,17 +372,17 @@ No matter how much I shouted or banged on the walls, there was no response.
 
 Even when I announced my name and status, thinking they might be ignoring us because we were locals, it was the same.
 
-“This checkpoint has been closed for a long time…”
+“This checkpoint has been closed for a long time...”
 
 “I know it’s usually closed.”
 
-“Then why is it like this…?”
+“Then why is it like this...?”
 
-Well, given the situation…
+Well, given the situation...
 
 Even though the fourth district checkpoint was usually closed, I thought they might have stationed someone here under these circumstances.
 
-“Sigh…”
+“Sigh...”
 
 This was becoming a real headache.
 
@@ -396,7 +396,7 @@ Why has the royal family completely neglected this area?
 
 If I were the commander, I would’ve reactivated the Zone 4 checkpoint and immediately deployed troops through Bifron to expand the front line around Zones 7 and 13 as much as possible.
 
-‘…And what about those Noarc bastards?’
+‘...And what about those Noarc bastards?’
 
 They’re just as baffling.
 
@@ -404,13 +404,13 @@ Even after seizing control of Zone 7, they didn’t station a single soldier nea
 
 As if they were completely confident that the royal family wouldn’t attack from this direction.
 
-“……”
+“......”
 
 But the more questions I had, the clearer one thing became.
 
 There’s a secret here in Bifron that I don’t know about yet.
 
-Yes, that’s why…
+Yes, that’s why...
 
 Tap. Tap.
 

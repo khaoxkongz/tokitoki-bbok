@@ -14,11 +14,11 @@ Yeah, that’s right. So it can’t be helped.
 
 If even those incredible people made mistakes, then of course someone like me—a loser—would be no exception.
 
-“…Me.”
+“...Me.”
 
 Misha Kalstein muttered quietly to herself.
 
-“What the hell am I even doing…?”
+“What the hell am I even doing...?”
 
 It had become her daily routine for the past few days.
 
@@ -52,13 +52,13 @@ After hundreds of deliberations, she had reached the same conclusion.
 
 The moment she made that decision, Misha Karlstein hunched over and clutched her chest with both hands. How-To,DIY & Expert Content
 
-He would… surely want that too.
+He would... surely want that too.
 
 A conclusion she’d reached after hundreds of agonized reflections.
 
 And once again arriving at that same conclusion, Misha curled up and clutched her chest.
 
-“Ah…”
+“Ah...”
 
 It hurt.
 
@@ -72,13 +72,13 @@ It wasn’t because she lacked courage.
 
 It was because she knew.
 
-‘That’s not okay…’
+‘That’s not okay...’
 
 He wouldn’t want that kind of ending.
 
 All their memories would turn into nightmares that would haunt him.
 
-‘Dwalki…’
+‘Dwalki...’
 
 Suddenly, he came to mind.
 
@@ -86,7 +86,7 @@ The noble mage who had sacrificed himself to save everyone in the labyrinth. Mis
 
 She hadn’t known at first. It was only after he had left her side that she learned the truth from the dwarf warrior Hikurod Murad.
 
-He had secretly harbored feelings for her…
+He had secretly harbored feelings for her...
 
 At first, she couldn’t believe it. If he had truly felt that way, why had he hidden it from her?
 
@@ -104,17 +104,17 @@ She thought the explanation was too vague and confusing. If only because she bel
 
 But even at the time, she couldn’t make full sense of his logic. How-To,DIY & Expert Content
 
-At least… until today.
+At least... until today.
 
-“So… this is how it feels…”
+“So... this is how it feels...”
 
 Strictly speaking, she and Dwalki were different.
 
 He had given his life to save everyone. She was just struggling under the weight of her mistakes, trying to run away.
 
-If they weren’t still trapped in the labyrinth…
+If they weren’t still trapped in the labyrinth...
 
-If she hadn’t held onto the faint hope that he might forgive her…
+If she hadn’t held onto the faint hope that he might forgive her...
 
 She probably would have run already—
 
@@ -168,9 +168,9 @@ The man who had coldly turned away from her that day was giving her a chance.
 
 A golden chance to undo all her mistakes and return to how things were.
 
-…And maybe Bjorn, too, deep down, wanted to go back.
+...And maybe Bjorn, too, deep down, wanted to go back.
 
-“Alright… Go ahead. Let’s start.”
+“Alright... Go ahead. Let’s start.”
 
 Misha had no intention of missing this chance.
 
@@ -188,23 +188,23 @@ The current Bjorn reminded her of a watchmaker she had once seen.
 
 Like a watchmaker who disassembled every part of a broken clock to find the cause, Bjorn was checking every little detail.
 
-“Lee Baek-ho… did he ever do anything bad to you?”
+“Lee Baek-ho... did he ever do anything bad to you?”
 
-“Bad…?”
+“Bad...?”
 
-“Like… laying a hand on you or something…”
+“Like... laying a hand on you or something...”
 
-“…N-No! Nothing like that! I swear!”
+“...N-No! Nothing like that! I swear!”
 
 A question that made her feel both wronged and strangely happy—but that wasn’t the point.
 
 “Did you really not know that using the Stone of Resurrection would make you lose your memories?”
 
-“I didn’t know…”
+“I didn’t know...”
 
 “Then why did you hide it from me?”
 
-Like I said back then… he told me something bad would happen to you if you found out…
+Like I said back then... he told me something bad would happen to you if you found out...
 
 That was the part where Bjorn’s emotions had flared up that day.
 
@@ -214,13 +214,13 @@ The memory flashed in Misha’s mind, and before Bjorn could say anything else, 
 
 “I-I thought it was better to be safe than sorry!”
 
-“…Better safe than sorry?”
+“...Better safe than sorry?”
 
-“B-Back then, I didn’t know about the memory loss… No, even if I had known, it wouldn’t have changed anything! It was still better than you dying…!”
+“B-Back then, I didn’t know about the memory loss... No, even if I had known, it wouldn’t have changed anything! It was still better than you dying...!”
 
 “So you believed him just like that?”
 
-“…Lee Baek-ho, he’s strong. And seriously messed up in the head.”
+“...Lee Baek-ho, he’s strong. And seriously messed up in the head.”
 
 That was the real reason she had accepted Lee Baek-ho’s offer.
 
@@ -228,9 +228,9 @@ If she refused, there was no telling what that bastard might do. Maybe the “so
 
 So she took the Stone of Resurrection and returned to Bjorn. After all, having an item that could revive someone she loved couldn’t be a bad thing.
 
-But…
+But...
 
-“Sigh… So that’s everything?”
+“Sigh... So that’s everything?”
 
 There was still one more thing she hadn’t said.
 
@@ -242,9 +242,9 @@ She didn’t know. Misha clenched her eyes shut and spoke.
 
 “I agreed to give him information in exchange for the Stone of Resurrection.”
 
-“…Information?”
+“...Information?”
 
-“He told me to keep an eye on you…”
+“He told me to keep an eye on you...”
 
 Misha cracked one eye open slightly to check Bjorn’s expression. For now, he looked more bewildered than angry.
 
@@ -252,13 +252,13 @@ Misha cracked one eye open slightly to check Bjorn’s expression. For now, he l
 
 “If he had come to you, what would you have done?”
 
-“…I don’t know. I thought I’d just give him some basic info and figure things out later.”
+“...I don’t know. I thought I’d just give him some basic info and figure things out later.”
 
 She felt like she was making excuses, so she quickly added,
 
-“But… I probably would’ve given him the information. But just meaningless stuff anyone could know…!”
+“But... I probably would’ve given him the information. But just meaningless stuff anyone could know...!”
 
-“Hmm…”
+“Hmm...”
 
 Bjorn sighed and rubbed his chin.
 
@@ -282,13 +282,13 @@ She had confessed everything.
 
 That’s what she should have said, but for some reason, her lips trembled without making a sound.
 
-“…….”
+“.......”
 
 The atmosphere, which had been slowly healing, suddenly grew heavy with an indescribable silence.
 
 Bjorn muttered just two words.
 
-“I see…”
+“I see...”
 
 “So there is.”
 
@@ -304,11 +304,11 @@ There’s nothing else I’m hiding.
 
 That’s what she wanted to say, but her lips wouldn’t part.
 
-Why? Had Misplaced Trust been broken? Missha, who no longer had anything to hide, was completely confused—but then…
+Why? Had Misplaced Trust been broken? Missha, who no longer had anything to hide, was completely confused—but then...
 
-But then…
+But then...
 
-‘Ah…’
+‘Ah...’
 
 She realized.
 
@@ -318,7 +318,7 @@ The reason she couldn’t speak was simple.
 
 There was still something she wanted to hide from him.
 
-“Can’t… say it?”
+“Can’t... say it?”
 
 In the suffocating silence, Bjorn spoke again.
 
@@ -328,7 +328,7 @@ She sensed it instinctively.
 
 If she stayed silent now, everything would be over.
 
-“…I-I’m not hiding anything else about Lee Baek-ho.”
+“...I-I’m not hiding anything else about Lee Baek-ho.”
 
 “Then?”
 
@@ -336,7 +336,7 @@ Bjorn’s gaze still held a sliver of expectation, as if he wasn’t ready to gi
 
 “So you’re hiding something unrelated?”
 
-“…Yeah.”
+“...Yeah.”
 
 She nodded, even though her head was full of hesitation.
 
@@ -344,11 +344,11 @@ Could she really say it?
 
 So many better people had entered his life now.
 
-He’d made promises with them…
+He’d made promises with them...
 
 Maybe it would be better for Bjorn if she just disappeared.
 
-“I…”
+“I...”
 
 But her mouth moved on its own.
 
@@ -356,7 +356,7 @@ The lips that had refused to budge just moments ago now parted, spilling out the
 
 “I lied to you before.”
 
-“…?”
+“...?”
 
 At the word lied, Bjorn’s eyebrows twitched.
 
@@ -366,7 +366,7 @@ He hated being deceived more than anything.
 
 Especially now—when everything had to be laid bare.
 
-So…
+So...
 
 This isn’t cowardice.
 
@@ -374,7 +374,7 @@ Erasing even her last lingering attachment, she continued.
 
 She had tried to kill her feelings back on Farune Island, but the thought that he might die at any moment made her want to confess.
 
-“When I said it would be better if we just stayed as comrades…”
+“When I said it would be better if we just stayed as comrades...”
 
 Well, somehow, it had taken this long for her to finally say it.
 
@@ -382,11 +382,11 @@ Well, somehow, it had taken this long for her to finally say it.
 
 They say the best time to do something is when you think it’s too late.
 
-“Come to think of it… I never gave you a proper answer back then, did I?”
+“Come to think of it... I never gave you a proper answer back then, did I?”
 
 Misha lifted her head, meeting his eyes, and spoke as clearly as she could.
 
-“Bjorn Jandel. I… like you too.”
+“Bjorn Jandel. I... like you too.”
 
 The words she hadn’t been able to say when she first realized his feelings.
 
@@ -398,11 +398,11 @@ But she kept speaking.
 
 “I felt that way even before you said anything.”
 
-“And…”
+“And...”
 
 In a voice as quiet as an ant’s footsteps, but as clear as day, she finished.
 
-“I still do now…”
+“I still do now...”
 
 That was the only thing she had been hiding from him.
 
@@ -414,7 +414,7 @@ It’s bright and sunny—but it feels like a storm might break out at any momen
 
 For Erwin, today was one of those days.
 
-“Mister! Are you… up—huh?”
+“Mister! Are you... up—huh?”
 
 She had run over excitedly early in the morning, only to find his room empty.
 
@@ -422,9 +422,9 @@ From that moment on, a sense of dread settled in her.
 
 She searched the building, but Bjorn was nowhere to be found.
 
-“The captain? Hmm… He didn’t say anything. He should be in the buliding…”
+“The captain? Hmm... He didn’t say anything. He should be in the buliding...”
 
-“Really? I’ve checked all the rooms…”
+“Really? I’ve checked all the rooms...”
 
 “Maybe he stepped out for a bit?”
 
@@ -466,13 +466,13 @@ Erwin typically held back her sharp sense of hearing, but now she let it take ov
 
 And in that instant—
 
-“Bjorn Jandel. I… like you too.”
+“Bjorn Jandel. I... like you too.”
 
 A familiar voice reached her ears.
 
 She instantly recognized who it was, but couldn’t make sense of the words.
 
-What… did she just say?
+What... did she just say?
 
 Thinking she might’ve misheard, she focused even more intently.
 
@@ -480,15 +480,15 @@ Thinking she might’ve misheard, she focused even more intently.
 
 “I felt that way even before you said anything.”
 
-“And… I still do now…”
+“And... I still do now...”
 
 Her mind still refused to process it.
 
-Because wasn’t this… a love confession?
+Because wasn’t this... a love confession?
 
-Something she herself had never done before…
+Something she herself had never done before...
 
-‘Who does she think she is…?’
+‘Who does she think she is...?’
 
 It was absurd. Infuriating.
 
@@ -496,23 +496,23 @@ Wasn’t this the same woman who had vanished without a trace the moment she hea
 
 The ever-kind and naive Bjorn might have taken her back out of sentimentality, but Erwin hadn’t forgotten.
 
-But…
+But...
 
-[Bjorn Jandel. I… like you too.]
+[Bjorn Jandel. I... like you too.]
 
 That first sentence kept echoing in her mind.
 
 It was only then that Erwin noticed something odd.
 
-‘“Too”…?’
+‘“Too”...?’
 
 The beast woman from the Red Cat Tribe had said she liked him too.
 
 And “me too” is something you say when you’re agreeing with what someone else just said.
 
-Which meant…
+Which meant...
 
-“…Mister said it first?”
+“...Mister said it first?”
 
 Was it because the idea was so unbelievable?
 
@@ -530,16 +530,16 @@ Caught up in fantasy, imagining a conversation with him.
 
 The proof? Since that statement, not a single word had come from the room. LanguageResources
 
-“Still… kind of pitiful, I guess.”
+“Still... kind of pitiful, I guess.”
 
 It was the kind of behavior most people would struggle to understand, but Erwin had done something similar before when she was going through a hard time. So in a way, she could relate—just a little.
 
-Sigh… So where did Mister go, then…?
+Sigh... So where did Mister go, then...?
 
 Feeling like she had overheard something she shouldn’t have, Erwin turned away. She was about to dial her heightened hearing back to normal—
 
 No, more accurately, she was about to.
 
-“…I see.”
+“...I see.”
 
 A familiar voice reached her ears from inside the room.

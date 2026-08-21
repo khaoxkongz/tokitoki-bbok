@@ -4,7 +4,7 @@ Amelia Rainwhales.
 
 A highly talented individual who can use aura and is a competent guide.
 
-Her class is…
+Her class is...
 
 “Probably something like a Clone Thief.”
 
@@ -16,15 +16,15 @@ The Essence of the Rank-5 monster Kaprabara with a passive that prevents the mon
 
 It would have been quite useful when she was moving alone, but now that she’s with us, it’s an unnecessary Essence.
 
-Well, there was another Essence with a similar effect, but…
+Well, there was another Essence with a similar effect, but...
 
 “Emily, erase Esgen’s Essence too when we get back to the city.”
 
-“Esgen’s Essence…?”
+“Esgen’s Essence...?”
 
 “What’s with that surprised face? Like I said before, your solo days are over now.”
 
-“…I’ll think about it.”
+“...I’ll think about it.”
 
 What do you mean, I’ll think about it.
 
@@ -36,7 +36,7 @@ If you have companions, Esgen’s Essence can easily be replaced with potions or
 
 But why is she so fixated on this Essence?
 
-‘…Does she still not fully trust us?’
+‘...Does she still not fully trust us?’
 
 Hmm, maybe that’s it.
 
@@ -51,7 +51,7 @@ I ended the conversation, deciding to persuade her gradually on this issue.
 
 Just as I was about to move on to talk about the boss—
 
-“Looks like… things worked out, huh?”
+“Looks like... things worked out, huh?”
 
 Amelia suddenly threw out a random comment.
 
@@ -65,13 +65,13 @@ Come to think of it, I hadn’t really updated her since then. She must’ve bee
 
 “Thanks to you, it was resolved well. I confirmed that she’s hiding nothing—”
 
-“…You got confessed to.”
+“...You got confessed to.”
 
-“…Huh?”
+“...Huh?”
 
-“I heard… Kalstein confessed to you.”
+“I heard... Kalstein confessed to you.”
 
-Uhhh…
+Uhhh...
 
 I couldn’t help but feel genuinely flustered.
 
@@ -81,15 +81,15 @@ I couldn’t help but feel genuinely flustered.
 
 “I heard it from Tercia.”
 
-“From Erwin…?”
+“From Erwin...?”
 
 “She said she was looking for you that day and overheard your conversation inside the room.”
 
-“Ah…”
+“Ah...”
 
 As I stood there dumbfounded, Amelia cautiously asked,
 
-“So… what did you say in response?”
+“So... what did you say in response?”
 
 I considered whether it was okay to talk about it without Misha’s permission, While I hesitated, I decided to honestly recount the events of that day.
 
@@ -103,19 +103,19 @@ After all, I did receive Amelia’s help in this matter.
 
 “Sounds like a mud fight waiting to happen.”
 
-“…Huh?”
+“...Huh?”
 
 “No, just talking to myself.”
 
 It was so ominous that I asked what she meant, but she refused to elaborate and changed the subject.
 
-“Jandel, just to check…”
+“Jandel, just to check...”
 
 Her voice grew serious, and I already felt uneasy about what she was going to say—
 
-“Do you, perhaps… like men?”
+“Do you, perhaps... like men?”
 
-“…What?”
+“...What?”
 
 “Don’t worry. I don’t have any prejudice about that. I’ve met people in Noarc who—”
 
@@ -128,15 +128,15 @@ Suppressing something boiling deep inside me, I barely managed to speak.
 
 “I like women. A lot.”
 
-“…Oh, is that so? Ah… well, I didn’t know it was a lot—”
+“...Oh, is that so? Ah... well, I didn’t know it was a lot—”
 
 “So don’t ever say something like that to me again. It was even more humiliating than when you called me ‘Hans’ by mistake.”
 
-“…Sorry. I’ll be careful. It won’t happen again. Really. I swear on my sister.”
+“...Sorry. I’ll be careful. It won’t happen again. Really. I swear on my sister.”
 
 Her swift and sincere apology made me sigh and swallow my anger.
 
-“Sigh…”
+“Sigh...”
 
 It’s really strange.
 
@@ -144,7 +144,7 @@ It’s not like I particularly hate homosexuals or anything, so why did that mak
 
 I don’t know, but Amelia, while watching my reaction, continued what she wanted to say.
 
-“Anyway… if that’s the case, then it’s a relief.”
+“Anyway... if that’s the case, then it’s a relief.”
 
 “A relief?”
 
@@ -154,11 +154,11 @@ I don’t know, but Amelia, while watching my reaction, continued what she wante
 
 I tilted my head, and Amelia averted her gaze.
 
-“I mean… I don’t know about your original world… but in this one, it’s okay.”
+“I mean... I don’t know about your original world... but in this one, it’s okay.”
 
-“…?”
+“...?”
 
-“No one will mind, even if you like women… a lot.”
+“No one will mind, even if you like women... a lot.”
 
 How the heck did the conversation get here?
 
@@ -174,7 +174,7 @@ I was also a pure-blooded Korean, who had inherited the surname Lee of the Joseo
 
 This is an absolutely unacceptable topic.
 
-“Gal…?”
+“Gal...?”
 
 A Confucian war cry Amelia had never heard before.
 
@@ -182,7 +182,7 @@ As someone with the duty to benefit the world, I quickly explained the meaning b
 
 “It’s a common phrase in my world when scolding someone.”
 
-“…Did I say something worthy of scolding?”
+“...Did I say something worthy of scolding?”
 
 Hoho, you still don’t understand the principle?
 
@@ -192,19 +192,19 @@ I had every reason to be even harsher with her, but since she’s a precious com
 
 At my words, Amelia seemed confused.
 
-“Your royal family…?”
+“Your royal family...?”
 
 “I didn’t tell you because I thought it might burden you, but my surname ‘Lee’ signifies the bloodline of the Joseon royal family.”
 
-“Are you saying… you’re royalty right now?”
+“Are you saying... you’re royalty right now?”
 
-“………………Well, a collateral branch.”
+“..................Well, a collateral branch.”
 
 I felt a bit guilty, but technically it wasn’t a lie. I could interpret my lineage like that.
 
 Given my monoethnic background, there was a chance that my lineage included some royal blood.
 
-“…Royalty. I’m surprised.”
+“...Royalty. I’m surprised.”
 
 Amelia accepted it more easily than I expected.
 
@@ -212,11 +212,11 @@ However, one thing seemed to puzzle her.
 
 “But didn’t you say the country you lived in was called Korea?”
 
-“Joseon is… an ancient kingdom that has already fallen.”
+“Joseon is... an ancient kingdom that has already fallen.”
 
-“I see… So you were the descendant of a fallen ancient kingdom.”
+“I see... So you were the descendant of a fallen ancient kingdom.”
 
-Uh…
+Uh...
 
 “Yeah.”
 
@@ -224,9 +224,9 @@ There’s room for that interpretation too.
 
 It’s a cooler identity than just being some commoner with the surname Lee.
 
-“Now it makes sense. Why you were so obsessed with survival… You must have grown up in an environment where you had no choice. And you must have felt a sense of duty too.”
+“Now it makes sense. Why you were so obsessed with survival... You must have grown up in an environment where you had no choice. And you must have felt a sense of duty too.”
 
-“……”
+“......”
 
 I decided to keep my mouth shut.
 
@@ -242,7 +242,7 @@ In reality, Joseon practiced polygamy.
 
 Not just wives—there were concubines. Lots of them.
 
-Is polygamy… actually a pretty foundational system?
+Is polygamy... actually a pretty foundational system?
 
 The thought suddenly crossed my mind, but I shook my head vigorously.
 
@@ -250,7 +250,7 @@ No, that can’t be.
 
 The current royal family, the K-government, which inherited Confucian values, enforces monogamy.
 
-‘…But this is a different world, isn’t it?’
+‘...But this is a different world, isn’t it?’
 
 Come to think of it, in Korea under the K-government’s rule, murder is treated as a capital crime.
 
@@ -264,7 +264,7 @@ No need to make excuses about Confucianism or social systems. I was just born in
 
 But maybe she noticed.
 
-“…Is this a sensitive topic for you? Sorry.”
+“...Is this a sensitive topic for you? Sorry.”
 
 Amelia apologized again, and since I might have overreacted, I accepted it.
 
@@ -280,7 +280,7 @@ A strangely solemn tone.
 
 “This will be a bloody fight.”
 
-“…What are you even talking about?”
+“...What are you even talking about?”
 
 “Ah, nothing. Just talking to myself. Don’t mind it.”
 
@@ -306,7 +306,7 @@ Below was only darkness. A bottomless abyss.
 
 “Don’t be scared. There’s no fall damage.”
 
-“Fall damage…?”
+“Fall damage...?”
 
 “It means you don’t take damage from falling.”
 
@@ -316,7 +316,7 @@ She also seemed pretty hesitant about jumping.
 
 So I just hoisted her over my shoulder and leapt down.
 
-“…!”
+“...!”
 
 A normal person would have screamed, but not Amelia. She just gritted her teeth and pulled my hair.
 
@@ -332,7 +332,7 @@ She glared at me and sighed.
 
 “What did you say?”
 
-“…”
+“...”
 
 “Never mind, Barbarian. So where’s the enemy?”
 
@@ -358,9 +358,9 @@ A grotesque tongue slithered out, licking the air as if it had found its prey.
 
 But I wasn’t interested in all that.
 
-…It doesn’t talk either, huh.
+...It doesn’t talk either, huh.
 
-‘…This one doesn’t talk either.’
+‘...This one doesn’t talk either.’
 
 Originally, it used to gloat about how it had finally lured us in after making us run all through the rift.
 
@@ -402,7 +402,7 @@ The difference from when I came here with Raven was clear.
 
 While a mage spends a long time preparing a single powerful strike, Amelia, as a melee damage dealer, consistently dealt high DPS.
 
-And…
+And...
 
 ‘Her base value is so high that her damage potential is naturally high.’
 
@@ -410,7 +410,7 @@ Calculating it over time, Amelia could deal far more damage than Raven.
 
 Of course, that’s assuming she can maintain full DPS the entire time.
 
-‘The biggest issue is resources, huh…’
+‘The biggest issue is resources, huh...’
 
 Her burst damage is second only to Erwin’s.
 
@@ -422,7 +422,7 @@ The MP consumption of [Self-Replication] is among the highest.
 
 Because when clones use skills, the cost increases fivefold.
 
-Until now, she’s managed with the inflated MP pool from [Power of the Abyss], but…
+Until now, she’s managed with the inflated MP pool from [Power of the Abyss], but...
 
 ‘This is a problem that should’ve been solved long ago.’
 
@@ -450,7 +450,7 @@ After a long battle, Amelia’s aura finally cut through the monster’s neck.
 
 If she had looked truly exhausted, I was ready to step in and help.
 
-To think she’s pulling off this kind of performance with a half-finished build…
+To think she’s pulling off this kind of performance with a half-finished build...
 
 I couldn’t help but smirk.
 

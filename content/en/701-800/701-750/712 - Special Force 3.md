@@ -6,25 +6,25 @@ However, judging by the thin coating on its surface, it seemed to have been trea
 
 But that wasn’t important.
 
-‘…Who is this?’
+‘...Who is this?’
 
 The photorealistic image showed a woman dressed in fine clothing. She wasn’t a once-in-a-generation beauty, but her bright smile made her instantly appealing.
 
 What stood out the most was that she possessed black hair and black eyes, a combination rarely seen in this world.
 
-“For some reason, she looks familiar…”
+“For some reason, she looks familiar...”
 
 It felt like a face I had seen many times before.
 
 After staring at the drawing for a while, overcome by an inexplicable sense of déjà vu, I looked at another drawing of her wearing form-fitting clothes and finally realised why.
 
-“…She looks exactly like Ragna.”
+“...She looks exactly like Ragna.”
 
 Black hair and black eyes.
 
 Aside from her hair and eye colour, her facial structure and features were remarkably similar to Ragna’s.
 
-‘Then… is this woman Ragna’s biological mother?’
+‘Then... is this woman Ragna’s biological mother?’
 
 There wasn’t any definitive physical evidence, but it was a reasonable suspicion to have in this situation. I mean, think about it. Ragna’s middle name, Litaniel, belongs to the nanny who raised her, not her biological mother.
 
@@ -36,11 +36,11 @@ Ragna was also the marquiss’s illegitimate child.
 
 And here, in the marquiss’s secret study, was a woman who looked exactly like her.
 
-“If he went as far as making a room like this… he must have truly loved Ragna’s mother…”
+“If he went as far as making a room like this... he must have truly loved Ragna’s mother...”
 
 After taking one more look at the pictures that filled the room, I looked away and searched the rest of the room.
 
-Aside from writing tools, there was nothing to see on the desk, so I focused on the bookshelf…
+Aside from writing tools, there was nothing to see on the desk, so I focused on the bookshelf...
 
 [Royal Council Meeting 17–18]
 [Explorer Status Report, Year 02]
@@ -48,8 +48,8 @@ Aside from writing tools, there was nothing to see on the desk, so I focused on 
 
 [Year 117 Labyrinth Progress Plan Draft IV]
 
-[217th Dimensional Collapse…]
-[…]
+[217th Dimensional Collapse...]
+[...]
 
 What were these books?
 
@@ -71,26 +71,26 @@ Another passage was underlined in the Year 117 Labyrinth Progress Plan, Draft IV
 
 [Given that the current growth rate of explorers is far steeper than anticipated, the Labyrinth Administration believes it is necessary to prepare alternative countermeasures.]
 
-“Hm…”
+“Hm...”
 
 As I flipped through the pages, focusing only on the underlined sections, I noticed a set of small books tucked into a compartment at the bottom of the bookshelf connected to the table.
 
-‘…Are these diaries?’
+‘...Are these diaries?’
 
 Unlike the books I’d seen so far, these were much smaller and far more numerous. Most importantly, each one had a year written on it.
 
-“If these really are diaries, that’s huge…”
+“If these really are diaries, that’s huge...”
 With a flutter of excitement, I pulled out the diary with the earliest year and opened it.
 
 But, what in the world is this?
 
-“……?”
+“......?”
 
 Even though the first page was densely packed with characters, I could not read a single word.
 
 It wasn’t just a matter of bad handwriting.
 
-‘This is neither Raphdonia’s language nor an ancient script…’
+‘This is neither Raphdonia’s language nor an ancient script...’
 
 I had never seen these characters before.
 
@@ -130,7 +130,7 @@ In the bottom left-hand corner of the picture was a symbol resembling the Taegeu
 
 The thought crossed my mind, but I quickly dismissed. The colors might have matched, but the design was clearly different from the taeguk symbol I knew.
 
-“Phew…”
+“Phew...”
 
 Anyway, it seemed like I had seen everything there was to see.
 
@@ -156,7 +156,7 @@ Thud-thud-thud-thud-!
 
 I hurried out of the secret space and ran up the stairs.
 
-And then…
+And then...
 
 Thud-!
 
@@ -178,11 +178,11 @@ Standing beside him was another member of Orcules—the Shrieking Witch, Lyranne
 
 Last was someone standing awkwardly above them. A former member of the Round Table.
 
-“Heehee…”
+“Heehee...”
 
 The Corpse Collector, Abet Nekrafeto.
 
-‘Looks like the others are Orcules members too…’
+‘Looks like the others are Orcules members too...’
 
 Even though I was the one who ordered the marquis’s mansion torn apart under the pretense of searching for hidden Noarkans, I couldn’t hide my surprise.
 
@@ -193,7 +193,7 @@ This actually worked?
 
 The standoff eased slightly with my appearance.
 
-“Ahhhh…”
+“Ahhhh...”
 
 Apart from the scream of one of our members, who had lost an arm while I was downstairs, it was too quiet.
 
@@ -203,7 +203,7 @@ As I murmured her name, she swiftly explained the situation.
 
 “While you were gone, we searched the room and found a concealed gap in the floor. When we opened it, they came out of their hiding place.”
 
-So that’s what happened…
+So that’s what happened...
 
 I finished piecing together the timeline of events that had unfolded while I was away, yet I still couldn’t make complete sense of it.
 
@@ -215,7 +215,7 @@ Well, they seem equally flustered, though.
 
 When the vice-commander spoke in a scolding tone, the man with glasses gave an awkward smile as he scratched the back of his head.
 
-“Hahaha… Yes, indeed. According to my calculations, the probability of this situation occurring was zero percent…”
+“Hahaha... Yes, indeed. According to my calculations, the probability of this situation occurring was zero percent...”
 
 Zero percent, my ass.
 
@@ -223,13 +223,13 @@ Wha, what do you mean 0%? Isn’t he old enough to know that odds like that don�
 
 While I was thinking that—
 
-“This means…”
+“This means...”
 
 The vice-commander shifted his gaze from us to his own allies, murderous intent leaking from his eyes.
 
 “There must have been an internal leak.”
 
-Uh… I guess that made sense?
+Uh... I guess that made sense?
 
 “Only death awaits traitors.”
 
@@ -237,7 +237,7 @@ Though the situation felt absurd, having survived countless crises through impro
 
 “Well then, what will you do, Nekrafeto?”
 
-“…Pssit?”
+“...Pssit?”
 
 “Come over here quickly. From now on, we’ll protect you.”
 
@@ -257,11 +257,11 @@ Only then did he grasp the situation and begin frantically waving his hands.
 
 When the vice-commander didn’t respond, he became even more desperate.
 
-“T-that guy is someone I’d happily tear apart several times over! R-right? Y-you don’t really believe him, do you…?”
+“T-that guy is someone I’d happily tear apart several times over! R-right? Y-you don’t really believe him, do you...?”
 
-“…Of course I don’t.”
+“...Of course I don’t.”
 
-“Haaah…”
+“Haaah...”
 
 “But seeing how flustered you are, it does makes me wonder.”
 
@@ -295,7 +295,7 @@ This would never happen to me. Honestly. If the Noarkans had said the same thing
 
 “Ah, is it because you feel guilty about betraying your comrades in front of them?”
 
-“This… how dare you!”
+“This... how dare you!”
 
 Frustrated by the relentless pressure, hhe stepped forward as if ready to attack me.
 
@@ -303,7 +303,7 @@ But I didn’t even need to lift a finger. Someone had already stepped up first.
 
 It was Glasses, who was standing beside the vice-captain. He moved swiftly and blocked his path.
 
-“…Huh?”
+“...Huh?”
 
 Nekrafeto looked genuinely startled as his own ally cut him off.
 

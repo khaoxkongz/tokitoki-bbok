@@ -1,24 +1,24 @@
 Eye of the Storm (1)
 
-Back to the 7th floor, Ice Rock.
+Back to the seventh floor, Ice Rock.
 
 The final field of this place, the Glacier Eye.
 
-「The character has entered a special area.」
+[The character has entered a special area.]
 
-「Field Effect – Eye of the Glacier is applied.」
+[Field Effect – Glacier Eye is applied.]
 
-「All healing and recovery effects work in reverse.」
+[All healing and recovery effects work in reverse.]
 
-「Status Ailment [Whispers of Immortality] is applied.」
+[Status Ailment [Whispers of Immortality] is applied.]
 
-「Upon death, the character resurrects as an undead.」
+[Upon death, the character resurrects as an undead.]
 
-「Status Ailment [Deprivation of Opportunity] is applied.」
+[Status Ailment [Deprivation of Opportunity] is applied.]
 
 The freezing air envelops my lungs.
 
-The warm sunlight we’d basked in on the 8th floor seemed like a distant lie.
+The warm sunlight we’d basked in on the eighth floor seemed like a distant lie.
 
 But we had no time to adjust to the sudden environmental shift—we had to move, and quickly.
 
@@ -28,7 +28,7 @@ The Ice Trolls begin to pull each of the three sleds.
 
 The sleds contained only 13 days’ worth of food.
 
-If we had requisitioned all the food stored in personal subspaces, we could have managed for dozens of days, but we deliberately timed it to coincide with the closing day with the labyrinth.
+If we had requisitioned all the food stored in everyone’s personal subspaces, we could have lasted for dozens of days. Instead, we deliberately packed just enough to last until the labyrinth closed.
 
 This was because we needed as much space as possible for combat and exploration equipment.
 
@@ -42,7 +42,7 @@ Once the formation was set, we retraced the route we had taken over the Glacier 
 
 It was a tight spiral climb up the cliff face, but our pace was faster than before.
 
-Because since the portal was opened, monsters no longer appeared here.
+Since the portal had already been opened, monsters no longer appeared here.
 
 At most, we can get out of the field in five days.
 
@@ -56,23 +56,21 @@ Thick fur to ward off the cold, a type of magic tool called a warming stone, foo
 
 Any explorer relying solely on their personal subspace would be in big trouble the moment they set foot here.
 
-But…
+But...
 
-‘But if it’s him… he’ll definitely come.’
+‘But if it’s him... he’ll definitely come.’
 
-It’s too early to feel relieved.
+It was still too early to feel relieved.
 
-It’s too soon to be relieved.
-
-It’s not just my life that’s at stake, it’s the lives of my comrades, and the lives of many others.
+It wasn’t just my life at stake, but the lives of my comrades and everyone else in the expedition.
 
 I have to act assuming the worst.
 
-Therefore…
+Therefore...
 
 Plod, plod.
 
-I pick up the pace, leading the rested but still tired men.
+I picked up the pace, leading the rested but still weary expedition onward.
 
 It must have been about eight hours later.
 
@@ -82,11 +80,11 @@ A female mage from Kaislan’s team rushed up to me, calling my name urgently.
 
 Wasn’t she from the 2nd Magic Corps?
 
-I haven’t talked to her much, but I clearly remember her because of her soft-spoken and un-military-like tone.
+I hadn’t spoken with her much, but I remembered her clearly because of her soft-spoken, distinctly unmilitary manner.
 
 “Mr. Schuiz! This is bad—really bad!”
 
-She’s much taller than Raven, and she looks normal, so I don’t know why she talks like this.
+She was much taller than Ravien and looked perfectly normal, so I had no idea why she talked like this.
 
 I don’t know, and I don’t think that’s important right now.
 
@@ -94,7 +92,7 @@ I don’t know, and I don’t think that’s important right now.
 
 “Yes! The detection magic we set up in front of the portal has been activated!”
 
-“I see, so that’s how it is…”
+“I see, so that’s how it is...”
 
 It means they have followed us into Ice Rock.
 
@@ -106,13 +104,13 @@ I expected it, but they really went through with it.
 
 “What do you mean by ‘definitely more’?”
 
-“Well… they noticed it sooner than I thought. Because the magic eye was destroyed, I couldn’t see any more people entering.”
+“Well... they noticed it sooner than I thought. Because the magic eye was destroyed, I couldn’t see any more people entering.”
 
 At her words, I involuntarily clicked my tongue.
 
 Knowing the enemy’s exact numbers would have been invaluable for planning.
 
-“Their appearance, how did they look?”
+“What did they look like?”
 
 “Hehe, you’re wondering if they prepared thoroughly like us, right?”
 
@@ -122,17 +120,17 @@ When I nodded, the mage smiled and answered.
 
 “They’re totally unprepared! Just thin cloaks over their equipment. They all had stuffed backpacks, probably filled with food. Since they wouldn’t be expansion backpacks, they’ll get hungry soon and go back, right?”
 
-She was about to cry at first, but now she’s smiling like that; seems she thinks this is good news…
+She had looked ready to cry at first, but now she was smiling. Apparently, she thought this counted as good news...
 
 Indeed, it was good news.
 
-‘Cloaks aside, but the backpacks…? Well to be fair, what explorer carries sleds or carts around.’
+‘The cloaks are one thing, but backpacks...? Well, to be fair, what explorer normally carries sleds or carts around?’
 
-The load limit of backpacks is clear.
+Backpacks had a hard limit on how much they could carry.
 
-In this place where hunger applies three times over, it’s impossible to carry 13 days’ worth of food in backpacks.
+In a place where hunger tripled food consumption, it was impossible to carry thirteen days’ worth of provisions in ordinary backpacks.
 
-Moreover, backpacks were a liability in combat. Not only the weight but also the bulk restricts movement.
+Moreover, backpacks were a liability in combat. Both their weight and bulk restricted movement.
 
 In the early floors, when subspace bags are hard to come by, some low-level teams bring porters to avoid the inconvenience of carrying their backpacks everywhere.
 
@@ -154,7 +152,7 @@ It was about six hours later when the same mage came running again, panting.
 
 Her trembling voice made it clear this wasn’t good news.
 
-“They’re moving faster than I thought…”
+“They’re moving faster than I thought...”
 
 The spell we’d cast eight hours earlier had been triggered in just six hours.
 
@@ -162,7 +160,7 @@ That means they’re moving faster than us.
 
 If this continues, they’ll catch up to us in two days.
 
-“I think it’s because they don’t have to pull sleds like us… so that’s probably why…”
+“I think it’s because they don’t have to pull sleds like us... so that’s probably why...”
 
 I can somewhat guess why they’re pursuing us.
 
@@ -170,7 +168,7 @@ They’re running out of food, so they’re trying to catch up as fast as they c
 
 “So what’s their size?”
 
-“Ah! I confirmed that properly! For—for forty-six people.”
+“Ah! I confirmed it properly this time! F-forty-six people.”
 
 “That’s useful to know. Thanks.”
 
@@ -178,21 +176,21 @@ They’re running out of food, so they’re trying to catch up as fast as they c
 
 The female mage said that and playfully saluted.
 
-“Ah, right. Um…”
+“Ah, right. Um...”
 
-After finishing the salute and turning around, the mage turned half a circle more to look at me.
+After saluting and turning away, the mage hesitated, then turned back toward me.
 
-And she carefully opened her mouth.
+She cautiously spoke again.
 
 “Among them, there are some who stand out. Their equipment alone sets them apart. One of them, a dark mage, was the first to notice my detection magic.”
 
-“……”
+“...”
 
 “Of—of course, it’s just my subjective judgment, so don’t worry too much!”
 
 “Got it, I’ll keep it in mind.”
 
-“Yes……. Oh, and one more thing, what about the detection spell, do you want me to use it again?”
+“Yes... Oh, and one more thing, what about the detection spell, do you want me to use it again?”
 
 “Please do. We’ve roughly confirmed their numbers, so we just need to know when they pass that point.”
 
@@ -200,47 +198,45 @@ And she carefully opened her mouth.
 
 As the mage finished reporting and returned to her position, the goblin next to me muttered in a strange voice.
 
-“That… Miss Marone is always so energetic.”
+“That... Miss Marone is always so energetic.”
 
-What is he talking about, this guy?
+What was this guy talking about?
 
-Does he have such thoughts even in this situation?
+Was he really thinking about that in a situation like this?
 
 I was about to tell him to stop spouting nonsense and focus ahead, but his next muttered words left me speechless.
 
-“I just hope she can make it back alive…”
+“I just hope she can make it back alive...”
 
-A lone voice, directed at the mage’s retreating back.
+His quiet words followed the mage’s retreating back.
 
 I couldn’t help but agree.
 
 “Yes, it would be really nice if we could return alive.”
 
-“……”
+“...”
 
 A silence settled between me and the goblin.
 
 Then, Ravien, who was walking beside us, spoke up.
 
-“In that sense, Mr. Parav, how do you feel now?”
+“In that sense, Mr. Parab, how do you feel now?”
 
-Well, she treated me like an idiot at first.
+She had treated me like an idiot at first, yet now she was the one asking him first.
 
-Now she’s the one asking first.
+Well, she also witnessed Parab’s ghost-like intuition while traveling next to me.
 
-Well, she also witnessed Parav’s ghost-like intuition while traveling next to me.
+“Well... I don’t know anymore. Except that we have to keep moving upward no matter how hard it is.”
 
-“Well… I don’t know anymore. Except that we have to keep moving upward no matter how hard it is.”
-
-“…I see.”
+“...I see.”
 
 The atmosphere around us quickly became gloomy.
 
 I cleared my throat and changed the topic.
 
-“By the way, Parav, why did you join the expedition?”
+“By the way, Parab, why did you join the expedition?”
 
-“…Yes?”
+“...Yes?”
 
 “With that great intuition, shouldn’t you have avoided things like this?”
 
@@ -248,29 +244,29 @@ Actually, I’ve been curious about this before.
 
 He avoided the first floor incident by trusting his intuition and not entering the labyrinth, so why did he enter the labyrinth this time?
 
-“Actually… I didn’t want to come from the beginning.”
+“Actually... I didn’t want to come from the start.”
 
 “What?”
 
 “You’re not saying that without reason, are you?”
 
-“It’s really true. When the archbishop participated, he tried to persuade me by listing all sorts of rewards, but I still didn’t feel like it. So I tried to make excuses to back out…”
+“It’s really true. When the archbishop participated, he tried to persuade me by listing all sorts of rewards, but I still didn’t feel like it. So I tried to make excuses to back out...”
 
 “And then?”
 
-“But the archbishop sighed deeply while looking at me. At that moment, I felt a chill down my spine, so I quickly changed my mind and said I’d go. You know… walking a thorny path is better than stepping onto the execution platform, right?”
+“But the archbishop sighed deeply while looking at me. At that moment, I felt a chill down my spine, so I quickly changed my mind and said I’d go. You know... walking a thorny path is better than stepping onto the execution platform, right?”
 
-“…What? Execution platform? I don’t understand.”
+“...What? Execution platform? I don’t understand.”
 
-“Um… This might sound strange, but I felt like if I refused, I’d die right there on the spot? That’s how it was. To the point where entering the labyrinth seemed better.”
+“Um... This might sound strange, but I felt like if I refused, I’d die right there on the spot? That’s how it was. To the point where entering the labyrinth seemed better.”
 
-“Ah…”
+“Ah...”
 
-“Well, I regret it now. The archbishop wouldn’t really have killed me. Hahaha…”
+“Well, I regret it now. The archbishop wouldn’t really have killed me. Hahaha...”
 
 The goblin laughed awkwardly, and Ravien, who had been skeptical about his intuition, seemed to accept it.
 
-But…
+But...
 
 ‘That’s a bit strange.’
 
@@ -278,11 +274,11 @@ I felt a sense of discomfort somewhere.
 
 I can’t put it into words exactly.
 
-“Parav, do you have any idea why you felt that way from the archbishop?”
+“Parab, do you have any idea why you felt that way around the archbishop?”
 
-“Hmm, well. I haven’t thought about it… Maybe he was planning to assign me to an even more dangerous mission…”
+“Hmm, well. I haven’t thought about it... Maybe he was planning to assign me to an even more dangerous mission...”
 
-We chatted for the rest of the journey, but I didn’t realize the source of the discomfort, so we stopped chatting to conserve energy and continued our journey.
+We talked for a while longer, but I still couldn’t identify the source of my unease. Eventually, we fell silent to conserve our energy and kept moving.
 
 As if I didn’t already have plenty to think about.
 
@@ -294,7 +290,7 @@ Either way, they’ll catch up before we get out of the Glacier Eye.
 
 Then what should we do?
 
-What should I do to make myself, my comrades, and other team members even a little safer?
+What could I do to make things even a little safer for myself, my comrades, and the rest of the expedition?
 
 Thump, thump, thump, thump—
 
@@ -316,45 +312,45 @@ The sound of someone chewing on jerky.
 
 Some were chatting with their newfound friends, while others sat in silence, exhaling rhythmic breaths.
 
-Because everyone has different ways of relieving tension.
+Everyone had their own way of relieving tension.
 
-“…Mister, why don’t you rest a bit too?”
+“...Mister, why don’t you rest a bit too?”
 
 “I’ll rest here, so you go back to your place.”
 
-“But…”
+“But...”
 
 “Go on.”
 
-At my commanding words, Erwin turned towards her place with slumped shoulders, and I stared beyond the dark downhill path.
+At my firm words, Erwin returned to her place with slumped shoulders while I stared down the dark path behind us.
 
 “She was trying to be considerate, was it necessary to be so cold?”
 
 “Ravien, don’t cross the line.”
 
-“…Understood.”
+“...Understood.”
 
 Ravien was about to say something but, seeing my expression, immediately shut her mouth.
 
 Regardless, I stared endlessly into the darkness.
 
-“……”
+“...”
 
-Our current location is the middle part of the Glacier Eye.
+We were currently halfway through the Glacier Eye.
 
 As soon as we arrived here, our journey of endlessly climbing uphill came to a halt.
 
-Not by our will, but by circumstances.
+Not by choice, but because circumstances forced us to stop.
 
-Based on simple calculations, the pursuit team will arrive here in an hour.
+By a simple estimate, the pursuit team would reach us in about an hour.
 
 Thump, thump, thump—
 
 My heart pounded.
 
-Not from excitement from the battle, but from unease.
+Not from anticipation of battle, but from unease.
 
-“……”
+“...”
 
 I had tried countless ways to avoid the coming battle, but nothing clever came to mind.
 
@@ -362,7 +358,7 @@ Combat was inevitable.
 
 So, I ordered everyone to rest as much as possible beforehand.
 
-And yet…
+And yet...
 
 Scrape, scrape—
 
@@ -374,7 +370,7 @@ The ordinary, peaceful sounds of life felt like the calm before the storm.
 
 Maybe that’s why.
 
-“……”
+“...”
 
 Why I couldn’t relax, and instead kept staring into the darkness.
 
@@ -384,7 +380,7 @@ Nearly twice as many as our expedition team.
 
 And according to the mage, ten of them were particularly strong, equipped with gear rivaling that of the Dragon Slayer.
 
-‘Perhaps they brought along some of the guys who were attacking the 8th floor.’
+‘Perhaps they brought along some of the guys who were attacking the eighth floor.’
 
 If so, we’re in serious trouble.
 
@@ -392,9 +388,9 @@ Anyone capable of contributing on the eighth floor would need to be at least as 
 
 We’d stand no chance in a direct confrontation.
 
-But…
+But...
 
-“……”
+“...”
 
 There’s no other way.
 
@@ -410,15 +406,11 @@ I shook my head as if to clear my thoughts.
 
 From now on, I’d focus on more positive outcomes.
 
-Like the possibility that the enemy might be weaker than expected.
+For example, maybe the enemy would be weaker than expected. If so, perhaps—just perhaps—we could turn the tables and defeat them here.
 
-In that case, maybe, just maybe, we could turn the tables here.
+Of course, there would be sacrifices...
 
-In that case, it might even be possible to defeat the enemies here.
-
-Of course, there will be sacrifices…
-
-But once we achieve victory, this expedition is over.
+But if we won here, the expedition would effectively be over.
 
 We won’t have to struggle to climb any further; we can just hold out here, consuming our remaining provisions.
 
@@ -426,7 +418,7 @@ Clench.
 
 Yes, that possibility certainly exists.
 
-So…
+So...
 
 “Detection magic! The detection magic has been activated!”
 
@@ -438,7 +430,7 @@ Beyond that ominously quiet darkness.
 
 We still don’t know what will remain after the storm passes.
 
-“…They’re coming!”
+“...They’re coming!”
 
 There’s only one thing we can do.
 

@@ -6,7 +6,7 @@ I don’t know much about what lies beyond either.
 
 On the day the royal army descended underground to destroy Noark, a mysterious sorcerer appeared and helped the Noarkans escape the walls.
 
-And that day was…
+And that day was...
 
 ‘Year 154 of the New Era, second Month.’
 
@@ -24,11 +24,11 @@ Hmm. Well—there was one thing.
 
 Assuming Clown’s words are true, the continent on which the Last Fortress of Raphdonia stands is nearly identical to the seventh-floor Dark Continent in geography.
 
-[…If that’s true, then perhaps the theory might be correct.]
+[...If that’s true, then perhaps the theory might be correct.]
 
 [You mean the theory that the labyrinth isn’t a passage connected to another dimension, but rather created by someone?]
 
-[The Crystal Caves, the Rock Desert… perhaps they were modeled after real places.]
+[The Crystal Caves, the Rock Desert... perhaps they were modeled after real places.]
 
 The members of the Round Table each gave their opinions, and some of their guesses were partially correct. Well, that’s because I had discovered them myself while exploring.
 
@@ -46,7 +46,7 @@ However, it’s not that there are no records at all.
 
 [It’s natural that you find my name and appearance unnatural. There aren’t many families left in this city with as strong of Eastern Continent blood as ours.]
 
-[…It’s South-Central-style naming.]
+[...It’s South-Central-style naming.]
 
 Among Raphdonia’s residents, there are still those who remember their ancestors or family history and strive to preserve their identity.
 
@@ -54,7 +54,7 @@ I don’t need to look far; we Barbarians are like that too.
 
 According to records, the Barbarian race was a tribe that lived fighting monsters in the harsh lands of the northern and southern parts of the continent.
 
-However, the problem is…
+However, the problem is...
 
 ‘They said it took over two years to get from the northern regions to Lapdonnia.’
 
@@ -68,7 +68,7 @@ So where does this discrepancy come from?
 
 In the basement floor 1, Mr. Vampire had told me:
 
-[Back then, there were only humans…?]
+[Back then, there were only humans...?]
 
 In ancient times, there were no other races.
 
@@ -86,20 +86,20 @@ The Noark bastards have launched a desperate invasion and even occupied a city d
 
 Even the royal family’s reaction feels suspicious.
 
-“…Now I need to know.”
+“...Now I need to know.”
 
 If they know something, then I need to know it too, or I’ll never be able to prepare for the future.
 
 t’s like playing a game without knowing the mechanics—you just end up getting beaten unfairly.
 
-“…Jandel?”
+“...Jandel?”
 
 “Ah, sorry. I was lost in thought.”
 
 I ended my thoughts there and headed back to where the others were gathered.
 
 “Hahaha! Did you see that? My spear is stronger than arrows!!”
-“I… I was holding back because I was worried you might get hurt! Once more! Let’s go again!”
+“I... I was holding back because I was worried you might get hurt! Once more! Let’s go again!”
 
 “Huh? Mister, where did you go?”
 
@@ -120,21 +120,21 @@ By the way, the guides were Amelia, Erwin, and Versil.
 
 Amelia and Erwin are the most skilled searchers in the Anabada clan, and Versil is our only mage.
 
-“Um… could you tell me what exactly you’re looking for? If I know, I think I can help you more proactively.”
+“Um... could you tell me what exactly you’re looking for? If I know, I think I can help you more proactively.”
 
 In response to Versil’s question, I honestly revealed my reason for coming here.
 
 “Today, we’re going to look for a path that connects the sewers to beyond the city walls.”
 
-“Beyond… the walls?”
+“Beyond... the walls?”
 
 When I nodded, Versil, though startled, quickly regained her composure and asked cautiously,
 
-“…Do you mean you’re planning to go outside the walls?”
+“...Do you mean you’re planning to go outside the walls?”
 
 “Yes. I figure the only way to judge what’s true or false is to see it with my own eyes.”
 
-“Ah…”
+“Ah...”
 
 “For now, keep this between us. Understood?”
 
@@ -168,7 +168,7 @@ That was my first thought. But if they were mere vagrants, Amelia wouldn’t hav
 
 We waited silently, holding our breath, and soon they passed by our hiding spot.
 
-‘…Knights?’
+‘...Knights?’
 
 And not just ordinary knights.
 
@@ -178,9 +178,9 @@ They weren’t from some noble house, but royal knights in full armor, bearing t
 
 “Oh, you didn’t know? Ever since that incident months ago, they’ve been patrolling the sewers regularly.”
 
-“Ah, I think I read that in the papers. They said they wiped out all the vagrants living down here…”
+“Ah, I think I read that in the papers. They said they wiped out all the vagrants living down here...”
 
-“Hmm… had I been slacking off on reading the news lately?”
+“Hmm... had I been slacking off on reading the news lately?”
 
 Either way, seeing knights suddenly patrolling down here gave me quite a shock.
 
@@ -188,7 +188,7 @@ My guilty conscience was getting to me, I almost thought they’d been stationed
 
 “Anyway, let’s keep moving. There aren’t many patrols in the sewers, and they don’t seem too search thoroughly. We shouldn’t have much trouble avoiding them.”
 
-“…That’s a relief to hear.”
+“...That’s a relief to hear.”
 
 Strangely enough, even after seeing knights, I didn’t feel particularly nervous.
 
@@ -204,7 +204,7 @@ Really, it’s them who should be careful not to cross us.
 
 Once we reached the path leading to Noark, Amelia crouched down in front of the entrance and fiddled with something.
 
-And…
+And...
 
 “All done. I disarmed it cleanly, so no traces are left.”
 
@@ -218,9 +218,9 @@ We descended the stairs and entered an underground space that was quite unlike t
 
 The ceiling heights and wall structures made it feel like we had stepped into a three-dimensional maze.
 
-Now that I think of it… this was where I fought that Karui priest.
+Now that I think of it... this was where I fought that Karui priest.
 
-Her name… was it Elisa?
+Her name... was it Elisa?
 
 It was around the time I’d just consumed the essence of an Orc Hero. It’s been so long that I barely remember it now.
 
@@ -248,7 +248,7 @@ Still, thanks to her kindness, she managed to survive even after losing to us in
 
 After we increased our speed, the maze section soon ended, and we finally arrived at our destination.
 
-“So this is Noark…!”
+“So this is Noark...!”
 
 It was a vast cave, so huge that it was hard to believe we were underground.
 
@@ -258,13 +258,13 @@ Versil gasped in awe at the massive stone gate, which was even larger than the g
 
 “This deep, yes. I joined the first subjugation, but as you know, we had to retreat before we ever made it this far.”
 
-“Ah… I heard. They said so many died back then…”
+“Ah... I heard. They said so many died back then...”
 
 Listening to their conversation, a Canadian player I’d met in the community suddenly came to mind.
 
 He’d been dragged into the community the instant a sword touched his throat.
 
-I promised him I’d deliver the news to his family once I returned…
+I promised him I’d deliver the news to his family once I returned...
 
 Funny enough, even though I’d forgotten about it for a while, I still remember the address he gave me and the words he left behind as clearly as ever.
 
@@ -272,7 +272,7 @@ Maybe it was because of how deeply it affected me
 
 “What are you spacing out for? Aren’t you coming?”
 
-“Ah, I’m coming…”
+“Ah, I’m coming...”
 
 Shaking off the memory, I followed as Amelia opened a side door hidden next to the massive gate.
 
@@ -280,7 +280,7 @@ Shaking off the memory, I followed as Amelia opened a side door hidden next to t
 
 “There’s no gatekeeper, so it doesn’t matter. But why take the hard way when the easy path is right there?”
 
-“…That’s true. But there was a gatekeeper before?”
+“...That’s true. But there was a gatekeeper before?”
 
 “There was. Although his name wasn’t known to Raphdonia, he was one of the top experts in Noark—.”
 
@@ -290,7 +290,7 @@ Amelia was about to step through the side door as she said that.
 
 A hearty laugh suddenly burst out from behind.
 
-“……!”
+“......!”
 
 Both Erwin and Amelia, who had sensed nothing at all, flinched in surprise and turned around. I was the same.
 
@@ -308,15 +308,15 @@ Dungeon & Stone is a team game.
 
 From behind the man at the front—the obvious tank—his allies stepped forward to stand at his sides
 
-“Oh, and these are my allies….”
+“Oh, and these are my allies....”
 
-‘One, two, three, four…’
+‘One, two, three, four...’
 
 There were five of them in total.
 
 They not only outnumbered us, but were probably the more skilled, too.
 
-It might sound crazy to say this with our members here…
+It might sound crazy to say this with our members here...
 
 Badump-Badump!
 
@@ -324,4 +324,4 @@ But everything in the world is relative, after all.
 
 “Huh? Baek-ho! Why are you so quiet today? Didn’t you say you were close with Baron Jandel over there?”
 
-…To think I’d run into these guys here.
+...To think I’d run into these guys here.

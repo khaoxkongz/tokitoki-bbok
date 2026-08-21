@@ -2,7 +2,7 @@
 
 Nothing in my life comes easily.
 
-After finishing that unplanned duel with Demon Eye, the building we arrived at was completely empty. While I was fighting him, they had already taken the Marquis and fled…
+After finishing that unplanned duel with Demon Eye, the building we arrived at was completely empty. While I was fighting him, they had already taken the Marquis and fled...
 
 “A villa! There’s a villa a short distance from here!”
 
@@ -14,7 +14,7 @@ When I lightly suggested that he should think carefully about where the marquis 
 
 “It really is a secret hideout! I only know about it because I went there once when I was little. No one else in the family knows about it!”
 
-“When you were little…?”
+“When you were little...?”
 
 When I frowned, Eltora realized I had misunderstood something and hurriedly continued.
 
@@ -22,7 +22,7 @@ When I frowned, Eltora realized I had misunderstood something and hurriedly cont
 
 Wow. So this bastard not only started out as the chancellor’s son, he also had the original owner’s diary? When I first woke up, I had to worry about whether I was about to get my head chopped off.
 
-“Father took me to the villa… there was a garden with beautiful flowers, and I was surprised to see Father tending to the garden himself…’ That is what the diary said!”
+“Father took me to the villa... there was a garden with beautiful flowers, and I was surprised to see Father tending to the garden himself...’ That is what the diary said!”
 
 “Hmm?”
 
@@ -42,13 +42,13 @@ Except for one contradiction.
 
 Eltora let out a surprised breath when I pointed out that problem, clearly having not considered it before. Still, he did not seem willing to give up.
 
-“Still… wouldn’t at least one of his close aides know about it?” he said, glancing at my reaction. When I stared at him, he averted his gaze, clearly aware his logic was weak.
+“Still... wouldn’t at least one of his close aides know about it?” he said, glancing at my reaction. When I stared at him, he averted his gaze, clearly aware his logic was weak.
 
-But…
+But...
 
 “Fine. Let’s go there.”
 
-“…Really?”
+“...Really?”
 
 “Yeah. It’s better than just standing around here doing nothing.”
 
@@ -58,7 +58,7 @@ After all, the chancellor knew this guy was an evil spirit.
 
 It was possible that one of the Marquis’ close aides knew about the villa and brought him there.
 
-Well, that seemed unlikely, but…
+Well, that seemed unlikely, but...
 
 ‘Still, if it’s that kind of place, I might get something else out of it.’
 
@@ -78,11 +78,11 @@ As we climbed the wall and entered the grounds, I saw the beautifully manicured 
 
 Amelia looked around briefly after landing in the garden and gently brushed the flowers with her fingers and continued.
 
-“…It’s well-maintained.” she observed. “Someone looked after these flowers recently. Two days at most. Possibly even yesterday.”
+“...It’s well-maintained.” she observed. “Someone looked after these flowers recently. Two days at most. Possibly even yesterday.”
 
 I had no clue how anyone could tell when a garden was last tended, but if Amelia said it, it was probably true.
 
-“Anyway, it feels like we might have guessed wrong… but we should investigate the inside of the building just in case. There might be a hidden space inside, and the Marquis could be hiding there.”
+“Anyway, it feels like we might have guessed wrong... but we should investigate the inside of the building just in case. There might be a hidden space inside, and the Marquis could be hiding there.”
 
 “Agreed.”
 
@@ -96,7 +96,7 @@ I didn’t even need to focus to hear footsteps coming from inside the building.
 
 One person.
 
-I wondered if it might be the old gardener Eltora mentioned, but…
+I wondered if it might be the old gardener Eltora mentioned, but...
 
 The person who appeared was completely unexpected.
 
@@ -104,11 +104,11 @@ The person who appeared was completely unexpected.
 
 Eltora was the first to respond to the woman’s greeting.
 
-“Harin Savy…? Why are you here?”
+“Harin Savy...? Why are you here?”
 
 “It is good to see you again, Lord Tecerion. You visited this place not long ago, did you not?”
 
-“What do you mean I visited recently? Wait… don’t tell me… back then too…”
+“What do you mean I visited recently? Wait... don’t tell me... back then too...”
 
 “Yes, I was hiding over there, watching. From the moment you started searching the villa until you finally discovered the secret.”
 
@@ -122,7 +122,7 @@ He got punched once and his expression returned to normal.
 
 “Stop running your mouth and stay quiet.”
 
-“…Ah. Understood.”
+“...Ah. Understood.”
 
 Seriously. Calling someone else’s ex-girlfriend a bitch like that.
 
@@ -138,31 +138,31 @@ Why on earth was Hyun-byeol at the Marquis’s secret villa?
 
 I asked firmly, wanting a clear answer, and Hyun-byeol replied:
 
-“Uh… didn’t you come because you knew…?”
+“Uh... didn’t you come because you knew...?”
 
 “What?”
 
-“…I sent you a message. To come here, on that paper.”
+“...I sent you a message. To come here, on that paper.”
 
-Ah, the “love paper”…
+Ah, the “love paper”...
 
-“Did you… not see it?”
+“Did you... not see it?”
 
-Uh… I didn’t exactly have the time to check that.
+Uh... I didn’t exactly have the time to check that.
 
 As I let out a cough of embarrassment, Hyun-byeol shook her head.
 
 “Forget it. Whatever the process was, you came in the end. This actually feels more fated and nice.”
 
-“…Fated?”
+“...Fated?”
 
 Amelia muttered, making Hyun-byeol shrug in response.
 
 “Yes. No matter how much things get twisted or diverge, the people meant to meet will meet eventually.”
 
-“That’s… a rather interesting thing to say.”
+“That’s... a rather interesting thing to say.”
 
-“I’m glad you find it interesting. Nice to meet you, Amel… oh, Emily Rains, right?”
+“I’m glad you find it interesting. Nice to meet you, Amel... oh, Emily Rains, right?”
 
 Harin paused mid-introduction.
 
@@ -174,11 +174,11 @@ She was subtly revealing something.
 
 That she knew Amelia’s real name.
 
-…Though I didn’t know why she chose to reveal that.
+...Though I didn’t know why she chose to reveal that.
 
 Anyway.
 
-“…Yes. Nice to meet you. Harin Savy.”
+“...Yes. Nice to meet you. Harin Savy.”
 
 After the brief greeting ended, Harin returned to the main topic and looked at me.
 
@@ -198,7 +198,7 @@ Although every item inside looked expensive on its own, the place was not as ext
 
 In fact, the atmosphere didn’t match the Marquis at all.
 
-It felt simple… warm…
+It felt simple... warm...
 
 Like the home of a happy wealthy family.
 
@@ -210,13 +210,13 @@ Amelia immediately rejected the request.
 
 Harin glanced at me silently.
 
-…Sigh.
+...Sigh.
 
 I sighed internally and spoke to Amelia.
 
 “Sorry, but step outside for a moment. Let’s at least hear what she has to say.”
 
-“…Alright.”
+“...Alright.”
 
 Amelia led the group to the room Harin mentioned.
 
@@ -238,19 +238,19 @@ It was a magic tool that prevented sounds within its radius from leaking outside
 
 “You can relax a bit around me, you know.”
 
-“…It just feels awkward talking like this in this body. Anyway, tell me. What exactly is this villa?”
+“...It just feels awkward talking like this in this body. Anyway, tell me. What exactly is this villa?”
 
 When I adjusted my speech to Lee Hansu’s usual tone, Harin finally smiled.
 
-“Well… how should I put it?”
+“Well... how should I put it?”
 
-“In simple terms… this place is Chancellor Tercerion’s memory box.”
+“In simple terms... this place is Chancellor Tercerion’s memory box.”
 
-“A memory box…?”
+“A memory box...?”
 
 “You know. A box where you store precious items that hold happy memories. Don’t you have anything like that, oppa?”
 
-“No…”
+“No...”
 
 “Then what did you do with the letters I gave you before?”
 
@@ -262,21 +262,21 @@ Seeing that I was silent, Harin nodded as if she understood.
 
 “No wonder I couldn’t find them no matter how much I searched your room.”
 
-“…I think we’re drifting off topic.”
+“...I think we’re drifting off topic.”
 
-“Ah, right… Anyway, this place is a memory box. A place the Marquis came to hide whenever things got difficult.”
+“Ah, right... Anyway, this place is a memory box. A place the Marquis came to hide whenever things got difficult.”
 
 “Then why are you here?”
 
 “Because the Marquis sent me here.”
 
-“…What does that mean? Can you just tell me the point?”
+“...What does that mean? Can you just tell me the point?”
 
 “Countess Phefroc is asleep in the underground bunker below us. And the Marquis sent me here to guard and take care of her.”
 
 “So, the Marquis isn’t here?”
 
-“No… right?”
+“No... right?”
 
 “And you don’t know where he is?”
 
@@ -286,7 +286,7 @@ Seeing that I was silent, Harin nodded as if she understood.
 
 “Oh, that was something I found out by pure coincidence. The Marquis stopped by here briefly back then. I asked how the war was going, and he ended up chatting with me about various things, just like when we used to chat before.”
 
-“…You chatted with the Marquis?”
+“...You chatted with the Marquis?”
 
 “He’s surprisingly gentle. And a bit of a romantic too. For someone his age, he’s quite lonely.”
 
@@ -298,7 +298,7 @@ But then again, everyone has unexpected sides to them.
 
 “He loves his daughter very much. I guess he sees me quite fondly as well, since I’m both his daughter’s friend and her right-hand.”
 
-“That so…?”
+“That so...?”
 
 “Oh, have you not been paying attention? The marquis started this war for the sake of his daughter.”
 
@@ -323,4 +323,4 @@ But surprisingly, the rumor turned out to be true.]
 
 [On the sixteenth day of the seventh month, in the height of summer when the hot winds lingered even through the night, I attended a palace ball with my father and met that nameless girl.]
 
-…It was the Marquis’s diary.
+...It was the Marquis’s diary.

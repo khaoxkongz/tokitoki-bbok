@@ -1,40 +1,37 @@
 Bad Blood (1)
+When faced with a hopeless situation, the first thing most people do is start running through hopeful possibilities.
 
-When faced with a hopeless situation, the first thing most people do is activate their hope circuits.
+If I do this, then that, and things go just right...
 
-If I do this, and then that, and if things go this way…
+Then won’t everything work out somehow?
 
-Then won’t everything work out fine?
-
-By assuming countless “what if” scenarios and becoming blinded by slim possibilities, they miss the golden opportunity.
+By running through countless “what if” scenarios and clinging to slim possibilities, they miss the golden window to act.
 
 For years, or even decades.
 
-Though we’ve endured the labyrinth for so long, our expedition team is still made up of ordinary people.
+Even though we’ve endured the labyrinth for so long, our expedition team is still made up of ordinary people.
 
-“…Are you saying we’re leaving this place?”
+“...Are you saying we’re leaving this place?”
 
 As soon as I announced my decision, an air of unease swept through the group.
 
 “This is a rash decision!”
 
-“But wouldn’t it be better to wait a little longer?Maybe something happened on their side causing them to be a little late.”
+“But wouldn’t it be better to wait a little longer? Maybe something happened on their end and they’re just running late.”
 
 “Exactly! With Noark bastards swarming around, how far can we go on our own?”
 
-Opposition spread like a wildfire in an instant.
+Opposition spread like wildfire in an instant.
 
-Well, of course.
-
-Of course, it was only natural.
+Well, of course. It was only natural.
 
 After all, it’s the most hopeful option for everyone.
 
 If a rescue team arrives, we can all make it back alive.
 
-The crisis will end, and happiness awaits us in the city. The hardships we’ve endured will become nothing more than bar talk
+The crisis will end, happiness will await us in the city, and the hardships we’ve endured will become nothing more than stories told over drinks.
 
-But…
+But...
 
 “It’s dangerous.”
 
@@ -42,7 +39,7 @@ I know.
 
 We aren’t in a truly hopeless situation yet.
 
-True despair begins when the golden hour ends, and even the slimmest hope is crushed.
+True despair begins when the golden window closes and even the slimmest hope is crushed.
 
 By then, even if we want to act, it will be too late.
 
@@ -50,13 +47,13 @@ That’s why, if something is to be done, it must be now.
 
 “What is everyone saying? Has the whole team lost their minds?”
 
-I intentionally used sharp and provocative words, expecting backlash.
+I deliberately used sharp, provocative words, expecting backlash.
 
-A kind of shock therapy.
+It was a kind of shock therapy.
 
-“There was a rat among us at Ice Rock. When we reached Eye of the Sky, no matter how many times we tried, we couldn’t get through. And now?”
+“There was a rat among us in Ice Rock. When we reached the Eye of the Sky, no matter how many times we tried, we couldn’t get through. And now?”
 
-“……”
+“......”
 
 “It’s been three days, and we’ve heard nothing. It’s just a little late? The rescue team is on its way? Ridiculous. If that were the case, the Noark bastards wouldn’t still be swarming around here. They would have been called to the front lines to block the royal army by now.”
 
@@ -64,11 +61,11 @@ After taking a breath, I continued.
 
 “Listen carefully, all of you.”
 
-“……”
+“......”
 
 “We have been abandoned.”
 
-I don’t truly believe that, but…
+I didn’t truly believe that, but...
 
 I judged that only this level would break their false hopes.
 
@@ -76,7 +73,7 @@ I judged that only this level would break their false hopes.
 
 Well, I don’t know the reason either.
 
-Maybe something really happened, and they can’t come.
+Maybe something really happened and they simply can’t come.
 
 I think that’s more likely too.
 
@@ -86,43 +83,43 @@ Regardless of their circumstances, the result doesn’t change.
 
 “If we haven’t been abandoned, then why haven’t they come yet?”
 
-“That’s…”
+“That’s...”
 
 The team member who trailed off clenched his teeth and spoke.
 
-“…So you’re saying we should move somewhere else?”
+“...So you’re saying we should move somewhere else?”
 
 “Yes.”
 
 “In this exhausted state? Do you think that’s possible? We’ll all die—!”
 
-“And What’s different if we wait here?”
+“And what’s different if we wait here?”
 
-As voices grew louder, the mages, even with their insufficient mana, activated ‘Voice Control,’ so I shouted freely.
+As voices grew louder, the mages activated [Voice Control] despite their dwindling mana, allowing me to shout freely.
 
 “Open your eyes, everyone!”
 
-“……”
+“......”
 
 “No matter what, the fact that they aren’t coming to rescue us doesn’t change!”
 
 At my shout, all the team members fell silent.
 
-Sure, they could have countered, but deep down, they all knew it.
+Sure, they could have argued back, but deep down, they all knew it.
 
 That my words might be true.
 
 If they hadn’t had such doubts in the first place, they wouldn’t be so anxious now.
 
-“……”
+“......”
 
-“……”
+“......”
 
 In the brief silence that followed, I spoke up.
 
 “I have no intention of dying in a place like this.”
 
-“……”
+“......”
 
 “Do you?”
 
@@ -134,7 +131,7 @@ The one who answered that question was a member of Kaislan’s team.
 
 Saying that, I glanced at the team members sitting on the thick branches.
 
-From their expressions, it didn’t seem like my words had resonated deep in their hearts
+Judging from their expressions, my words hadn’t exactly resonated deeply.
 
 Well, that was to be expected.
 
@@ -146,7 +143,7 @@ Even if I’d shown my worth during the expedition, how trustworthy could I seem
 
 They naturally looked to their team leaders.
 
-And then…
+And then...
 
 “I will go where the light leads me.”
 
@@ -154,7 +151,7 @@ The first to step forward was Jun.
 
 He looked at me with an overly polite, almost reverent expression, as if to help me.
 
-“Our team 4 will walk this path of hardship with you.”
+“Our Team 4 will walk this path of hardship with you.”
 
 Next was Kaislan.
 
@@ -162,7 +159,7 @@ Next was Kaislan.
 
 Though his introduction was long, his point boiled down to a single sentence.
 
-“Our team 5 will follow your orders.”
+“Our Team 5 will follow your orders.”
 
 Was he trying to support me just like Jun?
 
@@ -176,7 +173,7 @@ He had looked displeased during the leadership meeting.
 
 At that moment, Akuraba spoke up.
 
-“It’s not because we have blind faith or fear the military laws of the Royal Family. I just agree with his opinion. It seems difficult for the royal family to come rescue us.”
+“It’s not because we have blind faith or fear the military laws of the royal family. I just agree with his opinion. It seems difficult for the royal family to come rescue us.”
 
 “So?”
 
@@ -186,23 +183,23 @@ At my urging, Akuraba smirked.
 
 Okay, then only one team remained.
 
-Team 3, led by James Carla, the vice-captain of the Gearfang Clan
+Team 3, led by James Carla, vice-captain of the Gearfang Clan.
 
 As eyes turned to him, James Carla showed a perplexed expression.
 
-“Well…”
+“Well...”
 
-Perhaps he felt burdened by the performances of the previous team leaders.
+Perhaps he felt burdened by the grand displays from the previous team leaders.
 
 Maybe he thought such things didn’t suit him.
 
-“Same here. It’s not like things will change if I’m the only one opposing. Ordinary people like me always have to find and follow the mainstream.”
+“Same here. It’s not like anything will change if I’m the only one opposing. Ordinary people like me just have to go with the flow.”
 
 It was a bit plain, but it was just like him.
 
 His honest words, mixed with a joking tone, seemed to have conveyed well to the other team members.
 
-“…Guess that’s it.”
+“...Guess that’s it.”
 
 “If he’s made up his mind, what can we do?”
 
@@ -212,11 +209,11 @@ His honest words, mixed with a joking tone, seemed to have conveyed well to the 
 
 Hearing the murmurs, I clenched my fist tightly.
 
-Let’s do this
+Let’s do this.
 
 ---
 
-“The patrols around us have increased. I think they’ve noticed their people have been killed… What should we do?”
+“The patrols around us have increased. I think they’ve noticed their people have been killed... What should we do?”
 
 What do you mean, what should we do?
 
@@ -224,11 +221,11 @@ The plan is simple from here on.
 
 “We’ll use mass teleportation magic.”
 
-First, we’ll use mass teleport to get out from the heart of enemy territory.
+First, we’ll use mass teleportation to get out of the heart of enemy territory.
 
-Well, there are issues with this too…
+Well, there are issues with this too...
 
-“After using such a large spell, the magicians will be out of commission for a while. Our location will also be revealed.”
+“After using a spell of that scale, the mages will be out of commission for a while. Our location will also be exposed.”
 
 Indeed, Noark’s scouts will trace the residual mana and pursue us.
 
@@ -236,11 +233,11 @@ But there’s no other choice.
 
 “We have to accept that risk. No matter how stealthily we move, there’s no way this number of people won’t get caught by the enemy.”
 
-“That’s true, but…”
+“That’s true, but...”
 
 “Since the Eye of the Sky has been destroyed, they can’t communicate freely either. It’s better to use mass teleport to widen the distance.”
 
-At my judgment, the team leaders showed some concern, but didn’t speak up.
+At my decision, the team leaders looked concerned, but none of them objected.
 
 Okay, then that’s settled.
 
@@ -250,7 +247,7 @@ The plan after that is also straightforward.
 
 “Whether a pursuit party comes or not, we’ll head north.”
 
-Our destination is the northern hemisphere of the Dark Continent.
+Our destination is the northern half of the Dark Continent.
 
 “Not south where our allies are?”
 
@@ -262,11 +259,11 @@ The scouts can only track where we teleported to.
 
 They won’t know where we head afterward.
 
-In other words…
+In other words...
 
 “We’re deceiving the enemy into thinking we headed south. If they send troops south, the north will be relatively empty.”
 
-“Exactly. We’ll hide under their noses until the Labyrinth closes.”
+“Exactly. We’ll hide right under their noses until the labyrinth closes.”
 
 “I understand. Did your strategist come up with this too?”
 
@@ -276,7 +273,7 @@ Well, it’s not important.
 
 “Tell everyone to prepare. Once the magic chanting starts, those bastards will swarm us like a pack of dogs.”
 
-“…Understood.”
+“...Understood.”
 
 After sharing the strategy with the team leaders, each of them relayed instructions to their team members.
 
@@ -286,7 +283,7 @@ Tap.
 
 Soon, we descended from the trees where we had been hiding.
 
-Since the mages wouldn’t be able to conceal us with magic while completing the Mass Teleport spell anyway.
+After all, the mages wouldn’t be able to conceal us while completing the mass teleportation spell.
 
 “First time stepping on the ground in three days.”
 
@@ -294,13 +291,13 @@ After a moment to feel the unfamiliar texture of the ground, the five mages of t
 
 Swooooosh—!
 
-To move a large group of 28 people, two mass teleport spells are needed.
+To move a group of twenty-eight people, we needed two mass teleportation spells.
 
 Since a vast amount of mana is used, those with keen magic sense will soon notice the disturbance.
 
 Please, let them take just a little longer to notice.
 
-“…”
+“...”
 
 Leaning against the giant tree, we formed a semi-circular defensive formation as if guarding the mages.
 
@@ -308,7 +305,7 @@ Leaning against the giant tree, we formed a semi-circular defensive formation as
 
 Soon, Erwin, who had an unusually sharp sense, murmured in a low voice.
 
-And after some time passed…
+And after some time passed...
 
 “They stopped after spotting us. Now they’re hurrying back.”
 
@@ -318,7 +315,7 @@ Whiiiiish—!
 
 Before I could give any orders, Erwin shot an arrow into the dark forest.
 
-But…
+But...
 
 “Did you kill him?”
 
@@ -342,7 +339,7 @@ Swoosh.
 
 Now that I have some free time, I checked back one last time.
 
-“The coordinates! The coordinate input here is wrong!”
+“The coordinates! This set of coordinates is wrong!”
 
 “Oh, sorry. I’ll fix it now!”
 
@@ -350,29 +347,29 @@ The mages, aware of the urgency of the situation, drew their magic circles more 
 
 If only this were a dimensional gate spell.
 
-In the original game, only rank 1 mages could cast Dimensional Gate. And the price was steep: the caster’s life.
+In the original game, only Rank 1 mages could cast [Dimensional Gate]. And the price was steep: the caster’s life.
 
-The Dimensional Gate currently in use in the Labyrinth is a modified version of the original.
+The [Dimensional Gate] currently used in the labyrinth is a modified version of the original.
 
 To be precise, it’s a downgraded version.
 
-A Dimensional Gate adapted so that even 4th rank mages can use it.
+A [Dimensional Gate] adapted so that even Rank 4 mages can use it.
 
 Moreover, it can only be used once in a lifetime, and using it doesn’t necessarily cost the caster’s life.
 
-But still…
+But still...
 
-‘Cannot be used on the 7th floor or above.’
+‘Cannot be used on the 7th floor or higher.’
 
 This restriction made me acutely aware of what could’ve been.
 
-‘I should’ve insisted on including a first-tier mage.’
+‘I should’ve insisted on bringing a Rank 1 mage.’
 
 I had requested it, but the Marquis had rejected the idea.
 
-There are very few rank 1 mages even in the Mage Tower, and the Royal Family has only one.
+There are very few Rank 1 mages even in the Mage Tower, and the royal family has only one.
 
-Even if Eye of the Sky is destroyed and our entire team returned alive, losing that one mage would be considered too great a cost.
+Even if the Eye of the Sky were destroyed and our entire team returned alive, losing that one mage would still be considered too great a cost.
 
 Could that really be their reasoning?
 
@@ -382,19 +379,19 @@ It wasn’t a question of logic anymore. Comparing the value of a mage’s life 
 
 The original plan was to send a rescue team to ensure our survival.
 
-Sure, there would be casualties among the rescuers. But given the reputations of the individuals in this expedition, the royal family would have considered such losses acceptable.
+Sure, there would be casualties among the rescuers. But given the reputations of the people in this expedition, the royal family would have considered such losses acceptable.
 
 So, the reason the rescue team hasn’t come is something else—
 
-‘…Let’s stop thinking about this.’
+‘...Let’s stop thinking about this.’
 
 Why hasn’t the rescue team come?
 
 I had pondered this countless times, but I decided not to think about it anymore.
 
-After all, if we return alive, we’ll find out…
+After all, if we return alive, we’ll find out...
 
-“They’re coming…!”
+“They’re coming...!”
 
 And if we don’t return alive, there’s no point in finding out anyway.
 
@@ -410,10 +407,10 @@ As soon as the enemies appeared from the darkness, I emptied my mind.
 
 Now is the time to think of only one thing.
 
-「The character has cast [Gigantification].」
+[The character has cast [Gigantification].]
 
-「The character has used a transformation-type ability.」
+[The character has used a transformation-type ability.]
 
-「Due to the effect of [Primordial Cell], the soul energy consumption of the skill is reduced by half, and the highest stat increases by 1.5 times.」
+[Due to the effect of [Primordial Cell], the soul energy consumption of the skill is reduced by half, and the highest stat increases by 1.5 times.]
 
 Survival.

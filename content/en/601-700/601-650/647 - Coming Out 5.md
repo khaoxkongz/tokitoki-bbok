@@ -28,7 +28,7 @@ Or was she just testing me?
 
 That thought crossed my mind, but considering Hyeon-byeol’s personality, it seemed unlikely.
 
-‘Damn… and it’s not like I can just smash her head like I would with an evil spirit…’
+‘Damn... and it’s not like I can just smash her head like I would with an evil spirit...’
 
 I was stuck, unable to move one way or the other.
 
@@ -50,7 +50,7 @@ She gave a light chuckle and shrugged.
 
 “Truthfully, even until the very end, I wasn’t sure.”
 
-“…What?”
+“...What?”
 
 She had done something this dangerous without certainty?
 
@@ -62,7 +62,7 @@ If she’d investigated me, she should’ve known what happened to the Secret Se
 
 “Haven’t you guessed already?”
 
-“Wait… are you really Black?”
+“Wait... are you really Black?”
 
 “Yes. That’s right.”
 
@@ -72,17 +72,17 @@ Never mind how she managed to enter the Round Table—how did I fail to notice t
 
 “Anyway, I figured if I wore the mask, you’d react somehow. And you did.”
 
-“…I reacted?”
+“...I reacted?”
 
 “Yes. Same as always. When you’re startled, you shut your eyes for a second.”
 
-“Uh…”
+“Uh...”
 
 ‘Did I?, I wasn’t sure, but I’d have to be careful from now on.
 
 “Anyway, thanks to that reaction, I gained a bit of courage. Otherwise, I might have just turned and run.”
 
-“…But why go that far?”
+“...But why go that far?”
 
 “Then why did you?”
 
@@ -90,25 +90,25 @@ Never mind how she managed to enter the Round Table—how did I fail to notice t
 
 “That time, you freaked me out. Demanded to know who I was working under, like you were going to kill me.”
 
-Oh…
+Oh...
 
 She had a point.
 
-But that was because I was worried I might have led her down the wrong path…….
+But that was because I was worried I might have led her down the wrong path.......
 
-“Well, it’s not that I didn’t like it……”
+“Well, it’s not that I didn’t like it......”
 
 Hyeon-byeol looked up at me and said firmly,
 
 “But you were the one who crossed the line first.”
 
-“…….”
+“.......”
 
 With her saying that, I had no response.
 
 No matter the reason, it would be hypocritical to get angry at her for trying to uncover my identity when I had forcibly probed into hers.
 
-“Ha…….”
+“Ha.......”
 
 Rather than scolding her, I decided to ask a more useful question.
 
@@ -132,21 +132,21 @@ The two most impactful ones were:
 
 “That’s how Auril Gavis crossed over to Earth too.”
 
-And then…
+And then...
 
-“Bjorn Jandel and Misha Karlstein… were they really dating, like the rumors say?”
+“Bjorn Jandel and Misha Karlstein... were they really dating, like the rumors say?”
 
 That wasn’t information, just a question I was asked, so I skipped it. But still
 
-‘So she was already almost sure by then…’
+‘So she was already almost sure by then...’
 
 Still, how did a non-explorer like her get such classified information?
 
 “Like I said before, Countess Phefroc really trusts me. I help her with everything, so I get plenty of chances to hear things.”
 
-“…I see.”
+“...I see.”
 
-I wasn’t sure that kind of trust could grant access to such secrets… but knowing Hyun-byeol’s competence, I figured she managed well.
+I wasn’t sure that kind of trust could grant access to such secrets... but knowing Hyun-byeol’s competence, I figured she managed well.
 
 As I nodded in acceptance—
 
@@ -166,11 +166,11 @@ Then Hyeon-byeol looked at me and said with conviction,
 
 It was undeniably reassuring to hear.
 
-But……
+But......
 
-‘I don’t really have any desire to go back……?’
+‘I don’t really have any desire to go back......?’
 
-How should I break this to her……?
+How should I break this to her......?
 
 ***
 
@@ -180,7 +180,7 @@ It might have been different earlier, but after so much time had passed, I didn�
 
 I had a feeling that telling her would only lead to trouble.
 
-‘…I’ll tell her later. Much later.’
+‘...I’ll tell her later. Much later.’
 
 It wouldn’t change anything if I postponed it.
 
@@ -188,15 +188,15 @@ Whether I returned or not, Hyeon-byeol would still need to find a way back.
 
 “By the way, what happened with the marriage proposal? I was waiting to meet you, so I don’t know what happened inside.”
 
-“Ah… that……”
+“Ah... that......”
 
-How in the world should I explain this……?
+How in the world should I explain this......?
 
 My head started to ache, so I just gave her the bottom line.
 
 “I turned down the proposal.”
 
-“Oh… really?”
+“Oh... really?”
 
 “You can hear the details from her later. It seems like she tells you everything anyway.”
 
@@ -216,7 +216,7 @@ Suddenly—
 
 The writing appeared on my side too.
 
-“I think I’ve seen something similar in a fantasy movie before……”
+“I think I’ve seen something similar in a fantasy movie before......”
 
 “Yeah, nothing is original. Anyway, once you write on this, it won’t erase until a day has passed, so it’s not convenient for long conversations.”
 
@@ -228,15 +228,15 @@ I asked what this magic item was called, and she scratched her cheek in embarras
 
 “It’s called a Love Paper.”
 
-“…What?”
+“...What?”
 
 “That’s really what it’s called! Apparently, some mage made it for dating.”
 
-“…Alright then.”
+“...Alright then.”
 
 A Love Paper, huh.
 
-I guess that’d be… “Love Note” in 21st century terms?
+I guess that’d be... “Love Note” in 21st century terms?
 
 “So, that’s all you had for me?”
 
@@ -248,11 +248,11 @@ She looked around and quickly continued.
 
 “Don’t get too close to Countess Phefroc.”
 
-“…Huh?”
+“...Huh?”
 
 “That woman is hiding something very big. Something more dangerous than just being the Marquis’s illegitimate daughter.”
 
-Dangerous, huh…
+Dangerous, huh...
 
 “Got it. I’ll be careful.”
 
@@ -276,7 +276,7 @@ Black hair, black eyes.
 
 A cheap doll with no particularly distinctive features, but its legs were painted black.
 
-“Huh…….”
+“Huh.......”
 
 It was so absurd that I wanted to say something, so I took out the paper Hyeon-byeol had given me.
 
@@ -288,7 +288,7 @@ Characters that no Raphdonia resident could decipher appeared on the blank paper
 
 [LOLOLOLOLOLOLOLOL]
 
-……I want to die.
+......I want to die.
 
 ***
 
@@ -300,7 +300,7 @@ No one in the public knew about my engagement or my shocking confession at the m
 
 Of course, no secret stays hidden forever. Eventually, the right people would know.
 
-‘Honestly, the other matter is causing more of an uproar…….’
+‘Honestly, the other matter is causing more of an uproar.......’
 
 Right after the royal council ended, the policy to close the labyrinths was immediately implemented, and the news spread throughout the city.
 
@@ -308,7 +308,7 @@ Unsurprisingly, the explorers’ reactions were negative, and some extremists we
 
 Also, the fear among the commoners of Ravigion had reached unprecedented levels—something you could sense just by walking through the streets.
 
-‘Well, with the invasion of Noark, the Bifron incident… and now the labyrinths being sealed, it’s only natural, isn’t it?’
+‘Well, with the invasion of Noark, the Bifron incident... and now the labyrinths being sealed, it’s only natural, isn’t it?’
 
 Even without those events, closing the labyrinths would deal a massive blow to the economy.
 
@@ -316,7 +316,7 @@ The value of goods would skyrocket, and people’s spending would sharply declin
 
 Well, according to the newspapers, the royal family was continuously introducing new policies and systems, like tax reductions, to reassure the public. But who knew if it would work?
 
-‘…Better to just focus on my own tasks.’
+‘...Better to just focus on my own tasks.’
 
 In the meantime, I left the sanctuary today to meet with the Melbes alliance leader. We met alone, and I told him everything that happened at the royal council meeting.
 
@@ -334,11 +334,11 @@ Just like this.
 
 “Don’t worry about that. To be frank, we’re just grateful that you turned down the Marquis’s proposal.”
 
-“Then……?”
+“Then......?”
 
 “It might not happen immediately, but I will ensure that all of Melbes mobilizes for you.”
 
-“Hmm…….”
+“Hmm.......”
 
 “Don’t worry. For now, I’ll make sure House Jandel secures the contract for this week’s project.”
 
@@ -352,7 +352,7 @@ Anyway, this should make it easier to bring this up.
 
 “Speak.”
 
-“Since you’re helping my House secure the contract, I have something to say… wouldn’t you say the current situation is beyond just being chaotic?”
+“Since you’re helping my House secure the contract, I have something to say... wouldn’t you say the current situation is beyond just being chaotic?”
 
 “Indeed, it is.”
 

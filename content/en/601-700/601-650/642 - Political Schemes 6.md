@@ -2,7 +2,7 @@
 
 I don’t like the idea of talking about my personal affairs in front of others, but just for today, I gritted my teeth and spoke.
 
-That’s because if I just glossed over it, they would keep bringing it up again and again…
+That’s because if I just glossed over it, they would keep bringing it up again and again...
 
 Besides, this matter also concerned their not-so-biological daughters whom they treated like their own.
 
@@ -34,7 +34,7 @@ And then he asked me this.
 
 “Might I give you one piece of advice?”
 
-“……I’ll hear it.”
+“......I’ll hear it.”
 
 “Someone of your caliber might not need a political marriage. You’ve achieved so much all on your own.”
 
@@ -54,11 +54,11 @@ After all, these were turbulent times Noark’s invasion, the Bifron blockade, a
 
 I suddenly realized that the reasoning behind his advice wasn’t what I had initially thought.
 
-“…Pen really isn’t on my mind.”
+“...Pen really isn’t on my mind.”
 
 “Oh? Then her elder sister might be okay, perhaps?”
 
-“…”
+“...”
 
 When I gave him a dumbfounded stare, Mr. Dragon burst into a frivolous laugh that didn’t suit his serious face.
 
@@ -66,7 +66,7 @@ When I gave him a dumbfounded stare, Mr. Dragon burst into a frivolous laugh tha
 
 As Mr. Dragon laughed heartily, I could feel the somewhat stiff atmosphere instantly become casual.
 
-‘Is this what experience is…?’
+‘Is this what experience is...?’
 
 And since Mr. Dragon was the eldest of them all, his easygoing attitude made it impossible for the others to press further.
 
@@ -74,7 +74,7 @@ And since Mr. Dragon was the eldest of them all, his easygoing attitude made it 
 
 With that, he smoothly changed the topic, and the talk of marriage was over.
 
-“By ‘situation’ you mean…”
+“By ‘situation’ you mean...”
 
 “The Noark invasion, I presume.”
 
@@ -112,7 +112,7 @@ The meeting went on for a while, but it didnt yield anything valuable, and event
 
 After the meeting ended, everyone rose and left the venue. Upon reaching the entrance, I felt a little outmatched.
 
-“…Dumoka, you’ve worked hard.”
+“...Dumoka, you’ve worked hard.”
 
 “Lagcian, your carriage is ready.”
 
@@ -122,7 +122,7 @@ The Dwarves, Fairies, Beast-people, and even the Viscount had their soldiers and
 
 The servants and guards of the Dwarf Chief, the Head of the Karlstein Family, the Fairy Chief, and even the Viscount were waiting for them and greeted them when they arrived. There was even a dragon tribe member who came to greet Mr. Dragon.
 
-“Ahem…!”
+“Ahem...!”
 
 An elderly white-haired Dragon-man who, upon seeing me, quickly hid something he was fidgeting with.
 
@@ -132,11 +132,11 @@ It was the same guy who had once tested my insight at the Dragon Temple using a 
 
 Feeling interested, I tried to look at the puzzle he was hiding, and the old Dragon-man panicked and turned his body away.
 
-“T-this is a different item from that one back then….”
+“T-this is a different item from that one back then....”
 
 Huh? But why is his speech like this again?
 
-Ah… Is it because I’m now a noble and a chief, so it’s hard for him to speak casually like before?
+Ah... Is it because I’m now a noble and a chief, so it’s hard for him to speak casually like before?
 
 “Can I take a look?”
 
@@ -150,7 +150,7 @@ Before, when I had no power or status, I never felt this kind of guilt no matter
 
 “Forget it. I won’t look, so go ahead.”
 
-“…Thank you.”
+“...Thank you.”
 
 “Thank you? Or did I somehow just threaten to steal it without realizing?”
 
@@ -168,15 +168,15 @@ Right, he’s a teleportation-type user.
 
 Seriously, is there any race more overpowered than the Dragon tribe?
 
-‘Well then, I should probably get going too…’
+‘Well then, I should probably get going too...’
 
 Just as I passed through the moderately bustling entrance to head outside, I felt an uncomfortably persistent gaze from somewhere.
 
 ‘What’s with this guy?’
 
-The one sending the gaze was one of the several figures brought by the fairies…
+The one sending the gaze was one of the several figures brought by the fairies...
 
-‘…Huh?’
+‘...Huh?’
 
 The fairy man who made eye contact with me stepped forward decisively and approached me, then revealed his identity.
 
@@ -184,11 +184,11 @@ The fairy man who made eye contact with me stepped forward decisively and approa
 
 It was a famous and familiar name.
 
-“Ah, so you’re the one…”
+“Ah, so you’re the one...”
 
 Belleg Shusia di Tersia.
 
-A top-rank explorer, even among the Fairies, with a status that ranks among the highest…
+A top-rank explorer, even among the Fairies, with a status that ranks among the highest...
 
 “Erwin’s maternal uncle.”
 
@@ -204,19 +204,19 @@ He also helped Erwin in various ways afterwards.
 
 “Likewise.”
 
-“……Huh?”
+“......Huh?”
 
 I offered a handshake with a glad heart, but for some reason, I felt considerable grip strength from his hand.
 
 At first, I genuinely wondered what this was about. It had been a while since anyone had tried that on me.
 
-I thought about how to respond… and in the end, I didn’t squeeze back.
+I thought about how to respond... and in the end, I didn’t squeeze back.
 
 He was important to Erwin, after all.
 
 Even if I out-gripped him, what would that accomplish?
 
-“This is how a grown-up should act…”
+“This is how a grown-up should act...”
 
 I chuckled and waited patiently.
 
@@ -224,7 +224,7 @@ Eventually, he let go.
 
 “As expected, rumors are unreliable.”
 
-…Huh?
+...Huh?
 
 Wait, does he think I’m weak now?
 
@@ -244,11 +244,11 @@ If I had tried to win that handshake, I probably wouldn’t have received this e
 
 But that strange feeling didn’t last long.
 
-“Well then…”
+“Well then...”
 
 After receiving a look from the fairy representative, he joined his group. I was struck by another strange sensation.
 
-‘Beleg Shushia di Tersia…’
+‘Beleg Shushia di Tersia...’
 
 Why do I keep feeling like I’ve seen him somewhere before.
 ***
@@ -257,7 +257,7 @@ The inter-racial meeting was less substantial than I thought it would be.
 
 It was also a place filled with a completely unexpected kind of discomfort.
 
-‘…Sigh, I didn’t really do anything, but I’m incredibly tired.’
+‘...Sigh, I didn’t really do anything, but I’m incredibly tired.’
 
 Now, until the next labyrinth opens, the only remaining schedule is the royal assembly happening two days later.
 
@@ -267,11 +267,11 @@ How would the situation unfold from here?
 
 In my experience, entering a labyrinth during times like these always led to trouble.
 
-“Ugh…”
+“Ugh...”
 
 After thinking briefly on the street, I stopped by the Carnon Administrative Headquarters to send word to the sanctuary.
 
-The content was that since I’m out, I’ll stay a few more days and attend the royal assembly before returning…
+The content was that since I’m out, I’ll stay a few more days and attend the royal assembly before returning...
 
 Thud!
 
@@ -283,7 +283,7 @@ He did give me a silent signal, telling me to come anytime.
 
 Despite my fatigue, I decided that meeting with Mr. Dragon privately would be more productive than resting.
 
-‘…If I knew it would be like this, I should have asked him to take me with him when we parted earlier…’
+‘...If I knew it would be like this, I should have asked him to take me with him when we parted earlier...’
 
 But, as always, I fell asleep in the carriage, and before I knew it, the carriage had arrived at its destination. There were no problems entering the Dragon sanctuary after getting off the carriage.
 
@@ -291,7 +291,7 @@ But, as always, I fell asleep in the carriage, and before I knew it, the carriag
 
 Perhaps due to the Dragon Chief’s instructions, the Dragon-tribe gatekeeper opened the gate without even properly checking my identity.
 
-And…
+And...
 
 ‘Walking really is tough.’
 
@@ -301,21 +301,21 @@ After climbing the mountain for a long time, I finally arrived at the Dragon Tem
 
 “Why? You said to come anytime. Were you just saying that?”
 
-“To be honest… I thought if you were to seek me out, it would be after the royal assembly was over.”
+“To be honest... I thought if you were to seek me out, it would be after the royal assembly was over.”
 
 “We can’t live as long as you folks. We have to live each day to the fullest.”
 
-“Live each day to the fullest… Truly a good saying.”
+“Live each day to the fullest... Truly a good saying.”
 
 “Anyway.”
 
 We weren’t close enough for a small talk, and we had exchanged enough small talk at the previous meeting, so I got straight to the point as soon as we met.
 
-“So… by any chance, is there something you need to tell me? I got the feeling that was the case earlier.”
+“So... by any chance, is there something you need to tell me? I got the feeling that was the case earlier.”
 
 “Actually, as I said before, I thought you would come after the royal assembly. I intended to hear your thoughts then and offer advice if you sought it.”
 
-“…Something’s going to happen at the meeting?”
+“...Something’s going to happen at the meeting?”
 
 “Nothing too dramatic. But since you’ll hear it soon anyway, I’ll tell you now.”
 
@@ -323,7 +323,7 @@ Mr. Dragon first revealed that he knew two things, then continued.
 
 “The first one concerns your marriage.”
 
-“My marriage…?”
+“My marriage...?”
 
 “The royal family wishes to propose a marriage arrangement between you and a noblewoman of human descent.”
 

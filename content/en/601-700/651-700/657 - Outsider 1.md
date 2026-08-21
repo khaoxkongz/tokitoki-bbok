@@ -2,7 +2,7 @@
 
 I had felt it during my time travel: Knowing a future that cannot be changed is close to a curse.
 
-But…
+But...
 
 “Does that mean something will happen a year from now?”
 
@@ -15,13 +15,13 @@ Assuming Baek-ho’s words were true, nothing serious would happen for a year.
 
 “Hyung, if you know in advance, it’s not an event anymore.”
 
-“Then at least tell me this. When that event happens, will District 7 get destroyed again……?”
+“Then at least tell me this. When that event happens, will District 7 get destroyed again......?”
 
-“Hmm, I don’t think so…The event I mentioned isn’t like that…”
+“Hmm, I don’t think so...The event I mentioned isn’t like that...”
 
 That was at least a relief to hear. I was planning to make it big in real estate soon, so that was vital information to know.
 
-‘But… if it’s not that kind of event, then what the hell is he talking about?’
+‘But... if it’s not that kind of event, then what the hell is he talking about?’
 
 While I was quietly racking my brain, Baek-ho suddenly pulled a regretful face.
 
@@ -29,17 +29,17 @@ While I was quietly racking my brain, Baek-ho suddenly pulled a regretful face.
 
 Hints my ass. I didn’t have the slightest clue what he was talking about.
 
-“Anyway, I’ve said everything I needed to. You know what’s next, right…?”
+“Anyway, I’ve said everything I needed to. You know what’s next, right...?”
 
 What?
 
-“…What?”
+“...What?”
 
 The moment I tilted my head, Baek-ho disappeared right before my eyes.
 
 “Poof.”
 
-Ha… I really need to hurry up and get stronger.
+Ha... I really need to hurry up and get stronger.
 
 ***
 
@@ -61,11 +61,11 @@ Kwoooooom—!
 
 We didn’t have heavy machinery, but we had magic. And we weren’t building complicated skyscrapers. Most importantly, the workers themselves were on another level.
 
-“Wait! If you lift it like that, your hips…”
+“Wait! If you lift it like that, your hips...”
 
 “Huh?”
 
-“…You guys surprise me every time. Isn’t it heavy?”
+“...You guys surprise me every time. Isn’t it heavy?”
 
 “This isn’t even a workout!”
 
@@ -85,11 +85,11 @@ Naturally, the purchased land went straight into demolition and reconstruction.
 
 The sooner you put up buildings, the sooner you get tenants, and the sooner you use that rent money to buy more land.
 
-“This will be the house I’ll live in for the next two years…!”
+“This will be the house I’ll live in for the next two years...!”
 
 “It’s cramped, but it has everything you need!”
 
-“Having Bifron next door is unsettling, but I have no choice. House prices in other districts have skyrocketed…”
+“Having Bifron next door is unsettling, but I have no choice. House prices in other districts have skyrocketed...”
 
 Contrary to my worries, it wasn’t hard to find tenants. Since buildings were divided into one-room units, dozens could live in a single building.
 
@@ -103,13 +103,13 @@ As more residents moved in, merchants gained interest, creating a cycle of growt
 
 Of course, not without problems.
 
-“Ahem… sorry, but please forget what I said earlier about selling.”
+“Ahem... sorry, but please forget what I said earlier about selling.”
 
 As District 7 rapidly normalized, several nobles who had intended to sell their land withdrew their offers.
 
-But…
+But...
 
-“Excuse me, Baron…?”
+“Excuse me, Baron...?”
 
 “Ah, I’m really busy, why do you keep coming to me?”
 
@@ -122,27 +122,27 @@ But…
 “I told you to wait, didn’t I? Did I ever say I wouldn’t build it?
 Everything will be built in due time.”
 
-“….”
+“....”
 
 By the way, the families didn’t have the option of hiring their own workers.
 
 The reconstruction of District 7 had to be done exclusively through House Jandel.
 
-“…Fine. We’ll sell.”
+“...Fine. We’ll sell.”
 
 Many families couldn’t stand my blatant scheming and surrendered, though many others still held out.
 
-‘Those ones…I’ll start their construction last.’
+‘Those ones...I’ll start their construction last.’
 
-One month, two months, three months…
+One month, two months, three months...
 
-Time flew by. My business was on track, and I had fewer things to worry about…
+Time flew by. My business was on track, and I had fewer things to worry about...
 
 Earning a lot of money was nice, but nothing good would come from focusing on it alone.
 
 “We’ve finally become a family. Welcome.”
 
-“Phew… I didn’t know it would take this long.”
+“Phew... I didn’t know it would take this long.”
 
 James Carla, vice-leader of the Sawtooth Clan.
 
@@ -160,26 +160,26 @@ Once they left their posts and became ordinary citizens, the Ice Rock Expedition
 
 “Seems similar to Miss Ravien.”
 
-“…It’s not an easy decision. And a lot of time has passed since then.”
+“...It’s not an easy decision. And a lot of time has passed since then.”
 
-“But I just can’t understand it! I still can’t sleep properly because of that incident……!”
+“But I just can’t understand it! I still can’t sleep properly because of that incident......!”
 
-“P-please calm down, Miss Marone……. W-well, they must have their reasons, right?”
+“P-please calm down, Miss Marone....... W-well, they must have their reasons, right?”
 
 Rather than being a matter of logic, I thought of it as one of personality. Some, like Marone, carried it heavily, but most believed it was better to forget about it and move on. And realistically, forgetting is easier.
 
-“Um… but now that we’ve joined… do we have anything to do?”
+“Um... but now that we’ve joined... do we have anything to do?”
 
 “Honestly, I was wondering the same. With the labyrinth closed, what can we even do?”
 
-“Perhaps… the labyrinth will reopen soon?”
+“Perhaps... the labyrinth will reopen soon?”
 
 In response to the new members’ questions, I shook my head.
 
 “No, I haven’t heard any news about the labyrinth opening.
 But I did hear something else.”
 
-“Something else…?”
+“Something else...?”
 
 “In the festival of the thirteenth month, a grand tournament will be held.”
 
@@ -189,19 +189,19 @@ This was high-level information I’d managed to get through my noble connection
 
 “The details could change, but for now, they plan to gather the clans and have them compete. Our first goal is to win that tournament.”
 
-“…Ah! I heard such tournaments were held before!”
+“...Ah! I heard such tournaments were held before!”
 
 “But why hold such a thing at a time like this? I don’t understand.”
 
 “Precisely because of the times. The royal family always wants to distract the people’s eyes.”
 
-“Um… if that’s the first goal… does that mean there’s another?”
+“Um... if that’s the first goal... does that mean there’s another?”
 
 Looking at Sven Parab, who seemed more interested in the second goal, I smirked.
 
 “Of course. But that’s a secret for now.”
 
-“…Excuse me?”
+“...Excuse me?”
 
 “Don’t look like that. It’s just an idea for now. I’ll tell you more once I’ve worked out the details.”
 
@@ -215,21 +215,21 @@ It was an event meant to bring new and old members together, letting them share 
 
 “Miss Karlstein, you look much better.”
 
-“Ah, really? I didn’t notice…”
+“Ah, really? I didn’t notice...”
 
 “You do. In the basement floor 1, you were a bit hard to approach.”
 
-“Haha… was I?”
+“Haha... was I?”
 
 As for goblins and Kaislan, who lived together on the basement floor 1, they were already familiar with everyone, but there were also those meeting for the first time today.
 
 “James Carla! Nice to meet you!!”
 
-“Ah… likewise. I’ve heard much about you.”
+“Ah... likewise. I’ve heard much about you.”
 
 “You use a bow, right? Shoot me once!”
 
-“R-right now…?”
+“R-right now...?”
 
 “You only get close by fighting!”
 
@@ -237,7 +237,7 @@ James Carla and Lyris Marone, who didn’t participate in the 1st basement floor
 
 “Marone, say hello. This is Misha Karlstein. And this is our navigator, Auyen Lokrov.”
 
-“Ah, yes… Nice to meet you both.”
+“Ah, yes... Nice to meet you both.”
 
 Without being overly forward, I just introduced them and stepped aside; the three who understood the intention of this gathering continued chatting amongst themselves.
 
@@ -245,11 +245,11 @@ Ah, of course, that was until Aynar noticed them.
 
 “Hey! What are you three chatting about! Let us in!”
 
-“…Huh?”
+“...Huh?”
 
 “Oh right! Wanna see too? He’s gonna shoot me with an arrow.”
 
-“…I… never agreed to that…”
+“...I... never agreed to that...”
 
 Everyone seemed drained by Aynar’s energy, but I didn’t intervene.
 
@@ -267,7 +267,7 @@ While I was watching Aynar’s antics from a distance, Amelia approached without
 
 I immediately lowered my voice.
 
-“Ah… did you find something?”
+“Ah... did you find something?”
 
 “I can’t confirm the truth yet, but there was progress.”
 
@@ -281,15 +281,15 @@ At my urging, Amelia explained what she had learned. I listened silently.
 
 And after some time—
 
-“But…”
+“But...”
 
 After finishing her explanation, Amelia looked at me with worry.
 
-“Are you really going to do it…?”
+“Are you really going to do it...?”
 
 She had found a method because I asked, but she didn’t seem comfortable with it.
 
-But…
+But...
 
 “There’s no other way.”
 
@@ -310,7 +310,7 @@ It wouldn’t suit an explorer, either.
 
 “Emily, don’t worry too much.”
 
-“……”
+“......”
 
 “In the end, it just means the time has come.”
 

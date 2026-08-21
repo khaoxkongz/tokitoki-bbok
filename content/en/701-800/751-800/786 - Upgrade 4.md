@@ -12,7 +12,7 @@ And above them all, a single Guild Master.
 
 Even most nobles were expected to bow at the mere mention of this guild master’s name, and he was someone I had an even harder time meeting than other high-ranking nobles.
 
-And yet, that elusive man had come here in person…
+And yet, that elusive man had come here in person...
 
 He was far too important to turn away just because he had arrived uninvited. Driven by curiosity, I asked the warrior who delivered the message to bring him to me. I had been meaning to meet and speak with the Guild Master properly anyway.
 
@@ -20,13 +20,13 @@ After all, there was a rather complicated connection between us.
 
 [“Who’s behind this?”]
 
-[“Ilya Adnus…”]
+[“Ilya Adnus...”]
 
 It was during the Ice Rock expedition.
 
 One of our party members, Pike Neldain, had acted under the Guild Master’s orders, sabotaging the expedition to ensure its failure. He tampered with food and supplies. At the time, I thought it was a political move to sabotage the expedition so our sponsor, the marquis, wouldn’t be credited with its success.
 
-But…
+But...
 
 The expedition was a hollow excuse.
 
@@ -78,7 +78,7 @@ Good grief, how many times is this guy going to say ‘thank you’?
 
 “I don’t need that, so just get to the point,” I said, waving him off. “What brings you here today?”
 
-“I heard that you will be promoted to the rank of Viscount for your merit in executing that traitor…”
+“I heard that you will be promoted to the rank of Viscount for your merit in executing that traitor...”
 
 “And?”
 
@@ -120,7 +120,7 @@ Well, since the palace had full control over when the portals opened and closed,
 
 “Our guild needs to prepare and select explorers, so we were informed early. Even if you stayed still, you would have heard soon enough. Even the nobles aren’t such idiots as to exclude you from such a plan.”
 
-Idiots, huh…
+Idiots, huh...
 
 From that word, I could tell he didn’t think highly of nobles.
 
@@ -136,7 +136,7 @@ After pressing him again, he finally revealed his true purpose.
 
 “I would like to take that spot.”
 
-……Has everyone been eating something wrong lately?
+......Has everyone been eating something wrong lately?
 
 ***
 
@@ -156,7 +156,7 @@ By the age of 41, he had become a regional manager.
 
 By the age of 47, he had defeated the previous Guild Master in a vote and taken the top position, which he has held ever since.
 
-Guild Master in just ten years…
+Guild Master in just ten years...
 
 An undeniably talented man.
 
@@ -192,13 +192,13 @@ With just these three, I had no reason to shrink back before a mere guild master
 
 If he tried to drag out his words again or attempted to set conditions, I intended to end the conversation there. Maybe it showed on my face, because he steadied himself and began speaking slowly.
 
-“…I need an achievement.”
+“...I need an achievement.”
 
 “Achievement?”
 
 “The labyrinth has been closed for a long time, and the guild’s standing has diminished greatly. It’s not the guild’s fault the labyrinth closed, but people are looking for someone to blame.”
 
-Looking for someone to blame, is it…
+Looking for someone to blame, is it...
 
 A grin spread across my face. “But the people aren’t blaming the guild. They’re blaming you, aren’t they?”
 
@@ -208,17 +208,17 @@ He couldn’t answer.
 
 “So you decided our clan is the best place to build those achievements.”
 
-“…Yes.”
+“...Yes.”
 
 I couldn’t hide my disappointment.
 
 He wasn’t quite the man I had imagined. I had thought he might be someone driven by a greater cause—someone who planted a spy in the expedition and tried to save us, even at the risk of making an enemy of the marquis.
 
-Maybe he had simply been in a position where he had no choice but to act that way…
+Maybe he had simply been in a position where he had no choice but to act that way...
 
 Perhaps I would see another side of him if I learned more, but for now, that was my impression.
 
-He was just… a Guild Master. I didn’t feel any special aura coming from the man himself. So…
+He was just... a Guild Master. I didn’t feel any special aura coming from the man himself. So...
 
 “If I grant your request, what can you offer me?”
 “First, the Anabada Clan will be elevated to the highest rank under the guild master’s authority, and beyond that, your standing within the guild—”
@@ -230,7 +230,7 @@ I had asked just in case, but nothing stood out as worth it. Raising the clan’
 
 It was the cleanest rejection I could give. Even so, the guild master wasn’t ready to give up.
 
-“…What do you want?”
+“...What do you want?”
 
 His tone implied he was willing to offer anything I asked.
 
@@ -238,14 +238,14 @@ If it were a king saying that, it might mean something. But coming from a guild 
 
 “Give me a dragon’s heart. If you can do that, I’ll let you join us.”
 
-“…What?”
+“...What?”
 
 “Don’t have it? If not, then let’s end it here.”
 
 Just as I was about to tell him to leave, the Guild Master cut me off.
 
-“…Very well. I’ll give it to you.”
+“...Very well. I’ll give it to you.”
 
-“…Huh?”
+“...Huh?”
 
-…Wait, he actually has one?
+...Wait, he actually has one?

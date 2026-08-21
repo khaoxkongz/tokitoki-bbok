@@ -2,13 +2,13 @@
 
 The Crystal Cave, shimmering with a faint, iridescent light.
 
-But perhaps because of the grueling battle I had fought here against Dreadfear…
+But perhaps because of the grueling battle I had fought here against Dreadfear...
 
 I hesitated for a moment as soon as I opened my eyes.
 
-[Just… one person…?]
+[Just... one person...?]
 
-[You… will become… a great warrior…]
+[You... will become... a great warrior...]
 
 Ugh, why were those memories so vivid?
 
@@ -16,13 +16,13 @@ It was an experience I never wanted to relive.
 
 But it was also something that could happen again.
 
-“Mister… are you okay?”
+“Mister... are you okay?”
 
-“…It’s nothing.”
+“...It’s nothing.”
 
 I snapped out of my reverie at Erwen’s worried question and looked at my teammates. Well, it was just Erwen and Misha.
 
-“…….”
+“.......”
 
 Misha had been quiet.
 
@@ -30,11 +30,11 @@ Was she still uncomfortable?
 
 “Misha.”
 
-“…Y-Yes?”
+“...Y-Yes?”
 
 “We’re about to leave. Are you ready?”
 
-“Yes…”
+“Yes...”
 
 Her voice was subdued.
 
@@ -44,7 +44,7 @@ Our first destination was the Great Sage Monument in the center of the Crystal C
 
 We had split into two teams for this expedition.
 
-‘…I need to recruit more clan members…’
+‘...I need to recruit more clan members...’
 
 We had split up because of our limited numbers.
 
@@ -52,7 +52,7 @@ There were only seven of us in the clan.
 
 We had no choice but to split into teams of three and four.
 
-Well, technically, there were six of us, excluding Auyen…
+Well, technically, there were six of us, excluding Auyen...
 
 ‘But we might need a navigator.’
 
@@ -60,7 +60,7 @@ So I had decided to bring him along.
 
 There were several areas, including the 6th-floor Great Ocean, that required a ship and a navigator. I had to be prepared for every possibility.
 
-‘…And if we don’t find anything here, we’ll have to go to the upper floors…’
+‘...And if we don’t find anything here, we’ll have to go to the upper floors...’
 
 I had spent the past few days researching the ‘hidden area’, and there was one thing they all had in common.
 
@@ -74,13 +74,13 @@ The Harmonizer Gregory was a hidden boss that could be encountered on the 5th fl
 
 And ‘Larkaz’s Labyrinth’ was the hidden area that had been added after he was defeated for the first time.
 
-Well, technically, there were three different types of hidden fields…
+Well, technically, there were three different types of hidden fields...
 
 Anyway, the important point was this:
 
 The 1st floor would close on the 7th day. If we didn’t find anything by then, we would have to go to the upper floors.
 
-“…There are a lot of people here…”
+“...There are a lot of people here...”
 
 The central Dark Zone was crowded with explorers.
 
@@ -92,27 +92,27 @@ The explorers searching for the ‘hidden area’ would naturally come here firs
 
 Most of them were wearing high-grade equipment and displaying their clan emblems proudly.
 
-‘There are more than I expected…’
+‘There are more than I expected...’
 
 As we entered the Dark Zone, the explorers who recognized me parted like the Red Sea.
 
-“Hey, isn’t that…?”
+“Hey, isn’t that...?”
 
-“It’s Bjorn Yandel…”
+“It’s Bjorn Yandel...”
 
-“So he’s looking for it too…”
+“So he’s looking for it too...”
 
 They looked at me with a mixture of curiosity and wariness, as if I was a competitor.
 
-“…Maybe he has a clue…”
+“...Maybe he has a clue...”
 
-“He came here first… does that mean there’s something hidden here…?”
+“He came here first... does that mean there’s something hidden here...?”
 
 Being famous was a disadvantage in this situation.
 
 “Misha, stay close.”
 
-“Ah… okay…”
+“Ah... okay...”
 
 We continued through the passage, and soon we reached the chamber with the monument. As expected, it was crowded with explorers.
 
@@ -130,11 +130,11 @@ I asked Amelia for a report.
 
 “Not yet. It seems like the mages from various clans are investigating, but they haven’t found anything.”
 
-“I see…”
+“I see...”
 
 I approached the monument, and the mages who had been examining it stepped aside.
 
-And…
+And...
 
 Gulp!
 
@@ -142,7 +142,7 @@ They watched my every move, their eyes filled with anticipation.
 
 It was a little amusing.
 
-‘I don’t have any clues either…’
+‘I don’t have any clues either...’
 
 I felt a strange sense of déjà vu as I stood in front of the monument.
 
@@ -156,7 +156,7 @@ I read the inscription on the monument.
 
 It was the same inscription I had seen countless times.
 
-‘Nothing’s changed…’
+‘Nothing’s changed...’
 
 I examined the monument carefully, but I couldn’t find anything unusual.
 
@@ -182,11 +182,11 @@ I preferred to work alone.
 
 “Let’s go.”
 
-I was about to leave…
+I was about to leave...
 
 “Baron Yandel.”
 
-…when someone called out to me.
+...when someone called out to me.
 
 It was a man with brown hair, a sword on his hip, and a sturdy build.
 
@@ -216,7 +216,7 @@ I had received countless similar offers recently.
 
 And if I remember correctly, I had ignored a letter from the White Whale Clan.
 
-“Buy it…”
+“Buy it...”
 
 I didn’t intend to sell the information, even if I had it, but I pretended to consider his offer.
 
@@ -224,7 +224,7 @@ I had a question for him.
 
 “Is the White Whale Clan Master here?”
 
-“…He’s probably on the 1st floor, but not in this area.”
+“...He’s probably on the 1st floor, but not in this area.”
 
 “Is he searching the outskirts?”
 
@@ -244,7 +244,7 @@ I implied that the information wouldn’t be worth much if they weren’t seriou
 
 “I see.”
 
-“So… what do you say about our offer…?”
+“So... what do you say about our offer...?”
 
 I ended the conversation.
 
@@ -252,7 +252,7 @@ I ended the conversation.
 
 I had already gotten the information I wanted.
 
-“…I understand. Thank you for your time.”
+“...I understand. Thank you for your time.”
 
 We left the Great Sage Monument.
 
@@ -300,13 +300,13 @@ I would cast random spells whenever I felt something was off.
 
 I would burn, freeze, and even throw looter corpses at suspicious objects.
 
-And after almost ten years of doing that…
+And after almost ten years of doing that...
 
 I had discovered countless hidden pieces.
 
-And I had developed a certain… intuition.
+And I had developed a certain... intuition.
 
-‘The problem is that I haven’t invested anything in that area…’
+‘The problem is that I haven’t invested anything in that area...’
 
 I didn’t have any characters specialized in luck or exploration.
 
@@ -314,11 +314,11 @@ My companions and I were all combat-focused.
 
 I had assumed that I already knew all the hidden pieces.
 
-‘But at least I can read ancient language now…’
+‘But at least I can read ancient language now...’
 
 Well, it wouldn’t be of much help if the hidden piece didn’t involve ancient language.
 
-But…
+But...
 
 Thump!
 
@@ -344,7 +344,7 @@ Ainar was the only one who seemed to be enjoying it. The others looked like they
 
 “Just endure it! This is the basic method for finding Gavrilius’s arrangements.”
 
-“…Basic method?”
+“...Basic method?”
 
 “That’s what it said in a book I read!”
 
@@ -358,7 +358,7 @@ The moss-covered puddle.
 
 The Crystal Cave’s terrain changed randomly, but there were a few fixed locations.
 
-And…
+And...
 
 ‘Hidden pieces are usually hidden in specific locations.’
 
@@ -374,9 +374,9 @@ We split up and searched the Dark Zone, using a designated spot as our base.
 
 And after we finished searching the area, we moved to a different location and repeated the process.
 
-Day 1, Day 2…
+Day 1, Day 2...
 
-And then, about two hours before the start of Day 3…
+And then, about two hours before the start of Day 3...
 
 We finally found something.
 
@@ -394,7 +394,7 @@ Step, step.
 
 They drew their weapons as we approached, but then they hesitated as they recognized me.
 
-“Stop! Wait… B-Baron Yandel…?”
+“Stop! Wait... B-Baron Yandel...?”
 
 Right, they couldn’t be aggressive towards me.
 
@@ -402,29 +402,29 @@ Right, they couldn’t be aggressive towards me.
 
 I asked, stepping closer, and the explorers, their faces pale with fear, said,
 
-“W-We’re camping here… P-Please… go around us…”
+“W-We’re camping here... P-Please... go around us...”
 
 It was definitely suspicious.
 
-“Camping…? What are you talking about?”
+“Camping...? What are you talking about?”
 
-“……?!”
+“......?!”
 
 “Don’t use difficult words!”
 
 I charged forward, breaking through their lines.
 
-“Uh…!”
+“Uh...!”
 
-“W-Wait…”
+“W-Wait...”
 
 They couldn’t do anything but watch.
 
 I entered the passage, and fifteen explorers, who had been gathered near the wall, flinched as if they had been caught doing something wrong.
 
-“……!”
+“......!”
 
-“……!”
+“......!”
 
 A heavy silence filled the air.
 
@@ -434,31 +434,31 @@ A man peeked out from a small crevice in the wall.
 
 “Oh, there’s a hidden passage here?”
 
-“Uh… Wh-Who are you…?”
+“Uh... Wh-Who are you...?”
 
 “Bjorn, son of Yandel. Are you the leader?”
 
-“Y-Yes…”
+“Y-Yes...”
 
 “What’s inside?”
 
-“N-Nothing… there’s nothing here…”
+“N-Nothing... there’s nothing here...”
 
 “I don’t think so.”
 
 I smirked, and he closed his eyes and shouted,
 
-“…W-We found this place first!”
+“...W-We found this place first!”
 
 Damn it, now we looked like the bad guys.
 
-“You found it first…?”
+“You found it first...?”
 
 “Y-Yes! If you steal our discovery, it will damage your reputation, Baron Yandel—”
 
 “Did the other explorers you encountered say the same thing?”
 
-“…What… do you mean…?”
+“...What... do you mean...?”
 
 What do I mean?
 
@@ -468,11 +468,11 @@ I grabbed him by the hair and pulled him out of the crevice.
 
 “Your sleeve.”
 
-“…?”
+“...?”
 
 “There’s blood on your sleeve.”
 
-“……!”
+“......!”
 
 “Whose blood is it?”
 

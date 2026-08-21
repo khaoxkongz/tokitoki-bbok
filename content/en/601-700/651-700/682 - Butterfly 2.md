@@ -4,7 +4,7 @@ The ship that had been gliding across the starlit waves finally came to a stop u
 
 Crunch.
 
-The moment my feet touched the rough, gritty earth…
+The moment my feet touched the rough, gritty earth...
 
 「The character has entered a special area.」
 「Field Effect – Dragonbone Mountain has been applied.」
@@ -20,7 +20,7 @@ And the effects didn’t end there.
 
 「A random Essence has been sealed.」
 
-Ugh… My stats have taken a hit.
+Ugh... My stats have taken a hit.
 
 I felt as if one of my stat essences had been taken from me.
 
@@ -54,7 +54,7 @@ But I had planned to replace Storm Gush eventually anyway. Losing it won’t aff
 
 Unlike Baek-ho.
 
-“Ah, damn it……!!!”
+“Ah, damn it......!!!”
 
 “Baek-ho, what’s wrong?”
 
@@ -64,7 +64,7 @@ In Baek-ho’s case, his highest-value essence was sealed.
 
 Since he had probably set up his other essences to supplement the floor lord’s essence, the loss of combat power would be even greater.
 
-“…Ah, that’s a problem”
+“...Ah, that’s a problem”
 
 “Wouldn’t it be better to go back and come again later?”
 
@@ -72,27 +72,27 @@ Since he had probably set up his other essences to supplement the floor lord’s
 
 He waved his hand like an annoyed old man, then leaned in and lowered his voice.
 
-“So… how’d the rest of you do? Did you get a good roll?”
+“So... how’d the rest of you do? Did you get a good roll?”
 
-“Uh… mine’s better than before. I did lose a combat-related one, but it won’t affect my role much.”
+“Uh... mine’s better than before. I did lose a combat-related one, but it won’t affect my role much.”
 
 “Mine’s good!”
 
-“What about you, Baron…?”
+“What about you, Baron...?”
 
 “Same here. The one that got sealed doesn’t matter much.”
 
-“Oh… that so…?”
+“Oh... that so...?”
 
 He looked around awkwardly. It seemed he hadn’t expected everyone else to be okay with their seals.
 
 Still, he took it in a positive light. “Fine, whatever. I got screwed, so that just means the rest of you will carry harder. I’ll just be a bot.”
 
-“Baek-ho… what’s a bot?”
+“Baek-ho... what’s a bot?”
 
 “Don’t worry about it. There are just these annoying bastards who sit around waiting for their entire team to babysit them.”
 
-“Babysit…?”
+“Babysit...?”
 
 Listening to their exchange, at least one thing became clear.
 
@@ -120,7 +120,7 @@ Squish, step, crunch.
 
 「Zombie Lord has been defeated.」
 「Bone Drake has been defeated.」
-「Dark Knight has been defea…….」
+「Dark Knight has been defea.......」
 
 They came every five minutes.
 
@@ -130,7 +130,7 @@ If your stats are lacking, hunting is impossible, but the peak difficulty was re
 
 Except for one particular case.
 
-Yeah… let’s not think about that. Bad luck invites bad luck.
+Yeah... let’s not think about that. Bad luck invites bad luck.
 
 Either way, we continued circling around the areas we still needed to fill in on the map.
 
@@ -156,7 +156,7 @@ But seriously, where on earth did he find a Karui priest of her calibre? The sac
 
 I took the chance to approach Jayna.
 
-“…?”
+“...?”
 
 She acted like I was about to do something bad to her.
 
@@ -166,7 +166,7 @@ She acted like I was about to do something bad to her.
 
 “Go ahead.”
 
-“Is he… quiet?”
+“Is he... quiet?”
 
 Her brows furrowed more.
 
@@ -178,7 +178,7 @@ Thinking she might not have understood, I mentioned him by name, but her express
 
 “As I said, this is for the party’s safety. If there’s a possible variable, I need to be aware of it.”
 
-“…So what exactly are you worried about?”
+“...So what exactly are you worried about?”
 
 “Literally that. Is Karui quiet right now? You haven’t offered any sacrifices since leaving the walls, right?”
 
@@ -188,7 +188,7 @@ Karui always demands offerings in exchange for great power, and to make these of
 
 And perhaps she somewhat understood my concern about this.
 
-“…You don’t have to worry. That’s all.”
+“...You don’t have to worry. That’s all.”
 
 “Can you be more specific? If you want me to truly not be concerned, that is.”
 
@@ -198,7 +198,7 @@ She hesitated for a moment, then answered.
 
 “Is there no reason to make them? Or can you not make them?”
 
-“………I can’t make them.”
+“.........I can’t make them.”
 
 Oh, interesting.
 
@@ -212,7 +212,7 @@ I wanted to ask more, but we resumed our search.
 
 Even so, one question stuck with me.
 
-“…Why does Karui’s connection break outside the walls?”
+“...Why does Karui’s connection break outside the walls?”
 
 He’s one of the beings referred to as ‘gods’, isn’t this a bit strange?
 ***
@@ -225,7 +225,7 @@ Rustle.
 
 From the center of the crater created by the meteor, a massive black monster rose to its feet.
 
-[Grrrrrrrr…….]
+[Grrrrrrrr.......]
 
 Its appearance vaguely resembled a skeleton.
 
@@ -251,13 +251,13 @@ Just as I was about to tell everyone to get ready for combat, GM—who’d been 
 
 “Wait! Please wait a moment!”
 
-“…What?”
+“...What?”
 
 “Regarding Vandemon, there is very reliable information that if three people defeat it, you can definitely obtain an Essence!”
 
-Huh…
+Huh...
 
-Uh… wasn’t that something I shared at the Round Table?
+Uh... wasn’t that something I shared at the Round Table?
 
 Judging by what he’s saying, he must have gotten it from there.
 
@@ -265,7 +265,7 @@ Judging by what he’s saying, he must have gotten it from there.
 
 “What the hell are you talking about?”
 
-“…Pardon, What?”
+“...Pardon, What?”
 
 “You want just the three of us to fight it? All that for one rank-three essence?”
 
@@ -273,7 +273,7 @@ Baek-ho directed his usual cynical tone at the GM.
 
 “To get the essence, we’d need to use Distortion. And if Distortion fails?”
 
-“Ah…”
+“Ah...”
 
 “You’re a mage but you didn’t think that far? Or are you just dying to show off what you know?”
 
@@ -288,7 +288,7 @@ Usually, you hunt Vandemon after casting ‘Distortion’.
 
 The value of the byproducts is one thing, but if the ‘Distortion’ magic is successful, you can obtain the Numbers item.
 
-And…
+And...
 
 ‘This is outside the city walls, where the rules are the opposite of the labyrinth.’
 
@@ -306,7 +306,7 @@ If I took that hit directly, something in my body would break.
 
 This monster wasn’t called the Tank Slayer for nothing.
 
-In terms of pure power, it’s on par with or even exceeds an Ogre…
+In terms of pure power, it’s on par with or even exceeds an Ogre...
 
 And now, with our physical resistance halved by the field effect—
 
@@ -320,9 +320,9 @@ Unless the tank’s proficiency level was overwhelmingly high, that is.
 
 Just hold up my shield and block. Easy.
 
-[Grruk……?]
+[Grruk......?]
 
-…Why do you look confused?
+...Why do you look confused?
 
 Why do you think I built around Giantization, even though it was only a rank 5 skill?
 
@@ -384,11 +384,11 @@ Well, it’s probably the same for him too.
 
 “Parties have been wiped because of loot disputes. Let’s settle this cleanly.” Unable to simply sit and watch, Ruin Gramps stepped forward and held out two dice in his hand.
 
-“…I’m fine with that.”
+“...I’m fine with that.”
 
 But Baek-ho didn’t look satisfied.
 
-“…Do we really have to? You could just let us have it once.”
+“...Do we really have to? You could just let us have it once.”
 
 “Do I have any reason to?”
 
@@ -400,9 +400,9 @@ But Baek-ho didn’t look satisfied.
 
 The awkward silence that followed was almost funny.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 He stared at me, like waiting for me to back down.
 
@@ -410,19 +410,19 @@ I didn’t.
 
 So finally—
 
-“…Fine. Let’s roll. Each person gets one roll. You guys have five, you two get two. Highest total takes it. Deal?”
+“...Fine. Let’s roll. Each person gets one roll. You guys have five, you two get two. Highest total takes it. Deal?”
 
 “Deal.”
 
 Just as we finished agreeing, the GM raised his hand hesitantly.
 
-“Um… may I roll separately? If I win, I keep it to myself…”
+“Um... may I roll separately? If I win, I keep it to myself...”
 
 Good Lord! Greedy demons are everywhere!
 
-“You can talk that over with the Baron later… For now, we’ll roll first, okay? Hey, I’ll roll for all of you, alright?”
+“You can talk that over with the Baron later... For now, we’ll roll first, okay? Hey, I’ll roll for all of you, alright?”
 
-“Uh… Baek-ho? Shouldn’t each person roll for themselves?”
+“Uh... Baek-ho? Shouldn’t each person roll for themselves?”
 
 “You don’t trust me?”
 
@@ -434,7 +434,7 @@ He began rolling.
 
 After wrapping things up like a dictator, Lee Baek-ho started rolling the dice. I swallowed nervously as I watched the results.
 
-And…
+And...
 
 ‘2’
 
@@ -442,29 +442,29 @@ In the process, I learned one new fact.
 
 ‘3’
 
-This bastard…
+This bastard...
 
 2.
 
-…is actually terrible at rolling dice.
+...is actually terrible at rolling dice.
 
 4.
 
 The numbers were low, especially considering they were the combined totals of two six-sided dice. But the number of attempts saved him.
 
-“9…?”
+“9...?”
 
-“It’s… 9.”
+“It’s... 9.”
 
 “That’s it! I win!!”
 
 GM rolled next, hoping for a miracle.
 
-“…8.”
+“...8.”
 
 “So then it’s just the Baron left. And just so we’re clear—since we’re rolling for it, you don’t get credit for being generous if you lose.”
 
-“………”
+“.........”
 
 “If you’d just given it to us, I would’ve returned the favor later, you know.”
 
@@ -482,7 +482,7 @@ I released them across the board.
 
 Time always slows in moments like these.
 
-clatter, clatter, roll…
+clatter, clatter, roll...
 
 And finally—
 
@@ -492,9 +492,9 @@ Tumble tumble.
 
 The rolling dice soon stopped, revealing the result.
 
-“……Huh.”
+“......Huh.”
 
-“……It’s 12?”
+“......It’s 12?”
 
 “It’s 12.”
 
@@ -508,9 +508,9 @@ The highest possible result achievable with two dice.
 
 After announcing he’d honor the results, Baekho turned away from the Siege Slaughterer lying on the ground.
 
-“Ha… What are you doing? Aren’t you going to take it quickly?”
+“Ha... What are you doing? Aren’t you going to take it quickly?”
 
-“Uh……”
+“Uh......”
 
 The current situation was all too clear.
 
@@ -518,12 +518,12 @@ I had ‘luckily’ won the dice roll and obtained the most valuable loot from t
 
 This should undoubtedly be a cause for great joy.
 
-But…
+But...
 
 Badump, Badump, Badump-!
 
-Why, of all things…
+Why, of all things...
 
-‘I… won the dice roll…?’
+‘I... won the dice roll...?’
 
 Why does my heart keep racing like this?

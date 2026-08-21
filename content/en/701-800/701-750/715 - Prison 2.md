@@ -8,9 +8,9 @@ It was steeped in rumors. People whispered about a terrifying monster being seal
 
 ‘I think the warm water is coming out faster than at my house.’
 
-The facilities were far too luxurious to be an underground prison. It’s more like staying in a suite at a five-star hotel. There are three rooms and the bed is so large that I could roll over twice and still have space left. The bathroom even features a massive tub…
+The facilities were far too luxurious to be an underground prison. It’s more like staying in a suite at a five-star hotel. There are three rooms and the bed is so large that I could roll over twice and still have space left. The bathroom even features a massive tub...
 
-“……Not bad.”
+“......Not bad.”
 
 Of course, not all cells in the underground prison were like this.
 
@@ -30,9 +30,9 @@ He then explained that the Noarkans were being held on the fifth underground flo
 
 After some friendly small talk, he left after saying something rather ominous.
 
-“…I’ll be going now. Like I said earlier, rest for the next two days and don’t overthink things. The fact that the Marquis hasn’t taken any action against you might mean something else.”.”
+“...I’ll be going now. Like I said earlier, rest for the next two days and don’t overthink things. The fact that the Marquis hasn’t taken any action against you might mean something else.”.”
 
-“…Huh? What do you mean by that?”
+“...Huh? What do you mean by that?”
 
 “He may actually be hoping that you try to escape. Even if you’re only being held for two days, it doesn’t reduce the severity of a jailbreak.”
 
@@ -40,27 +40,27 @@ With those words, Knight Gramps left to attend to his duties, leaving me with a 
 
 ‘It certainly makes sense.’
 
-After all, the Marquis had treated me excessively well for someone locked in a cell. Knowing my personality, he could have imposed far more restrictions to ensure I couldn’t escape. Instead, he put me in a special cell without any restraints. Honestly, if I felt like it, I could rip the door off its hinges and walk out right now…
+After all, the Marquis had treated me excessively well for someone locked in a cell. Knowing my personality, he could have imposed far more restrictions to ensure I couldn’t escape. Instead, he put me in a special cell without any restraints. Honestly, if I felt like it, I could rip the door off its hinges and walk out right now...
 
-“…Are you there?”
+“...Are you there?”
 
 For some reason, a second visitor arrived not long after Knight Gramps left. Was this place open to the public or something?
 
 The thought almost made me laugh.
 
-‘Well… not just anyone.’
+‘Well... not just anyone.’
 
 It just so happened that many people around me held positions high enough to gain access to the royal underground prison.
 
 Like this second visitor.
 
-“Ragna…”
+“Ragna...”
 
-“It’s been a while. Are you feeling unwell anywhere? I heard this prison is… different from what one would expect, but I can’t see the inside of your room from here.”
+“It’s been a while. Are you feeling unwell anywhere? I heard this prison is... different from what one would expect, but I can’t see the inside of your room from here.”
 
 “It’s probably just as you heard. Nothing uncomfortable. The meals seem decent enough too.”
 
-“Ah… is that so? I’m relieved.”
+“Ah... is that so? I’m relieved.”
 
 “So, why are you here?”
 
@@ -70,17 +70,17 @@ When I asked the reason for her visit, Ragna hesitated before sliding a packaged
 
 With such thoughts, I quietly unwrapped it to see what was inside.
 
-“…Cookies?”
+“...Cookies?”
 
 The small box was filled with nothing but cookies. Ah, maybe she had hidden a note inside one of them? I quickly picked one up and took a bite.
 
-“I heard that dessert wouldn’t be served with the meals……. I baked them myself, but… are they to your taste?”
+“I heard that dessert wouldn’t be served with the meals....... I baked them myself, but... are they to your taste?”
 
-“Oh… uh? Yeah, they’re delicious!”
+“Oh... uh? Yeah, they’re delicious!”
 
 “Hehe, you don’t have to shout for me to hear you.”
 
-“…….”
+“.......”
 
 I wondered if the Marquis had sent her, but it seemed she really just wanted to see my face and bring me something to eat. As we made small talk through the door, it occurred to me that I should ask her about it.
 
@@ -92,7 +92,7 @@ I considered asking, but ultimately decided against it. If it were the Marquis, 
 
 Suddenly, it struck me like lightning.
 
-“…What is it?” Ragna seemed confused at my reaction.
+“...What is it?” Ragna seemed confused at my reaction.
 
 Come to think of it, had the Marquis mentioned it to me? Though it felt rude, I ignored Ragna’s question and replayed my conversation with the Marquis.
 
@@ -100,7 +100,7 @@ Come to think of it, had the Marquis mentioned it to me? Though it felt rude, I 
 
 The more I replayed our conversation, the more certain I became.
 
-[So… you discovered them while searching my manor?]
+[So... you discovered them while searching my manor?]
 
 Despite surely having heard all the news about what happened within his estate.
 
@@ -108,7 +108,7 @@ Despite surely having heard all the news about what happened within his estate.
 
 The marquiss never mentioned the secret office I’d entered alone, nor did he try to question me about it. That was something that should have come up no matter what, even in passing.
 
-‘……Was it not that important a secret?’
+‘......Was it not that important a secret?’
 
 Maybe it wasn’t something worth hiding, even if someone discovered it. So, perhaps the Marquis didn’t react much because of that?
 
@@ -118,23 +118,23 @@ It’s not an unreasonable assumption, but my past experiences tell me otherwise
 
 It’s the opposite. The Marquis didn’t mention it at all because that ‘secret’ is far too important.
 
-And if this assumption is correct…
+And if this assumption is correct...
 
-‘…I might be the one in the most danger.’
+‘...I might be the one in the most danger.’
 
 Perhaps I shouldn’t be worrying about my comrades in District 7 right now.
 
-“…Just what are you thinking?” Ragna asked cautiously
+“...Just what are you thinking?” Ragna asked cautiously
 
-It wasn’t something I could just tell Ragna, the marquis’s daughter. Therefore…….
+It wasn’t something I could just tell Ragna, the marquis’s daughter. Therefore.......
 
-“…My stomach hurts!”
+“...My stomach hurts!”
 
-“……Pardon?”
+“......Pardon?”
 
 “I have to go to the bathroom right now! Oh, and I’ll enjoy the cookies! Thanks!”
 
-“What? Ah…. Yes……….”
+“What? Ah.... Yes..........”
 
 I used my barbarian-style evasion tactic to bring my conversation with Ragna to an end. After she left, my stomach really did start acting up, so I went to sit down on the toilet.
 
@@ -148,11 +148,11 @@ Flash-!
 
 It exploded right there, emitting a bright light.
 
-‘A flashbang…?’
+‘A flashbang...?’
 
 At first, I thought that, but the light wasn’t blindingly intense, and I didn’t feel any damage on my skin where the light touched.
 
-‘Who is it…?’
+‘Who is it...?’
 
 It didn’t seem like an attack. Still, just in case, I grabbed my hammer and approached the door when a voice came from the other side.
 
@@ -186,7 +186,7 @@ The village chief immediately got to the point, as though time was short.
 
 “It will begin soon.”
 
-No… Wasn’t this too straight to the point?
+No... Wasn’t this too straight to the point?
 
 “Begin? What do you mean by that?”
 
@@ -214,13 +214,13 @@ But the Village Head spoke first.
 
 “It’s about time. The person after me will tell you the rest.”
 
-And then…
+And then...
 
 Tap-tap-tap-tap-!
 
 I heard urgent footsteps approaching my cell. It wasn’t the village chief or Knight Gramps. I could tell from the sound alone that it was an ordinary person with no martial training.
 
-‘Ragna…?’
+‘Ragna...?’
 
 She was the first person that came to mind, but surprisingly, the visitor turned out to be my fourth unique guest of the day.
 
@@ -228,7 +228,7 @@ Bang, bang, bang!
 
 “Mr. Jandel!! Mr. Jandel!!”
 
-“Raven…?”
+“Raven...?”
 
 “Oh, you’re here! Thank goodness! I’ll open the door for you right now—”
 
@@ -236,11 +236,11 @@ Bang, bang, bang!
 
 I ripped the door, which had been pointless from the start, off its hinges and stepped outside.
 
-“Huh…?”
+“Huh...?”
 
 “Hurry up and get to the point. What is happening above me right now?”
 
-“Ah, right…!”
+“Ah, right...!”
 
 Raven snapped back to her senses at the sound of my voice and hurriedly filled me in. “Thunder! Thunder struck the Palace of Glory!”
 
@@ -256,17 +256,17 @@ I grabbed Raven by the shoulders and pressed down firmly. I did not know exactly
 
 “Calm down, Raven.”
 
-“But……!”
+“But......!”
 
 “I said calm down.”
 
-“……”
+“......”
 
 When I spoke firmly, Raven bit her lip and went silent. Her trembling didn’t disappear, but she was much better than the panicked mess she was a moment ago.
 
-“The 7th District… is there any news about how the 7th District is doing?”
+“The 7th District... is there any news about how the 7th District is doing?”
 
-Hmm… so that’s how it is.
+Hmm... so that’s how it is.
 
 Then I asked one final thing.
 
@@ -276,7 +276,7 @@ Then I asked one final thing.
 
 “I see.”
 
-Somehow, I got the feeling that… No, actually, I was sure of it.
+Somehow, I got the feeling that... No, actually, I was sure of it.
 
 The Marquis is alive.
 
@@ -284,7 +284,7 @@ In fact, it might have been him who activated Thunder in the first place. After 
 
 “Give me a moment.”
 
-“…What? A moment? This isn’t the time for that, we need to get out of here right now—!”
+“...What? A moment? This isn’t the time for that, we need to get out of here right now—!”
 
 “Just a moment. That’s all.”
 
@@ -300,11 +300,11 @@ Running away right now would be the worst possible move.
 
 With everything plunged into chaos, escaping to reunite with my allies in District Seven was possible and, logically, the safest option. However, every situation had a golden window. The initial response could drastically alter the final outcome.
 
-Yes, so……
+Yes, so......
 
 “You go first, Raven.”
 
-“…What? What are you talking about? Are you crazy? Mr. Jandel, you just don’t understand what’s happening up there, hey, where are you going?!”
+“...What? What are you talking about? Are you crazy? Mr. Jandel, you just don’t understand what’s happening up there, hey, where are you going?!”
 
 Seeing me start walking, Raven cried out in alarm.
 
@@ -316,7 +316,7 @@ And—
 
 “The fifth underground floor” I called back to her.
 
-“The 5th underground floor…? Why are you trying to go there!”
+“The 5th underground floor...? Why are you trying to go there!”
 
 According to Knight Gramps, they are locked up there.
 

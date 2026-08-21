@@ -8,9 +8,9 @@ I am an ordinary person with flaws and imperfections.
 
 But I am never ashamed of being that kind of person.
 
-But…….
+But.......
 
-“Haa…….”
+“Haa.......”
 
 Today, more than ever, I am ashamed of myself.
 
@@ -48,7 +48,7 @@ She’s solid and dependable in any situation, you could say.
 
 And honestly, she has her cute sides too.
 
-But, the problem is…….
+But, the problem is.......
 
 ‘Why aren’t those three the end of it?’
 
@@ -64,7 +64,7 @@ Like a teenage boy imagining his grandchildren’s names just from a kind smile,
 
 Surprisingly, it seemed like a happy life awaited me no matter who I ended up with.
 
-‘……Am I really a crazy bastard?’
+‘......Am I really a crazy bastard?’
 
 I really don’t understand myself.
 
@@ -76,7 +76,7 @@ But then, why did multiple faces come to mind at that time?
 
 After being lost in thought for a long time, I found an answer that seemed closest to the truth.
 
-‘……Maybe it was only natural.’
+‘......Maybe it was only natural.’
 
 I still haven’t made up my mind about anyone. After what happened with Misha, I’ve been suppressing and burying these kinds of feelings as much as possible.
 
@@ -88,7 +88,7 @@ After all, they’re all the women in my life, right?
 
 From an outsider’s perspective, it might just sound like rationalization, but coming to that conclusion made me feel better.
 
-So…….
+So.......
 
 Snore! Snoooore!
 
@@ -98,15 +98,15 @@ I slipped out of the newly constructed building that had been built where the ch
 
 “You woke up early?.”
 
-Uh….
+Uh....
 
-“Haha, I was just thinking of taking a walk….”
+“Haha, I was just thinking of taking a walk....”
 
 I laughed awkwardly and glanced around, but Amelia let out a light laugh.
 
 “Don’t worry. The others aren’t around. I persuaded them well that waiting for you was pointless, so I sent them all away.”
 
-“Ooh… Is that so……?”
+“Ooh... Is that so......?”
 
 “You’ll have to give a proper answer someday. Everyone’s curious about what choice you’ll make.”
 
@@ -114,13 +114,13 @@ As if she had been waiting to say that, Amelia turned away coolly as soon as she
 
 On second thought, ‘cool’ wasn’t exactly the right word for her.
 
-“And… I don’t know where you’re planning to go today, but don’t come back too late. If you’re planning to stay out, let me know in advance.”
+“And... I don’t know where you’re planning to go today, but don’t come back too late. If you’re planning to stay out, let me know in advance.”
 
 Even while walking away stylishly, she stopped midway to toss in a remark like a nagging mother.
 
 Well, I guess that’s part of her charm too.
 
-‘Sigh… How did the marriage talk even come up at the dinner table……?’
+‘Sigh... How did the marriage talk even come up at the dinner table......?’
 
 This is why people should watch what they say. Life and death could be sealed by the slip of a tongue.
 
@@ -135,11 +135,11 @@ I’d only meant to walk around a bit, but before I knew it, I’d passed throug
 Because reconstruction hadn’t really begun yet, the place was practically a ruin.
 Residents lying like vagrants under blankets in front of collapsed houses saw me and got to their feet.
 
-“The Giant…! It’s the Giant!”
+“The Giant...! It’s the Giant!”
 
 “What? The Baron has come?”
 
-“Baron Jandel…!!”
+“Baron Jandel...!!”
 
 Was it because of the reputation of being a hero?
 
@@ -149,7 +149,7 @@ Of course, it wasn’t all good.
 
 It was fine when they just offered thanks and blessings as I passed. But not everyone did.
 
-“P-please! Help my family! Our shop was destroyed, and if things stay like this, we won’t be able to pay next year’s taxes…!”
+“P-please! Help my family! Our shop was destroyed, and if things stay like this, we won’t be able to pay next year’s taxes...!”
 
 Begging for aid or sympathy was one thing.
 
@@ -163,7 +163,7 @@ Some demanded answers.
 
 Many acted as if I owed them an explanation, as if I were responsible for something I hadn’t done.
 
-‘I mean… I can’t really blame them.’
+‘I mean... I can’t really blame them.’
 
 Their lives were hard enough as it was, and without real news, their frustration must have been unbearable.
 
@@ -181,9 +181,9 @@ Their lives were hard enough as it was, and without real news, their frustration
 
 Rather than getting angry at them, I continued down the street, offering words of encouragement and giving them the answers they hoped for.
 
-And after walking a bit more…
+And after walking a bit more...
 
-‘…I wonder if she’s here?’
+‘...I wonder if she’s here?’
 
 Since I was here anyway, I also visited the Mage Tower.
 
@@ -213,13 +213,13 @@ Just then, Raven appeared behind me at the research lab.
 
 “Hey, you should make some noise when you walk around.”
 
-“…What?”
+“...What?”
 
 “Come on, that’s no way to talk to a baron. And you’re so short, too.”
 
 “Why are you picking a fight the moment you see me? Did something piss you off on the way here?”
 
-“…”
+“...”
 
 “What, something did happen?”
 
@@ -267,39 +267,39 @@ Honestly, since she knows almost everything I’ve been through, it didn’t see
 
 Was I really cursed with the name Hansu?
 
-I was seriously pondering that question when…
+I was seriously pondering that question when...
 
-“By the way… what a shame it turned out that way.”
+“By the way... what a shame it turned out that way.”
 
 Raven continued in a voice dripping with sincerity.
 
 “The essences from the first basement floor. I heard you gave them all away to ordinary explorers. Just researching them could’ve guaranteed years of academic awards.”
 
-“Ah, that…”
+“Ah, that...”
 
 “Don’t get me wrong—I’m not blaming you. Honestly, I thought it was very you to do that.”
 
-“…Me?”
+“...Me?”
 
 For a moment, I wondered if she’d somehow figured out the full truth, but no.
 
-“You gave them up for the city and the people, right? It wasn’t wise, but no one can deny… personally, I think it was admirable.”
+“You gave them up for the city and the people, right? It wasn’t wise, but no one can deny... personally, I think it was admirable.”
 
 She glanced up at me with a shy, almost respectful look I’d never seen from her before.
 
-“Uh… really?” I stammered
+“Uh... really?” I stammered
 
 “Yes.”
 
-“But… listen.”
+“But... listen.”
 
-“…?”
+“...?”
 
 Her expression was so serious I couldn’t even joke like usual. Instead, I corrected her assumption directly.
 
-“But, you know…”
+“But, you know...”
 
-“…?”
+“...?”
 
 Raven looked too serious, so I couldn’t even joke. I decided to clarify.
 
@@ -307,30 +307,30 @@ Raven looked too serious, so I couldn’t even joke. I decided to clarify.
 
 “Yes, you’re right. It was for the greater good. Perhaps the thought of how it might have benefitted me would seem shallow from your point of view—”
 
-“No, no, it’s not that……”
+“No, no, it’s not that......”
 
 How should I say this?
 
 Looking at Raven waiting for me to continue, I just manfully confessed.
 
-“Actually……”
+“Actually......”
 
 “Yes, actually?”
 
-“…I already stashed away all the useful ones.”
+“...I already stashed away all the useful ones.”
 
-“…What?”
+“...What?”
 
 It took her a long pause to get a response out.
 
-“You… stashed them? What do you mean?”
+“You... stashed them? What do you mean?”
 
 “Exactly what I said. When you scatter essences around like that, even the royal family can’t keep track of them properly.”
 
 To me, it was a brilliant plan.
 But Raven, like someone in denial, stammered her words.
 
-“…You… stole from the royal family’s spoils?”
+“...You... stole from the royal family’s spoils?”
 
 “So what?”
 
@@ -350,11 +350,11 @@ Now, now—don’t try to wriggle out.
 
 Her reaction stung a little, but fortunately, I knew how to handle mages.
 
-“Because… I don’t want to hide anything from you—”
+“Because... I don’t want to hide anything from you—”
 
 “That doesn’t work on me anymore!”
 
-“…Really?”
+“...Really?”
 
 Guess she learns fast.
 
@@ -366,18 +366,18 @@ Hmm. She wasn’t wrong.
 
 “No! Not the same! That one was just between us, but this is too big!”
 
-Hmm… yeah, she had a point.
+Hmm... yeah, she had a point.
 
 “But still.”
 
-“…What?”
+“...What?”
 
 “Don’t you want to research on them?”
 
-“T-that’s…!”
+“T-that’s...!”
 
 Like a puppy staring at a treat, Raven hesitated awkwardly before finally lowering her head and replying in a barely audible whisper:
 
-“…I do”
+“...I do”
 
 Yeah, I figured as much.

@@ -1,6 +1,6 @@
 # Red Ocean (1)
 
-The Royal Family had poured an immense amount of effort into this particular opening of the Labyrinth. It was only natural, as the city’s resources were hitting rock bottom. Well, to be fair, the nobles and those who were wealthy from the start didn’t have any trouble putting food on the table, but…
+The Royal Family had poured an immense amount of effort into this particular opening of the Labyrinth. It was only natural, as the city’s resources were hitting rock bottom. Well, to be fair, the nobles and those who were wealthy from the start didn’t have any trouble putting food on the table, but...
 
 ‘Everyone else is starving to death.’
 
@@ -8,7 +8,7 @@ Homeless refugees, skyrocketing inflation. Walking through the streets, it had b
 
 This situation was clearly the result of the temporary suspension of taxes for all citizens, meaning the palace had to reopen the labyrinth to resume tax collection and restore stability.
 
-“It’s Bjorn Jandel…”
+“It’s Bjorn Jandel...”
 
 “There’s no way they wouldn’t be here.”
 
@@ -22,7 +22,7 @@ As soon as we arrived at the meeting point, the hundreds of explorers who had al
 
 “Are those their new members?”
 
-“The fairy hero and the golden mage, huh…”
+“The fairy hero and the golden mage, huh...”
 
 “Well, the golden mage is connected to Viscount Jandel, so that makes sense, but is that the standard required to join them?”
 
@@ -40,7 +40,7 @@ This so-called top-secret gathering of the explorers set to enter the labyrinth 
 
 I chuckled at Amelia’s remark. “It’s less about humor and more about efficiency. It’s hard to find a place in the Imperial Capital with this much security and space.”
 
-“I suppose… that’s true.”
+“I suppose... that’s true.”
 
 The Marquess’s mansion felt too clean to be called a ruin, yet too desolate to feel inhabited. Looking around gave me a strange feeling—it made me reflect on the nature of power while simultaneously feeling an indescribable sense of futility.
 
@@ -52,7 +52,7 @@ He looked rather old for a civil servant, and when I asked about his rank, I dis
 
 Perhaps someone like him had been assigned to attend the meeting for security reasons?
 
-“…Phew. I feel like I can breathe now.”
+“...Phew. I feel like I can breathe now.”
 
 As soon as we stepped into the tent, the members behind me sank into more comfortable positions. They had been holding themselves rigid under the crowd’s watchful gaze.
 
@@ -62,7 +62,7 @@ Raven seemed to have had it the worst.
 
 “That’s because you don’t understand, Mr. Jandel. The moment you’re looked down upon, it’s over!”
 
-Well, I don’t think wearing high heels is going to stop people from looking down on you…
+Well, I don’t think wearing high heels is going to stop people from looking down on you...
 
 Even so, I kept it to myself. Everyone was entitled to their own opinion.
 
@@ -113,11 +113,11 @@ The labyrinth was filled with all kinds of hidden pieces, most of which had cool
 
 As expected of Raven, I didn’t need to explain further.
 
-“…Got it. The competition will be brutal. Everyone’s already desperate to earn even a little more.”
+“...Got it. The competition will be brutal. Everyone’s already desperate to earn even a little more.”
 
 “Even if the total number of explorers entering is limited, it’ll be fierce. Everyone will try to push to the higher floors.”
 
-“…In that case, I’ll get some sleep. It looks like I won’t be getting any once we’re inside.”
+“...In that case, I’ll get some sleep. It looks like I won’t be getting any once we’re inside.”
 
 “Go ahead.”
 
@@ -169,7 +169,7 @@ Well, I’d find out when I got there.
 
 As midnight approached, we left our tents in the Marquis’s garden and headed to the plaza.
 
-And then…
+And then...
 
 At last, the portal began to open at the center of the square.
 
@@ -195,19 +195,19 @@ I ran my hand along the crystal-embedded walls, trying to make sense of the fain
 
 It took me a moment to make sense of the feeling. It had been a while, so I was a bit rusty, but—
 
-Yes, this feeling means…
+Yes, this feeling means...
 
 “Judging by the spacing between the portals, it looks like we drifted slightly north of the original point. We should be able to reach the Goblin Forest quickly from here.”
 
 Ah, right. He’s the scout.
 
-…Seriously, these ‘naturals’ are something else.
+...Seriously, these ‘naturals’ are something else.
 
 For a brief moment, I felt a hint of defeat, but I let it fade when I saw Beleg simply glance at his compass and confirm the direction without needing to touch the wall or taste the air.
 
 “I’ll take the lead.”
 
-I hurried after him as he pushed ahead. After all, it wasn’t right for a ranged damage dealer to be leading from the front, but…
+I hurried after him as he pushed ahead. After all, it wasn’t right for a ranged damage dealer to be leading from the front, but...
 
 ‘At his level, goblins can’t even hurt him.’
 
@@ -223,25 +223,25 @@ The guild master was just running normally.
 
 Raven, on the other hand, was riding a one-wheeled mechanical device.
 
-“Uh… Aruru? Is that the mobility device you mentioned before?”
+“Uh... Aruru? Is that the mobility device you mentioned before?”
 
 “Yes. It’s a magic tool made for military use. You can insert a mana stone, but it can also recharge by absorbing mana from the air. Of course, if you need higher output, you’d still have to use a mana stone.”
 
 “It will likely be just as fast as you on flat ground, Ms. Karlstein.”
 
-“R-really? Th-that’s impressive…” Misha stammered, looking embarrassed as if she had asked something unnecessary. The guild master smoothly picked up where she left off.
+“R-really? Th-that’s impressive...” Misha stammered, looking embarrassed as if she had asked something unnecessary. The guild master smoothly picked up where she left off.
 
 “Can it be used on uneven terrain as well?”
 
 “As long as it’s not too rough, it works fine. If it’s worse than that, I’ll have to switch to something else.”
 
-“Something else…?”
+“Something else...?”
 
 “I’ll show you when the situation calls for it.”
 
 Unlike how she had overshared with Misha, Raven didn’t engage much in conversation with the guild Master.
 
-“Haha… I see. Understood.”
+“Haha... I see. Understood.”
 
 Was there something going on between them that I didn’t know?
 
@@ -279,15 +279,15 @@ I suddenly stopped Beleg.
 
 “What is it?”
 
-“The direction these footprints are heading… it’s not toward the 4th floor.”
+“The direction these footprints are heading... it’s not toward the 4th floor.”
 
 Only then did Beleg pick up on the inconsistency, and his expression turned serious.
 
-“…You’re right. It is strange. If they go that way, the only place they’ll reach is the Sculpted Temple…”
+“...You’re right. It is strange. If they go that way, the only place they’ll reach is the Sculpted Temple...”
 
 Beleg didn’t know the specific reason, so he didn’t realize the gravity of the situation. But I did.
 
-“They climbed up to the third floor quickly… only to head for the Sculpted Temple…?”
+“They climbed up to the third floor quickly... only to head for the Sculpted Temple...?”
 
 There was only one conclusion this situation pointed to.
 

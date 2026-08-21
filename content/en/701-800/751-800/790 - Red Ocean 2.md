@@ -10,13 +10,13 @@ Single numbered items, new essences, new monsters, and more.
 
 The rumors made it sound like the first underground floor was overflowing with valuable rewards just waiting to be claimed.
 
-‘Well, looking at the rewards alone, it’s not exactly a lie……………….’
+‘Well, looking at the rewards alone, it’s not exactly a lie...................’
 
 But in my view, it’s high risk, high return.
 
 Even with our experience, there were moments we doubted whether we would ever make it out, and that was before considering how many people lost their lives along the way.
 
-“What a bunch of idiots…” Raven muttered, clicking her tongue. “They’re willingly going back in, even after the royal family officially designated it a forbidden zone.”
+“What a bunch of idiots...” Raven muttered, clicking her tongue. “They’re willingly going back in, even after the royal family officially designated it a forbidden zone.”
 
 Although Raven dismissed their actions, I could understand what had driven them to go down there.
 
@@ -24,7 +24,7 @@ An explorer’s greed is like the abyss.
 
 No matter how deep you go, there’s no end.
 
-…It was the same when we first descended to Basement Floor 1.
+...It was the same when we first descended to Basement Floor 1.
 
 Back then, the area in front of the Dimensional Monument was packed with explorers.
 
@@ -32,7 +32,7 @@ Every single one of them was smiling as they gathered there.
 
 Even as Berzak, the Lord of the Abyss, roamed the floors, they couldn’t let go of their greed. They kept talking as if his presence alone meant the conditions to open the portal had already been met.
 
-“You should know that too, Baron Jandel… isn’t this what it means to be an explorer?”
+“You should know that too, Baron Jandel... isn’t this what it means to be an explorer?”
 
 That was when I truly understood just how reckless people could become in the name of exploration. It was as though they had given themselves over entirely to their greed.
 
@@ -48,7 +48,7 @@ To be honest, whether they went to Basement Floor 1 or the 2nd Floor was none of
 
 The odds of them never returning were higher anyway.
 
-Well, I was curious to see the faces of the fools who came up with such a reckless plan, but…
+Well, I was curious to see the faces of the fools who came up with such a reckless plan, but...
 
 “We keep moving.”
 
@@ -58,19 +58,19 @@ By the morning of the sixth day, we had passed through the Forest of Witches and
 
 However, there was a problem.
 
-“…That’s a lot of people.”
+“...That’s a lot of people.”
 
 Dozens of explorer teams were gathered at the centre of the Forest of Witches, waiting at the entrance to the fourth floor.
 
 There was nothing particularly strange about that, of course. The fastest clear times didn’t differ by much, so it was only natural that the explorers would reach the fourth floor around the same time.
 
-‘To think there’s a waiting line even after we climbed at this speed… everyone must be serious about this expedition.’
+‘To think there’s a waiting line even after we climbed at this speed... everyone must be serious about this expedition.’
 
 I scanned the area to see if Team 2 was there, but I couldn’t spot them.
 
 They had either already moved on or hadn’t reached here yet. As I guided my team into line, I could feel the other explorers watching me.
 
-“…It’s Viscount Jandel.”
+“...It’s Viscount Jandel.”
 
 “So he finally showed up? Not as impressive as I expected.”
 
@@ -82,7 +82,7 @@ Surprisingly, what I felt from them was hostility more than anything else. Was i
 
 As before, it was Raven who answered. “Given the nature of the military, their composition likely prioritizes combat over mobility.”
 
-“Ah, that makes sense…”
+“Ah, that makes sense...”
 
 The line kept moving at a steady pace, growing noticeably shorter even during our brief exchange. Given the circumstances, we didn’t have to wait even five minutes for the portal’s color to change.
 
@@ -96,7 +96,7 @@ But, as expected of high-ranking explorers, no one panicked.
 
 They all immediately understood what it meant.
 
-“…A rift has opened.”
+“...A rift has opened.”
 
 A rift had appeared on the third floor.
 
@@ -114,7 +114,7 @@ Some paid no attention to the third-floor rift and instead looked ahead, their e
 
 “Not too far from here. If we move at full speed, we should reach it within an hour.”
 
-“An hour… That’s tight. But if we can get in, it won’t be a loss…’
+“An hour... That’s tight. But if we can get in, it won’t be a loss...’
 
 Those who checked the rift’s location and began weighing their options.
 
@@ -124,7 +124,7 @@ Those who checked the rift’s location and began weighing their options.
 
 “Captain, what are we doing? They’re already running!”
 
-“…Damn it! We’re going too!”
+“...Damn it! We’re going too!”
 
 Those who made an immediate decision and rushed off without hesitation.
 
@@ -142,9 +142,9 @@ With so many explorers rushing off, we ended up moving much further ahead in the
 
 As expected, we didn’t encounter anything particularly noteworthy in the Sky Tower, aside from the rift that opened around the tenth day. We tried to reach it as soon as it appeared, but unfortunately, we weren’t able to enter.
 
-“That’s a shame…” Raven said, sounding disappointed. “It wasn’t the Golden Ruins, right? That place practically rains money.”
+“That’s a shame...” Raven said, sounding disappointed. “It wasn’t the Golden Ruins, right? That place practically rains money.”
 
-“…It was probably the Doppelganger Forest.”
+“...It was probably the Doppelganger Forest.”
 
 Although missing the rift was disappointing, as explorers with the right mindset, we put those thoughts aside and kept climbing the tower.
 
@@ -160,7 +160,7 @@ I had heard he used to go by a different name, but his alias changed after he re
 
 And true to his title, his specialty is tracking and detection.
 
-‘His combat power seems to be somewhere between Level 2 and Level 3……………….’
+‘His combat power seems to be somewhere between Level 2 and Level 3...................’
 
 What was unusual was that, despite being an archer, he didn’t use a bow. His combat style was something like this:
 
@@ -192,11 +192,11 @@ Beleg’s build was more complete than I had expected.
 
 As expected of a former player.
 
-‘Yeah… definitely better than the guild master.’
+‘Yeah... definitely better than the guild master.’
 
 As for the guild master, his abilities fell far short of my expectations.
 
-He does possess some rare essences, and objectively speaking, he is still a high tier combatant, but…
+He does possess some rare essences, and objectively speaking, he is still a high tier combatant, but...
 
 ‘That’s all there is to it.’
 
@@ -208,9 +208,9 @@ I got the sense that he had only just managed to scrape his way up to his curren
 
 As I continued my little “tests,” we eventually reached the fifth floor, only to realize it looked different the moment we stepped inside.
 
-Normally, since the entrance was a safe zone, it would be filled with camps where explorers gathered and rested, but…
+Normally, since the entrance was a safe zone, it would be filled with camps where explorers gathered and rested, but...
 
-“…There’s no one here?”
+“...There’s no one here?”
 
 “That just means we got here early.”
 
@@ -235,7 +235,7 @@ The ground trembled in steady intervals, while eerie ghostly cries echoed all ar
 
 Although it was more unsettling and unpleasant than passing through the Frost Canyon or the Hellfire Canyon, as explorers who prioritized efficiency, this was still the best option.
 
-“Why does it have to be this place of all routes…”
+“Why does it have to be this place of all routes...”
 
 In the labyrinth, time is quite literally money.
 
@@ -269,9 +269,9 @@ Either way, nothing particularly eventful happened after we reached the fifth fl
 
 “The rifts really are opening on every floor.”
 
-“To think we have a scout and still can’t get in… just how fast is everyone else?”
+“To think we have a scout and still can’t get in... just how fast is everyone else?”
 
-‘Are we just having terrible luck with rifts this time…?’
+‘Are we just having terrible luck with rifts this time...?’
 
 It was while I was thinking this and setting up camp that—
 
@@ -281,7 +281,7 @@ Beleg, our team’s scout, lowered his voice as he called my name.
 
 It didn’t take long to understand why he had suddenly stopped resting and turned serious.
 
-“…Explorers.”
+“...Explorers.”
 
 “There are quite a lot of them. Well over forty.”
 
@@ -291,7 +291,7 @@ It almost went without saying, but in the labyrinth, monsters aren’t the only 
 
 If anything, you have to be even more cautious of people.
 
-“…They’re not changing direction.”
+“...They’re not changing direction.”
 
 The group was heading straight toward us.
 
@@ -303,7 +303,7 @@ As we all stood ready, the group of explorers soon emerged from the darkness.
 
 The moment they saw us preparing camp, a flicker of surprise crossed their faces.
 
-“…The Anabada Clan?”
+“...The Anabada Clan?”
 
 Just as I had identified their clan by their insignia, they recognized ours as well.
 
@@ -319,12 +319,12 @@ That made twice now.
 
 Yet the man didn’t budge, only slowly scanning our group.
 
-“By the way…”
+“By the way...”
 
 That sticky gaze—one that could only come from weighing potential gains against possible losses.
 
 I felt it clearly.
 
-“…It seems you haven’t regrouped with Team Two yet?”
+“...It seems you haven’t regrouped with Team Two yet?”
 
-Yeah… this was the labyrinth.
+Yeah... this was the labyrinth.

@@ -8,25 +8,25 @@ It genuinely felt like I was talking to a wall.
 
 “Knight, what’s your name? I’ve never heard of someone like you.”
 
-“……”
+“......”
 
 “If I follow you, will I really get to meet the King of the New World?”
 
-“……”
+“......”
 
 “I heard rumors that he’s bedridden due to illness. Is he actually healthy?”
 
-“……”
+“......”
 
-Tsk, just because he was a knight…
+Tsk, just because he was a knight...
 
 When Raven asked earlier where we were going, he answered just fine.
 
 I even wondered if he was a womanizer and told Raven to try talking to him herself, but unfortunately, the result was the same.
 
-“Um… if I may be so bold, is His Majesty truly in good health…? Ah! I mean, not that I wish him ill or anything. I’m sorry.”
+“Um... if I may be so bold, is His Majesty truly in good health...? Ah! I mean, not that I wish him ill or anything. I’m sorry.”
 
-“……”
+“......”
 
 “See? It doesn’t work. Ah, this is embarrassing. Please don’t make me do that again.”
 
@@ -40,7 +40,7 @@ The city’s core was Karnon, and Karnon’s core was its palaces. And among the
 
 What did they call it these days? The Palace of the New World?
 
-‘I didn’t know a place like this existed underground…’
+‘I didn’t know a place like this existed underground...’
 
 Even as I followed the knight, I carefully observed my surroundings.
 
@@ -63,7 +63,7 @@ In other words, it was like ascending a spiral staircase.
 “With a distance like this, wouldn’t it be better to just install a lift?
 I saw you guys use high-quality ones earlier.”
 
-“…….”
+“.......”
 
 Second observation: there were no elevators here.
 
@@ -83,11 +83,11 @@ If an outsider were to invade, this long corridor alone would buy more time than
 
 Sometimes, the most primitive method is the safest.
 
-“……”
+“......”
 
 After walking in silence for over three hours, the seemingly endless spiral corridor finally ended, revealing a large open space.
 
-“This place is…”
+“This place is...”
 
 Raven looked up, stunned.
 
@@ -117,7 +117,7 @@ Then—
 
 The sound chimed again, and as the elevator doors slid open, I realized I had finally arrived.
 
-“…This humble servant greets the master of the new world.”
+“...This humble servant greets the master of the new world.”
 
 The audience chamber.
 
@@ -139,17 +139,17 @@ Badump-!
 
 My warrior heart, which had endured countless life-and-death trials, tightened with tension. Though it was nothing compared to Raven’s reaction.
 
-“Y-y-y-y-your…”
+“Y-y-y-y-your...”
 
-“……”
+“......”
 
 “Your Majesty, I greet you! This lowly servant—ah, no, th-this lowly servant greets His Majesty the King!”
 
 The moment Raven confirmed ‘someone’ was sitting on the throne, she prostrated herself flat on the carpeted floor. Her belly was toward the ground, but it was no different from a puppy rolling over to show its stomach.
 
-“Mr. Jandel! What are you doing…?!” Raven hissed in a whisper, shooting me a glare without lifting her forehead from the floor.
+“Mr. Jandel! What are you doing...?!” Raven hissed in a whisper, shooting me a glare without lifting her forehead from the floor.
 
-Only then did I realize my ‘rudeness’. Up until now, starting as a Barbarian meant I never had to deal with this, but…
+Only then did I realize my ‘rudeness’. Up until now, starting as a Barbarian meant I never had to deal with this, but...
 
 Slide.
 
@@ -159,7 +159,7 @@ Directly from the King sitting on that throne.
 
 “Hurry!”
 
-Needless to say, even a Barbarian dies if they speak informally to the King. Therefore…
+Needless to say, even a Barbarian dies if they speak informally to the King. Therefore...
 
 “A humble servant greets His Majesty the King.” I knelt and lowered my head, taking the posture I had seen countless times but had never once assumed myself. Since I was a titled noble, I didn’t need to lie completely flat like Raven.
 
@@ -175,7 +175,7 @@ They were the kingdom’s most elite fighting force, each member possessing the 
 
 The occupied throne must have shaken me more than I realized. It wasn’t until I saw the Order of Guardians that the situation truly sank in.
 
-‘Right, I’m really in the Palace of Immortality…First thing’s first.’
+‘Right, I’m really in the Palace of Immortality...First thing’s first.’
 
 I moved the priority of any escape plans or armed confrontations to the absolute bottom of the list. If we were truly inside the Palace of Immortality, then fighting had to be my absolute last resort.
 
@@ -197,7 +197,7 @@ Taking the King hostage wouldn’t be easy either. After all, the knight who had
 
 The long silence was finally broken by the king’s voice. It was a voice I hadn’t expected.
 
-[…I cannot remember. I don’t recall his age, whether it was a woman or a man, or even the voice that pierced my ears…]
+[...I cannot remember. I don’t recall his age, whether it was a woman or a man, or even the voice that pierced my ears...]
 
 That was what the previous chief had told me.
 
@@ -213,7 +213,7 @@ No weakness. No illness.
 
 It was the voice of a ruler that left no room for any thought other than obedience. Raven quickly offered an answer.
 
-“We were unaware that the place was forbidden, nor did we enter with malicious intent. As for how we ended up here…”
+“We were unaware that the place was forbidden, nor did we enter with malicious intent. As for how we ended up here...”
 
 Her explanation was lengthy and detailed, but it covered everything sufficiently. When the imperial capital came under attack, we moved to the fifth underground floor to apprehend the insolent Noarkans. They escaped, we were caught in the collapse, and that was how we ended up in this so-called sanctuary.
 
@@ -221,21 +221,21 @@ Her entire explanation was filled with an excessive amount of detail regarding h
 
 Well, in my eyes, it was a futile effort.
 
-“…….” “…….”
+“.......” “.......”
 
 An uncomfortable silence followed Raven’s explanation. It was only after some time had passed that the King of the New World spoke again.
 
 “My servant, Viscount Bjorn Yandel.”
 
-…I’m a Baron, not a Viscount, but I didn’t bother correcting him and listened quietly. I’m a Barbarian who knows how to read the room, after all—
+...I’m a Baron, not a Viscount, but I didn’t bother correcting him and listened quietly. I’m a Barbarian who knows how to read the room, after all—
 
 “I command you as your King.”
 
-…Huh?
+...Huh?
 
 “Kill the girl beside you.”
 
-…What?
+...What?
 
 ***
 
@@ -243,7 +243,7 @@ A sudden command from the King.
 
 Needless to say, there was no way I would follow that order. Even though I knew the being before me had the power to strip away my title, everything I had achieved in this world, and the allies I wanted to protect.
 
-“…….”
+“.......”
 
 As if I could do that.
 
@@ -259,13 +259,13 @@ I glanced at Raven, and she nodded vigorously. She clearly wanted to tell me not
 
 In the end, I could only stand there awkwardly as the two knights escorted Raven out of the audience hall, leaving me alone with the king.
 
-Ah, of course, that bodyguard knight was still there… but he was basically like a wall. I could consider this a private audience.
+Ah, of course, that bodyguard knight was still there... but he was basically like a wall. I could consider this a private audience.
 
 Badump, Badump, Badump, Badump.
 
 The King said nothing, merely staring at me from behind the curtain, but a sensation that I was absolutely screwed dominated my entire body.
 
-‘…Sigh, should I have just pretended to follow the order? Now that I think about it, it feels like he was testing me.’
+‘...Sigh, should I have just pretended to follow the order? Now that I think about it, it feels like he was testing me.’
 
 Just as that belated regret began to fill my head—
 

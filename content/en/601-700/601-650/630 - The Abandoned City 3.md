@@ -18,7 +18,7 @@ Or those who harbored grievances against the city’s system itself, and so on.
 
 The royal family locked away all such “reactionaries” in Bifron. As a result, they gained far more benefit than they would have by simply hanging them.
 
-But…
+But...
 
 Right now, the royal family must be feeling uneasy.
 
@@ -28,7 +28,7 @@ However, regular citizens still treat it like a rumor since access to informatio
 
 Anyway—
 
-“Whew…”
+“Whew...”
 
 That’s all I know for now about Bifron.
 
@@ -42,7 +42,7 @@ That was my first thought, but the more I thought about it, the more it didn’t
 
 If that were true, the royal family would’ve at least sent forces to protect it. They aren’t idiots, and they would’ve thought of what I thought of too.
 
-“…I’ll just keep investigating.”
+“...I’ll just keep investigating.”
 
 With that in mind, I continued investigating Bifron even after leaving the checkpoint.
 
@@ -56,11 +56,11 @@ I finally climbed up the city wall, something I hadn’t done before due to the 
 
 Somehow, I ended up going up there with my companions.
 
-“Wow…”
+“Wow...”
 
-“It’s different from what I imagined the outside world to be like when I was a kid. I thought it’d just be a dark, barren wasteland…”
+“It’s different from what I imagined the outside world to be like when I was a kid. I thought it’d just be a dark, barren wasteland...”
 
-“Hmm. It looks… surprisingly peaceful…”
+“Hmm. It looks... surprisingly peaceful...”
 
 The view of the outside world from the towering city walls was nothing short of breathtaking.
 
@@ -68,9 +68,9 @@ Lush forests, mountains, and valleys stretched beyond the horizon, hinting at a 
 
 “Mister, should we just jump off here?”
 
-“Huh…?”
+“Huh...?”
 
-“Just saying. What would it matter if we went out there? Noark, the royal family… who woud care?”
+“Just saying. What would it matter if we went out there? Noark, the royal family... who woud care?”
 
 I didn’t think it was a joke.
 
@@ -94,7 +94,7 @@ As that thought bloomed in my mind, I shook my head.
 
 “The protective magic circle must still be working.”
 
-“What? But Bifron’s magic circle is supposed to be broken…”
+“What? But Bifron’s magic circle is supposed to be broken...”
 
 “How can you trust the royal family’s word?”
 
@@ -108,7 +108,7 @@ The arrow struck something invisible in midair before falling to the ground.
 
 “Still intact, huh.”
 
-“…Yeah.”
+“...Yeah.”
 
 Erwin looked disappointed but then casually asked me,
 
@@ -116,7 +116,7 @@ Erwin looked disappointed but then casually asked me,
 
 “You can try, but it probably won’t work. The magic circle is the legacy of the Last Great sage, Gabrielius.”
 
-Besides, I didn’t say it out loud, but…
+Besides, I didn’t say it out loud, but...
 
 There’s no guarantee that stepping outside would lead to the life I want.
 
@@ -126,7 +126,7 @@ Why did the Noark bastards who went beyond the walls come back into the city?
 
 They must’ve had their reasons.
 
-And beyond that…
+And beyond that...
 
 “Running doesn’t suit me.”
 
@@ -140,7 +140,7 @@ No—if anything—
 
 If I destroy everything and become king, I won’t have to build a house on some empty plain, right?
 
-It might not be realistic, but…
+It might not be realistic, but...
 
 “Maybe it’s not entirely impossible?”
 
@@ -162,7 +162,7 @@ I wouldn’t have recognized him if he hadn’t greeted me first.
 
 “You were eleven back then, right?”
 
-“You remember that…”
+“You remember that...”
 
 “You also said the qualification test was possible at fourteen.”
 
@@ -174,7 +174,7 @@ At my question, the kid shrugged with a faint smile.
 
 “I failed. To prove my worth.”
 
-“…I see.”
+“...I see.”
 
 “I guess I didn’t have enough time. It couldn’t have been lack of effort.”
 
@@ -192,7 +192,7 @@ Ah, I should just say what I’m feeling honestly.
 
 “No. I actually think it turned out for the better.”
 
-“……?”
+“......?”
 
 “Now, I help younger kids pass their qualification tests. So at least they can get out.”
 
@@ -202,7 +202,7 @@ At my question, the kid just smiled faintly, said he was grateful I remembered h
 
 I asked if there were any local legends or mysterious places in Bifron, just in case, but he said there weren’t any.
 
-‘So there’s really nothing here…?’
+‘So there’s really nothing here...?’
 
 The longer the investigation went on, the more impatient I became.
 
@@ -216,7 +216,7 @@ Honestly, I thought if I searched the city thoroughly, I’d find something.
 
 “We can only use physical means to communicate, yet no matter how much we wave a flag from the walls, they don’t seem to notice. Oddly enough, the houses near the walls are deserted, and there’s no one on the streets either. It feels like the whole place has been evacuated.”
 
-“Evacuated, huh…”
+“Evacuated, huh...”
 
 As time passed, I became more curious about the world outside than the situation inside.
 
@@ -224,7 +224,7 @@ Hah, is there really no way to get any news?
 
 If the ghostbusters hadn’t been shut down, I could’ve prepared something while waiting.
 
-One day, two days, three…
+One day, two days, three...
 
 Time passed without any real progress, and the explorers who followed me into Bifron gradually grew accustomed to the place.
 
@@ -260,7 +260,7 @@ They lacked resources, so it was unavoidable.
 
 I walked for a while and eventually arrived near the walls.
 
-I hadn’t planned to come here, but…
+I hadn’t planned to come here, but...
 
 I considered turning back, but curiosity about the view beyond the walls at night got the better of me, so I climbed up.
 
@@ -276,7 +276,7 @@ Only pitch-black darkness stretched below.
 
 Staring down, I felt as if something might leap out and drag me in.
 
-‘…The sky’s just black too.’
+‘...The sky’s just black too.’
 
 Maybe I picked the wrong night—there weren’t many stars out.
 
@@ -314,7 +314,7 @@ Hah, what kind of business is this in the middle of the night?
 
 The Rose Knight’s message was simple.
 
-To summarize…
+To summarize...
 
 “They’re temporarily opening the checkpoint in the 4th District, so we should escape then?”
 
@@ -346,7 +346,7 @@ In short, they’ll block them no matter what.
 
 And this opponent isn’t someone I can muscle through.
 
-“Unless… you plan to defy the king?”
+“Unless... you plan to defy the king?”
 
 “Of course not. Just curious.”
 
@@ -392,7 +392,7 @@ She just stood there, thinking for a moment, then—
 
 She pointed to the sky.
 
-“…So?”
+“...So?”
 
 “If you were looking from up there, we’d look just as small. Even someone like you, Baron, known as the giant.”
 
@@ -408,7 +408,7 @@ Most would’ve backed down at such clear lines.
 
 But I tilted my head like a true barbarian.
 
-“…So what happens if I don’t?”
+“...So what happens if I don’t?”
 
 Just as she wasn’t someone I could reason with, I wasn’t someone who could be reasoned with either.
 
@@ -422,9 +422,9 @@ But in those final words, I instinctively sensed something.
 
 I couldn’t back it up with evidence, but—
 
-“You people…”
+“You people...”
 
-“……”
+“......”
 
 “Are you seriously planning to blow up all of Bifron?”
 

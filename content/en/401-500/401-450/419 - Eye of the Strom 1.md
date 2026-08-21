@@ -1,14 +1,14 @@
 Eye of the Storm (1)
 
-Karyadea, the Glacier Mage.
+Kariadea, the Glacier Mage.
 
-An Elder Lich classified as a Level 3 monster—a high-level Named mutant.
+An Elder Lich classified as a Level 3 monster—a high-level named mutant.
 
 Its summoning conditions are very simple.
 
-[Special Condition – Momentary stimulus has been fulfilled]
+[Special Condition: Momentary Stimulus has been fulfilled.]
 
-All you had to do was cast a level 1 space-time spell between 5 and 10 days before the 7th floor closes.
+All you had to do was cast a Level 1 space-time spell between 5 and 10 days before the seventh floor closes.
 
 As the violently shaking canyon came to a halt, monsters crawled up from the bottom of the cliffs, hands outstretched.
 
@@ -16,13 +16,13 @@ As the violently shaking canyon came to a halt, monsters crawled up from the bot
 
 “Wait, these aren’t the ones that showed up here before.”
 
-“Skeletons…? There are skeletons here?”
+“Skeletons...? There are skeletons here?”
 
 For a moment, everyone was stunned by the sudden appearance of these monsters.
 
 But the crew, already in battle formation, quickly swung their weapons, pushing back the monsters.
 
-And then…
+And then...
 
 “Jandel, what have you done!”
 
@@ -30,7 +30,7 @@ The team leaders around me asked in desperation.
 
 “I used space-time magic to activate one of Gabrielius’ achievements.”
 
-“…Why would you do that?”
+“...Why would you do that?”
 
 “Because when it comes to dealing with monsters, we’re at a greater advantage than those Noark bastards.”
 
@@ -40,7 +40,7 @@ The answer didn’t come from James, but from Jun.
 
 “Exactly. They don’t have priests or mages. We can maintain this distance until we exit the Glacier’s eye”
 
-No, it’s not just about maintaining distance. We might even be able to increase it. The skeletons are climbing up from below, so the Noark bastards following us from below will have to deal with the skeletons we leave behind. The only variable is Kariadea, the boss-level monster…
+No, it’s not just about maintaining distance. We might even be able to increase it. The skeletons are climbing up from below, so the Noark bastards following us from below will have to deal with the skeletons we leave behind. The only variable is Kariadea, the boss-level monster...
 
 ‘It’ll take it at least a day to climb up from below, so we don’t need to worry about it for now.’
 
@@ -54,13 +54,13 @@ At my answer, Jun nodded as if it was a plausible plan, while James still seemed
 
 He’s not entirely wrong. Most of our front-line fighters aren’t wearing armor anymore.
 
-Some would inevitably fall. But…
+Some would inevitably fall. But...
 
 “Still, it’s better than facing those guys head-on in this condition. Now return to your positions.”
 
 I made it clear that I wouldn’t entertain any objections, and James finally asked me one last question.
 
-“Even so… once we reach the summit of the Glacier Eye, what will change?”
+“Even so... once we reach the summit of the Glacier Eye, what will change?”
 
 Really, what kind of question is that?
 
@@ -70,11 +70,11 @@ Really, what kind of question is that?
 
 He seemed taken aback by my confident response, his expression blank.
 
-Hmm, is he weak to strong statements?I don’t know, but instead of explaining in detail, I spoke to him with even more conviction.
+Hmm, was he weak to confident statements? I wasn’t sure, but instead of explaining further, I spoke with even greater conviction.
 
 “So trust me and follow.”
 
-“…Understood.”
+“...Understood.”
 
 Alright, looks like that’s settled.
 
@@ -84,13 +84,13 @@ After sending the team leaders back to their positions, I made my way to the fro
 “Mister, don’t push yourself too hard.”
 “What? You’re not going to stop me this time?”
 
-“But… you have the same look in your eyes as you did back in the Crystal Cave…”
+“But... you have the same look in your eyes as you did back in the Crystal Cave...”
 
 Hmm, I didn’t see myself in the mirror back then, so I don’t know. I hope the outcome is similar to last time.
 
-[Character has cast Gigantification]
+[The character has cast [Gigantification].]
 
-Starting with my default combat mode, I increase in size while raising my shield and hammer. But since I’ve discarded my armour and am wearing only fur clothes…
+I entered my default combat mode, growing larger as I raised my shield and hammer. But since I had discarded my armor and was wearing only fur clothing...
 
 ‘Wow, I really look like a barbarian.’
 
@@ -98,21 +98,19 @@ This is the (True) Barbarian Mode.
 
 “Jandel, we’re ready to move out!”
 
-Just as Kaislan, who had returned to his position, reported, I stepped forward. And then…
+Just as Kaislan, who had returned to his position, reported, I stepped forward. And then...
 
 “Ah.”
 
 I momentarily flinched when I saw the skeleton blocking my path.
 
-‘Right, I don’t need to hide anymore’
+‘Right. I don’t need to hide anymore.’
 
 Good, at least that’s one positive. Let’s go.
 
 “Betheraaaaaa!”
 
-Believing that the blessing of our ancestors is with me,
-
-I charge forward, shielding my entire upper body with my shield.
+Believing the blessing of our ancestors was with me, I charged forward with my shield covering my entire upper body.
 
 Thud! Thud!
 
@@ -130,9 +128,9 @@ The members following behind deal with the skeletons climbing up from the sides 
 
 “Die, you bastards!”
 
-“Ugh…!”
+“Ugh...!”
 
-Amid the desperate sounds of battle, groans occasionally mix with the shouts.
+Amid the desperate shouts of battle, groans occasionally mixed in.
 
 Well, it’s unavoidable.
 
@@ -144,7 +142,7 @@ A skeleton’s rib pierced through someone’s skin as it passed by.
 
 [Riard Ashid has cast a Level 5 curse magic: Regeneration Block.]
 
-Fearing the reverse effect of natural regeneration, mages keep casting curses on our allies, but it’s like urinating on frostbitten feet.
+Fearing the reversed effect of natural regeneration, the mages kept casting curses on our allies, but it was little more than a stopgap.
 
 It only temporarily prevents the wounds from worsening. The injuries themselves don’t heal.
 
@@ -160,11 +158,11 @@ An hour, two hours, three hours.
 
 As the time spent fighting the monsters increased, so did the number of injuries among the expedition members.
 
-Even the smallest of wounds were catching on, causing a vicious cycle of further injuries.
+Even the smallest wounds kept worsening, creating a vicious cycle that led to still more injuries.
 
 Of course, if we had used mana shields, we wouldn’t have been hurt like this.
 
-But…
+But...
 
 ‘That’s like drinking seawater when you’re thirsty.’
 
@@ -186,9 +184,9 @@ The energy drain is extreme. No, actually, it’s not just energy—if it weren�
 
 Not to mention, I’m also accumulating injuries.
 
-Even though my physical resistance makes me practically immune to damage from these low-level mobs… skeletons don’t just deal physical damage.
+Even though my physical resistance makes me practically immune to damage from these low-level mobs... skeletons don’t just deal physical damage.
 
-The bone explosions, which count as frost damage, made me bleed even if it hit right in front of me.
+The bone explosions dealt frost damage, and even near misses were enough to make me bleed.
 
 “Jandel! There’s another one up ahead!”
 
@@ -222,7 +220,7 @@ I use [Swing] to smash the skull of a medium-sized skeleton that is blocking my 
 
 Then I use my shield to smash through the bone bastards and clear the way.
 
-With no time to catch my breath, I continue to push forward, and for some reason, I start to laugh.
+With no time to catch my breath, I kept pushing forward—and for some reason, I started to laugh.
 
 Not because I’m happy, but because if I don’t laugh, I feel like I’ll lose my mind.
 
@@ -260,7 +258,7 @@ Stumble!
 
 At that moment, my legs give out, and I barely manage to keep my balance.
 
-‘…Did I lose too much blood?’
+‘...Did I lose too much blood?’
 
 Hmm, probably.
 
@@ -268,29 +266,29 @@ Right now, my body is like a slashed water bag.
 
 Wounds that would normally scab over in seconds are scattered all over my body, bleeding profusely.
 
-So…
+So...
 
-‘If this continues, it’s going to be dangerous…’
+‘If this continues, it’s going to be dangerous...’
 
 I made a decision. Survival is about choosing the lesser of two evils.
 
 “Marone, cauterize my wounds.”
 
-“…What, what did you say?”
+“...What, what did you say?”
 
 “I think we need to stop the bleeding now.”
 
-“St, stop the bleeding? What kind of absurd… No, how can you say something like that without even changing your expression!”
+“St, stop the bleeding? What kind of absurd... No, how can you say something like that without even changing your expression!”
 
 The mage was horrified by my request.
 
-Aside from the pain, there’s the risk of the burned areas rotting and becoming irreparable. But that’s nothing new. The wounds are already rotting anyway…
+Aside from the pain, there’s the risk of the burned areas rotting and becoming irreparable. But that’s nothing new. The wounds are already rotting anyway...
 
 “We’ll heal completely once we reach the top.”
 
 Reaching our destination is the priority.
 
-“At worst, even divine power might not be able to fix it. You could end up with permanent damage…”
+“At worst, even divine power might not be able to fix it. You could end up with permanent damage...”
 
 Marone, realizing she couldn’t change my mind, started making excuses.
 
@@ -298,7 +296,7 @@ Tch, she sounds like a doctor telling me to quit drinking and smoking. Like a tr
 
 “Still better than dying here.”
 
-“I’ll do it. Fine. But I don’t get it. Why are you going this far…”
+“I’ll do it. Fine. But I don’t get it. Why are you going this far...”
 
 She clenched her fists, clearly not understanding.
 
@@ -310,17 +308,17 @@ Why doesn’t she get it?
 
 “I’ll handle the hardest parts, so just follow me.”
 
-“Ah…”
+“Ah...”
 
 Marone stood there with her mouth open, then, as if she had made up her mind, summoned flame magic into her hand.
 
-And then…
+And then...
 
 I laughed almost like a sob, trying to focus on the positive.
 
 Well, at least I’m not cold anymore.
 
-One hour, two hours, three hours…
+One hour, two hours, three hours...
 
 As the grueling journey continued, I got to see another side of the team members.
 
@@ -336,11 +334,11 @@ After seeing me stop the bleeding without potions, the frontline, who had called
 
 At Puta Rickerburn’s words, the priest paused before asking again.
 
-“…What?”
+“...What?”
 
-‘I’m not an idiot. If it’s this rotten, even divine power won’t fix it, right? I’ve lost all feeling in it anyway.”
+“I’m not an idiot. If it’s this rotten, even divine power won’t fix it, right? I’ve already lost all feeling in it anyway.”
 
-“Uh… well, even so, maybe you should think about it again…”
+“Uh... well, even so, maybe you should think about it again...”
 
 “Don’t make that face. There’s no one-armed man in this world without a story. I’ve seen plenty of one-armed guys, and losing an arm for this kind of story is a bargain.”
 
@@ -348,7 +346,7 @@ Even the barbarian next to him was stunned by this cost-benefit analysis.
 
 But it was precisely because of that kind of calculation that we finally managed to reach the summit of the Glacier Eye.
 
-[Field Effect – Eye of the Glacier has been lifted]
+[Field Effect: Glacier Eye has been lifted.]
 
 The moment we had been desperately hoping for.
 
@@ -358,9 +356,9 @@ The warriors, on the verge of exhaustion, collapsed as they crossed the final hi
 
 Though their conditions were indescribably horrific, they wore the brightest smiles they had ever shown.
 
-“We made it…”
+“We made it...”
 
-“Fuck, fuck, fuck… We really made it, we’re here…”
+“Fuck, fuck, fuck... We really made it, we’re here...”
 
 “What are you all doing! Mages, quickly dispel the curse magic! We need to start healing right away!”
 
@@ -368,7 +366,7 @@ The priests, who had been forced to helplessly watch their desperate struggle, s
 
 “You’ve worked hard. Really.”
 
-“Your arm… it’s going to be tough. I’m sorry.”
+“Your arm... it’s going to be tough. I’m sorry.”
 
 The priest looked at the frontliners with a guilty look on his face.
 
@@ -376,17 +374,17 @@ The priest looked at the frontliners with a guilty look on his face.
 
 Kaislan then cautiously made a request to the priest.
 
-“Hey, I know it’s tough, but there’s one thing I’d like to ask…”
+“Hey, I know it’s tough, but there’s one thing I’d like to ask...”
 
 “Go ahead.”
 
 “Even if it’s just once, could you pray for them with all your heart?”
 
-“Pray… you mean?”
+“Pray... you mean?”
 
 “Yeah, for those who didn’t make it here.”
 
-“…Of course.”
+“...Of course.”
 
 The priests knelt, clasped their hands together, and began to pray devoutly.
 
@@ -398,43 +396,43 @@ I closed my eyes, offered a moment of silence, and prayed sincerely.
 
 Whether it’s the ancestors, the guardian god, or the World Tree.
 
-Whoever is listening, please…
+Whoever is listening, please...
 
-“…May they rest in peace.”
+“...May they rest in peace.”
 
 Guide them to the resting place they desire.
 
-The current surviving members of the expedition: twenty-two.
+Current expedition survivors: twenty-two.
 
-While breaking through the Glacier Eye aside from the summoner Milburn Naria, two more died.
+While breaking through the Glacier Eye, we lost two more people in addition to the summoner Milburn Naria.
 
-The environment was too harsh to overcome with just the will to burn flesh and cut off limbs.
+The environment was too brutal to overcome through sheer willpower, even with people burning flesh and cutting off limbs to survive.
 
 ‘Matt Hybrid.’
 
 A paladin from the 4th team.
 
-‘Pasible Eric Colson.’
+‘Parsible Eric Coulson.’
 
 The other was a knight from the 5th team. He was a friend and subordinate who had served with Kaislan for over ten years.
 
-“Kaislan…”
+“Kaislan...”
 
 “Haha, don’t make that face. He fulfilled his duty as a soldier. He probably doesn’t feel too wronged.”
 
-“…Too wronged? How can that be?”
+“...Too wronged? How can that be?”
 
-“At least you were there. So, he kept moving forward to survive until the very end, right? That’s… not a meaningless death.”
+“At least you were there. So, he kept moving forward to survive until the very end, right? That’s... not a meaningless death.”
 
-“He didn’t die following the royal family that abandoned us. He died following me… and you.”
+“He didn’t die following the royal family that abandoned us. He died following me... and you.”
 
-“Is that so…”
+“Is that so...”
 
 “I’m fine, so you should do what you need to do.”
 
 After the brief prayer, we returned to our tasks.
 
-The priests continued healing the warriors. The mages drew magic circles on the ground. And I…
+The priests continued healing the warriors. The mages drew magic circles on the ground. And I...
 
 “Wait! You can’t move yet!”
 
@@ -456,7 +454,7 @@ After glancing around, I headed to where Akuraba was.
 .
 “Looks like you managed to eat jerky even while fighting.”
 
-“…Wasn’t it you who forced us to eat it no matter what?”
+“...Wasn’t it you who forced us to eat it no matter what?”
 
 “You all did well.”
 
@@ -464,17 +462,15 @@ I changed the subject.
 
 “Where do you think they are now?”
 
-“Hmm… I’m curious about that too. Seeing how stubbornly they followed, I doubt they’ll give up easily.”
+“Hmm... I’m curious about that too. Seeing how stubbornly they followed, I doubt they’ll give up easily.”
 
-“Is that so…”
+“Is that so...”
 
-“I’ll keep an eye on the Eye of the Glacier.
+“I’ll keep an eye on the Glacier Eye. You rest. If you collapse, this expedition is over...”
 
-So, rest. If you collapse, this expedition is over…”
+After talking with Akuraba, I finally received treatment from the priest and then lay down near the entrance of the Glacier Eye.
 
-After talking with Akuraba, I finally received treatment from the priest and then lay down near the entrance of the Eye of the Glacier.
-
-“You’ve worked hard… Mister.”
+“You’ve worked hard... Mister.”
 
 The peace felt almost unreal compared to the hellish time we had just endured.
 
@@ -514,7 +510,7 @@ They must have found it strange that the vanguard blocking their path wasn’t w
 
 Sneer.
 
-The dragon slayer whispered something to his companions and then smirked at me.
+The Dragon Slayer whispered something to his companions and then smirked at me.
 
 What, are they mocking me?
 
@@ -526,8 +522,8 @@ Why do you think I was willing to discard my equipment and run?
 
 It was a decision made after carefully considering the future. Here, the field advantage outweighs equipment.
 
-[Character has entered a special area.]
-[Field Effect – Eye of the Glacier has been applied]
+[The character has entered a special area.]
+[Field Effect: Glacier Eye has been applied.]
 
 Okay, so the field effect starts here.
 

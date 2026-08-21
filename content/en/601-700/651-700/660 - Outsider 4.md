@@ -12,7 +12,7 @@ She had been the one to disclose it at the Round Table.
 
 Perhaps because of that, I couldn’t help suspecting that she had her own reasons for recommending him.
 
-“…If it’s the Magitech Engineer, I know of him. But is it possible to get him to come out? I heard he barely engages in any external activities.”
+“...If it’s the Magitech Engineer, I know of him. But is it possible to get him to come out? I heard he barely engages in any external activities.”
 
 At Amelia’s question, Versil nodded as if it wasn’t a problem.
 
@@ -40,7 +40,7 @@ I didn’t really have a reason.
 
 If I suddenly showed up at his tower, he’d probably be unwilling to meet with me. Worse, he’d probably just grow suspicious.
 
-But…
+But...
 
 “Not bad. Proceed for now.”
 
@@ -58,7 +58,7 @@ I had some concerns, but I trusted that Versil would manage to threaten him with
 
 There was no more work to do here, so we wrapped up today’s journey and returned to the city.
 
-And…
+And...
 
 After Versil left, saying she would try to talk to the Magitech Engineer, about three days later.
 
@@ -70,7 +70,7 @@ I got an appointment.
 
 The meeting with the Magitech Engineer was conducted very cautiously and secretly. It felt like being a Cold War-era spy or something.
 
-‘Take a left here, then open the third door next to the building with the red roof ahead and go down… Ah, here it is.’
+‘Take a left here, then open the third door next to the building with the red roof ahead and go down... Ah, here it is.’
 
 After wandering through alleyways for a long time, I arrived at a building.
 
@@ -97,7 +97,7 @@ First impression keywords: baby-faced, skinny, glasses.
 
 But I wasn’t there to judge appearances. I memorized his face and got straight to business.
 
-Enemies, huh…
+Enemies, huh...
 
 Well, even in the past, Lee Baek-ho was desperately searching for this guy.
 
@@ -111,17 +111,17 @@ Sigh, Barbarian discrimination from the very start.
 
 “It’s alright, there’s no need to apolo—”
 
-…Huh?
+...Huh?
 
 Why should I apologize?
 
 “Buy a sturdier chair next time. Buying a chair like this makes you look like a racist.”
 
-“…Eh? Ah, y-yes…”
+“...Eh? Ah, y-yes...”
 
 “Buying a chair that Barbarians can’t sit on is the beginning of discrimination.”
 
-“…Haha, I’ll be sure to remember that.”
+“...Haha, I’ll be sure to remember that.”
 
 I could see his impression of me falling in real time, but it was an unavoidable action on my part.
 
@@ -143,15 +143,15 @@ I played dumb to deflect suspicion.
 
 From his perspective, he might assume I was the one who had sent Versil to blackmail him.
 
-“Haha… Well, we’re both officially affiliated with the Mage Tower, you see. We just naturally got to know each other, that’s all.”
+“Haha... Well, we’re both officially affiliated with the Mage Tower, you see. We just naturally got to know each other, that’s all.”
 
 “Oh, is that so?”
 
-“But… may I hear what exactly I need to investigate? Miss Gowland didn’t tell me that far.”
+“But... may I hear what exactly I need to investigate? Miss Gowland didn’t tell me that far.”
 
 “It’s about investigating the magic circle in the underground fortress. No, to be precise, I want you to find out how to activate it.”
 
-“A magic circle…?”
+“A magic circle...?”
 
 “Yes. It’s ancient. Versil said it was beyond her ability.”
 
@@ -159,13 +159,13 @@ At my straightforward answer, the GM rested his chin on his hand and asked cauti
 
 “Are you trying to leave the city?”
 
-…Right. So he knew something too.
+...Right. So he knew something too.
 
 Since I needed his help anyway, there was no point hiding it.
 
 “That’s right. More precisely, I want to scout their movements outside.”
 
-“…I see.”
+“...I see.”
 
 “Do you already know how to activate the circle?”
 
@@ -177,7 +177,7 @@ Since I needed his help anyway, there was no point hiding it.
 
 The GM nodded as he said this, but his voice lacked confidence and held a faint note of regret.
 
-But…
+But...
 
 “Why does it feel like he’s making excuses in advance?”
 
@@ -189,7 +189,7 @@ I spoke kindly:
 
 “If it doesn’t work, we just keep trying until it does, right?”
 
-“…Pardon?”
+“...Pardon?”
 
 What do you mean pardon.
 
@@ -197,7 +197,7 @@ Did he think he could just glance at it, shrug, and go home?
 
 “I don’t care if it takes months. If you keep trying, it’ll work eventually!”
 
-“….”
+“....”
 
 “Since I’m the one asking, it wouldn’t be polite to leave you alone, so I’ll stay by your side and keep you company!”
 
@@ -205,35 +205,35 @@ In other words, I’d lock him and guard him to make sure he doesn’t escape.
 
 “Since we’re talking about it, how about we go right now?”
 
-“…What?”
+“...What?”
 
 “I hear you never leave your tower. You don’t have any other appointments, do you?”
 
-“B-but I need to gather some equipment first…”
+“B-but I need to gather some equipment first...”
 
 “No worries! Just tell me what you need and I’ll have Versil fetch it.”
 
-“I-I’ll get it myself! Without it, there’s no point, and it would be hard to find just by describing it…!”
+“I-I’ll get it myself! Without it, there’s no point, and it would be hard to find just by describing it...!”
 
 Perhaps thinking he might really be dragged along like this, his voice sped up.
 
-“Hm… you won’t just disappear, will you?”
+“Hm... you won’t just disappear, will you?”
 
-“……Yes?”
+“......Yes?”
 
 Looking at his dumbfounded expression, I laughed heartily.
 
 “Hahaha! Just kidding! Of course you wouldn’t. I trust you completely!”
 
-“Ahaha… right, of course.”
+“Ahaha... right, of course.”
 
 “Even if some emergency kept you away, I could always come find you, couldn’t I?”
 
-“….”
+“....”
 
 After I told him I’ve been to the Mage Tower many times and knew the layout well, perhaps recalling the Mage Tower raid incident from the past, his face turned pale.
 
-And……
+And......
 
 “P-please don’t worry. One hour is enough.”
 
@@ -243,7 +243,7 @@ With those words, he left and returned exactly one hour later.
 
 Travelling to Noark alone with GM wasn’t a problem.
 
-I already knew the way down, and…
+I already knew the way down, and...
 
 Step, step.
 
@@ -251,11 +251,11 @@ The guy used a magic tool to deal with the knights patrolling the sewers.
 
 I had secretly been worried that the patrol might have some kind of detection device, but that turned out to be an unnecessary concern.
 
-‘His gear is impressive…’
+‘His gear is impressive...’
 
 True to a magitech engineer, his tool outclassed the knights’ detection artifacts.
 
-‘…His gear is really good.’
+‘...His gear is really good.’
 
 The knights didn’t notice anything, even as we passed right by them.
 
@@ -263,7 +263,7 @@ As you’d expect from a Magitech Engineer, I suppose.
 
 “You said you made it yourself? What’s its name?”
 
-“It doesn’t have a name… I never intended to sell it.”
+“It doesn’t have a name... I never intended to sell it.”
 
 “Why not?”
 
@@ -273,7 +273,7 @@ As you’d expect from a Magitech Engineer, I suppose.
 
 That only made me want it more.
 
-Maybe I could snatch it somehow…
+Maybe I could snatch it somehow...
 
 Perhaps noticing my greed, he quickly shifted the subject.
 
@@ -281,7 +281,7 @@ Perhaps noticing my greed, he quickly shifted the subject.
 
 “That’s why you should go out more.”
 
-“Haha… I should.”
+“Haha... I should.”
 
 Whether he was uncomfortable with the situation or just being outside was stressful for him, the GM remained mostly silent until we reached the Noark Square.
 
@@ -297,9 +297,9 @@ Still, so long as he did the job, I didn’t care.
 
 He unpacked his gear and started working like a true professional.
 
-And after some time had passed…
+And after some time had passed...
 
-“Um…”
+“Um...”
 
 He approached me with cautious steps.
 
@@ -307,7 +307,7 @@ He approached me with cautious steps.
 
 At first, I didn’t get what he meant.
 
-“…Finished?”
+“...Finished?”
 
 “Yes. I’ve written down the formula to activate the magic circle here. If you just follow this method, even a Level 4 mage should be able to activate it.”
 
@@ -317,15 +317,15 @@ Is it really finished this fast?
 
 As I narrowed my eyes suspiciously and looked him up and down, he quickly explained:
 
-“…It was simpler than I expected. Ancient magic circles are my specialty, after all.”
+“...It was simpler than I expected. Ancient magic circles are my specialty, after all.”
 
 “Then why couldn’t you promise earlier?”
 
-“That’s… a bad habit of mine. I’m sorry.”
+“That’s... a bad habit of mine. I’m sorry.”
 
 Well, in that case, I have nothing more to say.
 
-“Um… Since the work is done now, may I go? I prefer to have dinner at home if possible…”
+“Um... Since the work is done now, may I go? I prefer to have dinner at home if possible...”
 
 To be honest, I can’t believe it.
 
@@ -333,13 +333,13 @@ Not that I could say so to his face.
 
 “What do you mean ‘done’?”
 
-“…Excuse me?”
+“...Excuse me?”
 
 “You haven’t confirmed it works yet. Try activating it.”
 
 It was a fair point. He sighed and nodded.
 
-“…Understood. Give me a moment to prepare.”
+“...Understood. Give me a moment to prepare.”
 
 After tidying his tools, he called me over five minutes later.
 
@@ -347,25 +347,25 @@ He counted down—one, two, three—
 
 Flash—!
 
-A pure white light enveloped us, and when I opened my eyes…
+A pure white light enveloped us, and when I opened my eyes...
 
-‘This place is…’
+‘This place is...’
 
 A space both familiar and unfamiliar filled my vision.
 
 It was a huge, circular tunnel wide enough for a massive serpent to pass through.
 
-One wall was sealed with strange markings…
+One wall was sealed with strange markings...
 
 “That’s the magic circle engraved here. From what I can tell, the activation method is the same.”
 
-“…From what you can tell?”
+“...From what you can tell?”
 
 “I misspoke. The information is accurate, so you don’t need to worry.”
 
-“….”
+“....”
 
-“And one caution… be careful not to damage the circle. Unlike the one in the plaza, this one is exposed to the elements.”
+“And one caution... be careful not to damage the circle. Unlike the one in the plaza, this one is exposed to the elements.”
 
 “What happens if it breaks?”
 
@@ -381,7 +381,7 @@ In simple terms, it means we are below the city but outside the barrier covering
 
 As expected, it’s still quite suspicious.
 
-Not that I doubted the truth of his words—but…
+Not that I doubted the truth of his words—but...
 
 ‘Something feels fishy’
 
@@ -395,7 +395,7 @@ Even I, a complete amateur, could sense that something was off.
 
 It didn’t seem like he was solving things on the spot but more like he already knew the answers, just pretending to figure them out in front of me.
 
-“Well, it seems my work here is done now… Shall we head back?”
+“Well, it seems my work here is done now... Shall we head back?”
 
 At the GM’s request, I thought about it for a moment.
 
@@ -405,11 +405,11 @@ I had expected this to take weeks, maybe longer.
 
 I’d planned to draw things out, to use the time to talk with him and learn more.
 
-So then…
+So then...
 
 “Now that we’re here, aren’t you curious yourself? Let’s go take a look together!”
 
-“…Pardon?”
+“...Pardon?”
 
 “Excellent! I’ll take that as your agreement!!”
 

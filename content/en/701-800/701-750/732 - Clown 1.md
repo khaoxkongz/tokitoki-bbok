@@ -66,7 +66,7 @@ Whooooom—!
 
 Following behind me, Astarota scattered a fierce aura with every swing of his sword, proving exactly why he was the King’s personal guard.
 
-“…M-Monster!”
+“...M-Monster!”
 
 “Damn it, where the hell did a monster like that come from?!”
 
@@ -98,7 +98,7 @@ Tch, look at him scolding me under the guise of giving advice.
 
 If I were the king, he wouldn’t even dare open his mouth.
 
-‘…Well, he’s not wrong.’
+‘...Well, he’s not wrong.’
 
 These guys were just buying time. The real fight hadn’t even started yet.
 
@@ -106,7 +106,7 @@ The Corpse Collector, the Blood Knight, and the other members of Orcules—
 
 Not a single one of them had revealed themselves yet.
 
-Yeah, so…
+Yeah, so...
 
 Craaaack—!
 
@@ -138,11 +138,11 @@ Crunch—!
 
 At some point, I stopped keeping track of how long I had been crushing the skulls of the soldiers left behind.
 
-‘Then we should be about halfway there now…’
+‘Then we should be about halfway there now...’
 
 If we could pull this off one more time, we would be able to enter District Seven, a place that was practically my home. Wait, does that mean we’ve already burned more than half of District Eight?
 
-“A-Ah… n-no—!”
+“A-Ah... n-no—!”
 
 Crunch—!
 
@@ -168,7 +168,7 @@ Luckily, it was smaller than my shield, so the guard succeeded.
 
 But that didn’t mean I could relax. The fact that they had deployed their elite members meant they were fully prepared to take me down.
 
-‘Then it’s about time for me, too…’
+‘Then it’s about time for me, too...’
 
 To prepare to meet them at full strength.
 
@@ -184,7 +184,7 @@ Not that it made me nervous.
 
 Among the elites, I spotted a very familiar face. The moment I saw him, I understood just how formidable the group was.
 
-“Even you couldn’t possibly hold out against this many. Pssit…”
+“Even you couldn’t possibly hold out against this many. Pssit...”
 
 Wow. Earlier, he had abandoned his comrades and fled with his tail between his legs.
 
@@ -194,23 +194,23 @@ Now that he’s got friends, he’s puffing out his chest already—
 
 The moment she spotted him in the crowd, Lyranne Vivian screamed in rage.
 
-“H-Heh-heh… Miss Vivian, it’s been a while. You look safe, which is a relief! I came back with reinforcements to rescue you, so now come over to this side—”
+“H-Heh-heh... Miss Vivian, it’s been a while. You look safe, which is a relief! I came back with reinforcements to rescue you, so now come over to this side—”
 
 “What the hell are you talking about?! You’re dead, you piece of shit!!”
 
-“Psssit… Shall I take that as meaning you intend to betray Orcules and side with them?”
+“Psssit... Shall I take that as meaning you intend to betray Orcules and side with them?”
 
 “You betrayed me first!”
 
 “Why is it betrayal? Miss Vivian, you are neither dead nor injured, and I have come back with reinforcements to rescue you.”
 
-“…What? Lord Jandel!! No, Jandel-oppa!! Please, help me kill that bastard! I’ll do anything you tell me from now on—anything!”
+“...What? Lord Jandel!! No, Jandel-oppa!! Please, help me kill that bastard! I’ll do anything you tell me from now on—anything!”
 
 Having completely lost control to rage, Vivian started throwing out promises I hadn’t even asked for.
 
 Watching her, the Corpse Collector clicked his tongue.
 
-“My, my… It seems I’m already too late. They say you don’t try to take back a woman who’s gone to a barbarian…”
+“My, my... It seems I’m already too late. They say you don’t try to take back a woman who’s gone to a barbarian...”
 
 “Aaaaaaagh!!”
 
@@ -222,13 +222,13 @@ However, I could not afford for my dark magic lackey to lose her composure when 
 
 As expected, he was immediately triggered.
 
-“…Excuse me?”
+“...Excuse me?”
 
-“W-what… did you just say…?”
+“W-what... did you just say...?”
 
 “I said the jealousy of a small man is pathetic.”
 
-“…W-what are you talking about! That, that was a combat situation, so o-obviously…!”
+“...W-what are you talking about! That, that was a combat situation, so o-obviously...!”
 
 “I was talking about your height.”
 
@@ -238,13 +238,13 @@ If this were a game, his stun bar had filled up.
 
 “How pathetic.”
 
-“……”
+“......”
 
 “Even your excuses.”
 
 When I delivered the finishing blow, he stood there frozen, unable to say a word.
 
-“Wow…”
+“Wow...”
 
 Even Vivian, who had been screaming with rage, stood with her mouth agape, impressed by my verbal beatdown. Seeing me expose him and read his character perfectly seemed to calm her down.
 
@@ -270,7 +270,7 @@ I smirked and threw a hand axe.
 
 “Oh, so you can block that, at least.”
 
-“…Ggh! Kill him!”
+“...Ggh! Kill him!”
 
 With his perfect entrance spoiled, the man gave the order to begin the fight.
 
@@ -352,9 +352,9 @@ A mad terrorist organization that dared to stand against the royal family in thi
 
 There was no reason not to take that hand. Even if it hadn’t been his only way to survive, the group itself looked magnificent in his eyes.
 
-He followed the leader into the underground fortress, and…
+He followed the leader into the underground fortress, and...
 
-[C-Corpse Collector……!]
+[C-Corpse Collector......!]
 
 Before long, he acquired an infamy that surpassed even his former notoriety.
 

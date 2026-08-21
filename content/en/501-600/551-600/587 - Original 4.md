@@ -9,7 +9,7 @@ The cold seeping through the soles of my shoes.
 
 The icy walls reflected white light like transparent glass.
 
-‘…The glacier cave.’
+‘...The glacier cave.’
 
 The place where I met Mr. Bear and killed Jencia, a player from Noark.
 
@@ -17,7 +17,7 @@ However, I didn’t feel nostalgic.
 
 After all, I had already experienced those emotions when I came here earlier to hunt the Tyrant Tarunbas.
 
-So, that means this must be a rift located on the first floor…
+So, that means this must be a rift located on the first floor...
 
 Because of this, I now had another piece of supporting evidence.
 
@@ -31,7 +31,7 @@ After standing at the entrance to gather my thoughts, I moved forward, passing t
 
 Though for now, there was no troll in sight.
 
-‘As expected… the boss room is a bit different too.’
+‘As expected... the boss room is a bit different too.’
 
 Before the boss appeared, I quickly surveyed the terrain.
 
@@ -43,7 +43,7 @@ The three Ice Orc brothers, who were usually frozen inside ice pillars before th
 
 It was the same as when I fought in Tarunbas’s portal.
 
-‘…What the hell happened here?’
+‘...What the hell happened here?’
 
 The frozen chamber was filled with corpses.
 FindingGrief Counseling
@@ -66,7 +66,7 @@ Ice Orcs, Frost Wolves, Yetis—
 
 Monsters that typically appear in the glacier cave, as well as completely unrelated creatures, were scattered around.
 
-‘Wait, is that Tarunbas…?’
+‘Wait, is that Tarunbas...?’
 
 I even spotted the corpse of Tyrant Tarunbas, the original guardian of the glacier cave.
 
@@ -104,7 +104,7 @@ Fierce, oversized fangs protruding from its mouth.
 
 Aside from its massive size, it had all the traits of a troll.
 
-‘Well, the black skin is a bit different…’
+‘Well, the black skin is a bit different...’
 
 As a K-barbarian who lived in the modern era, where even mentioning skin color could get you labeled a racist—
 
@@ -136,7 +136,7 @@ Hearing my words, the troll stopped in its tracks.
 
 It tilted its head and stared down at me.
 
-[Grrr…?]
+[Grrr...?]
 
 Wait—could it actually talk?
 
@@ -148,11 +148,11 @@ For some reason, upon hearing my name, it let out a vicious roar and charged at 
 
 I sighed in disappointment.
 
-“Ha…”
+“Ha...”
 
 Guess talking was out of the question.
 
-I had a feeling when I saw it chomping on human limbs…
+I had a feeling when I saw it chomping on human limbs...
 
 Still, I wasn’t ready to give up.
 
@@ -162,7 +162,7 @@ Dodging its swing, I tried again, this time in Ancient Tongue.
 
 [Calm down. I don’t want to fight you.]
 
-[…]
+[...]
 
 [My name is Bjorn, son of Jandel—]
 
@@ -172,7 +172,7 @@ Dammit.
 
 That didn’t work either?
 
-I was running out of options…
+I was running out of options...
 
 “Grrraaaaah—!”
 
@@ -190,7 +190,7 @@ I smashed my hammer into the troll’s jaw as it charged mindlessly at me.
 
 In the modern world, people with anger management issues were common. So I figured, if I showed the power difference between us maybe it would regain its senses.
 
-But…
+But...
 
 ‘Guess it’s not going to work either.’
 
@@ -214,13 +214,13 @@ But even so—
 
 No, precisely because of that, I recognized it instantly.
 
-‘…[Swing]?’
+‘...[Swing]?’
 
 The troll had just used [Swing].
 
 Though it was confusing, I calmly deduced the reason behind this phenomenon.
 
-‘A Mutated variant…’
+‘A Mutated variant...’
 
 The troll in the glacier cave is a mutated variant.
 
@@ -230,7 +230,7 @@ Just like how Vampire Cambormerr could use Nightflayer’s [Pain Sharing], this 
 
 But that’s not the important part.
 
-‘…Wow, it really exists.’
+‘...Wow, it really exists.’
 
 This was something I’d been curious about for a long time.
 
@@ -238,7 +238,7 @@ What would a monster with an Ogre’s strength and a Troll’s regeneration feel
 
 Now, that imaginary monster had become reality.
 
-But…
+But...
 
 ‘It’s not as impressive as I thought.’
 
@@ -276,7 +276,7 @@ After killing the troll, I proceeded to hunt down all the remaining unconfirmed 
 
 Duke Cambormere was the only one I could communicate with.
 
-‘There must be a reason for this…’
+‘There must be a reason for this...’
 
 No matter how much I thought about it, I couldn’t come up with a plausible explanation.
 
@@ -290,13 +290,13 @@ No idea. But at this point, I decided to stop digging for secrets and resume the
 
 I cleared the 3rd-floor rift, the White Temple.
 
-[…]
+[...]
 
 Oddly, the Knight of the Apocalypse that appeared there didn’t say a single line from the original game.
 
 The same went for the 4th-floor rift.
 
-[You… Did you come to kill me…?]
+[You... Did you come to kill me...?]
 
 The doppelganger, who should have spoken that line, said nothing and jumped straight into the boss fight.
 
@@ -340,7 +340,7 @@ Thankfully, no one was reckless enough to challenge it after hearing that.
 
 They simply gaped in awe.
 
-“The Doppelgänger’s essence… It’s tempting, but I suppose I must give it up.”
+“The Doppelgänger’s essence... It’s tempting, but I suppose I must give it up.”
 
 “This isn’t a monster you can take on alone.”
 
@@ -354,7 +354,7 @@ The Doppelganger’s essence had high value.
 
 No matter the class, it could be quite useful.
 
-But…
+But...
 
 ‘I don’t have the slot.’
 
@@ -378,13 +378,13 @@ The explorers constantly flowed in and out of portals, brimming with passion, wh
 
 They didn’t need EXP or essence, so it didn’t matter to them.
 
-The mages, with their academic curiosity, were the only ones still curious about the situation…
+The mages, with their academic curiosity, were the only ones still curious about the situation...
 
 “The Baron will likely challenge the Golden Ruins tomorrow, yes?”
 
 “Yes, I believe so.”
 
-“I wonder… What lies beyond those sealed doors?”
+“I wonder... What lies beyond those sealed doors?”
 
 The mages simply waited for my next move, paying no attention to the already cleared statues.
 
@@ -400,7 +400,7 @@ It wasn’t as intense as the Doppelgänger.
 
 That was the destiny of a tank.
 
-‘God… I need an attack skill.’
+‘God... I need an attack skill.’
 
 Thankfully, I had [Swing] and the Demon Crusher.
 
@@ -408,7 +408,7 @@ Still, peeling Kalfion’s shell layer by layer took time.
 
 Since it wasn’t a humanoid monster, the Outlaw of the Wilderness couldn’t boost my damage either.
 
-‘…Though I suppose I only won because I am a tank.’
+‘...Though I suppose I only won because I am a tank.’
 
 It’s common in RPGs.
 

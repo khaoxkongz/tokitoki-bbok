@@ -4,9 +4,9 @@ They say time heals all wounds.
 
 That no matter how difficult things are, they will eventually get better with time.
 
-So…
+So...
 
-One, two, three…
+One, two, three...
 
 I counted to three and opened my eyes.
 
@@ -22,7 +22,7 @@ It was Lee Hansu’s room, without a doubt.
 
 The place I had been transported to every 15th of the month at midnight, ever since I took that pill.
 
-‘…I’m not dreaming, am I?’
+‘...I’m not dreaming, am I?’
 
 That thought crossed my mind, but I quickly dismissed it.
 
@@ -40,7 +40,7 @@ No matter how many days I spent in the labyrinth, only 36 hours would pass in th
 
 That’s why I had never been summoned to the community during a labyrinth expedition.
 
-But…
+But...
 
 “It happened.”
 
@@ -48,9 +48,9 @@ I put aside the question of whether it was even possible and continued thinking.
 
 No matter how unrealistic it seemed.
 
-Being summoned to the community while exploring the labyrinth… it didn’t make sense. And illogical outcomes usually had illogical causes.
+Being summoned to the community while exploring the labyrinth... it didn’t make sense. And illogical outcomes usually had illogical causes.
 
-“Time… is flowing outside.”
+“Time... is flowing outside.”
 
 If that was true, it would explain how I had entered the community from the labyrinth.
 
@@ -64,7 +64,7 @@ If the labyrinth had closed normally, they would think I was dead.
 
 How was I going to clean up this mess?
 
-“Haa…”
+“Haa...”
 
 I couldn’t find the answer just by thinking about it, so I went to my computer.
 
@@ -96,7 +96,7 @@ He’s not faking his death again, is he?
 
 [└Nyacreeps: Only one of the stragglers survived. He’s incredibly lucky. Not only did he not enter the portal, but he also survived Verzak on the 1st floor.]
 
-Right… I had expected this.
+Right... I had expected this.
 
 The community was the only way to get information about the outside world, so I continued reading.
 
@@ -114,13 +114,13 @@ The players’ reactions were varied.
 
 Some were making jokes, while others were spreading baseless rumors.
 
-And then…
+And then...
 
 [Sharing the method to open the portal.]
 
 Everyone knows about the new stone tablet in the Dark Zone of the Crystal Cave, right? Bjorn Yandel opened it and entered, and then something bad happened.
 
-So the question is, what are the conditions to open the portal…?
+So the question is, what are the conditions to open the portal...?
 
 The answer is probably on the 3rd floor. There were many explorers who saw Bjorn Yandel on the 3rd floor during this cycle.
 
@@ -134,7 +134,7 @@ So they had figured that much out.
 
 [└AI_DIDIGO: Correction: Bjorn Yandel went down to the 1st floor on the 7th day and immediately opened the portal.]
 
-They were talking about the 3rd floor, but it seemed like our entire route had been leaked…
+They were talking about the 3rd floor, but it seemed like our entire route had been leaked...
 
 [└EdwardBless77: DIDIGO, no second piece of information today?]
 
@@ -142,15 +142,15 @@ They were talking about the 3rd floor, but it seemed like our entire route had b
 
 They knew everything about our expedition, even though they weren’t even there.
 
-‘I’ve gathered enough information…’
+‘I’ve gathered enough information...’
 
-I was about to join Baekho and Hyunbyul in the chat room when…
+I was about to join Baekho and Hyunbyul in the chat room when...
 
 I saw a post that caught my attention.
 
 [I’m an explorer who entered the hidden area with Bjorn Yandel.]
 
-…Who was this?
+...Who was this?
 
 ---
 
@@ -160,7 +160,7 @@ I saw a post that caught my attention.
 
 [We’re currently on the 1st Basement Floor: Archives.]
 
-[This floor is very unique…]
+[This floor is very unique...]
 
 Who had written this post?
 
@@ -168,11 +168,11 @@ My first suspect was Bersil.
 
 But she wouldn't have done this. She was the only player I knew for sure.
 
-‘There might be other players among the 60…’
+‘There might be other players among the 60...’
 
 And as I continued reading, the number of suspects decreased. The details the author had included to build credibility revealed their identity.
 
-[After being separated from Bjorn Yandel, we explored on our own…]
+[After being separated from Bjorn Yandel, we explored on our own...]
 
 It wasn’t the Silver Lion Clan or the smaller teams that had joined them. The only remaining suspects were the explorers we had met on the library island.
 
@@ -184,27 +184,27 @@ I wondered how they had survived.
 
 Did the monsters not enter the library?
 
-[We’re currently trapped on an island. The island is swarming with monsters, and our ship is damaged, so we can’t escape. Our only hope was to wait for the labyrinth to close, but…]
+[We’re currently trapped on an island. The island is swarming with monsters, and our ship is damaged, so we can’t escape. Our only hope was to wait for the labyrinth to close, but...]
 
 [It seems unlikely now that I’ve woken up here today. That’s why I’m writing this post, revealing our findings.]
 
-[To those who are planning to enter this floor, or those who are already here… please come and rescue us. We’ll share our information, and we’ll reward you handsomely.]
+[To those who are planning to enter this floor, or those who are already here... please come and rescue us. We’ll share our information, and we’ll reward you handsomely.]
 
-[Our island is located at 19 degrees from the starting island…]
+[Our island is located at 19 degrees from the starting island...]
 
 The author then provided the coordinates of their island.
 
 I wasn’t a navigator, but the route seemed complicated and time-consuming. It wasn’t the library island.
 
-[And if you happen to meet Baron Yandel, whether he’s already escaped or still trapped here, please tell him…]
+[And if you happen to meet Baron Yandel, whether he’s already escaped or still trapped here, please tell him...]
 
-[…that we’re waiting for him.]
+[...that we’re waiting for him.]
 
 The post ended with that message.
 
 As I was wondering who the author was, I remembered Wyte Hex’s words.
 
-[So… you haven’t found a way out either?]
+[So... you haven’t found a way out either?]
 
 He had been strangely anxious.
 
@@ -220,11 +220,11 @@ I started reading the comments.
 
 [MarkG: No one’s falling for this, right?]
 
-[Pawel: If he had put this much effort into something else…]
+[Pawel: If he had put this much effort into something else...]
 
 Most of the comments dismissed it as a troll post, but not everyone agreed.
 
-[TheRobson75: The details seem too specific for a made-up story… Is time really flowing normally in the hidden area, even after the labyrinth closes?]
+[TheRobson75: The details seem too specific for a made-up story... Is time really flowing normally in the hidden area, even after the labyrinth closes?]
 
 Some were skeptical, while others believed it.
 
@@ -250,7 +250,7 @@ Some were skeptical, while others believed it.
 
 Why were they fighting in the comments?
 
-‘There are so many people with nothing better to do…’
+‘There are so many people with nothing better to do...’
 
 I read all the comments, but the author hadn’t replied to any of them.
 
@@ -268,19 +268,19 @@ I didn’t want to keep them waiting, so I quickly entered the chat room.
 
 Hyunbyul and Lee Baekho were standing a few feet apart, facing each other.
 
-They were having a serious conversation…
+They were having a serious conversation...
 
 “Oh, hyung! You’re here!”
 
-“…Huh?”
+“...Huh?”
 
 They both turned to me.
 
-“…O-Oppa?”
+“...O-Oppa?”
 
 “Sorry I’m late. What were you talking about?”
 
-“W-Well…”
+“W-Well...”
 
 Hyunbyul looked flustered.
 
@@ -294,7 +294,7 @@ And Lee Baekho, sensing an opportunity, chimed in.
 
 “Hyunbyul, is that true?”
 
-“…Do you believe him?”
+“...Do you believe him?”
 
 So it was true.
 
@@ -302,7 +302,7 @@ She would have just denied it if it wasn’t.
 
 I felt a chill run down my spine.
 
-‘She wouldn’t have asked unless she already suspected something…’
+‘She wouldn’t have asked unless she already suspected something...’
 
 It was a sudden crisis, but crises could also be opportunities.
 
@@ -310,27 +310,27 @@ It was a sudden crisis, but crises could also be opportunities.
 
 Bjorn Yandel was supposedly dead, so Hyunbyul would probably think she had made a mistake and answer honestly.
 
-“…Do you really believe him?”
+“...Do you really believe him?”
 
 “I won’t be mad. Just tell me.”
 
 I reassured her, and she finally spoke, her voice barely a whisper.
 
-“I… wasn’t sure.”
+“I... wasn’t sure.”
 
 “But?”
 
-“…I know when you joined the community.”
+“...I know when you joined the community.”
 
 “Continue.”
 
-“There aren’t any other explorers who joined around that time and became as famous as Bjorn Yandel. The only other possibility is the Blood Spirit Marquis… but she’s a woman.”
+“There aren’t any other explorers who joined around that time and became as famous as Bjorn Yandel. The only other possibility is the Blood Spirit Marquis... but she’s a woman.”
 
 Ah, so that’s why she had suspected me.
 
-“…And you kept talking about the game. About how Shield Barbarians were the best.”
+“...And you kept talking about the game. About how Shield Barbarians were the best.”
 
-“You remember that…?”
+“You remember that...?”
 
 “Of course. You said it.”
 
@@ -338,7 +338,7 @@ She looked at me as if I had asked a stupid question.
 
 I was speechless, and Lee Baekho whistled.
 
-“Wow… Hyunbyul noona is amazing. Hyung, you should reconsider. I wouldn’t let a girl like her go—”
+“Wow... Hyunbyul noona is amazing. Hyung, you should reconsider. I wouldn’t let a girl like her go—”
 
 “Shut up. Please.”
 
@@ -346,21 +346,21 @@ I agreed with him.
 
 Did Lee Baekho have some kind of verbal diarrhea? I glared at him, and he shrugged and closed his mouth.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 The atmosphere was awkward again.
 
 Hyunbyul averted her gaze and spoke.
 
-“Anyway, that’s why… I thought you were Bjorn Yandel… and then… you died…”
+“Anyway, that’s why... I thought you were Bjorn Yandel... and then... you died...”
 
-“…….”
+“.......”
 
-“And… you never came back… so I asked him… he knows your identity…”
+“And... you never came back... so I asked him... he knows your identity...”
 
-Ah…
+Ah...
 
 “So why are you so late today? I was worried!”
 
@@ -392,7 +392,7 @@ I could almost hear her voice.
 
 I chuckled, meeting her gaze head-on, and Lee Baekho exclaimed,
 
-“Wow… that’s how you keep your girlfriend in check? Impressive, hyungnim!”
+“Wow... that’s how you keep your girlfriend in check? Impressive, hyungnim!”
 
 What? He was the one who was full of secrets.
 
@@ -400,7 +400,7 @@ I was speechless, but then he said something that made me feel a little strange.
 
 “It’s a little disappointing, though.”
 
-“…….”
+“.......”
 
 “I wish I was as smart as you.”
 

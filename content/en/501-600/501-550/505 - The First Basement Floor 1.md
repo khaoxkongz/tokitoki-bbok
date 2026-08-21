@@ -14,15 +14,15 @@ The distance between us was unusually large for teammates.
 
 Of course, if I went all out, I could close the gap in a second.
 
-Yes, I could…
+Yes, I could...
 
 “To be precise, we’re going to the Goblin Forest, not the 2nd floor.”
 
-…but why?
+...but why?
 
 An insurmountable distance seemed to stretch between us.
 
-‘I thought… things would go back to normal… eventually…’
+‘I thought... things would go back to normal... eventually...’
 
 She had tried to be patient, but her confidence was waning with each passing day.
 
@@ -44,7 +44,7 @@ She had simply answered his question, trying to guess what he wanted to hear.
 
 Even that, she wasn’t sure of, due to the years they had spent apart.
 
-[W-Well… I think… it’s better to… kill them…?]
+[W-Well... I think... it’s better to... kill them...?]
 
 She hadn’t even thought about what she wanted.
 
@@ -54,7 +54,7 @@ Come to think of it, it had always been like this.
 
 She had never questioned his decisions, never offered him advice.
 
-She had been prepared to follow him, no matter what path he chose… but that was all.
+She had been prepared to follow him, no matter what path he chose... but that was all.
 
 ‘Amelia Rainwales.’
 
@@ -64,9 +64,9 @@ She finally understood what it meant to be a true companion.
 
 It wasn’t that her place by his side had disappeared while she was gone.
 
-The place she thought she belonged… was nothing more than a storage compartment.
+The place she thought she belonged... was nothing more than a storage compartment.
 
-“…Are you okay? You look pale.”
+“...Are you okay? You look pale.”
 
 She gritted her teeth as Amelia approached her, concern etched on her face.
 
@@ -112,19 +112,19 @@ Slaying Verzak, the Lord of the Abyss.
 
 If that was the key, we didn’t stand a chance.
 
-‘…I hope no one summons Verzak…’
+‘...I hope no one summons Verzak...’
 
 I tried to be optimistic, but I couldn’t shake off my anxiety.
 
 It seemed like there were dozens of teams waiting throughout the cave.
 
-And if even one of them got greedy…
+And if even one of them got greedy...
 
 ‘Whatever, I’ll focus on my own task.’
 
 I couldn’t go around persuading every explorer in the cave, so I just increased my pace.
 
-And after a while…
+And after a while...
 
 「Character has entered the 2nd-floor Goblin Forest.」
 
@@ -158,11 +158,11 @@ The Nameless Statue.
 
 A 7th-grade monster that looked like a smaller, more agile Stone Golem.
 
-And…
+And...
 
 「The Nameless Statue has cast [Unanswered Prayer].」
 
-…its skill was notoriously useless.
+...its skill was notoriously useless.
 
 It consumed a lot of MP, but it rarely succeeded.
 
@@ -216,9 +216,9 @@ We had enough firepower, so Bersil just focused on casting Distortion.
 
 「Character has slain a Nameless Statue.」
 
-「Character has slain a Nameless Statue…」
+「Character has slain a Nameless Statue...」
 
-「….」
+「....」
 
 We smashed every statue we encountered.
 
@@ -238,15 +238,15 @@ We divided the field into three sections and rotated, so we didn’t have any do
 
 「Character has slain a Nameless Statue.」
 
-「Character has slain a Nameless Statue…」
+「Character has slain a Nameless Statue...」
 
-「….」
+「....」
 
-After a while…
+After a while...
 
 ‘We’ve obtained six Magic Crystals.’
 
-…the item we were looking for finally dropped.
+...the item we were looking for finally dropped.
 
 “Bjorn! This! Isn’t this what you were looking for?!”
 
@@ -266,17 +266,17 @@ It didn’t stack in your inventory, and it dropped with one of three random pat
 
 And you couldn’t take it back to the city.
 
-‘I have the Sun pattern… so I need the Moon and Star patterns.’
+‘I have the Sun pattern... so I need the Moon and Star patterns.’
 
-I had a feeling there was a secret behind these fragments, so I had experimented with them in the past…
+I had a feeling there was a secret behind these fragments, so I had experimented with them in the past...
 
 And now I finally had a use for them.
 
-“So you were after these fragments…?”
+“So you were after these fragments...?”
 
-“Doesn’t it seem plausible? Star, Sun, Moon…”
+“Doesn’t it seem plausible? Star, Sun, Moon...”
 
-“…I don’t know, but it seems like a good idea. Time is a problem, but it’s not impossible.”
+“...I don’t know, but it seems like a good idea. Time is a problem, but it’s not impossible.”
 
 We had to farm the fragments on the 3rd floor and then return to the 1st floor before it closed.
 
@@ -298,11 +298,11 @@ And it was difficult to increase our hunting speed any further.
 
 We had only managed to obtain a fragment in eight hours because we had been luring the monsters and using AoE attacks.
 
-‘And we can’t use Distortion once Bersil runs out of MP…’
+‘And we can’t use Distortion once Bersil runs out of MP...’
 
 Damn, it seemed impossible this time.
 
-I had thought we might be able to pull it off if we hurried…
+I had thought we might be able to pull it off if we hurried...
 
 Maybe I had been too optimistic—
 
@@ -320,25 +320,25 @@ Which meant we just needed the Moon pattern.
 
 ‘What? Ainar found another one?’
 
-‘Beginner’s Luck’ didn’t increase the drop rate of items…
+‘Beginner’s Luck’ didn’t increase the drop rate of items...
 
 But luck was like momentum.
 
 “I’m changing the plan.”
 
-“……?”
+“......?”
 
 “Ainar will be in charge of slaying the monsters from now on. The rest of you will lure them towards her.”
 
 I decided to prioritize efficiency over speed.
 
-We continued hunting, and after about five hours…
+We continued hunting, and after about five hours...
 
 「Character has obtained a [Nameless Fragment].」
 
-…another fragment dropped.
+...another fragment dropped.
 
-“It’s the Moon pattern…”
+“It’s the Moon pattern...”
 
 It was time to admit it.
 
@@ -362,13 +362,13 @@ Okay, that settled the reward distribution.
 
 I gathered my team and headed back.
 
-Day 5, Day 6, Day 7…
+Day 5, Day 6, Day 7...
 
 We were going backwards, a rare experience in the labyrinth.
 
 Thanks to Ainar, we could afford to take breaks and rest, managing our stamina as we traveled.
 
-And finally, on the afternoon of the 7th day…
+And finally, on the afternoon of the 7th day...
 
 We arrived at our destination.
 
@@ -378,7 +378,7 @@ The clearing near the portal to the Crystal Cave.
 
 The same place where we had fought the three Noark explorers who had tried to block the entrance.
 
-“…What’s this?”
+“...What’s this?”
 
 The clearing was filled with explorers.
 
@@ -386,11 +386,11 @@ Over a hundred of them.
 
 They didn’t look like the explorers who had given up on the 1st floor and come up here.
 
-If they had, they would be gathered near the portal…
+If they had, they would be gathered near the portal...
 
 Flash!
 
-…and their condition wouldn’t be this bad.
+...and their condition wouldn’t be this bad.
 
 “Priest! Is there a priest?! Help!”
 
@@ -400,13 +400,13 @@ What was going on?
 
 As I approached the portal, the explorers started whispering.
 
-“The Giant…?”
+“The Giant...?”
 
 “Wasn’t he on the 1st floor?”
 
 They were surprised to see me coming from the opposite direction.
 
-Damn it, I had wanted to avoid attention…
+Damn it, I had wanted to avoid attention...
 
 But it was too late now.
 
@@ -416,10 +416,10 @@ I approached an explorer who seemed to be the most talkative and asked,
 
 He answered immediately,
 
-“…Verzak! That demon appeared!”
+“...Verzak! That demon appeared!”
 
 Damn it.
 
-“…….”
+“.......”
 
 I had been too lucky.

@@ -30,7 +30,7 @@ She attended the initiation ceremony, left before the banquet, and entered the l
 
 She argued that moving alone is several times faster and that we could just meet on the sixth floor anyway.
 
-If only it weren’t for the marquis back then…’
+If only it weren’t for the marquis back then...’
 
 A mindset that clearly indicates a problem in her head.
 
@@ -40,7 +40,7 @@ Unlike the other expedition members, he had made a personal agreement with her, 
 
 He told me that he wouldn’t stop me from trying to control her, but he asked me to refrain from using force.
 
-In other words, he was telling me not to beat her up without reason…
+In other words, he was telling me not to beat her up without reason...
 
 ‘It’s not like we have a princess in our team.’
 
@@ -54,7 +54,7 @@ One way or another.
 
 [You have entered the Pilgrim’s Path on the third floor.]
 
-[You have entered the Sky Tower on the fourth floor…]
+[You have entered the Sky Tower on the fourth floor...]
 
 Anyway, with or without her, the exploration proceeded smoothly as planned.
 
@@ -64,7 +64,7 @@ From the fourth floor, where avoiding combat was impossible, we started coordina
 
 Naturally, we ended up having a lot of conversations.
 
-“Hmm, so it’s true that the three of you were living in the same house…”
+“Hmm, so it’s true that the three of you were living in the same house...”
 
 Among our conversations, there were many personal chats like this, but no one crossed the line.
 
@@ -98,7 +98,7 @@ Should I say their temperaments are different?
 
 He’s quick-witted and much more mature.
 
-But perhaps because of that…
+But perhaps because of that...
 
 “Why are you looking at me like that, Mr. Schuiz?”
 
@@ -126,9 +126,9 @@ A reconnaissance team composed of the military’s swiftest.
 
 The elite of large clans waiting for the arrival of follow-up personnel.
 
-And…
+And...
 
-“……”
+“......”
 
 A distant greeting from another expedition team, probably acknowledging our presence.
 
@@ -136,7 +136,7 @@ Wow, two teams got here before us.
 
 I expected as much from the dwarf aunt’s team of veteran explorers, but I didn’t think Team 4, led by Paladin Jun, would beat us here.
 
-“…Ah, there she is.”
+“...Ah, there she is.”
 
 Anyway, thanks to the quietness, it was easy to find someone.
 
@@ -148,7 +148,7 @@ The woman I added as a member due to a deal with the marquis, and whose full nam
 
 After having my team wait, I approached the woman sitting in the shade, gazing blankly at the beach.
 
-“The 18th day… you came earlier than I thought.”
+“The 18th day... you came earlier than I thought.”
 
 As I approached, Ravien spoke without even turning her head.
 
@@ -166,15 +166,15 @@ I wasn’t planning to scold her over this anyway.
 
 “Two days ago.”
 
-“Two days ago…?”
+“Two days ago...?”
 
-…So she arrived on the 16th day?
+...So she arrived on the 16th day?
 
 She went from the first to the sixth floor in about two weeks?
 
 Even though I dislike her independent approach, I have to admit that much.
 
-“…I can see why you wanted to go solo.”
+“...I can see why you wanted to go solo.”
 
 At that speed, she must have succeeded in speedrunning every floor from the first to the sixth.
 
@@ -208,7 +208,7 @@ A conversation flowing much more smoothly than expected.
 
 Understanding that the beast tribe ages differently from humans, old Didi cautiously asked, and Ravien agreed without much thought.
 
-And then…
+And then...
 
 “And you two? How should I address you?”
 
@@ -224,9 +224,9 @@ When Erwin drew a line with a prickly voice, Ravien met her gaze with a peculiar
 
 “Alright, Ms. Tercia.”
 
-Okay, now that we’ve sorted out the names…
+Okay, now that we’ve sorted out the names...
 
-‘…But why are we sorting out names on the sixth floor?’
+‘...But why are we sorting out names on the sixth floor?’
 
 Can we really call this a team?
 
@@ -242,7 +242,7 @@ Despite that question, I moved on to the main topic.
 
 Ravien drew her sword, showing us some of her skills and explaining her combat role.
 
-Although she kept a few things to herself…
+Although she kept a few things to herself...
 
 But it’s common in restricted professions like mages, priests, and ability users to withhold some information, so it wasn’t anything new.
 
@@ -286,7 +286,7 @@ And how much time passed after that?
 
 From our higher vantage point on the eastern side of the island, we could see other teams arriving in real-time as they entered the sixth floor.
 
-It was the team led by James Carla, the vice captain of the Gearfang Clan…
+It was the team led by James Carla, the vice captain of the Gearfang Clan...
 
 “That team looks like a mess.”
 
@@ -310,7 +310,7 @@ As I spent time pondering the inevitable concerns any leader would have, the day
 
 Team 5—the one led by Sir Kyslan—arrived right at that moment.
 
-“Damn it…!”
+“Damn it...!”
 
 Even though they arrived two days early from the meeting date, they were still last, and the frustration was evident as he clenched his fist.
 
@@ -318,7 +318,7 @@ Huh, looks like his temper’s fraying.
 
 “What’re you doing over there? Come here.”
 
-“…Understood.”
+“...Understood.”
 
 When I waved him over, he flinched and approached.
 
@@ -388,21 +388,21 @@ Before misunderstandings grew, I quickly addressed this first.
 
 “We won’t be crossing the Ghost Canyon.”
 
-“What? You’re saying we’ll strike the base in the Dark Continent, so what do you…?”
+“What? You’re saying we’ll strike the base in the Dark Continent, so what do you...?”
 
 “This is your last warning. Stop interrupting me.”
 
-“……”
+“......”
 
 Phew, now it’s nice and quiet.
 
-“….”
+“....”
 
 The group finally quieted down, allowing me to explain our mission in full.
 
 “There’s more than one way to reach the Dark Continent beyond the Ghost Canyon.”
 
-“Aha! Don’t tell me…”
+“Aha! Don’t tell me...”
 
 Why else would we gather on the eastern side of the island?
 
@@ -422,7 +422,7 @@ You might constantly wonder if it’s worth going this far.
 
 “If anyone doesn’t understand, step forward.”
 
-“……”
+“......”
 
 “Glad to see there are no cowards.”
 

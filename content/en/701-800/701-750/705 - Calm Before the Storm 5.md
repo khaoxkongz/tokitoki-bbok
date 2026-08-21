@@ -10,7 +10,7 @@ Just one round of this increased the clan’s overall strength by roughly five p
 
 Since it felt like forced distribution, I was a bit worried at first, but I’m glad I went with this. At this rate, it seems like I could open the market again later.
 
-“Heh… It’s the first time I’ve seen this kind of distribution, but I like it.”
+“Heh... It’s the first time I’ve seen this kind of distribution, but I like it.”
 
 “More than that, isn’t it fun? The idea of everyone sharing what they need with each other. It somehow feels like it brings us closer.”
 
@@ -20,7 +20,7 @@ Still, I kept James Carla’s advice in mind, since he had once been the vice-ca
 
 “Even so, we need to be careful when the scale gets bigger. Right now, we only took exactly what we needed, but someday, someone greedy might join the group.”
 
-To be honest, while I’m aware of it, I’m not too worried. I’m not naive enough to let people like that run wild… besides, I’m unlikely to accept them in the first place.
+To be honest, while I’m aware of it, I’m not too worried. I’m not naive enough to let people like that run wild... besides, I’m unlikely to accept them in the first place.
 
 “All right! You might all be tired, but gather up!”
 
@@ -40,7 +40,7 @@ The characteristics of the monsters outside the walls.
 
 And even the existence of that “monster” that forced the Noark guys, who had gone out into the wide world, to return to the city on their own.
 As I explained everything they needed to know, we naturally reached the point where I told them that GM could repair the return magic circle if we gathered the right materials.
-“Um… may I ask what kind of materials you’re referring to?”
+“Um... may I ask what kind of materials you’re referring to?”
 
 “Ah, I have a list here of the remaining materials. Would you like to take a look?”
 
@@ -52,27 +52,27 @@ After GM handed the notebook over to Lyris Marone, she looked through it briefly
 
 “Huh? Is that really true?”
 
-“Yes. I knew the magic circle was damaged, so I grabbed as much as I could before I left. The only thing missing from this list is Pompura Spores… But if you need the spores for their mana stabilization properties, can’t you substitute them with Rafion’s Wind Crystals?”
+“Yes. I knew the magic circle was damaged, so I grabbed as much as I could before I left. The only thing missing from this list is Pompura Spores... But if you need the spores for their mana stabilization properties, can’t you substitute them with Rafion’s Wind Crystals?”
 
 “Yes, yes! That’s correct! Wind Crystals will work!”
 
 Oh? I didn’t expect that. From the sound of it, we could start repairing the magic circle right away.
 
-The only problem is… ‘What should I do?’ I have more options now, but it’s still difficult to decide which one to take.
+The only problem is... ‘What should I do?’ I have more options now, but it’s still difficult to decide which one to take.
 
 The city doesn’t exactly feel safe either. I know the reason why Lee Baek-ho was trying so hard to return to the city as soon as possible.
 
 [Once Noark finishes their preparations, they will march on the Imperial Capital, Carnon, and kill the King of Raphdonia.]
 
-Whether Lee Baek-ho is in the city or not, some kind of ‘event’ will occur. ‘He said it would be a year from over nine months ago…’
+Whether Lee Baek-ho is in the city or not, some kind of ‘event’ will occur. ‘He said it would be a year from over nine months ago...’
 
-Since he said it would take a year and that was nine months ago… I guess that leaves about three months.
+Since he said it would take a year and that was nine months ago... I guess that leaves about three months.
 
 In any case, even if we could go back immediately, I was not sure returning to the city was the right choice.
 
-However…‘That doesn’t mean I want to stay here, either.’ In some ways, the outside world feels even more dangerous than the city.
+However...‘That doesn’t mean I want to stay here, either.’ In some ways, the outside world feels even more dangerous than the city.
 
-For instance, the monster that wiped out thousands on the Noark side without them even resisting could reappear again at any time. Should I stay outside the walls? Or should I enter the city? In the end, I have to choose one of these two options…
+For instance, the monster that wiped out thousands on the Noark side without them even resisting could reappear again at any time. Should I stay outside the walls? Or should I enter the city? In the end, I have to choose one of these two options...
 
 “Havelion, if we start the magic circle repair work right away, how long will it take?”
 
@@ -98,7 +98,7 @@ Although it ended earlier than I expected, I wrapped up the meeting quickly. Aft
 
 The paladin from the Reatlas Church, Goblin.
 
-“Eh…? I didn’t do anything though?”
+“Eh...? I didn’t do anything though?”
 
 As soon as I said his name, he slipped into his usual excuses. His reaction made me wonder what he had been doing.
 
@@ -106,7 +106,7 @@ Surprisingly, this guy has a very unique special ability.
 
 “I’m not here to blame you, so relax.”
 
-“Then… is it about ‘that’?”
+“Then... is it about ‘that’?”
 
 “Yes. Has that ‘sense’ kicked in yet?”
 
@@ -116,9 +116,9 @@ Still, when it did activate, its accuracy was near supernatural.
 
 So what about this time?
 
-“I… I’m not sure yet. Nothing has triggered, so…”
+“I... I’m not sure yet. Nothing has triggered, so...”
 
-“…I see.”
+“...I see.”
 
 “If I start feeling anything, I’ll rush over and tell you right away.”
 
@@ -130,7 +130,7 @@ Not yet.
 
 Because it meant that the events written in the record were not meant to happen yet.
 
-One day, two days, three days, four days….
+One day, two days, three days, four days....
 
 “It’s all finished. If we activate the magic circle now, we can return to the city immediately.”
 
@@ -138,17 +138,17 @@ The days passed swiftly, and on the seventh day, the GM reported that the magic 
 
 He also looked quite excited when he told me the news. He seemed genuinely happy at the idea of finally being able to return home after such a long journey.
 
-“Huh…? What do you mean by that?”
+“Huh...? What do you mean by that?”
 
 “Exactly what you just heard. We are not returning to the city right now.”
 
-“…Excuse me?”
+“...Excuse me?”
 
 If I said I didn’t feel guilty about dragging the reclusive GM out of the city, I would be lying.
 
 But there was no helping it.
 
-“If we’re not going back… what do you intend to do?”
+“If we’re not going back... what do you intend to do?”
 
 “We stay here and wait.”
 
@@ -158,9 +158,9 @@ But there was no helping it.
 
 Without even explaining the reason properly, I maintained the ‘standby’ mode.
 
-One day, two days, three days…
+One day, two days, three days...
 
-One week, two weeks, three weeks…
+One week, two weeks, three weeks...
 
 We honestly did nothing during that time and just sat around, bored.
 
@@ -180,7 +180,7 @@ Woooooooom—!
 
 “I-Is it going to rain?”
 
-“…I don’t think that’s it…”
+“...I don’t think that’s it...”
 
 “Does anyone know what’s causing this change in the weather?”
 
@@ -192,19 +192,19 @@ When I stepped into his tent, I saw him curled up and shaking, the blanket dragg
 
 I knew it the moment I saw him.
 
-“Baron…”
+“Baron...”
 
 Sven Parav’s intuition had finally kicked in.
 
-But the problem was…
+But the problem was...
 
-“We… we have to get out of here…! No, wait—if we leave, then where…? Th-there’s nowhere to run…!”
+“We... we have to get out of here...! No, wait—if we leave, then where...? Th-there’s nowhere to run...!”
 
 This is the first time I’ve seen him look so completely mentally shattered.
 
 “Calm down and tell me. What do you mean there’s nowhere to run?”
 
-“We’re going to die! Even if we stay here…! Even if we leave and head for the city…!”
+“We’re going to die! Even if we stay here...! Even if we leave and head for the city...!”
 
 His words were frantic, but the content was simple.
 
@@ -220,9 +220,9 @@ Badump-Badump!
 
 Just what was about to happen? If nothing was going to work, what was I even supposed to do?
 
-Frustration swelled in my chest, but at the same time…
+Frustration swelled in my chest, but at the same time...
 
-“…Right.”
+“...Right.”
 
 A part of me quietly accepted it.
 
@@ -232,11 +232,11 @@ From the start, this approach could never have prevented the event.
 
 I had planned to wait outside the walls for as long as possible. If that Floor Lord appeared before then, we would move to the city. If not, we would just keep waiting outside. But this wasn’t a storm I could avoid that way.
 
-“A-ah…! Ah…!”
+“A-ah...! Ah...!”
 
 Watching Sven Parav shake so hard he seemed to be convulsing, I quietly steeled myself.
 
-“Jandel…! This isn’t the time to stand around! Get out here!”
+“Jandel...! This isn’t the time to stand around! Get out here!”
 
 Storms, lightning, floods, or whatever other unimaginable bullshit comes my way.
 
@@ -246,7 +246,7 @@ Whatever it was, let it come.
 
 Because I’ll never give up.
 
-“Captain! Your orders…!”
+“Captain! Your orders...!”
 
 Soon, Kaislan came into the tent looking for me and demanded instructions.
 
@@ -258,23 +258,23 @@ When I stepped outside, my allies were already fully prepared and waiting.
 
 “Emily, what is our situation?”
 
-“There’s a massive mana reaction approaching us from beyond the horizon. Its mana wavelength is similar to that of monsters, but… I’m not convinced.”
+“There’s a massive mana reaction approaching us from beyond the horizon. Its mana wavelength is similar to that of monsters, but... I’m not convinced.”
 
 “Why not?”
 
 “It’s too big. Not even a rank-one monster produces readings like this.”
 
-“I see…”
+“I see...”
 
 “It’s heading toward us at high speed. You must make a decision quickly.”
 
-So it had come to this…
+So it had come to this...
 
-“………”
+“.........”
 
 I glanced around at the members waiting for my decision. I always felt it, but this moment was the most burdensome and uncomfortable. Which choice is right, and which is wrong? Even though I couldn’t be sure of anything. Badump— I still had to make a decision. And that decision would determine the fate of those who followed me.
 
-“…We move into the cave first. We will activate the portal and ensure we can move to the city at any moment.”
+“...We move into the cave first. We will activate the portal and ensure we can move to the city at any moment.”
 
 As soon as I made the decision, the entire clan quickly formed a movement formation and ran inside the cave.
 
@@ -284,7 +284,7 @@ Three minutes.
 
 Because everything had been prepared in advance, we only needed about three minutes for the portal to open.
 
-But…
+But...
 
 Swoooooosh—!
 
@@ -294,19 +294,19 @@ Why did those three minutes feel so long?
 
 Lirith Marone, who had set up the mana detection radar around our camp, shouted urgently.
 
-“………”
+“.........”
 
-“………”
+“.........”
 
 The seasoned explorers, their survival instincts honed through countless trials, pulled their faces tight and prepared for combat.
 
-Those terrifying seconds repeated over and over again, until…
+Those terrifying seconds repeated over and over again, until...
 
-“It’s ready…!”
+“It’s ready...!”
 
 At last, the magic circle flashed brightly, and a portal opened before it.
 
-“…It’s here.”
+“...It’s here.”
 
 Someone in the cave muttered a single phrase, and with those words, there was no further conversation. Everyone held their breath, stared straight ahead, and listened intently.
 
@@ -314,7 +314,7 @@ Scrape, scrape.
 
 The sound of something scraping the ground.
 
-Squelch, squelch…
+Squelch, squelch...
 
 The sound of a sticky step.
 
@@ -330,19 +330,19 @@ Scrape, scrape.
 
 That was the sound of shackles on both its arms.
 
-Squelch, squelch…
+Squelch, squelch...
 
 It wasn’t the sound of sticky footsteps, but the sound from countless blinking eyeballs.
 
 With each step it took, writhing, suffering souls spiralled around it.
 
-And…
+And...
 
-“…Jandel, we must NOT fight that.”
+“...Jandel, we must NOT fight that.”
 
 Even without Amelia’s [Crisis Detection] warning us—
 
-“A-ah…! Aaaa…! AAAAAAH—!!!”
+“A-ah...! Aaaa...! AAAAAAH—!!!”
 
 Even without Sven Parab, whose face had turned as white as paper and was paralysed with fear.
 
@@ -356,7 +356,7 @@ Badump, Badump, Badump, Badump—!
 
 It was far more dangerous than anything I’d ever faced.
 
-“…Hah.”
+“...Hah.”
 
 Nevertheless, thanks to that, I could finally throw away my last bit of hesitation. I had briefly considered staying behind and fighting it rather than returning to the city. But I let go of that idea completely.
 
@@ -366,7 +366,7 @@ At my shout, the GM, who was standing closest to the portal, jumped in first.
 
 After him, the others followed one by one.
 
-“You’re coming after us, right…?”
+“You’re coming after us, right...?”
 
 Misha, with anxious eyes.
 
@@ -374,13 +374,13 @@ Misha, with anxious eyes.
 
 Erwin clinging stubbornly to me.
 
-“Bjorn… can’t we just try fighting it? If we beat it, it might drop something valuable…”
+“Bjorn... can’t we just try fighting it? If we beat it, it might drop something valuable...”
 
 Aynar, who still didn’t understand the situation.
 
 “What are you all doing! Get in the portal, now!”
 
-When I shouted angrily, Erwin and Aynar flinched and headed for the portal. The only problem was…
+When I shouted angrily, Erwin and Aynar flinched and headed for the portal. The only problem was...
 
 [Kyaaaaaaaaaaaah—!!!]
 
@@ -388,7 +388,7 @@ My shout provoked it. The monster sprinted toward us, far faster than before.
 
 And to make matters worse—
 
-“A-ah…! No! No, no, NO…!”
+“A-ah...! No! No, no, NO...!”
 
 Sven Parav suddenly broke down in a full-blown panic attack right in front of the portal.
 
@@ -396,9 +396,9 @@ Sven Parav suddenly broke down in a full-blown panic attack right in front of th
 
 “What nonsense! Are you saying you’ll stay here alone then!?”
 
-“Aaaah…! Aaaah! AAAAAH!!”
+“Aaaah...! Aaaah! AAAAAH!!”
 
-“Damn it! How strong is he…!?”
+“Damn it! How strong is he...!?”
 
 Even Kaislan was struggling — dragging a holy knight like Sven Parab was no easy task.
 
@@ -408,7 +408,7 @@ Even Kaislan was struggling — dragging a holy knight like Sven Parab was no ea
 
 “I’ll handle him. Don’t worry.”
 
-I shoved Kaislan ahead and and took charge of Sven Parab. And when I glanced back…
+I shoved Kaislan ahead and and took charge of Sven Parab. And when I glanced back...
 
 Kyaaaaaaaaaaaaaaaa—!!!
 
@@ -420,7 +420,7 @@ Then—
 
 “Stop whining. I don’t want to go either.”
 
-“…Huh?”
+“...Huh?”
 
 “If you heard me, get in. Now.”
 

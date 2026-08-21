@@ -1,4 +1,4 @@
-The Rival (3)
+Rival (3)
 
 In the community, all special abilities are sealed.
 
@@ -8,7 +8,7 @@ Not that it would matter even if I could use it—thanks to Auril Gavis’s gift
 
 But that’s not what’s important right now.
 
-‘…Is he testing me?’
+‘...Is he testing me?’
 
 There are two possibilities.
 
@@ -22,11 +22,11 @@ My heart pounds.
 
 Maybe I underestimated him without realizing it.
 
-The guy managed to survive in this harsh world for decades. Just because he doesn’t have a lie-detection skill doesn’t mean he’s incompetent.
+The guy had survived in this harsh world for well over a decade. Just because he doesn’t have a lie-detection skill doesn’t mean he’s incompetent.
 
 In fact, he might be even more sensitive without it.
 
-It’s likely that he’s encountered countless patterns of liars through this ability, and has accumulated a vast amount of information.
+He had probably encountered countless patterns of liars through that ability and accumulated a vast amount of experience.
 
 ‘The chance that he’s just fishing for a reaction is extremely low.’
 
@@ -38,11 +38,11 @@ But Lee Baek-ho spoke first.
 
 “Hyung.”
 
-“…Huh?”
+“...Huh?”
 
 “Sorry, but I really can’t return the Cat.”
 
-“What did you just say…?”
+“What did you just say...?”
 
 At my question, Lee Baek-ho wore a cold sneer.
 
@@ -54,7 +54,7 @@ He looked me straight in the eye and repeated himself clearly:
 
 “I said I can’t return her.”
 
-“…”
+“...”
 
 “You know, that cat you cared about so dearly.”
 
@@ -62,17 +62,15 @@ My mind went blank for a moment.
 
 “You see, I think she’ll be more helpful to my goals than she would be to you. You want to live in this world, right?”
 
-“…”
+“...”
 
-“Oh, and don’t worry,” He didn’t sound particularly upset.
-
-“Once I’ve used her well, I’ll make sure to give her back.”
+“Oh, and don’t worry.” He didn’t sound particularly upset. “Once I’ve used her well, I’ll make sure to give her back.”
 
 I can’t help but laugh.
 
 Even now, I don’t know why, but I just find it amusing.
 
-“Baek-ho, you…”
+“Baek-ho, you...”
 
 I know that his words are an obvious provocation.
 
@@ -90,19 +88,19 @@ I didn’t even regret it afterward.
 
 “You’re not in a position to call others either, are you?”
 
-I also lift the corners of my mouth slightly.
+I also lifted the corners of my mouth slightly.
 
-In the end, no one here was not smiling.
+In the end, neither of us had stopped smiling.
 
-But…
+But...
 
 Tick, tick, tick—
 
 Apart from the warmth of the fireplace, a chilly air settled between him and me.
 
-“This is getting interesting.” I spoke up
+“This is getting interesting,” I said.
 
-“Yeah, it is,”he replied.
+“Yeah, it is,” he replied.
 
 After muttering a line each, he was the first to speak again.
 
@@ -110,11 +108,11 @@ After muttering a line each, he was the first to speak again.
 
 He no longer used honorifics.
 
-“Isn’t it obvious that you’re the messed-up one, Hyung?
+“Isn’t it obvious that you’re the messed-up one, hyung?”
 
-I laughed again, this time because it’s absurd.
+I laughed again, this time at the absurdity of it.
 
-Maybe, he too had something to say.
+Maybe he had plenty to say too.
 
 “Right? Your original life is somewhere else, yet you’re so infatuated with these NPCs that you’re staying here, clinging to this insane idea.”
 
@@ -130,11 +128,11 @@ I cut him off, and Lee Baek-ho got to the main point.
 
 “Don’t pretend you’re normal. It’s disgusting.”
 
-“…”
+“...”
 
 “You’re definitely the one who’s a broken fucker.”
 
-“…”
+“...”
 
 “Did you enjoy it? Meeting people and filling your deficiencies? Becoming stronger quickly thanks to the game information and feeling like you’ve become someone because everyone treats you like a hero? It makes you want to work even harder?”
 
@@ -150,7 +148,7 @@ Ugh, how long does he plan to ramble?
 
 That’s not how keyboard battles work.
 
-“Yeah, Baek-ho, seems like you’re pretty pissed off,” I looked at Lee Baek-ho, maintaining my composure.
+“Yeah, Baek-ho. Seems like you’re pretty pissed off.” I looked at him, maintaining my composure.
 
 If this were a turn-based game, now it’s my turn to attack.
 
@@ -158,7 +156,7 @@ No need for long words.
 
 “Still, I understand you, you were the one who got dumped, right?”
 
-“…Dumped?”
+“...Dumped?”
 
 He looked puzzled, as if he didn’t understand what I was talking about.
 
@@ -166,9 +164,9 @@ I kindly added an explanation.
 
 “Why are you pretending not to know? The story of the girls you liked finding out you were an evil spirit and immediately running away is pretty famous.”
 
-“……Heh.”
+“...Heh.”
 
-“So… that’s the real reason, isn’t it? The reason you’re so desperate to return?”
+“So... that’s the real reason, isn’t it? The reason you’re so desperate to return?”
 
 What is he, a kid?
 
@@ -176,19 +174,19 @@ What is he, a kid?
 
 Even though I spoke so quietly that Lee Baek-ho couldn’t hear, maybe he still eavesdropped like a pervert.
 
-“……”
+“...”
 
 Lee Baek-ho’s expression contorted ominously.
 
 It only lasted a moment though.
 
-“Hah… hahahahahaha! Khuh, bahahaha!”
+“Hah... hahahahahaha! Khuh, bahahaha!”
 
 Lee Baek-ho burst into genuine laughter as if he had heard something hilarious.
 
 A typical pattern of coping—mocking laughter.
 
-‘It’s such an unbelievable story, and that’s why I’m laughing like this.’ something like this
+As if to say, ‘The story is so ridiculous I can’t help laughing.’
 
 I just stared at him, and after a moment his laughter died away as he turned to me again.
 
@@ -196,7 +194,7 @@ I just stared at him, and after a moment his laughter died away as he turned to 
 
 “What.”
 
-“You really love that cat, huh? Enough to lash out at me like this?
+“You really love that cat, huh? Enough to lash out at me like this?”
 
 “It doesn’t matter.”
 
@@ -204,7 +202,7 @@ I just stared at him, and after a moment his laughter died away as he turned to 
 
 I remained silent.
 
-“Kyah, even in this situation, you can’t admit it, huh? My Han Soo hyung is surprisingly shy, huh?”
+“Kyah, even in this situation, you can’t admit it, huh? My Han-soo hyung is surprisingly shy, huh?”
 
 No matter what I say now, I’ll fall right into his pace.
 
@@ -216,7 +214,7 @@ Just then, Lee Baek-ho paused for a moment.
 
 It was a statement that inevitably made me feel uneasy.
 
-“It’s about the Cat girl……”
+“It’s about the cat girl...”
 
 My ominous premonition proved correct.
 
@@ -244,21 +242,21 @@ He looked at me and smiled.
 
 A smile too bright for the situation.
 
-Instinctively, I feel a chill run down my spine, perhaps due to fear.
+Instinctively, a chill ran down my spine—perhaps from fear.
 
-But…
+But...
 
 “Baek-ho.”
 
 “What?”
 
-There is an emotion flaring up in me even stronger than fear.
+But another emotion flared up inside me even more strongly than fear.
 
 Killing intent.
 
 A desperate urge to kill someone.
 
-“If you keep saying stuff like that…”
+“If you keep saying stuff like that...”
 
 I no longer need to mind-control myself as I did at the Round Table.
 
@@ -270,13 +268,13 @@ I’ve been holding it in for a long time now.
 
 The darkest, most potent killing intent yet.
 
-“……!”
+“...!”
 
 As soon as my unrefined killing intent spread out, Lee Baek-ho flinched.
 
 Of course, that time was extremely short.
 
-Soon after, Lee Baek-ho opened his mouth again. The words he spoke were very different from what I’ve heard from others in the past.
+Soon after, Lee Baek-ho spoke again. What came out of his mouth was very different from what I’d heard from others in the past.
 
 No apologies.
 No resentment.
@@ -286,13 +284,13 @@ If it were that corpse-collector bastard, he’d be choking on the floor by now,
 
 But what he let out instead was:
 
-“Wow……”
+“Wow...”
 
 A simple, genuine exclamation.
 
-“Hyung you’re really nuts… Most people would’ve pissed themselves by now.”
+“Hyung, you’re really nuts... Most people would’ve pissed themselves by now.”
 
-He showered me with what could be called compliments as he loosened up, stretched his stiff shoulders from side to side and slowly approached me.
+He showered me with what could almost be called compliments as he loosened up, rolled his stiff shoulders, and slowly approached me.
 
 “Hyung.”
 
@@ -308,9 +306,9 @@ Three steps.
 
 “The killing intent.”
 
-When the distance between us is close enough that I could reach him with my stretched hand, I can feel it clearly.
+When the distance between us closed enough that I could reach him by stretching out a hand, I felt it clearly.
 
-“…!”
+“...!”
 
 He’s showing me his killing intent, too.
 
@@ -334,7 +332,7 @@ Sharp, distinct killing intent pricked my skin and made my heart pound.
 
 And that was it.
 
-“Now then…”
+“Now then...”
 
 But Lee Baek-ho’s killing intent is different.
 
@@ -354,7 +352,7 @@ Even though theoretically I didn’t need to breathe, it felt like someone was f
 
 Moreover, my brain cells felt like they were burning.
 
-But…
+But...
 
 “What? That I’ll have to kill you?”
 
@@ -362,7 +360,7 @@ I’m not as shattered as the corpse-collector or the fox were.
 
 Sure, it’s tough.
 I want to run away right now.
-I know I can simply leave the chat room and end this situation at any time…
+I know I can simply leave the chat room and end this situation at any time...
 
 “Hyung, you don’t seriously think you can do that, do you?”
 
@@ -372,13 +370,13 @@ Because I know:
 
 As Bjorn Jandel, I learned that if I run away just because I’m scared, I’ll only face an even more terrifying situation later.
 
-So, yeah…
+So, yeah...
 
-“…Huh?”
+“...Huh?”
 
 I force my dazed mind, clouded by his killing intent, to focus, and step forward.
 
-Then…
+Then...
 
 Step.
 
@@ -392,13 +390,13 @@ I’m not bluffing just for the sake of a psychological battle.
 
 I genuinely believe I can do it.
 
-[“Maybe in 10 years, you’ll be like me?]
+[Maybe in ten years, you’ll be like me?]
 
 Even if right now my strength is somewhat lacking compared to him—
 
-[I’m almost out of ways to grow stronger myself…]
+[I’m almost out of ways to grow stronger myself...]
 
-If I’m given a little more time-.
+If I’m given a little more time—
 
 ‘What’s a mere 10x difficulty scenario anyway?’
 
@@ -408,7 +406,7 @@ Perhaps he sensed my conviction.
 
 As I spoke, Lee Baek-ho’s body, which had been rigid, began to relax again, and he forced a smirk.
 
-“…Interesting.”
+“...Interesting.”
 
 Like hell it is.
 
@@ -418,15 +416,15 @@ I clicked my tongue, returning his earlier words to him as they were.
 
 “Why are you lying again?”
 
-Lee Baek-ho tilted his head, clueless, and I continue calmly.
+Lee Baek-ho tilted his head, feigning ignorance, and I continued calmly.
 
-“Just now…”
+“Just now...”
 
-“…”
+“...”
 
 “You’re not having any fun at all.”
 
-If he was, why is he stepping back—
+If he was, why was he stepping back—
 
 “Whoa, whoa! Enough, enough!”
 
@@ -436,11 +434,11 @@ Suddenly, Lee Baek-ho raised his hands dramatically, backing away three steps.
 
 And that’s where the scene ends.
 
-Suddenly, his expression and atmosphere had changed 180 degrees.
+In an instant, his expression and the entire atmosphere had changed completely.
 
 Before I could even adjust to his new mood, Lee Baek-ho spoke up.
 
-“Come on, like I’d really kill the cat woman. I was just kidding, just kidding! I mean, how much do I like you, Hyung? I’ve been so good to you since we first met!
+“Come on, like I’d really kill the cat woman. I was just kidding, just kidding! I mean, how much do I like you, hyung? I’ve been so good to you since we first met!”
 
 Like hell he likes me.
 
@@ -452,16 +450,15 @@ Well, maybe he does, in his own twisted way, since he must have found some use f
 
 Though he joked flippantly in his frivolous tone, the truth doesn’t change.
 
-It was a threat… yes, that was clearly a threat.
+It was a threat... yes, that was clearly a threat.
 
 “Why would I kill the Cat Woman? There’s nothing to gain.”
 
 Sure, if I think about it rationally, that makes sense.
 
-He’d lose the Twin-Blade Ice Swordsman and turn me into a mortal enemy on top of it.
-It’s far from a reasonable choice from any angle.
+He’d lose the Twin-Blade Ice Swordsman and turn me into a mortal enemy on top of it. It was far from a reasonable choice from any angle.
 
-But…
+But...
 
 “If the threat had worked, you’d have gained leverage to shake me down.”
 
@@ -471,8 +468,7 @@ Just imagining the scenario if I had lost the battle of nerves a moment ago made
 
 If that were true, he wouldn’t be smiling like he is now.
 
-He wouldn’t be going back to calling me ‘hyung’ over and over in that submissive tone…
-And he wouldn’t be proposing a ‘deal’ like this.
+He wouldn’t have gone back to calling me ‘hyung’ over and over in that submissive tone... and he wouldn’t be proposing a ‘deal’ like this.
 
 “So, if you’re not that black-hearted, that’s great. Then hand Misha over.”
 
@@ -494,7 +490,7 @@ He paused for a moment, giving me a suggestive look.
 
 Of course, I didn’t intend to play along.
 
-“…Continue.”
+“...Continue.”
 
 “You know your current situation better than I do, right?”
 
@@ -513,24 +509,23 @@ Lee Baek-ho’s proposal actually sounded quite reasonable.
 Unlike me, he’s free to act without many constraints.
 Hell, even if he just assassinated the Marquis for me, that’d be a huge help.
 
-But…
+But...
 
 “Baek-ho.”
 
-“…Yes?”
+“...Yes?”
 
 “Before you ask me for a favor, isn’t there something you should do first?”
 
-“…”
+“...”
 
 I didn’t elaborate.
 
-I can’t fully understand why he wants me this badly,
-but…
+I couldn’t fully understand why he wanted me this badly, but...
 
 “Bring Misha here first. Then we’ll continue this conversation.”
 
-“…”
+“...”
 
 “And your answer?”
 
@@ -546,11 +541,11 @@ He finally broke the silence.
 
 “We’ve both been a bit worked up today. Let’s leave it at that.”
 
-His response was a hold.
+He was putting the conversation on hold.
 
-“What…?”
+“What...?”
 
-“Come on, we’re both not thinking straight right now. Let’s talk about this another time. As for the cat woman, I’ll think her over. Okay?”
+“Come on, we’re both not thinking straight right now. Let’s talk about this another time. As for the cat woman, I’ll think it over. Okay?”
 
 Okay?
 
@@ -562,7 +557,7 @@ I was about to continue when—
 
 “Hyung, you said okay?”
 
-“…What?”
+“...What?”
 
 “Then I’m going to leave now!”
 

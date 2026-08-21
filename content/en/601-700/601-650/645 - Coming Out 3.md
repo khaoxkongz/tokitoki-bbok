@@ -20,7 +20,7 @@ As we’re all aware? What the hell?
 
 Are Barbarians not even considered people?
 
-“…Extermination plan?”
+“...Extermination plan?”
 
 As I tilted my head and muttered to myself, the Marquis paused, and all the nobles focused their attention on me.
 
@@ -58,7 +58,7 @@ After saying that, the Marquis averted his gaze from me, and turned to the rest 
 
 It was like being the new kid on the first day of school, except now I could actually keep up with what he was saying.
 
-That mysterious mage…it has to be him.
+That mysterious mage...it has to be him.
 
 The one who activated the ancient magic circle in the underground fortress and instantly teleported tens of thousands, and who opened the portal outside the city walls linking directly to the seventh floor.
 
@@ -72,13 +72,13 @@ The royal family tried to trap the Noark scum in Bifron and blow them up, but th
 
 Since he’s announcing it officially in a place like this, it’s safe to assume that there’s absolutely no way to enter Bifron.
 
-‘Should I consider this royal incompetence, or is the other side just that formidable…’
+‘Should I consider this royal incompetence, or is the other side just that formidable...’
 
 I’m not sure, but one thing is clear.
 
 The royal family bastards weren’t about to back down.
 
-“The intelligence department judges that it is highly possible that the mysterious mage could also activate the dimensional plaza of Bifron, which is already closed. Therefore…”
+“The intelligence department judges that it is highly possible that the mysterious mage could also activate the dimensional plaza of Bifron, which is already closed. Therefore...”
 
 The Marquis paused for a moment before speaking.
 
@@ -90,7 +90,7 @@ Considering the structure of this city-state, Raphdonia, it’s an extremely wei
 
 And the moment the topic came up, Duke Kealunus responded as if he’d been waiting:
 
-“True… if we seal the Labyrinth, they’ll have no other options.”
+“True... if we seal the Labyrinth, they’ll have no other options.”
 
 Next came Count Alminas.
 
@@ -106,7 +106,7 @@ But I’m a Barbarian who lacks social sense.
 
 “Marquis, I have a question.”
 
-“…Ask.”
+“...Ask.”
 
 “Is it absolutely necessary to shut down the entire Labyrinth?”
 
@@ -163,13 +163,13 @@ Because I was the only one who opposed.
 
 “If the labyrinth closes, everyone will clearly have a hard time. Well, we’re well-off, so no matter how long it’s closed, it won’t affect our livelihood, but still!”
 
-“Hmm… So you opposed for the sake of the citizens?”
+“Hmm... So you opposed for the sake of the citizens?”
 
 “If I had to say, yes.”
 
 Whether he asked out of genuine curiosity or not, the Marquis just nodded coolly after hearing my answer.
 
-And…
+And...
 
 “Then let’s move on to the second agenda item.”
 
@@ -179,7 +179,7 @@ The boring meeting continued.
 
 The meeting that started in the morning continued without stopping until evening.
 
-There were break times in between, but…
+There were break times in between, but...
 
 ‘What is this hardcore schedule?’
 
@@ -193,7 +193,7 @@ Apparently, it was a royal tradition.
 
 “If you’re attending this meeting, your time is priceless. Since it’s difficult to gather everyone, they try to make the most of it, even if it’s inconvenient.”
 
-Hmm… If that’s the case, just ditching all that roundabout, flowery speech would make things much more efficient.
+Hmm... If that’s the case, just ditching all that roundabout, flowery speech would make things much more efficient.
 
 Honestly, if a bunch of Barbarians were running this, we’d be done by lunchtime.
 
@@ -201,7 +201,7 @@ Honestly, if a bunch of Barbarians were running this, we’d be done by lunchtim
 
 Count Alminas left, and I quickly stuffed jerky into my mouth before reentering the hall.
 
-‘The second topic was about the reconstruction projects for Districts 7 and 13, the third was tax-related, and the fourth was the incorporation of the evil spirits….’
+‘The second topic was about the reconstruction projects for Districts 7 and 13, the third was tax-related, and the fourth was the incorporation of the evil spirits....’
 
 Speaking of which, the matter of evil spirits was only brushed over. With so many votes against it, the proposal was rejected almost immediately.
 
@@ -245,7 +245,7 @@ I tilted my head, feigning ignorance. The Marquis gave me a knowing look and spo
 
 “Baron Jandel, all here would agree that you’ve worked hard and achieved much.”
 
-“……”
+“......”
 
 “However, for the great Lafdonia and for your house as its head, it is a loss to remain unmarried.”
 
@@ -257,13 +257,13 @@ The room stirred.
 
 “What?!”
 
-“Baron Jandel and Countess Phefroc…?”
+“Baron Jandel and Countess Phefroc...?”
 
 Apparently, quite a few nobles were unaware of this arrangement.
 
 “The Phefroc house is similar to yours in circumstances. Though legally separate, a marriage would be a blessing for both houses and the kingdom.”
 
-“……”
+“......”
 
 “But that’s my opinion. What do you think?”
 
@@ -279,13 +279,13 @@ If I agree to the marriage discussion, I’ll be under the Marquis’s control a
 
 If I refuse, I’ll face numerous checks.
 
-But…
+But...
 
 “Of course, I’m not asking for an immediate decision. Once you’ve gathered your thoughts—”
 
 I never went back on a decision once made.
 
-Even thinking about it again, it’s a bit of a terrifying decision, but…
+Even thinking about it again, it’s a bit of a terrifying decision, but...
 
 ‘Damn it.’
 
@@ -293,13 +293,13 @@ But it’s something I have to do.
 
 “No!”
 
-“…Huh?”
+“...Huh?”
 
 “I won’t get married.”
 
 The moment I interrupted and expressed my refusal.
 
-“Hmm……”
+“Hmm......”
 
 The Marquis’s eyes narrowed slightly.
 
@@ -319,9 +319,9 @@ However, the Marquis didn’t seem to trust my words.
 
 I roughly expected this.
 
-After all, a declaration like this can be overturned whenever I change my mind…
+After all, a declaration like this can be overturned whenever I change my mind...
 
-‘Do I really have to do it…?’
+‘Do I really have to do it...?’
 
 A more definite action is needed.
 
@@ -351,9 +351,9 @@ As I slowly forced my eyes open, I was met with a suffocating stillness, as thou
 
 As time began flowing again, all eyes turned toward me in horror.
 
-“Not interested in women…?”
+“Not interested in women...?”
 
-“No, wait, then could it be…!”
+“No, wait, then could it be...!”
 
 “Disgusting.”
 
@@ -363,7 +363,7 @@ Well, I understand.
 
 It’s a world where homosexuality is classified as a sin.
 
-Yeah… so that’s why…
+Yeah... so that’s why...
 
 “I don’t like men either!”
 
@@ -371,10 +371,10 @@ To correct the misunderstanding, I pulled out the doll I had prepared in my subs
 
 “I am in love with this doll!”
 
-“……Huh?”
+“......Huh?”
 
 “I will even marry this doll!”
 
-“……What?”
+“......What?”
 
 It was something I had to do.

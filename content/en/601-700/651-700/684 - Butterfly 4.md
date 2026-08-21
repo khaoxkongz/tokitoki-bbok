@@ -50,15 +50,15 @@ Whether he calculated the timing or not doesn’t change anything now.
 
 “Thanks. For coming to save me.”
 
-“……”
+“......”
 
 Seriously? I give him a rare word of thanks, and he can’t even reply?
 
-Is he… embarrassed?
+Is he... embarrassed?
 
-“…Why were you so slow in the first place? If everyone just ran when they were supposed to, none of this would’ve happened, right?”
+“...Why were you so slow in the first place? If everyone just ran when they were supposed to, none of this would’ve happened, right?”
 
-…Yeah no, he’s embarrassed.
+...Yeah no, he’s embarrassed.
 
 Feeling awkward myself, I pushed myself up from where I’d been half-crouched.
 
@@ -82,7 +82,7 @@ Whoa! Look at him talking back!
 
 “I’m telling you, it wouldn’t have worked.”
 
-“…….”
+“.......”
 
 “Still, I took its first hit and even forced out its breath attack. So I’d say I saved two people.”
 
@@ -114,7 +114,7 @@ Baek-ho shattered one flying in diagonally with a straight punch.
 
 Kwaaang-!
 
-‘So how do we get out of this…’
+‘So how do we get out of this...’
 
 The goal is simple.
 
@@ -148,7 +148,7 @@ As I thought about this, I took command of the battle.
 
 “One by one! Don’t all come close at once, enter one by one!”
 
-First, I had the members who weren’t affected by Dragon Fear enter one at a time to minimize the risk. If multiple people were hit by the debuff at once, it would be much harder to protect them, and…
+First, I had the members who weren’t affected by Dragon Fear enter one at a time to minimize the risk. If multiple people were hit by the debuff at once, it would be much harder to protect them, and...
 
 [A difference in level has been detected. Rek Aures is Petrified for 10 seconds.]
 
@@ -160,7 +160,7 @@ From the start of the battle, we need to ensure that people are disabled one by 
 
 The surprising one here was Ruin Gramps.
 
-‘So he is Level 10 too…?’
+‘So he is Level 10 too...?’
 
 Mages and Priests can’t consume Essences, so their level doesn’t usually matter.
 
@@ -168,7 +168,7 @@ However, they still gain EXP.
 
 And—
 
-‘Only the warriors are getting petrified…’
+‘Only the warriors are getting petrified...’
 
 The rest?
 
@@ -192,7 +192,7 @@ Karui’s Priest, level 9.
 
 Even the GM, who hadn’t entered the labyrinth in years, was level 9.
 
-…Guess they really are the veteran party.
+...Guess they really are the veteran party.
 
 The thought that I needed to work harder in the future coexisted with the realization that, to do that, I first had to survive this moment.
 
@@ -204,17 +204,17 @@ In that sense,
 
 To carry out the plan I’d just thought of, I asked the two mages one question, and they both agreed.
 
-“…It’s possible, I suppose, but…”
+“...It’s possible, I suppose, but...”
 
 “Don’t tell me you’re planning to escape using that spell?”
 
 Ah, of course, the answers were positive, but that doesn’t mean their reactions were. Not just the mages. Everyone looked uneasy.
 
-“Um… but will that really work…?”
+“Um... but will that really work...?”
 
 “Do you have any other method?”
 
-“…….”
+“.......”
 
 Don’t complain if you don’t have a better idea.
 
@@ -238,13 +238,13 @@ We must push the Bone Dragon through Phase One. And we must do it with only five
 
 “And you know that if your plan fails, we’ll have to move to Plan B, right?” When I didn’t respond, Baekho added, “It’s fine. I’ve got Plan B ready.”
 
-“…….”
+“.......”
 
-I wondered what Baek-ho’s Plan B was. I’m… kind of curious, actually—
+I wondered what Baek-ho’s Plan B was. I’m... kind of curious, actually—
 
 “In the worst-case scenario, someone needs to survive.”
 
-…Suddenly, I don’t want to know anymore.
+...Suddenly, I don’t want to know anymore.
 
 Well, if Plan A works, I won’t need to anyway.
 
@@ -256,7 +256,7 @@ Fwoooosh—!
 
 The black orbs floating around the dragon fired a flurry of beams at him in mid-air, but he kicked off like an acrobat and dodged the attacks.
 
-Then…
+Then...
 
 Boom-!
 
@@ -270,9 +270,9 @@ FWOOO—!
 
 The arrows shot from behind also didn’t deal much damage, and Jayna, our priest, was focused more on support than damage dealing.
 
-‘Rek Aures is basically a pure tank to begin with…’
+‘Rek Aures is basically a pure tank to begin with...’
 
-His damage output was so low we kept him in the back. His role in this raid was to block the long-range attacks aimed at the mages, archers, and priest with his body…
+His damage output was so low we kept him in the back. His role in this raid was to block the long-range attacks aimed at the mages, archers, and priest with his body...
 
 Baek-ho had his skill sealed off, too.
 
@@ -298,7 +298,7 @@ So in reality, the only damage dealers were Baek-ho and Layton Bright.
 
 I then put my empty hand into the subspace.
 
-And…
+And...
 
 「The character has equipped No.687 Siege Slaughterer.」
 
@@ -323,13 +323,13 @@ At least for today—
 I am the main damage dealer.
 ***
 
-1 minute, 2 minutes, 3 minutes…
+1 minute, 2 minutes, 3 minutes...
 
 So far, it wasn’t that bad.
 
 It just felt like exhausting, repetitive labour. It was like lifting a pickaxe and bringing it down on an unbreakable piece of ore.
 
-But…….
+But.......
 
 As time passed, Dragon Fear activated again and Petrified me. I nearly died after taking several direct hits, and only survived thanks to the priest’s heals.
 
@@ -421,7 +421,7 @@ I think my MP is almost gone too.
 
 Do we really have to use Plan B?
 
-‘…What nonsense.’
+‘...What nonsense.’
 
 Enough, just swing the mac—
 
@@ -439,7 +439,7 @@ Four legs, horns, and wings.
 
 In the game, breaking even one of these parts was treated as dealing 10% of its maximum HP.
 
-So that means…
+So that means...
 
 「The Bone Dragon has cast [Sovereign of Magic].」
 
@@ -465,7 +465,7 @@ At that distance, even this guy wouldn’t be able to follow—.
 
 [Where do you think you are going?]
 
-“…Huh?”
+“...Huh?”
 
 Did I mishear just n—
 
@@ -473,9 +473,9 @@ Did I mishear just n—
 
 No, wait a minute.
 
-‘The Bone Dragon… is using Dispel…?’
+‘The Bone Dragon... is using Dispel...?’
 
-This is different from the game…?
+This is different from the game...?
 
 Thump-!
 

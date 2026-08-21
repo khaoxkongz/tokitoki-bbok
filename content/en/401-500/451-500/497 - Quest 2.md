@@ -1,12 +1,12 @@
-Quest 2
+Quest (2)
 
 Sometimes, there are people who can overwhelm others just with their gaze and presence.
 
-The Tower Master, Teshlun Lengman Kealunus, was exactly that kind of person.
+The Tower Master, Teshlun Lengman Keallunas, was exactly that kind of person.
 
-“T-Tower Master…!”
+“T-Tower Master...!”
 
-He stood just over 170 centimetres tall, with the typical frail build of a mage, and his skin was deeply wrinkled with age.
+He stood just over 170 centimeters tall, with the typically frail build of a mage, and his skin was deeply wrinkled with age.
 
 Frankly, if it weren’t for the staff that reached up to his shoulders, he could easily pass for an ordinary old man walking down the street.
 
@@ -18,7 +18,7 @@ His eyes were sharp and lively, defying his age, but that wasn’t the reason. T
 
 Mages and warriors.
 
-Though their domains were different, they could sense that the one standing in the position of power was him.
+Though their specialties were different, the warriors could instinctively tell that the old man stood at the pinnacle of his field.
 
 “Baron Bjorn Jandel.”
 
@@ -28,7 +28,7 @@ After descending the final stairs, the Tower Master looked at me before speaking
 
 The greeting was somewhat unexpected.
 
-Considering that he was the master of a tower that had been invaded by barbarians, it seemed more natural to expect him to curse me or call me a lunatic.
+Considering that barbarians had just invaded the Tower he ruled, I had expected him to curse me or call me a lunatic.
 
 Thud.
 
@@ -38,7 +38,7 @@ This confirmed my suspicions.
 
 ‘He’s deliberately staying out of range.’
 
-The Tower Master was consciously avoiding entering the radius of “Misaligned Trust.”
+The Tower Master was deliberately avoiding the range of [Misaligned Trust].
 
 But I pretended not to notice and spoke up.
 
@@ -54,7 +54,7 @@ There was an ease to his voice, as if he had the upper hand.
 
 Does this old man know?
 
-Acting like this only makes a Barbarian more stubborn.
+Acting like that only made a barbarian more stubborn.
 
 “I refuse! As I said, I’m busy interrogating a traitor!”
 
@@ -64,7 +64,7 @@ That was indeed true.
 
 From the moment this old man arrived, the eyes of the three captured mages filled with hopeful resolution.
 
-‘I was going to use force to threaten them, but with this old man here, that won’t work either.’
+‘I was going to threaten them with force, but with this old man here, that won’t work either.’
 
 “Take your time, but the royal army will soon arrive.”
 
@@ -78,7 +78,7 @@ I then made a decision.
 
 “Are you referring to that young man, Marco?”
 
-The master glanced at Marco, who flinched upon being noticed.
+The Tower Master glanced at Marco, who flinched when he noticed.
 
 Well, being stared at by someone of his stature would make anyone nervous.
 
@@ -88,7 +88,7 @@ Well, being stared at by someone of his stature would make anyone nervous.
 
 “Are you denying that?”
 
-“Of course not. As a resident of this city, I have no intention of obstructing the royal family’s affairs. But…”
+“Of course not. As a resident of this city, I have no intention of obstructing the royal family’s affairs. But...”
 
 The Tower Master trailed off and glanced at Marco again.
 
@@ -114,7 +114,7 @@ Wow, this old man is something.
 
 I nodded slightly, and Aynar led the warriors downstairs.
 
-And then…
+And then...
 
 “Why don’t you three take a little nap.”
 
@@ -128,11 +128,11 @@ That left just the two of us in the hall.
 
 “I’ll be brief as we don’t have much time.”
 
-The Tower Master took three steps forward, entering the radius of “Misaligned Trust.”
+The Tower Master took three steps forward, deliberately entering the range of [Misaligned Trust].
 
 Then he looked at me and spoke.
 
-“As of today, the Tower will forbid any research using the ‘Barbarian Heart’. Anyone caught violating this will be punished for using forbidden magic.”
+“As of today, the Tower will forbid any research involving the ‘Barbarian Heart.’ Anyone caught violating that rule will be punished for using forbidden magic.”
 
 “And?”
 
@@ -142,7 +142,7 @@ Then he looked at me and spoke.
 
 “They will no longer be able to claim affiliation with the Tower.”
 
-In other words, they’ll be fired.
+In other words, they would be expelled from the Tower.
 
 “You may consider this a lenient punishment, but this is the limit for their crimes.”
 
@@ -152,21 +152,21 @@ I had exaggerated their crimes by calling them traitors, but I knew that wouldn�
 
 “Of course, if anyone attempts to obtain the Barbarian Heart through the black market again, the weight of their crime will change. It will be considered an attempt to obtain a forbidden item.”
 
-Okay, the follow-up measures are clear.
+Okay. The follow-up measures were clear.
 
 “And?”
 
 “I will also overlook the illegal intrusion and occupation of the tower today. You, Baron, merely visited to reprimand us severely, and the tower has acknowledged its mistakes and corrected them. That’s how it will be known to the public.”
 
-I was momentarily speechless.
+For a moment, I was speechless.
 
-Even though I knew he couldn’t lie because of the “Misaligned Trust”, I couldn’t help but ask.
+Even though I knew he couldn’t lie while under [Misaligned Trust], I still had to ask.
 
-“…Are you serious?”
+“...Are you serious?”
 
-What this old man just said was essentially an official acknowledgment that the tower had been defeated by the barbarians.
+What the old man had just proposed was essentially an official acknowledgment that the Mage Tower had yielded to the barbarians.
 
-But…
+But...
 
 “I am serious.”
 
@@ -174,9 +174,9 @@ I felt more uneasy than happy.
 
 After all, nothing in this world is free.
 
-“So, what do you want from me in return?
+“So, what do you want from me in return?”
 
-Being a barbarian, I came straight to the point, and the Tower Master named a person.
+As a barbarian, I went straight to the point, and the Tower Master gave me a name.
 
 “Master Lurendel Galinberet of the Triten School.”
 
@@ -192,11 +192,11 @@ After a moment of thought, I asked, “Is she worth that much?”
 
 No doubt, huh?
 
-There’s definitely more to it than that.
+There was definitely more to it than that.
 
-Lurendel Galinberet… I may have caught a bigger fish than I thought…’.
+‘Lurendel Galinberet... I may have caught a bigger fish than I thought...’
 
-Anyway, I can have Amelia investigate her later.
+Anyway, I could have Amelia investigate her later.
 
 “So, what do you say? I’d like to hear your answer.”
 
@@ -204,7 +204,7 @@ Anyway, I can have Amelia investigate her later.
 
 I ended the negotiation there.
 
-It’s a shame to let go of the woman who targeted my heart, but considering what I’ve gained, there’s no reason to be greedy.
+It was a shame to let the woman who had targeted my heart go, but considering what I had gained, there was no reason to be greedy.
 
 But he still seemed uneasy.
 
@@ -212,15 +212,15 @@ But he still seemed uneasy.
 
 The Tower Master began to subtly probe me.
 
-He probably wanted to gauge my true feelings while “Misaligned Trust” was active.
+He probably wanted to gauge my true feelings while [Misaligned Trust] was active.
 
 “And you? Do you have no ill feelings toward me?”
 
 I avoided answering and turned the question back to him. Surprisingly, the Tower Master answered readily.
 
-“I have no ill feelings towards you, Baron. I never have. You are simply doing what a leader of a race should do.”
+“I have no ill feelings toward you, Baron. I never have. You are simply doing what the leader of a people should do.”
 
-He has a business mindset, huh.
+He had a very businesslike mindset.
 
 Anyway, it’s hard to refuse when he’s being this accommodating.
 
@@ -228,15 +228,15 @@ It wouldn’t do me any good either.
 
 “Then, may I hear your honest feelings now?”
 
-Honest feelings, huh…
+Honest feelings, huh...
 
-“If you’re asking if I have no ill feelings, that would be a lie. Many have died in the labyrinth because of the heart. Of course, I resent you. But…!”
+“If you’re asking if I have no ill feelings, that would be a lie. Many have died in the labyrinth because of the heart. Of course, I resent you. But...!”
 
 I trailed off, turning my wrist so that the compass part of ‘Misaligned Trust’ wasn’t visible.
 
 “Don’t worry. As long as you don’t touch us, we won’t attack the tower!”
 
-It was a trick that only worked when I was the one using ‘Broken Trust.’
+It was a trick that only worked because I was the one using [Misaligned Trust].
 
 “Besides, you seem like a better guy than I thought!”
 
@@ -246,11 +246,11 @@ When I lie, this thing doesn’t work.
 
 What happened afterward wasn’t much.
 
-The Royal Army soon arrived on the floor we were on, and were shocked to see the Baron of a country and the Tower Master in a standoff.
+The Royal Army soon reached our floor and was shocked to find a titled Baron and the Tower Master facing each other.
 
 However, the Tower Master stepped forward first and defended me, stating that the responsibility lay with them, and the situation was resolved.
 
-“So… Lord Kealunus sought forgiveness, and Baron Jandel accepted it. Is that correct?”
+“So... Lord Keallunas sought forgiveness, and Baron Jandel accepted it. Is that correct?”
 
 “That’s right.”
 
@@ -262,17 +262,17 @@ From the royal family’s perspective, it was a relief that the situation hadn�
 
 “Get moving! Clean this up!”
 
-The military disbanded everyone, including the Barbarians, and the Tower Master handed over the 36 mages suspected of contacting the black market.
+The military dispersed everyone, including the barbarians, and the Tower Master handed over the thirty-six mages suspected of contacting the black market.
 
 “But it seems the mage who wanted your heart isn’t among them?”
 
-While contacting the black market was a minor offense, but conspiring to assassinate nobility was a capital crime.
+Contacting the black market was a relatively minor offense, but conspiring to assassinate a noble was a capital crime.
 
 However, clearing her charges was easy.
 
 “Ah, that? On second thought, I’m not sure if I remember the name correctly. I might have confused her with someone else. I can’t have an innocent person arrested. I’ll let you know if I remember correctly later.”
 
-“…Understood.”
+“...Understood.”
 
 Master Lurendel Galinberet of the Triten School.
 
@@ -280,15 +280,15 @@ The royal investigator seemed to realize she was the key to this deal, but once 
 
 As I said, they weren’t interested in such things.
 
-“Anyway… I’m relieved that everything has been wrapped up well. Oh, and Baron Jandel—there’s the matter that you caused a clash of over a thousand people in the city without the royal family’s permission. I’m afraid you’ll have to pay a fine, however small. Please… please be sure to do that.”
+“Anyway... I’m relieved that everything has been wrapped up well. Oh, and Baron Jandel—there’s the matter that you caused a clash of over a thousand people in the city without the royal family’s permission. I’m afraid you’ll have to pay a fine, however small. Please... please be sure to do that.”
 
-Afterwards, the military practically begged as they led the mages away from the tower.
+Afterward, the military practically begged me to comply as they led the mages away from the Tower.
 
 So, it was time for me to leave as well.
 
 “Once their crimes are confirmed, they will be punished as promised, so you need not worry, Baron.”
 
-“Alright, I’ll be going then. I’m hungry.”
+“All right, I’ll be going then. I’m hungry.”
 
 After that, I was about to head straight home, but Aynar, who’d been waiting for me outside, dragged me off to the sanctuary.
 
@@ -298,7 +298,7 @@ The sanctuary was already in full swing with a victory celebration. Even though 
 
 In terms of scale, it was bigger than any festival I’d ever seen.
 
-It seemed like all the barbarians scattered across the city had gathered at the holy site.
+It seemed as though every barbarian scattered across the city had gathered at the sanctuary.
 
 “Bjorn!”
 
@@ -316,31 +316,31 @@ Of course, it was short, in true barbarian style.
 
 “Have won—!!”
 
-“Beth-hel-raaaaaaa!!”
+“Bethel-raaaaaaa!!”
 
 With just that brief declaration, the already raucous atmosphere grew even wilder.
 
 ‘No way I’m missing out on this advertising opportunity.’
 
-I told Caron to have the “Comrades’ Association” spread word about my real estate plans among the tribe members, and they carried out their mission admirably throughout the festival.
+I told Karon to have the “Comrades’ Society” spread the word about my real-estate plans among the tribe, and they carried out the mission admirably throughout the festival.
 
 “Listen up, everyone! This victory’s only the beginning!”
 
-“Our tribe’s going to grow more prosperous, and so will house prices!”
+“Our tribe’s going to grow more prosperous, and land prices will rise with it!”
 
 “Only a fool of a warrior wouldn’t buy now!”
 
 “What? You’re saving your mana stones to buy a new weapon? Do you realize what era we’re living in? When are you going to buy that new weapon anyway?”
 
-That level of propaganda would be a big help for my real estate plans.
+That level of propaganda would be a big help for my real-estate plans.
 
 After enjoying the festival for a while, I quietly slipped away from the sanctuary and returned home.
 
-When I arrived, Amelia was sitting on the living room sofa in the dark.
+When I arrived, Amelia was sitting alone on the living room sofa in the dark.
 
 “Jandel.”
 
-“…Yeah?”
+“...Yeah?”
 
 “Are you under some curse that prevents you from going even a single day without causing trouble?”
 
@@ -352,9 +352,9 @@ After some thought, the answer came quickly.
 
 “Sorry. I went ahead and did things without consulting you.”
 
-Judging by Amelia’s softened expression, I guessed right.
+Judging by the way Amelia’s expression softened, I had guessed right.
 
-“…You do know, huh.”
+“...You do know, huh.”
 
 “Huh? You just smiled, didn’t you?”
 
@@ -362,7 +362,7 @@ Judging by Amelia’s softened expression, I guessed right.
 
 “You smiled! I saw it just now!”
 
-“…Don’t slander me.”
+“...Don’t slander me.”
 
 Slander, my foot.
 
@@ -380,14 +380,12 @@ Amelia nodded.
 
 “That’s good then.”
 
-“……”
+“...”
 
-After a brief silence, we started talking about what had happened that day. Erwin, who must have heard the noise, came down rubbing his eyes and joined the conversation.
+After a brief silence, we started talking about what had happened that day. Erwin, who must have heard us, came downstairs rubbing her eyes and joined the conversation.
 
 And the next morning.
 
-“It’s me… Bjorn…”
+“It’s me... Bjorn...”
 
 The guest I had been waiting for finally arrived.
-
-Continue reading more chapters at henprogressive.com

@@ -18,7 +18,7 @@ She probably asked around everywhere, worried I’d caused trouble again, and ev
 
 When it came to this kind of thing, she was someone I could trust more than anyone.
 
-“…Kill us? All by yourself?”
+“...Kill us? All by yourself?”
 
 Baek-ho, who was caught off guard by Amelia’s sudden appearance, regained his composure and scoffed. Then—
 
@@ -30,9 +30,9 @@ At Baek-ho’s command, Aures began to sprint towards the Ruin Scholar’s locat
 
 “I don’t think I ever said it.”
 
-“……”
+“......”
 
-“…that I was alone.”
+“...that I was alone.”
 
 Everyone’s eyes turned toward the cave entrance that led down to the magic circle.
 
@@ -50,7 +50,7 @@ I didn’t even need to see who it was.
 
 The arrow shot towards the stunned Ruin Gramps at a speed too fast for the naked eye to follow. Aures quickly threw himself forward to block it before it could reach its target.
 
-And…
+And...
 
 Boom—!!
 
@@ -58,7 +58,7 @@ The arrow pierced his left arm and exploded.
 
 Because it was an internal explosion, fragments of his flesh and blood were scattered in every direction.
 
-“…Long ears is here too?”
+“...Long ears is here too?”
 
 Everyone stood completely still, as if time itself had stopped.
 
@@ -66,7 +66,7 @@ Step, step.
 
 From inside the cave where the arrow had been fired, my allies slowly started to step out.
 
-“Belbev Ruinzenes…”
+“Belbev Ruinzenes...”
 
 Erwin’s eyes were burning with killing intent.
 
@@ -78,7 +78,7 @@ Aynar looked very excited.
 
 Versyl looked quite nervous about the whole situation.
 
-“A-Again, all by yourself…”
+“A-Again, all by yourself...”
 
 Misha looked at me with worried eyes.
 
@@ -88,7 +88,7 @@ And the members didn’t end there.
 
 “It looks like he is not here. I heard he was a very skilled archer.”
 
-“So this is outside the walls…”
+“So this is outside the walls...”
 
 “Still, it is good that we found our missing captain right after we came out.”
 
@@ -96,13 +96,13 @@ And the members didn’t end there.
 
 It wasn’t just the founding members of the Anabada Clan. Even James Carla, Sven Parav, Melend Kaislan, and Lilith Marrone. The elite members who had joined us recently through our connection from the Ice Rock Expedition were here too.
 
-‘Seeing them all together like this… our clan really has grown a lot.’
+‘Seeing them all together like this... our clan really has grown a lot.’
 
 There were enough of us to change the tide of the battle.
 
 As a quiet sense of pride rose inside me, I noticed anger and frustration building in Baek-ho’s eyes.
 
-“…So you’ve come in a whole horde, huh?”
+“...So you’ve come in a whole horde, huh?”
 
 Seeing that look made me realize he was feeling exactly what he had mentioned earlier, the instinct that all seasoned explorers sensed as naturally as breathing.
 
@@ -110,17 +110,17 @@ Seeing that look made me realize he was feeling exactly what he had mentioned ea
 
 To sense that feeling more clearly, I called out to the guy who had been nothing more than a spectator the whole time.
 
-“…Yes?”
+“...Yes?”
 
 Was it because he was a mage? Why was he so slow on the uptake The situation had already flipped 180 degrees.
 
 “How long are you going to stay there?”
 
-“……”
+“......”
 
 “If you do not move, a stray attack will end up killing you.”
 
-“Ahh… Yes…!”
+“Ahh... Yes...!”
 
 As I repeated the exact words Baekho had used earlier, the GM snapped out of it and hurried over to me.
 
@@ -128,21 +128,21 @@ As I repeated the exact words Baekho had used earlier, the GM snapped out of it 
 
 The way he behaved with Auril Gavis and the way he behaved with Baek-ho were completely different. He pretended to be innocent, but he was the slyest of them all.
 
-Well… I guess from his perspective, it makes sense.
+Well... I guess from his perspective, it makes sense.
 
 Honestly, neither Baek-ho nor I were his real allies.
 
 So he had no obligation to stay loyal, nor any reason to feel guilty about switching sides.
 
-“…S–sorry.”
+“...S–sorry.”
 
 “Whatever. Just scram already.”
 
-“Yes…”
+“Yes...”
 
 Baek-ho didn’t stop him. More precisely, he wasn’t in any condition to stop him.
 
-“Wow… with this lineup… you could probably take on Orcules and not lose.”
+“Wow... with this lineup... you could probably take on Orcules and not lose.”
 
 He tried to act calm, but I could tell he was experiencing a kind of panic he’d never felt before.
 
@@ -150,7 +150,7 @@ He tried to act calm, but I could tell he was experiencing a kind of panic he’
 
 The Ruin Scholar, after taking Amelia’s kick, couldn’t even stand properly.
 
-“……”
+“......”
 
 Tank Rex Aures had lost an arm.
 
@@ -160,31 +160,31 @@ Healer Jayna barely had any MP left.
 
 “I’m fine, don’t provoke them.”
 
-“…Understood.”
+“...Understood.”
 
 They were so cornered they didn’t even dare cast a healing spell.
 
-“Ahaha… This has gotten troublesome……”
+“Ahaha... This has gotten troublesome......”
 
-“……”
+“......”
 
-“Baron, how about… we call it a draw……?”
+“Baron, how about... we call it a draw......?”
 
 What is this crazy bastard saying?
 
 I let out a dry laugh, then glanced down at a certain part of Baekho’s body. “You mentioned castration, right?”
 
-“Uh… Baron?”
+“Uh... Baron?”
 
 “Well, I’ve got a hammer. I’m sure we can make it work.”
 
-“Um… How about we try to resolve this through conversation first……?”
+“Um... How about we try to resolve this through conversation first......?”
 
 Ignoring whatever he said, I took a step forward. Lee Baek-ho clicked his tongue and let out a sigh as if the ground were about to cave in.
 
-“Ha… Really, why does nothing ever go right for me? How do they show up at this exact timing?”
+“Ha... Really, why does nothing ever go right for me? How do they show up at this exact timing?”
 
-To be fair, I could understand why he felt that way. We were outside the city walls, and I’ll admit I got lucky. But…
+To be fair, I could understand why he felt that way. We were outside the city walls, and I’ll admit I got lucky. But...
 
 ‘Looking at him, it doesn’t seem like it’s just luck.’
 
@@ -212,9 +212,9 @@ Rex Aures.
 
 Jayna Flyer.
 
-Taking advantage of the fact that we could beat the allies Baek-ho had gathered for himself…
+Taking advantage of the fact that we could beat the allies Baek-ho had gathered for himself...
 
-“My sister’s enemy…”
+“My sister’s enemy...”
 
 We might finally be able to avenge what happened to her that day, today.
 
@@ -222,7 +222,7 @@ Step.
 
 As I took another step toward him, Baek-ho crouched slightly and spoke with a twisted grin.
 
-“Haha, Baron? Stop coming closer and let’s… talk for a second, yeah?”
+“Haha, Baron? Stop coming closer and let’s... talk for a second, yeah?”
 
 Step.
 
@@ -234,7 +234,7 @@ Step.
 
 Step.
 
-“…Do you really want blood to spill? Between us? Really?”
+“...Do you really want blood to spill? Between us? Really?”
 
 Step.
 
@@ -252,7 +252,7 @@ He only muttered something once I stood right in front of him. It felt as if eve
 
 “Baron.”
 
-“……”
+“......”
 
 “Do you really plan to see this through to the end with me?”
 
@@ -270,7 +270,7 @@ He was planning to use it like a nuclear bomb.
 
 In a way, it felt like a game of chicken. If he truly went all out and chose a suicidal approach, I would not be able to stop him either, especially now that I was no longer the only one involved.
 
-“……”
+“......”
 
 The moment I was at a loss for words and couldn’t speak, a smile formed on Baek-ho’s lips.
 
@@ -288,7 +288,7 @@ Why does everyone feel the need to give me advice today?
 
 “A guy with a lot to lose can never beat me. I can throw everything away.”
 
-“…….”
+“.......”
 
 “If it’s for the sake of that one thing I desperately want.”
 
@@ -298,9 +298,9 @@ Because he really would do it.
 
 Whether it was the Ruin Scholar, Jayna, or Rex Aures, if it served his goal, he wouldn’t bat an eye even if they all died.
 
-So that’s why…
+So that’s why...
 
-“……!”
+“......!”
 
 I reached out towards Baek-ho, who had the nerve to walk right up to me.
 
@@ -312,7 +312,7 @@ His eyes seemed to say that he truly believed I wouldn’t harm him here.
 
 “Go ahead.”
 
-“…?”
+“...?”
 
 “Do anything you want. Try it.”
 
@@ -320,7 +320,7 @@ As if he couldn’t understand what I meant, Baek-ho frowned in confusion.
 
 Really? What part of what I said is so hard to grasp?
 
-This bastard… he seriously misunderstood me.
+This bastard... he seriously misunderstood me.
 
 Losing something precious —
 
@@ -333,7 +333,7 @@ I yanked him toward me and slammed my forehead into his.
 
 A gruesome sound echoed in the distance, but Lee Baek-ho didn’t utter a single groan and instead shot back.
 
-“…What do you mean by this?”
+“...What do you mean by this?”
 
 Huh, do you really not get it?
 
@@ -343,7 +343,7 @@ CRACK-!
 
 I got annoyed and gave him another headbutt.
 
-“…Are you really trying to pick a fight?”
+“...Are you really trying to pick a fight?”
 
 No, I mean, I just told you.
 
@@ -379,11 +379,11 @@ Putting all my strength into it, I headbutted him, and without pulling my forehe
 
 There’s no way.
 
-This guy… he’s seriously mistaken about something fundamental.
+This guy... he’s seriously mistaken about something fundamental.
 
 “I’ve never once won.”
 
-“…….”
+“.......”
 
 “Without losing something.”
 
@@ -399,7 +399,7 @@ The path I’ve walked has taught me this much:
 
 You can’t protect anything if you run.
 
-“…….”
+“.......”
 
 After irritably pushing Baekho away as he looked at me with disgust, I continued.
 
@@ -409,7 +409,7 @@ Let me make this clear right now.
 
 “Don’t you dare say you have nothing to lose.”
 
-“……”
+“......”
 
 “I will take from you the one thing you desire most. Whatever it takes.”
 
@@ -423,13 +423,13 @@ This was another game of chicken. When both sides had the power to destroy each 
 
 However, it did not take long for the outcome to show itself. After all, Baek-ho is even more rational than I am.
 
-“…So what exactly do you want me to do?”
+“...So what exactly do you want me to do?”
 
 Frustrated that things weren’t going his way, Lee Baek-ho asked in a defeated voice.
 
 “Do you want compensation? Or blood? If you insist, I could give up a healer or a tank, but not the gramps. If you say you want him, then I’ll have no choice but to fight this to the end.”
 
-So the Ruin Scholar was non-negotiable for him, huh…
+So the Ruin Scholar was non-negotiable for him, huh...
 
 “Oh! And neutering is also off the table, so don’t even bring it up!”
 
@@ -439,11 +439,11 @@ This bastard won’t stop talking until the very end. As I watched Lee Baek-ho t
 
 Baekho ground his teeth. I had clearly hit his pride. Still, he must have decided that doing what I said was the better choice.
 
-“For… for forcibly… threatening you, Baron… I… am… sorry…”
+“For... for forcibly... threatening you, Baron... I... am... sorry...”
 
 He spoke like he was dragging each word out of his throat with a hook.
 
-“If… if you look past the mistake I made today… just this once… I’ll repay your forgiveness… generously…”
+“If... if you look past the mistake I made today... just this once... I’ll repay your forgiveness... generously...”
 
 His voice was unbearably awkward, like a child who had never once apologized in his life.
 
@@ -455,9 +455,9 @@ SMACK—!
 
 Wow, the audacity.
 
-“It’s not that, it’s just…”
+“It’s not that, it’s just...”
 
-“……Huh?”
+“......Huh?”
 
 “I just felt like doing it.”
 

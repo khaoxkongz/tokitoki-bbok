@@ -1,6 +1,6 @@
 Between an Ally and an Enemy (2)
 
-As the Chancellor and second-in-command of Raphdonia, Marquis Tecerion has long been a thorn in my side.
+As the Chancellor and second-in-command of Raphdonia, Marquis Tercerion has long been a thorn in my side.
 
 After all, he was the one who, with a smile, deceived me into joining a suicide mission.
 
@@ -16,9 +16,9 @@ However, my promotion proceeded with surprising ease.
 
 Additionally, the fact that he initiated the ‘Evil Spirit Integration Policy’ through his daughter, Ragna, was also suspicious.
 
-The Marquis has always been a source of mystery for me.
+The Marquis had always been a source of mystery to me.
 
-But…
+But...
 
 “Let me try to explain briefly.”
 
@@ -46,7 +46,7 @@ He believed that to break through the 10th floor, they had to take down the roya
 
 “Ah, that? I blackmailed him.”
 
-“…Blackmailed?”
+“...Blackmailed?”
 
 “Yes. The Chancellor’s son is also a player.”
 
@@ -56,7 +56,7 @@ No wonder he so easily sold out the royal family’s name.
 
 There was a whole backstory behind it.
 
-‘Starting as a direct descendant of a prestigious family? Talk about broken game balance…
+‘Starting as a direct descendant of a prestigious family? Talk about broken game balance...’
 
 If players from Noark heard this, they’d be dying of envy.
 
@@ -72,17 +72,17 @@ To protect his son, the Marquis complied with Lee Baek-ho’s demands.
 
 “Like I said, the Marquis needed time. I heard he’s been working hard every night to produce another heir.”
 
-This was information I didn’t really want to know. Good grief, how old is that man…?
+This was information I didn’t really want to know. Good grief, how old is that man...?
 
 Is this some last-minute sprint?
 
-‘Perhaps bringing Ragna into the picture was part of a Plan B…….’
+‘Perhaps bringing Ragna into the picture was part of a Plan B...’
 
 Just as that thought crossed my mind, Lee Baek-ho suddenly apologized.
 
 “By the way, sorry, hyung. I think I was the reason the marquis sent you on that expedition.”
 
-“…What do you mean?”
+“...What do you mean?”
 
 “If you came back alive and it was revealed that you weren’t an evil spirit, it would cause problems for the Evil Spirit Integration Policy I demanded. So, he probably tried to eliminate you quietly. Without anyone knowing.”
 
@@ -90,13 +90,13 @@ But that attempt failed, and I returned alive, and the marquis had to publicly d
 
 “After that incident, he contacted me, saying there was nothing he could do.”
 
-It was hard to blame the Marquis entirely, so Lee Baek-ho decided to exclude Bjorn Jandel(Me) from future plans.
+It was hard to blame the Marquis entirely, so Lee Baek-ho decided to exclude Bjorn Jandel—me—from his future plans.
 
 After all, it had already been declared that Bjorn Jandel is not an evil spirit.
 
 He was no longer a usable card.
 
-But…….
+But...
 
 “Then the Marquis asked me if I could kill you. He couldn’t go into details, but he said you might become a big problem in the future.”
 
@@ -106,17 +106,17 @@ To think he was plotting such sinister things as soon as I returned.
 
 “At the time, I just said I’d think about it, because the terms he was offering weren’t that bad.”
 
-“So, when you said last time that it was a good thing that you found out who I was, was that because of that…?”
+“So, when you said last time that it was a good thing that you found out who I was, was that because of that...?”
 
-“Ahaha… You’re really quick to catch on.”
+“Ahaha... You’re really quick to catch on.”
 
-…I could have been killed.
+...I could have been killed.
 
 Without even knowing.
 
 “But in the end, I found out you’re my hyung, right? I’ve already told the Marquis everything. I declined his offer, and I told him not to even think about touching Bjorn Jandel from now on.”
 
-“……”
+“...”
 
 “Don’t you think it makes up for what I did?”
 
@@ -124,7 +124,7 @@ I couldn’t deny he had a point.
 
 At least until his son’s problem is resolved, the Marquis can’t directly harm me.
 
-‘I guess that’s one thing off my mind…’
+‘I guess that’s one thing off my mind...’
 
 It was an unexpected gain, but I tried to speak as calmly as possible.
 
@@ -134,7 +134,7 @@ The moment I start showing satisfaction, my share will dwindle.
 
 ---
 
-After that, Lee Baekho confidently talked about the options he could offer me besides the down payment he had already made.
+After that, Lee Baek-ho confidently talked about the options he could offer me besides the down payment he had already made.
 
 But to my surprise, none of them seemed particularly useful.
 
@@ -142,15 +142,15 @@ But to my surprise, none of them seemed particularly useful.
 
 “Oh? Then go kill the Marquis for me.”
 
-“Uh, that’s a bit… That bastard would just revive in the royal palace even if I killed him.”
+“Uh, that’s a bit... That bastard would just revive in the royal palace even if I killed him.”
 
-“…Revive? What’s that supposed to mean?”
+“...Revive? What’s that supposed to mean?”
 
 “Ah, you don’t know about that? Maybe it wasn’t in the game? Anyway, there’s a royal relic that can do that, and it’s currently in the Marquis’s hands.”
 
 “What about Count Alminas, then?”
 
-“That guy always has that dragon tribe member by his side, so it’s tough. That dragon bastard specialises in defence… It might be possible to break through if I have enough time, but inside the city it’s a bit…”
+“That guy always has that dragon-tribe member by his side, so it’s tough. That dragon bastard specializes in defense... I might be able to break through if I had enough time, but inside the city it’s a bit...”
 
 What’s with this guy?
 
@@ -160,11 +160,11 @@ He spoke so confidently earlier.
 
 I thought it would be quicker to just ask him directly, so I tried to be as gentle as possible, but for some reason, Lee Baek-ho hung his head and muttered.
 
-“No, really… The people you mentioned are just weird… Why did you have to pick those guys…”
+“No, really... The people you mentioned are just weird... Why did you have to pick those guys...”
 
 Of course, Lee Baek-ho didn’t stay depressed for long. He soon perked up and spoke energetically.
 
-“Ah! How about this then? You said you’re going on a Dreadfear raid soon, right? I can help you-“
+“Ah! How about this, then? You said you’re going on a Dreadfear raid soon, right? I can help you—”
 
 “No need.”
 
@@ -172,11 +172,11 @@ Of course, Lee Baek-ho didn’t stay depressed for long. He soon perked up and s
 
 “It’s bound to draw a lot of attention, so why would I want to let people know that you and I are acquainted?”
 
-“Uh… What if we disguise our identities?”
+“Uh... What if we disguise our identities?”
 
 “No thanks. I can take it down even without you.”
 
-“……”
+“...”
 
 Lee Baek-ho was left speechless.
 
@@ -188,21 +188,21 @@ At this point, it seemed better to just say what kind of support I wanted.
 
 “How about 1 billion stones?”
 
-“That much is a bit…”
+“That much is a bit...”
 
 “Then 500 million stones?”
 
-“I don’t have that much on hand right now…”
+“I don’t have that much on hand right now...”
 
-“…100 million stones.”
+“...100 million stones.”
 
-“…I’ve had a lot of expenses lately.”
+“...I’ve had a lot of expenses lately.”
 
 What’s with this guy? How does he have less money than me?
 
 “Then give me some equipment. What Number items do you have now?”
 
-“Uh… They’re all core items, so I can’t give them to you.”
+“Uh... They’re all core items, so I can’t give them to you.”
 
 Was there anything he could even do for me?
 
@@ -210,17 +210,17 @@ Was there anything he could even do for me?
 
 Lee Baek-ho couldn’t respond.
 
-“How about essences, then? Maybe you could gather some for me. Like Bellarios essence or something.”
+“How about Essences, then? Maybe you could gather some for me. A Bellarios Essence or something.”
 
-“Hyung… That place is a war zone right now…”
+“Hyung... That place is a war zone right now...”
 
 “Baek-ho, you’re the type to find reasons why something can’t be done first, huh?”
 
-“…Argh, fine! I’ll try. Next time I go in, I’ll gather some, okay?”
+“...Argh, fine! I’ll try. Next time I go in, I’ll gather some, okay?”
 
 Yeah, that’s how it should be.
 
-Well, now it’s time to move on to the next option.
+Well, it was time to move on to the next option.
 
 “Baek-ho, there are a few things I want to ask. Will you answer?”
 
@@ -230,21 +230,21 @@ Well, now it’s time to move on to the next option.
 
 “That? Thanks to the GM. Right after the ban was lifted that day, the GM called me. He said you threatened him to lift my ban?”
 
-Holy shit… That happened?
+Holy shit... That happened?
 
 “When I heard that, I was genuinely surprised. I didn’t realize Hyung would go that far. I couldn’t wrap my head around it, so I pretended we were allies to see how he’d react, and the GM guy started leaking information bit by bit.”
 
-So the GM started blurting out my information, what a pushover.
+So the GM had started blurting out information about me. What a pushover.
 
 “Hyung, you’ve been wearing a lion mask at the Round Table, right?”
 
-From the fact that I’ve been active as Mr. lion at the Round Table—
+From the fact that I had been active as Mr. Lion at the Round Table—
 
 “That part was fine. But then he suddenly asked questions about you.”
 
 And in the end, he gave away the most crucial piece of information.
 
-“He asked if I knew why you hadn’t appeared for more than two years. And if the two of us were conspiring something. Kind of beating around the bush, but still…”
+“He asked if I knew why you hadn’t appeared for more than two years. And if the two of us were conspiring something. Kind of beating around the bush, but still...”
 
 Lee Baek-ho gave a sly smile.
 
@@ -252,7 +252,7 @@ Lee Baek-ho gave a sly smile.
 
 It was only natural that he figured out my identity.
 
-The long hiatus of Mr. Lion perfectly coincided with Bjorn Jandel’s return.
+Mr. Lion’s long hiatus lined up perfectly with Bjorn Jandel’s disappearance and return.
 
 Even at the Round Table, there were people who suspected me because of that.
 
@@ -282,19 +282,19 @@ I could instinctively feel it.
 
 Lee Baek-ho.
 
-Why is he…
+Why is he...
 
 “Huh, I see.”
 
-…lying to me?
+...lying to me?
 
 ---
 
-A skilful liar hides a lie within the truth.
+A skilled liar hides a lie inside the truth.
 
-Following that logic, most of what Lee Baek-ho just said should be true.
+Following that logic, most of what Lee Baek-ho had just said should have been true.
 
-Therefore…
+Therefore...
 
 “Plans for the future? It’s simple! You and I will join forces and crush the royal family or the labyrinth! Ah, just kidding. What we’ll actually do is—”
 
@@ -314,15 +314,15 @@ It must be true that he sought cooperation.
 
 Otherwise, there would be no reason for the two of them to move together.
 
-Yes, so then…
+Yes, so then...
 
 [I needed a mage anyway, so I agreed right away.]
 
 Since the only remaining option was this, I came to a conclusion.
 
-‘Lee Baek-ho didn’t team up with the Ruin Scholar just because he needed a mage.’
+‘Lee Baek-ho didn’t team up with the Ruin Scholar simply because he needed a mage.’
 
-In other words, there’s another reason. And the important thing is that he kept it hidden from me.
+In other words, there was another reason—and, more importantly, he had deliberately hidden it from me.
 
 Why?
 
@@ -334,19 +334,19 @@ Lee Baek-ho, this guy is really not to be underestimated.
 
 ‘What else is he hiding?’
 
-Come to think of it, Lee Baek-ho has given me almost nothing.
+Come to think of it, Lee Baek-ho had given me almost nothing.
 
-At best, I managed to squeeze out a promise that he’d ‘gather essences.’
+At best, I had squeezed out a promise that he would ‘gather Essences.’
 
 Ah, should I add that he’ll return Misha?
 
-‘…He’s definitely up to something. Is he genuinely trying to help me at all?’
+‘...He’s definitely up to something. Is he genuinely trying to help me at all?’
 
 I really couldn’t tell.
 
-“Anyway, in this plan, the royal family is the biggest concern. Since the players are all still in hiding, we can’t gather together… for that we need to lure all the players out into the public somehow…”
+“Anyway, in this plan, the royal family is the biggest concern. Since the players are all still in hiding, we can’t gather together... for that we need to lure all the players out into the public somehow...”
 
-Is Lee Baek-ho my enemy or my ally?
+Was Lee Baek-ho my enemy or my ally?
 
 ---
 
@@ -360,15 +360,15 @@ He still had that one-hour login restriction in place.
 
 “Thanks. Okay, I’m off! See you next time!”
 
-In the end, I never got around to asking him what the “record stone” is.
+In the end, I never got around to asking him what the ‘Record Stone’ was.
 
-As much as I hate to say it, at least for the moment, everything seems to be going smoothly.
+As much as I hated to admit it, for the moment, everything seemed to be going smoothly.
 
 I decided that I could start digging into Lee Baek-ho’s secrets after getting Misha back.
 
 “Hey, did you get everything sorted out?”
 
-When Baek-ho left, Hyunbyeol—who’d been waiting outside—came in, and we chatted for a while.
+After Baek-ho left, Hyun-byeol—who had been waiting outside—came in, and we talked for a while.
 
 “Yeah, thanks to you.”
 
@@ -376,17 +376,17 @@ When Baek-ho left, Hyunbyeol—who’d been waiting outside—came in, and we ch
 
 “I know.”
 
-“…Then that’s good. Actually, the reason I asked him about you before was a bit of a test.”
+“...Then that’s good. Actually, the reason I asked him about you before was a bit of a test.”
 
 “A test?”
 
 “Yeah. He was acting like he knew something about you, right? I just wanted to see how discreet he’d be. As I suspected, once he realized I was testing him, he kept his mouth shut.”
 
-“…I see.”
+“...I see.”
 
-It’s hard to believe that it was a test, but it’s not like I had any proof, so I let it slide.
+It was hard to believe that had really been a test, but I had no proof, so I let it slide.
 
-And then, how much time passed?
+After some time had passed—
 
 “Hyun-byeol, I should get going now.”
 
@@ -406,7 +406,7 @@ I put on the usual navy suit and flipped the lion mask over my face.
 
 Thud, thud.
 
-I walked through the empty corridor towards the main room where the meeting was held.
+I walked down the empty corridor toward the main hall where the meeting was held.
 
 But what’s this?
 
@@ -418,8 +418,8 @@ And not just one—
 
 “Oh, you must be Mr. Lion? Nice to meet you!”
 
-“……”
+“...”
 
-“Hello……”
+“Hello...”
 
 Three of them.

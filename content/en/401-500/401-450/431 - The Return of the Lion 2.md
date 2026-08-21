@@ -1,24 +1,24 @@
 The Return of the Lion (2)
 
-The Sky was somewhat gloomy.
+The sky was somewhat gloomy.
 
-But sunlight still leaked through.
+But sunlight still filtered through.
 
-A warmth that pushed away the cold that had seeped into my bones.
+Its warmth drove away the cold that had seeped into my bones.
 
-This was a place with no shivering cold, or hunger.
+There was no biting cold here. No hunger either.
 
-“Now… it feels a little more real. I’ve really… made it back alive…”
+“Now... it feels a little more real. I’ve really... made it back alive...”
 
 As always, returning to the city after hardship gave us a strangely bittersweet feeling.
 
 Sure, it’s good to be alive, but our hearts felt heavy.
 
-Because there are those who couldn’t make it back with us.
+Because there were those who hadn’t made it back with us.
 
-“If only they could’ve held out just a bit longer… just a little more…”
+“If only they could’ve held out just a bit longer... just a little more...”
 
-If that had happened…
+If that had happened...
 
 Maybe a few more people could’ve come back with us.
 
@@ -30,21 +30,21 @@ Well, just because we’ve made it back to the city doesn’t mean our troubles 
 
 It’s too early to feel relieved. For all we know, things from here on could be even harder than they were in the Labyrinth.
 
-Still…
+Still...
 
-We swallowed the complaints that were bubbling up inside of us, and not just because this is the same mansion where we stayed for a few days before venturing into the Labyrinth—and thus we have to watch our words.
+We swallowed the complaints bubbling up inside us. Not only because this was the same mansion where we had stayed before entering the Labyrinth, and therefore a place where we had to watch our words.
 
-It’s simply because we mustn’t do otherwise.
+More than that, we simply couldn’t allow ourselves to do otherwise.
 
 No matter how steep and treacherous the mountain before us may be—
 
-We had to leave behind those who fought until the very end just so we could stand here.
+We had left behind people who fought until the very end so that we could stand here.
 
 “Kaislan, are you alright?”
 
 “Ah, I couldn’t be better. But it seems I am the last one?”
 
-Once Kaislan returned from his appointment with a priest who had been summoned to the mansion, our entire squadron gathered in the entrance hall.
+Once Kaislan returned from being treated by a priest summoned to the mansion, our entire group gathered in the entrance hall.
 
 “Instead of just waiting around here, what do you say we go for a walk? Looks like the weather’s quite nice today.”
 
@@ -58,7 +58,7 @@ At Akuraba’s explanation, the mage Marone let out a disgruntled complaint.
 
 “Ha! It’s as if we did something wrong! We risked our lives to complete our mission, and this is how they treat us? If anything, we should be treated like heroes!”
 
-“Um, Miss Marone…”
+“Um, Miss Marone...”
 
 “What? Am I wrong?”
 
@@ -80,11 +80,11 @@ What truly matters is something else.
 
 James Carla whistled in agreement at Kaislan’s words.
 
-Naturally, the conversation that followed was all about what kind of rewards might be coming, what each of us planned to ask for… those little mundane, materialistic things.
+Naturally, the conversation that followed was all about what kind of rewards might be coming, what each of us planned to ask for... those little mundane, materialistic things.
 
-Obviously these were words meant for the ears of those outside.
+Obviously, those words were meant for the ears outside the room.
 
-Our entire conversation is likely being relayed directly to the ears of some high official.
+Our entire conversation was probably being relayed straight to some high-ranking official.
 
 “Mister, at least they managed to get us food quickly. Try this.”
 
@@ -92,7 +92,7 @@ Our entire conversation is likely being relayed directly to the ears of some hig
 
 As I tore into the meat on the plate Erwin brought me, I thought again about everything that had happened.
 
-In case there’d been any slip ups, I’d need to make arrangements.
+I went back over everything in case there had been any slip-ups we needed to account for.
 
 The guards at the checkpoint didn’t seem to suspect anything.
 
@@ -100,7 +100,7 @@ As soon as we returned to the dimensional plaza, we put our equipment into the b
 
 Of course, because we had to separate the gear we could show the royal family from the stuff we absolutely had to keep hidden.
 
-And then at the checkpoint.
+Then came the checkpoint.
 
 There, I loudly announced that we were part of the Royal Special Unit and asked them to summon the Marquis.
 
@@ -108,23 +108,23 @@ It was a calculated move.
 
 ‘With explorers swarming the checkpoint, news about the special unit would have spread through the city by now.’
 
-The checkpoint official, unsure of what to do, repeated the Marquis’ words that we were to be held here.
+The checkpoint official, unsure what to do, relayed the Marquis’sss order that we were to be held there.
 
 Then—
 
 [From here on, we’ll escort you.]
 
-Less than thirty minutes later, knights from the Marquis’ estate arrived. They took us to the same vacant mansion in the imperial capital where our unit’s inaugural ceremony had been held.
+Less than thirty minutes later, knights from the Marquis’sss estate arrived. They took us to the same vacant mansion in the imperial capital where our unit’s inaugural ceremony had been held.
 
 [We’ll carry your luggage for you.]
 
-[Our luggage…?]
+[Our luggage...?]
 
-[On the Marquis’ orders. I swear on my honor as a knight that no items shall go missing.]
+[On the Marquis’sss orders. I swear on my honor as a knight that no items shall go missing.]
 
 Even the packs containing the “safe to show” spoils were seized in the process, and when we reached the manor, priests summoned by the knights treated each of us.
 
-That’s how time has passed up to now.
+That was how things had progressed up to now.
 
 Knock knock.
 
@@ -140,15 +140,15 @@ From this moment on, I need to stay sharp.
 
 ---
 
-Following the knights, we arrived at a reception room quite similar to where we had been. The unusual part was the empty seat of honor…
+Following the knights, we arrived at a reception room quite similar to where we had been. The unusual part was the empty seat of honor...
 
 Instead, there was a single crystal orb.
 
-“A message stone…”
+“A message stone...”
 
 I couldn’t help but laugh at the absurdity.
 
-It’s not that far from here to the Marquis’ estate, yet he’s resorting to long-distance communication?
+It wasn’t that far from here to the Marquis’sss estate, yet he was resorting to long-distance communication?
 
 Well, at least it shows he’s aware.
 
@@ -158,7 +158,7 @@ He knows he’s done something so heinous to us that if we saw each other face t
 
 “I can understand that.”
 
-[Hmm, judging from your casual tone… I assume the others already know?]
+[Hmm, judging from your casual tone... I assume the others already know?]
 
 His subdued voice came through the moment we sat on the sofa.
 
@@ -180,11 +180,11 @@ In our remaining time, the squad and I had already discussed what our natural re
 
 “Surely you heard my broadcast across that entire region. Don’t tell me you never received it. What happened?”
 
-[…We’re still looking into the exact circumstances.]
+[...We’re still looking into the exact circumstances.]
 
 “This late, and still assessing while using a crystal orb?”
 
-“From what I’ve heard, the enemy forces in Deadwood were unexpectedly large. Attempts were made to rescue you, but eventually, they had to give up.”
+[From what I’ve heard, the enemy forces in Deadwood were unexpectedly large. Attempts were made to rescue you, but eventually they had to give up.]
 
 That was roughly the kind of response I expected.
 
@@ -194,13 +194,13 @@ But there was one thing I hadn’t anticipated.
 
 Wow. So he’s implying it’s partially my fault?
 
-How thick is the Marquis’ skin?
+How thick is the Marquis’ss skin?
 
 “Then what about the initial lack of response? If everything had worked correctly from the start, none of this would have happened!”
 
-[Well… it seems my son made some sort of error.]
+[Well... it seems my son made some sort of error.]
 
-“…Error?”
+“...Error?”
 
 I asked as if I heard something unbelievable.
 
@@ -226,15 +226,15 @@ But at the pawn responsible.
 
 “Marquis! Where is that bastard? Actually, don’t tell me. Because the moment I lay eyes on him, I’ll probably smash his skull by accident.”
 
-[…]
+[...]
 
 Like a person who can’t contain his anger, I slammed my fist into the table in front of me, shattering it.
 
 Then I sucked in sharp, ragged breaths.
 
-[…Have you cooled off enough?]
+[...Have you cooled off enough?]
 
-Beyond the crystal orb, suspicion flickered in the Marquis’ eyes.
+Beyond the crystal orb, suspicion flickered in the Marquis’sss eyes.
 
 Well, it’s not like me to blow up like this.
 
@@ -246,13 +246,11 @@ Which means—
 
 I spoke, tempering my rage.
 
-Not that my anger was entirely gone,
-
-But it’s obvious I was making a scene just for this.
+Not that my anger was entirely fake, but it was obvious I was making a scene for this exact purpose.
 
 “I expect proper compensation. I carried out your request to lead the expedition. I accomplished the mission.”
 
-[Ah… of course, of course. Compensation… yes, it’s only fair.]
+[Ah... of course, of course. Compensation... yes, it’s only fair.]
 
 The Marquis agreed at once. As soon as he said it, I exchanged glances with the members.
 
@@ -260,35 +258,35 @@ A few of them nodded as if to say ‘well done.’
 
 Details are crucial in these matters.
 
-“Well then, let’s postpone the discussion of compensation for the mistakes…”
+[Well then, let us postpone the discussion of compensation for the mistake...]
 
-“…….”
+“.......”
 
-[“May I hear it? What exactly happened over there?”]
+[May I hear it? What exactly happened over there?]
 
 Right, this is the part.
 
-After taking a single breath to steady myself, I began the story I’d prepared. It took a bit longer because the marquis kept interjecting with questions, but we finished well under an hour.
+After taking a single breath to steady myself, I began the story I’d prepared. It took a bit longer because the Marquis kept interjecting with questions, but we finished well under an hour.
 
-[“You’ve been through a lot because of my good-for-nothing son.”]
+[You’ve been through a lot because of my good-for-nothing son.]
 
 Those were his only words once I’d finished my story.
 
-Been through a lot, huh…
+Been through a lot, huh...
 
 That one sentence made my blood rush to my head for some reason, but I managed to hold it together.
 
-[“I’ll make sure you receive proper compensation for my son’s blunder. I’ll put in every effort.”]
+[I’ll make sure you receive proper compensation for my son’s blunder. I’ll put in every effort.]
 
-The marquis continued.
+The Marquis continued.
 
-[“And… truly, congratulations on surviving.”]
+[And... truly, congratulations on surviving.]
 
 Huh, saying something he doesn’t even mean.
 
-[“I’ll be in touch again.”]
+[I’ll be in touch again.]
 
-Anyway, that ended our contact with the marquis.
+Anyway, that ended our contact with the Marquis.
 
 “Allow me to show you to your rooms.”
 
@@ -310,11 +308,11 @@ Probably the same for my comrades in other rooms.
 
 There was likely some worry we might be attacked by knights in our sleep.
 
-“…….”
+“.......”
 
 Despite that, as soon as I lay down, my body began to feel drowsy, and I eventually fell asleep.
 
-And then…
+And then...
 
 “At least my head’s still attached.”
 
@@ -328,27 +326,25 @@ Well, what else can we do? We just have to keep going.
 
 Anyway, that was how our second day of survival began.
 
-We got back our backpacks that had been confiscated the day before.\
+We got back the backpacks that had been confiscated the day before.
 
-When I asked the marquis why he bothered taking them at all, his explanation was so absurd it was actually impressive:
+When I asked the Marquis why he bothered taking them at all, his explanation was so absurd it was actually impressive:
 
-[“Oh dear… I see it was delivered to you that way. I simply meant to have your spoils appraised on your behalf, since you were tired, and let my people know I’d be willing to purchase them at a price higher than market value. I’ll be sure to caution them so they don’t distort my words like that again.”]
+[Oh dear... I see that was how the order reached you. I merely meant to have your spoils appraised on your behalf while you rested, and to let my people know I was willing to purchase them above market value. I’ll be sure to caution them not to distort my words like that again.]
 
-Ridiculous as it sounded, the marquis did keep his word. For any items we wished to sell, he bought them at a price far above market value. We jumped on this chance and sold off everything we didn’t need.
+Ridiculous as it sounded, the Marquis did keep his word. For any items we wished to sell, he bought them at a price far above market value. We jumped on this chance and sold off everything we didn’t need.
 
 Well, at least our funds would be abundant for a while.
 
-[“Oh, and one more thing. Since you showed up at the checkpoint, the public’s interest in the expedition team is pretty high.”]
+[Oh, and one more thing. Since you appeared at the checkpoint, public interest in the expedition team has become quite high.]
 
 There was some good news, too.
 
-During the war, a radio transmission about the ‘Eye of the Sky’ being destroyed had spread throughout the entire Dark Continent.
-
-And the appearance of the royal family’s special unit in the city.
+During the war, a wide-area transmission announcing the destruction of the Eye of the Sky had spread throughout the Dark Continent. Now the royal family’s special unit had suddenly appeared in the city as well.
 
 “A triumph ceremony?”
 
-[“It’s to be held in the royal palace. Before the kingdom’s nobility and its citizens, your role in this operation—until now kept secret—will be revealed, and your achievements will be celebrated.”]
+[It will be held at the royal palace. Before the kingdom’s nobility and citizens, your role in this operation—kept secret until now—will be revealed, and your achievements will be celebrated.]
 
 Well, I’d expected as much, but two days is awfully soon. Is it really possible to arrange everything that fast?
 
@@ -362,17 +358,17 @@ The lack of survivors wasn’t going to be enough reason to cancel their little 
 
 They’d planned to promote the destruction of the Eye of the Sky as their own great achievement, honouring the “fallen expeditionary force” while sharing the glory among themselves.
 
-[“So get ready. I’ll have someone send along the schedule and ceremony details for you to go through. Of course, we’ll also provide all the clothing you’ll need.”]
+[So prepare yourselves. I’ll send over the schedule and ceremony details for you to review. Of course, we’ll provide all the clothing you’ll need.]
 
 “Understood. I’ll pass that along to the other members.”
 
-[As I said, the public will be watching closely. It may be uncomfortable, but for everyone’s sake, just lay low here until the ceremony. If you need anything, don’t hesitate to ask.”]
+[As I said, the public will be watching closely. It may be uncomfortable, but for everyone’s sake, lay low here until the ceremony. If you need anything, don’t hesitate to ask.]
 
-“Then… there is one thing.”
+“Then... there is one thing.”
 
 I made a single request of the Marquis, and after that, time flew.
 
-And so, finally –
+And so, finally—
 
 “WAAAAAAAHHHH!”
 

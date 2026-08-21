@@ -2,7 +2,7 @@
 
 Inspiration: a sudden, ingenious idea or stimulation that becomes the catalyst for creative work.
 
-“A good idea…? What is it?”
+“A good idea...? What is it?”
 
 Raven asked uneasily, and I responded with a wide grin on my face.
 
@@ -26,7 +26,7 @@ In a sense, drawing aggro was a specialty not only of Bjorn Jandel but of Hansu 
 
 Besides, this wasn’t my first time doing something like this. Now that my physical stats were better, I didn’t have to work as hard, but back when I was so weak that a gentle breeze could knock me over, I had to use all of ‘Lee Han-soo’s’ knowledge to draw aggro.
 
-Right, so…
+Right, so...
 
 “Vivian.”
 
@@ -38,11 +38,11 @@ I checked one last thing.
 
 So, it’s possible. I was a little worried it might not work, but the final obstacle in our path had disappeared.
 
-“So… what do I send?” Vivian asked with genuine curiosity
+“So... what do I send?” Vivian asked with genuine curiosity
 
 “You’ll know when you hear it.”
 
-“…Huh?”
+“...Huh?”
 
 “Translate what I’m about to say into the coded transmission. Not a single word off.”
 
@@ -56,7 +56,7 @@ I spoke slowly.
 
 “Mom.”
 
-“…Huh?”
+“...Huh?”
 
 “Dead.”
 
@@ -88,11 +88,11 @@ Yes. That had been his plan.
 
 Until he heard a familiar female voice.
 
-‘Liranne Vivian…?’
+‘Liranne Vivian...?’
 
 He recognized the voice instantly. After all, he was the one who had taken in that spiteful little girl and raised her until she earned the nickname ‘The Screaming Witch.’
 
-‘For her to be calling me from District Eight…’
+‘For her to be calling me from District Eight...’
 
 It sounded like a request for help.
 
@@ -103,19 +103,19 @@ Even if that were the case, he couldn’t go.
 This was a war.
 He had gathered them one by one to create ‘Orcules’ for this very day.
 
-[M-Mama…]
+[M-Mama...]
 
-…Even if the situation was desperate enough for her to cry out for her mother, nothing changed.
+...Even if the situation was desperate enough for her to cry out for her mother, nothing changed.
 
 Step—!
 
 There were more important things right now. It was best to ignore this request and—
 
-[D-Dead…!!]
+[D-Dead...!!]
 
-…?
+...?
 
-“…”
+“...”
 
 His thoughts froze for a split second, and his feet stopped mid-step. However, assuming he had misheard or that she had slipped up, he began moving again.
 
@@ -129,9 +129,9 @@ He was genuinely confused by the sudden turn of events, unlike anything he had e
 
 The transmission continued.
 
-[The Rose Knight Order…]
+[The Rose Knight Order...]
 
-“……”
+“......”
 
 [Th-they killed her! That’s why your Mom’s dead!]
 
@@ -139,11 +139,11 @@ The content was so shocking it felt unreal, yet at the same time, his mind grew 
 
 He wasn’t lacking in intuition.
 
-‘…She’s acting under someone’s orders.’
+‘...She’s acting under someone’s orders.’
 
 Liranne Vivian wasn’t sending this of her own will. Most likely, she had been captured and was being forced to transmit this. But the real question was something else.
 
-‘…Who is it?’
+‘...Who is it?’
 
 Who was sending this message, and why? And how did they know about the old grudge between him and the Rose Knights? It was a story very few people knew.
 
@@ -155,21 +155,21 @@ Chasing Bjorn Jandel’s ally, a woman with an aura strikingly similar to that o
 
 But—
 
-“Sir…?”
+“Sir...?”
 
 “I’ll leave the pursuit of Emily Raines to you.”
 
-“Ah, yes…!”
+“Ah, yes...!”
 
 He handed the chase to his subordinates and pulled out his crystal orb.
 
-[Ricardo Lühensprache, first trait. Compared to the Corpse Collector… h-his is actually smaller!]
+[Ricardo Lühensprache, first trait. Compared to the Corpse Collector... h-his is actually smaller!]
 
 There was only one way to find out who was making Vivian spout such nonsense.
 
 Speak to them directly.
 
-[…Who are you?]
+[...Who are you?]
 
 He activated the orb and asked quietly. But the response he got was pure ridicule.
 
@@ -187,13 +187,13 @@ The Evil Eye, Roland Banojant.
 
 Everyone who had ever encountered that brute warned him to watch his words around him.
 
-“Bjorn Jandel…”
+“Bjorn Jandel...”
 
 If it was him, this behaviour would make sense. He was currently pursuing Jandel’s ally. If information had leaked internally and Jandel was doing this to draw his attention, the situation would fit perfectly.
 
 But—
 
-‘If that’s the case… how does he know about my history with the Rose Knight Order?’
+‘If that’s the case... how does he know about my history with the Rose Knight Order?’
 
 Unable to find an answer, the man gripped the crystal again.
 
@@ -201,7 +201,7 @@ Unable to find an answer, the man gripped the crystal again.
 
 Despite the continued mockery, the man did nothing. In fact, he felt calmer than ever. His body was shaking only because he had been running for the first time in a long while.
 
-[…Where are you?]
+[...Where are you?]
 
 He asked again.
 
@@ -215,7 +215,7 @@ Even though it was only his voice, its sheer presence was enough for the man to 
 
 [Come if you’ve got a problem with it]
 
-The fact that it was a man, and that he was in District 8 where Jandel had been spotted…
+The fact that it was a man, and that he was in District 8 where Jandel had been spotted...
 
 ‘My guess was right.’
 
@@ -237,7 +237,7 @@ The answer came quickly.
 
 He didn’t like falling for something so obvious—
 
-[…Don’t expect a clean death.]
+[...Don’t expect a clean death.]
 
 —but he’d indulge him once.
 
@@ -247,7 +247,7 @@ He was curious about how Bjorn had come to know that story.
 
 The moment he heard those words, the crystal orb shattered under the pressure of his grip.
 
-“…Must’ve been defective.” the man muttered
+“...Must’ve been defective.” the man muttered
 
 He mapped out the fastest route to District Eight.
 
@@ -263,7 +263,7 @@ But this was the first time he’d spoken to him directly.
 
 And yet—
 
-‘Why does it feel… familiar?’
+‘Why does it feel... familiar?’
 
 As if he’d heard this exact voice somewhere before.
 
@@ -271,7 +271,7 @@ Long ago.
 
 So long ago he could barely remember.
 
-‘When was it…?’
+‘When was it...?’
 
 His steps quickened as he frowned, searching his memory.
 
@@ -287,7 +287,7 @@ Have you ever hidden inside a wardrobe?
 
 Sven Parab, the (former) Paladin of Rafdonia, had. Well, strictly speaking, it wasn’t ‘Sven Parab’ who had hidden in a wardrobe, but his original body, but regardless.
 
-“…” “…”
+“...” “...”
 
 When you enter a wardrobe, you have to hunch your body, you can’t straighten your neck, and the floor isn’t soft like a bed. But surprisingly, it’s comfortable inside. Or rather, your body is uncomfortable, but your mind is at ease? Because no one can find you there. That’s why he had always crawled into wardrobes since he was a child whenever he was scared.
 
@@ -295,21 +295,21 @@ When you enter a wardrobe, you have to hunch your body, you can’t straighten y
 
 Because his body had grown so large, he had to cram himself in. And he wasn’t alone.
 
-“I-I’m sorry… am I heavy?”
+“I-I’m sorry... am I heavy?”
 
 The pleasant scent coming from his roommate made the already cramped space feel even tighter, forcing him to arch his back further.
 
 But there was no choice.
 
-“A-Ah, no… I should be the one apologizing. Because of me…”
+“A-Ah, no... I should be the one apologizing. Because of me...”
 
-“…Don’t apologize. We’re both safe for now.”
+“...Don’t apologize. We’re both safe for now.”
 
 Sven Parab felt immensely grateful for those words. He was the reason they were stuck in this narrow wardrobe. He had suffered a seizure at a crucial moment in the battle with their comrades and Lyris Marone had been left behind in an attempt to save him.
 
-“Still… it’s strange. You recovered the moment we got in here.”
+“Still... it’s strange. You recovered the moment we got in here.”
 
-“H-Haha… Y-Yeah, it really is.”
+“H-Haha... Y-Yeah, it really is.”
 
 Sven laughed awkwardly and changed the subject.
 
@@ -323,7 +323,7 @@ An act.
 
 A way to naturally separate from the group.
 
-‘What is it about this wardrobe…?’
+‘What is it about this wardrobe...?’
 
 He ran his hand along the inside wall.
 
@@ -349,11 +349,11 @@ Badump—!
 
 The chronic anxiety that had dominated his entire body since the moment he returned to the city vanished instantly. Beyond that, he felt a profound certainty that even if the world collapsed, he would be safe as long as he stayed here.
 
-‘…I’m sorry to my allies.’
+‘...I’m sorry to my allies.’
 
 In a way, this act could be seen as a betrayal of his allies. But Sven Parab, exhausted to the bone, couldn’t even bring himself to consider leaving the wardrobe.
 
-As long as I stay inside this wardrobe, I’ll live…!
+As long as I stay inside this wardrobe, I’ll live...!
 
 To Sven Parab, intuition was something that had to be obeyed.
 

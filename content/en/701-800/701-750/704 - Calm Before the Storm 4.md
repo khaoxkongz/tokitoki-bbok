@@ -2,13 +2,13 @@
 
 I finally told Amelia about the ‘record’ that Auril Gavis had shown me.
 
-[The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take……]
+[The evil spirit from another world, ‘————’, having lost three comrades, finally realized the path he himself must take......]
 
 A future where I lose three companions. When Amelia heard this, she didn’t ask anything about how absolute such a “record” might be.
 
 Because she had experienced it with me. We had gone back in time and faced countless hardships as we tried to change what had already happened.
 
-“A way to bend fate the way we did before… it will not be easy.”
+“A way to bend fate the way we did before... it will not be easy.”
 
 After hearing my story, Amelia fell silent for a moment as if organizing her thoughts. When she finally spoke, that was the first thing she said.
 
@@ -28,7 +28,7 @@ As I chuckled, picturing the cute baby Amelia from long ago, she asked with a se
 
 “You said the exact timing wasn’t mentioned. So maybe there’s a chance the ‘event’ has already occurred.”
 
-Oh? “Starting with that mage, Leor Wuerv Dwalki, haven’t you lost many comrades until now? If you add them all up, the number is far greater than three… but this might be referring to the three whose loss would affect you the most.
+Oh? “Starting with that mage, Leor Wuerv Dwalki, haven’t you lost many comrades until now? If you add them all up, the number is far greater than three... but this might be referring to the three whose loss would affect you the most.
 
 It was a plausible theory, if not for what Auril Gavis had said.
 
@@ -49,15 +49,15 @@ After returning to her thoughts with a serious expression, Amelia started sharin
 In other words, it could mean losing them in a non-literal sense.
 In that case, no one would have to die.
 
-“If only things had really turned out that way…”
+“If only things had really turned out that way...”
 
 But no matter how hard I tried to be optimistic, the ominous feeling wouldn’t leave me.
 
 My countless past experiences were already whispering the answer in the form of intuition. That it can’t be. That ominous premonitions always come true.
 
-“…Jandel?”
+“...Jandel?”
 
-“Ah, sorry. I was lost in thought for a moment. Thanks for sharing your opinions. They all seem plausible. But still… it’s better to assume the worst and prepare for it.”
+“Ah, sorry. I was lost in thought for a moment. Thanks for sharing your opinions. They all seem plausible. But still... it’s better to assume the worst and prepare for it.”
 
 “You mean, prepare on the assumption that three people will die.”
 
@@ -79,11 +79,11 @@ I stared down at her in surprise, only to see that Amelia looked genuinely irrit
 
 “Why are you giving up already?”
 
-“…Huh?”
+“...Huh?”
 
 “Bjorn Jandel—wasn’t it you?”
 
-“……”
+“......”
 
 “The one who didn’t give up on me, even when I had given up on myself. You were the one who pushed and pulled and struggled until you somehow created a way.”
 
@@ -95,16 +95,16 @@ The moment I heard those words, a chill ran through my body. It was a strange se
 
 Whenever city folk called me a hero and placed silent expectations on me during tough times, it always felt like a burden.
 
-“……”
+“......”
 
 Somehow, the word ‘hero’ doesn’t feel like a burden today. Of course, deep down, it’s still incredibly embarrassing.
 
 I know better than anyone that I’m not a hero.
 
-“……”
+“......”
 
 But still.
-Somehow…
+Somehow...
 
 It was difficult to put into words, given my habit of being straightforward..
 
@@ -112,14 +112,14 @@ Badump-Badump!
 
 It’s a feeling like I can do anything.
 
-“……”
+“......”
 
 A feeling that whatever I do, it’ll be okay.
 Unfortunately, that feeling didn’t last long.
 
-“Umm… Mister…? Are you awake…?”
+“Umm... Mister...? Are you awake...?”
 
-“…Ahem, ahem!”
+“...Ahem, ahem!”
 
 Whew, that was close.
 
@@ -129,19 +129,19 @@ My other allies began waking up one after another, starting with Erwin, so I pau
 
 And because of that, I couldn’t bring up the second record.
 
-[……… On the day….non’s burning, ………… the evil spirit ‘————’ … trusted… ally… betrayed…]
+[......... On the day....non’s burning, ............ the evil spirit ‘————’ ... trusted... ally... betrayed...]
 
-The day the Imperial Capital of Carnon burned… betrayed by a trusted ally.
+The day the Imperial Capital of Carnon burned... betrayed by a trusted ally.
 
 At least, that was how I interpreted what the record said.
 
-‘…Maybe it’s better not to tell her this one.’
+‘...Maybe it’s better not to tell her this one.’
 
 Though the timing was off today and I couldn’t say it, I also feel like it might be better if I were the only one who knew.
 
-For one, I don’t even know if my interpretation is correct…
+For one, I don’t even know if my interpretation is correct...
 
-And even if I am right… is it even possible to change something like this?
+And even if I am right... is it even possible to change something like this?
 
 The second record bothered me more than the first.
 
@@ -156,7 +156,7 @@ Besides, it was not the right time to tell her anyway. Ultimately, I decided to 
 
 After all, everything has a priority.
 
-“I think I ended up waking everybody up…”
+“I think I ended up waking everybody up...”
 
 Erwin woke up and caused a bit of a fuss over me being awake. Before I knew it, the rest of them had woken up too.
 
@@ -168,11 +168,11 @@ Erwin woke up and caused a bit of a fuss over me being awake. Before I knew it, 
 
 “I’m fine now. I was just a bit tired, so don’t worry, Kaislan.”
 
-“I am glad you are safe, Captain. The ladies… no, everyone was really worried about you.”
+“I am glad you are safe, Captain. The ladies... no, everyone was really worried about you.”
 
 “By the way, Auyen. You seem to have gained a bit of weight.”
 
-“I, is that so? I’m sorry…”
+“I, is that so? I’m sorry...”
 
 “Well, no need to apologize. You look much better now. Keep eating well.”
 
@@ -196,7 +196,7 @@ Perhaps it was due to the fact that both had previously served as commanders in 
 
 When I bowed, the group burst into laughter.
 
-“…Why are you laughing?”
+“...Why are you laughing?”
 
 Lyris Marone shrugged.
 
@@ -204,7 +204,7 @@ Lyris Marone shrugged.
 
 “That’s right! Everyone looked like they were on the verge of death!”
 
-“The mage engineer said you’d been fighting for hours straight…”
+“The mage engineer said you’d been fighting for hours straight...”
 
 “Bjorn is the invincible, strongest, greatest warrior!!”
 
@@ -216,13 +216,13 @@ After quieting everyone down once more, Versil spoke on their behalf.
 
 “You can stop now. There’s no need to apologize or thank us. It’s only natural.”
 
-Well… I appreciate you saying that, but.
+Well... I appreciate you saying that, but.
 
 “I’m not trying to apologize or give thanks.”
 
 Didn’t I already finish that? No need to do it again.
 
-“Huh? Then… Ah, are you going to have a meeting about what we’re going to do next?”
+“Huh? Then... Ah, are you going to have a meeting about what we’re going to do next?”
 
 Hmm, we do need to do that too, but.
 
@@ -230,11 +230,11 @@ Hmm, we do need to do that too, but.
 
 I don’t plan to start a meeting right now. These people came all the way outside the dangerous wall to find me, right? It’d be shameless to just let it pass with a few words.
 
-“Then what are you going to do…?”
+“Then what are you going to do...?”
 
 “Loot distribution.”
 
-“…?”
+“...?”
 
 “We picked up a lot this time! And I got even more on my own as well! I’ll lay them all out, take whatever you need!”
 
@@ -250,17 +250,17 @@ The loot distribution took longer than I expected, because most of what I had ob
 
 “Oh? Then me too!”
 
-“I also have a few things…”
+“I also have a few things...”
 
 It wasn’t just new loot; everyone started pulling out unused personal items too. By the time we finally finished sorting all the items, the place looked like a small market.
 
-“It’s kind of unique…”
+“It’s kind of unique...”
 
 “What is?”
 
 “All of this. What kind of clan has members fighting to add their own belongings to the pile like this? These are expensive pieces of gear that would sell for a lot.”
 
-Hmm… I don’t know. I’ve never been in a clan, but Versil had belonged to a fairly large one for quite some time, so it was only natural that this felt unusual to her.
+Hmm... I don’t know. I’ve never been in a clan, but Versil had belonged to a fairly large one for quite some time, so it was only natural that this felt unusual to her.
 
 “Ah, I suppose that is to be expected since we have a rather unusual captain.”
 
@@ -276,11 +276,11 @@ Then—
 
 Amelia returned to my side, picking up our earlier conversation.
 
-“For now… why don’t you look around for some items too?”
+“For now... why don’t you look around for some items too?”
 
 “After hearing what you said, you think I can focus on that?”
 
-…Fair point.
+...Fair point.
 
 “Do you have any theories? If three people are to die, it must be something incredibly dangerous. Unlike you, I still don’t know much about the outside.”
 
@@ -288,7 +288,7 @@ I wouldn’t exactly call it fortunate to remember, but when she asked me that q
 
 [A really, really terrifying monster.]
 The one Baek-ho had mentioned—the monster that appeared outside the walls.
-[I don’t think it has a habitat. No matter where you go, it always appears. Every time it appears, countless people die without being able to resist…]
+[I don’t think it has a habitat. No matter where you go, it always appears. Every time it appears, countless people die without being able to resist...]
 
 Aside from its sheer horror, I knew only one fact about it:
 

@@ -4,11 +4,11 @@ Creak, creak.
 
 I kept moving, slowly chewing on my jerky.
 
-A specially crafted high-calorie jerky supplied this morning.
+It was a specially crafted, high-calorie jerky ration issued that morning.
 
 If someone asks why I’m only eating breakfast now, the answer is simple.
 
-Because this was the last supply.
+Because this was our last ration.
 
 Creak, creak.
 
@@ -16,29 +16,29 @@ As of today, all our stored food has been exhausted.
 
 In other words, there will be no more food until we reach the 8th floor.
 
-But is that why?
+Maybe that was why.
 
 Creak, creak.
 
-Somehow, today’s jerky tastes several times better than usual—
+Somehow, today’s jerky tasted several times better than usual—
 
-“What the… why is it gone?”
+“What the... why is it gone?”
 
-While I was enjoying the taste of the jerky and feeling happy, I became angry when I realized that my hand was suddenly empty.
+I was savoring the jerky when I suddenly realized my hand was empty.
 
-“Already… finished it all?”
+“Already... finished it all?”
 
 Really? This is the last meal.
 
 And I feel so hungry I could die.
 
-No, seriously, people consume different amounts of calories, so why is the supply amount the same for everyone?
+No, seriously, people burn different amounts of energy, so why did everyone get the same ration?
 
 Growl—!
 
 This is discrimination, plain and simple.
 
-I mean, it makes no sense? Mages and priests probably have a lower metabolism, and all they have to do is wave their staffs from the back. But they still impose a “one-person, one-jerky” policy?
+I mean, it made no sense. Mages and priests probably burned less energy, and all they had to do was wave their staffs from the back. Yet we still had a strict “one person, one jerky” policy?
 
 This is an insult and contempt toward warriors fighting on the front lines.
 
@@ -54,9 +54,9 @@ But if I gave special treatment to the warriors, wouldn’t they accuse me of se
 
 So I decided to lead by example.
 
-‘Although… this policy feels like a failure.’
+‘Although... this policy feels like a failure.’
 
-I’ve managed to gain a neutral attitude from the other classes and outright hatred from the warriors.
+At best, I’d earned neutrality from the other classes and outright hatred from the warriors.
 
 Oh, how do I know that the warriors hate me?
 
@@ -70,15 +70,15 @@ Because I’m feeling that way right now.
 
 “Warriors usually laugh when times are tough.”
 
-“That’s… laughing?”
+“That’s... laughing?”
 
 Erwin, who had briefly stepped out of formation and came up beside me with a troubled expression on her face, smiled and handed me something.
 
-“Jer… ky…?”
+“Jer... ky...?”
 
 “Yep!”
 
-“You’re… giving it… to me?”
+“You’re... giving it... to me?”
 
 “Yes!”
 
@@ -92,15 +92,15 @@ I stared blankly as I accepted the jerky, snapping out of my daze moments later.
 
 Huh, smiling?
 
-While I was trying to figure out what she meant, Erwin summoned a water spirit to create a mirror. In it, I saw myself smiling like an idiot.
+While I tried to figure out what she meant, Erwin summoned a water spirit and formed a mirror. In it, I saw myself grinning like an idiot.
 
 “See? That’s a real smile! Hehe.”
 
-“…”
+“...”
 
 “Just eat it already. I’m fine, and everyone else is giving up their food to those who need it more.”
 
-“…What?”
+“...What?”
 
 What does that mean?
 
@@ -112,11 +112,11 @@ I looked puzzled, and Amelia, who had been following behind, answered.
 
 “She means after we entered the cave. There haven’t been any ice storms since then.”
 
-“Oh, right…”
+“Oh, right...”
 
-Maybe it’s because I’ve been so hungry? I couldn’t even think of something so simple.
+Maybe I was so hungry that I couldn’t even think of something that simple.
 
-Anyway, that’s not what’s important…
+Anyway, that’s not what’s important...
 
 “But is that true? Giving up scarce food to others?”
 
@@ -138,49 +138,49 @@ Anyway, it’s about time we took a break.
 
 As the priest activated ‘Evil Banishment’, turning the surroundings into a safe zone, the members lay down to recover their stamina.
 
-And then…
+And then...
 
 Step, step.
 
 Pretending to patrol, I moved to the back, observing the surroundings.
 
-To put it simply, Erwen’s words were true.
+To put it simply, Erwin’s words were true.
 
 “Excuse me, please take this.”
 
 Priests giving up food to warriors.
 
-And…
+And...
 
-“Jer… jerky? To me?”
+“Jer... jerky? To me?”
 
-A warrior, eyeing them with deep suspicion.
+One warrior eyed the priest with deep suspicion.
 
 “Yes. You look exhausted, don’t you?”
 
-“Are you… in love with me? If so, I can’t accept this jerky. I have a family back home—”
+“Are you... in love with me? If so, I can’t accept this jerky. I have a family back home—”
 
 “No, it’s not that, so relax.”
 
-“What? You’re giving me jerky even though you don’t love me…?”
+“What? You’re giving me jerky even though you don’t love me...?”
 
-Though the warriors were shocked, they accepted the jerky and began to eat it hungrily. Similar scenes were happening all around.
+Although the warriors were stunned, they accepted the jerky and devoured it. Similar scenes were unfolding all around us.
 
-“This debt… I swear I’ll repay it with my life one day!”
+“This debt... I swear I’ll repay it with my life one day!”
 
 Warriors everywhere were moved to tears over a single piece of jerky.
 
 Even I found it incredibly touching.
 
-“My policy… wasn’t a failure after all…”
+“My policy... wasn’t a failure after all...”
 
-The expedition, truly united and helping each other.
+The expedition was finally united, with everyone helping one another.
 
-“Shuiz? Did you just say something?”
+“Schuiz? Did you just say something?”
 
-“Oh, Jun… It’s nothing.”
+“Oh, Jun... It’s nothing.”
 
-“Yes. But what brings you here…? Does it have to do with stopping the expedition?”
+“Yes. But what brings you here...? Does it have to do with stopping the expedition?”
 
 In reality, I felt guilty about accepting Erwin’s jerky, so I came to check, but I nodded for now.
 
@@ -194,7 +194,7 @@ Yes, I have to maintain my dignity as the expedition leader.
 
 “They’re strong people. They’ve been through worse, so going without food for a day or so is nothing to them. Everyone knows this is inevitable.”
 
-“I see…”
+“I see...”
 
 Since I wasn’t actually curious, I nodded slightly and left.
 
@@ -208,23 +208,23 @@ After finishing the conversation with Jun, on the way back to the front where my
 
 “It’s something I was eating, but would you like some?”
 
-Familiar warriors greet me.
+Familiar warriors greeted me.
 
-It might be the biggest change since we executed Pike Neldaine.
+It might have been the biggest change since we executed Pike Neldain.
 
 No matter which team they belonged to, when a major battle erupted, we’d all pull out our shields and charge together, so camaraderie inevitably developed.
 
 And it wasn’t just the warriors I’d grown closer with.
 
-“…”
+“...”
 
-“…”
+“...”
 
 While some were still awkward around me, they now looked at me with a gentler gaze.
 
 When I think about how they used to glare and whisper every time I passed by, it’s truly moving.
 
-“Perhaps this is thanks to that Neldaine guy.”
+“Perhaps this is thanks to that Neldain guy.”
 
 Nothing unites a group like an external threat.
 
@@ -232,11 +232,11 @@ When his betrayal was exposed, all the arrows of resentment aimed at me turned t
 
 Moreover, it was I who uncovered it.
 
-Naturally, my evaluation had to improve—
+Naturally, their opinion of me had improved—
 
-“Schuiz, that person… I can’t tell if he’s smart or stupid, can you?”
+“Schuiz, that person... I can’t tell if he’s smart or stupid, can you?”
 
-“I heard he once suggested eating monster meat and got scolded by his team…”
+“I heard he once suggested eating monster meat and got scolded by his team...”
 
 “He seems eccentric but not exactly foolish. After all, he did identify that traitor.”
 
@@ -248,7 +248,7 @@ I wondered if I should suppress them immediately, but I changed my mind when I h
 
 “But having capable subordinates is also a leader’s ability. Besides, isn’t he a decent person?”
 
-“That’s… true. I haven’t talked to him much, but he seems kind.”
+“That’s... true. I haven’t talked to him much, but he seems kind.”
 
 “If he were just in it for power, he’d never take on all the dirty work himself.”
 
@@ -264,7 +264,7 @@ Pretending not to hear their conversation, I arrived where my team was, and the 
 
 “Then hurry up and eat. Okay? Don’t feel burdened; everyone is doing it.”
 
-“Oh, that… I already ate on the way.”
+“Oh, that... I already ate on the way.”
 
 “Hehe, good! I’m the best, right?”
 
@@ -276,21 +276,19 @@ As I was doing that, Amelia approached.
 
 “Are you thinking why the light vanished?”
 
-“Oh, yeah…”
+“Oh, yeah...”
 
 No. 6111, Fate Tracker.
 
-This ring, which I called the traffic light ring had lost its glow.
-
-About four days ago.
+The ring I called the traffic-light ring had gone dark about four days ago.
 
 “It’s certainly strange. A detected fate wouldn’t just disappear without reason.”
 
 “That’s what I’m saying.”
 
-No matter how I think about it, it’s a very strange matter.
+No matter how I looked at it, the whole thing was strange.
 
-It’s not like anything particularly good or bad happened recently…
+It’s not like anything particularly good or bad happened recently...
 
 “By the way, Schuiz, it’s about time.”
 
@@ -304,7 +302,7 @@ As I said that and was stretching my stiff body, I saw the Dragon Tribe woman mu
 
 “Ashid gave it to me?”
 
-“Ashid… gave it to you?”
+“Ashid... gave it to you?”
 
 Wondering if she might have taken it by force, I turned my head to check, and Ashid chuckled.
 
@@ -314,9 +312,9 @@ Wondering if she might have taken it by force, I turned my head to check, and As
 
 “Haha, it’s in times like these that we should help each other out. Besides, if Miss Ravien is solidly at the front, I’ll be safer too.”
 
-“Well, if that’s the case…”
+“Well, if that’s the case...”
 
-Since she didn’t take it forcibly, I couldn’t say more, but I felt uneasy.
+Since she hadn’t taken it by force, I couldn’t say anything more, though I still felt uneasy.
 
 No way, does he like her?
 
@@ -328,13 +326,13 @@ Yes, considering their age difference.
 
 Day 20 since entering Ice Rock.
 
-We finally reached the end point of Ice Rock.
+We finally reached the endpoint of Ice Rock.
 
 “I didn’t expect to arrive exactly on the 20th day.”
 
 When making the plan, we had estimated 20 days to traverse Ice Rock.
 
-Even after multiple setbacks and pushing our pace to the limit, we arrived on the exact date.
+Despite multiple setbacks and pushing our pace to the limit, we arrived on the exact date.
 
 “Maybe the plan was too tight from the start.”
 
@@ -350,23 +348,23 @@ But at that time, I only saw it on paper.
 
 An expedition team with exceptional hunting speed but somewhat lacking in safety and mobility.
 
-Well, since it was an expedition created with war, not exploration, as the goal, it was natural.
+Well, since the expedition had been assembled for war rather than exploration, that was only natural.
 
 “Sir, what are you thinking so deeply about?”
 
-“…Oh, nothing.”
+“...Oh, nothing.”
 
 I shook off my thoughts and surveyed the surroundings.
 
-At the lowest point of the glacier eye was a symbol resembling a human eye.
+At the lowest point of the Glacier Eye was a symbol resembling a human eye.
 
 “Alright, everyone, calm down and wait! We’ll be drawing lots for the order!”
 
 We just had to take the portal to ascend to the 8th floor, but the expedition’s atmosphere was chaotic.
 
-This is “Ice Rock,” a harsh place that no one else dared venture.
+This was Ice Rock, a harsh place that few dared to traverse.
 
-Meaning, we’re the first to arrive.
+Which meant we were the first to arrive.
 
 “How will we decide the order?”
 
@@ -382,7 +380,7 @@ Accordingly, only six people can gain the first portal activation experience.
 
 Therefore, we decided to draw lots fairly.
 
-Regardless of position or merit like team leader or expedition leader, just pure luck
+Regardless of rank or contribution—team leader or expedition leader—it came down to pure luck.
 
 “Ugh! Dammit! Why’s mine blank?!”
 
@@ -390,9 +388,9 @@ Regardless of position or merit like team leader or expedition leader, just pure
 
 “Wowww! Opening the 8th floor! I never thought such a day would come!”
 
-Cheers and groans erupt with each draw from the lineup.
+Cheers and groans erupted with each draw.
 
-As I watched that scene from the very back.
+I watched the scene from the very back of the line.
 
 “Don’t you feel regret?”
 
@@ -406,11 +404,11 @@ Ravien came next to me and said that.
 
 Actually, we discussed it among the team leaders.
 
-They suggested that we should gain the experience ourselves and draw lots for the remaining spot.
+They had suggested that the team leaders claim the activation EXP themselves and draw lots only for the remaining spot.
 
-For reference, Kaislan went even further, saying that instead of drawing lots for the remaining spot, it should be awarded to the person who made the greatest contribution. That’s how he said subordinates should be managed.
+Kaislan had gone even further, saying the final spot should go to whoever had contributed the most rather than be decided by lot. According to him, that was how subordinates should be managed.
 
-“…Excuse me, are you listening to me?”
+“...Excuse me, are you listening to me?”
 
 “Ah, yes, I’m listening.”
 
@@ -432,7 +430,7 @@ Amelia, who drew her lot before me, clicked her tongue and tapped me on the shou
 
 “One.”
 
-I see…
+I see...
 
 I turned my head just enough to check the number of people remaining behind me with my eyes.
 
@@ -440,7 +438,7 @@ I turned my head just enough to check the number of people remaining behind me w
 
 In other words, a one-in-four chance.
 
-And…
+And...
 
 ‘Hans isn’t among them.’
 
@@ -448,7 +446,7 @@ All signs of luck are pushing me forward.
 
 Swoooosh—
 
-A cold gust descends from above, sweeps the ground, and rises again.
+A cold gust descended from above, swept across the ground, and rose again.
 
 Swish.
 
@@ -470,7 +468,7 @@ Now it’s time to test my luck.
 
 I let out a manly shout and drew a ticket.
 
-And…
+And...
 
 “Too bad. It’s a blank.”
 
@@ -478,7 +476,7 @@ So it doesn’t work after all.
 
 Ha, maybe it’s because there’s no BGM (background music)?
 
-Usually, it’s a rule to play some when doing this kind of thing.
+Usually, scenes like this need some BGM.
 
 Step, step.
 
@@ -494,7 +492,7 @@ No way she’s actually going to draw it—
 
 Wow, she actually drew it?
 
-‘If only I had drawn one turn later…’
+‘If only I had drawn one turn later...’
 
 I felt a pang of envy.
 
@@ -504,31 +502,31 @@ I felt a pang of envy.
 
 “Really?”
 
-After a brief conversation with Kaislan, Rabien turned around without hesitation, approached me, and then…
+After a brief conversation with Kaislan, Ravien turned around without hesitation, approached me, and then...
 
 “Here, take it.”
 
 She suddenly held out the ticket.
 
-“……?”
+“......?”
 
 I couldn’t understand at all.
 
 Didn’t she even join us at the 6th floor separately, saying she had to speedrun?
 
-She must have been in a situation where she urgently needed experience…
+She had been so desperate for EXP that she’d even insisted on speedrunning alone...
 
-“Why are you giving this to me…?”
+“Why are you giving this to me...?”
 
 “No matter how I think about it, I don’t think this belongs to me.”
 
-“…What?”
+“...What?”
 
-As I tilted my head in confusion, Raven replied in an awkward voice.
+As I tilted my head in confusion, Ravien replied in an awkward voice.
 
 “I’ve been beside you all along, so I know. You worked the hardest.”
 
-What is this…
+What is this...
 
 “Whistleee!”
 
@@ -542,8 +540,8 @@ What is this…
 
 “Enough, just accept it! As explorers, you should seize opportunities when you can!”
 
-Deep underground, where the wind chill is enough to make your breath freeze.
+Deep underground, where the wind chill was enough to freeze my breath, one thought rose unexpectedly.
 
-‘It feels… warm.’
+‘It feels... warm.’
 
 For some reason, I felt like crying.

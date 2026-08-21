@@ -1,62 +1,62 @@
-Barbarian Revolution (2)
+Barbarian Revolution (3)
 
-When people come together, they form an organisation.
+When people come together, they form an organization.
 
 Even if it’s just four people.
 
-Once I got the four administrative clerks together and started dumping the backlog of work on them, they divided up the tasks according to their specialities.
+Once I gathered the four administrative clerks and dumped the backlog of work on them, they divided the tasks according to their specialties.
 
-Of course, Shabin Emoor played a significant role.
+Of course, Shabin Emure played a significant role.
 
 “Mary, you’ll be in charge of organizing and calculating the data from now on. Start with the old records left by the previous elders.”
 
-“W-Will I be able to manage that? The materials don’t even have a proper format, and the writing is so hard to read…”
+“W-Will I be able to manage that? The materials don’t even have a proper format, and the writing is so hard to read...”
 
 “You can do it. I’ll help you a lot.”
 
-“Yes…”
+“Yes...”
 
 Mary Jane, in charge of statistics and information.
 
 “Mr. Ramden, please prepare for the coming-of-age ceremony that will take place in two days.”
 
-“Th-The coming-of-age ceremony…?”
+“Th-The coming-of-age ceremony...?”
 
 “It’s an unfamiliar task, but since it’s a small-scale event, I’m sure you can manage. If you have questions or need help, ask Miss Pheneline. Miss Pheneline, you’ll help him, right?”
 
 “Ah, ah! Of course! Trust me!”
 
-“…And after the coming-of-age ceremony is over, what shall I do?”
+“...And after the coming-of-age ceremony is over, what shall I do?”
 
 “Once the statistics are ready, please draft the budget. Not on a yearly basis, but monthly.”
 
-“…Understood.”
+“...Understood.”
 
 Shepherd Ramden, responsible for financial planning and management.
 
 “Mr. Anderson, you know what to do, right?”
 
-“Yes… You mean the land…”
+“Yes... You mean the land...”
 
 “There’s nothing prepared yet. First, go to the forest and start surveying. You’ll need to reserve land for future roads and, oh! Make sure to leave space for land where children can grow up. We need to build new childcare facilities.”
 
-“…This is practically urban planning! Is it really okay for me to take on something so important?”
+“...This is practically urban planning! Is it really okay for me to take on something so important?”
 
 “I’m giving you the authority, so what’s there to stop you? Besides, I’m not asking you to manage the entire sanctuary right now. You’re going to start selling the outskirts first, so just focus on that for now.”
 
-“…I’ll give it a try.”
+“...I’ll give it a try.”
 
 Rick Anderson, road transport and urban development manager.
 
 “For now, we’re just dividing the workload among ourselves, but once new personnel join, each of you will become the head of a fully functioning department.”
 
-And of course, Shabin Emoor would become the Chief.
+And of course, Shabin Emure would become the chief administrator.
 
-Ah, so that’s where her remarkable drive came from?
+Ah, so that was where her remarkable drive came from?
 
-I’m not entirely sure, but her knack for leadership really struck me. Not only did she manage to restructure the organization from scratch in no time, but she even motivated everyone in the process?
+I’m not entirely sure, but her knack for leadership really struck me. Not only had she managed to restructure the organization from scratch in no time, she’d even motivated everyone in the process.
 
-‘She’s far more capable than I ever imagined…’
+‘She’s far more capable than I ever imagined...’
 
 ‘I thought she was just a lady who loved dessert shops.’
 
@@ -64,31 +64,31 @@ Who would’ve thought she had this side to her?
 
 I was observing with my very own eyes the birth of the Barbarian tribe’s administrative body.
 
-“Excuse me…”
+“Excuse me...”
 
 Statistician Mary Jane timidly raised her hand.
 
-“When do we get off work…?”
+“When do we get off work...?”
 
 Instead of answering, Shabin glanced at me.
 
 I suppose that much at least was out of her hands.
 
-Since starting today, working hours were practically as good as gold, I quickly gave an answer.
+Since every hour mattered right now, I quickly gave an answer.
 
 “Why would you go home?”
 
-“…Pardon?”
+“...Pardon?”
 
 “Are you fools? If you work at night, your pay doubles!”
 
-“…?”
+“...?”
 
-The administrative staff, unable to comprehend my words, froze like a stone, so Shabin Emoor elaborated my point.
+The administrative staff, unable to comprehend my words, froze like a stone, so Shabin Emure elaborated my point.
 
 “It’s a busy period. We’ve all worked overtime before. Fortunately, the salary is adjusted to the amount of work, so let’s all work hard for now. We’ve all rested enough, so being busy isn’t so bad, right?”
 
-“…Yes.”
+“...Yes.”
 
 ---
 
@@ -96,11 +96,11 @@ Once the administrative staff began their work, I headed to the former tribe chi
 
 There was something I hadn’t asked him last time.
 
-“Jandel’s son, Bjo—”
+“Bjorn, son of Jandel—”
 
 “It’s ‘Chief.’”
 
-“…Right, Chief. What do you want?”
+“...Right, Chief. What do you want?”
 
 I went straight to the point.
 
@@ -116,15 +116,15 @@ I only recently learned his real name.
 
 Up until then, I hadn’t bothered looking into him, since I thought he was just some deceased figure.
 
-“…So what do you want to know?”
+“...So what do you want to know?”
 
-“Everything about the Balkan.”
+“Everything about Balkan.”
 
 “This is going to be a long story. Sit or lie down, whichever you want.”
 
 Despite sighing in annoyance, the chief diligently answered my question.
 
-“When I had just had my coming-of-age ceremony, Balkan was already a famous warrior within the tribe. Honestly, the tribe didn’t interest me much, but since he was the strongest…”
+“When I had just had my coming-of-age ceremony, Balkan was already a famous warrior within the tribe. Honestly, the tribe didn’t interest me much, but since he was the strongest...”
 
 “How strong was he?”
 
@@ -136,7 +136,7 @@ Well, with a description like that, he might have even been stronger than I am c
 
 “Weren’t a lot of people that way back then?”
 
-“Hahaha! Yes, That era was incredible! Back then, there were hundreds of explorers who ventured beyond the eighth floor to the ninth. All six races advanced toward the abyss in competition, and it was common to pass on the genesis relics to the frontline warriors. Balkan was one of those warriors.”
+“Hahaha! Yes, that era was incredible! Back then, there were hundreds of explorers who ventured beyond the eighth floor to the ninth. All six races competed to advance toward the Abyss, and it was common to pass the Genesis Relics to frontline warriors. Balkan was one of them.”
 
 The golden generation that is often mentioned by older explorers.
 
@@ -154,43 +154,43 @@ That’s probably why she still demands the truth about the dimensional collapse
 
 “No one knows. He and his comrades went into the Labyrinth and never returned.”
 
-“I see. Since our genesis relic reappeared in the tribe when he disappeared, no one suspected anything.”
+“I see. Since our Genesis Relic reappeared in the tribe when he disappeared, no one suspected anything.”
 
 “Do you think he might still be alive?”
 
-“He might have ended up in a situation similar to mine.” I suggested the idea
+“He might have ended up in a situation similar to mine,” I suggested.
 
-“Puhaha! Doubt is the warrior’s gift”
+“Puhaha! Doubt is a warrior’s gift.”
 
 The former chief seemed to sense that my opinion was far-fetched, but he didn’t criticise me or try to change my mind.
 
-“Anyway, I’ve heard that the Genesis relic that came back then wasn’t just to our tribe.
+“Anyway, I’ve heard that the Genesis Relic that came back then didn’t return only to our tribe.”
 
-“Huh… Didn’t expect you to know that. Nobility really is something.”
+“Huh... Didn’t expect you to know that. Nobility really is something.”
 
-‘Though it was Lee baek-ho who told me, I didn’t bother explaining.’
+‘Though it was Lee Baek-ho who told me, I didn’t bother explaining that.’
 
 I asked again.
 
 “Which tribes were they?”
 
-“To my knowledge, the fairies and the Dwarves.”
+“To my knowledge, the fairies and the dwarves.”
 
-“I see…”
+“I see...”
 
-Next, I asked if he knew anything about the Genesis relics that was stolen from all six races on the day of my coming-of-age ceremony. Unfortunately, I didn’t get the answer I wanted.
+Next, I asked if he knew anything about the Genesis Relics stolen from all six races on the day of my coming-of-age ceremony. Unfortunately, I didn’t get the answer I wanted.
 
-“I can’t say for sure, From what I know, nobody has any idea where the genesis relics are.”
+“I can’t say for sure. From what I know, nobody has any idea where the Genesis Relics are.”
 
 Hmm, I was hoping he might know more.
 
-“Ah! Now that you mention it, I should tell you. There was something interesting related to the genesis relics.”
+“Ah! Now that you mention it, I should tell you. There was something interesting related to the Genesis Relics.”
 
 “Something interesting?”
 
-“While the old chief was away, someone left a letter. It predicted that a ‘Holy Relic War’ would occur in the future and that someone would steal the genesis relics on the first day of the third month, Year 153.”
+“While the old chief was away, someone left a letter. It predicted that a ‘Holy Relic War’ would occur in the future and that someone would steal the Genesis Relics on the first day of the third month, Year 153.”
 
-Ah… that……
+Ah... that......
 
 I cringed as the former chief continued excitedly.
 
@@ -200,7 +200,7 @@ I wasn’t sure about the shaman, but since the topic came up, I also asked what
 
 “But if you received such a letter, how did it happen?”
 
-At first, I thought they ignored the letter, and that’s why it happened. However, it turns out the Barbarians were well aware of the letter.
+At first, I thought they had ignored the letter and that was why it happened. However, it turned out the Barbarians had been well aware of it.
 
 “So what was the cause?”
 
@@ -222,19 +222,19 @@ It made sense that they didn’t believe it until the war happened.
 
 Right, that’s fair.
 
-After that, I asked what kind of preparations they’d made to prevent the Changsé Bogu theft, and the chieftain described them in detail.
+After that, I asked what preparations they’d made to prevent the theft of Changsé Bogu, and the former chief described them in detail.
 
 ‘So they really tried hard. I honestly didn’t sense any of that on the day of my coming-of-age ceremony.’
 
 What on earth happened that day?
 
-Now that I’m the chief, I really need to investigate this properly. If I can get hold of the Genesis Relic, that’ll give me some leverage when dealing with Lee Baek-ho.
+Now that I was chief, I really needed to investigate this properly. If I could get hold of the Genesis Relic, it would give me some leverage when dealing with Lee Baek-ho.
 
 “By the way, that letter—does it still exist? I’d like to see it for myself.”
 
 “Not sure. I heard the old chief had it, but it never passed on to me. He must’ve lost it somewhere.”
 
-“I see…”
+“I see...”
 
 And so, the conversation about the letter from my own past ended. I asked my final question.
 
@@ -242,7 +242,7 @@ And so, the conversation about the letter from my own past ended. I asked my fin
 
 “Ah, the old shaman fell ill during a soul-calling ritual. He’s been bedridden ever since.”
 
-“Bedridden…?”
+“Bedridden...?”
 
 “More like a coma. He’s alive, but not aware of anything. I figured there was no hope and wanted to end him, but his apprentice insisted he might wake up one day and begged me to let him live. So I let him.”
 
@@ -264,17 +264,17 @@ I walked toward the bed where the old shaman lay like a corpse.
 
 And at that moment.
 
-“…Chief?!”
+“...Chief?!”
 
 His apprentice, whom I had met once before, came in, pushing aside the tent flap, and nearly had a heart attack upon seeing me.
 
 “N-No, please! I have so much to learn from him so you can’t just kill him for wasting food! I’m working hard to earn our keep!!”
 
-Uh…
+Uh...
 
 I had just stopped by to check in.
 
-“Please… Even if he’s a dying old man, he’s a precious teacher to me…!”
+“Please... Even if he’s a dying old man, he’s a precious teacher to me...!”
 
 Ultimately, I had no choice but to leave the tent as if being chased away.
 
@@ -284,17 +284,17 @@ Although Shabin’s administrative corps gave me a breather, I still had to keep
 
 After all, I’m the owner of the Jandel Baron Estate, the leader of the Anabada Clan, and the chief of the Barbarian tribe.
 
-I had to prepare for an expedition, clear tribal quests, and even got scolded by Amelia for barely coming home.
+I had to prepare for an expedition, clear tribal quests, and even endure Amelia scolding me for barely coming home.
 
-‘Next month will probably be busier than this one…’
+‘Next month will probably be busier than this one...’
 
 Next month, I would have to attend the assembly of the mixed-race nobility in Melbes and officially start selling land in the sanctuary.
 
-‘At least it’s fortunate that Melbes is scheduling the assembly after the labyrinth closes’
+‘At least it’s fortunate that Melbes scheduled the assembly for after the Labyrinth closes.’
 
 If the meeting had been this month, I would have had to skip a day in the middle of all this to attend.
 
-“Hoo…”
+“Hoo...”
 
 Just thinking about all the daily tasks piling up was a bit depressing, but oh well—what can I do? I can’t exactly ignore my daily quests.
 
@@ -314,17 +314,17 @@ Fwoosh—!
 
 A clearing in the middle of a dense forest.
 
-There were no LED streetlights to light up the dark night, only the flickering glow of torches. Whichever direction you looked—north, south, east, or west—was teeming with burly, muscle-bound barbarians. And at that place…
+There were no streetlights illuminating the dark night, only the flickering glow of torches. Whichever direction you looked—north, south, east, or west—was teeming with burly, muscle-bound barbarians. And at that place...
 
 Step.
-This is the very place where I first opened my eyes in this world.
+This was the very place where I first opened my eyes in this world.
 Step.
 
-As I walk into the clearing filled with an array of weapons, the young warriors’ gazes turn toward me. Their eyes hover somewhere between excitement and nervousness.
+As I walked into the clearing filled with an array of weapons, the young warriors’ gazes turned toward me. Their eyes hovered somewhere between excitement and nervousness.
 
-…Something feels odd.
+...Something feels odd.
 
-After giving the young warriors a quick once-over, I shout with all my might:
+After giving the young warriors a quick once-over, I shouted with all my might:
 
 “Congratulations, young warriors!”
 
@@ -340,22 +340,22 @@ Ah, but there is one extra line compared to last time:
 
 “You’ll each receive leather boots and two potions as standard issue!”
 
-Because it’s time to step into a new era.
+Because it was time to step into a new era.
 
 “Bethel—raaaaaaaa!!!”
 
-The young warriors erupt in cheers, clearly pleased with the new welfare system that starts with this batch. I didn’t plan it that way, but thanks to their uproar, I spotted it right away:
+The young warriors erupted in cheers, clearly pleased with the new welfare system beginning with their generation. I didn’t plan it that way, but thanks to their uproar, I spotted it right away:
 
 In the midst of everyone shouting—
 
-“…”
+“...”
 
 —a warrior whose eyes dart around, his face stiff with tension.
 
 Slurp.
 
-The moment I lay eyes on him, I can’t help licking my lips.
+The moment I laid eyes on him, I couldn’t help licking my lips.
 
-This one’s a hundred percent…
+This one’s a hundred percent...
 
 A newbie.

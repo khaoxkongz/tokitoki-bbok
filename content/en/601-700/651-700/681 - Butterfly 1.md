@@ -8,7 +8,7 @@ The boat cut slowly through the starlit waves.
 
 “Ugh, how many times do I have to explain before you remember?”
 
-“……”
+“......”
 
 The calm on the boat made it hard to believe we’d been fighting for our lives just moments ago.
 
@@ -20,7 +20,7 @@ After recharging his MP, the GM came over to ask how I was doing and tried to st
 
 “Hahaha! I knew you’d get back on your feet! There’s no way an Immortal Giant would die in a place like this!”
 
-“Immortal Giant…?”
+“Immortal Giant...?”
 
 “Ah! That’s the new title I just made up for you! Isn’t it great? Really suits you, doesn’t it?”
 
@@ -42,9 +42,9 @@ I didn’t need to ask what he meant by “two people. Priestess Jayna and Ruin 
 
 “Baekho, are we continuing the search as planned?”
 
-“Well… no idea. Ask the baron over there—our new, super cool leader.”
+“Well... no idea. Ask the baron over there—our new, super cool leader.”
 
-“Leader… what does that mean?”
+“Leader... what does that mean?”
 
 “Forget it, just ask the Baron.”
 
@@ -52,13 +52,13 @@ I didn’t need to ask what he meant by “two people. Priestess Jayna and Ruin 
 
 “Huh? What did you say?”
 
-“…Nothing.”
+“...Nothing.”
 
 The archer, who had been complaining about Lee Baek-ho’s nonsense, quickly changed the subject and came over to me.
 
 “So what will you do, Baron? Are we continuing the search of Dreaming Waterfalls as planned?”
 
-Hmm…
+Hmm...
 
 It was something I’d been thinking about.
 
@@ -66,7 +66,7 @@ Alright, I’ve decided.
 
 “We’ll postpone Dreaming Waterfalls for now and search Dragonbone Mountain first.”
 
-“Dragonbone Mountain, huh…”
+“Dragonbone Mountain, huh...”
 
 The archer thought for a moment, then nodded.
 
@@ -84,9 +84,9 @@ Anyway, once the destination was set, things went smoothly.
 
 We steered towards Dragonbone Mountain, and since we were moving slowly, no monsters appeared nearby.
 
-But…
+But...
 
-“…Huh?”
+“...Huh?”
 
 There were some close calls in the middle of the trip.
 
@@ -98,15 +98,15 @@ What is the probability of this?
 
 I couldn’t help but feel uneasy. It was unusual for more than half of the party to fall asleep at once in the Dreaming Waterfalls.
 
-Was this… an omen of misfortune?
+Was this... an omen of misfortune?
 
 Staying alert, I carefully guided the boat forward.
 
-“……”
+“......”
 
 Ah, this is so awkward.
 
-“……”
+“......”
 
 The silence was so suffocating I almost wished a monster would pop out just to break it.
 
@@ -130,7 +130,7 @@ When I asked again, the old man looked down at the starlit waves below the raili
 
 ‘There are many kinds of power in this world: magic, divine power and mana. But beyond those, emotions such as anger and love can also serve as sources of power and thus be called ‘resources’.”
 
-“…So?”
+“...So?”
 
 “Fate is hard to define precisely, but I believe it’s one of those powers. A force that wears down the more you use it.”
 
@@ -150,7 +150,7 @@ I listened quietly, but it sounded like one of those pseudo-religious seminars.
 
 When I brought the conversation back to the main point, Ruin Scholar finally answered the question that had been bothering me.
 
-“Erwin Fornacci di Tercia, was it…”
+“Erwin Fornacci di Tercia, was it...”
 
 “Yeah, what did you mean by what you s
 aid to her?”
@@ -169,11 +169,11 @@ With that, Ruin Gramps took his eyes off below the railing and looked at me.
 
 “Unlike you.”
 
-“……?”
+“......?”
 
 “With the scale of fate you possess, you can do anything, become anything. Even becoming the king of this city is not an impossible task for you.”
 
-“……”
+“......”
 
 “Of course, this is assuming you can coexist with that fate that pulls you so intensely.”
 
@@ -183,7 +183,7 @@ When I tilted my head and asked, Ruin Grandpa let out a hearty laugh.
 
 “Heheh, don’t you know? That you are fated to open the Abyss Gate someday. No matter how grand your fate is, you cannot change the ‘Record’. Well, you’d know better since you experienced it yourself.”
 
-Experienced it myself…
+Experienced it myself...
 
 It seemed Ruin Gramps also knew about my trip to the era 20 years ago.
 
@@ -191,7 +191,7 @@ It seemed Ruin Gramps also knew about my trip to the era 20 years ago.
 
 Everyone, including Baekho, was still fast asleep—no sign of waking soon.
 
-Which meant…
+Which meant...
 
 “Velvev Ruinzenes.”
 
@@ -207,7 +207,7 @@ But—
 
 “Oh, come on. You think I don’t know you’re trying to use me for something?”
 
-“Hmm… I can’t speak for Baekho’s intentions, but I have no plans to use you. I travel with him because our goals happen to align.”
+“Hmm... I can’t speak for Baekho’s intentions, but I have no plans to use you. I travel with him because our goals happen to align.”
 
 “And what goal would that be?”
 
@@ -215,13 +215,13 @@ He could’ve easily stayed silent, yet his honest answer earned a sliver of my 
 
 “To return to our original world without opening the Gate of the Abyss. Baekho calls it Plan B.”
 
-“Ah…”
+“Ah...”
 
 Lee Baek-ho had mentioned Plan B before.
 
 But hearing this, it really seemed like Ruin Gramps had no interest in me and was only focused on Plan B.
 
-“Returning without the Abyss Gate… is that really possible?”
+“Returning without the Abyss Gate... is that really possible?”
 
 He answered instantly.
 
@@ -231,7 +231,7 @@ He answered instantly.
 
 “I haven’t tried it yet. There’s still much preparation to be done. That’s why I’m working with Baekho.”
 
-“…I see.”
+“...I see.”
 
 “Anyway, believe it or not, I truly have no hidden motive involving you—unless my own method fails, of course.”
 
@@ -251,13 +251,13 @@ More accurately, he was an evil spirit from the previous generation. They were f
 
 “Ruingenes, what was the world you lived in like?”
 
-“The world I lived in……”
+“The world I lived in......”
 
 Ruin Gramps stared off into the distance, thinking over the question, before giving me an answer I hadn’t seen coming.
 
 “I don’t remember. I was summoned to this world when I was very young.”
 
-“…What?”
+“...What?”
 
 “I found a book in a dark cave and read it every day. The only things I properly remember now are those scenes.”
 
@@ -283,9 +283,9 @@ At my curious question, he smirked.
 
 “Let me ask you instead—why are you so unwilling to go back?”
 
-Well…
+Well...
 
-“…Because I like this world better?”
+“...Because I like this world better?”
 
 I might have skipped over many reasons, but that was the truth.
 
@@ -303,7 +303,7 @@ How could a world like that possibly exist?
 
 I couldn’t feel a trace of emotion in his eyes or his voice. What had happened to him?
 
-“Ugh……”
+“Ugh......”
 
 “It seems they’re starting to wake up”
 

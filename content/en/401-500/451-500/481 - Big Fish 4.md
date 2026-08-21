@@ -1,89 +1,89 @@
 The Big Fish (4)
 
-There were six of those bastards, spying on our raid like perverts, they had split up and scattered around the monument, surrounding us…
+There were six of those bastards spying on our raid. They had split up and scattered around the monument, surrounding us...
 
-…All right, it’s starting now.
+...All right, it’s starting now.
 
-From this point on, there’s only one goal.
+From this point on, there was only one goal.
 
-To find evidence that these bastards tried to interfere. Better yet, obtain proof that Count Alminas is backing them.
+Find evidence that these bastards tried to interfere. Better yet, obtain proof that Count Alminas was backing them.
 
 Right after Erwin announced that they were beginning to move, a thick white smoke filled the cave.
 
-「The character is within the range of [Veil of Betrayal].」
+[The character is within the range of [Veil of Betrayal].]
 
 The aura skill of the third phase.
 
 Its effect is simple.
 
-「The character’s mental stat continuously decreases.」
+[The character’s Mental stat continuously decreases.]
 
-「The character’s energy stat continuously decreases.」
+[The character’s Energy stat continuously decreases.]
 
-「The character’s physical stat continuously decreases.」
+[The character’s Physical stat continuously decreases.]
 
-「All stat reductions are amplified by 50%.」
+[All stat reductions are amplified by 50%.]
 
-「Dreadfear’s rage stat increases in proportion to the decreased stats.」
+[Dreadfear’s Rage increases in proportion to the reduced stats.]
 
 Building on the debuffs from the second phase, new lines appeared:
 
-「All characters enter stealth.」
+[All characters enter stealth.]
 
 All characters within the aura become stealthed and cannot see each other.
 
-「All communication is severed.」
+[All communication is severed.]
 
-And…
+And...
 
-「Attacks on non-monster targets deal 5x damage and ignore all resistances.」
+[Attacks on non-monster targets deal 5× damage and ignore all resistances.]
 
 The risk of friendly fire.
 
 [Kyaaaaaah-!]
 
-Because of this one aura skill, normal team play becomes impossible in the third phase.
+Because of this single aura skill, normal teamwork became impossible in Phase 3.
 
-How can you raid when you can’t see each other?
+How were you supposed to raid when you couldn’t even see each other?
 
 If you fire off an attack skill and hit a teammate, it’s a huge disaster.
 
-Therefore…
+Therefore...
 
 Tap.
 
-The strategy for Phase 3 became brutally simple.
+The standard Phase 3 strategy was brutally simple.
 
 “BETEEHELLLL—RAAAAAAH!”
 
-I let out a scream that no one can hear and charge at Dreadfear.
+I let out a scream no one could hear and charged at Dreadfear.
 
-After all, while we can’t see each other, that doesn’t mean this bastard is stealthed as well.
+After all, just because we couldn’t see each other didn’t mean Dreadfear was stealthed.
 
-The tanks hold their pre-determined positions, and the priests pour out area heals like crazy, holding out until the aura effect ends.
+Normally, the tanks held predetermined positions while the priests spammed area heals until the aura ended.
 
 This is the standard strategy.
 
-Well, our team has no Priests and only one tank, but…
+Well, our team has no Priests and only one tank, but...
 
 ‘But the best thing about the Shield-Barbarian character is that I can handle a solo tank’s share of work even without a healer.’
 
-If you can manage solo tanking, this pattern is doable alone. Surprisingly enough, there’s an upside to that:
+If you could handle solo tanking, the pattern was manageable even with one tank. Surprisingly enough, there’s an upside to that:
 
-「Dreadfear, the Lord of Terror, has cast [Indulgence].」
+[The Lord of Terror, Dreadfear, has cast [Indulgence].]
 
-「The character is moved to a random location.」
+[The character has been moved to a random location.]
 
 Even if he pulls this trick, I can quickly run to the new location and hold it again.
-Fewer tanks meant fewer mistakes…
+Fewer tanks meant fewer mistakes...
 
 ‘Are the others doing well?’
 
-While I was dealing with the dread fear, they would go and deal with the bastards who were trying to cause trouble.
+While I dealt with Dreadfear, the others would handle the bastards trying to interfere.
 
 What would be their plan of action in the third phase?
 
-Obviously they would take advantage of the fog to cause trouble, and the most likely target would be me, since the tank’s location was pretty much a given.
+Obviously, they would take advantage of the fog to cause trouble, and I was the most likely target because the tank’s position was predictable.
 
 ‘But since I haven’t heard anything yet, they’re probably doing okay, right?’
 
@@ -91,17 +91,17 @@ The thought crossed my mind, but it wouldn’t be wise to let my guard down.
 
 I’d be able to see how they were doing soon enough anyway.
 
-I focused on confronting Dread Fear.
+I focused on Dreadfear.
 
-Solo tanking is theoretically possible, but the process is by no means easy.
+Solo tanking was theoretically possible, but by no means easy.
 
-Even if he’s considered the weakest, he’s still a Floor Lord.
+Even if it was considered the weakest, it was still a Floor Lord.
 
 And a rare growth-type at that.
 
-「The character’s mental stat reduction has reached its maximum.」
+[The character’s Mental stat reduction has reached its maximum.]
 
-「The status ailment ‘Fear’ has been applied.」
+[The status ailment [Fear] has been applied.]
 
 As exposure to the aura dragged on, the first debuff hit.
 
@@ -111,55 +111,55 @@ My heart was pounding like crazy.
 
 A shiver ran down my spine as if I’d encountered a natural predator, the stress gnawing at my brain.
 
-Still, compared to Erwin, my mental stats are relatively high, so I won’t lose my mind and run away or anything.
+Still, my Mental stats were relatively high compared with Erwin’s, so I wasn’t going to lose my mind and run away.
 
-‘Is… Erwin okay?’
+‘Is... Erwin okay?’
 
 I was a little worried, but for now, I had bigger problems of my own.
 
 The second debuff was the real problem for me.
 
-「The character’s energy stat reduction has reached its maximum.」
+[The character’s Energy stat reduction has reached its maximum.]
 
-「The status ailment ‘Lethargy’ has been applied.」
+[The status ailment [Lethargy] has been applied.]
 
 Lethargy, one of the thousands of status ailments.
 
-When afflicted with this debuff, MP regeneration becomes impossible, and skills cast can be interrupted mid-use…
+Under this debuff, MP regeneration became impossible, and skills could be interrupted mid-use...
 
 This also applies to skills already in use.
 
-[Gigantification] has ended]
+[[Gigantification] has ended.]
 
-[Iron Skin] has ended]
+[[Iron Skin] has ended.]
 
 Skills interrupted in this way would also have a cooldown, making lethargy a particularly tricky status ailment.
 
 The third one is just as tricky.
 
-[Your character’s physical stat reduction has reached its maximum.]
+[The character’s Physical stat reduction has reached its maximum.]
 
-[Status condition ‘Exhaustion’ has been inflicted].
+[The status ailment [Exhaustion] has been applied.]
 
-All Physical stats will be reduced by 30%.
+All Physical stats were reduced by 30%.
 
-Stamina is locked at its minimum, forcing you to use MP instead of stamina for each action.
+Stamina was locked at its minimum, forcing MP to be consumed for physical actions instead.
 
 BOOM!
 
 The difficulty of combat increased with each debuff stack.
 
-Phew, now I can’t handle it with strength alone.
+Phew. Now I couldn’t brute-force everything with Strength alone.
 
 And the cherry on top?
 
-[Dreadfear, the Lord of Terror, has reached maximum Rage.]
+[The Lord of Terror, Dreadfear, has reached maximum Rage.]
 
 Ever since Phase 1, Dreadfear had been steadily building its Rage gauge.
 
-[All damage dealt by Dreadfear, the Lord of Terror, is now doubled.]
+[All damage dealt by the Lord of Terror, Dreadfear, is doubled.]
 
-It’s already overwhelming attacks became terrifyingly powerful.
+Its already overwhelming attacks became terrifyingly powerful.
 
 Still, I managed to hold on.
 
@@ -167,17 +167,17 @@ Thanks to my relatively high Mental stats, Fear didn’t completely paralyse me,
 
 I also had a way to deal with my blocked MP regeneration.
 
-[Your character has cast (Soul Dive).
+[The character has cast [Soul Dive].]
 
-[Your Soul Energy will regenerate in proportion to the amount spent].
+[Soul Energy regenerates in proportion to the amount spent.]
 
-Exactly—this build was made for solo-tanking.
+Exactly. This build had been made for solo tanking.
 
 Screeeeech—!
 
-The Dread Fear let out a shrill cry, as if it was annoyed with me for clinging on so tightly.
+Dreadfear let out a shrill cry, as if annoyed by how stubbornly I clung to it.
 
-I was busy holding it back when…
+I was busy holding it back when...
 
 A tap.
 
@@ -187,19 +187,19 @@ If I hadn’t been alert, I would never have heard the subtle sound.
 
 Tap.
 
-In an instant, I twisted my body away from Dread Fear.
+In an instant, I twisted my body away from Dreadfear.
 
 Thump!
 
 A searing sensation spread across my back.
 
-That was all, but the countless experiences I’ve accumulated as a tank told me.
+That was all, but my countless experiences as a tank told me what mattered.
 
-‘Luckily, no major injuries.’
+‘Luckily, nothing serious.’
 
-It’s more of a scratch than an actual injury.
+It was more of a scratch than a real injury.
 
-But that’s no reason not to retaliate.
+But that was no reason not to retaliate.
 
 Whoosh-!
 
@@ -207,15 +207,15 @@ So, I immediately swung my hammer through the air.
 
 Of course, due to the aura effect, I couldn’t hear any groans or anything.
 
-But…
+But...
 
 Thwack!
 
 The satisfying feedback travelled up the handle of the hammer at that moment.
 
-[The light of trust dispels the fear within]
+[The light of trust dispels the fear within.]
 
-[The veil of betrayal is temporarily dispelled]
+[[Veil of Betrayal] has been temporarily dispelled.]
 
 A brilliant light flashed, illuminating the dark cave.
 
@@ -225,21 +225,21 @@ It was time to check the fish in the net.
 
 ---
 
-The key to phase 3 is the tank and the priest.
+The key to Phase 3 was the tank and priest roles.
 
-If you can just hold on, the [Veil of Betrayal] will lift and you’ll have time to inflict damage.
+If you could simply hold out, [Veil of Betrayal] would lift temporarily and create a damage window.
 
 Just like this.
 
-[Dread Fear, the Lord of Terror, has cast [Protective Mechanism]
+[The Lord of Terror, Dreadfear, has cast [Protective Mechanism].]
 
-As the [Veil of Betrayal] is dispelled, Dread Fear grows a thick shell and hides within it.
+When [Veil of Betrayal] was dispelled, Dreadfear grew a thick shell and hid inside it.
 
-It’s kind of a groggy state, and the default strategy is to just throw all your damage at it.
+It was essentially a groggy state, and the standard strategy was to unload as much damage as possible.
 
-But…
+But...
 
-“……”
+“...”
 
 As soon as the [Protective Mechanism] activated, I turned around to assess the situation.
 
@@ -247,35 +247,33 @@ Erwin, Amelia, Vercil, Aynar.
 
 First, all my comrades were in good condition.
 
-And…
+And...
 
-‘Three, two…….’
+‘Three... two...’
 
 Three mangled corpses near Erwin. By Amelia, one prisoner and a corpse.
 
-Tsk. We wanted prisoners, but…
-
-Erwin killed them all.
+Tsk. We wanted prisoners, but Erwin had killed all three assigned to her.
 
 Judging by the bodies, there was no intention of taking them alive.
 
 However, I decided not to reprimand her now.
 
-There’s no time for that, and…
+There was no time for that, and...
 
-“……”
+“...”
 
-She clearly doesn’t look okay.
+She clearly didn’t look okay.
 
 Her eyes are unfocused, staring into space as if she’s lost her mind.
 
-“…Probably because of ‘fear’.
+“...Probably because of [Fear].”
 
 “You let one get away, barbarian.”
 
 Amelia, who had quickly grasped the situation, glared at Aynar.
 
-“…Sorry! I tried to capture him alive but he escaped…”
+“...Sorry! I tried to capture him alive but he escaped...”
 
 Aynar, responsible for guarding one of the three passageways, honestly apologized.
 
@@ -291,7 +289,7 @@ Aynar, used to ending all issues with an apology in her Barbarian life, was bewi
 
 I was surprised too.
 
-I didn’t expect her to be this angry…
+I didn’t expect her to be this angry...
 
 “Barbarian, your mistake could have caused Jandel to be more severely hurt. Do you even realize—”
 
@@ -301,35 +299,35 @@ I quickly intervened and calmed Amelia down.
 
 “She understands. Let it go.”
 
-“…We’ll talk about this later.”
+“...We’ll talk about this later.”
 
 Given the circumstances, Amelia didn’t push further and closed her mouth.
 
 “Vercil. Keep an eye on Erwin.”
 
-“Ah, yes…!”
+“Ah, yes...!”
 
-First, I had Vercil check on Erwin’s condition, then I did a final check of the situation.
+First, I had Vercil check Erwin’s condition. Then I made one final assessment of the situation.
 
 In the end, we captured two people alive.
 
-“……”
+“...”
 
 First, the one Amelia captured.
 
-With a blindfold and a gag, it’s impressive how perfectly she handled it without being able to see.
+Blindfolded and gagged, the captive had been restrained perfectly despite Amelia being unable to see during the aura.
 
-And the second…
+And the second...
 
-“…Ugh.”
+“...Ugh.”
 
 The guy Aynar missed, who then ambushed me.
 
 His lower jaw, covered by a mask, was soaked in blood, probably from getting hit by my hammer.
 
-No wonder it felt so satisfying.
+No wonder the hit had felt so satisfying.
 
-“…uh, uh, uh…”
+“...uh, uh, uh...”
 
 The guy, meeting my eyes, crawled backwards like a worm.
 
@@ -339,41 +337,41 @@ Thud, thud, thud.
 
 In just three steps, I closed the distance and brought my hammer down on the bastard exactly four times.
 
-After all, you don’t need limbs to talk, do you?
+After all, you didn’t need limbs to talk.
 
 Crunch, crunch, crunch, crunch-
 
-Okay, since Amelia is doing the interrogation, I can trust her with that…
+Okay. Since Amelia was handling the interrogation, I could leave that to her...
 
 As for the one over there, Amelia has already subdued him, so no need to crush his limbs too, right?
 
-All necessary measures were complete.
+That took care of everything necessary.
 
 “Amelia, take both of them and get out of here now.”
 
-“…Are you really going to continue the raid like this?”
+“...Are you really going to continue the raid like this?”
 
 “What choice do we have?”
 
-Escaping the Lord of Terror is impossible.
+Escaping the Lord of Terror was impossible.
 
-If the captives remain within range, special conditions will trigger, making this even harder.
+If the captives remained within range, special conditions could trigger and make the raid even harder.
 
-This was the best course of action.
+This was our best option.
 
-‘Well… The odds of the raid succeeding are low.’
+‘Well... The odds of the raid succeeding are low.’
 
-Maybe around 5%?
+Maybe around five percent?
 
-Considering the boss received four buffs in phase 2, and we didn’t utilize the groggy state properly in this phase and skipped it.
+The boss had received four buffs in Phase 2, and we had effectively wasted the groggy window in this phase.
 
 ‘It’s essentially a failed raid.’
 
-Our survival was guaranteed either way, so I wasn’t particularly worried.
+Our survival was still manageable either way, so I wasn’t especially worried.
 
-If I somehow pull this off, it’ll be a miracle. Even if I fail, Amelia’s interrogation will achieve our main goal.
+If I somehow pulled it off, it would be a miracle. Even if I failed, Amelia’s interrogation could still achieve our real objective.
 
-So…
+So...
 
 “Jandel, be careful.”
 
@@ -381,9 +379,9 @@ So…
 
 I forced Amelia to retreat before the [Veil of Betrayal] reactivated. Moments later, the light illuminating the cave disappeared.
 
-「The fear within dispels the light.」
+[The fear within dispels the light.]
 
-「[Veil of Betrayal] has been reactivated.」
+[[Veil of Betrayal] has been reactivated.]
 
 It was time to resume the raid.
 
@@ -400,45 +398,43 @@ She slowly put on white gloves.
 Arranged the tools she’d prepared for easy access.
 
 Checked the captives’ belongings for anything useful.
-……
+...
 
-……
+...
 
-She used to hate this kind of work, but today she felt different.
+She used to hate this kind of work, but today felt different.
 
-No…
+No...
 
-It’s a relief.
+She felt relieved.
 
-That man has unexpected soft spots.
+That man had unexpected soft spots.
 
-And in life, someone has to do this dirty work.
+And sometimes, someone had to do the dirty work.
 
-“You… will… hear nothing…”
+“You... will... hear nothing...”
 
 The man with shattered limbs muttered with cold resolve, but she didn’t respond.
 
-There was no reason to engage. Besides…
+There was no reason to engage. Besides...
 
-‘…He’s terrified.’
+‘...He’s terrified.’
 
-Experience had taught her:
+Experience had taught her that men who blustered like this often broke first.
 
-Men who bluster like this break first.
-
-……
+...
 
 While the other captive had endured silently for hours, this one had been screaming with bloodshot eyes.
 
-Yet, she continued the ‘interrogation’ without asking a single question.
+Yet she continued the ‘interrogation’ without asking a single question.
 
-And after some time…
+And after some time...
 
-“…P-please.”
+“...P-please.”
 
 Finally, the man uttered those words.
 
-A signal that he was nearing his limit and wanted release.
+It was a signal that he was nearing his limit and wanted release.
 
 Amelia began asking questions one by one.
 
@@ -446,34 +442,34 @@ Was he married?
 
 Did he have children?
 
-What was the last dinner he ate before entering the labyrinth?
+What had he eaten for his last meal before entering the Labyrinth?
 
 As trivial, unrelated questions continued, the man gradually began to answer.
 
 At least while answering, there was no pain.
 
-Amelia patiently escalated the intensity of her questions, and by the time she reached the point of asking for his name…
+Amelia patiently escalated the intensity of her questions, and by the time she reached the point of asking for his name...
 
-“So, your name is… what?”
+“So, your name is... what?”
 
-“Delvain…”
+“Delvain...”
 
 Hearing the answer, she involuntarily flinched.
 
-“Hans… Delvain…”
+“Hans... Delvain...”
 
 Hans?
 
-‘Wait, Hans… wasn’t that…?’
+‘Wait, Hans... wasn’t that...?’
 
 The name that guy had freaked out about.
 
 “Men named Hans are a plague. Kill them on sight.”
 
-She’d found his superstitions oddly endearing at the time.
+She had found his superstition oddly endearing at the time.
 
-But now…
+But now...
 
-‘…………Will this be okay?’
+‘...Will this be okay?’
 
 A cold dread bloomed in her chest.

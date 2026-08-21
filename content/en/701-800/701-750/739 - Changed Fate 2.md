@@ -16,7 +16,7 @@ However, after hearing the resignation in the head administrator’s voice, Vers
 
 It felt like sincere advice.
 
-And honestly… it wasn’t wrong.
+And honestly... it wasn’t wrong.
 
 A large meeting hall would only make it harder to communicate with dozens of people at once.
 
@@ -28,7 +28,7 @@ Once you accepted it, you started to see the advantages.
 
 However, the many clan leaders gathered in the field didn’t seem to agree with her.
 
-“Ahem…”
+“Ahem...”
 
 “Why did you summon us to the field so early in the morning?”
 
@@ -36,7 +36,7 @@ However, the many clan leaders gathered in the field didn’t seem to agree with
 
 “They don’t.”
 
-“Hmph… even if they’ve developed a lot, they’re still—”
+“Hmph... even if they’ve developed a lot, they’re still—”
 
 “That’s enough.”
 
@@ -48,11 +48,11 @@ Before starting the formal meeting, Versil addressed this point first.
 
 “In case you’ve forgotten, we are refugees who fled a war zone. The Barbarians are our hosts who took us in.”
 
-“……Ahem.”
+“......Ahem.”
 
 “So I was thinking we should take a moment to express our gratitude for the shelter and food they’ve shared with us. What do you think?”
 
-“…….”
+“.......”
 
 “You never know, right? If they decide to kick us out, we’ll have no choice but to head straight back to District 7.”
 
@@ -62,13 +62,13 @@ Aynar grinned and stepped forward.
 
 “That’s right, you parasites! We saved you, housed you, and fed you. If you’re human, isn’t it only right to let out a massive battle cry as a sign of respect and gratitude?!”
 
-“A… a battle cry?”
+“A... a battle cry?”
 
-“Are you… are you talking about Behel-la?”
+“Are you... are you talking about Behel-la?”
 
 “Of course!! You can refuse if you want! We Barbarians respect free will!”
 
-“Ah… well, in that case, for religious reasons, I must dec—”
+“Ah... well, in that case, for religious reasons, I must dec—”
 
 “Oh! Then you can leave the sanctuary right now!”
 
@@ -124,9 +124,9 @@ Unlike the other clan members she’d wanted to smack at least once, he had alwa
 
 “It’s not exact, but I estimate about an hour.”
 
-“An hour…”
+“An hour...”
 
-“There are only two possibilities,” she continued. “Either something went wrong and the mana supply failed…”
+“There are only two possibilities,” she continued. “Either something went wrong and the mana supply failed...”
 
 “And the second?”
 
@@ -134,27 +134,27 @@ She looked at the man who’d asked the question.
 
 “It means something has happened on the Noark side.”
 
-“…?”
+“...?”
 
 “They finally want to get rid of us.”
 
 In truth, Versyl considered this the most likely possibility. Perhaps it showed in her voice.
 
-“…”
+“...”
 
-“…”
+“...”
 
 A heavy silence followed. The area fell deathly quiet, far too quiet for a place filled with dozens of people.
 
 The one who finally broke the silence was a woman.
 
-“Then… what do we do now…?”
+“Then... what do we do now...?”
 
 Well.
 
 If she were honest, Versyl wanted to say she didn’t know either.
 
-But…
+But...
 
 [Starting today, you’re the vice-captain of our clan.]
 
@@ -170,9 +170,9 @@ Versyl closed her eyes, took a deep breath, then opened them again.
 
 “If you say first, that means there’s a next step?”
 
-“Yes. If we spot an opening during the battle… we push forward.”
+“Yes. If we spot an opening during the battle... we push forward.”
 
-“Pu– push forward…?”
+“Pu– push forward...?”
 
 The leaders widened their eyes, as if they’d heard something unthinkable.
 Versyl, however, simply shrugged. She might be a mage and a ranged damage dealer, but she’d learned her lesson.
@@ -191,11 +191,11 @@ So she had to stay focused and—
 
 “Miss Emure, I’ve brought some tea. Please, moisten your throat for a moment.”
 
-“…W-What? But I don’t have time—”
+“...W-What? But I don’t have time—”
 
 “Surely there is time for a cup of tea. You don’t need to carry all this burden alone.”
 
-“…I-I know what you mean. But the enemy is about to swarm in, how can I rest?!”
+“...I-I know what you mean. But the enemy is about to swarm in, how can I rest?!”
 
 She felt like she was going insane.
 
@@ -203,9 +203,9 @@ Her expertise was administration.
 
 Not war.
 
-“If that’s the case, I won’t push further… but I’ll leave it here. Please drink it for the sake of my effort. Sometimes you need to relax to work better.”
+“If that’s the case, I won’t push further... but I’ll leave it here. Please drink it for the sake of my effort. Sometimes you need to relax to work better.”
 
-“Ah… yes… thank you, Mr. Rottmiller.”
+“Ah... yes... thank you, Mr. Rottmiller.”
 
 It really did seem like Rotmiller had come solely to deliver the tea, because he turned to leave as soon as he set the cup down. Only then did Shabin Emure notice something different about him.
 
@@ -215,9 +215,9 @@ Rotmiller, who was always neatly dressed in everyday clothes, was somehow wearin
 
 Like someone about to enter the Labyrinth.
 
-“Ah… now that I think about it, this is the first time you’ve seen this, Miss Emure. I didn’t dispose of my old gear just in case, and now I’m glad I didn’t.”
+“Ah... now that I think about it, this is the first time you’ve seen this, Miss Emure. I didn’t dispose of my old gear just in case, and now I’m glad I didn’t.”
 
-“Are you… planning to join the fight…?”
+“Are you... planning to join the fight...?”
 
 “Shouldn’t I? They need every hand they can get.”
 
@@ -235,15 +235,15 @@ Realistically, she had no right to stop him anyway.
 
 In the end, there was only one thing she could say.
 
-“…Please be careful.”
+“...Please be careful.”
 
 She spoke shortly, pouring her heart into it. Rotmiller replied just as briefly.
 
-“…I shall return safely to you.”
+“...I shall return safely to you.”
 
 With that, Rotmiller left the room, leaving Shabin Emure with flushed cheeks.
 
-“C-come back…? To me…!”
+“C-come back...? To me...!”
 
 Even as she sipped the fragrant tea, her heart refused to stop racing.
 
@@ -275,13 +275,13 @@ I spoke coldly, but he didn’t budge.
 
 The “elder” clearly meant Auril Gavis.
 
-“Advice…”I echoed
+“Advice...”I echoed
 
 The word literally means “words that help.” But why did it feel so ominous the moment I heard it? Despite my skepticism, he offered his “advice,” sconfident that I would listen.
 
 “Since you came this way, you must be heading toward the sanctuary.”
 
-“…….”
+“.......”
 
 “Don’t go to the sanctuary. Go over there.”
 
@@ -319,11 +319,11 @@ Two.
 
 Three—
 
-‘Damn it…’
+‘Damn it...’
 
 Finally I turned back.
 
-“…Why.”
+“...Why.”
 
 I didn’t like how his eyes crinkled behind the mask the moment I opened my mouth, but I couldn’t hold back the question any longer.
 
@@ -333,11 +333,11 @@ When I finally couldn’t hold it in and voiced the question, he answered as if 
 
 “Depending on where you go, different people will die.”
 
-“……”
+“......”
 
 “So don’t go to the sanctuary. Head to District 7 instead. That would be the most beneficial decision for you, Sir Lion.”
 
-“A choice for my sake… huh.”
+“A choice for my sake... huh.”
 
 I let out a short chuckle and asked one more thing.
 
@@ -353,7 +353,7 @@ I shot my hand out, grabbed him by the collar, and slammed him against the edge 
 
 Then I spoke.
 
-“So what happens now? Do you live… or do you die here?”
+“So what happens now? Do you live... or do you die here?”
 
 If he guessed right—
 

@@ -4,7 +4,7 @@ The endless dream continued.
 
 Hyeon-byeol came to see me nearly every day and always had something to talk about.
 
-“I thought it might help you regain your senses, so I did some digging. Honestly, I didn’t think I’d find anything, but… I actually got lucky.”
+“I thought it might help you regain your senses, so I did some digging. Honestly, I didn’t think I’d find anything, but... I actually got lucky.”
 
 In this dream world, Hyeon-byeol wasn’t dragged into the game. After hearing about me from my mother, she frequently visited and helped me.
 
@@ -12,9 +12,9 @@ Like now.
 
 “It’s that discharged soldier you talked about—Lee Baek-ho. I made a post on the Dungeon and Stone community board, you know, the game you always used to play, and he really replied.”
 
-‘When I asked if we could meet and talk, the first thing he asked was whether I was a woman. When I said yes, he agreed right away… Judging by how he acted, he’s kind of obsessed with girls.’
+‘When I asked if we could meet and talk, the first thing he asked was whether I was a woman. When I said yes, he agreed right away... Judging by how he acted, he’s kind of obsessed with girls.’
 
-“Ah, I got distracted. Anyway, the important thing is that he wasn’t sucked into the game either. Uh… are you disappointed?”
+“Ah, I got distracted. Anyway, the important thing is that he wasn’t sucked into the game either. Uh... are you disappointed?”
 
 Disappointed, my foot.
 
@@ -48,7 +48,7 @@ And that’s not all.
 
 Hyun-byeol, my ex-girlfriend, treats me with unbelievable devotion.
 
-“Han-soo… it’s my fault, it’s all my fault. If only I hadn’t done that, you’d never have ended up like this…”
+“Han-soo... it’s my fault, it’s all my fault. If only I hadn’t done that, you’d never have ended up like this...”
 
 Even my mother, who had always treated me with contempt, was acting strangely. It was like she was saying everything I’d always wanted to hear deep inside.
 
@@ -66,7 +66,7 @@ Using my Canadian friend’s reply as encouragement, I rebuilt my fading resolve
 
 I studied the hospital’s layout, learned the staff’s schedules and personalities, and pretended to comply with treatment in order to lower their guard.
 
-Everything was going according to plan—until…
+Everything was going according to plan—until...
 
 “Mr Han-soo, I haven’t actually told anyone this, not even you, but I think there’s a chance your story might be true.”
 
@@ -74,13 +74,13 @@ Chief Kang, who had visited me under the pretext of an investigation, dropped th
 
 Because I was acting like I was recovering from my delusions, this presented a problem.
 
-“Huh? Isn’t that something I made up? I genuinely believe that now…?” I said masking my reaction.
+“Huh? Isn’t that something I made up? I genuinely believe that now...?” I said masking my reaction.
 
-“I’m sorry… I kept wondering if it was the right time to say this when you seem to be improving, but could you please watch this video just once?”
+“I’m sorry... I kept wondering if it was the right time to say this when you seem to be improving, but could you please watch this video just once?”
 
 He took out his phone and played a saved video.
 
-‘What the hell is this…?’
+‘What the hell is this...?’
 
 It was footage from the police station where I’d been questioned.
 
@@ -96,19 +96,19 @@ The image quality was poor, so I couldn’t make out the words, but Chief Kang r
 
 “Character data and journal entries have been recorded and transmitted to the administrator.’”
 
-“It listed stuff like: the coming-of-age ceremony completed, new equipment equipped, total item level increased… basically game-type messages, filling the screen and updating in real time.”
+“It listed stuff like: the coming-of-age ceremony completed, new equipment equipped, total item level increased... basically game-type messages, filling the screen and updating in real time.”
 
 “There were even occasional entries about a character named ‘Bjorn Jandel.’ The same name you mentioned.”
 
 Just when I’d decided this was all a dream and was preparing to escape, it caught me completely off guard.
 
-“So… what’s your point?”
+“So... what’s your point?”
 
 I frowned as he rewound the video.
 
 “Look closely around the monitor. Right here. See? There aren’t any cables connected. No computer tower, no power cord—nothing.”
 
-Huh… he’s right.
+Huh... he’s right.
 
 My mind started spinning.
 
@@ -116,7 +116,7 @@ What was this supposed to mean?
 
 “It can’t be explained scientifically. That’s why I started to think your story might be true.”
 
-“…So you’re saying I’m not insane?”
+“...So you’re saying I’m not insane?”
 
 “No, I can’t say that yet. But one thing’s certain—something’s very suspicious.”
 
@@ -126,7 +126,7 @@ He glanced around, then lowered his voice.
 
 “Not long after we brought in that monitor, it disappeared from the evidence room.”
 
-“…”
+“...”
 
 “As if someone deliberately wanted to destroy the evidence.”
 
@@ -154,7 +154,7 @@ And I can choose.
 
 What I will believe.
 
-‘I will execute the plan in four days…’
+‘I will execute the plan in four days...’
 
 My escape plan was complete and I’d even set a date.
 
@@ -162,7 +162,7 @@ That day, I’d break out of this hospital and get outside.
 
 Then, I’d figure out how to escape this dream for real.
 
-‘I’ve got a feeling Dungeon & Stone holds the key somehow…’
+‘I’ve got a feeling Dungeon & Stone holds the key somehow...’
 
 It was just a hunch, but still—
 
@@ -174,13 +174,13 @@ Sure, they claimed it interfered with treatment, but still.
 
 It was worth a try.
 
-So, the important thing is to succeed in the first escape attempt….
+So, the important thing is to succeed in the first escape attempt....
 
 ‘Just in case, one more time.’
 
 While waiting for the execution date, I simulated the plan over and over, looking for flaws.
 
-And then….
+And then....
 
 One day, two days, three days.
 
@@ -206,11 +206,11 @@ The man’s fluent Korean honestly took me by surprise. I’d figured the young 
 
 I couldn’t tell, but one thing was certain.
 
-“Yes, but… who are you, sir?”
+“Yes, but... who are you, sir?”
 
 For some reason, I didn’t like the feeling.
 
-He looks like someone with a lot of money and high status. The fact that he’d even managed to arrange a visit here was suspicious in itself…
+He looks like someone with a lot of money and high status. The fact that he’d even managed to arrange a visit here was suspicious in itself...
 
 Swish.
 
@@ -238,7 +238,7 @@ There was no point trying to keep secrets from this Guy. Neither in that world n
 
 “It seems you’ve seen another me over there?”
 
-“Another you…?”
+“Another you...?”
 
 “Tsk. So you haven’t figured that part out yet.”
 
@@ -256,7 +256,7 @@ He gave a mysterious smile.
 
 “I’m the only one who knows you’re not insane. And I have the means to get you out of here.”
 
-“…”
+“...”
 
 “But judging by your lack of reaction, it seems you’ve already made your plans.”
 
@@ -276,21 +276,21 @@ He had one question for me.
 
 I had a rough idea, but I played dumb.
 
-“…Never mind. Let me rephrase.”
+“...Never mind. Let me rephrase.”
 
 Now I was really curious.
 
 “How did you manage to come back? The Abyss Gate wasn’t open.”
 
-“…If you’ve come this far, you must have already investigated everything, right?” I asked back
+“...If you’ve come this far, you must have already investigated everything, right?” I asked back
 
-“Oh, you mean the statements you gave to the police and doctors? I’ve read those, yes, but…”
+“Oh, you mean the statements you gave to the police and doctors? I’ve read those, yes, but...”
 
 He suddenly stopped mid-sentence, then burst out laughing.
 
 “Hahaha! Ahahaha!”
 
-“…”
+“...”
 
 “Do you actually believe this world is just a dream?”
 
@@ -302,7 +302,7 @@ I didn’t want to respond to his mocking tone, but keeping quiet would only mak
 
 “Different? What do you mean?”
 
-“In this world, the ‘cheat mode’ you mentioned does not exist. That’s why only you could open the Abyss Gate and cross over to Raphdonia. But…….”
+“In this world, the ‘cheat mode’ you mentioned does not exist. That’s why only you could open the Abyss Gate and cross over to Raphdonia. But.......”
 
 He trailed off before finishing.
 
@@ -324,7 +324,7 @@ He didn’t take the bait.
 
 “Think what you will. You already believe this is a dream, don’t you? If you intend to return there, I have no reason to convince you otherwise.”
 
-Tch… that smug attitude.
+Tch... that smug attitude.
 
 My stress level suddenly skyrocketed, but since I was about to escape, I couldn’t just punch him.
 
@@ -340,7 +340,7 @@ He paused and turned back.
 
 “Yes?”
 
-Uh… I didn’t stop him because I had a specific reason, but because I felt I shouldn’t let him go like this…
+Uh... I didn’t stop him because I had a specific reason, but because I felt I shouldn’t let him go like this...
 
 Now that things have come to this, I decided to ask this.
 
@@ -354,11 +354,11 @@ The old man looked straight at me for a long moment, then chuckled softly again.
 
 “You should have the desire.”
 
-“……What?”
+“......What?”
 
-“If you really want to go back, it will happen whether you like it or not. But seeing as you’re still here…”
+“If you really want to go back, it will happen whether you like it or not. But seeing as you’re still here...”
 
-“…….”
+“.......”
 
 “It seems you’ve grown rather fond of this place.”
 

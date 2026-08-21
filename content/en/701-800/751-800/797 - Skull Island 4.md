@@ -16,9 +16,9 @@ Rumble-!
 
 The boss room entrance, which had sealed shut at the start of the fight, opened again, and my allies who had been waiting outside stepped into the cave.
 
-“…Is it already over?”
+“...Is it already over?”
 
-“It hasn’t even been three minutes yet…”
+“It hasn’t even been three minutes yet...”
 
 They could not hide their bewildered expressions.
 
@@ -40,7 +40,7 @@ Usually, it’s best to do things like this together.
 
 After all, treasure is an explorer’s greatest joy. Before moving on to the next chapter, I searched for the treasure chest with my party members. The treasure chest itself is also hidden. You have to search the floor after defeating the boss to find it.
 
-“Ugh…! Why hide it like this? They could just give it to us!”
+“Ugh...! Why hide it like this? They could just give it to us!”
 
 “It’s all due to the Achievements of Gabrielius. Only those destined for it are able to find it.”
 
@@ -64,7 +64,7 @@ She was the type who could live however she wanted and still somehow take care o
 
 “Go ahead.”
 
-Aynar grabbed the padlock…
+Aynar grabbed the padlock...
 
 No, maybe it was more accurate to call it a bonelock.
 
@@ -72,7 +72,7 @@ Either way, she punched the lock off the bone chest, then slowly opened it.
 
 Compared to the enormous size of the chest itself, the item inside was extremely small. Raven pushed Aynar aside, picked it up, and examined it more closely.
 
-“Something incredibly valuable came out… If Golden Ghost finds out about this, he is going to be furious.”
+“Something incredibly valuable came out... If Golden Ghost finds out about this, he is going to be furious.”
 
 “Huh? Aruru, what is that? Isn’t it a letter?”
 
@@ -84,7 +84,7 @@ In the game, items like these were classified as charms. Aynar’s No. 9999, Beg
 
 “Yes No. 444, Daedrius’s Invitation.”
 
-“A triple Numbers item! That is amazing! But then… what is it used for?”
+“A triple Numbers item! That is amazing! But then... what is it used for?”
 
 Aynar looked at the wax-sealed letter and tilted her head. She seemed curious since it was a numbered item, but she had no idea what it could be used for.
 
@@ -97,7 +97,7 @@ It’s almost impossible to tell what they can do just by looking at them.
 
 “That is all.”
 
-“…Huh? Did you not say it was a valuable item? Our navigator’s bag seems better than that.”
+“...Huh? Did you not say it was a valuable item? Our navigator’s bag seems better than that.”
 
 Misha looked deflated after hearing the item’s effect.
 
@@ -113,7 +113,7 @@ It was a rift where 99% of the monsters that appeared were undead. If a damage d
 
 There were even a few Level 1 monsters that were undead types.
 
-“Really? That’s an incredibly amazing item… Can I take a look?”
+“Really? That’s an incredibly amazing item... Can I take a look?”
 
 “Yes. But you absolutely must not tear off the wax seal.”
 
@@ -121,7 +121,7 @@ There were even a few Level 1 monsters that were undead types.
 
 “You die.”
 
-“…Eek!”
+“...Eek!”
 
 At Raven’s short and blunt explanation, Misha hurriedly took her hands off the invitation. Watching her, I chuckled.
 
@@ -131,7 +131,7 @@ Strictly speaking, it did not mean certain death.
 
 If you broke the seal inside the labyrinth, you would be dragged into a hidden field called “Hell.”
 
-As for the difficulty… it was safe to assume that coming back alive was impossible.
+As for the difficulty... it was safe to assume that coming back alive was impossible.
 
 No matter how well you had raised your character, if you opened that thing, you could not return.
 
@@ -159,25 +159,25 @@ Or was it? Good things were always followed by bad ones.
 
 Ignoring a streak of good luck would be far too naive, especially after everything I had been through.
 
-So…
+So...
 
-“…I should check on them once.”
+“...I should check on them once.”
 
 “Check? What?”
 
 “The Golden Tree Clan.”
 
-“Hmm… Wouldn’t they have left by now? They must have known we wouldn’t fail.”
+“Hmm... Wouldn’t they have left by now? They must have known we wouldn’t fail.”
 
 True.
 
 I thought the same.
 
-But…
+But...
 
 “Aynar, I’m sorry, but fighting that guy will have to wait a little longer.”
 
-“…Huh?”
+“...Huh?”
 
 “Let’s go outside and check on them one last time before we come back to fight.”
 
@@ -185,7 +185,7 @@ The next chapter after the Skeleton King wasn’t accessed through a portal, nor
 
 “We are going back.”
 
-I didn’t ignore the inexplicable uneasy feeling and made my way back up the cave to the outside. However…
+I didn’t ignore the inexplicable uneasy feeling and made my way back up the cave to the outside. However...
 
 “They aren’t here?”
 
@@ -197,7 +197,7 @@ The area in front of the cave was completely empty.
 
 There were two possibilities.
 
-Either they had really left without looking back…
+Either they had really left without looking back...
 
 “Or they are deliberately hiding and waiting.”
 
@@ -207,7 +207,7 @@ One, they knew about the hidden boss, and that was their goal.
 
 Two, they did not know anything, but since I had come here, they suspected something might be here and were waiting.
 
-Well, ignoring all that, they might also turn into plunderers and try to attack us…
+Well, ignoring all that, they might also turn into plunderers and try to attack us...
 
 But that possibility was extremely low.
 
@@ -241,7 +241,7 @@ It would be a different story if they were stealth specialists who owned that sp
 
 “It should easily last up to 12 hours. But won’t the other side also realize that detection magic has been placed here?”
 
-Right, there is that…
+Right, there is that...
 
 “It does not matter. Even if they disable it, we will know that they did.”
 
@@ -255,7 +255,7 @@ I gathered the members and quickly moved into the cave, not toward the boss room
 
 “The annoying monsters are all gone too.”
 
-“But… when does the curse placed on me disappear? I heard it goes away once you defeat the Skeleton King… Does it have something to do with what we’re looking for right now?”
+“But... when does the curse placed on me disappear? I heard it goes away once you defeat the Skeleton King... Does it have something to do with what we’re looking for right now?”
 
 “I’ll tell you later.”
 
@@ -269,7 +269,7 @@ I simply turned around and looked behind me.
 
 Beyond the blocked wall was a long, straight, empty path.
 
-Alright, this should be enough…
+Alright, this should be enough...
 
 “Wait here a little longer,” I ordered. “A special condition has to be met for the hidden path to appear.”
 
@@ -311,7 +311,7 @@ Because we had spent so much time together, we understood each other without nee
 
 While everyone waited, Raven drew a magic circle on the floor. I continued touching the wall while occasionally speaking to Marrone to check the status of the detection magic.
 
-Then, after some time had passed…
+Then, after some time had passed...
 
 “It is done.”
 
@@ -321,7 +321,7 @@ Raven’s spell was complete.
 
 When I gave the signal, Raven poured mana into the magic circle.
 
-And then…
+And then...
 
 Flash!
 
@@ -345,7 +345,7 @@ I was sure the rats had followed us.
 
 As soon as the teleportation ended, I maximized my body size, and the narrow passageway was filled entirely by me alone.
 
-It was so cramped it was hard to even walk properly, but…
+It was so cramped it was hard to even walk properly, but...
 
 Put another way, it meant that no one could pass by me.
 
@@ -367,7 +367,7 @@ Boom! Boom!
 
 Therefore, whether something got caught or not, I stubbornly held my shield and pushed forward.
 
-And…
+And...
 
 Boom! Boom!
 
@@ -375,10 +375,10 @@ The moment I reached the wall at the end of the path, a smirk spread across my f
 
 Boom!
 
-Wasn’t the sound I heard…
+Wasn’t the sound I heard...
 
 Crunch!
 
-…the sound of something being smashed?
+...the sound of something being smashed?
 
 Yeah, I knew it. Got you, you bastard.

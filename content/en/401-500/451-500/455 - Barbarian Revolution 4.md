@@ -6,9 +6,9 @@ Hearing an unfamiliar language I could somehow understand left me dazed. Even so
 
 That’s when I felt déjà vu.
 
-Somehow, this situation reminded me of the beginning of [Dungeon and Stone].
+Somehow, the situation reminded me of the beginning of [Dungeon & Stone].
 
-‘There… one person died.’
+‘There... one person died.’
 
 I remember his name clearly.
 
@@ -16,7 +16,7 @@ Orum, the son of Kadua.
 
 He had barely opened his eyes in this world for five minutes before his throat was gruesomely cut.
 
-And then…
+And then...
 
 ‘There were quite a few of them, actually.’
 
@@ -38,7 +38,7 @@ If we’re to place blame, there’s only one.
 
 Auril Gavis.
 
-The creator of [Dungeon and Stone]…
+The creator of [Dungeon & Stone]...
 
 [You have reached the abyss.]
 
@@ -48,7 +48,7 @@ He kidnapped countless players with just these phrases.
 
 ‘If you’re going to do a tutorial, do it right.’
 
-Looking at the frightened expression of a newbie, my old memories vividly return.
+Looking at the frightened newbie, my old memories came vividly rushing back.
 
 Of course, the nostalgia was short-lived.
 
@@ -60,7 +60,7 @@ After shouting briefly, the baby barbarians immediately calmed down and shut the
 
 Not in the old way, of course.
 
-This will make it easier to sneak in some help. Just in case there’s a newbie lurking somewhere that I haven’t spotted.
+This would make it easier to slip in a little help, just in case there was another newbie I hadn’t noticed.
 
 “Makhal, second son of Putil!”
 
@@ -84,15 +84,15 @@ Eventually, it was the turn of the newbie I’d been eyeing.
 
 “Vekta, third son of Kiltau!”
 
-As I placed my hand on his shoulder a faint thud sounded; I could feel him trembling so much he couldn’t hide it.
+As I placed my hand on his shoulder, I felt a faint tremor; he was shaking too hard to hide it.
 
 But I pretended not to notice and continued.
 
 “Come and choose the weapon for your journey!”
 
-“…Understood!!”
+“...Understood!!”
 
-Compared to the other warriors, he was slow to respond and spoke in a smaller voice. but—
+Compared to the other warriors, he was slow to respond and spoke in a quieter voice. But—
 
 ‘At least he’s catching on.’
 
@@ -102,7 +102,7 @@ He was imitating the other warriors, so given time and experience, I figured he�
 
 Upon seeing the weapon he chose, I couldn’t help but chuckle.
 
-“A shield…”
+“A shield...”
 
 I muttered to myself, and the kid flinched as if he had done something wrong.
 
@@ -134,23 +134,23 @@ Well, it was more of a review.
 
 “A dead plunderer!!”
 
-“What about the Explorers Guild?”
+“What about the Explorers’ Guild?”
 
 “We do not trust them!!”
 
 “And if you meet Hans in the Labyrinth?”
 
-“No! Go away, if you don’t want to get fucked!’
+“No! Go away if you don’t want to get fucked!”
 
 There was a reason for making the young warriors review these points.
 
 Review is always important, and we have a brand-new newbie here, after all.
 
-“Now, then…”
+“Now, then...”
 
 There was one last piece of information the newbie absolutely needed to know.
 
-“When you encounter an ‘evil spirit’ that has taken over our body, what do you do?
+“When you encounter an ‘evil spirit’ that has taken over one of our bodies, what do you do?”
 
 It might just be the single most important factor for a player’s survival.
 
@@ -166,11 +166,11 @@ At my shout, the gates in the city walls—those that separated the sanctuary fr
 
 The young warriors, who had grown up in the sanctuary dreaming of this day, began to tremble with excitement.
 
-“Raphdonia…”
+“Raphdonia...”
 
 Normally, I would have simply told them to march toward their fate. However, today, I personally led the young warriors into the city.
 
-“…What? The chief himself is playing the role of guide?”
+“...What? The chief himself is playing the role of guide?”
 
 It was on the way anyway.
 
@@ -182,17 +182,17 @@ I had to enter the labyrinth myself.
 
 The young warriors, once again moved by the tribe chief’s direct guidance, cried out in joy. Even as I admired their pure spirit, I led them to the center of the city.
 
-And then…
+And then...
 
 “I greet you, Baron Jandel.”
 
-At a prearranged location, we met up with a Guild mage who performed the ‘Binding’ spell.
+At a prearranged location, we met a Guild mage who performed the ‘Binding’ spell.
 
 Not on me, but on the young warriors.
 
 As I was pairing them up in threes and fours, some warriors voiced their doubts.
 
-“…Chief! I heard that the first exploration should be done on our own strength…”
+“...Chief! I heard that the first exploration should be done on our own strength...”
 
 “That’s right! I heard it was tradition when I was younger!”
 
@@ -200,7 +200,7 @@ Tradition my ass.
 
 That damn tradition had led to the deaths of many warriors on their first exploration.
 
-I was about to scold them when…
+I was about to scold them when...
 
 “Stupid Bastards!!!”
 
@@ -218,11 +218,11 @@ It might sound a bit dictatorial, but it’s actually quite persuasive. Our trib
 
 Fortunately, warriors raised in the law of nature easily accepted this logic.
 
-“…I see. Understood!”
+“...I see. Understood!”
 
 Okay, that settled that issue.
 
-“Now, about the payment…”
+“Now, about the payment...”
 
 “Here it is.”
 
@@ -230,15 +230,15 @@ After the binding was complete, I paid the guild mage.
 
 “Good work today. I’ll be counting on you again next month.”
 
-“Ah… yes, Baron…”
+“Ah... yes, Baron...”
 
 Despite the unusual overtime and travel, the mage left with a sour face, but we would meet again next month.
 
-If I make a ‘request’ to the guild’s regional chief and ask for a ‘favor. What can a mere mage do?
+If I made a ‘request’ to the Guild’s regional chief and asked for a ‘favor,’ what could a mere mage do?
 
 “It’s the Labyrinth!!”
 
-“Ooooh! So that’s it…!!!”
+“Ooooh! So that’s it...!!!”
 
 “It feels like some unknown force is pulling at my body!!”
 
@@ -258,9 +258,9 @@ Watching their retreating figures, Aynar turned to me and smirked.
 
 Well, it’s like leaving a child by the water.
 
-The more they survive and return, the stronger our tribe will become…
+The more they survive and return, the stronger our tribe will become...
 
-“Don’t worry! Remember how in our time – despite worse conditions – everyone who was destined to make it came back alive!
+“Don’t worry! Remember how, in our time—despite worse conditions—everyone who was destined to make it came back alive!”
 
 A typical Barbarian-style consolation mixed with nostalgia.
 
@@ -268,9 +268,9 @@ But, funnily enough, it did calm my mind.
 
 After all, the harsh training of the Barbarian tribe was too extreme; I didn’t want to raise them like flowers in a greenhouse.
 
-After all, it’s crisis that fosters the most growth.
+After all, crises foster the most growth.
 
-Lessons learned in crisis are etched into the bones and not easily forgotten, even if you wish to forget.
+Lessons learned in a crisis are etched into the bones and aren’t easily forgotten, even if you wish they were.
 
 “Mister!!”
 
@@ -292,7 +292,7 @@ Well, he did spend quite a few days stuck in the basement.
 
 But perhaps because this is the same guy who once tried to plunder me, I can’t manage to work up even an ounce of sympathy.
 
-Again, a good plunderer is a dead plunderer; And unless you treat them harshly, you can’t trust them to watch your back.
+Again, a good plunderer is a dead plunderer. And unless you treat them harshly, you can’t trust them to watch your back.
 
 “Emily.”
 
@@ -304,23 +304,23 @@ He made no attempt to say anything like “Trust me!” or “I’ll do my best!
 
 ‘He certainly knows how to read the room.’
 
-Whether that’s a good thing or not… I’m not quite sure.
+Whether that’s a good thing or not... I’m not quite sure.
 
-“Um… Bjorn? Shouldn’t we be going now?”
+“Um... Bjorn? Shouldn’t we be going now?”
 
-“Oh… right.”
+“Oh... right.”
 
 The brilliant glow of the portal was already starting to fade, so we walked slowly towards it.
 
-And then…
+And then...
 
-[You have entered the 1st Floor: Crystal Caverns]
+[You have entered the 1st Floor: Crystal Caverns.]
 
 Thus began the first expedition of Clan Anabada.
 
 ---
 
-In the crystal cave shimmering with a purple glow.
+Inside the crystal cavern shimmering with purple light:
 
 “North.”
 
@@ -328,9 +328,9 @@ In the crystal cave shimmering with a purple glow.
 
 “Looks like it leads toward the Goblin Forest.”
 
-As soon as we arrived, three of us spoke simultaneously: me, still training under Rotmiller as a scout; Amelia, our scout; and Erwin, who’d also undergone scouting training from her sister.
+As soon as we arrived, three of us spoke at once: me, still training under Rotmiller as a scout; Amelia, our scout; and Erwin, who had also received scouting training from her sister.
 
-“…….” “…….”
+“.......” “.......”
 
 With only five members in the team and three of them as scouts, there was an awkward moment.
 
@@ -338,7 +338,7 @@ With only five members in the team and three of them as scouts, there was an awk
 
 “I was a bit faster than that woman.”
 
-“…”
+“...”
 
 Aynar laughed out loud, and Erwin glared at her, not bothering to hide her displeasure.
 
@@ -348,7 +348,7 @@ Of course, the glare didn’t work.
 
 Aynar nodded as if she liked it.
 
-“…?”
+“...?”
 
 Erwin furrowed her brows as if she had encountered an incomprehensible creature, and Aynar shrugged.
 
@@ -356,25 +356,25 @@ Erwin furrowed her brows as if she had encountered an incomprehensible creature,
 
 Her comment made me flinch.
 
-Because the last time they met… would have been that day Erwin heard from Raven about Misha.
+Because the last time they met... would have been that day Erwin heard from Raven about Misha.
 
 It seemed Aynar had inadvertently stepped on a mine.
 
-But…
+But...
 
-“…What are you talking about.”
+“...What are you talking about.”
 
 Surprisingly, Erwin didn’t react angrily.
 
 She just averted her gaze with an embarrassed look.
 
-‘Yeah, she’s always been sensitive to this kind of thing…’
+‘Yeah, she’s always been sensitive to this kind of thing...’
 
 It might be good that Aynar stepped in.
 
 Honestly, Amelia alone seemed to have a hard time taking care of Erwin.
 
-‘She seems to have gone a bit soft these days, too…….’
+‘She seems to have gone a bit soft these days, too.......’
 
 As I was thinking this when:
 
@@ -386,23 +386,23 @@ Aynar took the lead, and I stopped her with a chuckle.
 
 “Huh? We started from the north, so we go north! I know those basic directions by now! I can read a compass!”
 
-I had to admit, she’s come a long way over the last few years…
+I had to admit, she’d come a long way over the last few years...
 
 “But we’re not going to the Goblin Forest today.”
 
-“…Oh? Is that so? Then where? The Land of the Dead?”
+“...Oh? Is that so? Then where? The Land of the Dead?”
 
-“It’s the Rock Desert. Hmm, that’s strange. I’m sure I shared the exploration plan before…”
+“It’s the Rock Desert. Hmm, that’s strange. I’m sure I shared the exploration plan before...”
 
 “Ah, sorry! I forgot!”
 
-“…I see.”
+“...I see.”
 
 While Amelia—who’d never dealt with a ‘true Barbarian’ before—was momentarily at a loss for words, I quickly sorted out the situation.
 
 We can’t waste time here forever.
 
-“Alright, then…”
+“Alright, then...”
 
 Who should lead us?
 
@@ -410,7 +410,7 @@ Should I have Amelia guide, like last time? Or should Erwin do it this time?
 
 I hesitated briefly, but my decision came fast.
 
-“…I’ll be the guide!”
+“...I’ll be the guide!”
 
 Our main goal for this expedition is to work on our teamwork.
 
@@ -424,14 +424,14 @@ Cutting off Erwin’s protest, I quickly took the lead.
 
 There was quite a bit of work to be done on this expedition anyway.
 
-Although Ainar doesn’t seem to remember anything… … .
+Although Aynar didn’t seem to remember anything...
 
 ‘At least that means she doesn’t question anything I do.’
 
-Oddly enough, it’s an advantage.
+Oddly enough, it was an advantage.
 
 Back in my old team, I couldn’t even put my ‘game knowledge’ to good use because I had to tiptoe around Raven.
 
-[You have entered the second floor, Rock Desert]
+[You have entered the 2nd Floor: Rock Desert.]
 
-Okay, let’s start working on our teamwork, by slowly taking on the lower flower raids.
+Okay, let’s start working on our teamwork by slowly taking on the lower-floor raids.

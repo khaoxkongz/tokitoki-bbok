@@ -1,14 +1,14 @@
-The Pilgrim (4)
+Pilgrim (4)
 
 A cave littered with several corpses.
 
-An old man slowly approached the center, and gently stroked the monument as if brushing something away.
+An old man slowly approached the center and gently brushed a hand across the monument.
 
-[In honor of the last Great Sage, Diphlun Graundel Gabrillius—commemorating his great first step]
+[In honor of the last Great Sage, Diphlun Graundel Gabrillius—commemorating his great first step.]
 
 A monument erected long ago to commemorate the achievements of a great hero.
 
-“…We’re almost there now.”
+“...We’re almost there now.”
 
 The old man murmured softly, almost as if reciting a verse, then removed his hand from the monument.
 
@@ -22,7 +22,7 @@ The book floated in mid-air, defying gravity, and opened itself.
 
 The book, bearing this title, flipped through its pages and soon reached the last chapter.
 
-[…Overwhelmed by fear gripping his heart, the pilgrim abandoned his faith and fled again and again to preserve his life. Yet in the place he ran to escape fear, an even greater terror awaited him.]
+[...Overwhelmed by fear gripping his heart, the pilgrim abandoned his faith and fled again and again to preserve his life. Yet in the place he ran to escape fear, an even greater terror awaited him.]
 
 [The terror of having no one left at his side.]
 
@@ -30,59 +30,59 @@ The book, bearing this title, flipped through its pages and soon reached the las
 
 [As the pilgrim’s soul vanished, new power and authority were bestowed upon ———. Thus, a mere human, an insignificant creature, came to possess a cursed power.]
 
-[The one who spreads fear and despises faith. The birth of the Lord of Fear, Dreadfear.]
+[The one who spreads fear and despises faith. The birth of the Lord of Terror, Dreadfear.]
 
 Thud.
 
 The book closed.
 
-An old story, long forgotten by those who once remembered.
+An old story, long forgotten by those who had once known it.
 
 ---
 
-“Do I… just have to stab one person…?”
+“Do I... just have to stab one person...?”
 
-I choked on my breath at Versil’s question.
+I choked on my breath at Vercil’s question.
 
-I wanted to shout, “What kind of nonsense are you spouting?” but my body was frozen, and I could do nothing.
+I wanted to shout, ‘What kind of nonsense are you spouting?’ but my body was frozen, and I could do nothing.
 
-“Of course. Just one. If you kill just one, our empire will welcome you back.”
+“Of course. Just one. If you kill just one, our Empire will welcome you back.”
 
 His response seemed pleased.
 
-Then Versil spoke with a trembling voice.
+Then Vercil spoke with a trembling voice.
 
 I thought she might apologize or try to ease her guilt, but her words were completely different from what I expected.
 
-“Well… I think I understand clearly, Mr Jandel… You doubted me before, didn’t you?”
+“Well... I think I understand clearly, Mr Jandel... You doubted me before, didn’t you?”
 
 Doubt?
 
-No, what on earth is she talking about—?
+No, what on earth was she talking about—?
 
-“I’ve developed another ability. It’s not just invisibility and healing…”
+“I’ve developed another ability. It’s not just invisibility and healing...”
 
-“……”
+“...”
 
 “I’m not sure exactly which monster’s power it is, but I can feel emotions directed at me more clearly than ever before.”
 
 Damn it.
 
-I didn’t expect there to be such a catch.
+I hadn’t expected there to be such a catch.
 
-“Lady Tersia… was the same. She doubted me and hesitated whether to kill me first or not. In the end, she didn’t, but not because she trusted me.”
+“Lady Tercia... was the same. She doubted me and wondered whether she should kill me first. In the end, she didn’t—but not because she trusted me.”
 
-“……”
+“...”
 
-“Of course, Lady Pheneline was the only one who didn’t show any suspicion towards me.”
+“Of course, Lady Pheneline was the only one who didn’t show any suspicion toward me.”
 
 As Vercil’s voice continued, my heart raced uncontrollably.
 
-I’m doomed.
+I was screwed.
 
-There’s no stopping this.
+There was no way to stop this.
 
-I desperately tried to think of something to say to change her mind, but my mouth was sealed, and I couldn’t utter a word.
+I desperately tried to think of something that might change her mind, but my mouth was sealed and I couldn’t utter a word.
 
 Thump—!
 
@@ -92,13 +92,13 @@ Despair, which I hadn’t felt even when Dreadfear used his aura skill and cast 
 
 Vercil’s trembling hand, holding the dagger, steadied.
 
-“……So I’ll do it.”
+“...So I’ll do it.”
 
 “Because if I don’t, someone else will.”
 
 Shit.
 
-“……”
+“...”
 
 I closed my eyes.
 
@@ -108,41 +108,41 @@ What can I do, what can I do now to prevent this tragedy?
 
 There was nothing.
 
-It was too much to bear.
+It was almost too much to bear.
 
 Even when all my equipment and the essences I had painstakingly collected were taken away and this thing was thrown at us as a boss mob, I had refused to admit defeat, thinking there must be some way.
 
 Damn it.
 
-This is unreasonable.
+This was unreasonable.
 
-This is just too unreasonable.
+Completely unreasonable.
 
-It’s not like we’re going to die because we’re not strong enough, or because we made a big mistake, or because we didn’t finish the objective in time.
+We weren’t going to die because we were too weak, made some catastrophic mistake, or failed to finish an objective in time.
 
 “Stab, pilgrim. Cleanse your dagger with filthy blood and prove your purity.”
 
-Does someone really have to die?
+Did someone really have to die?
 
-Without even a chance to argue?
+Without even a chance to fight back?
 
 Swoosh.
 
-Versil stood up.
+Vercil stood up.
 
 And approached me, bowing her head.
 
 Then I saw her expression properly.
 
-“Mr. Jandel…”
+“Mr. Jandel...”
 
 She looked as if she would cry any moment.
 
 “If this continues, the raid will fail, right?”
 
-Yeah, so she’s decided on me.
+Yeah. So she had chosen me.
 
-Since there’s no way out, she’s resolved to survive alone, even if it means sacrificing me.
+Since there was no way out, she must have resolved to survive alone, even if it meant sacrificing me.
 
 Swoosh.
 
@@ -152,13 +152,13 @@ The moment I shut my eyes tightly.
 
 A gentle touch caressed my cheek.
 
-‘…Huh?’
+‘...Huh?’
 
-When I opened my eyes again, I saw Versil holding the dagger to her own throat, at an angle invisible to Dreadfear.
+When I opened my eyes again, I saw Vercil holding the dagger to her own throat, at an angle invisible to Dreadfear.
 
 “I’ve made many wrong choices before.”
 
-Wait, just a minute.
+Wait. Just a minute.
 
 “I thought it was natural, that anyone would do the same, that I was smart.”
 
@@ -166,19 +166,19 @@ I tried to speak, but of course, my mouth wouldn’t open.
 
 “But the outcomes were always bad.”
 
-Versil removed her hand from my cheek.
+Vercil removed her hand from my cheek.
 
 “I’m trying not to repeat the same mistakes.”
 
 No, if that’s the case, you could have just stayed still.
 
-Maybe that was the key to clearing this situation.
+Maybe that had been the key to clearing this situation.
 
-Why did you make this decision?
+Why had she made this choice?
 
 I couldn’t understand it at all.
 
-But…
+But...
 
 “I told you, if I don’t do it, someone else will do it.”
 
@@ -188,29 +188,29 @@ That one sentence made it all make sense.
 
 Thud—!
 
-It was us who pushed her from behind.
+It was our suspicion that had pushed her toward it.
 
 ---
 
-「The first pilgrim has died.」
+[The first pilgrim has died.]
 
-「All stats of the surviving pilgrims have increased by +400.」
+[All stats of the surviving pilgrims have increased by 400.]
 
-Her body, now lifeless, collapsed to the cold ground.
+Her lifeless body collapsed onto the cold ground.
 
 The bastard looked at the corpse and muttered a curt comment.
 
-“…What a pathetic bitch.”
+“...What a pathetic woman.”
 
 At those words, blood rushed to my head.
 
 My mind went blank, like a fragile circuit on the verge of shorting out with the slightest touch.
 
-‘Really…’
+‘Really...’
 
-She’s dead…?
+She’s dead...?
 
-It felt like I had drunk to my limit, something rose up inside me
+It felt as though I had drunk past my limit. Something surged up inside me.
 
 Beeeeeeeeep—
 
@@ -220,19 +220,19 @@ Amidst the ringing in my ears, I could hear Dreadfear’s voice.
 
 Then, a dark haze began to flow from his body.
 
-「The Lord of fear, Dreadfear has activated [Execution Time].」
+[The Lord of Terror, Dreadfear, has activated [Execution Time].]
 
-「Fear towards the target has greatly increased.」
+[Fear toward the target has greatly increased.]
 
-In a way, it was similar to killing it.
+In a way, it was similar to killing intent.
 
-In the way that it paralyses reason and makes it impossible to think straight.
+It paralyzed reason and made it almost impossible to think straight.
 
-“……”
+“...”
 
-“……”
+“...”
 
-My body’s survival instincts screamed like crazy, and the only thought in my head was to escape from this place.
+My survival instincts screamed at me, and the only thought left in my head was to escape.
 
 [Run away.]
 
@@ -242,19 +242,19 @@ But even in the midst of that, this thought came to me first.
 
 “Hold on.”
 
-What if Versil had made a different choice?
+What if Vercil had chosen differently?
 
-Could we still have trusted one another and refused to pick up that dagger until the very end?
+Could we really have continued trusting one another and refused the dagger until the very end?
 
-“Maybe…”
+“Maybe...”
 
 She must have feared this exact moment might happen.
 
-Like a true player of Dungeon & Stone, she understood the creator’s intentions all too well.
+Like a true [Dungeon & Stone] player, she understood the creator’s intentions all too well.
 
 Srrrk.
 
-Her blood formed a small pool on the ground as it flowed…
+Her blood formed a small pool on the ground as it flowed...
 
 And then—
 
@@ -262,9 +262,9 @@ Ziiing—!
 
 The moment that spreading blood touched the statue—
 
-[A mysterious being cradles the soul of the noble Pilgrim]
+[A mysterious being cradles the soul of the noble pilgrim.]
 
-[The altar is activated]
+[The altar has been activated.]
 
 The entire cave shook as if a rift had opened.
 
@@ -272,7 +272,7 @@ Rumble—!
 
 A bright light emanated from the statue.
 
-[The Light of Trust dispels the fear dwelling in your heart]
+[The Light of Trust dispels the fear dwelling in your heart.]
 
 All at once, the force binding our bodies lifted.
 
@@ -280,33 +280,33 @@ Tap.
 
 I scooped up my fallen weapon and got back on my feet.
 
-He just looked annoyed; there was no hint of wariness in his eyes.
+He only looked annoyed. There wasn’t a trace of wariness in his eyes.
 
 “Do you think anything will change because of this?”
 
 Well, I don’t know about that yet.
 
-But we’ve definitely cleared one pattern.
+But we had definitely cleared one pattern.
 
 ‘What kind of skill is that?’
 
-Even now, it’s a disgusting skill.
+Even now, it was a disgusting skill.
 
-‘Believe’—with just one word, he made us believe that betraying our comrades would let us survive?
+‘Believe’—with a single word, he had made us believe that betraying our comrades would let us survive?
 
-There’s a limit to toying with people.
+There was a limit to how far you could toy with people.
 
 “Even now, it’s not too late. There’s only one way for you to leave this cave alive. Prove your purity.”
 
-What are you talking about? Who would believe that now?
+What was he talking about? Who would believe that now?
 
 “Mister, my strength has returned somewhat.”
 
-In fact, the reason I managed to hit him this time was because I caught him off guard.
+In fact, I had only managed to hit him because I caught him off guard.
 
-Yeah, so…
+Yeah, so...
 
-‘Not now…’
+‘Not now...’
 
 I suppressed my rising urge, like a volcano about to erupt, and shouted.
 
@@ -314,7 +314,7 @@ I suppressed my rising urge, like a volcano about to erupt, and shouted.
 
 It wasn’t the time to face him head-on yet.
 
-Thanks to the significant stat boost, the imperial soldiers surrounding the cave were no longer a problem.
+Thanks to the enormous stat boost, the Empire soldiers surrounding the cave were no longer much of a threat.
 
 “Ugh, aaaaah!”
 
@@ -324,21 +324,21 @@ We quickly followed and escaped from the cave.
 
 “Move aside!”
 
-The guy who took the big hit quickly regained his composure and began chasing us.
+The man recovered quickly from the heavy blow and began chasing us.
 
-His movement speed…
+His movement speed...
 
 ‘A bit faster than ours.’
 
-Which means, if this continues, we’ll definitely get caught.
+Which meant that if this continued, we would definitely get caught.
 
 I need to find a way.
 
 So, I ran with all my might, thinking and thinking until he was right on our tail.
 
-Why did our stats suddenly increase?
+Why had our stats suddenly increased?
 
-Was it just a buff from the altar being activated?
+Was it simply a buff from activating the altar?
 
 No, maybe there’s another condition.
 
@@ -346,45 +346,45 @@ No, maybe there’s another condition.
 
 Is it a game of tag?
 
-Hmm, maybe if we keep running away from him, our stats will increase, and eventually, we’ll become strong enough to take him down.
+Hmm. Maybe if we kept running from him, our stats would continue increasing until we became strong enough to fight back.
 
-Nothing’s certain, but I set a goal.
+Nothing was certain, but I chose a direction.
 
-“…Where should we go?”
+“...Where should we go?”
 
 “Out of the cave.”
 
 Leaving this cave.
 
-Maybe activating the altar and escaping is the condition for clearing it… but…
+Maybe activating the altar and escaping the cave was the clear condition... but...
 
 That’s not easy either.
 
-“…Mister, we can’t keep running like this.”
+“...Mister, we can’t keep running like this.”
 
-If this keeps up, we’ll be caught soon.
+If this kept up, we would be caught soon.
 
 Aynar and Erwin each gave their opinion.
 
 “Bjorn, let’s fight. We need to avenge the mage!”
 
-“No. The three of us can’t win. I’ll try to lure him away.” Erwin suggested
+“No. The three of us can’t win. I’ll try to lure him away,” Erwin suggested.
 
 One suggested fighting, the other using a decoy.
 
-It’s not a bad idea, but…
+It’s not a bad idea, but...
 
-“…Alright. But I’ll stay behind and lure him.”
+“...Alright. But I’ll stay behind and lure him.”
 
-“No. I should do it. I think I can move alone, and… actually, I’ve had this ability since the beginning.”
+“No. I should do it. I think I can move alone, and... actually, I’ve had this ability since the beginning.”
 
 “An ability?”
 
-“I can sense where everyone is. I didn’t know what it was until we reunited back there…”
+“I can sense where everyone is. I didn’t know what it was until we reunited back there...”
 
-Is it something like the Guide’s authority to detect portals?
+Was it something like the Guide’s authority to detect portals?
 
-If that’s the case, then she could lure him away and still regroup with us without too much trouble…
+If that’s the case, then she could lure him away and still regroup with us without too much trouble...
 
 “Trust me. I’m the right person for this.”
 
@@ -394,38 +394,38 @@ What’s the best choice?
 
 As always, the time was fleeting, and I had to make a decision.
 
-“……Don’t get hurt.”
+“...Don’t get hurt.”
 
 Erwin didn’t respond to my answer.
 
 She just smiled as if to say, “Don’t worry,” and slowly began to slow down.
 
-“Huff, huff…”
+“Huff, huff...”
 
-I tried to maintain a steady breathing rythm as I pushed forward. It had been about two hours since we parted ways with Erwin.
+I tried to maintain a steady breathing rhythm as I pushed forward. It had been about two hours since we parted ways with Erwin.
 
-‘We’re probably halfway now…’
+‘We’re probably halfway now...’
 
 From the cave entrance to the center, it took nearly eight hours, but we’ve covered more than half that distance in just two hours.
 
-‘With these physical stats, it feels like we’re at about a third of our usual strength…’0
+‘With these Physical stats, it feels like we’re at about a third of our usual strength...’
 
-Of course, that’s just based on stats alone. Without any skills, we’re still far from being able to take him on.
+Of course, that was based on stats alone. Without our skills, we were still far from being able to take him head-on.
 
-‘The problem is… there’s no sign of our stats increasing further.’
+‘The problem is... there’s no sign of our stats increasing further.’
 
-Was the stat boost a one-time thing?
+Had the stat boost been a one-time effect?
 
 I don’t know, but Aynar and I kept moving toward the cave entrance.
 
-And then, after some time…
+And then, after some time...
 
 ‘Erwin, when is she going to show up? Did something go wrong?’
 
-Just as that unease began to creep in…
+Just as that unease began to creep in...
 
-「The second pilgrim has died.」
+[The second pilgrim has died.]
 
-「All stats of the surviving pilgrims have increased by +400.」
+[All stats of the surviving pilgrims have increased by 400.]
 
 Our stats increased once more.

@@ -36,13 +36,13 @@ Count Ferdehilt.
 
 Viscount Muhlbargh.
 
-Count Alminus…
+Count Alminus...
 
 Their silent acknowledgement from across the hall left me feeling uneasy.
 
 It felt as though these people were now more familiar to me than knights, officers, guild branch heads, or high-ranking officials.
 
-“That Count Ferdehilt over there… I first met him at the banquet hall.”
+“That Count Ferdehilt over there... I first met him at the banquet hall.”
 
 There, I became a barbarian warrior, fought with the knights, and earned the nickname ‘Knight Breaker’, and acquired the Garphas Necklace as a spoil of war. History
 
@@ -52,7 +52,7 @@ Now, as a titled noble, I was exempt from most ordinary laws and could only be p
 
 And yet, for some reason—
 
-‘I still think that time was the most fun…’
+‘I still think that time was the most fun...’
 
 Charging recklessly into Rank 6 monsters, watching the mana overload phenomenon on the third floor every time, clashing with fellow explorers in the labyrinth just to get by day after day.
 
@@ -84,13 +84,13 @@ Since we were fairly close, she started with a joke instead of a formal greeting
 
 “I see. Anyway, it is good to see you. What exactly is going on right now? Is there anything I should know?”
 
-The Rabbit Baroness paused, clearly not expecting the question. “Hmm… how should I put this? Baron Jandel, how much do you know?”
+The Rabbit Baroness paused, clearly not expecting the question. “Hmm... how should I put this? Baron Jandel, how much do you know?”
 
 “I came in a hurry, so I don’t know much. Just assume I don’t know anything and tell me.”
 
 The Rabbit Baroness did exactly that, giving me a detailed explanation from start to finish.
 
-“They invaded the imperial capital…?” I repeated, stunned.
+“They invaded the imperial capital...?” I repeated, stunned.
 
 “Not the main force, but a small elite unit.”
 
@@ -116,9 +116,9 @@ Of course, her belief wasn’t unreasonable.
 
 Given the number of soldiers stationed in the palace, there was a high chance that even an elite squad of over thirty would be dealt with in just a few minutes.
 
-But…
+But...
 
-‘You think those bastards would act without a plan…’
+‘You think those bastards would act without a plan...’
 
 Since we didn’t know what they were after, I became increasingly uneasy.
 
@@ -140,21 +140,21 @@ Information about future war developments.
 
 Words I could not possibly ignore.
 
-“…What do you mean by that?”
+“...What do you mean by that?”
 
-“This… You should be the only one to know, okay?”
+“This... You should be the only one to know, okay?”
 
 “Of course.”
 
 After swearing me to secrecy, the Rabbit Baroness glanced around, leaned in, and whispered as softly as she could: ‘Aside from the Noarkan invasion, the palace believes the explorers have become too strong.’
 
-“……What?”
+“......What?”
 
 “Don’t you see it as well? Ever since the war that began on the Dark Continent’s seventh floor, explorers have been growing noticeably stronger with each passing moment.”
 
 Ah, that.
 
-Certainly… I could agree to some extent.
+Certainly... I could agree to some extent.
 
 Throughout the war, the royal family had been forced to reward the explorers.
 
@@ -168,7 +168,7 @@ To survive the age of chaos, small and medium clans merged into larger forces, p
 
 “Isn’t it obvious? When any group becomes powerful, its voice grows louder. It wants more. And greed always leads to bloodshed. To rule this city, absolute authority is necessary.”
 
-Hmm, politically, that might be true… but I have a hunch that there’s more to it than that.
+Hmm, politically, that might be true... but I have a hunch that there’s more to it than that.
 
 It didn’t feel like the royal family was worried about explorers demanding more power. Rather, it felt like they were worried about explorers becoming too strong in the first place.
 
@@ -180,9 +180,9 @@ Badump.
 
 Wait.
 
-“……”
+“......”
 
-If what I’d just thought was true…
+If what I’d just thought was true...
 
 “Look over there, it’s Baron Jandel.”
 
@@ -192,7 +192,7 @@ If what I’d just thought was true…
 
 “I have even heard people say that if someone were to reach the tenth floor for the first time in thousands of years, it would be Baron Jandel and his companions.”
 
-Isn’t this… the most dangerous situation for our clan?
+Isn’t this... the most dangerous situation for our clan?
 
 ***
 
@@ -214,7 +214,7 @@ The knight who had entered carefully began his report.
 
 “Baron Jandel has arrived at the Military Command.”
 
-“…I see.”
+“...I see.”
 
 The man who received the subordinate’s report seemed lost in thought for a moment, then took the document and dismissed the knight.
 
@@ -240,13 +240,13 @@ Moreover, a single-line sentence was added at the very end of the document.
 
 There was no need to guess what the military’s higher-ups were after.
 
-“Hoo…”
+“Hoo...”
 
 The man put down the document and let out a long sigh.
 
 [So, do well.]
 
-[…]
+[...]
 
 [There won’t be a second chance.]
 
@@ -256,13 +256,13 @@ The chilling warning left by the barbarian echoed in his ears.
 
 The directive from above was highly unsettling. No matter how justified it might have been, he was still just a person in the end.
 
-‘What on earth is the Royal Family thinking…’
+‘What on earth is the Royal Family thinking...’
 
 Clearly displeased, he put the documents down and summoned the subordinate who had just left.
 
 “This is the strategic formation we’ve been given,” he said. “Share it only with the top-ranking officers of each unit, and handle it discreetly.”
 
-“S-Sir, this is…”
+“S-Sir, this is...”
 
 As soon as he laid eyes on the document, the servant understood their intentions.
 
@@ -270,12 +270,12 @@ It wasn’t that he couldn’t understand the subordinate’s feelings.
 
 The man himself was still displeased with the contents written in the document.
 
-But…
+But...
 
 “These are orders from above. No objections will be tolerated.”
 
 To survive in this city, one could not live by doing only what one wanted.
 
-“…Nia Raphdonia!”
+“...Nia Raphdonia!”
 
 Because he was not a barbarian.

@@ -6,7 +6,7 @@ The moment the cave door shut behind us and we were cut off from the outside wor
 
 Raven shot a light orb into the darkness and wore a fascinated expression.
 
-“Oh, it really doesn’t light up. Seeing as the mana is maintained, the spell hasn’t been canceled, but…”
+“Oh, it really doesn’t light up. Seeing as the mana is maintained, the spell hasn’t been canceled, but...”
 
 She seemed curious about how the darkness worked, but I couldn’t bring myself to care much. I wasn’t a scholar. I was a player. Honestly, the idea of trying to figure out the logic behind a field effect felt kind of ridiculous to me.
 
@@ -44,13 +44,13 @@ Aynar looked confused, but the Guild Master immediately understood what was happ
 
 “What sacrifice? You’re not dying.”
 
-“…Very well. I’ll gladly take on the burden.”
+“...Very well. I’ll gladly take on the burden.”
 
 We both knew what was going on. Was he deliberately making a show of “sacrificing” himself just to highlight how much credit he deserved?
 
 Either way, Ilya Adnus drew his sword.
 
-“A sword…? I thought he was an archer?”
+“A sword...? I thought he was an archer?”
 
 “Well, he uses a bow too. He’s more of a hybrid. His skill set isn’t heavily dependent on weapon type.”
 
@@ -69,7 +69,7 @@ The problem was the price that came after.
 「Ilya Adnus’s Natural Regeneration decreases by 1.」
 「Ilya Adnus’s Strength decreases by 1.」
 「Ilya Adnus’s Agility decreases by 1.」
-「Ilya Adnus’s Fire Resistance decreases by 1…」
+「Ilya Adnus’s Fire Resistance decreases by 1...」
 
 In this place, the more mobs you kill, the more your stats decrease. However, we couldn’t just walk past without killing them either.
 
@@ -87,11 +87,11 @@ It was Raven who answered Aynar’s question.
 
 “Here, every time you kill a monster, a random sub-stat decreases.”
 
-“Sub-stat…? What’s that?”
+“Sub-stat...? What’s that?”
 
 “The things gained from essences and the achievements of Gabrielius: Things like strength, agility and resistances.”
 
-“…What? Those decrease?”
+“...What? Those decrease?”
 
 Aynar recoiled in horror.
 
@@ -99,9 +99,9 @@ The guild master smiled bitterly in return.
 
 “Even so, someone has to bear the burden.”
 
-“…I respect you, Adnus! To endure that for your comrades—you’re a true warrior!”
+“...I respect you, Adnus! To endure that for your comrades—you’re a true warrior!”
 
-“…Haha. Thank you.”
+“...Haha. Thank you.”
 
 To me, it felt like a bit of a farce.
 
@@ -125,7 +125,7 @@ At Misha’s question, Raven avoided her gaze.
 
 “I heard mages lose mana instead.”
 
-“…Then wouldn’t that make them feel the same?”
+“...Then wouldn’t that make them feel the same?”
 
 Raven fell silent.
 
@@ -139,13 +139,13 @@ It was amusing, but as the leader, I couldn’t just stand there and watch them 
 
 「Ilya Adnus’s Luck decreases by 1.」
 
-「Ilya Adnus’s Soul Power decreases by 1…」
+「Ilya Adnus’s Soul Power decreases by 1...」
 
 The Guild Master, who was cleanly killing four monsters at a time earlier, was now taking them down one by one, struggling much more than before.
 
 There was a reason I hadn’t allowed Auyen to share the role with him. You need a certain level of specs for this strategy to work.
 
-“Bjorn. How about we help him a little…? He looks like he’s struggling. Can’t the Guild Master just take the last hit?”
+“Bjorn. How about we help him a little...? He looks like he’s struggling. Can’t the Guild Master just take the last hit?”
 
 Aynar suggested it, but I shook my head firmly.
 
@@ -184,11 +184,11 @@ Without wasting another second, we began our battle against the gatekeeper.
 
 The fight against the mid-boss was rather troublesome. If killing it were our only goal, we could have simply had Erwin fire a fully charged arrow, but that would only cause problems later in the next stage.
 
-So…
+So...
 
-“…Adnus! Hurry up and kill it!”
+“...Adnus! Hurry up and kill it!”
 
-“Ugh…! I am trying! But I’ve taken on too many curses…”
+“Ugh...! I am trying! But I’ve taken on too many curses...”
 
 “I get it, so hurry!”
 
@@ -234,9 +234,9 @@ The only unusual feature was the enormous monster skull decorating the front wal
 
 “Ooh! Raven! What kind of monster is that in the back? It looks super strong!”
 
-“Well, I’m not sure. There shouldn’t be many monsters of that size in the labyrinth… Maybe it’s not a monster?”
+“Well, I’m not sure. There shouldn’t be many monsters of that size in the labyrinth... Maybe it’s not a monster?”
 
-“Hmm… Then that’s a shame! I was looking forward to trying to kill it in the future!”
+“Hmm... Then that’s a shame! I was looking forward to trying to kill it in the future!”
 
 We slowly advanced in formation into the vast, open area.
 
@@ -278,7 +278,7 @@ And at the same time—
 
 「Erwin Fornacci di Tercia has used [Focused Fire].」
 
-「Groo….oooh?」
+「Groo....oooh?」
 
 Three phases were skipped in an instant.
 
@@ -310,7 +310,7 @@ As Erwin continued pouring out firepower, the Skeleton King’s soul orb drained
 
 [The Skeleton King has absorbed all souls.]
 
-[All of the Skeleton King’s authorities are greatly amplified…]
+[All of the Skeleton King’s authorities are greatly amplified...]
 
 [The Skeleton King’s accumulated soul energy is below 20%.]
 
@@ -358,7 +358,7 @@ Unfortunately, no essence dropped, but I didn’t mind too much. The main dish w
 
 The Skeleton King’s bones dissolved into a cluster of light and scattered, and at the same time, the entire cave began to shake again.
 
-“Ugh… What is this? Wasn’t it over?”
+“Ugh... What is this? Wasn’t it over?”
 
 Hearing Aynar mutter that, I smirked and replied.
 

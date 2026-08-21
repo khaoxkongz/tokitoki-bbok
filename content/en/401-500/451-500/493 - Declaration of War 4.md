@@ -22,13 +22,13 @@ And inside them, numerous races.
 
 Though not barbarians, they all have the same tattoos in similar places.
 
-‘Slaves. …….’
+‘Slaves. .......’
 
 Despite the sudden appearance of a giant barbarian smashing through the floor, they just stare into space with lifeless eyes.
 
 As a 21st century barbarian, it felt strange.
 
-So, there are still slaves in this world…
+So, there are still slaves in this world...
 
 Technically, slavery is illegal in Raphdonia as well.
 
@@ -46,7 +46,7 @@ I spoke to one of the few slaves whose eyes still showed some life.
 
 I spoke to a child who still had a glimmer of life in his eyes.
 
-“……!”
+“......!”
 
 The child flinched and pressed his back against the wall when I addressed him.
 
@@ -56,7 +56,7 @@ Regardless, I asked,
 
 Unfortunately, the response came from the thug who had followed me up.
 
-“……S-stop! Baron Jandel!”
+“......S-stop! Baron Jandel!”
 
 What? What are you going to do if I don’t stop?
 
@@ -66,15 +66,15 @@ I ignored him and kept my gaze fixed on the child.
 
 Surprisingly, the thug’s shout seemed to have helped a bit.
 
-“The giant…?”
+“The giant...?”
 
 Murmuring my nickname under his breath, the kid opened his eyes wide and stepped toward the bars.
 
-“The giant… they said you’re a hero. That you save people and punish villains… Is that true?”
+“The giant... they said you’re a hero. That you save people and punish villains... Is that true?”
 
 “Well, to some extent.”
 
-“……Did you come to save us?”
+“......Did you come to save us?”
 
 “No.”
 
@@ -84,19 +84,19 @@ I answered honestly.
 
 Even in the midst of this, the hug begged me to stop, and the boy, looking back and forth, finally spoke.
 
-“My mum… couldn’t pay her debts. So they said I had to pay them.”
+“My mum... couldn’t pay her debts. So they said I had to pay them.”
 
 “And your mum? What happened to her?”
 
-“She couldn’t pay her taxes… so they said she died.”
+“She couldn’t pay her taxes... so they said she died.”
 
 “And the fairy woman next to you?”
 
-I glanced at the woman in the same cell and asked. The child whispered, “Riley… she couldn’t pay her debts either. She said she could have paid, but the bad people wouldn’t let her. So they brought her here.”
+I glanced at the woman in the same cell and asked. The child whispered, “Riley... she couldn’t pay her debts either. She said she could have paid, but the bad people wouldn’t let her. So they brought her here.”
 
-“…”
+“...”
 
-“…She said she’d escape and come back to save me, but after they took her away a few times, she stopped talking.”
+“...She said she’d escape and come back to save me, but after they took her away a few times, she stopped talking.”
 
 “I see.”
 
@@ -104,7 +104,7 @@ It seemed I understood why this kid was the only one with lively eyes. Those wit
 
 Human will can be easily broken.
 
-Well, I’ve confirmed everything I needed to…
+Well, I’ve confirmed everything I needed to...
 
 Having finished my conversation with the child, I turned my gaze to the thug.
 
@@ -124,7 +124,7 @@ I knew they were bad people, so I didn’t hold back when beating them, but I co
 
 “Why do you think that is?”
 
-“…Because you don’t want to be completely at odds with us, the higher-ups have assessed.”
+“...Because you don’t want to be completely at odds with us, the higher-ups have assessed.”
 
 “Really?”
 
@@ -138,7 +138,7 @@ If I had gone around killing everyone, they wouldn’t have just stood there wit
 
 Therefore, my plan was to establish order and then negotiate with their boss to get what I wanted.
 
-But…
+But...
 
 “If you have something you want, say it now.”
 
@@ -176,7 +176,7 @@ I looked at the writhing figure and raised my hammer.
 
 His expression changed.
 
-“Stop. You’ll regret this…….”
+“Stop. You’ll regret this.......”
 
 What a strange thing to say.
 
@@ -194,9 +194,9 @@ Isn’t that right?
 
 ---
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 There was no further conversation. After I brought the hammer down, the thugs clenched their mouths shut and focused all their attention on my every move.
 
@@ -226,7 +226,7 @@ Mel gestured to his subordinates.
 
 “How is that friend doing? Is he still alive?”
 
-“…He’s still breathing, President.”
+“...He’s still breathing, President.”
 
 “Good.”
 
@@ -234,7 +234,7 @@ Then Mel asked me, “Baron Jandel. Before we start a formal conversation, may I
 
 “Do you think I, a baron of Raphdonia, would accept the demands of rebels?”
 
-“Haha, rebels… It seems you have a very poor opinion of us, Baron.”
+“Haha, rebels... It seems you have a very poor opinion of us, Baron.”
 
 “Well, is there any reason for me to think highly of you, who have such a ridiculous disregard for the law?
 
@@ -300,7 +300,7 @@ I had seen many leaders before, but this type was new to me.
 
 “Value is subjective, isn’t it? Just like how you, Baron, changed your thoughts after seeing these slaves.”
 
-“…You’re a funny man.”
+“...You’re a funny man.”
 
 “So, shall we move to another place? This doesn’t seem like a good spot for a conversation.”
 
@@ -326,7 +326,7 @@ At this point, I couldn’t help but ask, “Aren’t you afraid?”
 
 “If I die, that’s the end of it. Someone else will take my place, and everything will return to normal. The lowest places always collect the filth.”
 
-“…….”
+“.......”
 
 “Ah, of course, you’ll just vent your anger and leave without getting what you want.”
 
@@ -352,21 +352,21 @@ Since it had come to this, I decided not to care about taking the lead and just 
 
 That was the main reason I had visited the black market.
 
-[Some mages… have placed orders in the black market.]
+[Some mages... have placed orders in the black market.]
 
 Those who, due to the dwindling supply, had come to the black market to obtain a barbarian’s heart.
 
-[Ah, at the black market… there’s a request for your heart, Baron…]
+[Ah, at the black market... there’s a request for your heart, Baron...]
 
 And even further, those who had requested my heart.
 
-And…….
+And.......
 
-[I, really… I just received a request at the black market, that’s all… I don’t even know who the client is…]
+[I, really... I just received a request at the black market, that’s all... I don’t even know who the client is...]
 
 Those who dared to disrupt the floor lord raid.
 
-“I see… so that’s why you came here, Baron Jandel.”
+“I see... so that’s why you came here, Baron Jandel.”
 
 “Spare me the small talk, just answer the question.”
 
@@ -398,11 +398,11 @@ Then I made one last demand of Mel.
 
 There was no way I could just walk away after seeing all this.
 
-“Hmm… Baron Jandel, it seems you believe in the dignity of human life?”
+“Hmm... Baron Jandel, it seems you believe in the dignity of human life?”
 
 “You ask a lot of questions. I thought that was a yes or no question.”
 
-“…May I take a moment to calculate something?”
+“...May I take a moment to calculate something?”
 
 “Go ahead.”
 
@@ -410,7 +410,7 @@ With my permission, Mel bravely closed his eyes and began to think. He kept them
 
 “Very well. I will free all the slaves and promise not to deal in the slave trade from now on.”
 
-“…You decided that rather quickly.”
+“...You decided that rather quickly.”
 
 I probed, but once again, he answered smoothly—like it was nothing to hide.
 
@@ -424,7 +424,7 @@ He added that he’d tried more than once to close the business, but since it ha
 
 “Now that Baron Jandel is involved, no one will be able to oppose closing it. It actually works out for the best.”
 
-“…”
+“...”
 
 “So, does that fulfill all your demands?”
 
@@ -434,7 +434,7 @@ He added that he’d tried more than once to close the business, but since it ha
 
 With that, he called his subordinates and gave them a series of orders. By the time dawn broke, I had the information on the clients and custody of several hundred slaves.
 
-Afterward…
+Afterward...
 
 “Mel Asmond.”
 
@@ -448,7 +448,7 @@ He didn’t answer right away, only gave me a curious look.
 
 Of course, I’d heard about this clan that had ruled the black market for ages—even played through the black market episode in the game.
 
-But…
+But...
 
 “That’s not what I asked, is it?”
 

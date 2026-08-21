@@ -12,7 +12,7 @@ I had hunted this type before in the Basement Floor 1 library, so killing it was
 
 Even so, the fact that they appeared here revealed quite a bit about what was happening.
 
-‘So… this isn’t the labyrinth.’
+‘So... this isn’t the labyrinth.’
 
 The place we’re in right now is not inside the labyrinth.
 
@@ -22,7 +22,7 @@ On the flip side, there were several things out of place that I couldn’t simpl
 
 Anyway.
 
-‘I should have realized after seeing the craters…’
+‘I should have realized after seeing the craters...’
 
 Everything is confusing, but one thing is clear.
 
@@ -30,7 +30,7 @@ Even if there are some minor differences, this place is clearly modelled after t
 
 Judging by everyone’s faces, they’d realised it, too.
 
-“……”
+“......”
 
 A heavy silence enveloped the group after the battle ended.
 
@@ -44,15 +44,15 @@ In terms of team roles, he was basically doing what Aynar usually did on my team
 
 The question crossed my mind, but now wasn’t the time to dwell on it.
 
-We stood in silence while Aures tilted his head in confusion. Suddenly…
+We stood in silence while Aures tilted his head in confusion. Suddenly...
 
 A torrential downpour began.
 
-“This …”
+“This ...”
 
 Lee Baek-ho, who had been quietly looking down at Brachiaistelro’s corpse, muttered.
 
-“This might be… a dangerous situation.”
+“This might be... a dangerous situation.”
 
 His words perfectly captured our current situation.
 
@@ -64,7 +64,7 @@ Like stage lights turning on, a red glow spilled down from above, covering about
 
 It was the famous field effect of the 9th floor, Star Grave.
 
-“Huh…? Isn’t this..”
+“Huh...? Isn’t this..”
 
 Aures stood frozen, dazed like a deer caught in headlights.
 
@@ -88,7 +88,7 @@ Kwaaaaaaaaaaaang-!
 
 A red meteorite fell from the sky and struck the ground where we had been standing, and exploded.
 
-And then…
+And then...
 
 Whoosh-!!
 
@@ -100,7 +100,7 @@ Fortunately, the downpour cleared our vision almost immediately.
 
 Goosebumps ran down my entire body.
 
-“…We need to stay sharp, no matter how exhausted we are.”
+“...We need to stay sharp, no matter how exhausted we are.”
 
 As the dust settled, the crater that formed where the meteor hit made my knees go weak.
 
@@ -116,7 +116,7 @@ However, if you were hit on the outer edge, you would only incur fixed damage. B
 
 The damage was still enough to kill most tanks in a single hit.
 
-“Phew…”
+“Phew...”
 
 I briefly sympathised with everyone staring dumbfounded at the explosion.
 
@@ -132,7 +132,7 @@ BZZZT!!
 
 A bolt of lightning struck the centre of the crater.
 
-And then…
+And then...
 
 ‘Knew it. This bastard’s here too.’
 
@@ -142,7 +142,7 @@ A bipedal humanoid monster with two arms and a neck rising up along its spine.
 
 Ah, of course — it’s just a classification — but it’s far from human.
 
-Because no human was made of light that crackled with electricity across their body…
+Because no human was made of light that crackled with electricity across their body...
 
 ZZZZZZZT!
 
@@ -152,7 +152,7 @@ No human could be that big.
 
 Unless it’s a Barbarian with [Gigantification].
 
-“Giga Zeros…!”
+“Giga Zeros...!”
 
 As soon as he saw the monster, the GM opened his mouth and began explaining.
 
@@ -182,7 +182,7 @@ There was no point in trying to guard.
 
 Even the Aegis Barrier couldn’t stop a wide-range skill like that.
 
-All you could do was take it head-on…
+All you could do was take it head-on...
 
 「Character has cast [Scales of Greed]」
 
@@ -190,7 +190,7 @@ My enlarged body became covered in blue scales—the Dragon Mode I’d acquired 
 
 ‘Damn, that stings.’
 
-The electricity radiating from the Thunder giant’s body surged into mine, numbing my muscles, but…
+The electricity radiating from the Thunder giant’s body surged into mine, numbing my muscles, but...
 
 「Character has been inflicted with [Paralysis].」
 
@@ -200,7 +200,7 @@ That was it.
 
 Thanks to my anti-magic resistance setup, I broke free of the paralysis in less than two seconds.
 
-However, glancing back…
+However, glancing back...
 
 ‘Baek-ho’s still paralyzed, huh?’
 
@@ -236,11 +236,11 @@ The Thunder Giant slammed its massive fist down on me.
 
 I blocked with my shield and absorbed the impact, but the white spheres that scattered like splashing droplets fired their own lightning bolts at me.
 
-Hmm… maybe “shot” isn’t exactly the word I’d use.
+Hmm... maybe “shot” isn’t exactly the word I’d use.
 
 Just as the eye cannot follow the speed of light, by the time I regained my senses, the white lightning from those particles had already connected.
 
-Of course, the damage itself wasn’t great, but…
+Of course, the damage itself wasn’t great, but...
 
 「Character receives Lightning damage.」
 
@@ -252,9 +252,9 @@ And this time, the effect was amplified by 300%.
 
 Luckily, everyone had already pulled back, so the damage was minimal.
 
-Still…
+Still...
 
-‘Guess that means no close-range support…’
+‘Guess that means no close-range support...’
 
 Once I’d made my decision, I grabbed the giant’s body, ignoring the prickling sensation, and forced it even farther from my allies.
 
@@ -262,7 +262,7 @@ I could feel my condition deteriorating by the second, but that didn’t matter.
 
 Well, everyone has their own role, right?
 
-If the tank’s role is to get hit…
+If the tank’s role is to get hit...
 
 「Jayna Flyer summons [Healing Leech].」
 
@@ -278,13 +278,13 @@ She used a continuous healing skill—though for some reason, it was treated as 
 
 Then, in the centre of the battlefield, an altar-like structure was erected, connected to all members by red threads.
 
-‘Okay, this should be sufficient for tanking…’
+‘Okay, this should be sufficient for tanking...’
 
 The rest is up to the damage dealers.
 
-“…Huh?”
+“...Huh?”
 
-…Just as I thought that, an incident occurred.
+...Just as I thought that, an incident occurred.
 
 ***
 
@@ -300,11 +300,11 @@ If the DPS is weak, the fight just takes longer. However, if the main tank’s s
 
 In fact, I was able to safely protect my allies through dangerous expeditions because I always performed my duties as a tank.
 
-…Except for a few times, that is.
+...Except for a few times, that is.
 
 I value tanks much more highly than mages or priests.
 
-But…
+But...
 
 ‘Damn this new map.’
 
@@ -338,7 +338,7 @@ Nevertheless, it probably saved his life — without it, he might’ve died on t
 
 “Then heal him! If he dies, who’s gonna fix the magic circle?!”
 
-I wondered what use a magic circle was when we hadn’t even found a way to escape this place yet…
+I wondered what use a magic circle was when we hadn’t even found a way to escape this place yet...
 
 But, at Baek-ho’s orders, Jayna began to focus on healing the GM.
 
@@ -350,13 +350,13 @@ I rushed in to regain aggro but—
 
 The bastard blinked again and vanished.
 
-‘What the hell…’
+‘What the hell...’
 
 Once might’ve been random, but twice?
 
 No denying it now.
 
-‘Threat level… doesn’t work?’
+‘Threat level... doesn’t work?’
 
 Not even my increased threat level from Gigantification or the guaranteed taunt effect of the Aegis Barrier worked.
 
@@ -376,21 +376,21 @@ This wasn’t some weak creature. It was a Level 2 monster.
 
 Without proper tanking, someone was bound to die.
 
-‘What the hell am I supposed to do…?’
+‘What the hell am I supposed to do...?’
 
-For the first time in a long while, I felt genuinely helpless facing this monster. My thoughts were clouded by panic…
+For the first time in a long while, I felt genuinely helpless facing this monster. My thoughts were clouded by panic...
 
-“…Damn it.”
+“...Damn it.”
 
 Baek-ho clicked his tongue while looking at the Thunder Giant.
 
 But something was off about his tone. It wasn’t the kind of curse you mutter out of frustration.
 
-It sounded … regretful.
+It sounded ... regretful.
 
-“Didn’t wanna show this one…”
+“Didn’t wanna show this one...”
 
-…What?
+...What?
 
 It was as if he had a way to break through this situation.
 
@@ -404,7 +404,7 @@ ZZZZ—
 
 A sphere of darkness formed in his palm and began to spin, sucking in the surrounding air.
 
-‘Wait… hold on.’
+‘Wait... hold on.’
 
 I’d seen that before.
 
@@ -416,7 +416,7 @@ Snapping back to my senses, I hurried after him.
 
 And just few seconds later—
 
-“Alright… charge complete.”
+“Alright... charge complete.”
 
 Baek-ho muttered under his breath.
 
@@ -430,10 +430,10 @@ My vision went completely dark, as if I had been blinded, but I didn’t doubt f
 
 I knew exactly what that skill was.
 
-“Star’s Annihilation…”
+“Star’s Annihilation...”
 
 It was the active skill of the Lord of Darkness, Deadred, and, in terms of pure destructive power, it was unmatched by any other essence — the strongest attack skill in Dungeon & Stone.
 
-‘Holy shit…’
+‘Holy shit...’
 
-This bastard had that skill…?
+This bastard had that skill...?

@@ -8,21 +8,21 @@ Aside from the team members from that time, just a few high-ranking members in t
 
 Of course, Erwin knows nothing about it.
 
-All she’s aware of is that a mage named Dwalkie met an unfortunate end in the labyrinth.
+All she’s aware of is that a mage named Dwalki met an unfortunate end in the labyrinth.
 
 “Do they have some kind of bad history?”
 
 Hmm, if so, that’s a bit strange.
 
-When I shared her the hidden mission to help Ravien take down the Dragonslayer, her reaction didn’t seem quite—
+When I told her about the hidden mission to help Ravien take down the Dragon Slayer, her reaction hadn’t seemed quite right—
 
-‘…On second thought, she did look uncomfortable back then too.’
+‘...On second thought, she did look uncomfortable back then too.’
 
 Come to think of it, she genuinely looked unsettled.
 
 When Amelia asked her if she was sick, she stiffened up and said it was nothing and walked away.
 
-Well, I didn’t think deeply at the time…
+Well, I didn’t think deeply at the time...
 
 ‘I should check on this.’
 
@@ -32,19 +32,19 @@ So, after asking Jun’s permission, I immediately left and calmed Erwin down.
 
 And I listened to her story.
 
-“I-I’m sorry. I suddenly… did that…”
+“I-I’m sorry. I suddenly... did that...”
 
 “I’m not here to get an apology. I’m worried about what made you react that way. What’s going on between you and that bastard, the Dragon Slayer?”
 
-“Well…”
+“Well...”
 
 Erwin hesitated for a long time before she began to speak.
 
 “It happened when I was ten years old.”
 
-“When you were ten…?”
+“When you were ten...?”
 
-That’s about thirteen years ago.
+That had been about thirteen years ago.
 
 In other words, it would have been around a year after the war between the Barbarians and the Fairies ended.
 
@@ -54,11 +54,11 @@ The terrorist attack that occurred at the Fairy sanctuary.
 
 The culprit was Dragon Slayer Regal Vagos, and I heard that over a thousand fairies died then.
 
-And if my guess is correct…
+And if my guess is correct...
 
-“…Yes, my parents died then. In front of me… while protecting my sister, me, and my younger sibling…”
+“...Yes, my parents died then. Right in front of me... while protecting me, my sister, and my younger sibling...”
 
-“…I see.”
+“...I see.”
 
 Erwin lost her parents that day.
 
@@ -68,7 +68,7 @@ Despite that, Erwin endured it.
 
 Thanks to her eldest sister, Daria, who tried to fill that void as best she could.
 
-But…
+But...
 
 [That young lady has one of the heaviest fates I’ve seen, next to yours.]
 
@@ -78,11 +78,11 @@ Though it wasn’t the Dragon Slayer this time, the perpetrator was a member of 
 
 “Damn it.”
 
-“I-I’m sorry. The moment I heard his voice, I panicked. I know he’s an enemy, and… if I want to protect what’s precious to me, I should be the one to fight him… But I’m scared that they’ll take it all away again…”
+“I-I’m sorry. The moment I heard his voice, I panicked. I know he’s an enemy, and... if I want to protect what’s precious to me, I should be the one to fight him... But I’m scared that they’ll take it all away again...”
 
-It’s no wonder Erwin fell into panic.
+It was no wonder Erwin had panicked.
 
-“Haha, I’m pathetic, aren’t I? I’m stronger now… I’ve vowed countless times that if we met, I’d get my revenge. And yet, look at me…”
+“Haha, I’m pathetic, aren’t I? I’m stronger now... I’ve vowed countless times that if we met, I’d get my revenge. And yet, look at me...”
 
 That’s just how trauma is.
 
@@ -92,13 +92,13 @@ It doesn’t follow logic but rather emotion. More accurately, it’s the memori
 
 “W-What? No! You’re not pathetic! How could you say that? You’re an amazing person!”
 
-Well… perspectives differ from person to person.
+Well... people see things differently.
 
 I thought I knew Erwin pretty well after all the time we’d spent together, but I didn’t know any of this.
 
-Actually, it was more like I hadn’t even tried to know.
+More accurately, I hadn’t really tried to learn.
 
-[“Actually, I know… that I have a problem…”]
+[“Actually, I know... that I have a problem...”]
 
 When I first found out about Erwin’s anxiety symptoms.
 
@@ -110,9 +110,9 @@ When I returned to the city after losing Dwalki.
 
 If I’d thought more deeply about the meaning behind her words of comfort, I might have realized what the real problem was earlier.
 
-But…
+But...
 
-“Mister…”
+“Mister...”
 
 But sulking like this isn’t really my style.
 
@@ -120,23 +120,21 @@ If there’s a problem, then it’s just a matter of getting rid of it.
 
 “Erwin.”
 
-When I called her name, Erwin looked up at me with moist eyes and held my hand.
-
-As if waiting for me to say something.
+When I called her name, Erwin looked up at me with moist eyes and took my hand, as if waiting for me to say something.
 
 Yes, you were hoping I’d say this.
 
 “Don’t worry too much. Whether it’s the Ruin Scholar, the Corpse Collector, or that damn lizard bastard.”
 
-“………?”
+“......?”
 
 I quietly muttered as if making a vow.
 
 “Someday, I’ll kill them all.”
 
-“………Eh?”
+“......Eh?”
 
-…Huh?
+...Huh?
 
 That wasn’t the reaction I expected.
 
@@ -148,9 +146,9 @@ When I glared at her, Erwin flinched.
 
 It was a somewhat weak response, but I wasn’t too concerned.
 
-“…”
+“...”
 
-“…”
+“...”
 
 Erwin’s eyes, which had been filled with anxiety, had now calmed down.
 
@@ -162,7 +160,7 @@ After sending the now-calm Erwin back to the team.
 
 I took a moment to organize my thoughts.
 
-‘…It’s really strange.’
+‘...It’s really strange.’
 
 Dragon Slayer Regal Vagos.
 
@@ -170,7 +168,7 @@ In our team, there are as many as four people who have bad blood with this basta
 
 Not to mention Ravien, who is of the Dragon Tribe, and me, and as I just confirmed, Erwin has a grudge with him too.
 
-And…
+And...
 
 ‘Amelia also has a similar situation.’
 
@@ -178,7 +176,7 @@ Of course, Amelia is a bit different from the three of us.
 
 In her case, it’s closer to a one-sided grudge on the Dragon Slayer’s end.
 
-Apparently, she once found the dragonslayer bastard after he fell through a dimensional portal, took his equipment, and fed him a memory-erasing drug.
+Apparently, she had once found the Dragon Slayer after he fell through a dimensional portal, taken his equipment, and fed him a memory-erasing drug.
 
 [If he’s regained his memory, he’d be burning with desire to kill me by now.]
 
@@ -204,7 +202,7 @@ As soon as I pulled back the curtain on the soundproofed tent, screams filled th
 
 “Then why didn’t you mention the Dragon Slayer? It seems he’s also waiting at the base.”
 
-“Th-that…!”
+“Th-that...!”
 
 “I can still see the evil intent in your eyes—”
 
@@ -218,7 +216,7 @@ Blood began to flow.
 
 He had bitten his own tongue in an attempt to kill himself.
 
-“My, my… It seems you still lack the virtue to find salvation.”
+“My, my... It seems you still lack the virtue to find salvation.”
 
 Jun clicked his tongue regretfully and instantly healed the man’s injuries with his holy power.
 
@@ -226,13 +224,13 @@ Jun clicked his tongue regretfully and instantly healed the man’s injuries wit
 
 “Don’t worry. I’ll be by your side to help you regain a pure heart and find enlightenment someday.”
 
-“…Devil! You devil! You’re a devil!!”
+“...Devil! You devil! You’re a devil!!”
 
-“…My.”
+“...My.”
 
 Despite the insulting words, Jun didn’t erase his kind smile and quietly picked up an awl.
 
-And…
+And...
 
 “Ah! You’ve arrived.”
 
@@ -240,13 +238,13 @@ Upon seeing me, he quickly gagged the man.
 
 “Mmph, mmph!”
 
-“…Did you find out anything?”
+“...Did you find out anything?”
 
 “Unfortunately, I haven’t learned much yet. Other than the fact that the reserve forces staying at the base are more numerous than we expected.”
 
-“…They have more troops?”
+“...They have more troops?”
 
-“According to him, about twice the expected number.”
+“According to him, about twice the number we expected.”
 
 “What? Twice?”
 
@@ -256,21 +254,21 @@ I hurriedly continued.
 
 “Why didn’t we hear about this from the others? Did they deceive us?”
 
-“No. They wouldn’t risk their lives due to loyalty and lie. It’s just… They truly believed what they said.”
+“No. They wouldn’t risk their lives due to loyalty and lie. It’s just... They truly believed what they said.”
 
 Hmm, that does make sense.
 
-“By that logic, isn’t it possible that only this guy has the wrong information?”
+“By that logic, isn’t it possible that this guy is simply the one with bad information?”
 
-“Yes, that’s true. We can’t deny that. But… this friend only guessed after receiving a message. Usually, regular communications come from the base, so he realized that if the Dragon Slayer is there, it’s likely that his troops are there too.
+“Yes, that’s possible. We can’t rule it out. But... this man only realized it after receiving the message. Routine communications usually come from the base, so he inferred that if the Dragon Slayer was there, his troops were probably there too.”
 
-“……”
+“......”
 
-“What will you do? I’ll continue extracting information, but if the enemy’s forces are twice as high as expected, our mission is likely to fail.”
+“What will you do? I’ll continue extracting information, but if the enemy force is twice as large as expected, our mission is likely to fail.”
 
 “Even if we succeed, we’ll suffer more damage.”
 
-“……Yes, that’s right.”
+“......Yes, that’s right.”
 
 So, what should we do?
 
@@ -288,7 +286,7 @@ As the saying goes, ‘Two heads are better than one.’ Maybe someone will come
 
 ---
 
-A leadership meeting that had happened countless times during the expedition.
+Another leadership meeting—something we had held countless times during the expedition.
 
 As soon as I shared all the intel from the interrogation, various opinions poured out.
 
@@ -302,7 +300,7 @@ As soon as I shared all the intel from the interrogation, various opinions poure
 
 “No one said that. We’re just thinking about whether there’s another plan. That’s why Schuiz called us all.”
 
-“….”
+“....”
 
 When my name was mentioned, Kaislan composed himself.
 
@@ -320,13 +318,13 @@ I asked directly, prompting a flood of ideas.
 
 “So, Carla, do you have a better plan?”
 
-“……How about infiltrating? If we use the guy we’re interrogating, we might succeed unexpectedly.”
+“......How about infiltrating? If we use the guy we’re interrogating, we might succeed unexpectedly.”
 
 “But if we fail, we’ll all be wiped out. Naturally, the mission will fail too. The risk is too high. In that case, we’d rather—”
 
-From ambush to infiltration, luring, and assassination, various opinions came out, but there was no good plan that everyone could agree on.
+Ideas ranged from ambushes and infiltration to lures and assassination, but none was good enough for everyone to agree on.
 
-But humanity is the epitome of collective intelligence.
+Still, humanity was the epitome of collective intelligence.
 
 “In the end, luring the enemy to disperse their forces seems the best strategy.”
 
@@ -348,13 +346,13 @@ Both had pros and cons.
 
 In the former case, if successful, we could catch two birds with one stone.
 
-But…
+But...
 
-“Akuraba, this is no time to be greedy for achievements. Do you think they’ll die without even having time to send word to the rear? They’ll definitely alert others to our presence even if they die.” Kaislan spoke
+“Akuraba, this is no time to be greedy for achievements. Do you think they’ll die without even having time to send word to the rear? Even if we kill them, they’ll alert the others to our presence,” Kaislan said.
 
-“Moreover, there’s no guarantee that the surprise attack will succeed. If they respond calmly, our damage will increase.” said Carla
+“Moreover, there’s no guarantee the surprise attack will succeed. If they respond calmly, our losses will increase,” Carla added.
 
-“Yes, that’s what I was going to say! Even if we win, everyone will be exhausted and tired. Do you think we can attack the base in that state?” Kaislan asked
+“Exactly! Even if we win, everyone will be exhausted. Do you think we can attack the base in that condition?” Kaislan asked.
 
 If things go wrong, the mission itself could fail.
 
@@ -382,7 +380,7 @@ When I unconsciously tapped my knee, the team leaders gulped.
 
 “He always does that after he’s decided.”
 
-Wait… I have a habit like that?
+Wait... I have a habit like that?
 
 This was the first time I’d heard that, but it wasn’t a matter to concern myself with right now.
 
@@ -394,7 +392,7 @@ It’s too early to be greedy for the dragon slayer.
 
 “Good thinking! As long as we succeed in the mission, the royal family will reward us generously!”
 
-“Reward, huh…”
+“Reward, huh...”
 
 I smirked.
 
@@ -408,21 +406,21 @@ She’s not entirely wrong.
 
 If I were alone, I would have done that.
 
-But…
+But...
 
 “My decision holds your lives in the balance.”
 
-“…”
+“...”
 
 “The fewer battles we engage in, the more of us will return alive.”
 
 That’s why I gave up my ambition.
 
-That’s the entirety of my decision this time.
+That was the whole reason behind my decision this time.
 
 “Now, does that answer your question?”
 
-“…Yes, more than enough.”
+“...Yes, more than enough.”
 
 As I watched Akuraba nod in acceptance, I let go of the last of my lingering regrets.
 

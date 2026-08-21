@@ -24,15 +24,15 @@ Because none of the reasons made sense to me.
 
 This might not have been very barbarian of me, but this time I laid out my argument as logically as possible in an attempt to persuade him.
 
-However…
+However...
 
 “You have duties to fulfill within the Military Command. And I have determined that this ‘mission’ is more important than going to the front lines and fighting directly.”
 
-“Duties…?”
+“Duties...?”
 
-“This is just between us, but… the imperial capital, Karnon, isn’t safe either. The Noarkans have gone into hiding here, and even the Intelligence Bureau has yet to uncover what they’re planning.”
+“This is just between us, but... the imperial capital, Karnon, isn’t safe either. The Noarkans have gone into hiding here, and even the Intelligence Bureau has yet to uncover what they’re planning.”
 
-“…So what does that have to do with me?”
+“...So what does that have to do with me?”
 
 “No matter how sturdy a building is, if its pillars collapse, it will eventually fall. The titled nobles gathered here are the pillars that support this nation.”
 
@@ -40,7 +40,7 @@ However…
 
 “No one in this city is more specialized in protecting others than you. . I am not asking much. Simply stay here and prepare for any contingency.”
 
-“Ha…….”
+“Ha.......”
 
 I let out a heavy sigh. At least now, I finally understood why he was trying to keep me here.
 
@@ -52,23 +52,23 @@ A simple-minded warrior who knows nothing but fighting.
 
 A savage of this era, unbound by laws and reason.
 
-‘Well, it’s just that I’m a little worried about the consequences…….’
+‘Well, it’s just that I’m a little worried about the consequences.......’
 
 Sigh, so what am I supposed to do then?
 
 Ignore everything and smash my way through?
 
-“Or…”
+“Or...”
 
 That was when it happened.
 
 As if sensing that I was entertaining some dangerous thoughts, the Marquis muttered in a placating tone.
 
-“But then again… the reason we cannot send you is entirely because of those Noarkians hiding in this city. If you were to root them all out, things might be different. In that case, I might be able to grant your request.”
+“But then again... the reason we cannot send you is entirely because of those Noarkians hiding in this city. If you were to root them all out, things might be different. In that case, I might be able to grant your request.”
 
 At those words, a “ding!” notification seemed to go off in my head.
 
-“A kind of prerequisite quest, then…”
+“A kind of prerequisite quest, then...”
 
 Fine. So all I have to do is clear this.
 
@@ -83,7 +83,7 @@ In a way, the current situation was exactly like that.
 
 If I clear this quest, I can leave the imperial capital and legally go to the front lines where my allies are.
 
-The only disappointing part was…
+The only disappointing part was...
 
 “Then bring my clan here. I will personally take responsibility for finding them.”
 
@@ -105,7 +105,7 @@ At least I got manpower, so it was not a meaningless attempt.
 
 “I am saying this because you don’t seem to have grasped the situation properly. I repeat: you must never leave the Imperial Capital, Karnon, of your own accord. If you do, I will have no choice but to consider it desertion.”
 
-“…I said I understand.”
+“...I said I understand.”
 
 “Good. Then you may leave.”
 
@@ -121,7 +121,7 @@ Most of it was useless chatter.
 
 Still, I spoke with as many people as possible and listened.
 
-And after some time had passed…
+And after some time had passed...
 
 “Baron Jandel, the support unit assigned to you by the supreme commander has arrived.”
 
@@ -133,19 +133,19 @@ Not bad.
 
 But there was one thing that surprised me.
 
-“…Jandel?”
+“...Jandel?”
 
-“Raven…?”
+“Raven...?”
 
 Hmm, I did not expect the Marquis to assign her as well.
 
-“Do not tell me you are the one in charge of this Special Search Unit, Jandel…?”
+“Do not tell me you are the one in charge of this Special Search Unit, Jandel...?”
 
 Raven looked just as shocked, clearly not having heard about me beforehand.
 
 Because I knew how capable Raven was, I offered my hand eagerly. Yet as she shook it, there was a hint of dissatisfaction on her face.
 
-“…Ah, this is suddenly making me really nervous.”
+“...Ah, this is suddenly making me really nervous.”
 
 “Nervous?”
 
@@ -171,13 +171,13 @@ Raven’s expression was already gloomy. I felt a little sorry for her, but I sw
 
 “Please help me with this.”
 
-“Sir, even if you say that… it’s not like I have superpowers or anything…”
+“Sir, even if you say that... it’s not like I have superpowers or anything...”
 
 “I have to do this to go back to my allies.”
 
 When I looked at her with desperate eyes, Raven finally let out the deep sigh she’d been holding in.
 
-“…Alright. I will do my best.”
+“...Alright. I will do my best.”
 
 “That is enough.”
 
@@ -201,7 +201,7 @@ Surprised as I was, I still went over to greet the rest of the unit.
 
 I took the time to ask each of them who they were and what they specialized in.
 
-To summarize, there were ten knights, three mages, and five ‘search operatives’ who are treated as special positions even within the military…….
+To summarize, there were ten knights, three mages, and five ‘search operatives’ who are treated as special positions even within the military.......
 
 “So as a searcher, operative your abilities are suited for tracking?”
 
@@ -231,7 +231,7 @@ A man wearing a plain black uniform with no insignia or markings.
 
 “Then just answer this one thing for me. Is your first or last name Hans?”
 
-“…?”
+“...?”
 
 “It is important. If you cannot answer, I will have no choice but to dismiss you, even if you work in the intelligence bureau.”
 
@@ -239,7 +239,7 @@ A man wearing a plain black uniform with no insignia or markings.
 
 “Do you swear on the name of the royal family?”
 
-“…I swear.”
+“...I swear.”
 
 Okay, so there’s no Hans.
 
@@ -261,11 +261,11 @@ Alright, I’ve decided.
 
 After being given his new name, Mumu looked confused about what I meant.
 
-“…How is that a shortening?”
+“...How is that a shortening?”
 
 “Mumu and Nameless. The pronunciation is shorter, is it not?”
 
-“…?”
+“...?”
 
 “If you do not like it, tell me your real name. I will call you that.”
 
@@ -275,7 +275,7 @@ When I prodded him casually, Mumu let out a deep sigh and shook his head.
 
 “Alright, Mumu.”
 
-“…….”
+“.......”
 
 Despite giving permission, the guy made a face like he’d swallowed something bitter. He clearly didn’t like the name.
 
@@ -289,13 +289,13 @@ He was clearly someone the Marquis had planted, so there was no reason to treat 
 
 Mumu from the intelligence department briefed me on which districts they had searched, what they found, and the clues they’d gathered. We went over the information for a while, but ultimately nothing stood out.
 
-“If I must put it that way, yes…….”
+“If I must put it that way, yes.......”
 
 “So you searched everywhere and still couldn’t find even a single hair of theirs?”
 
 “Hmm, in that case, it’s possible that all the infiltrated Noarkans have no hair on their heads.”
 
-“……Are you being serious?”
+“......Are you being serious?”
 
 “No, it was a joke?”
 
@@ -307,13 +307,13 @@ Does he think that barbarians don’t have brains?
 
 “No, but if we walk around, something might come to mind.”
 
-“……”
+“......”
 
 Mumu looked like he had a lot to say, but he held it in. It was the look of someone who thought this was just a way to kill time.
 
 “Still, thanks to you, we have narrowed things down somewhat.”
 
-“…?”
+“...?”
 
 “If they were hiding in ordinary places, they would have been found already.”
 
@@ -321,7 +321,7 @@ At that, his expression immediately shifted to exasperation. Still, obvious or n
 
 “It seems you haven’t searched the mansions of the nobles.”
 
-“Baron? Surely you don’t intend to…”
+“Baron? Surely you don’t intend to...”
 
 Even as he spoke, his expression said he could not believe I would go that far.
 
@@ -345,11 +345,11 @@ At my shameless reply, Mumu turned pale and looked at Raven, but Raven simply no
 
 “Good. Then we’re done here. Hurry up. We need to conduct as many raids as possible before the heads of the houses catch on and start moving.”
 
-“Uh… but what exactly do you mean by ‘raids’…?” Raven asked
+“Uh... but what exactly do you mean by ‘raids’...?” Raven asked
 
 “That means if we find anything suspicious, we’ll take it with us to examine later.”
 
-“Ah…”
+“Ah...”
 
 Judging by the contempt on her face, she clearly understood that my real aim was to rummage through the houses and quietly pocket anything that caught my interest.
 

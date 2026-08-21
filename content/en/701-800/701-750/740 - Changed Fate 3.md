@@ -8,7 +8,7 @@ Of course, the king had his excuses.
 
 Apollo, after being rejected by Cassandra, spitefully stripped her of her “persuasiveness.” That curse clearly played a part in why no one believed her prophecies.
 
-But…
+But...
 
 ‘Well.’
 
@@ -24,7 +24,7 @@ Of course not.’
 
 Just like me right now.
 
-“Haha… How about calming down a little? I didn’t come here to fight, Sir Lion.”
+“Haha... How about calming down a little? I didn’t come here to fight, Sir Lion.”
 
 “It’s not about fighting. I just want to check whether I can trust you.”
 
@@ -44,7 +44,7 @@ It hit the mark.
 
 “You could’ve just passed me and headed to the sanctuary. Why did you stop?”
 
-“……”
+“......”
 
 “You know it in your heart, too, don’t you, Sir Lion? You know you’ll regret it if you don’t listen to the elders’ advice.”
 
@@ -56,13 +56,13 @@ I wanted to say that, but as he just said, I knew deep down.
 
 That wasn’t the real reason.
 
-“And you asked whether I’d live or die here, right? I haven’t heard directly from the elder. Still… I don’t really see myself dying here today. Considering how this conversation’s going…”
+“And you asked whether I’d live or die here, right? I haven’t heard directly from the elder. Still... I don’t really see myself dying here today. Considering how this conversation’s going...”
 
-“…….”
+“.......”
 
 “So, would you mind letting go? It’s getting a bit suffocating.”
 
-Ha…
+Ha...
 
 “Bullshit.”
 
@@ -72,11 +72,11 @@ Rrip—!
 
 The face behind the mask was remarkably ordinary.
 
-A Beastman in his mid-30s that you could see anywhere in the city…
+A Beastman in his mid-30s that you could see anywhere in the city...
 
 Tch, I wondered if it might be a face I knew.
 
-“Haha… were you that curious about my face?”
+“Haha... were you that curious about my face?”
 
 Seeing him remain completely unfazed even with his face exposed, I asked quietly.
 
@@ -94,7 +94,7 @@ Whether I believe in fate or not doesn’t matter.
 
 I just want to know why these damn destiny fanatics keep acting like this.
 
-“Hmm… that is a very difficult question. Would you mind if the answer is a bit long?”
+“Hmm... that is a very difficult question. Would you mind if the answer is a bit long?”
 
 “Just say it.”
 
@@ -124,7 +124,7 @@ But—
 
 “Like you said, even a reversed fate is still fate.”
 
-“And…”
+“And...”
 
 “What we’re doing now is trying to deal the cards ‘wrong.’ So someone can get a slightly better hand in a very small round.”
 
@@ -162,7 +162,7 @@ Finally, he couldn’t bear it any longer and spoke first.
 
 “Is it really that hard to decide?”
 
-“……”
+“......”
 
 “Think of it simply. If you had to lose either your car or your house, wouldn’t everyone choose the car?”
 
@@ -190,11 +190,11 @@ Looking into his eyes, I felt a strange sense of gratification and shrugged my s
 
 Since I had no more business with him, I simply dropped him into the burning District 7.
 
-“……?”
+“......?”
 
 “Now, get lost.”
 
-“Ugh…? Ack! Aaaaaah!”
+“Ugh...? Ack! Aaaaaah!”
 
 Geez, it’s not like you’d die from falling from here.
 
@@ -204,11 +204,11 @@ Boom—!
 
 Watching him fall into the sea of fire felt like years of stress melting away. I let out a long sigh, but the relief didn’t last.
 
-“Whew…”
+“Whew...”
 
 A weight far heavier than the relief I’d just felt settled in my heart. Still, there was nothing I could do.
 
-“…….”
+“.......”
 
 After standing blankly on the wall for a long while after dropping him, I began to run again.
 
@@ -220,29 +220,29 @@ Toward the destination I had chosen after my long deliberation.
 
 Even though his body had long since begun to cramp, Sven Parav remained tucked inside the cramped but comforting wardrobe. He’d already decided that, even if he soiled himself, he wouldn’t come out until everything was over.
 
-But…
+But...
 
 However, maybe it was too optimistic of him to expect the same from his companion.
 
-“Excuse me…”
+“Excuse me...”
 
-“Ah… is something wrong?”Sven Parab asked
+“Ah... is something wrong?”Sven Parab asked
 
 “C-could I step out for just a moment?”
 
-“Eh…? Outside is dangerous…”
+“Eh...? Outside is dangerous...”
 
-“I know… but just for a second…”
+“I know... but just for a second...”
 
 His wardrobe companion, Lyris Marone, continued to shake her legs nervously.
 
 Even Parav, who normally struggled to pick up on social cues, understood why she was trying to leave the wardrobe.
 
-“…Please be quick.”
+“...Please be quick.”
 
 Opening the wardrobe even for a moment made him anxious, but he couldn’t exactly stop a woman’s biological needs. So, he opened the wardrobe door as quickly and silently as possible.
 
-And then…
+And then...
 
 “I’ll just go to the next room and come right back!”
 
@@ -252,33 +252,33 @@ Slid.
 
 His companion went to the next room to take care of her situation, and Parav shut the door to wait, even if only for a short while. It creaked open about four minutes later, later than he’d expected.
 
-“Mr. Parab…! It’s a fire! A fire!”
+“Mr. Parab...! It’s a fire! A fire!”
 
-“Pardon…?”
+“Pardon...?”
 
 “The entire eastern part of District 7 is engulfed in flames!”
 
-If it’s eastern District 7, that’s the direction of District 8… Did some ‘incident’ occur over there?
+If it’s eastern District 7, that’s the direction of District 8... Did some ‘incident’ occur over there?
 
 “Mr. Parab, come out and take a look!”
 
-“…Huh?”
+“...Huh?”
 
-“Just come take a look. It doesn’t seem to be stopping… Maybe this whole area will start burning too.”
+“Just come take a look. It doesn’t seem to be stopping... Maybe this whole area will start burning too.”
 
-“Ah…”
+“Ah...”
 
 “Not ‘ah’! We might have to evacuate and move somewhere else, you know?”
 
-“I… I see…?”
+“I... I see...?”
 
 Despite Lyris Marone’s words, he had absolutely no intention of leaving the wardrobe.
 
-Still, he did feel a bit uneasy…
+Still, he did feel a bit uneasy...
 
-“Could you… close the wardrobe door for just a moment…?”
+“Could you... close the wardrobe door for just a moment...?”
 
-“…What?” Marone Froze
+“...What?” Marone Froze
 
 “Just for a moment, please.” he reassured, closing the door himself.
 
@@ -310,25 +310,25 @@ It wasn’t completely unreasonable.
 
 Paladins had powers like barriers, shields, and holy enchantments. Mages were no different.
 
-“Hmm…”
+“Hmm...”
 
 Marrone even seemed receptive to his reasoning—maybe it made more sense than blindly trusting his intuition. Parav didn’t let the opportunity slip by.
 
 “Aren’t the Noarkans swarming the streets right now? It’s too dangerous to move. And even if we decide later, it won’t be too late once the fire reaches us. The flames will keep the enemies from getting to us anyway.”
 
-“Ah… that makes sense too. Then let’s stay put and watch for now…”
+“Ah... that makes sense too. Then let’s stay put and watch for now...”
 
 Marrone was just about to decide to stay in the wardrobe and endure a little longer when, suddenly, her head snapped toward the window and froze.
 
 At first he wondered what was wrong—
 
-“……Kyaaahhh!”
+“......Kyaaahhh!”
 
 The moment a piercing scream echoed from outside the window, he understood.
 
 “Captain! I found a girl hiding here!”
 
-“Aaaah! P-please, spare me…!”
+“Aaaah! P-please, spare me...!”
 
 “Hahaha! She’s begging for her life. What should we do?”
 
@@ -336,14 +336,14 @@ The moment he heard that exchange, his heart dropped.
 
 Thump!
 
-No… it can’t be. Please, no…
+No... it can’t be. Please, no...
 
 He prayed over and over in his head—
 
-“Mr. Parav…!”
+“Mr. Parav...!”
 
 Thump!
 
-“…W-we have to save her!”
+“...W-we have to save her!”
 
 As always, his ominous premonition didn’t miss its mark.

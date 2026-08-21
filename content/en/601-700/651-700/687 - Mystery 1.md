@@ -16,17 +16,17 @@ Surviving alone on the 9th Floor is never easy for any character. And if you’r
 
 If Jayna hadn’t been lucky enough to run into me, she would have met her end right then and there.
 
-But still…
+But still...
 
-“……Huh?”
+“......Huh?”
 
 No matter how prepared you think you are, news like this still hits you hard.
 
-“W-what are you talking about…? Mr. Bright is dead…?” GM asked again, clearly shocked. But Ruin Gramps continued in an emotionless voice, as though he were simply stating facts.
+“W-what are you talking about...? Mr. Bright is dead...?” GM asked again, clearly shocked. But Ruin Gramps continued in an emotionless voice, as though he were simply stating facts.
 
 “I found his corpse on the way here. It seems this area was too harsh for him to survive alone after pushing himself to his limits.”
 
-“T-that…”
+“T-that...”
 
 The GM seemed at a loss for words upon hearing the news of his death.
 
@@ -36,11 +36,11 @@ Ruin Gramps, who had probably spent more time with him, didn’t seem to care at
 
 “Anyway, since Bright is dead, the only one left to hang the cloth on the tree to deliver the message is Baek-ho.”
 
-“I… I see…”
+“I... I see...”
 
 “Alright, that’s enough about Bright. More importantly, what’s going on here? What exactly is that structure?”
 
-“… We don’t know either. It was already here when we arrived…”
+“... We don’t know either. It was already here when we arrived...”
 
 “Hm. Very intriguing.”
 
@@ -48,19 +48,19 @@ Ruin Gramps’s eyes sparkled as he approached the building, and I paused for a 
 
 I closed my eyes and observed a moment of silence.
 
-‘Layton Bright…’
+‘Layton Bright...’
 
 Judging by the fact he was with Baek-ho, he probably wasn’t a good guy.
 
 But I offered my condolences nonetheless. It would be too sad if this brutal labyrinth didn’t allow even that.
 
-“…Mr. Bright always said he wanted to quit everything.”
+“...Mr. Bright always said he wanted to quit everything.”
 
 I turned toward the voice. It was Jayna.
 
 “Well. I guess he got what he wanted. He doesn’t have to do anything anymore.”
 
-…What the hell? Is she a psychopath too?
+...What the hell? Is she a psychopath too?
 
 I thought so at first, but when I saw her expression, I couldn’t help but smirk.
 
@@ -76,7 +76,7 @@ Jayna flinched at my casual remark, then smiled faintly and replied.
 
 “As for sacrifices, you can take care of that by killing Plunderers in the labryinth or those Noark bastards.”
 
-“…You are aware that I’m one of those ‘Noark bastards’, right?”
+“...You are aware that I’m one of those ‘Noark bastards’, right?”
 
 Ah, that’s true.
 
@@ -94,31 +94,31 @@ Considering I already have enough trouble with the Royal Family, that’s not so
 
 After that, Ruin Gramps and GM began examining the phenomenon, while the rest of us simply waited on standby.
 
-A day passed. Then two…
+A day passed. Then two...
 
 On the third day, Rek Aures finally appeared.
 
 He looked extremely ragged — the word ‘tattered’ didn’t even begin to describe it.
 
-“H-ha… ha… I… I’m alive…”
+“H-ha... ha... I... I’m alive...”
 
 Just from his appearance, it was clear what he had been through over the past few days.
 
 Relief washed over him the moment he saw us, and he fell asleep on the spot. Jayna went over to heal him and take care of him.
 
-And…
+And...
 
 “So you’re telling me you weren’t the one who tied the cloth.”
 
-“…It’s shameful, but yes. I just barely fled from the monsters and crossed into the Primordial Land, but right then—”
+“...It’s shameful, but yes. I just barely fled from the monsters and crossed into the Primordial Land, but right then—”
 
 “Enough.”
 
 It felt like his explanation would go on for a while, so I cut Aures off and shifted my gaze to the rest of the group.
 
-“…Isn’t this strange? The situation suggests Lee Baek-ho tied the cloth, but he still hasn’t shown up.”
+“...Isn’t this strange? The situation suggests Lee Baek-ho tied the cloth, but he still hasn’t shown up.”
 
-“Yeah. At first, I thought maybe he went to hang clothes in other regions… but after this long…”
+“Yeah. At first, I thought maybe he went to hang clothes in other regions... but after this long...”
 
 “If that were the case, he would’ve returned at least once already.”
 
@@ -132,11 +132,11 @@ While we were discussing this, Ruin Gramps put forward a theory.
 
 It was clearly shaped like an entrance. Even after examining it thoroughly from the outside, we still couldn’t determine what was inside.
 
-Since we didn’t know what to expect, we had decided to make a decision only after the whole party had gathered, but…
+Since we didn’t know what to expect, we had decided to make a decision only after the whole party had gathered, but...
 
-‘That’s true… If it’s Baek-ho, he’d just walk in by himself, saying he’d ‘check it out for a bit’ before we got here.’
+‘That’s true... If it’s Baek-ho, he’d just walk in by himself, saying he’d ‘check it out for a bit’ before we got here.’
 
-“…It’s a reckless thing to do, but for some reason, it doesn’t seem strange if it were him.”
+“...It’s a reckless thing to do, but for some reason, it doesn’t seem strange if it were him.”
 
 Everyone agreed with Ruin Gramps’s idea.
 
@@ -148,15 +148,15 @@ However, even though he was the one who suggested it, Ruin Gramps shook his head
 
 “Contrary to his appearance, Baek-ho never does anything reckless. He’s so cautious that sometimes I’m the one who gets irritated just by staying next to him.”
 
-“…Hold on. Are we talking about that Baekho?”
+“...Hold on. Are we talking about that Baekho?”
 
 “Confidence and caution are two very different things.”
 
 “But you’re the one who suggested he may have gone inside.”
 
-“Correct. Because all other possibilities have been eliminated. But if that cautious Baek-ho went inside… then he must have had a clear reason.”
+“Correct. Because all other possibilities have been eliminated. But if that cautious Baek-ho went inside... then he must have had a clear reason.”
 
-Hmm…
+Hmm...
 
 “Well? Bjorn Jandel, what do you think?”
 
@@ -174,13 +174,13 @@ It was time to make a decision.
 
 “I’ve never heard of anything like this existing in the Primordial Land.”
 
-“Right, that’s what I thought…”
+“Right, that’s what I thought...”
 
 Honestly, it was the same for me.
 
 It wasn’t just the Primordial Land; I had never seen such an entrance anywhere in the Star Grave. The fact that it had appeared out of nowhere, despite not being there last time, was also highly suspicious.
 
-But still…
+But still...
 
 “Alright, I’ve decided.”
 
@@ -218,11 +218,11 @@ Not long after descending the stairs, a loud voice came from the back.
 
 “The rope’s been cut!”
 
-“……What?”
+“......What?”
 
 “It’s not my fault! I didn’t do anything, I tell you! I just followed—!”
 
-“He doesn’t seem to be lying. Look at the cross-section here, it looks like it was cut by something sharp…”
+“He doesn’t seem to be lying. Look at the cross-section here, it looks like it was cut by something sharp...”
 
 “Everyone, move close to the wall.”
 
@@ -234,9 +234,9 @@ Besides, this was a magitech rope built to withstand hundreds of metres of strai
 
 We tried to go back.
 
-But…
+But...
 
-“Haven’t we climbed more steps than we descended…?”
+“Haven’t we climbed more steps than we descended...?”
 
 “Yes. We went down 213 steps. But we’ve already climbed over 240.”
 
@@ -250,7 +250,7 @@ The exit was gone.
 
 “Don’t panic,” Jayna said sharply to Aures. “We all expected something like this.”
 
-“R-right…”
+“R-right...”
 
 “That so?”
 
@@ -260,9 +260,9 @@ It was a reasonable suggestion.
 
 But something felt off.
 
-Not exactly off, but…
+Not exactly off, but...
 
-‘Going down makes the entrance disappear, and going up creates endless stairs…’
+‘Going down makes the entrance disappear, and going up creates endless stairs...’
 
 A sense of déjà vu.
 
@@ -272,7 +272,7 @@ There was a rift like this.
 
 There had been something like this at the entrance to the fourth-floor rift.
 
-‘And now that I look closely, even the walls feel similar…’
+‘And now that I look closely, even the walls feel similar...’
 
 If this area is based on the ‘Golden Ruins’, then blindly going down isn’t the solution.
 
@@ -286,17 +286,17 @@ Of course, there’s no guarantee that the same event will occur here. However, 
 
 “I’m going to climb up. Be careful not to get left behind.”
 
-“Huh? But…”
+“Huh? But...”
 
 “Just follow me.”
 
 I quickly climbed the stairs.
 
-And then…
+And then...
 
 “How long are we going to climb? There’s still nothing but stairs.”
 
-“It’ll be a hassle going back down…”
+“It’ll be a hassle going back down...”
 
 By the time we estimated that we had climbed about half the total distance
 
@@ -310,21 +310,21 @@ Strange footsteps echoed from ahead.
 
 “Quiet.”
 
-“……?”
+“......?”
 
 “Someone is coming down from ahead.”
 
 I had no idea who it could be. This wasn’t how the special event worked.
 
-Just who… is it?’
+Just who... is it?’
 
 Although I couldn’t be sure, there was a chance this would lead to a battle, so I signaled for everyone to raise their guard.
 
 And then.
 
-“……”
+“......”
 
-“……”
+“......”
 
 The approaching footsteps abruptly stopped.
 
@@ -356,19 +356,19 @@ I honestly considered hitting him over the head just this once, but Baek-ho only
 
 “Bahaha! You were really surprised, weren’t you? You totally were. Are you okay? You looked kinda scared.”
 
-“…You should pay attention to the situation before making jokes like that.”
+“...You should pay attention to the situation before making jokes like that.”
 
 “Aw, come on. How could I not? I finally get to reunite with my precious comrades!”
 
-“…….”
+“.......”
 
 ‘But seriously, I didn’t think you guys would be inside already. Why did you come down without waiting for me?”
 
-…What?
+...What?
 
 “Come on, you can’t be mad at me over just a little prank—”
 
-“…What did you just say?”
+“...What did you just say?”
 
 I lowered my voice and Baek-ho paused, sensing that something was wrong.
 
@@ -380,10 +380,10 @@ Up until now, I had been almost sure it was him.
 
 But Baek-ho furrowed his brows and tilted his head.
 
-“What are you talking about? That cloth… wasn’t that something you guys put up…?”
+“What are you talking about? That cloth... wasn’t that something you guys put up...?”
 
 At his response, a cold shiver ran straight down my spine.
 
-…If it wasn’t Baek-ho.
+...If it wasn’t Baek-ho.
 
 Then who the hell was the one that told us to come here?

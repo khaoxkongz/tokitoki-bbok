@@ -2,7 +2,7 @@
 
 Maybe because I made the proposal in such a con artist like tone.
 
-“Big money… you say?”
+“Big money... you say?”
 
 The council leader narrowed his eyes and his voice dripped with skepticism.
 
@@ -12,15 +12,15 @@ Since I had at least gotten permission to explain, I quickly continued before th
 
 “We’ll invest during this opportunity.”
 
-“…Invest? Do you have a specific merchant company in mind?”
+“...Invest? Do you have a specific merchant company in mind?”
 
 “No, not investing in a company.”
 
-“Then…?”
+“Then...?”
 
 “Let’s invest in land. In District 7.”
 
-“Land… you say?”
+“Land... you say?”
 
 The council leader reacted as if I were spouting nonsense again, which wasn’t too surprising.
 
@@ -28,7 +28,7 @@ In this deformed city where magic stones replace all resources and consumption a
 
 Thus, Raphdonia’s real estate has always remained consistent, neither rising nor falling.
 
-But…
+But...
 
 “As you know, the current situation in District 7 is worse than the worst. If we buy now, we can acquire it dirt cheap.”
 
@@ -44,7 +44,7 @@ Under normal circumstances, that is.
 
 A major event had occurred: the sealing of the Labyrinth.
 
-And amidst that, District 7 borders Bifron, which is occupied by the Noark bastards…
+And amidst that, District 7 borders Bifron, which is occupied by the Noark bastards...
 
 “And I’ve heard many families are trying to save money and avoid spending lately.”
 
@@ -56,7 +56,7 @@ Having explained this carefully, I spoke in a confident voice.
 
 “If we look carefully, there will surely be quite a few nobles who want to sell. If consumption seriously decreases, the businesses owned by noble families will also take a big hit.”
 
-“Certainly… the number of people in urgent need of money would increase.”
+“Certainly... the number of people in urgent need of money would increase.”
 
 The Council Leader seemed to agree with me now.
 
@@ -74,7 +74,7 @@ Just as nobles from other families might be desperate to sell land for money, th
 
 Therefore, they can’t make long-term investments.
 
-But…
+But...
 
 ‘Seems he’s almost convinced.’
 
@@ -86,7 +86,7 @@ To someone who had lived in Raphdonia their entire life, my question might have 
 
 As expected, his reaction matched.
 
-“That… is a meaningless assumption.”
+“That... is a meaningless assumption.”
 
 “Even so, answer me. If it were true, what would you do?”
 
@@ -122,17 +122,17 @@ I cut him off.
 
 Buying land through proxies was a common practice among wealthy merchants. Enforcement was so lax that getting caught was extremely rare. However, if someone deliberately made an issue of it, it could become a problem.
 
-But…
+But...
 
 “Strictly speaking, it’s not illegal. In proxy purchase cases, permanent rights to the land must be explicitly stated in the contract, but I have no intention of including such a clause.”
 
-“…Then it could arguably be interpreted as you said. But then, who would agree to such an arrangement? Wouldn’t it be much cheaper and better to just pay rent?”
+“...Then it could arguably be interpreted as you said. But then, who would agree to such an arrangement? Wouldn’t it be much cheaper and better to just pay rent?”
 
-“They will come. Unlike proxy purchases which require paying nearly three times the premium, I don’t intend to charge any premium at all, and…”
+“They will come. Unlike proxy purchases which require paying nearly three times the premium, I don’t intend to charge any premium at all, and...”
 
-“……”
+“......”
 
-“…I will return the entire received sum once the contract ends.”
+“...I will return the entire received sum once the contract ends.”
 
 “What did you say?!”
 
@@ -140,7 +140,7 @@ Unfortunately, the Council leader, having lived his whole life in this city, cou
 
 “Return the money? Then they’d be borrowing the land for free without paying any rent!”
 
-‘Hmm… is it that hard to understand?’
+‘Hmm... is it that hard to understand?’
 
 The Council leader only saw this method as a loss for us, so I had to spend considerably more time explaining.
 
@@ -157,7 +157,7 @@ My plan was simple.
 Buy land in the 7th District from nobles desperate for cash.
 Then lease it out to merchant guilds or wealthy individuals for a huge deposit, but no rent.
 
-And then…
+And then...
 
 Use that money to buy more land.
 
@@ -165,7 +165,7 @@ Repeat endlessly.
 
 The Council Leader had doubts about whether this would work, but after more persuasion, he admitted:
 
-“Indeed… if we rebuild the ruined land with proper buildings, it won’t be hard to find those eager to sign contracts with us. In the long term, it’d be far cheaper for them.”
+“Indeed... if we rebuild the ruined land with proper buildings, it won’t be hard to find those eager to sign contracts with us. In the long term, it’d be far cheaper for them.”
 
 Jeonse requires a large lump sum.
 
@@ -179,7 +179,7 @@ If I guessed right, some might even take loans from banks to pay the jeonse, ins
 
 “I plan to negotiate with Count Alminus, the bank director, about this. To see if people can take out loans using my refund contract as collateral—”
 
-“T-This… this is unbelievable…”
+“T-This... this is unbelievable...”
 
 By now, his tone had changed.
 
@@ -199,11 +199,11 @@ From my perspective, though, it’s not perfect.
 
 “You seem to have misunderstood something, Council Leader. My goal isn’t to buy all of District 7.”
 
-“……?”
+“......?”
 
 “My goal is to buy all of District 7 and sell it later when the price goes up.”
 
-“……!!!”
+“......!!!”
 
 This was the core of the current plan.
 
@@ -219,7 +219,7 @@ This is a sure win.
 
 The only thing that could stop us is if those Noark bastards come out from beyond the wall and wipe out District 7 again.
 
-‘Uh…’
+‘Uh...’
 
 It really won’t come to that, right?
 
@@ -227,7 +227,7 @@ Shaking off the ominous thought, I continued,
 
 “Anyway, think about it, Council Leader. How much do you think we’ll make when the time comes?”
 
-“…What do you need me to do?”
+“...What do you need me to do?”
 
 ‘Got him. He’s all in now.’
 
@@ -235,7 +235,7 @@ I didn’t hold anything back.
 
 This plan couldn’t work without his full cooperation.
 
-From finding nobles willing to sell land, to the funds for purchasing the land, and the capital to hold out until buildings are built and tenants are found…
+From finding nobles willing to sell land, to the funds for purchasing the land, and the capital to hold out until buildings are built and tenants are found...
 
 From start to finish, I needed the Council Leader’s help.
 
@@ -253,7 +253,7 @@ And negotiation skills honed over decades.
 
 The Council Leader was the perfect man for this.
 
-“…Still, I can’t make such a huge decision right this moment. Let me think it over and contact you.”
+“...Still, I can’t make such a huge decision right this moment. Let me think it over and contact you.”
 
 He slightly pulled back at the end, but I simply nodded.
 
@@ -269,13 +269,13 @@ Introducing the Jeonse system to Raphdonia.
 
 It would definitely bring me huge profits.
 
-My only concern was whether such capitalist behavior might feel too suspicious…
+My only concern was whether such capitalist behavior might feel too suspicious...
 
 But really, there’s nothing special here. Anyone could come up with the jeonse idea.
 
 Sure, a Korean would be suspicious if they saw me doing this.
 
-But…
+But...
 
 There are only three Koreans here anyway.
 
@@ -283,7 +283,7 @@ Lee Baek-ho, Hyeon-byeol, and me.
 
 And they already knew my true identity.
 
-Of course, there could always be another Korean hiding out there somewhere…
+Of course, there could always be another Korean hiding out there somewhere...
 
 But the risk was worth it.
 
@@ -293,7 +293,7 @@ Now I had at least the means to protect myself.
 
 And I’d already prepared some insurance.
 
-“By the way… did all this come purely from your head, Baron Jandel?”
+“By the way... did all this come purely from your head, Baron Jandel?”
 
 “Of course not! Our Chief Administrative Officer came up with this idea. I suppose working on construction projects in the barbarian sanctuary got her mind working in that direction!”
 

@@ -1,4 +1,4 @@
-Man and Woman (2)
+Of Men and Women (3)
 
 The Baron of Raphdonia.
 
@@ -10,15 +10,15 @@ The leader of Clan Anabada.
 
 All these titles refer to one person.
 
-The giant, Bjorn Jandel.
+The Giant, Bjorn Jandel.
 
-“He really… was alive……”
+“He really... was alive...”
 
 Misha Karlstein clenched her fists tightly.
 
-As soon as dawn broke, she went into the city and personally inquired several times. The words of Lee Baek-ho were undoubtedly true.
+As soon as dawn broke, she went into the city and asked around for herself. Lee Baek-ho had been telling the truth.
 
-“What… have I been living for all this time……?”
+“What... have I been living for all this time...?”
 
 An indescribable wave of emotions swept over her.
 
@@ -28,39 +28,39 @@ Ah, and of course, anger.
 
 Why did Bjorn deceive me and pretend to be dead?
 
-If he hadn’t done that…
+If he hadn’t done that...
 
-I wouldn’t have had to spend all these years with such criminals-.
+She wouldn’t have had to spend all these years with those criminals.
 
 “No.”
 
-She shook her head and shook off the distracting thoughts.
+She shook her head, driving away the distracting thoughts.
 
 There must have been a reason.
 
 Because Bjorn Jandel is that kind of person.
 
-So, until I hear that reason directly, I won’t doubt him and will trust him.
+So until she heard the reason directly from him, she would trust him.
 
-“Yes, that’s right. That’s what I’ll do……”
+“Yes, that’s right. That’s what I’ll do...”
 
-Murmuring to herself as if she were making a vow, she went to Bjorn’s residence, which she had found out about during the day.
+Murmuring to herself as if making a vow, she headed for Bjorn’s residence, whose location she had learned earlier that day.
 
 But the house was empty.
 
-“You mean… he moved out?”
+“You mean... he moved out?”
 
-Why now of all times…
+Why now of all times...
 
 She booked a nearby inn and spent the night. The next morning, after more inquiries, she headed to Bjorn’s new residence.
 
-“Commellby…….”
+“Commelby...”
 
 Her feelings were strangely complicated.
 
-She remembered how they had joked about moving to a nice, more urban area once they had made enough money…
+She remembered how they had once joked about moving somewhere nicer and more urban after they made enough money...
 
-‘So this is Bjorn’s new home…’
+‘So this is Bjorn’s new home...’
 
 Having arrived at her destination, she couldn’t bring herself to knock on the door.
 
@@ -70,54 +70,52 @@ How would Bjorn react when he saw her?
 
 What if he wasn’t particularly happy about her showing up?
 
-She’d even heard that he was currently living with that fairy and that woman, Emily Raines…
+She’d even heard that he was currently living with that fairy and that woman, Emily Raines...
 
-‘Emily Raines… probably that woman we met on Farune Island.’
+‘Emily Raines... probably that woman we met on Farune Island.’
 
-What’s their relationship?
+What was their relationship?
 
-How did they become companions?
+How had they become companions?
 
-Could that rumor about some “intimate relationship” be true…?
+Could those rumors about an ‘intimate relationship’ actually be true...?
 
-An inexplicable anxiety surged within her endlessly.
+An inexplicable anxiety kept swelling inside her.
 
 Was that why?
 
-“…….”
+“...”
 Misha Karlstein spent the entire day lingering near the house, occasionally peeking inside, before finally leaving.
 
-‘At least I caught a glimpse of him…’
+‘At least I caught a glimpse of him...’
 
 Of course, she hadn’t managed to speak to Bjorn, who had returned late at night.
 
 He had looked exhausted.
 
-‘Yes, that’s why. No other reason…’
+‘Yes, that’s why. No other reason...’
 
-I’ll come back tomorrow and talk to him.
+‘I’ll come back tomorrow and talk to him.’
 
-But the next day, the same routine repeated. Bjorn left early in the morning and returned late at night
+But the next day, the same routine repeated. Bjorn left early in the morning and returned late at night.
 
 Technically, she could have approached him at any time, but her feet refused to move.
 
 “Heehee. Have a good day, Mister!”
 
-“…It’d be nice if we could have dinner together tonight.”
+“...It’d be nice if we could have dinner together tonight.”
 
 Every morning the two women, their eyes still heavy with sleep, would come to the front door to see him off. Bjorn would scold them for going through the trouble just to see him out.
 
 Now she understood:
 
-‘So… Bjorn is doing fine.’
+‘So... Bjorn is doing fine.’
 
-Even without her,
+Even without her, Bjorn’s life seemed to be going on just fine.
 
-Bjorn’s life hadn’t changed that much.
+One day, two days, three days, four...
 
-One day, two days, three days, four…
-
-Time passed, but she still hung around the house. Sometimes she even used her abilities to hide herself so that she could secretly observe their daily life.
+Time passed, but she kept lingering around the house. Sometimes she even used her abilities to conceal herself while secretly observing their daily lives.
 
 The two women were sensitive to any presence, and Misha nearly got caught several times, but since she never entered the house, she managed to avoid getting caught.
 
@@ -125,9 +123,9 @@ Gradually, though, she grew bolder.
 
 No longer content with watching from afar, she crept right beneath the windows.
 
-And when that wasn’t enough, she climbed onto the wall around the back yard.
+And when that wasn’t enough, she climbed onto the wall around the backyard.
 
-Then one day, while secretly observing their daily lives –
+Then one day, while secretly observing their daily lives—
 
 Whoosh-!
 
@@ -135,7 +133,7 @@ A magic circle bloomed, and Bjorn returned.
 
 Bjorn had questions about the changed backyard during his absence, and the two women responded.
 
-[“This…? Well, this just happened. It’s a bit of an eyesore, but… there wasn’t really another way.”]
+[“This...? Well, this just happened. It’s a bit of an eyesore, but... there wasn’t really another way.”]
 [“Since neither of us could claim the whole space, we split it in half.”]
 
 Are they really talking about the backyard?
@@ -148,17 +146,17 @@ Later, they moved to the kitchen for a meal. The cooking was done by a mysteriou
 
 “Perfect. The seasoning is just right, and there’s plenty of meat.”
 
-He always used to say my cooking was too bland—
+‘He always used to say my cooking was too bland—’
 
 [“We always prepare extra, since we never know when you’ll return. That was the mistresses’ instruction.”]
 
 Misha’s body stiffened like stone.
 
-…mistresses?’
+‘...Mistresses?’
 
 Were those rumors actually true?
 
-It was unclear, but Bjorn didn’t correct or deny the term.
+She couldn’t tell what it meant, but Bjorn neither corrected nor denied the term.
 
 Thump—
 
@@ -174,7 +172,7 @@ The backyard was divided into a training ground and a garden according to their 
 
 In one corner was a round table with three chairs.
 
-‘…too close.’
+‘...too close.’
 
 As they laughed and talked, Misha decided it was too risky to keep lurking. With that in mind, she cautiously moved towards the fence, careful not to make any noise.
 
@@ -184,11 +182,11 @@ Two steps.
 
 As she moved away from their laughing chatter, one thought kept circling in her mind.
 
-What if.
+What if...
 
-If… she hadn’t listened to Lee Baek-ho that day…
+What if she hadn’t listened to Lee Baek-ho that day...
 
-If she had just waited endlessly in a place where she could return at any time.
+If she had simply waited somewhere Bjorn could return to at any time...
 
 Would she have laughed and chatted with them?
 
@@ -196,41 +194,41 @@ She didn’t know.
 
 But one thing was certain.
 
-“.. I wonder if this is what it feels like to have a family”
+“I wonder if this is what it feels like to have a family.”
 
-There’s no room for me here.
+‘There’s no room for me here.’
 
-Yes, so…
+Yes, so...
 
 Rustle—
 
-I should leave for today.
+‘I should leave for today.’
 
 Just as she made that decision—
 
-Tap. Tap.
+Tap, tap.
 
 The two women, who had been drinking tea, flanked her in an instant.
 
-She had been too distracted by her thoughts to react properly,
+She had been too distracted by her thoughts to react properly.
 
-“…Huh?!”
+“...Huh?!”
 
 By the time she regained her senses, her arms were bound, and she was kneeling in the garden.
 
 The situation was painfully simple.
 
-An old colleague… no, an ex-lover had suddenly appeared sneaking around the house and had been caught.
+She had shown up at her ex-lover’s house, sneaked around outside, and gotten caught.
 
-“…….”
+“...”
 
 What could she possibly say in such a situation?
 
-“Ah, ahahaha…….”
+“Ah, ahahaha...”
 
 She awkwardly laughed and greeted him.
 
-“Long time… no see. Bjorn… uh!”
+“Long time... no see. Bjorn... uh!”
 
 Truly, it was a dreadful reunion.
 
@@ -240,11 +238,11 @@ In a room on the second floor overlooking the backyard.
 
 A woman stood by the window, nervously biting her nails.
 
-“Why is she showing up now…? After abandoning him back then… Is she trying to take him from me again…?”
+“Why is she showing up now...? After abandoning him back then... Is she trying to take him from me again...?”
 
-Her rambling monologue revealed just how unstable her mental state was. Amelia lingered in the doorway, keeping an eye on her to make sure nothing happened.
+Her rambling monologue revealed just how unstable she was. Amelia lingered in the doorway, watching closely to make sure she didn’t do anything rash.
 
-“…They’re using some kind of magical tool, so I can’t hear the conversation. Is there… any way to find out?”
+“...They’re using some kind of magical tool, so I can’t hear the conversation. Is there... any way to find out?”
 
 “There is.”
 
@@ -252,7 +250,7 @@ Her rambling monologue revealed just how unstable her mental state was. Amelia l
 
 “Bjorn wouldn’t like it, would he?”
 
-At that short retort, Erwin clenched her mouth shut.
+At that short retort, Erwin snapped her mouth shut.
 
 And then she went back to chewing her nails, her gaze fixed on the window.
 
@@ -270,23 +268,23 @@ Amelia knew it well.
 
 No matter how irrational Erwin seemed, she would never do anything that would earn Bjorn’s hatred.
 
-Underneath the thorny exterior of this fairy was a coward, always hiding and crying.
+Underneath the fairy’s thorny exterior was a coward who was always hiding and crying.
 
-“……”
+“...”
 
 This time, Erwin was no different.
 
 She avoided answering the fundamental question and maintained her silence.
 
-‘I don’t have a habit of meddling in others’ affairs…’
+‘I don’t have a habit of meddling in others’ affairs...’
 
 But leaving her like this wouldn’t do either.
 
 Amelia walked over to the window where Erwin was standing and sat down on a nearby chair.
 
-Then, she casually asked, “Tersia, what exactly do you want your relationship with Jandel to be?”
+Then she casually asked, “Tercia, what exactly do you want your relationship with Jandel to be?”
 
-“……”
+“...”
 
 As expected, there was no answer.
 
@@ -294,39 +292,39 @@ Normally, Amelia would have ended the conversation there, thinking that Erwin ju
 
 “Misha Karlstein’s coming back wouldn’t change anything.”
 
-“…….”
+“...”
 
 “Do you want to be in a romantic relationship with Jandel?”
 
 Finally, an answer came.
 
-“There’d be nothing… wrong with that.”
+“There’d be nothing... wrong with that.”
 
 A typical response from a coward.
 
 “I didn’t say it was wrong.”
 
-“…I never said there was?”
+“...I never said there was?”
 
-“…Then what’s your point?”
+“...Then what’s your point?”
 
 Cornered, the coward lashed out, and Amelia took a step back, as if hunting prey.
 
 “I’m just curious. Why haven’t you expressed your feelings properly all this time, even though you have such desires?”
 
-“…….”
+“...”
 
-“You know, don’t you? Jandel is quick-witted but overthinks everything, he will never make the first move.”
+“You know how Jandel is. He’s quick-witted, but he overthinks everything. He’ll never make the first move.”
 
-“…….”
+“...”
 
 “So, tell me. Maybe I can help?”
 
-“…Ha! You would help me?”
+“...Ha! You would help me?”
 
-Erwin snorted as if it were unbelievable, then counter-questioned.
+Erwin snorted in disbelief, then fired the question back.
 
-“What about you, what relationship do you want with Mister…?”
+“What about you? What kind of relationship do you want with Mister...?”
 
 It was an embarrassing subject, but Amelia didn’t shy away and answered honestly.
 
@@ -334,7 +332,7 @@ It was an embarrassing subject, but Amelia didn’t shy away and answered honest
 
 Amelia didn’t mind Erwin’s daily tantrums or the trouble Bjorn caused that she’d have to fix. In fact, she found it oddly pleasant.
 
-A simple reason:
+The reason was simple:
 
 “As Jandel said, having a family probably feels like this.”
 
@@ -342,15 +340,15 @@ At those words, Erwin could only stare at Amelia, unable to respond.
 
 The murderous glint in her eyes had disappeared, replaced only by a sense of bewilderment.
 
-“…….”
+“...”
 
-“…….”
+“...”
 
 A brief silence followed.
 
 After hesitating for a long time, Erwin finally spoke in a small voice.
 
-“…Tell me. What should I do?”
+“...Tell me. What should I do?”
 
 It felt as if the thorny shell had finally cracked.
 
@@ -358,7 +356,7 @@ Amelia smiled softly, like an older sister.
 
 “Wait for the right moment.”
 
-“…Wait?”
+“...Wait?”
 
 “Because right now, Bjorn would just run away.”
 
@@ -368,19 +366,19 @@ Amelia calmly laid out the situation.
 
 “Bjorn must have thought this: You’re not in a state to make rational decisions right now. Your emotions are just trying to fill a void by clinging to him. So he probably dismissed your feelings as temporary and avoided confronting them.”
 
-And if she had to guess one more thing…
+And if she had to guess one more thing...
 
 “He probably also doesn’t want to destroy what you already have together.”
 
 In that way, the fairy and the barbarian are similar.
 
-They both appear solid on the outside, but inside, they’re full of anxieties and worries.
+They both looked solid on the outside, but inside they were full of anxiety and doubt.
 
 “That’s why you need to wait. Approaching now would only lead him to rationalize on his own and run away.”
 
-“How long…?”
+“How long...?”
 
-“Until you can erase some of your essences and he genuinely believes you’re completely back to normal.”
+“Until you can remove some of your Essences and he genuinely believes you’re completely back to normal.”
 
 If she confesses how she feels then, Jandel won’t be able to brush it aside anymore. He’ll have to face it.
 
@@ -392,13 +390,13 @@ If she confesses how she feels then, Jandel won’t be able to brush it aside an
 
 “Could you give me an example, please?”
 
-After that, Amelia shared some techniques for dealing with romantic relationships. Erwin pricked up her pointy ears and listened intently. The ideas Amelia taught were impressive—Especially because each one made perfect sense.
+After that, Amelia shared a few techniques for handling romantic relationships. Erwin pricked up her pointed ears and listened intently. The advice sounded surprisingly convincing—especially because every point seemed to make sense.
 
-“For instance, you’d go up to him when he’s dressing up and help him put on his tie…”
+“For instance, you’d go up to him when he’s dressing up and help him put on his tie...”
 
-“Have you… ever actually dated a man before?”
+“Have you... ever actually dated a man before?”
 
-“…No.”
+“...No.”
 
 Perhaps Amelia’s credibility took a hit, Erwin frowned.
 
@@ -406,9 +404,9 @@ Perhaps Amelia’s credibility took a hit, Erwin frowned.
 
 Amelia awkwardly smiled and replied.
 
-Though this was something he often said as an excuse…
+Though it was something Bjorn often used as an excuse...
 
-“…I read it in a book.”
+“...I read it in a book.”
 
 Well, it was true, after all.
 
@@ -418,11 +416,11 @@ A little over ten days had passed since the meeting with Lee Baek-ho.
 
 The long-awaited reunion had finally arrived.
 
-‘But I never imagined it would be like this’
+‘But I never imagined it would happen like this.’
 
 Although my mind went blank for a moment, I sent Amelia and Erwin inside first. Then I used a portable voice-controlled magic device to keep the sound from leaking out.
 
-This meeting could also provoke Erwin.
+This reunion could easily provoke Erwin too.
 
 Left alone together, we spent a moment just staring at each other without saying a word.
 
@@ -430,21 +428,21 @@ It was far from affectionate, of course.
 
 Even though I wasn’t fighting, my muscles were tense and my neck was stiff.
 
-‘…Why does this feel so awkward it’s killing me?’
+‘...Why does this feel so awkward it’s killing me?’
 
 I decided to break the silence.
 
-“Your hair… it’s longer.”
+“Your hair... it’s longer.”
 
-“Ah… this……. Yeah…….”
+“Ah... this... Yeah...”
 
-An answer with nothing to continue the conversation.
+An answer that gave me nothing to work with.
 
 But I spoke up before it got too awkward.
 
-“It’s the first time I see you tie it back like that.”
+“It’s the first time I’ve seen you tie it back like that.”
 
-“It’s not? I often did that when cooking… Oh, oh no… I did… right?”
+“It’s not? I often did that when cooking... Oh, oh no... I did... right?”
 
 Finally, a glimpse of her old self.
 
@@ -452,11 +450,11 @@ It made me laugh, easing the tension a bit.
 
 “Just speak comfortably. It’s not like anyone’s going to judge us for it.”
 
-“But… I really fixed it… all of it. While you were gone……”
+“But... I really fixed it... all of it. While you were gone...”
 
-“…Fixed it?”
+“...Fixed it?”
 
-“Yeah……. Sometimes… when I get nervous, it comes back. But now, I’ve fixed it. I mean… I have…”
+“Yeah... Sometimes, when I get nervous, it comes back. But now I’ve fixed it. I mean... I have...”
 
 Hmm, so she was nervous too.
 
@@ -464,21 +462,21 @@ It wasn’t just me.
 
 “Ah, anyway, now that we’ve greeted each other, I, uh, have some busy things to do, so I’ll just—”
 
-What is she even saying?
+What was she even saying?
 
-Does she still not understand the situation?
+Did she still not understand the situation?
 
 “Where do you think you’re going?”
 
 I immediately stepped forward and grabbed Misha’s wrist tightly.
 
-‘…Why is she so thin?’
+‘...Why is she so thin?’
 
-Anyway, with this, unless she had blink skill, she won’t be able to escape…
+Anyway, unless she had some kind of blink skill, she wouldn’t be able to escape now...
 
 Ah, surely she hasn’t learned something like that, right?
 
-Given how long we’ve been apart, I can’t be sure of anything.
+Given how long we’d been apart, I couldn’t be sure of anything.
 
 “Misha Karlstein.”
 

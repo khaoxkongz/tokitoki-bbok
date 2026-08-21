@@ -6,13 +6,13 @@ She’s young.
 
 And, judging by the sound of her voice, a young girl was imprisoned here.
 
-When I looked again at the spot where the palm print had been left after hearing that voice, I realised it was positioned quite low. It was at a height where a ten-year-old child might reach if they stretched their hand out while standing…
+When I looked again at the spot where the palm print had been left after hearing that voice, I realised it was positioned quite low. It was at a height where a ten-year-old child might reach if they stretched their hand out while standing...
 
 ‘No, wait a minute.’
 
 A sudden bolt of inspiration struck me, like a certain thinker while sitting in a bathtub.
 
-‘The Earth Witch…?’
+‘The Earth Witch...?’
 
 The Earth Witch.
 
@@ -24,7 +24,7 @@ After all, this was the underground prison of the royal palace.
 
 Given how many secrets the royal family was known to keep, it wouldn’t have been odd if the Witch, or even her grandparents for that matter, were kept down here.
 
-And above all…
+And above all...
 
 —Is the Witch of the Earth really dead?
 
@@ -54,15 +54,15 @@ Even the handprint that seemed to have been pressed from inside had disappeared 
 
 “Mr. Jandel, is someone there?”
 
-“Ah… well…”
+“Ah... well...”
 
 After a moment’s hesitation, I just asked Raven directly.
 
 “Raven, can you check if there’s someone inside?”
 
-“Hmm… Probably not?”
+“Hmm... Probably not?”
 
-“…Without even trying?”
+“...Without even trying?”
 
 “There’s no reason to try. Judging by the amount of mana I am detecting, the volume of the portal inside should not be much different from the size of that cube-shaped structure. In other words, no living creature could be standing there. At best, it might be crouched in a corner. Otherwise, it would have already been sucked into the portal.”
 
@@ -86,7 +86,7 @@ What should I do? Should I investigate this box further?
 
 Her words left me speechless.
 
-‘Curiosity…’
+‘Curiosity...’
 
 She wasn’t wrong, but it wasn’t just curiosity.
 
@@ -110,7 +110,7 @@ At Raven’s urging, I asked her one last time,”This is a two-way magic circle
 
 “Yes. I don’t know where it leads, but there will definitely be an identical magic circle there. If we want, we should be able to come back.”
 
-Right, that’s it…
+Right, that’s it...
 
 Thanks to that, I could come to a decision a bit more easily.
 
@@ -126,7 +126,7 @@ As Raven had just said.
 
 Everything has its priorities. Surviving this situation safely with my companions matters far more than investigating this place.
 
-So…
+So...
 
 “Then I’m activating it?” Raven asked
 
@@ -136,7 +136,7 @@ Flash!
 
 A brilliant light instantly filled my vision. Soon, the light began to fade, and my sight returned.
 
-“This place is…”
+“This place is...”
 
 White walls and a white ceiling. It was another sealed room, with bright light shining down on us as though we were standing directly beneath a lamp.
 
@@ -144,15 +144,15 @@ Raven, looking around with uneasy eyes, pointed to one of the walls.
 
 “Why is only this wall made of metal?”
 
-“……”
+“......”
 
 “Oh? There’s a thin gap between the metal panels. It looks like it opens sideways.”
 
-“……”
+“......”
 
 “Mr. Jandel? Mr. Jandel? Are you listening?”
 
-“…I am.”
+“...I am.”
 
 My senses were fine. My mind had just gone blank for a moment.
 
@@ -160,15 +160,15 @@ Step. Step.
 
 I finally came to my senses and walked towards the metal wall that appeared to be a door. Raven was muttering to herself, tossing out various guesses.
 
-“Does it require some kind of magical trigger? But I don’t feel any mana…”
+“Does it require some kind of magical trigger? But I don’t feel any mana...”
 
 Magical mechanisms and mana. These were reasonable possibilities a mage would first consider when seeing a ‘door’ without a handle. And usually, a mage’s reasoning is the most accurate.
 
-However…
+However...
 
 “Step aside.”
 
-“…What? If you’re going to try opening it by force—”
+“...What? If you’re going to try opening it by force—”
 
 “Relax. That’s not what I’m doing.”
 
@@ -219,13 +219,13 @@ But this—“Mr. Jandel?”
 
 “I couldn’t tell whether it ran on electricity or mana just by looking at it. No, actually, I could.”
 
-‘Fuck, why is this even here…’
+‘Fuck, why is this even here...’
 
-The distinctive design was what gave it away. It was highly refined, the kind of elevator that wouldn’t look out of place in a luxury hotel, and unmistakably modern. The ceiling lights, the buttons by the door, even the mirror on the wall….
+The distinctive design was what gave it away. It was highly refined, the kind of elevator that wouldn’t look out of place in a luxury hotel, and unmistakably modern. The ceiling lights, the buttons by the door, even the mirror on the wall....
 
-The mirrors reflected a barbarian and a mage standing there in full gear, and for a split second I nearly forgot we weren’t supposed to be in the modern world…
+The mirrors reflected a barbarian and a mage standing there in full gear, and for a split second I nearly forgot we weren’t supposed to be in the modern world...
 
-“But how does this lift actually operate? Usually we send a voice message to an operator to activate ours…”
+“But how does this lift actually operate? Usually we send a voice message to an operator to activate ours...”
 
 As Raven wondered about it, I pressed a button without thinking, like it came naturally to me. It was the average only button besides those for opening and closing the doors.
 
@@ -233,21 +233,21 @@ As Raven wondered about it, I pressed a button without thinking, like it came na
 
 The elevator began to move as the floor button was activated. From what I could tell, it felt like we were going up, not down.
 
-“M-Mr. Jandel, please say something. It’s unsettling when you stay silent like this… What if something shows up once the lift stops and the doors open?”
+“M-Mr. Jandel, please say something. It’s unsettling when you stay silent like this... What if something shows up once the lift stops and the doors open?”
 
-“…….”
+“.......”
 
-Well… that was something I was afraid of as well. What would be on the other side when those doors opened?
+Well... that was something I was afraid of as well. What would be on the other side when those doors opened?
 
 At this point, I couldn’t even imagine it.
 
-Hoooo…
+Hoooo...
 
 So I waited quietly. I was ready to swing my weapon at any moment, but I remained calm.
 
-Hummm…
+Hummm...
 
-One second, two seconds, three seconds…
+One second, two seconds, three seconds...
 
 I silently counted the time and regulated my breathing.
 
@@ -257,25 +257,25 @@ And then.
 
 When about 50 seconds had passed.
 
-Hum…
+Hum...
 
 I felt the elevator slow down before coming to a smooth stop.
 
-First of all…
+First of all...
 
 The space resembled a hotel lobby. In the centre was a chandelier and a small fountain. The floors were polished marble.
 
-And…
+And...
 
 Step.
 
 A single knight was standing before us.
 
-“…….”
+“.......”
 
 The knight didn’t show any sign of surprise while looking at us. It was as if he had known of our visit in advance. He stood in the center like a Royal Guardian on duty and asked nothing.
 
-‘…A mid-boss right from the start?’
+‘...A mid-boss right from the start?’
 
 It felt like entering a labryinth and immediately encountering a mid-boss.
 
@@ -289,15 +289,15 @@ That said, I was not intimidated.
 
 I mean, who was I? I was a superpowered barbarian who knew, without a doubt, that I’d never lose to anyone in a contest of aura. That was who I was.
 
-The only problem was whether I could protect Raven behind me…
+The only problem was whether I could protect Raven behind me...
 
 Slish.
 
 I stepped back, shifting into a more defensive stance so I could better protect Raven. Then the knight smoothly drew his sword and pointed it at me.
 
-And…
+And...
 
-‘…Huh?’
+‘...Huh?’
 
 That was it.
 
@@ -309,7 +309,7 @@ Drip.
 
 A sharp pain followed, and blood trickled down.
 
-‘I was cut…?’
+‘I was cut...?’
 
 Impossible.
 
@@ -319,17 +319,17 @@ And the distance between us was more than twenty paces, but even that was not im
 
 But—
 
-“…Interesting.”
+“...Interesting.”
 
 If an attack like that made me bleed through my physical resistance, that changed everything.
 
 And he had not even used aura.
 
-‘If it’s not aura, then…’
+‘If it’s not aura, then...’
 
 Ignoring the wound, I stared calmly at him. No, more accurately, I looked at the sword he was holding.
 
-‘Was it the sword…?’
+‘Was it the sword...?’
 
 The secret behind that strike was likely in that blade.
 
@@ -357,7 +357,7 @@ He began walking across the marble floor, his footsteps echoing across the marbl
 
 Raven, who had been standing behind me, cautiously peeked her head out and asked in my stead.
 
-“Uh… where are we going…?”
+“Uh... where are we going...?”
 
 Her voice sounded like that of a frightened herbivore, tense and wary.
 
@@ -365,10 +365,10 @@ Without so much as a guard up, the knight answered while continuing to walk, his
 
 “The audience chamber.”
 
-“…What?”
+“...What?”
 
 It was a completely unexpected turn of events.
 
 “His Majesty, the King of the New World, has granted you an audience.”
 
-…Who would have thought we’d end up meeting the king like this?
+...Who would have thought we’d end up meeting the king like this?

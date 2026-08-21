@@ -2,19 +2,19 @@
 
 Logically, it didn't make sense. The name we had just come up with less than a day ago was already recorded in this book.
 
-“…How is that possible? We just arrived here.”
+“...How is that possible? We just arrived here.”
 
 “The details are accurate. Yandel, do you know anything about this?”
 
-“Well…”
+“Well...”
 
 I hedged, but inwardly, I had a feeling I knew what was going on. I couldn't explain it clearly, but instinctively, I sensed what this phenomenon was connected to.
 
-‘The Record Stone…’
+‘The Record Stone...’
 
 The mythical object that contained the entire history of the world, past and future. This phenomenon was definitely related to it. Even the name of this floor, ‘Archives,’ pointed towards that conclusion.
 
-‘The more we explore, the more complicated things become…’
+‘The more we explore, the more complicated things become...’
 
 I was momentarily stunned, but I quickly collected myself. This wasn't something I could solve right now.
 
@@ -66,21 +66,21 @@ We repeated the process, searching for books and summoning the monsters. Once a 
 
 「Wyvern slain.」
 
-「Minotaur slain…」
+「Minotaur slain...」
 
-「….」
+「....」
 
 As we climbed higher, the number and rank of the monsters listed in the books increased, making the battles more challenging. At this point, the Archives were comparable to a mid-level hunting ground.
 
-‘No new monsters…’
+‘No new monsters...’
 
 Unfortunately, we still hadn’t found any books with new monsters.
 
-‘…Do you have to slay them first to unlock their entries?’
+‘...Do you have to slay them first to unlock their entries?’
 
 It was a possibility, but we didn't have enough data to confirm it. We still had a long way to go.
 
-One day, two days, three days…
+One day, two days, three days...
 
 Time flew by. We spent every waking moment hunting and searching for books, and our efforts paid off. We had climbed several levels, and our sample size was large enough to draw some conclusions.
 
@@ -90,7 +90,7 @@ Whether there were no more new species, or whether their entries only appeared a
 
 2. The Archives are a terrible hunting ground.
 
-…No, they were an amazing hunting ground.
+...No, they were an amazing hunting ground.
 
 If you were after magic stones and essences, there was no better place.
 
@@ -110,7 +110,7 @@ In just three days, we had earned over 10 million stones from magic stones alone
 
 Well, six of them were below 6th-grade, so we discarded them. We only kept the 5th-grade essence.
 
-‘It’s a great place for hunting, but…’
+‘It’s a great place for hunting, but...’
 
 Despite the efficiency, none of us were satisfied.
 
@@ -120,7 +120,7 @@ This was a newly discovered area.
 
 We could earn much more by exploring and discovering new things.
 
-‘The problem is… we can’t clear this place at our current level.’
+‘The problem is... we can’t clear this place at our current level.’
 
 We had definitely progressed past the mid-game, but clearing the final stage was impossible.
 
@@ -130,7 +130,7 @@ It seemed like we had reached our limit.
 
 It was time to leave the Archives.
 
-As that thought crossed my mind…
+As that thought crossed my mind...
 
 “Bjorn!”
 
@@ -144,7 +144,7 @@ Really?
 
 Ainar's shout brought everyone together.
 
-They were skeptical, considering it was Ainar… but she proudly presented the book.
+They were skeptical, considering it was Ainar... but she proudly presented the book.
 
 A grotesque creature covered in tentacles.
 
@@ -152,7 +152,7 @@ It walked on all fours, and something resembling bone wings was attached to its 
 
 “What do you think? Have you ever seen a monster like this?”
 
-“I… I haven’t.”
+“I... I haven’t.”
 
 “Yandel, you?”
 
@@ -184,13 +184,13 @@ I sighed inwardly. It was like talking to a brick wall.
 
 “It has the [Pacifist] essence of the 4th-grade Sea Merchant, and the [Evil’s Sound] of the Gargoyle, the [Stone Curse] of the Medusa, and the [Underwater Roar] of the Leviathan.”
 
-“…So there really are more monsters with mixed abilities.”
+“...So there really are more monsters with mixed abilities.”
 
 Yes, at this point, it was a fact.
 
 This floor had new monsters with unique essence combinations.
 
-And…
+And...
 
 “It seems like the monsters in the library only appear after they’ve been discovered.”
 
@@ -200,9 +200,9 @@ That was new information.
 
 I nodded and read the origin of the name.
 
-“…Explorer Matherkin Lillgrams discovered this creature while exploring the 1st Basement Floor: Archives.”
+“...Explorer Matherkin Lillgrams discovered this creature while exploring the 1st Basement Floor: Archives.”
 
-“Matherkin Lillgrams… that’s the leader of the Silver Lion Clan…”
+“Matherkin Lillgrams... that’s the leader of the Silver Lion Clan...”
 
 “We told them to leave, but they’re doing well on their own.”
 
@@ -218,7 +218,7 @@ We weren’t getting paid for this.
 
 Anyway, we had gathered enough information about the monster, so we descended to the lower level and summoned it.
 
-[Grrrrrrrrrr…]
+[Grrrrrrrrrr...]
 
 It was much larger than the picture in the book.
 
@@ -232,7 +232,7 @@ The battle ended without any problems.
 
 Since it was our first time fighting it, we took our time and followed the standard strategy, but it was still just a 4th-grade monster.
 
-“That was… easier than I expected.”
+“That was... easier than I expected.”
 
 Misha had become much stronger too.
 
@@ -248,7 +248,7 @@ There was only one item on the agenda.
 
 The response wasn't enthusiastic.
 
-“…Does it even matter? You’ll just choose whatever you want.”
+“...Does it even matter? You’ll just choose whatever you want.”
 
 “That’s right.”
 
@@ -278,7 +278,7 @@ That’s the explorer spirit.
 
 But even after the vote, I decided to stay for a day or two.
 
-“…We’re not leaving yet?”
+“...We’re not leaving yet?”
 
 “Why? It’s not like you to waste time.”
 
@@ -294,11 +294,11 @@ We could handle 3rd-grade monsters, even if they appeared in pairs.
 
 “And Emily, you still have a few 3rd-grade essences to collect, don’t you?”
 
-“That’s… true.”
+“That’s... true.”
 
 “Ainar, you haven’t obtained that essence I told you about.”
 
-“……!”
+“......!”
 
 It wasn’t just Ainar.
 
@@ -306,9 +306,9 @@ Erwen and Misha also needed 3rd-grade essences.
 
 And I needed the Bellarios essence.
 
-“So… everyone agrees?”
+“So... everyone agrees?”
 
-“…….”
+“.......”
 
 Silence meant consent.
 
@@ -322,9 +322,9 @@ We continued hunting, our motivation renewed.
 
 「Garcian slain. +EXP 7」
 
-「Abyssal Skeleton slain…」
+「Abyssal Skeleton slain...」
 
-「….」
+「....」
 
 The battles were much more challenging now, but the rewards were worth it.
 
@@ -360,11 +360,11 @@ We could handle them if the combination was favorable, but the battles were taki
 
 “What if other explorers come here? If we take the books from the top level, they won’t be able to progress any further. They can summon monsters all they want with the lower-level books, but the staircase won’t appear.”
 
-“But the books are so big… we won’t have enough space in our subspace pockets.”
+“But the books are so big... we won’t have enough space in our subspace pockets.”
 
 “If we run out of space, we can just throw them in the sea.”
 
-“What? Yandel, you’re really…”
+“What? Yandel, you’re really...”
 
 “Really?”
 
@@ -386,7 +386,7 @@ I climbed the stairs one by one, while the others jumped and climbed, their smal
 
 We reached the top level.
 
-“…Hey, Baron Yandel?”
+“...Hey, Baron Yandel?”
 
 A group of explorers was waiting for us at the entrance.
 

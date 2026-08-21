@@ -12,7 +12,7 @@ But even so, it still didn’t feel like Plan B.
 
 At best, maybe Plan C.
 
-‘I’ll think more on this later….’
+‘I’ll think more on this later....’
 
 “Hmm, maybe the fact that I’m essential to entering the hidden room where the Countess of Phefroc is?”
 
@@ -20,15 +20,15 @@ At best, maybe Plan C.
 
 As I nodded, Hyun-byeol spoke up cautiously.
 
-“But… about Countess Phefroc…”
+“But... about Countess Phefroc...”
 
 Hmm, why was she hesitating? Hadn’t she said there was nothing else she needed to tell me?
 
 When I looked at her curiously, she gazed back at me with a strange expression and continued,
 
-“…She’s actually quite pretty, you know?”
+“...She’s actually quite pretty, you know?”
 
-“Well, that’s true…”
+“Well, that’s true...”
 
 “Then why did you reject her?”
 
@@ -38,7 +38,7 @@ What, am I supposed to marry every woman who looks decent? Besides, if I had mar
 
 Having spent so much time with Hyun-byeol in the past, I could tell. She would not accept any political explanation I gave her. This question was only a lead in to something else.
 
-Right, so….
+Right, so....
 
 “Marriage is an important turning point in life. I need to be more cautious than ever.”
 
@@ -56,13 +56,13 @@ Wait, why did that come up all of a sudden?
 
 “Was it really a lie? Replicas of the doll you were holding back then are trending among the nobles these days”
 
-“…Seriously?”
+“...Seriously?”
 
 “Yes, seriously. Like, ‘Oh! So this is the doll that the giant Bjorn Jandel likes!’
 
 “Stop.”
 
-‘Please. Just stop talking. Man… why did I even did that…’4
+‘Please. Just stop talking. Man... why did I even did that...’4
 
 Even now, I do not know why I did it, but I chose to stop dwelling on it. It was not as if I could go back in time and change anything.
 
@@ -74,7 +74,7 @@ When I returned to the room where my comrades had been waiting, Amelia asked me 
 
 “So, did the two of you have a good talk?”
 
-Her tone was the same as usual, but having spent so much time with her, I could sense the underlying disappointment. Just as I was about to reply…
+Her tone was the same as usual, but having spent so much time with her, I could sense the underlying disappointment. Just as I was about to reply...
 
 “Yes. Thanks to you, we finished our talk well.”
 
@@ -82,7 +82,7 @@ Hyun-byeol, following behind me, answered in my stead.
 
 “Thank you, Emily.”
 
-“…I wasn’t asking you.”
+“...I wasn’t asking you.”
 
 “Oh my, really? My apologies.”
 
@@ -92,11 +92,11 @@ But somehow, I could feel the air turning colder, so I quickly changed the topic
 
 “Emily, how’s it outside?”
 
-“It is quiet. It looks like he is drawing enough attention that they do not have time to worry about us. I also looked around the building while you were talking, but I could not find anything that…”
+“It is quiet. It looks like he is drawing enough attention that they do not have time to worry about us. I also looked around the building while you were talking, but I could not find anything that...”
 
 “Hah, would you look at that,” Hyun-byeol cut in. “What would you do without me?”
 
-“…What do you mean?”
+“...What do you mean?”
 
 “There is a hidden area in this villa. No matter how hard most people searched, they would never find it.”
 
@@ -110,29 +110,29 @@ Not with her eyes.
 
 Just with her mouth.
 
-“You’re… quite an interesting type of person.”
+“You’re... quite an interesting type of person.”
 
 Amelia was likely asking herself the same question. Someone who would die from a single stab without even being able to dodge is suddenly popping up and messing with her.
 
-‘Why does she enjoy teasing people so much when she’s so weak…?’
+‘Why does she enjoy teasing people so much when she’s so weak...?’
 
 I felt somewhat relieved that Hyun-byeol was a noncombatant, and I quickly hurried to finish my thought.
 
 “Even if the Noarkans are not targeting us right now, we cannot predict what might happen later,” I said. “So, Harin Savy, guide us to the room where you said Countess Phefroc is.”
 
-“…Alright.”
+“...Alright.”
 
 After such a short conversation that strangely drained my mental energy, I shook my head and followed Hyun-byeol.
 
 Despite how brief the conversation was, I felt strangely exhausted by it. Shaking my head, I followed Hyun-byeol as she led us toward the building’s outer wall.
 
-“There’s a hidden space here…?” Amelia, who had been following silently, furrowed her brows.
+“There’s a hidden space here...?” Amelia, who had been following silently, furrowed her brows.
 
 Honestly, I felt the same way.
 
-Usually, secret spaces are hidden behind bookshelves or under carpets…
+Usually, secret spaces are hidden behind bookshelves or under carpets...
 
-“…But isn’t it just the garden behind this wall?”
+“...But isn’t it just the garden behind this wall?”
 
 Just as the Marquis’s son said, there was no space at all behind the wall.
 
@@ -148,7 +148,7 @@ A blue light erupted from the wall. It was distinctly different from the magic c
 
 Not that it felt unfamiliar, though.
 
-“…A portal?”
+“...A portal?”
 
 I muttered under my breath as a shimmering gateway formed before us, its surface rippling as if waving us to enter.
 
@@ -168,7 +168,7 @@ After briefly scanning the surroundings, my gaze settled on the bed.
 
 Looking at Ragna sleeping peacefully, unaware of the outside world, stirred a strange feeling within me.
 
-‘I never expected she’d actually be a princess…’
+‘I never expected she’d actually be a princess...’
 
 Life really was mysterious.
 
@@ -176,13 +176,13 @@ After all, what were the odds that the library clerk I met as a Rank-9 barbarian
 
 “Is there any way to wake her up?” I asked Hyun-byeol.
 
-“There is… technically. Either the marquis wakes her himself, or he dies.”
+“There is... technically. Either the marquis wakes her himself, or he dies.”
 
-“…So there’s no way for now.”
+“...So there’s no way for now.”
 
 “Exactly.”
 
-Sigh… so that’s how it is….
+Sigh... so that’s how it is....
 
 As I stood there watching Ragna, Amelia approached me.
 
@@ -194,7 +194,7 @@ Having finished organising my thoughts, I nodded.
 
 “Something like that? What exactly do you mean?”
 
-Well… how should I put it?
+Well... how should I put it?
 
 After reading his diary, I realized something. The Marquis loves his daughter very much.
 
@@ -210,15 +210,15 @@ BOOOOOOM!
 
 In my Giantization form, I swung my hammer and smashed the marquis’s memory box.
 
-The roof, the walls, the beautifully tended garden, the fences….
+The roof, the walls, the beautifully tended garden, the fences....
 
 It took only about ten minutes for the secret villa, which seemed to have been built by some famous architect, to be completely torn down.
 
-“Wow… that was fast…”
+“Wow... that was fast...”
 
 “Of course! Barbarians are experts in construction!”
 
-“Construction…? Well, I guess demolition is part of construction….”
+“Construction...? Well, I guess demolition is part of construction....”
 
 Hyun-byeol watched in amazement while Aynar proudly puffed out her chest.
 
@@ -240,7 +240,7 @@ The Marquis, knocked out by Auyen, would likely wake up tomorrow evening.
 
 After checking the situation around him, he would probably check this place as well.
 
-And then…
+And then...
 
 ‘What if he sees that it’s been completely destroyed?’
 
@@ -250,7 +250,7 @@ Since he wasn’t transported here while unconscious, it seemed he kept this loc
 
 For security reasons, he would likely come himself.
 
-‘And even if he doesn’t… it doesn’t matter.’
+‘And even if he doesn’t... it doesn’t matter.’
 
 If he sent a subordinate instead, we could simply beat that subordinate and extract the Marquis’s location.
 
@@ -266,7 +266,7 @@ And I’ll have no reason to involve myself in this war anymore.
 
 We quietly passed the time in the cramped room.
 
-Well… maybe not that quietly.
+Well... maybe not that quietly.
 
 “It’s been a while since we last spent time together in a room like this, hasn’t it, Lord Baron?”
 
@@ -280,11 +280,11 @@ However, Aynar suddenly made an unexpected move.
 
 “Stop acting up, human female.”
 
-“…Human female?”
+“...Human female?”
 
 “I know you’re in heat, but your body can’t even give birth to a warrior.”
 
-“What on earth are you talking about…?”
+“What on earth are you talking about...?”
 
 “I do not know what kind of relationship you had with Bjorn. However, we are not going to ignore you, and we have no intention of forcing you into line either. So do not cause trouble and just stay still.”
 
@@ -298,23 +298,23 @@ Amelia stepped in to mediate.
 
 “Aynar. That goes for you too. Be quiet and eat this.”
 
-“Huh? I didn’t really cause any trouble… Oh, ohhh! Isn’t this the jerky made from Leutaspas!! To think you’d give me something this precious…!!”
+“Huh? I didn’t really cause any trouble... Oh, ohhh! Isn’t this the jerky made from Leutaspas!! To think you’d give me something this precious...!!”
 
 Wait, Leutaspa?
 
-That’s the stuff she wouldn’t give me even when I practically begged for it….
+That’s the stuff she wouldn’t give me even when I practically begged for it....
 
 Slurp.
 
 The aroma of top-tier jerky wafting through the room made my mouth water, but I kept pretending to be asleep until I eventually drifted off. After waking up from hunger, I passed the time by messing with the Marquis’s son.
 
-And so, time passed endlessly…
+And so, time passed endlessly...
 
 Six hours passed. Then twelve. Then a full day.
 
 Before long, the time when the marquis was supposed to wake had already passed.
 
-And still, nothing happened…
+And still, nothing happened...
 
 As even more time passed and I began to wonder whether the plan had gone wrong—
 

@@ -6,15 +6,15 @@ This was a discussion I had with my allies before.
 
 [Not to mention, Bifron is between District 7 and 13, making it even more difficult to defend their territories]
 
-[…Right. Why would they do that? Do they have some goal in Bifron?]
+[...Right. Why would they do that? Do they have some goal in Bifron?]
 
 We didn’t know the full picture then, but at the time, we suspected there had to be a hidden motive behind their moves.
 
 And that guess turned out to be correct.
 
-“…!”
+“...!”
 
-As soon as I mentioned Bifron, a flash of surprise crossed his face, but he brushed it off by saying “…Now what are you talking about all of a sudden—”
+As soon as I mentioned Bifron, a flash of surprise crossed his face, but he brushed it off by saying “...Now what are you talking about all of a sudden—”
 
 Even if he tried to cover it up like that, it was already too late.
 
@@ -32,7 +32,7 @@ I still didn’t know what exactly they were hiding in Bifron—
 
 The golden rule: just do the opposite of what the enemy wants, and you’re halfway to winning.
 
-“…”
+“...”
 
 Seeing him fall into deep thought at my words, I was reminded once more that negotiation and battle weren’t that different.
 
@@ -40,7 +40,7 @@ Just like earlier.
 
 If I hadn’t seized the moment to strike unexpectedly, I wouldn’t have gotten this kind of reaction.
 
-“…”
+“...”
 
 The silence dragged on.
 
@@ -72,7 +72,7 @@ When I pressed him confidently, the deputy-commander snorted and replied immedia
 
 “Do as you please. You want to head to Bifron? Then go. We won’t stop you.”
 
-…A bluff?
+...A bluff?
 
 That was my first thought. But I couldn’t be sure.
 
@@ -80,7 +80,7 @@ You always have to leave room for every possibility.
 
 Honestly, maybe he just panicked when he heard the name ‘Bifron’ earlier—but even if we did go there, it might not really cause him any problems.
 
-Sigh… Another mind game.
+Sigh... Another mind game.
 
 My head was starting to hurt.
 
@@ -90,7 +90,7 @@ This guy wasn’t an easy opponent.
 
 “From now on, it’s your choice.”
 
-“…….”
+“.......”
 
 “So? What will you do?”
 
@@ -100,7 +100,7 @@ What, Did he think he had regained control of the situation?
 
 To be fair, now that all the options were back on the table, it was harder to pick just one.
 
-But…
+But...
 
 “I hope you make the right choice. A lot of lives depend on it, after all.”
 
@@ -128,11 +128,11 @@ Then During the Ice Rock expedition, I killed the Rose Knights and made it seem 
 
 If I gave the royal family even the slightest reason to investigate me, I’d be in more danger than I am by going to Bifron.
 
-So…
+So...
 
 “Anyway, you said you wouldn’t stop us. That’s perfect. Take care. We’re off.”
 
-“…”
+“...”
 
 “You’re not gonna change your mind now, are you?”
 
@@ -142,11 +142,11 @@ I shrugged and asked, and the deputy-commander replied flatly.
 
 “Oho, you’re more manly than you look?”
 
-“More than I look…?”
+“More than I look...?”
 
 “Haha! Worrying about stuff like that’s not very manly, you know?”
 
-“…”
+“...”
 
 “Now would you mind disappearing from sight? We’re about to head to Bifron, and having you lingering here is a bit annoying.”
 
@@ -156,21 +156,21 @@ As I lowered my voice and spoke, the deputy commander paused as if organizing hi
 
 The Noark forces confronting us murmured in confusion, but they didn’t disobey their vice-commander’s order.
 
-“They’re really letting us go….”
+“They’re really letting us go....”
 
 As I watched them leave and return to the walls, I recalled the vice-commander’s last expression.
 
-Before turning away, his face almost looked like he was mocking me. Or maybe… pleased?
+Before turning away, his face almost looked like he was mocking me. Or maybe... pleased?
 
-And because I saw it too…
+And because I saw it too...
 
-“Is this… really the right decision?” Amelia asked me worriedly.
+“Is this... really the right decision?” Amelia asked me worriedly.
 
-“…Is this the right choice? It feels like they might be luring us there…”
+“...Is this the right choice? It feels like they might be luring us there...”
 
 Versil also cautiously voiced his concern.
 
-But…
+But...
 
 Like hell they were luring us.
 
@@ -190,7 +190,7 @@ Roland Banojant, Vice Commander of Orcules.
 
 He let out a dry chuckle as he looked below the now-vacant wall.
 
-“…They really went.”
+“...They really went.”
 
 While he muttered that, a woman dressed in revealing clothes walked up to him.
 
@@ -206,7 +206,7 @@ Her mischievous nature, too.
 
 “You were caught off guard, huh?”
 
-“…….”
+“.......”
 
 “Aw, that’s totally the face of someone who didn’t see it coming. You always act like you’re so smart, but I guess you didn’t expect him to actually leave?”
 
@@ -214,7 +214,7 @@ Roland didn’t like people like her.
 
 Actually, it wasn’t just dislike. He despised someone like her.
 
-But…
+But...
 
 She’s still useful.
 
@@ -224,7 +224,7 @@ So he kept a kind smile on his lips as he replied.
 
 “Me? Of course not! Who could’ve guessed? I mean, we practically offered to let him go back to the city, and he still chose that?”
 
-“…”
+“...”
 
 “But shouldn’t we follow them now? What if something goes wrong in Bifron? We’ll be in serious trouble, too.”
 
@@ -236,7 +236,7 @@ As she said, it was certainly not a positive development for an unpredictable fi
 
 “But following them now would be even riskier. If we abandon the wall, the royal family will get suspicious. It’s not time to give up Sector 7 yet.”
 
-“Sure, but… still! You really just let them go like nothing? That’s not like you.”
+“Sure, but... still! You really just let them go like nothing? That’s not like you.”
 
 Vivian teased, but Roland just smiled calmly.
 
@@ -256,7 +256,7 @@ That’s how he got the nickname “The Demon Eye.”
 
 Most assumed it referred to some kind of special ability, but he had simply been good at reading people since childhood.
 
-But…
+But...
 
 “Wow, our Vice-Commander oppa is just a fake genius, huh?”
 
@@ -270,7 +270,7 @@ Sensing she might’ve gone too far, Vivian quickly added:
 
 She shrugged and walked off, leaving Roland to chuckle bitterly.
 
-“Not most people, huh…”
+“Not most people, huh...”
 
 He first learned of Bjorn Jandel when the barbarian earned his title after the battle in the Goblin Forest.
 
@@ -278,7 +278,7 @@ But now?
 
 Bjorn Jandel had become one of the kingdom’s most prominent figures.
 
-And…
+And...
 
 How many times has this happened now?
 
@@ -304,13 +304,13 @@ After finishing the report, he turned to stare at the now-empty wall, and his th
 
 Back then, as Bjorn’s reputation as an explorer was rapidly growing, he had asked the Dragon Slayer, who had regained his memories, for information.
 
-[“…Ah, Vice Commander. One last thing.”]
+[“...Ah, Vice Commander. One last thing.”]
 
-At the time, he had dismissed it as nonsense, but now…
+At the time, he had dismissed it as nonsense, but now...
 
 [“If possible, it’s best not to speak to him at all.”]
 
-But now… he was starting to understand.
+But now... he was starting to understand.
 
 [“The moment you start a conversation, everything will begin to move according to his will. Without you even realizing it.”]
 

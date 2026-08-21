@@ -1,6 +1,6 @@
 Declaration of War(4)
 
-“I slept for a little over 30 hours…”
+“I slept for a little over 30 hours...”
 
 Although the final day had been exhausting, I hadn’t used up much stamina inside the Labyrinth, so this amount of sleep left me feeling surprisingly refreshed.
 
@@ -8,19 +8,19 @@ Snore!!!
 
 I groggily made my way down to the first floor and found Aynar still lying on the couch—exactly the same as she’d been when I fell asleep.
 
-“She really can sleep…”
+“She really can sleep...”
 
 I headed to the kitchen to see if there was anything to eat—and found a few simple meals already prepared.
 
 Had he made these in case someone woke up hungry?
 
-‘…Maybe this guy’s better suited to be a butler than an explorer.’
+‘...Maybe this guy’s better suited to be a butler than an explorer.’
 
 I paused for a moment, impressed by Auyen’s thoughtfulness, then dug into the food he’d left.
 
 Afterward, I stepped out onto the porch to check the mailbox and realized a lot of mail had piled up while I was asleep.
 
-“What’s all this…”
+“What’s all this...”
 
 As I looked through them one by one, most turned out to be invitations.
 
@@ -30,11 +30,11 @@ Somehow it reminded me of the past.
 
 Come to think of it, when I first gained some fame back then, I had a similar influx of letters.
 
-“…Quite a lot of applications, too.”
+“...Quite a lot of applications, too.”
 
 Out of curiosity, I skimmed through the CVs and they were surprisingly high quality. The most impressive was that of an old man who had apparently reached the 9th floor in his prime.
 
-‘Too bad he’s a tank, or I might have considered it…’
+‘Too bad he’s a tank, or I might have considered it...’
 
 I planned to grow the clan eventually, but for now, we only had one team, and we didn’t need another tank.
 
@@ -46,7 +46,7 @@ Anyway, I was pretty flattered that such a high level explorer wanted to join wi
 
 Wasn’t Team Half-Ling the first team I created by making that dwarf the figurehead leader?
 
-‘…We didn’t have much back then, but it was really fun.’
+‘...We didn’t have much back then, but it was really fun.’
 
 I chuckled and continued to check the letters.
 
@@ -60,11 +60,11 @@ After all this time and overcoming so many hardships, I’ve never had a priest 
 
 Well, I do need a healer since potions aren’t as effective anymore—
 
-“…Huh?”
+“...Huh?”
 
 While reading through the letters in the morning breeze, one letter made me pause.
 
-‘The Alminas Count’s family…?’
+‘The Alminas Count’s family...?’
 
 As soon as I saw the familiar golden wax seal, I quickly tore open the seal and checked the contents.
 
@@ -78,7 +78,7 @@ The Count was extending an olive branch.
 
 ---
 
-“A misunderstanding…”
+“A misunderstanding...”
 
 I wondered why the Count had suddenly changed his stance.
 
@@ -186,7 +186,7 @@ At the first figure’s shout, the other two approached.
 
 I felt a twinge of regret.
 
-…Did I really need to break the door?
+...Did I really need to break the door?
 
 ‘I wanted to look around a bit since I’m here.’
 
@@ -198,7 +198,7 @@ I brushed the two figures aside like mosquitoes.
 
 However, the two figures, now pressed against the wall, didn’t rush back at me but instead kept their distance.
 
-“…So, you’re an explorer after all?”
+“...So, you’re an explorer after all?”
 
 “You’re being awfully quiet now?”
 
@@ -226,7 +226,7 @@ Before getting down to business, I threw off my stifling helmet.
 
 No need to hide my identity here.
 
-“…So you’re a barbarian.”
+“...So you’re a barbarian.”
 
 Contrary to my expectations, he didn’t recognize me.
 
@@ -248,7 +248,7 @@ Perhaps because of the narrow space, he opted for a thrust instead of a slash.
 
 I didn’t bother to dodge and just grabbed the blade.
 
-“……!”
+“......!”
 
 As always, the reaction of the aura users was the same.
 
@@ -264,7 +264,7 @@ I slammed my fist into his face.
 
 Okay, that’s one down.
 
-“……Call for backup!”
+“......Call for backup!”
 
 As soon as he fell, the other two tried to escape , but I grabbed them by the scruff of their necks and rubbed them against the wall to finish them off.
 
@@ -274,7 +274,7 @@ I shook my hand to flick off the blood.
 
 Most of it was theirs, but some was mine too.
 
-Since I hadn’t used [Gigantification], blocking the sword bare-handed left a deep wound…
+Since I hadn’t used [Gigantification], blocking the sword bare-handed left a deep wound...
 
 But it wasn’t a big deal.
 
@@ -290,17 +290,17 @@ However, with his nose crushed and his face covered in blood, it was impossible 
 
 I muttered mockingly, and he responded in a broken voice.
 
-“B, Baron… Jandel……?”
+“B, Baron... Jandel......?”
 
 It seemed that taking a hit had jogged his memory
 
-“H-How can… someone like you… be here…?”
+“H-How can... someone like you... be here...?”
 
 “How? I came because I had business here. But since you’re awake, let me ask you a few things.”
 
-“…….”
+“.......”
 
-“Where’s the boss here……”
+“Where’s the boss here......”
 
 What, he passed out.
 
@@ -308,31 +308,31 @@ Dropping him carelessly on the floor, I headed out into the hallway where a few 
 
 Judging by their attire, they were customers, not staff.
 
-‘They probably don’t know anything…’
+‘They probably don’t know anything...’
 
 “Hey! What’s going on?”
 
 Just then, another thug appeared from around the corner and ran over upon seeing the crowd.
 
-And then…
+And then...
 
-“W, what the…”
+“W, what the...”
 
 As soon as he saw the open door, he shuddered. His reaction made me feel like I was the villain in a thriller movie.
 
-“…Ah!”
+“...Ah!”
 
 As he started to back away, I quickly grabbed him by the scruff of his neck and lifted him up.
 
 “Where do I go to meet the boss of the black market?”
 
-“…I can’t tell you……”
+“...I can’t tell you......”
 
 “What if I said you’d die if you don’t speak?”
 
 I tried to threaten him, but he just closed his eyes as if ready to accept death.
 
-“Just… kill me. That’s better… then betraying them…”
+“Just... kill me. That’s better... then betraying them...”
 
 “Is that so?”
 
@@ -388,17 +388,17 @@ Boom—! Boom—! Boom—! Boom—!
 
 With [Gigantification] activated, I ran down the wide corridor, taking up all the space. The people around me fell into two categories.
 
-“R, run away……!”
+“R, run away......!”
 
 Customers who had come to buy a few things and fled in panic upon seeing me.
 
-“Stop him……!”
+“Stop him......!”
 
 And the group of thugs charging at me, pushing past the fleeing customers.
 
 From the moment I saw the aura user earlier, I realised that the thugs were stronger than I expected.
 
-‘They seem to average around the 4th floor…’
+‘They seem to average around the 4th floor...’
 
 Of course, that’s just the average. Some of them seemed to be able to thrive even on the 6th floor.
 
@@ -408,7 +408,7 @@ However, I felt as calm as if I were on a picnic.
 
 Because they couldn’t kill me, not due to my strength, but for another reason.
 
-“…Stop! Orders have come from above. We’re to capture him with minimal harm!”
+“...Stop! Orders have come from above. We’re to capture him with minimal harm!”
 
 “W-what? Capture him? Alive?”
 
@@ -418,7 +418,7 @@ Boom–! Boom–! Boom–!
 
 As I charged forward, the thug at the front shouted in a panicked voice.
 
-“How are we supposed to capture that… monster!”
+“How are we supposed to capture that... monster!”
 
 Trembling at the unreasonable orders from above, the thug swung his weapon.
 
@@ -472,7 +472,7 @@ In other words, there were plenty of witnesses.
 
 “Hiding behind shields, you cowards!”
 
-“……?!”
+“......?!”
 
 “Leader of this den of evil, come out! I, Bjorn Jandel, will execute you in the name of the royal
 
@@ -490,15 +490,15 @@ Thud.
 
 For the first time, I stopped and looked back. The corridor behind me was also filled with thugs.
 
-‘Hmm, if I let myself get captured so easily, they’ll definitely look down on me…’
+‘Hmm, if I let myself get captured so easily, they’ll definitely look down on me...’
 
 As I was thinking, a thug who seemed to be of high rank emerged from the shield wall.
 
-“…Baron! Please calm down and let’s have a peaceful discussion—”
+“...Baron! Please calm down and let’s have a peaceful discussion—”
 
 “I have no discussion to have with you evil scum!”
 
-“…But you have nowhere to go now!”
+“...But you have nowhere to go now!”
 
 Nowhere to go? What are you talking about?
 

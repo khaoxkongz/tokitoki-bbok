@@ -10,11 +10,11 @@ Why would I waste my time on something that didn’t interest me?
 
 I didn’t understand why he was embarrassed, but what came next confused me even more.
 
-“……”
+“......”
 
 When our eyes met, he awkwardly looked away.
 
-“…Are you blushing right now?”
+“...Are you blushing right now?”
 
 Without realizing it, I made a disgusted face. Maybe he noticed, because he hurriedly started making excuses.
 
@@ -26,7 +26,7 @@ For a second I almost smashed him with my hammer out of pure revulsion, but with
 
 “So what’s your real name?”
 
-“……”
+“......”
 
 “Not going to answer?”
 
@@ -36,13 +36,13 @@ Ha. This bastard again.
 
 When I looked at him, he slowly averted his gaze again.
 
-“S-so… I’m not saying this because I’m giving in to threats. Understood?”
+“S-so... I’m not saying this because I’m giving in to threats. Understood?”
 
 What the hell. You’re going to say it anyway.
 
 As I stared at him in disbelief, an English-sounding name slipped out of his mouth.
 
-“…Jester Arlecchino.”
+“...Jester Arlecchino.”
 
 “American?”
 
@@ -52,13 +52,13 @@ I didn’t ask where his father was from, but I took it as a sign that he was wi
 
 “I see. How long has it been since you came here?”
 
-“……It would be 19 years now.”
+“......It would be 19 years now.”
 
 “You’ve been here a long time.”
 
-“Pssit… don’t pity me. I like this world, after all! Even if someone offered to send me back, I have no intention of going!”
+“Pssit... don’t pity me. I like this world, after all! Even if someone offered to send me back, I have no intention of going!”
 
-Uh… I wasn’t pitying you at all. And I had no intention of returning to the modern world either.
+Uh... I wasn’t pitying you at all. And I had no intention of returning to the modern world either.
 
 Still, since the topic came up, I asked,
 
@@ -78,23 +78,23 @@ I let out a smirk and continued.
 
 “Ah, I’m not mocking you. I wasn’t much different.”
 
-“…You?”
+“...You?”
 
 I laughed again.
 
 “What, you think someone who spent nine years playing a 2D game had an amazing life or something?”
 
-“Ah…”
+“Ah...”
 
 He let out a small breath like he finally understood, then carefully asked,
 
-“Then… are you really ‘Elfnuna’? The one who posted all those strategy guides on Stone Iven?”
+“Then... are you really ‘Elfnuna’? The one who posted all those strategy guides on Stone Iven?”
 
 “Yeah, that’s me. I only found out it had become that famous after I came here. But how did it even get that famous in the first place?”
 
 “O-of course it did! There wasn’t a single Dungeon and Stone player who didn’t read your posts!”
 
-“…Uh… really?”
+“...Uh... really?”
 
 It still didn’t feel real.
 
@@ -118,9 +118,9 @@ Even clearing the game with the cheat version meant they were veteran players wh
 
 “Environment?”
 
-“Everyone who came here had played the cheat version… so they all said that if someone showed up after clearing the original version, it had to be Elfnuna.”
+“Everyone who came here had played the cheat version... so they all said that if someone showed up after clearing the original version, it had to be Elfnuna.”
 
-“…….”
+“.......”
 
 “Anyway, I suppose those rumours were true. I mean, just look at how strong you’ve become in just a few years.”
 
@@ -128,7 +128,7 @@ Huh, he doesn’t even know half of it.
 
 I cut him off “That rumor’s only half true.”
 
-“…Huh?”
+“...Huh?”
 
 “It’s true that I cleared the original version and ended up here, but I didn’t get any bonuses to make me stronger.”
 
@@ -144,7 +144,7 @@ I naturally had more knowledge than those who played the cheat versions, but tha
 
 “Enough about me. Continue your story.”
 
-“……I don’t believe I have an obligation to do so? Psssit.”
+“......I don’t believe I have an obligation to do so? Psssit.”
 
 Ah, this guy is doing it again.
 
@@ -158,31 +158,31 @@ He sure talks a lot.
 
 “About a month later. My parents helped me get some basic gear and I entered the labyrinth.”
 
-A month…
+A month...
 
 Still better than me.
 
 The moment I opened my eyes, I had to finish a bloody coming-of-age trial and head straight into the labyrinth.
 
-Well… still better than starting in Noark.
+Well... still better than starting in Noark.
 
 Since he was clearly talking, I moved straight to the important questions.
 
 “When was your first kill?”
 
-“Hmm… when was it…? Ah! About five months in!”
+“Hmm... when was it...? Ah! About five months in!”
 
 “What was your relationship?”
 
-“My first party member from the guild. Ah, he was such a nice guy…”
+“My first party member from the guild. Ah, he was such a nice guy...”
 
 “Then why did you kill him?”
 
 “He tried to rape me in the labyrinth.”
 
-…Huh?
+...Huh?
 
-“…What?”
+“...What?”
 
 This utterly unexpected and shocking motive for murder left me momentarily speechless.
 
@@ -196,21 +196,21 @@ Silence hung between us for a moment, and Necrapeto seemed oddly amused.
 
 “That’s what I told you. He was much stronger than me. So I pretended to be helpless and stabbed his throat with a dagger. What a shame. If it were now, I’d turn him into an undead and make him clean toilets forever.”
 
-“……”
+“......”
 
 “But thanks to killing him, I learned one thing for sure.”
 
-“…What?”
+“...What?”
 
-“The answer is… killing people makes money. Pssssit!”
+“The answer is... killing people makes money. Pssssit!”
 
 Adversity makes a man strong.
 
 Looks like he learned the truth I learned from Hans A in just five months.
 
-“After that it was easy. I showed people things they wanted, waited for them to show their greed, and then, when they let their guard down… stab!”
+“After that it was easy. I showed people things they wanted, waited for them to show their greed, and then, when they let their guard down... stab!”
 
-“….”
+“....”
 
 “Thanks to that, I grew quickly. Once I was strong enough, I didn’t need tricks anymore. I could just kill them outright!”
 
@@ -226,13 +226,13 @@ I didn’t pity him.
 
 But I did wonder for a moment.
 
-If his first companion hadn’t been trash…
+If his first companion hadn’t been trash...
 
 If he’d met someone decent. Like Erwin. Or the dwarf. Or Raven.
 
 Would things have been different?
 
-“Psssit…”
+“Psssit...”
 
 Pointless thought.
 
@@ -250,11 +250,11 @@ He even gave detailed accounts of things I hadn’t asked about, and thanks to t
 
 “When did you start using that damn way of speaking?”
 
-“Hmm… originally, I only used it within the Round Table. It was to hide my identity.”
+“Hmm... originally, I only used it within the Round Table. It was to hide my identity.”
 
 “But you use it outside now, too.”
 
-“Ah… it just became that way at some point. Let’s see, when did I start using it outside….”
+“Ah... it just became that way at some point. Let’s see, when did I start using it outside....”
 
 After a moment’s thought, he seemed to remember.
 
@@ -264,11 +264,11 @@ I was speechless at this unexpected timing. The sight of Lion mask probably exci
 
 “So what’s your goal?”
 
-“…Goal…”
+“...Goal...”
 
 He trailed off as if he had been asked an unexpected question.
 
-“You said you don’t want to go home… and it doesn’t seem like you harbor a grudge against the royal family like the Captain does…. But you don’t seem particularly satisfied with the present either.”
+“You said you don’t want to go home... and it doesn’t seem like you harbor a grudge against the royal family like the Captain does.... But you don’t seem particularly satisfied with the present either.”
 
 After a long pause, he finally opened his mouth.
 
@@ -278,47 +278,47 @@ After a long pause, he finally opened his mouth.
 
 “Well, if I had one, it would be dying in a cool way?”
 
-Right, so that’s how it is….
+Right, so that’s how it is....
 
 “Last question.”
 
-“Heh… already the last? I was annoyed at first, but now it feels kind of disappointing.”
+“Heh... already the last? I was annoyed at first, but now it feels kind of disappointing.”
 
 “What did you mean earlier? About this world being too harsh to live honestly?”
 
-“……It’s exactly what it sounds like. It’s a rough, ugly world, isn’t it?”
+“......It’s exactly what it sounds like. It’s a rough, ugly world, isn’t it?”
 
 He brushed it off playfully.
 
 I didn’t press further.
 
-A sort of defense mechanism, perhaps…
+A sort of defense mechanism, perhaps...
 
 Often, the loudest and most eccentric people are actually the most fragile.
 
 And this guy seemed to be exactly that type. He wore a painted smile to hide the sadness inside.
 
-“Phew! Still, I’m glad! It’s a shame there’s no audience, but the person killing me… is the city’s hero, an evil spirit, Elfunua, and the one who cleared the original difficulty!”
+“Phew! Still, I’m glad! It’s a shame there’s no audience, but the person killing me... is the city’s hero, an evil spirit, Elfunua, and the one who cleared the original difficulty!”
 
 Even at the end, he smiled proudly behind that clown mask.
 
 And I didn’t like that.
 
-…This feels unsatisfying.
+...This feels unsatisfying.
 
 After a moment’s thought, I made him an offer.
 
 “You said your goal was to die in a cool way, right? Isn’t it a bit disappointing to die like an extra here?”
 
-“…What are you trying to say?”
+“...What are you trying to say?”
 
 “I’ll create the greatest stage you could wish for. So, follow me.”
 
-“……Hahaha, are you trying to recruit me?”
+“......Hahaha, are you trying to recruit me?”
 
 “As far as I know, there’s no such thing as loyalty in Orcules anyway.”
 
-“…Pssssit, that’s true.”
+“...Pssssit, that’s true.”
 
 His brows knit together, carving a deep V between them.
 
@@ -326,11 +326,11 @@ Pointless, though.
 
 His answer was already decided.
 
-“Well… yeah. I guess I lost a bit of enthusiasm after finding out it’s you, but you’re still the Lion!”
+“Well... yeah. I guess I lost a bit of enthusiasm after finding out it’s you, but you’re still the Lion!”
 
 “Is that a yes?”
 
-“…I’m curious to see the faces of the Captain and the other members when they see me betrayed them and turned into an enemy!”
+“...I’m curious to see the faces of the Captain and the other members when they see me betrayed them and turned into an enemy!”
 
 He spoke like a hedonist, but I could feel the emotion that any human couldn’t help but emit in that voice.
 
@@ -340,7 +340,7 @@ Hope.
 
 The deep thrill that comes from having survived.
 
-And then…
+And then...
 
 “That will be quite fun—”
 
@@ -348,19 +348,19 @@ The betrayal he felt when he realized it had all been a false hope.
 
 Crunch—!
 
-“…Huh?”
+“...Huh?”
 
 With his head half crushed by the hammer, he looked up at me with eyes that simply couldn’t understand.
 
 For the first time, the fragile expression hidden beneath the mask was exposed.
 
-“Damn… that felt good.”
+“Damn... that felt good.”
 
 Yeah.
 
 This is it.
 
-“W… hy…?”
+“W... hy...?”
 
 As he desperately tried to ask for a reason, I answered plainly.
 

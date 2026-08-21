@@ -6,7 +6,7 @@ I wasn’t sure what I would receive if I chose the other door.
 
 But whatever it was, it couldn’t possibly be more valuable than my three precious comrades.
 
-Besides… it doesn’t seem like I could defeat this bastard on my own.
+Besides... it doesn’t seem like I could defeat this bastard on my own.
 
 Thinking that, I quietly observed him. Every time our eyes met, I felt an indescribable discomfort.
 
@@ -30,7 +30,7 @@ The reason was simple.
 
 If I just walked away, it would continue to bother me.
 
-“If… one of us had fallen for your trick and betrayed the others, what would’ve happened?”
+“If... one of us had fallen for your trick and betrayed the others, what would’ve happened?”
 
 This was the first time I had encountered such a hidden piece.
 
@@ -40,7 +40,7 @@ Fortunately, he answered.
 
 “According to the laws of this world, my avatar would have gained power.”
 
-“…I see.”
+“...I see.”
 
 No wonder he worked so hard to keep us alive and tempt us into betrayal.
 
@@ -56,7 +56,7 @@ Anyway, that cleared up a lot of questions.
 
 But since I was already on the topic, there was one more thing I wanted to ask.
 
-“What exactly… are you?”
+“What exactly... are you?”
 
 “What do you mean?”
 
@@ -72,7 +72,7 @@ The Vampire Duke Cambormier from the Blood Tinted Castle.
 
 Knight of the Apocalypse of the White Temple.
 
-[If no one knows it’s a lie… how is it different from the truth?]
+[If no one knows it’s a lie... how is it different from the truth?]
 
 The doppelganger, and so on.
 
@@ -84,19 +84,19 @@ But he felt different.
 
 He seemed to have a clear sense of self.
 
-‘Not to mention, he made some meaningful remarks earlier…’
+‘Not to mention, he made some meaningful remarks earlier...’
 
 When I said what would happen if there was betrayal by my party members, he said clearly: “According to the laws of this world, my avatar would have gained power”
 
 I can’t say for sure. But based on the various pieces of information I’ve gathered so far, one thing seems vaguely clear.
 
-Just like Dungeon & Stone had been developed based on this world’s setting…
+Just like Dungeon & Stone had been developed based on this world’s setting...
 
 The labyrinth was also clearly modelled on something.
 
 I carefully voiced my speculation.
 
-“By any chance… do all the monsters in this Labyrinth have original counterparts somewhere? Are you an original too?”
+“By any chance... do all the monsters in this Labyrinth have original counterparts somewhere? Are you an original too?”
 
 He remained silent, just staring at me intently.
 
@@ -104,7 +104,7 @@ It seemed he was thinking, and for some reason that made me tense up.
 
 I felt like I was on the verge of unlocking the secrets of this Labryinth.
 
-But…
+But...
 
 “Maybe,” he finally said after a long silence.
 
@@ -142,7 +142,7 @@ Slowly, I tilted my head back and opened my eyes, only to see a dreary sky above
 
 I stared at it for a long while, lost in thought.
 
-“…”
+“...”
 
 I’m alive again.
 
@@ -150,11 +150,11 @@ Every time I see that sky, I feel an indescribable sense of peace.
 
 Of course, this feeling never lasted long.
 
-“…It’s Bjorn Jandel.”
+“...It’s Bjorn Jandel.”
 
-“Didn’t he say he was going to take down the Floor Lord? How did that go…?”
+“Didn’t he say he was going to take down the Floor Lord? How did that go...?”
 
-“There’s no way they could have done it with only five people, right…?”
+“There’s no way they could have done it with only five people, right...?”
 
 The explorers who recognized me began to murmur.
 
@@ -174,11 +174,11 @@ But then, maybe a new worry crossed her mind.
 
 She didn’t know how our raid had played out, so she wanted to confirm how many we’d lost. But all I could say was:
 
-“None. Or… there shouldn’t be any.”
+“None. Or... there shouldn’t be any.”
 
-“There shouldn’t be any…? What does that mean?”
+“There shouldn’t be any...? What does that mean?”
 
-“…It’s complicated.”
+“...It’s complicated.”
 
 I knew they should all be alive, but I wouldn’t be at ease until I saw them myself.
 
@@ -190,15 +190,15 @@ And after waiting at the checkpoint for a while, my comrades began to appear one
 
 First was Erwin.
 
-“Ah, sir….”
+“Ah, sir....”
 
 Erwin, who had been running towards the checkpoint, seemed to lose all strength when she saw me and collapsed to the ground.
 
-“This… isn’t a dream, is it…?”
+“This... isn’t a dream, is it...?”
 
 “Don’t worry. This is definitely reality.”
 
-“How… did this happen…?”
+“How... did this happen...?”
 
 From her perspective, she had been drawing aggro and then died, only to wake up alive.
 
@@ -208,41 +208,41 @@ Shortly after, Versil Gowland appeared.
 
 “Why are you so late? You had me worried.”
 
-“S-sorry. I just… couldn’t understand what was happening… B-but this… isn’t a dream, right…? I-I definitely died….”
+“S-sorry. I just... couldn’t understand what was happening... B-but this... isn’t a dream, right...? I-I definitely died....”
 
 Versil had a similar reaction to Erwin’s.
 
 Amelia tilted her head in confusion.
 
-“Died…?”
+“Died...?”
 
 “Like I said earlier, it’s complicated. I’ll explain everything once everyone’s here.”
 
-“…Alright.”
+“...Alright.”
 
 After calming down the trembling Versil, we continued to wait, and finally Aynar appeared as well.
 
-“Bjorn…!!!!”
+“Bjorn...!!!!”
 
 Aynar shouted from a distance, making her presence known.
 
 Only then did I finally let out the breath I’d been holding in.
 
-“Phew….”
+“Phew....”
 
 Now it felt real.
 
 The fact that everyone had really made it back alive.
 
-“…W-what is this!? Was this all a dream—!? I definitely died—!”
+“...W-what is this!? Was this all a dream—!? I definitely died—!”
 
 Briefly lost in thought, I quickly covered Aynar’s mouth.
 
-“…Mmph! Mmmph! Mmm!”
+“...Mmph! Mmmph! Mmm!”
 
 “Quiet. Everyone’s already staring at us because of you.”
 
-“…….”
+“.......”
 
 “Let’s move somewhere else. I’ll explain everything then.”
 
@@ -266,7 +266,7 @@ As soon as we reached the house, Auyen greeted us as if he had been waiting. The
 
 “Thank you. But we have things to discuss, so please go upstairs for a bit.”
 
-“…Of course. Rest well, and let me know if you need anything.”
+“...Of course. Rest well, and let me know if you need anything.”
 
 After Auyen went upstairs, I asked Versil to activate a soundproofing spell. We sat down to eat the neatly prepared meal and began our conversation.
 
@@ -274,7 +274,7 @@ Ah, of course, the only ones eating were Aynar and me.
 
 “Like I said earlier, it’s complicated. I’ll explain everything once everyone’s here.”
 
-“Mr. Jandel… stop eating and start talking. I’ve been dying of curiosity the whole way here.”
+“Mr. Jandel... stop eating and start talking. I’ve been dying of curiosity the whole way here.”
 
 Ah, right. I should start with that.
 
@@ -282,19 +282,19 @@ After chewing and swallowing the last bite in my mouth, I began to explain every
 
 In the end, the core of it was this:
 
-“So… from the beginning, it was designed so that all the team members had to die for it to be cleared. But if even one person survived and defeated him, everyone would come back to life.”
+“So... from the beginning, it was designed so that all the team members had to die for it to be cleared. But if even one person survived and defeated him, everyone would come back to life.”
 
 “Yeah, that’s right.”
 
 After excluding the conversation I had with Dreadfear and explaining everything I experienced and discovered, Amelia looked at me with a strange expression.
 
-“Are you… okay?”
+“Are you... okay?”
 
 “Huh? What do you mean?”
 
 “I know your personality. You must have had a tough time mentally.”
 
-Ah, that…
+Ah, that...
 
 I chuckled and replied.
 
@@ -312,7 +312,7 @@ When I asked about the interrogation results, Amelia’s expression darkened.
 
 “I couldn’t gather any evidence. They only admitted to receiving orders from the black market, but they didn’t know who their client was.”
 
-“I see…”
+“I see...”
 
 It was disappointing, but there was no point blaming Amelia.
 
@@ -320,9 +320,9 @@ Well, Count Alminas will figure something out.
 
 Having died and come back to life, it didn’t feel like such an important issue anymore.
 
-“Ah, and also….”
+“Ah, and also....”
 
-“…And?”
+“...And?”
 
 “Never mind. I’ll tell you later.”
 
@@ -334,7 +334,7 @@ Since she said she’d tell me later, I didn’t push and just went on.
 
 “Oh, me? I’m sorry. You trusted me to protect you, but no matter how hard I tried to escape from him, he always seemed to catch up to me. It felt like he was using teleportation magic.”
 
-“Teleportation… He did seemed to have that ability, which activated when you were a certain distance away from him.”
+“Teleportation... He did seemed to have that ability, which activated when you were a certain distance away from him.”
 
 “And the strange thing is, until the moment he killed me, he kept trying to convince me to betray you. He kept saying it wasn’t too late.”
 
@@ -348,17 +348,17 @@ Now, it was Versil’s turn.
 
 “Versil Gowland.”
 
-“…Yes?”
+“...Yes?”
 
 “I understand why you did it, but don’t ever do that again.”
 
-“Yes…”
+“Yes...”
 
 I briefly scolded Versil and moved on.
 
 The real issue was next.
 
-“But Aynar…”
+“But Aynar...”
 
 I spoke carefully, and Aynar, who had been busy eating, looked up.
 
@@ -366,7 +366,7 @@ It was hard to start talking.
 
 But I had to confirm something.
 
-“You know… at the end… what do you remember?”
+“You know... at the end... what do you remember?”
 
 “What do I remember? What do you mean?”
 
@@ -374,7 +374,7 @@ But I had to confirm something.
 
 To be precise, I was asking if she had properly heard my confession of being an evil spirit. But Aynar casually picked up some meat with her fork and replied.
 
-“Ah, that…? It seemed like you were saying something, but… I don’t remember. I was almost unconscious, so I couldn’t hear well.”
+“Ah, that...? It seemed like you were saying something, but... I don’t remember. I was almost unconscious, so I couldn’t hear well.”
 
 Hmm, was that true?
 
@@ -402,33 +402,33 @@ I decided to ignore them and went back to my meal. Perhaps satisfied with teasin
 
 And as we ate, we continued chatting about various things
 
-Then, at some point…
+Then, at some point...
 
-“By the way… Mr. Jandel. What’s that bracelet? Have you always been wearing it?”
+“By the way... Mr. Jandel. What’s that bracelet? Have you always been wearing it?”
 
 It was only after hearing Versil’s question that I realized.
 
-“What’s this…?”
+“What’s this...?”
 
 A strange bracelet was clasped around my wrist.
 
-At first, I was a bit taken aback by the unfamiliar piece of gear…
+At first, I was a bit taken aback by the unfamiliar piece of gear...
 
 Erwin and Amelia also stopped eating and muttered.
 
-“Oh… I thought you weren’t mentioning it on purpose, so I just kept quiet…”
+“Oh... I thought you weren’t mentioning it on purpose, so I just kept quiet...”
 
 “Who would’ve guessed you didn’t know you were wearing it?”
 
 Why had I only noticed it now?
 
-“Could that be the reward…? The reward for successfully completing the raid with 5 people.
+“Could that be the reward...? The reward for successfully completing the raid with 5 people.
 
 Versil speculated, but the reward for a standard 5-person clear isn’t a bracelet like this.
 
 Besides, I chose to save my comrades as my reward.
 
-But… maybe the reward isn’t just bringing everyone back alive?’
+But... maybe the reward isn’t just bringing everyone back alive?’
 
 Wait, now that I think of it, that makes sense.
 
@@ -444,13 +444,13 @@ Since I wasn’t entirely sure, I handed it to Versil for appraisal.
 
 Versil, who had the ‘special appraiser’ licence that even Raven couldn’t obtain, recognised the bracelet’s nature without much examination.
 
-“This… It’s a Double Numbers…”
+“This... It’s a Double Numbers...”
 
 Yes, it really was.
 
 Amelia’s eyes sparkled, always interested in such treasures.
 
-“Wait, if it’s a Double Numbers bracelet…”
+“Wait, if it’s a Double Numbers bracelet...”
 
 There’s only one.
 
@@ -460,7 +460,7 @@ Could this be a fixed reward?
 
 Given the Hidden Piece concept, there couldn’t be a more suitable item.
 
-‘…A Double Numbers as a fixed reward for an event.’
+‘...A Double Numbers as a fixed reward for an event.’
 
 What exactly triggers this?
 

@@ -2,11 +2,11 @@
 
 As we walked along the path across from the wall inscribed with magic circles, the circular passage began to narrow.
 
-“Um… I’m not the least bit curious about what’s outside…”
+“Um... I’m not the least bit curious about what’s outside...”
 
 Step, step.
 
-“Wouldn’t it be better if you went exploring with the others? How about we just return for today…”
+“Wouldn’t it be better if you went exploring with the others? How about we just return for today...”
 
 Step, step.
 
@@ -20,11 +20,11 @@ To the barbarian, of course, it only seemed adorable like the chirping of a tiny
 
 I let go of the arm I was holding and looked at him.
 
-“……Why are you looking at me like that?”
+“......Why are you looking at me like that?”
 
 “Give me just a few days of your time. In a way, our meeting like this is fate, wouldn’t it be good for us to become friends?”
 
-“If you just want to socialize, I can spare time anytime without needing to do… this.”
+“If you just want to socialize, I can spare time anytime without needing to do... this.”
 
 As if. The moment I let him go, he’d shut himself up in the Mage Tower again and never come out.
 
@@ -34,11 +34,11 @@ As if. The moment I let him go, he’d shut himself up in the Mage Tower again a
 
 “Why are you whining so much about going back? You’re a mage, after all. Aren’t you even curious about the outside?”
 
-“…I’m only curious about what I’m capable of dealing with.”
+“...I’m only curious about what I’m capable of dealing with.”
 
 It was quite an impressive principle. If you seek a long and quiet life, shutting your eyes and ears is the quickest and easiest way.
 
-‘…So that’s how he’s managed to survive this long, huh.’
+‘...So that’s how he’s managed to survive this long, huh.’
 
 Through that one remark, I felt I understood the GM a little better.
 
@@ -48,15 +48,15 @@ Not that I had any intention of letting him go just because of that, though.
 
 At first, it seemed like I was using my friendship with Versil to beg, but from the GM’s perspective, it must have sounded like a threat.
 
-“Ahem……”
+“Ahem......”
 
 “I’ll even make a promise. If anything dangerous happens, I’ll throw myself into harm’s way to stop it, no matter what. Hmm? And it won’t take more than a few days; I just plan to check things out briefly and come back.”
 
-“If you put it that way……”
+“If you put it that way......”
 
 After I used the carrot method, the GM nodded his head, pretending to be reluctantly persuaded.
 
-Okay, so that issue is settled now……
+Okay, so that issue is settled now......
 
 “Then let’s continue moving.”
 
@@ -80,9 +80,9 @@ The sunset, half-hidden behind distant mountain ranges.
 
 A stream glowed red under the setting sun, and birds sang softly from their nests above.
 
-And……
+And......
 
-“That must be Raphdonia over there……”
+“That must be Raphdonia over there......”
 
 In the far distance, opposite the setting sun, I could see the tall castle walls of Raphdonia. The vastness of their size reminded me of the Great Wall of China.
 
@@ -92,7 +92,7 @@ In all my time playing [Dungeon & Stone], I had never once left the city wall. S
 
 “Havelion, what are you doing?”
 
-“Just taking a look at something. There are some unfamiliar characters I’ve never seen before…”
+“Just taking a look at something. There are some unfamiliar characters I’ve never seen before...”
 
 Unfamiliar characters?
 
@@ -101,13 +101,13 @@ I tilted my head and made my way back to the cave’s entrance. There, etched in
 [I was here.]
 [Strong Son of Korea, Lee Baek-ho.]
 
-Hah… Why am I embarrassed seeing this?
+Hah... Why am I embarrassed seeing this?
 
 I almost laughed out loud but held it back, pretending to be ignorant.
 
-“……It doesn’t look like an ancient language, but it’s strange.”
+“......It doesn’t look like an ancient language, but it’s strange.”
 
-“Yes, it is strange. It feels vaguely familiar…”
+“Yes, it is strange. It feels vaguely familiar...”
 
 The GM clearly didn’t know much about Korean, but I couldn’t blame him.
 
@@ -119,13 +119,13 @@ As I looked at the graffiti left by Lee Baek-ho, the GM quietly advised me,
 
 “If you’re thinking of leaving your name, it’s better not to. It becomes evidence that you came outside. The royal family might interpret it as treason.”
 
-“……I wasn’t planning to.”
+“......I wasn’t planning to.”
 
 “That’s a relief then.”
 
 Watching him nod, I turned around and licked my lips.
 
-“…….”
+“.......”
 
 Why does this make me want to carve something myself?
 
@@ -135,33 +135,33 @@ According to the Clown, the world outside the wall resembles the seventh floor o
 
 If so, where are we?
 
-I need to find something that can serve as a reference point……
+I need to find something that can serve as a reference point......
 
-‘If that’s the Dragon Mountain Range… then we might be near the Great Forest?’
+‘If that’s the Dragon Mountain Range... then we might be near the Great Forest?’
 
 If so, then I know our general location.
 
-The Great Forest was located in the southeastern part of the Dark Continent, and since this seemed a little farther east of it…
+The Great Forest was located in the southeastern part of the Dark Continent, and since this seemed a little farther east of it...
 
 ‘So maybe the eastern edge of the Great Forest?’
 
 Of course, it was only guesswork. The atmosphere here is so different from the labyrinth that I can’t be sure.
 
-Anyway, I’ll figure it out later…’
+Anyway, I’ll figure it out later...’
 
-“So… where do we go now?”
+“So... where do we go now?”
 
 In response to the GM’s question, I answered without moment’s hesitation.
 
 “First, we move towards the city.”
 
-“Towards the city… ?”
+“Towards the city... ?”
 
 “Why that expression?”
 
 “To be honest, I thought you’d want to head straight into the forest.”
 
-Uh… to be honest, I am curious about that forest.
+Uh... to be honest, I am curious about that forest.
 
 But it’s risky to go too deep with just the two of us. Besides, there was something I wanted to check near the walls first.
 
@@ -175,7 +175,7 @@ So—
 
 Leaving behind the forest that seemed far too peaceful to be the ‘Great Forest’ of the Dark Continent, we headed east.
 
-And after some time had passed…
+And after some time had passed...
 
 ‘Damn, this map is huge.’
 
@@ -183,7 +183,7 @@ By now, the sun had set completely behind the mountains, and stars glittered in 
 
 Maybe halfway there?
 
-“I thought we’d arrive in a few hours…”
+“I thought we’d arrive in a few hours...”
 
 It was an optical illusion. From our high ground, the towering wall had seemed deceptively close.
 
@@ -193,7 +193,7 @@ No matter how far we walked, we never felt like we were getting any closer.
 
 If we kept moving without being able to see ahead, we might lose the path and waste more time.
 
-“……It’s been a very long time since I last slept in a sleeping bag.”
+“......It’s been a very long time since I last slept in a sleeping bag.”
 
 Lying inside his sleeping bag and staring at the starry night sky, GM spoke first.
 
@@ -205,23 +205,23 @@ Either way, it was the small talk I’d been hoping for.
 
 “Yes, it’s been over seven years now.”
 
-“…Why did you stop?”
+“...Why did you stop?”
 
-“Just… several things happened. I also began to realize my own limits…”
+“Just... several things happened. I also began to realize my own limits...”
 
 Seeing him brush it off with ‘several things,’ it seemed he didn’t want to go into detail. Or perhaps there were circumstances he couldn’t speak of carelessly.
 
-‘So he holed up in the Mage Tower for seven years immediately after quitting exploration…’
+‘So he holed up in the Mage Tower for seven years immediately after quitting exploration...’
 
 I didn’t know the GM’s circumstances, but that didn’t mean I was blind to the traces his life had left behind. I had, after all, done all the background research I needed.
 
-‘There must be a reason he became a reclusive loner……Probably external. Maybe the royal family… or even Lee Baek-ho.’’
+‘There must be a reason he became a reclusive loner......Probably external. Maybe the royal family... or even Lee Baek-ho.’’
 
 “Still, lying here does feel strangely peaceful.”
 
 “Oh? Earlier you looked like I was dragging you to hell.”
 
-“I still dislike it. But at least here… I enjoy one thing.”
+“I still dislike it. But at least here... I enjoy one thing.”
 
 “What’s that?”
 
@@ -235,15 +235,15 @@ Last time, when he briefly stepped outside, Lee Baek-ho had ambushed him.
 
 It would be more accurate to say that he has more enemies in the city.
 
-‘In that case, I absolutely must not mention that Lee Baek-ho is outside……’
+‘In that case, I absolutely must not mention that Lee Baek-ho is outside......’
 
 I decided to be careful not to make any disadvantageous statements and continued the light conversation.
 
-“Romance…? Of course I’ve met women before. But it never ended well.”
+“Romance...? Of course I’ve met women before. But it never ended well.”
 
 He wasn’t the type to be good at romance.
 
-“That first school I joined, you mean? Actually… I’d rather not talk about that. I’m sorry.”
+“That first school I joined, you mean? Actually... I’d rather not talk about that. I’m sorry.”
 
 Unexpectedly, in situations where he might want to lie or gloss over things, he chose a head-on approach. Or perhaps that incident was simply a sore spot for him.
 
@@ -279,13 +279,13 @@ And so, the next morning dawned.
 
 “Here, drink some water. You’ll feel better.”
 
-“……What does that have to do with the stiffness?”
+“......What does that have to do with the stiffness?”
 
 “Don’t mind the small details.”
 
 As soon as we got up, we finished a quick meal and immediately set off towards the wall.
 
-And then……
+And then......
 
 “We’ve finally arrived.”
 
@@ -313,17 +313,17 @@ But—
 
 The problem was after we woke up from that nap.
 
-“Baron…? Please wake up! Wh-What in the world is that……”
+“Baron...? Please wake up! Wh-What in the world is that......”
 
-“……Let’s go closer first.”
+“......Let’s go closer first.”
 
 We were momentarily stunned by the sight when we woke up, but quickly hurried toward it.
 
 And—
 
-“….”
+“....”
 
-“….”
+“....”
 
 We both fell silent.
 
@@ -335,7 +335,7 @@ The sea did exist.
 
 At the edge of the continent, the sea spread out widely along the cliff line as we looked down.
 
-There was just one problem……
+There was just one problem......
 
 ‘Gray’
 
@@ -351,4 +351,4 @@ Everything beyond the gorge had lost its color and stood still, as if captured i
 
 Staring blankly at the sight, the GM muttered.
 
-“…It seems the world was never restored after all.”
+“...It seems the world was never restored after all.”

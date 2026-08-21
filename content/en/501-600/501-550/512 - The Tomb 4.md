@@ -1,6 +1,6 @@
 # The Tomb 4
 
-One, two, three, four, five, six…
+One, two, three, four, five, six...
 
 Out of habit, I started counting.
 
@@ -26,21 +26,21 @@ I had been annoyed by their presence ever since we arrived.
 
 “Are you looking for a fight?”
 
-“…Excuse me?”
+“...Excuse me?”
 
 The warrior at the front seemed startled by my blunt question and quickly gave his teammates an order.
 
-“Ah… We heard noises and thought it was a monster… Everyone, lower your weapons!”
+“Ah... We heard noises and thought it was a monster... Everyone, lower your weapons!”
 
 So they had been preparing for a possible monster encounter, not a PK.
 
 They lowered their weapons, and the warrior cautiously addressed me.
 
-“Um… Are you finished exploring below?”
+“Um... Are you finished exploring below?”
 
 “Not completely. Are you just arriving?”
 
-“Yes, but…”
+“Yes, but...”
 
 “This is fate, so let's introduce ourselves. What’s your name?”
 
@@ -56,7 +56,7 @@ I was about to leave, but I was a little curious, so I decided to ask a few more
 
 “Wyte, what happened after we left?”
 
-“Ah, about that…”
+“Ah, about that...”
 
 Normally, explorers would tell you to mind your own business, but not to me.
 
@@ -80,7 +80,7 @@ So there were three groups in total.
 
 They had each boarded their own ships and left the rocky island to explore.
 
-And then…
+And then...
 
 “The problem started after they discovered the island.”
 
@@ -98,13 +98,13 @@ I hadn’t signed any contracts, but Wyte seemed satisfied with my verbal agreem
 
 “Are you talking about the Tentakulan?”
 
-“How did you know that name…?”
+“How did you know that name...?”
 
 “I’ll tell you later. Just keep going.”
 
-“…It wasn’t the Tentakulan. Unlike the creatures we encountered on the way to the island, it was much stronger.”
+“...It wasn’t the Tentakulan. Unlike the creatures we encountered on the way to the island, it was much stronger.”
 
-Much stronger…
+Much stronger...
 
 The Tentakulan was 4th-grade, so this new monster had to be at least 3rd-grade.
 
@@ -118,7 +118,7 @@ Its rank was unknown, and it had been alone, so it was probably a solitary creat
 
 “What happened after you killed it?”
 
-“We decided it was too dangerous to explore the island, so we set up camp on the coast and continued hunting Diamonds. And… that’s where our opinions diverged.”
+“We decided it was too dangerous to explore the island, so we set up camp on the coast and continued hunting Diamonds. And... that’s where our opinions diverged.”
 
 “How so?”
 
@@ -144,33 +144,33 @@ I shared the information we had gathered in the Archives.
 
 He had listened with anticipation at first, but his expression gradually changed as I continued.
 
-“So… there’s not much for us to gain there?”
+“So... there’s not much for us to gain there?”
 
 “It’s a decent hunting ground. We left a lot of summoning books behind. And you might discover something we missed.”
 
-“That’s… true.”
+“That’s... true.”
 
 Wyte then called his navigator and shared the location of the island with Auyen. That concluded our business.
 
-As I was about to leave…
+As I was about to leave...
 
-“So… you haven’t found a way out either?”
+“So... you haven’t found a way out either?”
 
 Wyte said something that caught my attention.
 
 “What do you mean?”
 
-“Oh, it’s nothing… Just a silly thought.”
+“Oh, it’s nothing... Just a silly thought.”
 
 “I’ll decide if it’s silly or not. Tell me.”
 
 I pressed him, and he looked a little embarrassed as he spoke.
 
-“I was just wondering… when this place will close… I’m a little worried… Will we be able to return to the city?”
+“I was just wondering... when this place will close... I’m a little worried... Will we be able to return to the city?”
 
-“….”
+“....”
 
-“I’m just… a little scared… that this might be my final resting place.”
+“I’m just... a little scared... that this might be my final resting place.”
 
 I see.
 
@@ -190,21 +190,21 @@ Auyen was using all his navigation skills to shorten the travel time, and the ot
 
 It was 2:00 AM.
 
-‘Day 11…’
+‘Day 11...’
 
 It had been eleven days since the labyrinth opened.
 
 But it still hadn’t closed.
 
-I had been checking the time every day since Day 7, but…
+I had been checking the time every day since Day 7, but...
 
 Maybe it was because of Wyte’s words.
 
 I felt a strange sense of unease.
 
-I had been relieved that the labyrinth hadn’t closed before… but now, a small seed of anxiety had been planted.
+I had been relieved that the labyrinth hadn’t closed before... but now, a small seed of anxiety had been planted.
 
-‘Not knowing anything… it’s driving me crazy.’
+‘Not knowing anything... it’s driving me crazy.’
 
 This was also part of the labyrinth, so it would close eventually, right?
 
@@ -230,7 +230,7 @@ We had entered their territory. McGuffins were no longer appearing, and Tentakul
 
 「Tentakulan slain.」
 
-「Tentakulan slain…」
+「Tentakulan slain...」
 
 We hunted them as we sailed, but no essences dropped.
 
@@ -238,7 +238,7 @@ It was a little disappointing.
 
 They were 4th-grade monsters, so their essences would have been valuable.
 
-‘I’ll farm them later if we have time…’
+‘I’ll farm them later if we have time...’
 
 I dismissed the thought.
 
@@ -252,7 +252,7 @@ The only suitable landing spot was a small beach below a cliff.
 
 The rest of the island was surrounded by steep cliffs.
 
-‘We could dock next to the cliff and climb up…’
+‘We could dock next to the cliff and climb up...’
 
 But it was easier to just disembark on the beach and walk.
 
@@ -282,13 +282,13 @@ I was the vanguard. I couldn't be carrying a notebook and pen.
 
 After about 20 minutes of searching, we had explored the entire coast. There was only one way to leave the beach.
 
-We could either climb the cliff… or take the narrow crevices between the cliffs.
+We could either climb the cliff... or take the narrow crevices between the cliffs.
 
-‘…The problem is… there are three different paths.’
+‘...The problem is... there are three different paths.’
 
 There were three crevices: one in front of us, and one on each side.
 
-They might all lead to the same place… but we couldn’t be sure.
+They might all lead to the same place... but we couldn’t be sure.
 
 We had to choose one.
 
@@ -298,7 +298,7 @@ We had to choose one.
 
 There was no way to know without exploring, so we followed Ainar’s suggestion and took the middle path.
 
-‘…It’s narrower than I thought.’
+‘...It’s narrower than I thought.’
 
 Even without [Gigantification], I had to duck and squeeze through the narrow crevice. My head and shoulders kept bumping against the walls.
 
@@ -310,13 +310,13 @@ I felt claustrophobic, so I quickly squeezed through the opening and stepped out
 
 And I immediately scanned my surroundings.
 
-“…….”
+“.......”
 
 A tropical rainforest.
 
 Knee-high bushes covered the ground, and the trees were larger than any I had ever seen.
 
-And then…
+And then...
 
 Drip.
 
@@ -326,24 +326,24 @@ Something dripped from above.
 
 That was my first thought.
 
-But the sticky sensation on my cheek… it was unmistakable.
+But the sticky sensation on my cheek... it was unmistakable.
 
 ‘Blood.’
 
 I looked up.
 
-“……Damn it.”
+“......Damn it.”
 
 Three mangled corpses were hanging from the vines above us.
 
-“…They’re from the Silver Lion Clan.”
+“...They’re from the Silver Lion Clan.”
 
 Bersil’s words were followed by a heavy silence.
 
 The reason was simple.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 Monsters didn’t do that.

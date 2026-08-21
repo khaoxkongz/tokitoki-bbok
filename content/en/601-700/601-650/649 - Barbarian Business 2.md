@@ -4,7 +4,7 @@ After finishing my talk with the leader of Melbes, I went to see the dwarf for t
 
 “Hikurod.”
 
-“Bjorrrrn! Why only now…! Why did you only come now…! I even sent you several letters…!”
+“Bjorrrrn! Why only now...! Why did you only come now...! I even sent you several letters...!”
 
 His reaction upon seeing me was intense. Well it was understandable, his forge couldn’t avoid the situation either, and he ended up unemployed.
 
@@ -16,7 +16,7 @@ Which was why I was meeting him in the lobby of the Commelby Inn.
 
 “Yeah, I told you I was busy.”
 
-“…….”
+“.......”
 
 To be honest, I could have made time to see him anytime, but one day’s delay became two, and before I knew it, weeks had passed.
 
@@ -28,7 +28,7 @@ Well, though he couldn’t avoid losing the forge.
 
 “So, Hikurod, how have you been holding up?”
 
-“Sigh… For now, I’m just keeping an eye on the situation. I thought about using all my connections to rebuild the forge, but as you know, business wouldn’t thrive if I reopened it in this situation. So, I’m considering starting fresh in Commelby instead…”
+“Sigh... For now, I’m just keeping an eye on the situation. I thought about using all my connections to rebuild the forge, but as you know, business wouldn’t thrive if I reopened it in this situation. So, I’m considering starting fresh in Commelby instead...”
 
 “But?”
 
@@ -36,9 +36,9 @@ Well, though he couldn’t avoid losing the forge.
 
 That’s new information to me. Maybe it was because people from Districts Seven and Thirteen were moving into other districts, combined with the fact that the labyrinth was now sealed.
 
-…And because the nobles who own the land are desperate for money.
+...And because the nobles who own the land are desperate for money.
 
-“So before deciding anything, I wanted to hear your thoughts. Do you know how this situation will end…?”
+“So before deciding anything, I wanted to hear your thoughts. Do you know how this situation will end...?”
 
 Funny. Did he always seem this small?
 
@@ -46,7 +46,7 @@ His tone was like someone asking a stock market expert for tips. And fair enough
 
 “I don’t know when this will end.”
 
-“Sigh… as expected…”
+“Sigh... as expected...”
 
 “But if you want to reopen your forge, do it in the 7th district, as soon as possible.”
 
@@ -64,7 +64,7 @@ In any world, business related to the ‘government’ is hugely profitable.
 
 “Ah, no need to rush right away, though.”
 
-“Huh……? No need to rush?”
+“Huh......? No need to rush?”
 
 Seeing that the dwarf was confused, I took the opportunity to explain the concept of “jeonse” to him as well.
 
@@ -74,9 +74,9 @@ Seeing that the dwarf was confused, I took the opportunity to explain the concep
 
 As I said that and patted the shoulder of the guy who’d been through a lot, moisture gathered in the dwarf guy’s eyes.
 
-“Bjorn……! No matter how close we are, this is too much of a favor……! Thank you! Truly, thank you!”
+“Bjorn......! No matter how close we are, this is too much of a favor......! Thank you! Truly, thank you!”
 
-…People in this world are so naive.
+...People in this world are so naive.
 
 ***
 
@@ -88,13 +88,13 @@ Well, I guess anyone from this city who is an explorer would be curious.
 
 Since the dwarf is quite loose-lipped, I kept the conversation to things that were okay to share, leaving out anything that required confidentiality.
 
-However…….
+However.......
 
-“A silver sea……. He would have loved to see it.”
+“A silver sea....... He would have loved to see it.”
 
 “He would have loved it even if it wasn’t a sea. He was always so curious.”
 
-“I suppose…….”
+“I suppose.......”
 
 At some point, the dwarf’s eyes, which had been happily listening to my story, grew dim. Then, like a drunk reminiscing about his youth, he stared blankly into the distance.
 
@@ -102,7 +102,7 @@ At some point, the dwarf’s eyes, which had been happily listening to my story,
 
 “About what?”
 
-“If… that incident hadn’t happened, do you think I would still be exploring?”
+“If... that incident hadn’t happened, do you think I would still be exploring?”
 
 His voice was thick with deep regret and longing.
 
@@ -110,13 +110,13 @@ I hesitated for a moment about how to respond, but then I collected myself and j
 
 “Well, maybe, but you still wouldn’t have been exploring with me anyway.”
 
-“…Huh?”
+“...Huh?”
 
 “I’m not the type to drag along an ally who lags behind because of sentiment.”
 
 At my words, the dwarf chuckled.
 
-“A lagging comrade… Seeing you now, I can’t really argue. I would have been too much of a burden to keep up. He might have been different, though.”
+“A lagging comrade... Seeing you now, I can’t really argue. I would have been too much of a burden to keep up. He might have been different, though.”
 
 “Hmm, objectively speaking, I’d say you had more potential than Dwalki”
 
@@ -134,7 +134,7 @@ That’s also why I regretted it so much afterward.
 
 I should have made that choice a little earlier.
 
-“…….”
+“.......”
 
 After a brief silence, the dwarf brought up a new topic.
 
@@ -142,9 +142,9 @@ After a brief silence, the dwarf brought up a new topic.
 
 “Satisfying? Are you feeling okay?”
 
-“I’m fine. It’s just that it feels like he is pushing me forward. Telling me to let go of the past and move on…….”
+“I’m fine. It’s just that it feels like he is pushing me forward. Telling me to let go of the past and move on.......”
 
-The dwarf’s words made me unintentionally somber for a moment. Now that I think about the forge he ran…
+The dwarf’s words made me unintentionally somber for a moment. Now that I think about the forge he ran...
 
 “It was originally Dwalki’s house, but he remodeled it.
 
@@ -156,17 +156,17 @@ Then, after a while—
 
 “Go ahead.”
 
-“That friend… what do you think he would think of me now?”
+“That friend... what do you think he would think of me now?”
 
-“……?”
+“......?”
 
-“I’ve become neither an explorer nor a blacksmith… just a mere merchant. Do you think he’d look down on me?”
+“I’ve become neither an explorer nor a blacksmith... just a mere merchant. Do you think he’d look down on me?”
 
 I couldn’t help but laugh at the tremor in his voice, though I felt a little guilty since the moment was so serious
 
 “I’m sure he’d look down on you.”
 
-“…I knew you’d think so too—.”
+“...I knew you’d think so too—.”
 
 “He’d look down on you for worrying about such nonsensical things.”
 
@@ -176,11 +176,11 @@ It was about time to wrap this up.
 
 As I stood, I leaned in and whispered to him:
 
-“Oh, and this isn’t public yet, but…”
+“Oh, and this isn’t public yet, but...”
 
 “Dragonslayer, Regal Vagos.”
 
-“……!”
+“......!”
 
 As soon as he heard that name, he flinched as if his PTSD had been triggered.
 
@@ -190,7 +190,7 @@ That reaction made me drop my hesitation.
 
 Maybe he’d been secretly hoping for this all along.
 
-“…I see…”
+“...I see...”
 
 But he said nothing more. Not a word about how that bastard died.
 
@@ -200,11 +200,11 @@ Almost as if he understood my circumstances.
 
 After a long silence, he finally whispered:
 
-“…Thank you.”
+“...Thank you.”
 
 I turned my back awkwardly.
 
-“…Don’t thank me yet. I still have plenty left to settle.”
+“...Don’t thank me yet. I still have plenty left to settle.”
 
 ***
 As expected, it didn’t take long for the Council Leader of Melbes to contact me.
@@ -229,9 +229,9 @@ Strangely though, it all felt too smooth. That made me nervous.
 
 I probed with side questions, but surprisingly, Count Alminas answered without hiding anything.
 
-“Whether I think the business will succeed……? Honestly, at this point, it’s fifty-fifty. It’s a business that can be done precisely because of these times, but conversely, because of these times, nothing can be certain.”
+“Whether I think the business will succeed......? Honestly, at this point, it’s fifty-fifty. It’s a business that can be done precisely because of these times, but conversely, because of these times, nothing can be certain.”
 
-“Hmm…….”
+“Hmm.......”
 
 “If it succeeds, the profits will be huge. But if it fails, the losses will be just as great. Currently, our House Alminas does not have the capacity to make such an investment.”
 
@@ -247,7 +247,7 @@ So why did Count Alminas make this choice?
 
 “I judged that I wouldn’t incur losses up to that point.”
 
-“…Why is that?”
+“...Why is that?”
 
 “Because you are here.”
 
@@ -255,23 +255,23 @@ Count Alminas’s gaze was so blatant that it made me unconsciously cover my che
 
 “If the business fails, won’t you be deeply in debt to me?”
 
-“…….”
+“.......”
 
 “I’m merely looking at it from a businessman’s perspective and judging. I believe you would be able to repay that debt without issue.”
 
-“…….”
+“.......”
 
 “Even if it takes you your entire lifetime.”
 
 His last words finally cleared up my doubt.
 
-“Ah…….”
+“Ah.......”
 
 So it’s a worthwhile business because even if he loses money, he gets to keep me as a slave for life.
 
 A chill suddenly ran down my spine.
 
-But…….
+But.......
 
 “So? Do you still want my help?”
 
@@ -283,7 +283,7 @@ I nodded without a moment’s hesitation, and the Count burst into a hearty laug
 
 “What is?”
 
-“Conversations like this. We don’t have to hide our intentions and drag things out, so we save time, and it reduces mental exhaustion, making it efficient. I wish everyone else was like you…….”
+“Conversations like this. We don’t have to hide our intentions and drag things out, so we save time, and it reduces mental exhaustion, making it efficient. I wish everyone else was like you.......”
 
 The count, having lived his whole life amid schemes and tricks, seemed to find this barbarian-style business quite refreshing.
 
@@ -299,11 +299,11 @@ The count, having lived his whole life amid schemes and tricks, seemed to find t
 
 After finishing the meeting with the Count, I headed straight to the Chancellor’s mansion.
 
-“Baron Jandel……?”
+“Baron Jandel......?”
 
 The mansion’s butler looked very flustered upon seeing me visit unexpectedly.
 
-“Pardon me, but I haven’t received any word from my lord……”
+“Pardon me, but I haven’t received any word from my lord......”
 
 Well, who else but a ruffian like me would visit a noble without an appointment in this noble society.
 
@@ -311,7 +311,7 @@ And to the mansion of the Chancellor, the second most powerful person in the cou
 
 “It’s only natural you didn’t receive word, so don’t make that apologetic face.”
 
-“…Yes?”
+“...Yes?”
 
 “Is the Chancellor in?”
 
@@ -329,9 +329,9 @@ I tried to make an appointment, but they were all ignored, which is why I came i
 
 I then pushed past the flustered butler and entered the mansion. As things unfolded that way, the butler had no choice but to receive me as a guest.
 
-And…….
+And.......
 
-One day, two days, three days…
+One day, two days, three days...
 
 Well, I hadn’t planned on waiting this long, but anyway.
 
@@ -341,6 +341,6 @@ Starting from the second day, they stopped serving me meals, so I filled my stom
 
 At last, my persistence paid off.
 
-“Haa… I don’t have much time, so speak quickly. What matter could possibly drive you to such lengths?”
+“Haa... I don’t have much time, so speak quickly. What matter could possibly drive you to such lengths?”
 
 Finally, the Chancellor appeared before me.

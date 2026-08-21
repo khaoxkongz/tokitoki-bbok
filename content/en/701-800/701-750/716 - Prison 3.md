@@ -8,11 +8,11 @@ Of course, it had not even been three minutes since I felt that explosive tremor
 
 Although I did not know what their plan was, the explosion told me it was already in motion.
 
-‘……Maybe.’
+‘......Maybe.’
 
 Maybe the golden time was before the plan had even begun. Maybe they had already begun their escape, and there would be no one there even if I went down to the lower floor. Or worse, I might run straight into them on their way up and end up in a dangerous situation.
 
-But…….
+But.......
 
 Tatadatadat-!
 
@@ -26,23 +26,23 @@ I ripped apart the thick iron doors installed on every floor as I went.
 
 Seeing the closed iron doors, my hope grew that the bastards might still be trapped in their cells.
 
-Second underground floor, third, fourth…
+Second underground floor, third, fourth...
 
 I quickly continued my descent.
 
 There was still a probability I hadn’t missed that golden time yet.
 
-“Heuk, heuk……!”
+“Heuk, heuk......!”
 
 As I rushed down at full speed, I heard a desperate voice calling out from far behind.
 
 Then, as I rushed down the stairs, I heard a muffled voice behind me.
 
-“Mr. Jandel……!! Please Wait……!”
+“Mr. Jandel......!! Please Wait......!”
 
 She was the one who said we needed to run, yet she was worried enough to follow after me.
 
-I considered telling her to go back up just in case, but…
+I considered telling her to go back up just in case, but...
 
 ‘We’re already all the way down anyway.’
 
@@ -50,7 +50,7 @@ All that was left was to check this final level.
 
 If those bastards were still chained up, I just had to go in and ‘dispose’ of them quickly.
 
-And if they had already been freed…….
+And if they had already been freed.......
 
 ‘Well, I should at least be able to buy her some time to escape.’
 
@@ -62,7 +62,7 @@ With my overwhelming strength, the iron door crumpled like paper.
 
 Beyond it was quiet.
 
-“…….”
+“.......”
 
 The prison on the fifth underground floor was arranged like a chessboard. Instead of torches that required constant maintenance, faintly glowing magical devices were embedded in the ceiling, lighting the area.
 
@@ -92,11 +92,11 @@ Two kingdom knights moved ahead of them, their armor clanking loudly, as if guid
 
 And then—
 
-“…I knew you’d come.”
+“...I knew you’d come.”
 
 Following behind, supported by the escort knights, was Demon Eye Banozant.
 
-“Psiiit…….”
+“Psiiit.......”
 
 Behind him were the rest of his lackeys.
 
@@ -104,13 +104,13 @@ Even though the situation wasn’t unfolding as smoothly as I’d hoped, I accep
 
 ‘Yeah, I was already too late.’
 
-From what I could tell, they had been stationed right in front of them and let them out the moment their plan began…
+From what I could tell, they had been stationed right in front of them and let them out the moment their plan began...
 
 Still, the realisation didn’t hit me as hard as it could have.
 
 This was because I hadn’t expected much to begin with.
 
-In my experience, when you feel like you’re already late, chances are you really are. Besides…
+In my experience, when you feel like you’re already late, chances are you really are. Besides...
 
 ‘I’m still glad I came.’
 
@@ -122,7 +122,7 @@ If I looked at it positively, I had simply missed the timing for an easy kill.
 
 I might not have missed the ‘golden time’ yet.
 
-Step, Step…….
+Step, Step.......
 
 The terrain isn’t bad either.
 
@@ -132,7 +132,7 @@ It’s possible to stop them now.
 
 To prevent those bastards from going up to the city and carrying out their plan.
 
-“……As you know, our duty ends here.”
+“......As you know, our duty ends here.”
 
 As I prepared myself internally, the two knights at the front spoke to the vice-captain.
 
@@ -140,21 +140,21 @@ As I prepared myself internally, the two knights at the front spoke to the vice-
 
 From what they said, it seemed they’d only agreed to help get them out of prison, nothing beyond that.
 
-“Huff, huff… Mr. Jandel?”
+“Huff, huff... Mr. Jandel?”
 
 Raven arrived at just the right moment.
 
 Hmm, maybe “perfect” was not the right word.
 
-“Haah, haah… Did you stop… because you’ve decided… to go back now…? H-hiik!” The hope in Raven’s eyes shattered into panic when she noticed the people blocked by my massive frame.
+“Haah, haah... Did you stop... because you’ve decided... to go back now...? H-hiik!” The hope in Raven’s eyes shattered into panic when she noticed the people blocked by my massive frame.
 
-“H-how are th-those people out…?”
+“H-how are th-those people out...?”
 
 What do you mean how?
 
 Someone with deep influence within the royal palace had released them.
 
-‘Looking at them, they seem to have been given back all their equipment too…….’
+‘Looking at them, they seem to have been given back all their equipment too.......’
 
 I did wonder why they were still on the fifth underground floor. It seemed they needed time to reorganize the equipment that had been confiscated from them.
 
@@ -174,7 +174,7 @@ Those unsettling, lifeless eyes that didn’t seem to see people as people.
 
 But maybe thanks to the lesson I gave him last time—
 
-“Hmm. From what I see…”
+“Hmm. From what I see...”
 
 He got it right this time.
 
@@ -184,29 +184,29 @@ I can’t say I agree with the word “foolish,” but he did predict my actions
 
 So, yeah.
 
-“……”
+“......”
 
 Instead of answering, I raised my Aegis Wall, then activated Giantization, blocking off the only exit to the surface with my entire body.
 
 And—
 
-“Mr. Jandel… this is too reckless—”
+“Mr. Jandel... this is too reckless—”
 
 I cut off Raven’s anxious rambling.
 
 “You go up first. I’ll hold them off here. There’s no reason for you to put yourself in danger.”
 
-After a brief pause, she replied “……Ah, are you really going to keep saying hurtful things like that? If that was the plan, I wouldn’t have come down here in the first place.”
+After a brief pause, she replied “......Ah, are you really going to keep saying hurtful things like that? If that was the plan, I wouldn’t have come down here in the first place.”
 
-“Uh…”
+“Uh...”
 
 “You plan to hold out, right? So those people can’t go up and do something bad.”
 
-“That’s……”
+“That’s......”
 
 “I’ll help. I might not be of much help in this situation, but despite how I look, I learned a lot of support spells while in the army, you know?”
 
-“Hmm……”
+“Hmm......”
 
 There wasn’t a hint of hesitation in her voice.
 
@@ -220,9 +220,9 @@ I didn’t take long to decide.
 
 “Yes?”
 
-“Always… thank you.”
+“Always... thank you.”
 
-“…….”
+“.......”
 
 She didn’t reply to my sincere thanks, but I didn’t push for an answer.
 
@@ -230,7 +230,7 @@ If she did respond, it would just get more awkward.
 
 Besides, our opponents were watching us with puzzled expressions.
 
-“…Are you done? pssit.”
+“...Are you done? pssit.”
 
 Quit snickering, you bastard.
 
@@ -252,7 +252,7 @@ Boooooom-!
 
 Another roar from the surface shook the entire underground space violently.
 
-Ddeuddeuddeuddeuddeu……!
+Ddeuddeuddeuddeuddeu......!
 
 A tremor incomparably more intense than before.
 
@@ -260,11 +260,11 @@ The earlier shock had already damaged the pillars supporting the place, and it w
 
 “Randolph, is the mass teleportation spell ready?”
 
-…Huh?
+...Huh?
 
 “Yes. The magic negation field has also been deactivated so we can activate it immediately.”
 
-……What?
+......What?
 
 “Execute it.”
 
@@ -301,7 +301,7 @@ Of course, that was assuming there was no interference.
 
 Even as a tank sized barbarian charged toward them, the vice captain remained calm, his irises turning green.
 
-And at that moment…….
+And at that moment.......
 
 Hooouuung-!
 
@@ -361,7 +361,7 @@ I had to say this.
 
 Barbarians specialize in ruining things.
 
-“…I’ll look forward to it.”
+“...I’ll look forward to it.”
 
 Look at him trying to act cool.
 
@@ -383,7 +383,7 @@ Right now, the priority was getting Raven and escaping to the surface—.
 
 “Mr. Jandel! The stairs going up are blocked!”
 
-“…What?”
+“...What?”
 
 I picked up Raven and checked the stairs myself. Sure enough, the path upward had completely collapsed.
 
@@ -393,7 +393,7 @@ I did not even have time to think. I ran up the stairs as fast as I could and be
 
 “Mr. Jandel, it’s already too late!”
 
-Too late…….
+Too late.......
 
 Well, it might seem that way.
 
@@ -403,7 +403,7 @@ To a K-Barbarian, giving up is like—.
 
 “No, that’s not what I mean! Let’s go down! We can escape using mass teleportation magic too!”
 
-Ah……?
+Ah......?
 
 There’s a method like that?
 
@@ -427,9 +427,9 @@ From what I could see, two heavy pillars had collapsed against each other, formi
 
 Alright, I decided, still running down the corridor. ‘If I hold it from below, we should be able to hold out until the spell is completed—.’
 
-“…Huh?”
+“...Huh?”
 
-“…W-what?! Kyaaaa!!”
+“...W-what?! Kyaaaa!!”
 
 The floor gave way.
 
@@ -455,7 +455,7 @@ I remembered it all clearly.
 
 Still, one question lingered in my mind.
 
-“This place is……”
+“This place is......”
 
 Even without anyone explaining, I could feel with my whole body that this place was safe.
 
@@ -463,7 +463,7 @@ Somehow, while the upper floors were all collapsing, this space below where I fe
 
 Aside from the small section of ceiling broken by our fall, there was no damage.
 
-“Underground… Floor six?”
+“Underground... Floor six?”
 
 The royal underground prison only went down five floors.
 
@@ -473,7 +473,7 @@ I’d never heard of the prison being expanded either.
 
 “No, more importantly.”
 
-…Could this even be called a prison?
+...Could this even be called a prison?
 
 It was a massive cube-shaped space.
 
@@ -489,7 +489,7 @@ I quickly woke up the mage to find out.
 
 Fortunately, she had only been unconscious briefly, regaining consciousness the moment I shook her.
 
-“W-where is this…?”
+“W-where is this...?”
 
 “We fell, and this is where we ended up. Do you know what this place is”
 
@@ -499,10 +499,10 @@ At my question, Raven swept her gaze around the area before fixing her eyes on t
 
 When I shook her shoulder again and pressed her for an answer, Raven replied in an uncertain voice.
 
-“I-I’m not sure what it is, but…”
+“I-I’m not sure what it is, but...”
 
 “But?”
 
-“I think th-there’s a po-portal inside it…?”
+“I think th-there’s a po-portal inside it...?”
 
 Just what in the world was this place?

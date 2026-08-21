@@ -52,7 +52,7 @@ Regardless, it was an unexpected situation. She wasn’t some former royal soldi
 
 “What’s your reason for being so fiercely loyal to the Golden Ghost?”
 
-“…Like I said, I acted on my own.”
+“...Like I said, I acted on my own.”
 
 “Ha, looks like we caught another troublesome one.”
 
@@ -64,7 +64,7 @@ I let out a deep sigh but tried again.
 
 “Then what was your goal?”
 
-“…Just kill me.”
+“...Just kill me.”
 
 “Is Golden Ghost holding your family hostage or something?”
 
@@ -84,9 +84,9 @@ At my speculative words, the woman’s shoulders twitched again. That made thing
 
 “As soon as we return to the city, we will protect your family. If you want, I am even willing to take them in as our retainers.”
 
-The woman remained silent for a while. I told her she could take her time to think it over and waited patiently. But…
+The woman remained silent for a while. I told her she could take her time to think it over and waited patiently. But...
 
-“…Kill me.”
+“...Kill me.”
 
 Her answer was the same.
 
@@ -108,7 +108,7 @@ Flinch.
 
 Flinch.
 
-“Hmm, if that wasn’t the goal… then it was just to investigate us from behind.”
+“Hmm, if that wasn’t the goal... then it was just to investigate us from behind.”
 
 Flinch.
 
@@ -116,7 +116,7 @@ Flinch.
 
 Flinch.
 
-“If he caught on, it must have been then…”
+“If he caught on, it must have been then...”
 
 “If he did notice, it must have been when I offered to let him go first in exchange for handing over Abman Urikfried. That was probably when he realised we weren’t here for the Skeleton King. He was clearly very curious about what we were actually after.”
 
@@ -144,11 +144,11 @@ Even if Golden Ghost succeeded in harming us, a huge time bomb would be strapped
 
 “There is no physical evidence. Even if we return to the city and raise the issue, Golden Ghost will not be punished.”
 
-“So what are you going to do with this woman? It seems like she has her circumstances, but letting her go out of pity… the labyrinth isn’t exactly a warm place, is it?”
+“So what are you going to do with this woman? It seems like she has her circumstances, but letting her go out of pity... the labyrinth isn’t exactly a warm place, is it?”
 
 Well, that’s true. I don’t intend to just let her walk free, either. Whether she was threatened or not, this woman tried to harm us, and from that moment on, we bear zero moral responsibility even if we kill her.
 
-Right, so…
+Right, so...
 
 “Let me borrow this for a second.”
 
@@ -158,7 +158,7 @@ Thrust—!
 
 Her breath left her in an instant while she remained cut off from the world, unable to see or hear anything.
 
-“…We can remove the voice-control magic now.”
+“...We can remove the voice-control magic now.”
 
 That was the only mercy I could offer in the labyrinth.
 
@@ -174,9 +174,9 @@ I didn’t answer right away. My mind was still tangled with thoughts.
 
 Seeing that Erwin was being unusually aggressive, Misha voiced a careful objection.
 
-“B-but wouldn’t it be better to do what we came here to do first, then deal with those people after we return to the city…?”
+“B-but wouldn’t it be better to do what we came here to do first, then deal with those people after we return to the city...?”
 
-“…Why?”
+“...Why?”
 
 “There are ninety of them, aren’t there? It’s too dangerous for just us to deal with them.”
 
@@ -186,7 +186,7 @@ The Guild Master agreed with Misha’s words.
 
 The Guild Master’s words were probably accurate. In fact, just looking at this woman proves it. Despite offering her a way to survive multiple times, she ultimately rejected it.
 
-‘It was the same with Mr. Bear…’
+‘It was the same with Mr. Bear...’
 
 I couldn’t know what his circumstances were, but Mr. Bear never asked for my help until the very end. But fighting an all-out war against a clan made up of ninety such people? There would definitely be casualties.
 
@@ -200,13 +200,13 @@ As I sank deeper into thought, Amelia offered her opinion.
 
 “They don’t know yet that this woman was caught by us. They’ll just be waiting for her to return. I’ll keep watch, so you guys go inside and finish what you have to do.”
 
-“…It could be dangerous.”
+“...It could be dangerous.”
 
 “It’s fine. I have this.”
 
 Amelia picked up one of the items we had taken from the woman: No. 16, the Ebony Insignia. When worn, it greatly strengthened the user’s stealth-related abilities. That was why the detection spell at the entrance had never gone off. Even Beleg hadn’t noticed we had a rat tailing us.
 
-“Honestly, if Amelia wears this, she probably won’t get caught in normal circumstances. But…”
+“Honestly, if Amelia wears this, she probably won’t get caught in normal circumstances. But...”
 
 Even so, I couldn’t bring myself to give her permission. Noticing my hesitation, Amelia walked over to me.
 
@@ -218,11 +218,11 @@ Before I could even give her a proper answer, she let go of my hand and disappea
 
 I couldn’t hear the sound of her footsteps, but I knew instinctively that she was gone. She was already sprinting toward the outside of the cave.
 
-“Phew…”
+“Phew...”
 
 I let out a sigh as I stared down the opposite passage, the one Amelia must have taken. Then, I suddenly felt several gazes settle on me.
 
-“……Why are you all looking at me like that?”
+“......Why are you all looking at me like that?”
 
 Kaislan answered on behalf of the group.
 
@@ -234,11 +234,11 @@ I had no idea what he was talking about.
 
 “Legs?”
 
-“……If you don’t get it, never mind.”
+“......If you don’t get it, never mind.”
 
 I feel a bit wronged.
 
-‘…No, what did I even do?’
+‘...No, what did I even do?’
 
 I simply cherish my allies.
 
@@ -246,7 +246,7 @@ I simply cherish my allies.
 
 After Amelia left to keep watch on the Golden Tree Clan, we resumed the exploration that had been briefly interrupted, starting by moving away from the strange place where we had ended up while catching the rat. Thankfully, the actual entrance was nearby.
 
-“…This is the entrance? It doesn’t look any different.”
+“...This is the entrance? It doesn’t look any different.”
 
 After returning from the crossroads, we took another short passage and arrived at yet another dead end. But this one was different.
 
@@ -276,7 +276,7 @@ So I really ended up coming here.
 
 I had planned everything myself and made it all the way to this place, yet my chest still tightened, as if my body was resisting for some reason I couldn’t understand.
 
-But…
+But...
 
 ‘Well, what can I do.’
 
@@ -292,7 +292,7 @@ Then, a thought suddenly crossed my mind.
 
 “Adnus, by the way, do you know the Golden Ghost’s name?”
 
-“……You didn’t know?”
+“......You didn’t know?”
 
 “Would I be asking if I knew?”
 
@@ -316,9 +316,9 @@ I slowly asked, “What was his original name?”
 
 My heart started pounding.
 
-No…
+No...
 
-“An ordinary name…?”
+“An ordinary name...?”
 
 Those three words sent my pulse racing.
 
@@ -326,6 +326,6 @@ And not in a good way. In the worst way possible.
 
 “That’s right,” the guild master said with a nod. “Is something wrong?”
 
-No way…
+No way...
 
 Right?

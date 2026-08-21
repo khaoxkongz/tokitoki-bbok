@@ -1,24 +1,24 @@
 Giant Step (3)
 
-A brief silence descended on the round table.
+A brief silence descended on the Round Table.
 
-“…….”
+“.......”
 
-“…….”
+“.......”
 
 Any doubts about the value of the information the goblin had spat out had long since faded, and now everyone was too absorbed in their own thoughts.
 
 It was an additional effect of the “Entertaining Judgment.”
 
-“The Immortal Sage… Who in the world could that be…?”
+“The Sage of Immortality... Who in the world could that be...?”
 
 Well, I don’t know who that person is, either.
 
 The moment I heard it, Auril Gavis popped into my head, but I’m not sure it’s him. But by leaving it at that, they will diligently investigate.
 
-“…Pssit, I guess I’ll have to find out as soon as I leave.”
+“...Pssit, I guess I’ll have to find out as soon as I leave.”
 
-“If you find a clue, let me know. I will pay a corresponding price.” the Queen offered spoke to the clown.
+“If you find a clue, let me know. I will pay a corresponding price,” the Queen said.
 
 “There’s nothing I can’t do, but only if you promise too.”
 
@@ -32,23 +32,23 @@ I have high expectations for both of you after all.
 
 It seems so.
 
-Honey dripped from the eyes of the clown.
+The Clown was practically beaming at the Goblin.
 
-“Pssit, it’s really unpredictable with people. Who would have thought that Mr Goblin would hit the jackpot!”
+“Pssit, it’s really unpredictable with people. Who would have thought that Mr. Goblin would hit the jackpot!”
 
 The goblin nodded awkwardly, unaccustomed to the clown’s praise.
 
-Ah… Yes… That’s right… Ha ha ha…”
+“Ah... yes... that’s right... ha ha ha...”
 
 It seemed like he himself couldn’t believe the current situation.
 
-“…Now it’s my turn.”
+“...Now it’s my turn.”
 
-After the commotion died down, it was Deer Horn’s turn. I’d planned to keep a poker face no matter the story, but this time it felt harder to do so.
+After the commotion died down, it was Deer Horns’ turn. I’d planned to keep a poker face no matter the story, but this time it felt harder to do so.
 
 “Ragna Litaniel Phefroc is the illegitimate daughter of Marquis Tercerion.”
 
-I’d heard that name once earlier from Hyun Byeol.
+I’d heard that name once earlier from Hyun-byeol.
 
 And now again.
 
@@ -58,29 +58,29 @@ Swish—
 
 Soon, a green light emerged on the jewel, and no one objected to it.
 
-“…So that’s why the Marquiss has been steadily backing her in political circles,” Crescent Moon chimed in, and the Queen also had a reaction of her own.
+“...So that’s why the Marquis has been steadily backing her in political circles,” Crescent Moon chimed in. The Queen also reacted.
 
-“This is turning out to be quite an interesting affair…”
+“This is turning out to be quite an interesting affair...”
 
 Her murmur was almost like talking to herself.
 
-“…Is it that important that she’s illegitimate?”
+“...Is it that important that she’s illegitimate?”
 
-When goblin hesitantly interjected, the Queen chuckled and replied.
+When the Goblin hesitantly interjected, the Queen chuckled and replied.
 
 “Well, it’s a political weapon to use against a person who’s almost the second-in-command of a country.”
 
-“Ah, right… I see…”
+“Ah, right... I see...”
 
 It seemed like there was another reason the Queen found it amusing, but I couldn’t pry any further.
 
 So instead, I focused on a different aspect.
 
-‘Ragna was the marquis’s daughter… No wonder she always had an aura about her.’
+‘Ragna was the marquis’s daughter... No wonder she always had an aura about her.’
 
 Emotionally, this was even more shocking than the information earlier released by the clown or the Queen.
 
-‘Haah… Things just got more complicated.’
+‘Haah... Things just got more complicated.’
 
 I’d have to look into it more later, but for now, all I can do is hope.
 
@@ -88,7 +88,7 @@ Hope that Ragna and the Marquis aren’t firmly on the same side.
 
 ‘Worst case, I’ll have to find a way to get Hyun-byeol out of this, at least.’
 
-Anyway, after the Deer Horn’s turn ended, all eyes naturally shifted to Crescent Moon.
+Anyway, after Deer Horns’ turn ended, all eyes naturally shifted to Crescent Moon.
 
 Hmm, wonder what he’s going to share.
 
@@ -96,11 +96,11 @@ Probably something about the Fairy tribe—
 
 “Genesis Relic.”
 
-…Huh?
+...Huh?
 
 “The Dwarves are working on a way to craft a new Genesis Relic, and they’ve made some progress.”
 
-…Seriously?
+...Seriously?
 
 “What? Is that true? They’re making one?”
 
@@ -126,11 +126,11 @@ At the Queen’s strong objection, the Crescent Moon relented with a sigh and ga
 
 “Countless Rift Stones.”
 
-“…?”
+“...?”
 
 “And even more blood.”
 
-“……”
+“......”
 
 “The Dwarves believe that if those two conditions are met, they can create a brand-new Genesis Relic.”
 
@@ -138,13 +138,11 @@ Wow. Like mad scientists.
 
 Whether it can truly work is a separate issue, but the idea alone is pretty fascinating.
 
-‘A new genesis
-
-Is that really possible?
+‘A new Genesis Relic... Is that really possible?’
 
 They’re supposedly items that have existed since the world was formed.
 
-‘…I’ll think about that later.’
+‘...I’ll think about that later.’
 
 I quickly shook off any idle thoughts.
 
@@ -152,21 +150,21 @@ Sure, for now, everyone was still reeling from the Crescent Moon’s bombshell, 
 
 In fact, it wasn’t long before their gazes gathered again.
 
-“……”
+“......”
 
-“……”
+“......”
 
 Unlike before, there were almost no uneasy looks.
 
-Probably because the Goblin’s “Entertaining Judgment” had changed the mood significantly…
+Probably because the Goblin’s “Entertaining Judgment” had changed the mood significantly...
 
-‘Alright, what should I share…?’
+‘Alright, what should I share...?’
 
 I didn’t spend long thinking.
 
 It’s only natural to go to the water if you want to catch fish.
 
-‘The one who used to go by the name ‘Elfnuna’”
+‘The one who used to go by the name Elfnuna...’
 
 Let’s throw the bait.
 
@@ -182,23 +180,23 @@ Swaaah.
 
 The jewel glowed green, and almost on cue, everyone started talking at once.
 
-“Elfnuna… That’s the one, right? The person rumored most likely to clear the original version of the game?”
+“Elfnuna... That’s the one, right? The person rumored most likely to clear the original version of the game?”
 
-“Pssit, so he really has been summoned, it means that at least half of the rumours circulating in the community are true.
+“Pssit, so he really has been summoned. That means at least half the rumors circulating in the community are true.”
 
 I knew what the Clown was talking about.
 
-The rumour is that Elfnuna had cleared the original version and was summoned here long ago, and as a reward for clearing the original, he had received tremendous perks.
+The rumor is that Elfnuna had cleared the original version and was summoned here long ago, and as a reward for clearing the original, he had received tremendous perks.
 
 It’s a story that makes me laugh whenever I hear it.
 
-‘Perks, my foot…’
+‘Perks, my foot...’
 
 What a joke.
 
 If anything, I stepped on a trap in the Goblin’s cave right after I got here and almost died.
 
-“…Half of it, you say?”
+“...Half of it, you say?”
 
 “Well, we still don’t know if he really cleared the original difficulty.”
 
@@ -210,7 +208,7 @@ He didn’t seem to care much about Elfnuna.
 
 Unlike the Queen.
 
-“……”
+“......”
 
 She didn’t utter a single comment.
 
@@ -218,7 +216,7 @@ She just sat there, petrified.
 
 Rather, her manner showed how important this information was to her.
 
-‘Okay, then this news will reach the GM too…’
+‘Okay, then this news will reach the GM too...’
 
 The GM will likely make the first move.
 
@@ -230,23 +228,23 @@ Leverage my upper hand and slowly squeeze out information from him.
 
 ‘Anyway, thanks again for the mystical tidbits today, pssit.’
 
-“Mr. Lion Have you ever met that person—”
+“Mr. Lion, have you ever met that person—”
 
 “Deer Horn! It’s rude to ask such a question, don’t you think?”
 
 I didn’t even have to interrupt him; the Clown, acting as my press secretary, jumped in and shut down the question.
 
-And then…
+And then...
 
-“Pssit, by the way, it looks like going for another round of info is impossible”
+“Pssit, by the way, it looks like another round of information is impossible.”
 
 He let out a derisive laugh, as if mocking the other members.
 
-Though maybe it was just my imagination…
+Though maybe it was just my imagination...
 
 He also didn’t seem to have any more information to share, so he was pushing to end it here.
 
-“Y-Yes, let’s stop here for today…”
+“Y-Yes, let’s stop here for today...”
 
 “I agree.”
 
@@ -256,11 +254,11 @@ Starting with goblin, the fox, and Crescent Moon declared their non-participatio
 
 I walked out without looking back.
 
-“Phew…”
+“Phew...”
 
 Back to Han Soo’s room.
 
-Having ended the round table, fatigue surged over me.
+Having ended the Round Table, fatigue surged over me.
 
 This community session felt unusually busy.
 
@@ -270,7 +268,7 @@ I sat down at my computer desk.
 
 Then, moving the mouse, I hovered over the Log Out button.
 
-Normally, I would have browsed the forums, but…
+Normally, I would have browsed the forums, but...
 
 ‘Let’s just go back.’
 
@@ -282,7 +280,7 @@ As I clicked the logout button, my surroundings flashed and twisted.
 
 「Your character is moving to Raphdonia.」
 
-When I opened my eyes again, I’m in my room on the second floor of Erwin’s mansion.
+When I opened my eyes again, I was in my room on the second floor of Erwin’s mansion.
 
 Amelia was there next to me again.
 
@@ -298,21 +296,21 @@ It’s both reassuring and a bit embarrassing.
 
 “Ah, thank you.”
 
-“……”
+“......”
 
 Amelia then coolly stood up as if she had no further business, and before leaving the room, she even turned off the lights.
 
 Just the right silence and lighting to fall asleep.
 
-‘…I was going to tidy up a bit before bed.’
+‘...I was going to tidy up a bit before bed.’
 
 But the moment my head hit the pillow and I closed my eyes, a tide of exhaustion overwhelmed me.
 
-After using my killing intent and attending the roundtable, I feel like I’m about to die.
+After using my killing intent and attending the Round Table, I felt like I was about to die.
 
 Hope Lee Baek-ho’s doing okay.
 
-“…….”
+“.......”
 
 I ended up passing out.
 
@@ -332,15 +330,15 @@ It was quite disconcerting to be taken away so suddenly.
 
 Usually, I prepare everything before I leave.
 
-“Ugh, my head…”
+“Ugh, my head...”
 
 After confirming the front door was secure, the man finally felt the full force of his fatigue and sat down on the edge of his bed.
 
 All he wanted was to lie down and fall asleep on the spot.
 
-But…
+But...
 
-‘If I really fall asleep today, someone will come in and take me away……….’
+‘If I really fall asleep today, someone will come in and take me away...’
 
 The man forced himself to endure the tiredness and opened the subspace.
 
@@ -348,7 +346,7 @@ He then pulled out a coffin-shaped metal box.
 
 ‘It’s been a while since I’ve used this in the city.’
 
-No.1,577, the Coffin of Eternal Rest.
+No. 1,577, the Coffin of Eternal Rest.
 
 He’d always taken it into labyrinths instead of a sleeping bag, partly for the boost to health regeneration and partly for its massive durability.
 
@@ -358,7 +356,7 @@ He squeezed into the coffin and closed it from the inside. It felt ridiculous to
 
 Preparing for even the remotest possibility—
 
-‘…’
+‘...’
 
 Although the spot was uncomfortable, as soon as he felt safe, his mind eased.
 
@@ -378,13 +376,13 @@ Like when he had detected the lie about pressing the button.
 
 That statement was undoubtedly true.
 
-‘…Man, he’s not an easy one.’
+‘...Man, he’s not an easy one.’
 
 Even now, the memory sent shivers down his spine.
 
 On the other hand, the memory of him emitting a killing intent made him laugh again and again.
 
-“Ah, I need to sleep, but this is driving me crazy…”
+“Ah, I need to sleep, but this is driving me crazy...”
 
 He hadn’t expected things to go this far.
 

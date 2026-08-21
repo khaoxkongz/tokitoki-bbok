@@ -1,8 +1,8 @@
 Giant Step (1)
 
-As soon as the meeting time came, the man who had just entered donned a deer horn mask and stepped out into the hallway. He quickly headed for the room with the round table.
+As soon as the meeting time came, the man who had just entered donned a deer horn mask and stepped out into the hallway. He quickly headed for the room with the Round Table.
 
-Unlike usual, the round table was empty.
+Unlike usual, the Round Table was empty.
 
 “Looks like I’m the first one here.”
 
@@ -10,15 +10,15 @@ The man glanced around and made his way to a seat.
 
 It was four seats away to the left of where Mr. Lion normally sat.
 
-Ever since empty seats started popping up at the round table, everyone had been leaving exactly one seat open between them.
+Ever since empty seats started popping up at the Round Table, everyone had been leaving exactly one seat open between them.
 
 Assuming all seven members attended, he could definitely secure the second turn.
 
-‘Being first is kind of a hassle…’
+‘Being first is kind of a hassle...’
 
 After all, the quality of the entire round of information depends on what the first speaker says.
 
-‘And, more than anything, that seat is right next to him…’
+‘And, more than anything, that seat is right next to him...’
 
 The third or fourth seats weren’t bad, but he would have to face that person directly.
 
@@ -28,7 +28,7 @@ Well, that clown guy seems to like the attention so he always sits in the back.
 
 ‘That guy’s just born that way.’
 
-Anyway, the man with the deer mask didn’t know it, but the seat he had chosen was secretly the most popular seat among the other members. Maybe that’s why…
+Anyway, the man with the deer mask didn’t know it, but the seat he had chosen was secretly the most popular seat among the other members. Maybe that’s why...
 
 “Oh! Deer Horns? You actually showed up this time?”
 
@@ -40,31 +40,31 @@ When the meeting began, this seat would make him the third speaker.
 
 “Did you have some urgent business last time?”
 
-When the goblin mask asked this question after sitting down, Deer Horns’ replied vaguely.
+When the goblin mask asked after sitting down, Deer Horns replied vaguely.
 
 “Just personal matters.”
 
 “Is that so?”
 
-Since it was more or less just small talk, Goblin mask didn’t seem too bothered by the short answer.
+Since it was more or less just small talk, the Goblin Mask didn’t seem too bothered by the short answer.
 
 Deer Horns asked carefully,
 
 “By the way, did anything happen?”
 
-“…What?”
+“...What?”
 
-“Last session, I mean. I was wondering if anything significant happened while I was away…”
+“Last session, I mean. I was wondering if anything significant happened while I was away...”
 
-The way Deer Horns asked sounded a little too humble, given he was talking to Goblin mask.
+The way Deer Horns asked sounded a little too humble, given that he was talking to the Goblin Mask.
 
 Well, this kind of behavior was close to being bad manners.
 
 It was an unspoken rule of the Round Table not to tell non-participants what had happened at previous meetings.
 
-But…
+But...
 
-‘If it’s the Goblin mask, maybe he’ll tell me.’
+‘If it’s the Goblin Mask, maybe he’ll tell me.’
 
 After all, what other reason was there for him to rush in like this?
 
@@ -80,7 +80,7 @@ At that moment, the sound of someone approaching came from the direction of the 
 
 Another member, arriving right after the Goblin.
 
-‘It’s Fox mask, of all people.’
+‘It’s the Fox Mask, of all people.’
 
 Given her meddlesome nature, she would likely prevent the goblin from answering his questions.
 
@@ -88,25 +88,25 @@ Deer Horns heaved a sigh at the thought.
 
 “I overheard it by accident.”
 
-“…”
+“...”
 
-“Don’t worry about it. Nothing happened”
+“Don’t worry about it. Nothing happened.”
 
 “What do you mean?”
 
 “Mr. Lion didn’t show up last time.”
 
-“Mr. Lion didn’t attend…?”
+“Mr. Lion didn’t attend...?”
 
 “Yes. And naturally, the clown and the queen just left soon after. Without him there, the session pretty much ended on the spot.”
 
-“Oh…”
+“Oh...”
 
 “If your curiosity is satisfied, please don’t do this again. Once someone breaks the rule, it isn’t a rule anymore.”
 
 Her voice carried a hint of discomfort.
 
-“…I’ll be more careful.”
+“...I’ll be more careful.”
 
 The fox mask then turned her gaze to the goblin mask.
 
@@ -116,29 +116,29 @@ The fox mask then turned her gaze to the goblin mask.
 
 “Don’t just answer everything you’re asked. Or rather, be careful with what you say.”
 
-“…Ha ha! You’re right, Fox. Watch what I say… yes, I’ll be careful… ha ha ha!”
+“...Ha ha! You’re right, Fox. Watch what I say... yes, I’ll be careful... ha ha ha!”
 
-While the Goblin mask let out an awkward laugh, the Fox mask looked around at the empty seats and sat in the fourth seat.
+While the Goblin Mask let out an awkward laugh, the Fox Mask looked around at the empty seats and sat in the fourth seat.
 
 “Um, Fox. In that case, the first turn goes to Crescent Moon, right?”
 
 “That is, if he shows up. I don’t think he likes sitting in the back seats.”
 
-“…Hmm, but I wonder if Mr. Lion will miss again?”
+“...Hmm, but I wonder if Mr. Lion will miss again?”
 
 “Who knows. We’ll find out if we wait.”
 
-“Ha, ha ha. Right…”
+“Ha, ha ha. Right...”
 
 Watching the goblin and fox mask converse, he got a vague sense of discord.
 
 Something’s off about them,
 
-It seemed like the Fox mask was quite comfortable with the Goblin mask , whereas the Goblin mask seemed uneasy around the Fox.
+It seemed like the Fox Mask was quite comfortable with the Goblin Mask, whereas the Goblin Mask seemed uneasy around the Fox.
 
 But Deer Horns didn’t dwell on it. There were bigger issues to think about.
 
-‘So Mr. Lion didn’t attend…’
+‘So Mr. Lion didn’t attend...’
 
 In a way, it was a relief.
 
@@ -154,9 +154,9 @@ The queen had said this in front of the gemstone.
 
 Of course, the gem had turned red and everyone let it go.
 
-But it had been a hot topic around the table for a while, as many details seemed to overlap between Mr Lion and Bjorn Jandel.
+But it had been a hot topic at the table for a while, since several details seemed to overlap between Mr. Lion and Bjorn Jandel.
 
-‘…But that’s probably just a coincidence. They’re too different to be the same person.’
+‘...But that’s probably just a coincidence. They’re too different to be the same person.’
 
 After all, Bjorn Jandel was now a fourth-year explorer.
 
@@ -164,9 +164,9 @@ And Mr. Lion had joined this community about 20 years ago.
 
 They couldn’t possibly be the same person.
 
-But…
+But...
 
-“What am I missing? This nagging feeling…”
+“What am I missing? This nagging feeling...”
 
 He glanced at the goblin, who was still chatting with the fox mask.
 
@@ -174,29 +174,29 @@ He glanced at the goblin, who was still chatting with the fox mask.
 
 “Why do you address the queen so formally?”
 
-“Ha ha… Do I?”
+“Ha ha... Do I?”
 
 Right, it was this guy.
 
-He had been the first to suggest that Bjorn Jandel might be the same person as Lion mask.
+He had been the first to suggest that Bjorn Jandel might be the same person as Lion Mask.
 
 The timing of Bjorn’s ‘death’ was suspicious, he’d said, only to be laughed at by everyone else.
 
-“Perhaps it’s because… well, she is a queen…”
+“Perhaps it’s because... well, she is a queen...”
 
 He joined their conversation.
 
 “Listen, Goblin.”
 
-“…Yes?”
+“...Yes?”
 
 “Do you still think that Mr. Lion could be Bjorn Jandel?”
 
-“Uh… suddenly?”
+“Uh... suddenly?”
 
 “Just curious.”
 
-“Hmm…”
+“Hmm...”
 
 The goblin seemed perplexed by the question, but eventually, he answered.
 
@@ -204,45 +204,45 @@ The goblin seemed perplexed by the question, but eventually, he answered.
 
 His voice was clear and decisive.
 
-He spoke decisively, and Deer Horns nodded in understanding.
+His answer was decisive, and Deer Horns nodded in understanding.
 
-“That makes sense… A person summoned 22 years ago can’t be the same as him.”
+“That makes sense... A person summoned 22 years ago can’t be the same as him.”
 
-“Yes? Ah… that’s true…”
+“Yes? Ah... that’s true...”
 
-When the goblin mask responded somewhat hesitantly, Deer Horns tilted his head.
+When the Goblin Mask responded somewhat hesitantly, Deer Horns tilted his head.
 
-“…Hmm? Is there another reason?”
+“...Hmm? Is there another reason?”
 
-“Well… I actually don’t think Bjorn Jandel is an evil spirit.”
+“Well... I actually don’t think Bjorn Jandel is an evil spirit.”
 
 “Oh, is that why?”
 
-The royal family’s announcement that Bjorn Jandel was an evil spirit had been strategic, and the new news that he isn’t, has spread across the world.
+The royal family’s announcement that Bjorn Jandel was an evil spirit had been part of a strategy, and word that he wasn’t one had now spread across the world.
 
 So that reaction made sense—
 
-“No, there’s another reason for it…”
+“No, there’s another reason for it...”
 
 What? Another reason?
 
-When Deer Antlers shot a look that demanded explanation, the Goblin Mask seemed to check the Fox’s reaction and then spoke.
+When Deer Horns shot a look that demanded explanation, the Goblin Mask seemed to check the Fox’s reaction and then spoke.
 
-“I can’t say much, but… Bjorn Jandel isn’t an evil spirit. He can’t be an evil spirit. I’m sure of that, at least.”
+“I can’t say much, but... Bjorn Jandel isn’t an evil spirit. He can’t be an evil spirit. I’m sure of that, at least.”
 
 Having said that, the goblin shut up, as if to say he wouldn’t be answering any more questions. And Deer Horns dropped the subject too.
 
-‘…Come to think of it, Sven Parab was also in that expedition party.’
+‘...Come to think of it, Sven Parab was also in that expedition party.’
 
 Evil Spirits can often detect fellow Evil Spirits with relative ease.
 
-And if the Goblin mask had traveled side by side with Bjorn in the Labyrinth, maybe that personal experience led him to a conclusion that couldn’t be ignored.
+And if the Goblin Mask had traveled side by side with Bjorn in the Labyrinth, perhaps that experience had led him to a conclusion that couldn’t be ignored.
 
-‘So… I guess Bjorn Jandel isn’t really an evil spirit.’
+‘So... I guess Bjorn Jandel isn’t really an evil spirit.’
 
 Deer Horns did not contemplate the matter further.
 
-The subtle nagging feeling from before had already slipped away…
+The subtle nagging feeling from before had already slipped away...
 
 “Everyone’s already here before me.”
 
@@ -310,19 +310,19 @@ When the footsteps sounded again, he finally appeared.
 
 The Clown sprang up to greet him like some devoted underling, but the man didn’t even glance at him. He simply took the empty seat. Then—
 
-“….”
+“....”
 
 He sat, propped his chin on his hand, and said nothing.
 
-“…I better be extra careful today.”
+“...I better be extra careful today.”
 
-He unknowingly swallowed.
+He swallowed without realizing it.
 
 It wasn’t even that he felt ashamed for acting so careful. Surely everyone else felt the same.
 
-“….”
+“....”
 
-“….”
+“....”
 
 They all felt the atmosphere shift.
 
@@ -330,7 +330,7 @@ They all felt the atmosphere shift.
 
 I really just want to flip over and take a nap.
 
-“Ah, I’m so sleepy…”
+“Ah, I’m so sleepy...”
 
 I leaned back, forcibly suppressing a yawn that kept threatening to escape.
 
@@ -342,9 +342,9 @@ Beyond tired, I felt like I could fall asleep at any moment.
 
 I didn’t feel like talking, so I just stayed quiet, hoping the meeting would proceed on its own, but the silence stretched on unusually long.
 
-“…”
+“...”
 
-“…”
+“...”
 
 Why were they acting like this?
 
@@ -354,23 +354,23 @@ Unable to bear it any longer, I finally spoke up.
 
 “How long.”
 
-“…?”
+“...?”
 
 “Are we going to keep this up?”
 
-“…!!”
+“...!!”
 
 Let’s start; I’m about to die of sleepiness.
 
 I meant it in a roundabout way, and the goblin quickly responded.
 
-“Yes, yes! We, we, we should start! So, starting with Mr. Crescent Moon… would be… good…”
+“Yes, yes! We, we, we should start! So, starting with Mr. Crescent Moon... would be... good...”
 
 Hmm, I thought the Fox would lead the proceedings, but it’s the Goblin stepping in.
 
 He seemed nervous, stammering like that, but at least it got everyone’s attention on Crescent Moon in seat one.
 
-“…I knew I should’ve picked a different seat.”
+“...I knew I should’ve picked a different seat.”
 
 Crescent Moon sighed as if the first turn was a burden, then officially opened the meeting.
 
@@ -380,7 +380,7 @@ The first piece of information was about the fairy race. Or more precisely, abou
 
 She mentioned that the Blood Spirit Queen had expressed an intention to resign from the Pureblood Legion.
 
-The round table’s gem glowed green for him.
+The Round Table’s gem glowed green for him.
 
 Apparently, the Pureblood Legion is some kind of elite unit among fairies, and Erwin was on temporary leave from it. She’d said she was going to file for resignation soon.
 
@@ -388,15 +388,15 @@ Tap, tap.
 
 So, the first piece of information was something I already knew.
 
-“The expedition led by Bjorn Jandel was destined to be sacrificed from the start,”
+“The expedition led by Bjorn Jandel was destined to be sacrificed from the start.”
 
-Deer Horns, who was in second turn, got a red light after mentioning that the expedition was a sacrifice.
+Deer Horns, whose turn was second, got a red light after mentioning that the expedition had been intended as a sacrifice.
 
 It seemed like the fox, the goblin, and I already knew the story.
 
-In the end, Deer Horns tried again, flustered…
+In the end, Deer Horns tried again, flustered...
 
-“…The royal family has offered to grant Bjorn Jandel a noble title for his contributions in this expedition.”
+“...The royal family has offered to grant Bjorn Jandel a noble title for his contributions in this expedition.”
 
 Although a green light appeared, there was no feedback.
 
@@ -419,23 +419,23 @@ Should I have told the Fox and the Goblin in advance? If I had, maybe it would�
 
 As I was licking my lips in regret, it was time for the third turn.
 
-The goblin, who was in his turn, trembled and got straight to the main point.
+When it was the Goblin’s turn, he trembled and got straight to the point.
 
 I expected him to talk about the expedition, but he didn’t.
 
 Was it because of the fox’s warning to be careful what he said?
 
-Hmm, he could still have shared something helpful…
+Hmm, he could still have shared something helpful...
 
-But the internal affairs of some church I don’t care about…
+But the internal affairs of some church I don’t care about...
 
 That’s just how the Goblin is.
 
 Sometimes he spills important stuff, but most of the time the quality of his information is pretty low.
 
-Anyway, the lantern lit green, so we moved on.
+Anyway, the jewel glowed green, so we moved on.
 
-So that’s three duds in a row…
+So that’s three duds in a row...
 
 Something felt off today.
 
@@ -449,19 +449,19 @@ For now, I can consider the Goblin an ally.
 So now it’s the Fox’s turn.
 
 Honestly, I wasn’t expecting much here either.
-She’d been in the Labyrinth with me the whole time, just like the Goblin…
+She’d been in the Labyrinth with me the whole time, just like the Goblin...
 
-“…Major clans are planning a collective boycott. They’re angry that an expedition with a special mission was formed without even informing them.”
+“...Major clans are planning a collective boycott. They’re angry that an expedition with a special mission was formed without even informing them.”
 
 I already knew this from my time in the city.
 
-Although she was expelled from the clan after being in a vegetative state, the Fox, who had long been Vice-Captain, had a wide network and access to various pieces of information.
+Although she had been expelled from the clan after falling into a coma, the Fox, who had long served as vice-captain, still had a wide network and access to all kinds of information.
 
 She now shared that network with me.
 
 So the fourth piece of info is a dud as well.
 
-I hoped the next one might be different…
+I hoped the next one might be different...
 
 Tap, tap.
 
@@ -473,7 +473,7 @@ Swoosh.
 
 Startled, the queen immediately looked away. She then spoke in an uncharacteristically timid voice,
 
-“…The GM has lifted that guy’s… Lee Baek-ho’s ban from the community.”
+“...The GM has lifted... Lee Baek-ho’s ban from the community.”
 
 It was obviously the GM’s doing.
 
@@ -485,7 +485,7 @@ Tap, tap.
 
 Anyway, the content was good enough to get a green light from everyone else, so it moved on to the next person.
 
-“…It’s already my turn. pssit.”
+“...It’s already my turn. Pssit.”
 
 No one had made any side comments; they just spat out their info, so we arrived at the sixth turn way faster than usual.
 
@@ -493,9 +493,9 @@ Whew. Right, this guy’s always the wild card.
 
 Even though I was so sleepy I could die, I still had some hope that he’d come up with something interesting, so I kept my ears open.
 
-But…
+But...
 
-“I’m sure you’ve all heard that the Dragon Slayer, Regal Vargos, is dead…”
+“I’m sure you’ve all heard that the Dragon Slayer, Regal Vagos, is dead...”
 
 He opened with something like he was testing the waters, but the info he ultimately revealed was a real letdown.
 
@@ -503,19 +503,21 @@ He opened with something like he was testing the waters, but the info he ultimat
 
 Not only was it not helpful, it was downright annoying.
 
-Tsk. Great, now I’ll have to explain everything to the Fox and the Goblin later, because they believed that story…
+Tsk. Great, now I’ll have to explain everything to the Fox and the Goblin later, because they believed that story...
 
 In any event, the Clown got a solid green light for his info.
 
 And then came my turn.
 
-“…” “…”
+“...”
+
+“...”
 
 All eyes were on me.
 
 It was the usual pattern once my turn came around.
 
-Since I joined, an unspoken rule had developed at the round table: if they brought me something entertaining, I’d evaluate it and give them a reward in return.
+Since I joined, an unspoken rule had developed at the Round Table: if they brought me something entertaining, I’d evaluate it and give them a reward in return.
 
 So, how was it this time?
 
@@ -549,8 +551,8 @@ Such a strange thing.
 
 “So you all really didn’t know?”
 
-“…”
+“...”
 
-“Seeing that it’s glowing green.”
+“Seeing it glow green...”
 
 It made me want to sleep out of boredom.

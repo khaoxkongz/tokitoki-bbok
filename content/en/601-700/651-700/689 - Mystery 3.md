@@ -32,17 +32,17 @@ If I had brought my clan members here, I could have distributed the loot as I pl
 
 “It’s been a while since I rolled the dice. This is actually kinda fun.”
 
-“Baek-ho… How about we each roll our own this time? I want to roll too…… Besides, Baek-ho, your luck isn’t usually that great, is it?”
+“Baek-ho... How about we each roll our own this time? I want to roll too...... Besides, Baek-ho, your luck isn’t usually that great, is it?”
 
-“…Me? My luck is bad?”
+“...Me? My luck is bad?”
 
-“……”
+“......”
 
 “Fine. Let’s each roll our own this time.”
 
 Once it came to that, we just rolled the dice without hesitation.
 
-And…
+And...
 
 “Pff— hahaha! If we were going for lowest number, you two would’ve gotten 1st and 2nd place!”
 
@@ -50,13 +50,13 @@ Baekho and I both rolled 5.
 
 Yes — combined we rolled 5.
 
-“The total is 11… th-that means… I win!”
+“The total is 11... th-that means... I win!”
 
 In short, GM won the roll and got the Mystery Box.
 
 “Well? Aren’t you going to open it already?”
 
-“H-Here? Right now…?”
+“H-Here? Right now...?”
 
 “Wow, look at his manners! Were you planning on opening it in secret or what?”
 
@@ -64,7 +64,7 @@ In short, GM won the roll and got the Mystery Box.
 
 The GM clearly wanted to open it privately, but everyone pressured him until he reluctantly nodded.
 
-“…Then… I’ll open it.”
+“...Then... I’ll open it.”
 
 Nervously, he placed his hand on the box. A moment later, the black box slowly rose into the air.
 
@@ -76,11 +76,11 @@ Soon, the ‘item’ hidden within the box was revealed.
 
 Moments later, the object inside the box revealed itself.
 
-“…Armor?”
+“...Armor?”
 
 A piece of armor came out.
 
-“Was… was there a numbered armor like this?”
+“Was... was there a numbered armor like this?”
 
 I’d never seen it before.
 
@@ -88,15 +88,15 @@ I’d never seen it before.
 
 It was just a plain, jacket-type armor—nothing fancy about it. The material was a muted gray rather than steel, and it lacked any ornaments, engravings, or gems.
 
-But maybe because of that…
+But maybe because of that...
 
 It looks like it belongs to a set.
 
 It matched No.3 Aegis’ Barrier perfectly.
 
-Even placing them side-by-side, the colors aligned exactly…
+Even placing them side-by-side, the colors aligned exactly...
 
-And honestly…
+And honestly...
 
 I was due for an armor upgrade anyway.
 
@@ -104,21 +104,21 @@ I was currently wearing a Litium Breastplate.
 
 It worked fine for now — it had decent stats — but I was planning on replacing it eventually with something more suitable.
 
-But now…
+But now...
 
 Gulp.
 
 For some reason, my mouth is watering.
 
-I still don’t know what this armor is yet… but there’s no way something from a ‘Mystery Box’ is worse than a Litinium breastplate worth several million stones.
+I still don’t know what this armor is yet... but there’s no way something from a ‘Mystery Box’ is worse than a Litinium breastplate worth several million stones.
 
-“W-Why are you staring at me like that…?”
+“W-Why are you staring at me like that...?”
 
 What? What’s wrong? I’m just looking at it.
 
 “Can I try it on?”
 
-“…Pardon?”
+“...Pardon?”
 
 “None of you even wear armor to begin with.”
 
@@ -130,7 +130,7 @@ As I stepped closer and stared him down, the GM reluctantly nodded.
 
 “We need to test the armor anyway, right?”
 
-“…Then… p-please… only try it… just trying it, alright…?”
+“...Then... p-please... only try it... just trying it, alright...?”
 
 “Have you ever seen me lie?”
 
@@ -160,7 +160,7 @@ Yeah, I definitely feel stronger.
 
 「The equipment is now bound to the wearer.」
 
-…Huh?
+...Huh?
 
 The armor suddenly clung tighter to my body.
 
@@ -194,15 +194,15 @@ Although it had taken hours to climb the stairs, it didn’t take nearly as long
 
 After stepping off the last stair, we entered another narrow passage, and at its end was a golden stone door.
 
-“…The Golden Ruins?”
+“...The Golden Ruins?”
 
 GM also seemed to recognize the place when he saw the golden door.
 
-“Why are the Golden Ruins here…?”
+“Why are the Golden Ruins here...?”
 
 “What are you surprised about? Has anything so far made sense?”
 
-“Well… fair enough…”
+“Well... fair enough...”
 
 “Honestly, I wouldn’t be shocked if the next room was a completely different region. That’s what being an explorer is all about.”
 
@@ -210,7 +210,7 @@ Baek-ho stepped forward and pushed open the gate.
 
 And—
 
-“…What the..?”
+“...What the..?”
 
 He froze in place and let out a startled exclamation. I stepped forward to see what was wrong, and I couldn’t help but flinch either.
 
@@ -239,7 +239,7 @@ Normally, when you open the stone gate and enter, golden light should pour down 
 
 Also—
 
-“Wow… look at all this dust…”
+“Wow... look at all this dust...”
 
 “Feels like we’re exploring an abandoned ruin!”
 
@@ -261,7 +261,7 @@ But by the time we arrived, it was completely empty.
 
 We began our investigation with the rooms on either side, starting with the one on the left—the one that had the snake-type mid-boss.
 
-‘…The hidden pieces are all gone.’
+‘...The hidden pieces are all gone.’
 
 The “Golden Orb” hidden under the lion mural, the “Eagle Candlestick” hidden in the trap room—everything was gone.
 
@@ -269,7 +269,7 @@ We walked through the maze-like path, checking every nook and cranny, but found 
 
 The mid-boss’s lever mechanism room was the same.
 
-“This is kind of eerie, now that there’s nothing at all……”
+“This is kind of eerie, now that there’s nothing at all......”
 
 The lever was already rotated, and the mid-boss was nowhere to be found.
 
@@ -277,9 +277,9 @@ And the hidden pieces in this place were gone as well.
 
 The Mummy Room on the right side was no different.
 
-“Looks like we’ve checked everywhere then……”
+“Looks like we’ve checked everywhere then......”
 
-“It’s kind of eerie… seeing nothing here at all.”
+“It’s kind of eerie... seeing nothing here at all.”
 
 Even after searching the entire ruin, there was nothing.
 
@@ -297,21 +297,21 @@ That’s when gamers lose their grasp of the situation and waste time.
 
 Just like now.
 
-“I’ll… go look at the stairs again…”
+“I’ll... go look at the stairs again...”
 
 “I’ll check if there are any hidden passages between the walls.”
 
 As top-level explorers, however, they didn’t lose morale and continued searching for something to do, but it didn’t amount to much.
 
-One day, two days, three days, four days…
+One day, two days, three days, four days...
 
 As time passed, there were literally no more places left to search, and because of that, anxiety and unease began to spread among the party.
 
-“…We’re not going to be trapped here forever, are we?”
+“...We’re not going to be trapped here forever, are we?”
 
 “Maybe this place was meant to starve us to death.”
 
-“I didn’t think they’d break us mentally like this…”
+“I didn’t think they’d break us mentally like this...”
 
 Everyone recalled their lowest moment, but unexpectedly, the one who reacted the most strongly was Baekho.
 
@@ -321,13 +321,13 @@ Lee Baek-ho sharply glared at everyone and snapped at people with his sharp eyes
 
 ‘Why is this guy’s mentality so weak?’
 
-Still, it was fortunate that he didn’t show that kind of attitude towards me yet…
+Still, it was fortunate that he didn’t show that kind of attitude towards me yet...
 
 But that also ended after a few more days passed.
 
 “Baron, give me the armor.”
 
-“…What?”
+“...What?”
 
 “Think about it. That armor is the only thing we got from here. If there’s some escape method, it’s going to be tied to that armor, right?”
 
@@ -335,6 +335,6 @@ His tone was unpleasant—
 
 But if you removed the emotion and just evaluated the logic:
 
-“…It’s not unreasonable.”
+“...It’s not unreasonable.”
 
 It did sound plausible.

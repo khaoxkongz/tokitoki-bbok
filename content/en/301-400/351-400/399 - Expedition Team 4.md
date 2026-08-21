@@ -1,26 +1,26 @@
-Expedition Team(4)
+Expedition Team (4)
 
 18 days after entering the labyrinth.
 
 Swoooosh!
 
-A medium-sized warship carrying all thirty crew members set sail, cutting through the waves.
+A medium-sized warship carrying all thirty expedition members set sail, cutting through the waves.
 
-For reference, this battleship had been provided by the royal family, and for now, its ownership seal had been temporarily transferred to me, the expedition leader.
+For reference, the warship had been provided by the royal family, and its ownership seal had been temporarily transferred to me, the expedition leader.
 
 While each member went to their assigned cabins to unpack, Amelia approached the sailor who was steering the ship.
 
 “Excuse me.”
 
-“So... you must be Emily Raines, what can I do for you?”
+“So... you must be Emily Raines. What can I do for you?”
 
-“How long will it take to get to the Ice Rock?”
+“How long will it take to get to Ice Rock?”
 
 “I’m estimating about twelve days.”
 
 “Is Ice Rock closer than the Dark Continent? Last time, it took half a month to get to the Dark Continent on a warship.”
 
-“In terms of simple distance, they’re similar, but the ship we’re on is different. The Type 7 warship we’re on is classified as medium-large but has excellent maneuverability.”
+“In terms of pure distance, they’re similar, but this ship is different. The Type 7 warship is classified as medium-large, yet it has excellent maneuverability.”
 
 “I don’t really get how a three-day difference qualifies as ‘excellent maneuverability.’”
 
@@ -30,11 +30,11 @@ While each member went to their assigned cabins to unpack, Amelia approached the
 
 Amelia, who’d recently developed a strong interest in sailing, nodded in understanding.
 
-“Haha,I’ve been piloting them for half my life; it comes with the experience.”
+“Haha, I’ve been piloting them for half my life. It comes with experience.”
 
-The only sailor in our expedition was from the Fifth Team, originally a member of the royal military.
+The only sailor in our expedition was from Team 5 and had originally served in the royal military.
 
-Hmm, thinking about it that way, it’s understandable that Kaislan arrived last on the 6th floor. He did a speed run with a sailor, after all.
+Hmm, thinking about it that way, it made sense that Kaislan had arrived last on the sixth floor. He had speedrun the route with a sailor, after all.
 
 “Can you tell me more about this warship?”
 
@@ -48,13 +48,13 @@ Hmm, thinking about it that way, it’s understandable that Kaislan arrived last
 
 While Amelia expressed her gratitude for the sailor’s kindness, I moved further into the ship’s interior.
 
-A room located at the deepest part of the ship’s center.
+I headed for a room located deep in the center of the ship.
 
 “Oh, everyone’s here.”
 
 “It’s the expedition leader’s orders. Didn’t you tell us to gather here after we finished unpacking?”
 
-In a room designed with executive meetings in mind, the team leaders of each team were waiting for me, and I quickly asked one thing.
+The room had been designed for command meetings, and the leaders of each team were already waiting for me. I got straight to the point.
 
 “Has anyone been to Ice Rock?”
 
@@ -66,9 +66,9 @@ The only ones who raised their hands were Akuraba and James Carla.
 
 “We’ve only been there a few times when our clan went on expeditions to earn merits; otherwise, we hardly ever went to Ice Rock.”
 
-That makes sense—it’s not a place with conditions for typical hunting expeditions.
+That made sense—it wasn’t a place suited to ordinary hunting expeditions.
 
-I don’t know for sure, but even among the skilled individuals gathered on this ship, less than half would have experienced Ice Rock.
+I couldn’t be sure, but even among the skilled people gathered on this ship, fewer than half had probably ever experienced Ice Rock.
 
 “Alright, then.”
 
@@ -78,13 +78,13 @@ After nodding in acknowledgment, I gave my orders concisely.
 
 “What kind of training?”
 
-“Formation practice. We hardly had time for it in the city. Since everyone is an experienced explorer, even a few practises on the deck should make them follow well in real combat.
+“Formation practice. We hardly had time for it in the city. Since everyone is an experienced explorer, even a few drills on deck should be enough for them to follow the formations in real combat.”
 
 “Understood.”
 
-First, there’s a need to increase the number of expedition leader-exclusive commands.
+First, we needed to expand the set of commands available to the expedition leader.
 
-Otherwise, unexpected damage might occur in sudden situations. We don’t even have proper formations for retreat or withdrawal yet.
+Otherwise, a sudden situation could lead to unnecessary casualties. We didn’t even have proper formations for retreat or disengagement yet.
 
 “Since our destination is Ice Rock, let’s prioritize what’s useful there.”
 
@@ -94,9 +94,9 @@ Okay, since he’s from a large clan and knows all sorts of formations inside ou
 
 “Titana Akuraba. Once you’re done unpacking, you’ll be in charge of managing the supplies.”
 
-“What about the authority?”
+“And how much authority do I have?”
 
-“From now on, it’s all entrusted to you.”
+“You have full authority over it from now on.”
 
 I entrusted Akuraba with the management of exploration-related consumables and equipment.
 
@@ -106,11 +106,9 @@ On the other hand, Akuraba is an elderly, experienced, legendary explorer, so ev
 
 “Melend Kaislan.”
 
-Next up was the knight.
+Next was the knight, who swallowed nervously, probably because the previous two had already received their assignments.
 
-Next in line was the knight, who swallowed nervously, probably because the previous two had received their assignments.
-
-He’s kind of cute, too, if you ask me........
+He’s kind of cute, too, if you ask me...
 
 “You’re responsible for maintaining order within the expedition. If any disputes arise among the members, you must mediate immediately, and if any serious incidents occur, it’s your job to resolve them.”
 
@@ -140,21 +138,21 @@ But without showing it, I spoke up.
 
 Right, that’s true.
 
-Because the Three Churches is a religion for humans.
+Because the Three Churches primarily serve humans.
 
 But...
 
 “That’s more than enough.”
 
-Isn’t the proportion of humans in the expedition team over half?
+Aren’t more than half of the expedition members human?
 
 And those humans are spread out among the teams.
 
-Just listening carefully to their voices will help grasp the general public opinion.
+Just listening carefully to what they said would be enough to gauge the expedition’s overall mood.
 
-“Is that all the instructions?”
+“Is that all your instructions?”
 
-When Akuraba asked, I confirmed, and she hesitated before asking if she could pose a question.
+I nodded. Akuraba hesitated for a moment before asking if she could pose a question.
 
 “A question? Go ahead.”
 
@@ -178,13 +176,13 @@ The entire journey took twelve days and seven hours, exactly as the sailor estim
 
 “Indeed, warships are good.”
 
-Leaving aside the specs that let us swiftly pass through the Windless Zone, I was very impressed by how we plowed through the eastern coast, trusting the ship’s durability and crashing into reefs.
+Leaving aside the performance that let us swiftly pass through the Windless Zone, I was impressed by how we cut through the eastern coastal waters, trusting the ship’s durability enough to smash straight through reefs.
 
 The ice-breaking device attached at the front also looked very sturdy.
 
 Crack! Crack! Crack! Crack!
 
-Even though it’s not classified as a special area like the ‘Frozen Sea,’ the ship plowed through floating ice chunks,smashing them as it went.
+Even though this wasn’t classified as a special area like the ‘Frozen Sea,’ the ship plowed through floating chunks of ice, smashing them apart as it went.
 
 “We’ve really arrived...”
 
@@ -202,11 +200,9 @@ And then...
 
 “Hold on tight! The ship is about to enter the portal!”
 
-At the sailor’s loud shout,
+At the sailor’s loud shout, a blue portal’s light enveloped our ship.
 
 [You have entered the 7th Floor: Ice Rock]
-
-A blue portal’s light enveloped our ship.
 
 Well, even without such an effect, we could feel with our bodies that we had arrived at Ice Rock.
 
@@ -218,15 +214,15 @@ Well, even without such an effect, we could feel with our bodies that we had arr
 
 As resistance significantly dropped, a chill swept over us.
 
-For now, the only noticeable change is that, but surely those troublesome effects have also been applied to our bodies.
+That was the only immediate change we could feel, but the other troublesome effects had surely taken hold as well.
 
-The thing that makes all explorers avoid Ice Rock.
+Then came the effect that made explorers avoid Ice Rock altogether.
 
-[Status Ailment [Frozen World] is applied]
+[Status Ailment: Frozen World has been applied.]
 
-[Space-related items are deactivated]
+[Space-related items have been deactivated.]
 
-A status ailment that disables not only subspaces but also expandable backpacks.
+It was a status ailment that disabled not only subspaces but expandable backpacks as well.
 
 This one short line can drive people crazy.
 
@@ -234,27 +230,27 @@ This one short line can drive people crazy.
 
 Akuraba, who was in charge of supply management, coordinated the members as they unloaded the supply crates enchanted with ‘Preservation’ magic onto the land.
 
-Because from now on, we have to carry these and move.
+From now on, we would have to carry all of it with us as we moved.
 
 But that’s not all.
 
-There’s even another crazy thing added here.
+There was another ridiculous effect on top of that.
 
-[Status Ailment [Starvation] is applied]
+[Status Ailment: Starvation has been applied.]
 
-[Resources obtained through consumption decrease by threefold]
+[Resources obtained through consumption are reduced to one-third.]
 
 Here, even if you eat the same food, you get hungry three times faster.
 
 That’s why so many supply crates are needed.
 
-This greatly affects why most explorers don’t consider this place a ‘hunting ground.’
+That was a major reason most explorers didn’t consider this place a proper ‘hunting ground.’
 
 You might endure the cold, but not hunger.
 
 Since food is limited, the time we can operate here is fixed.
 
-“With our food, it’s one month for now.”
+“With the food we have, we can last about a month.”
 
 Of course, that’s assuming nothing goes wrong.
 
@@ -266,9 +262,9 @@ Five sleds were placed on the frozen ground, each loaded to the brim with boxes.
 
 “Alright, let’s head back now.”
 
-After unloading all the supplies, only the sailor and I boarded the ship and went down to the sixth floor. Then we switched to a small boat and reverse-summoned the warship.
+After unloading all the supplies, only the sailor and I boarded the warship and returned to the sixth floor. There, we switched to a small boat and reverse-summoned the warship.
 
-「You have entered the seventh floor: Ice Rock.」
+[You have entered the 7th Floor: Ice Rock]
 
 After that, we returned to the previous location by rowing the small boat.
 
@@ -276,17 +272,17 @@ It was a bit troublesome, but it was a necessary process.
 
 Besides, we couldn’t just leave the warship behind.
 
-“What will you do with this ship?”
+“What will you do with this boat?”
 
 What do you mean, what will I do? Of course, we’ll leave it here.
 
-Just in case, we hid it well in a secluded spot so it wouldn’t drift away.
+Just in case, we hid the small boat in a secluded spot so it wouldn’t drift away.
 
 And with that, all preparations for the expedition were complete.
 
-“Each team, form up according to formation!”
+“Each team, form up!”
 
-Perhaps thanks to good training, the members moved in perfect unison and assumed their marching formations.
+Perhaps thanks to the training, the members moved in perfect unison and assumed their marching formations.
 
 “Move out!”
 
@@ -294,21 +290,17 @@ And with my shout, the first march of the expedition began.
 
 ---
 
-In the wide plain formation, the structure of the expedition is simple.
+In the wide plain formation, the expedition’s structure was simple.
 
-Our Team 1 at the front.
-
-Teams 3 and 5 on the left and right flanks.
-
-Team 4 at the rear, and Team 2, in charge of supply management, follows us from the center.
+Team 1 took the front. Teams 3 and 5 held the left and right flanks, Team 4 guarded the rear, and Team 2, which handled supply management, followed from the center.
 
 Thud, thud, thud—!
 
-While making these heavy sounds.
+Heavy thuds echoed behind us.
 
 “Mister, those are Ice Trolls, right?”
 
-Three Ice Trolls pulling the five sleds loaded with supply boxes, following our march.
+Three Ice Trolls were pulling the five sleds loaded with supply boxes as they followed our march.
 
 It’s thanks to the summoner in Akuraba’s team.
 
@@ -322,13 +314,13 @@ There was no need to confirm the reason.
 
 Thudududududu.
 
-A massive monster, breaking apart the ice that looked like a cliff and rising up.
+A massive monster broke through the cliff-like ice and rose from beneath it.
 
-“It’s a Stone winter!”
+“It’s a Stone Winter!”
 
 A Level 3 monster, Stone Winter.
 
-That creature, classified as colossal type and three of them at that.
+Stone Winters were classified as colossal-type monsters—and there were three of them.
 
 Boom—!
 
@@ -346,7 +338,7 @@ Well, with this force, three Level 3 monsters should be easy, right?
 
 Thinking that, I commanded the battle, but it didn’t take long for that expectation to be shattered.
 
-「You have defeated Stone Winter. EXP +7」
+[You have defeated Stone Winter. EXP +7]
 
 Even after the first battle ended, there were no cheers; only a funeral-like silence enveloped the expedition.
 
@@ -362,21 +354,21 @@ Well, it could happen.
 
 It’s our first time coordinating together, after all.
 
-There were three Level 3 monsters appearing at once; it’s understandable.
+Three Level 3 monsters had appeared at once; some injuries were understandable.
 
-It’s a problem that can be resolved by getting treatment from the priest.
+Those injuries could be handled by the priests.
 
 But...
 
 “And?”
 
-“...One sled was half-destroyed, and the loaded supplies were lost.”
+“...One sled was half-destroyed, and its cargo was lost.”
 
-This is the biggest problem.
+This was the real problem.
 
 The colossal monster managed to reach the area where the supplies were, and unfortunately, the ground couldn’t withstand the weight and collapsed, causing one-fifth of the supplies to be lost.
 
-“What was the proportion of food among the supplies loaded on the sled?”
+“How much of the cargo on that sled was food?”
 
 “...It was all food.”
 
@@ -384,7 +376,7 @@ The moment the words I least wanted to hear came out of Akuraba’s mouth, a cur
 
 “Damn it.”
 
-Just one day into entering Ice Rock.
+It had been only one day since we entered Ice Rock.
 
 “From now on, we’ll increase our speed.”
 

@@ -2,19 +2,19 @@ Expedition Team (2)
 
 The initiation ceremony was held in an empty mansion located in the imperial capital.
 
-It was a place that a certain count had been using as a villa, but he urgently put it up for sale because he needed funds for his business.
+A certain count had been using it as a villa, but he had abruptly put it up for sale because he needed funds for his business.
 
-Since the mansion didn’t require much renovation, they simply prepared a banquet, inviting only the thirty expedition members and their sponsors for a quiet, intimate ceremony.
+Since the mansion required little renovation, they simply prepared a banquet and invited only the thirty expedition members and their sponsors for a quiet, intimate ceremony.
 
 And then...
 
 ‘That really ended fast.’
 
-It took about 30 minutes for the patrons, including the marquis, to take turns giving speeches of encouragement or support.
+It took about 30 minutes for the patrons, including the Marquis, to take turns giving speeches of encouragement or support.
 
 “Since all the talk about saving the country and becoming heroes has already been said, I’ll keep it short.”
 
-“Let’s kill many.”
+“Let’s kill a lot.”
 
 “Let’s earn a lot.”
 
@@ -22,11 +22,11 @@ My own speech as the expedition leader lasted about 10 seconds.
 
 In a total of 30 minutes and 10 seconds, the official event concluded, and we moved on to the banquet.
 
-The Chancellor, Duke of Keallunas, the Alliance of Lesser Nobles, the Three Churches, the Alminus Trading Company, the Explorers’ Guild, and so on.
+The guests included the Chancellor, Duke of Keallunas, the Alliance of Lesser Nobles, the Three Churches, the Alminus Trading Company, the Explorers’ Guild, and so on.
 
-Although various influential figures participated as patrons in the banquet, it was somewhat lacking.
+Although various influential figures attended the banquet as patrons, the event itself felt somewhat lacking.
 
-The food was plentiful but pre-prepared and cold. There were no musicians, no servants to fill drinks, and no spectators.
+The food was plentiful but had been prepared in advance and was already cold. There were no musicians, no servants to refill drinks, and no spectators.
 
 But no one complained. Everyone knew.
 
@@ -56,7 +56,7 @@ After all, they are the people whose lives I’ll be responsible for from now on
 
 I should at least know their faces and names.
 
-While I was greeting people like that for quite a while.
+I spent quite a while greeting people like that.
 
 “I never imagined I’d see the name Rihen Schuiz again at the initiation ceremony.”
 
@@ -70,9 +70,9 @@ Wow, I didn’t expect to see you here either.
 
 “Perhaps I should introduce myself more properly? I am—”
 
-“I know. You are the Vice Captain of the Raler Clan, right?”
+“I know. You are the vice-captain of the Raler Clan, right?”
 
-The first time I met this woman was back when the first-floor Crystal Cave cave was in chaos.
+The first time I met this woman was back when the first-floor Crystal Cave was in chaos.
 
 At the time, we didn’t have enough room for everyone to teleport to safety, and she used dice to decide who would be left behind.
 
@@ -80,7 +80,7 @@ And our team was among those she selected to be abandoned.
 
 Sigh, back then, we nearly died trying to break through with fifteen people—
 
-“Thank you for remembering, but it seems you’re out of touch. I’m no longer the Vice Captain”
+“Thank you for remembering, but it seems you’re out of touch. I’m no longer the vice-captain.”
 
 Vercil gave a bitter smile and spoke with a self-deprecating tone.
 
@@ -112,9 +112,9 @@ Should I say she doesn’t seem like someone who feels grateful?
 
 If it’s Team 4, that’s the group led by Paladin Jun.
 
-Before the ceremony, I learned from the marquis that there were four members in Team 4, all from religious groups.
+Before the ceremony, I learned from the Marquis that there were four members in Team 4, all from religious groups.
 
-But there’s an odd twist-a mage got thrown in with them.
+But there was an odd twist—a mage had been thrown in with them.
 
 ‘Guess she owes them.’
 
@@ -146,7 +146,7 @@ At that moment, Erwin, who was next to me, intervened.
 
 “Of course, you’d regret it. You ditched everyone and ran off, and look where that got you.”
 
-A sharp comment, still harboring lingering resentment from the past.
+It was a sharp jab, proof that she still harbored resentment from the past.
 
 At this, Vercil glanced at me, then gave a short bow and left.
 
@@ -188,7 +188,7 @@ I have to do what needs to be done.
 
 For those who didn’t come first, I sought them out, greeted them, and had brief conversations.
 
-After all, the information the marquis gave me only had a list of twenty names.
+After all, the information the Marquis gave me only had a list of twenty names.
 
 It’s not that the intelligence was lacking; rather, most teams hadn’t filled all their members by then—
 
@@ -202,13 +202,13 @@ The vice-captain of the 2nd Paladin Order of the Leatlas Church.
 
 He was sipping alcohol in a corner with a somewhat troubled expression, and when he saw me, his eyes widened slightly in surprise.
 
-“Do you know me?” He asked
+“Do you know me?” he asked.
 
 Of course.
 
 I had seen him several times when visiting the church, and due to certain events, I was convinced he was the ‘Goblin Mask.’
 
-“Don’t underestimate the intelligence of the marquis’s household.”
+“Don’t underestimate the intelligence of the Marquis’s household.”
 
 “...I wasn’t underestimating it.”
 
@@ -228,7 +228,7 @@ Because he had heard that story.
 
 “Yes, I look forward to working with you too.”
 
-After a brief conversation with Sven Parab, I turned away
+After a brief conversation with Sven Parab, I turned away.
 
 Somehow, I felt conflicted.
 
@@ -236,7 +236,7 @@ Somehow, I felt conflicted.
 
 Sven Parab is the Goblin Mask.
 
-In other words, whenever the community opens, he’s likely to spill information related to the expedition team like a leaky jar.
+In other words, whenever the community opened, he was likely to leak information about the expedition like a cracked jar.
 
 ‘Of all the religious types, why did they pick someone like him?’
 
@@ -246,9 +246,9 @@ If I pretend to suspect him of being possessed by an evil spirit and have him mo
 
 ‘...I’ll think about this later.’
 
-After that, I continued to walk around the banquet hall and finished exchanging names with all the members, including those I hadn’t received information about from the marquis.
+After that, I continued to walk around the banquet hall and finished exchanging names with all the members, including those I hadn’t received information about from the Marquis.
 
-Although the existence of Sven Parab was a negative variable, there was a positive aspect.
+Although Sven Parab was a liability, there was one positive aspect.
 
 No matter how many times I emphasize it, it’s not enough.
 
@@ -262,9 +262,9 @@ After the banquet concluded in the evening, the initiation ceremony was official
 
 However, we remained at the mansion.
 
-Because our existence is confidential, after all.
+After all, our existence was confidential.
 
-Since most of the expedition members are famous, it was decided that we’d stay here until the labyrinth opens and try to coordinate together...
+Since most of the expedition members were famous, it was decided that we would stay here until the labyrinth opened and try to coordinate...
 
 ‘Coordinate, my foot.’
 
@@ -278,21 +278,21 @@ Therefore...
 
 “It would be best for each team to handle battles independently and aid each other only in emergencies.”
 
-After a leadership meeting, this conclusion was reached.
+After a meeting among the team leaders, we reached that conclusion.
 
-The judgment was that if thirty people tried to move as one unit in this situation, it would only cause friction.
+Trying to make thirty people move as a single unit under these circumstances would only create friction.
 
 “Still, just in case, wouldn’t it be good to set up at least one formation for emergencies?”
 
 We decided to plan for emergencies by grouping members according to role—mages with mages, healers with healers.
 
-By marking symbols on their chests to distinguish them, and educating them on where they should stand in emergencies, it would be much safer.
+If we marked symbols on their chests to distinguish their roles and taught them where to stand in an emergency, things would be much safer.
 
 “Warriors with shield markings will stand on the perimeter, and those with sword markings will stand directly behind them.”
 
 “What about the healers?”
 
-“Of course, they’ll be in the center. They need to survive to heal the wounded. Long-ranged supporters with bow emblems should protect the mages and healers.””
+“Of course, they’ll be in the center. They need to survive to heal the wounded. Long-range supporters with bow emblems should protect the mages and healers.”
 
 Alright, this much can be taught in two days.
 
@@ -302,23 +302,21 @@ None of them are strangers to group activities, after all.
 
 “...Of course.”
 
-Geez, Just because I propped my chin up a little...
+Geez, just because I propped my chin up a little...
 
 I’ve only got two commands as the expedition leader, after all.
 
-Each team fights separately in dispersed battles.
+When dispersed, each team fights independently.
 
-Then, when we unite as a single unit, there’s the “assemble” command
+When we need to unite as a single unit, there’s the “assemble” command.
 
-We’ll probably get more commands like “charge,” “focus fire,” or “shield wall” as time goes on, but this is it for now—so it’s not hard to remember.
-
-For now, this is all there is to memorize.
+We’ll probably add commands like “charge,” “focus fire,” or “shield wall” as time goes on, but for now, that’s all there is to remember.
 
 “Then let’s leave it at this for now, and teach the rest of the formations after we regroup on the sixth floor if we have spare time. Or, what do you think?”
 
 “Good. Let’s do that.”
 
-The meeting proceeded with them discussing among themselves and then seeking my approval. After the meeting, James Carla, the former clan vice captain, worked hard to drill the ‘Disperse and Gather’ command into the expedition team.
+The meeting proceeded with the others discussing matters among themselves and then seeking my approval. Afterward, James Carla, the former clan vice-captain, worked hard to drill the ‘Disperse and Gather’ command into the expedition.
 
 And then, two more days passed...
 
@@ -328,25 +326,25 @@ And then, two more days passed...
 
 The glittering Crystal Caverns.
 
-My entire team was covered in robes, moving swiftly.
+My entire team was cloaked in robes as we moved swiftly.
 
 After all, it’s best to avoid being seen.
 
 Tap tap tap.
 
-Though we had a mage and a support type with low physical abilities, our movement speed was fairly decent.
+Though we had a mage and a support-type with low physical abilities, our movement speed was fairly decent.
 
 After all, both had their own means of transportation.
 
-[Riard Ashid has cast Level 4 transformation spell ‘Fox Light.’」
+[Riard Ashid has cast the Level 4 transformation spell ‘Fox Light’.]
 
 Transformed into a ball of light, the mage floated through the air.
 
 And...
 
-「Gerold Aldidi has used [Lukberta’s Pigeon Boots].」
+[Gerold Aldidi has used [Lukberta’s Pigeon Boots].]
 
-The support type mage covered the gap with his gear.
+The support-type mage made up for his limited mobility with his equipment.
 
 Walking beside him, Amelia observed his pace with curiosity.
 
@@ -358,13 +356,13 @@ Walking beside him, Amelia observed his pace with curiosity.
 
 “Haha, you’re underestimating the support-types.”
 
-Support-type users have to build up soul energy synergy as a core part of their training,so they tend to have the highest MP among all classes.
+Support-type users have to build up soul-energy synergy as a core part of their training, so they tend to have the highest MP among all classes.
 
 “Don’t worry. I usually only use this up to the third floor. The pathways on the fifth floor are too narrow, and as for the sixth... well, we’ll mostly be traveling by boat, so there’s little need to use it there.”
 
 Bringing a seasoned explorer along certainly seems to make a difference.
 
-It feels like everything is well-prepared.
+Everything feels well prepared.
 
 ‘At this rate, we might even be able to speedrun it.’
 

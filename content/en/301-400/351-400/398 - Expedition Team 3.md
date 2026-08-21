@@ -1,4 +1,4 @@
-Expedition Team(3)
+Expedition Team (3)
 
 To get straight to the point, the speedrun was a failure.
 
@@ -24,17 +24,17 @@ That’s probably why that dragon tribe woman requested to act independently.
 
 ‘Ravien, I wonder if she succeeded in her speedrun?’
 
-The last member of our team, Ravien the Dragon tribe woman.
+Ravien, the dragon tribe woman, was the last member of our team.
 
 She attended the initiation ceremony, left before the banquet, and entered the labyrinth on her own.
 
 She argued that moving alone is several times faster and that we could just meet on the sixth floor anyway.
 
-If only it weren’t for the marquis back then...’
+‘If only it weren’t for the Marquis back then...’
 
-A mindset that clearly indicates a problem in her head.
+She had the kind of mindset that made it clear there was something wrong with her head.
 
-I felt the need to correct her, but unfortunately, due to the marquis’s intervention, I failed.
+I felt the need to correct her, but unfortunately, due to the Marquis’s intervention, I failed.
 
 Unlike the other expedition members, he had made a personal agreement with her, so he argued that we should respect that level of autonomy.
 
@@ -68,15 +68,13 @@ Naturally, we ended up having a lot of conversations.
 
 Among our conversations, there were many personal chats like this, but no one crossed the line.
 
-For example, asking if the rumors about Erwen and me were true.
-
-Wondering about my relationship with the marquis.
+For example, whether the rumors about Erwin and me were true, or what my relationship with the Marquis was.
 
 Old Didi occasionally showed curiosity about such things, but before he could voice them, the mage Ashid would cut him off.
 
 “But by any chance—”
 
-“Miss Reinz, I had a question while watching the battle. Can your clones use aura?”
+“Miss Raines, I had a question while watching the battle. Can your clones use aura?”
 
 “No, that’s impossible.”
 
@@ -116,11 +114,11 @@ If that guy had grown up over time, would he have given me this kind of feeling?
 
 Day 18 of the labyrinth exploration.
 
-We speed ran through all the floors except the fourth and arrived at the Island of Beginnings Raimia, where it was rather quiet.
+We speedran every floor except the fourth and arrived at Raimia, the Island of Beginnings, where it was surprisingly quiet.
 
 Well, that’s natural.
 
-After rushing like this, how many people could have reached here at this time?
+After rushing this hard, how many people could have reached this place so early?
 
 A reconnaissance team composed of the military’s swiftest.
 
@@ -130,7 +128,7 @@ And...
 
 “......”
 
-A distant greeting from another expedition team, probably acknowledging our presence.
+A greeting came from another expedition team in the distance, probably acknowledging our presence.
 
 Wow, two teams got here before us.
 
@@ -140,21 +138,19 @@ I expected as much from the dwarf aunt’s team of veteran explorers, but I didn
 
 Anyway, thanks to the quietness, it was easy to find someone.
 
-The dragon tribe woman Ravien.
-
-The woman I added as a member due to a deal with the marquis, and whose full name I still didn’t know.
+It was Ravien, the dragon tribe woman I had added to the team because of a deal with the Marquis—and whose full name I still didn’t know.
 
 “You guys wait here for a moment.”
 
 After having my team wait, I approached the woman sitting in the shade, gazing blankly at the beach.
 
-“The 18th day... you came earlier than I thought.”
+“Day 18... You came earlier than I thought.”
 
 As I approached, Ravien spoke without even turning her head.
 
 What, does she have eyes on the back of her head?
 
-“They said the gathering point was on the eastern side of the island, didn’t they?” I asked
+“They said the gathering point was on the eastern side of the island, didn’t they?” I asked.
 
 “Yeah, but we’re not leaving until Day 20 anyway. Looks like the other teams who arrived early are just resting nearby.”
 
@@ -202,11 +198,11 @@ I wondered if she’d just choose to wait here until the meeting date, but surpr
 
 “Yes. Feel free to call me whatever you like, Mr. Ashid.”
 
-A conversation flowing much more smoothly than expected.
+The conversation flowed much more smoothly than expected.
 
 “Would it be alright if I addressed you as Lady Ravien?”
 
-Understanding that the beast tribe ages differently from humans, old Didi cautiously asked, and Ravien agreed without much thought.
+Knowing that the beast tribe ages differently from humans, Old Didi asked cautiously, and Ravien agreed without much thought.
 
 And then...
 
@@ -214,9 +210,9 @@ And then...
 
 Ravien turned her head toward Amelia and Erwin.
 
-“Call me whatever you want—Emily or Reinz.”
+“Call me whatever you want—Emily or Raines.”
 
-“I’ll call you Ms. Reinz.”
+“I’ll call you Ms. Raines.”
 
 “I’m Tercia.”
 
@@ -260,17 +256,17 @@ But it’s common in restricted professions like mages, priests, and ability use
 
 Perhaps thinking there was a hidden meaning in my words, Ravien chuckled.
 
-“Will you keep being like that
+“Are you going to keep acting like that?”
 
 “It’s not like I said anything wrong.”
 
 Well, let’s end this little power struggle here.
 
-Then the mage and the support type explained their positions to Ravien.
+Then the mage and the support-type explained their positions to Ravien.
 
 It didn’t take long, but it was still frustrating to watch.
 
-Why are we doing twice what we could have done once if we had done it back in the city?
+Why were we doing twice the work when we could have handled all of this back in the city?
 
 Perhaps individualism is synonymous with inefficiency.
 
@@ -280,13 +276,13 @@ Perhaps individualism is synonymous with inefficiency.
 
 Before long, Akuraba’s team and the paladin team, who had been resting by the seaside, moved to the eastern part of the island designated as the assembly point.
 
-And how much time passed after that?
+After some time passed...
 
-“Team 3 has arrived now.”
+“Team 3 is arriving now.”
 
-From our higher vantage point on the eastern side of the island, we could see other teams arriving in real-time as they entered the sixth floor.
+From our higher vantage point on the eastern side of the island, we could see the other teams arriving in real time as they entered the sixth floor.
 
-It was the team led by James Carla, the vice captain of the Gearfang Clan...
+It was the team led by James Carla, the vice-captain of the Gearfang Clan...
 
 “That team looks like a mess.”
 
@@ -294,7 +290,7 @@ It was the team led by James Carla, the vice captain of the Gearfang Clan...
 
 I could understand the mindset.
 
-The gathering date might be the 20th, but nobody wants to be the last, as it would reflect poorly on them.
+The rendezvous might be scheduled for Day 20, but nobody wanted to be the last to arrive. It would reflect poorly on them.
 
 It’s just another form of power struggle.
 
@@ -306,13 +302,13 @@ It’s a good means of leadership, but only once a sense of camaraderie has been
 
 ‘How can I unite these people into a single team?’
 
-As I spent time pondering the inevitable concerns any leader would have, the day came to an end.
+As I mulled over the kind of problem every leader eventually faces, the day drew to a close.
 
-Team 5—the one led by Sir Kyslan—arrived right at that moment.
+Team 5—the one led by Sir Kaislan—arrived right at that moment.
 
 “Damn it...!”
 
-Even though they arrived two days early from the meeting date, they were still last, and the frustration was evident as he clenched his fist.
+Even though they had arrived two days ahead of the meeting date, they were still last, and his frustration was obvious as he clenched his fist.
 
 Huh, looks like his temper’s fraying.
 
@@ -326,7 +322,7 @@ See, getting angry will only give you wrinkles.
 
 Pat, pat.
 
-Encouragingly, I patted his shoulder and used him as a support to stand up.
+I gave his shoulder an encouraging pat, then used it as a brace to stand up.
 
 “We still have two extra days, but now that everyone’s here, there’s no point in wasting time.”
 
@@ -342,7 +338,7 @@ Since I gave permission, they thought it was okay to listen openly.
 
 “Now, tell us. What are we going to do that you’ve been keeping so tightly under wraps? You’re the only one who knows about this mission, being the expedition leader.”
 
-Through the flickering campfire, Akuraba’s eyes filled with curiosity met mine.
+Akuraba’s curious eyes met mine across the flickering campfire.
 
 Please, I wish dwarves wouldn’t sit on chairs.
 
@@ -356,7 +352,7 @@ Anyway, that’s not the important thing.
 
 Considering the dignity of a leader, I cleared my throat and spoke.
 
-“You all must have been curious. If those Noark bastards are coming to the Dark Continent through a portal, then where that area is.”
+“You all must have been curious about where those Noark bastards emerge when they reach the Dark Continent through a portal.”
 
 “Yes. If it’s a starting point like the Crystal Cave, surely they would use it as their base.”
 
@@ -364,15 +360,15 @@ Considering the dignity of a leader, I cleared my throat and spoke.
 
 “Yes.”
 
-When I revealed the top-secret information I heard from the marquis, everyone buzzed.
+When I revealed the top-secret information I had heard from the Marquis, the group broke into murmurs.
 
 Jeez, it’s not even time to be surprised yet.
 
 “Our mission is to strike at their base.”
 
-In military terms, we’re a rapid strike force.
+In military terms, we were a rapid strike force.
 
-Destroying the enemy’s core units or facilities while the main force distracts them on the battlefield.
+Our job was to destroy the enemy’s core units or facilities while the main force kept them occupied on the battlefield.
 
 “Um, there’s one thing I don’t understand. If that’s our mission, why did we set such a tight schedule?”
 
@@ -384,7 +380,7 @@ Really, I haven’t even finished talking yet.
 
 One of the characteristics of a disorganized army is that every time someone says a word, a local broadcast kicks in.
 
-Before misunderstandings grew, I quickly addressed this first.
+Before the misunderstanding could spread, I quickly cleared it up.
 
 “We won’t be crossing the Ghost Canyon.”
 
@@ -408,7 +404,7 @@ Why else would we gather on the eastern side of the island?
 
 “We’re heading to Ice Rock in the East.”
 
-Just as the Goblin Forest, Beast’s Den, Rock Desert, and Land of the Dead—all second-floor fields—connect to the third-floor Pilgrim’s Path, the seventh floor also has more than one route beyond the Dark Continent.
+Just as the Goblin Forest, Beast’s Den, Rock Desert, and Land of the Dead—all second-floor fields—connect to the third-floor Pilgrim’s Path, the seventh floor also has more than one route onward besides the Dark Continent.
 
 “Once we reach the eighth floor, we’ll use it as a passage into the Dark Continent to strike at the Noark’s exposed rear.”
 

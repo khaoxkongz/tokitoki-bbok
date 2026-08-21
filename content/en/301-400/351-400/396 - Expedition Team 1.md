@@ -1,14 +1,14 @@
 Expedition Team (1)
 
-I stared at the knight for a while in silence, then changed my expression.
+I stared at the knight in silence for a moment, then changed my expression.
 
 “It seems I was mistaken.”
 
-The knight seemed relieved at my change in expression but still looked confused, as if wondering what I was talking about.
+The knight seemed relieved by the change in my expression, though he still looked confused, as if wondering what I was talking about.
 
 “Oh, I’m just glad there seems to be nothing wrong with your head.”
 
-I patted the knight’s shoulder, then checked with the other three to confirm if they had any objections to me being the leader.
+I patted the knight’s shoulder, then checked with the other three to see whether they had any objections to me becoming the leader.
 
 They probably didn’t have the guts to break a promise that was notarized in front of the Marquis, but you never know.
 
@@ -20,9 +20,9 @@ However...
 
 “Since it’s come to this, please call me whenever you need my help.”
 
-Unexpectedly, the other three, excluding the knight, did not express any objections.
+Unexpectedly, aside from the knight, none of the other three objected.
 
-Maybe they were more easy going than I’d thought.
+Maybe they were more easygoing than I’d thought.
 
 I figured at least one would push back, given the political stakes involved.
 
@@ -32,7 +32,7 @@ I figured at least one would push back, given the political stakes involved.
 
 As I turned to go, all four of them gave me puzzled looks.
 
-They seemed to think that since the leader was decided, we’d have more to talk about...
+They seemed to think that, now that the leader had been decided, we would have more to talk about...
 
 “I’m hungry, you see.”
 
@@ -42,14 +42,13 @@ They seemed to think that since the leader was decided, we’d have more to talk
 
 With that, I walked out of the room, leaving behind four puzzled faces.
 
-It’s a kind of build-up.
+It was a kind of groundwork.
 
-I’m not going to live as Rihen Schuiz forever, and it’ll be revealed in three months, right?
+I wasn’t going to live as Rihen Schuiz forever, and the truth would come out in three months anyway.
 
-If I show them this kind of behavior in advance, it’ll be easier for them to accept it then.
+If I showed them this side of me in advance, it would be easier for them to accept the truth when the time came.
 
 They might think, “No wonder he acted like some kind of barbarian. So that’s why.”
-BookingHistorical Guided Tours
 
 “You’ve come.”
 
@@ -77,7 +76,7 @@ And that wrapped up my mid-mission report—almost.
 
 “...?”
 
-“Now that we have a commander, there’s to be a initiation ceremony soon.”
+“Now that we have a commander, there’s going to be an initiation ceremony soon.”
 
 “An initiation ceremony?”
 
@@ -89,7 +88,7 @@ And that wrapped up my mid-mission report—almost.
 
 I found it a bit amusing.
 
-There are less than ten days left before entering the labyrinth, and only now are we having an initiation ceremony and getting acquainted before heading straight in?
+There are fewer than ten days left before we enter the labyrinth, and only now are we holding an initiation ceremony and getting acquainted right before heading in?
 
 It’s like roasting beans over a flash of lightning.
 
@@ -99,11 +98,11 @@ I suddenly asked myself, and the answer quickly became clear.
 
 ‘He probably wants to make sure it all happens after the 15th. That’s when information is most likely to leak to the Noark side.’
 
-The Higher-ups would want to minimize information exposure as much as possible.
+The higher-ups would want to minimize information exposure as much as possible.
 
-When I asked more about the initiation ceremony, the marquis answered that it was impossible to hold a grand event inviting hundreds of people due to security reasons.
+When I asked more about the initiation ceremony, the Marquis answered that it was impossible to hold a grand event inviting hundreds of people due to security reasons.
 
-“Anyway, I understand about the initiation ceremony, But what about my two team members? Will I only meet them at the ceremony?”
+“Anyway, I understand about the initiation ceremony. But what about my two team members? Will I only meet them at the ceremony?”
 
 “Not at all. If you’re okay with it, I can arrange for you to meet them as early as tomorrow.”
 
@@ -123,7 +122,7 @@ As I was about to wrap up the conversation, the Marquis suddenly brought up a ne
 
 “When you made that bet at the banquet...”
 
-The marquis paused, catching his breath, then asked,
+The Marquis paused, catching his breath, then asked,
 
 “Were you confident that you could win against the four of them?”
 
@@ -145,9 +144,9 @@ I decided to answer honestly.
 
 The key to my victory was the Stage 7 Immortal engraving.
 
-The special stat ‘regeneration ‘ that increases regeneration efficiency.
+Specifically, the special stat ‘Regeneration,’ which increases regeneration efficiency.
 
-Without it, I wouldn’t have been able to endure for such a long time with my basic natural regeneration.
+Without it, I wouldn’t have been able to endure for so long on my basic natural regeneration alone.
 
 More importantly, I might have run out of MP first.
 
@@ -173,23 +172,23 @@ There are countless cases where people get knocked out by a lucky punch.
 
 I responded to the Marquis’s question with a shrug and left the room.
 
-‘What kind of question is that? If I lost, I never planned to admit defeat in the first place’
+‘What kind of question is that? If I’d lost, I never planned to admit defeat in the first place.’
 
 Plan B should always be kept hidden.
 
 ---
 
-The next day at lunchtime, Two team members, contacted by the Marquis, visited our house.
+The next day around lunchtime, the two team members the Marquis had contacted visited our house.
 
 “You must be Mr. Rihen Schuiz. I am Riard Ashid, a Rank 3 mage from the Lengman School.”
 
-A mage(Male) in his mid-30s, unusually tall and radiating a warm aura.
+The first was a male mage in his mid-thirties, unusually tall and radiating a warm aura.
 
 And...
 
 “Young, aren’t you? My name is Gerold Aldidi.”
 
-A sixty-something year old support type who seemed to be in much better shape than I expected (male).
+The other was a male support-type in his sixties who looked to be in much better shape than I had expected.
 
 “Nice to meet you. I’m Rihen Schuiz.”
 
@@ -207,9 +206,9 @@ Whatever the reason, it wasn’t that important.
 
 “Aldidi, if you came here thinking this is a typical exploration team, it’s not too late to back out now. We’ll be operating under a military chain of command for some time, and the hierarchy is strict.”
 
-In first meetings, establishing dominance is crucial.
+At a first meeting, establishing the hierarchy is crucial.
 
-When I drew a firm line, Gerold Aldidi, or Old Didi for short, graciously backed off. .
+When I drew a firm line, Gerold Aldidi—or Old Didi, for short—graciously backed off.
 
 “Haha, don’t misunderstand. I was just curious. I’ve worked under younger folks before and am quite used to it.”
 
@@ -227,19 +226,19 @@ When I drew a firm line, Gerold Aldidi, or Old Didi for short, graciously backed
 
 Ah, so the Marquis already told them that.
 
-“It seems we’ve chosen well. Serving directly under the expedition leader should offer more chances for achievement, Isn’t that right, Mr. Aldidi?”
+“It seems we’ve chosen well. Serving directly under the expedition leader should give us more opportunities to distinguish ourselves. Isn’t that right, Mr. Aldidi?”
 
 “Mm-hmm, you could say that...”
 
 When Ashid asked with a gentle smile, Old Didi cleared his throat and agreed.
 
-I glanced over the two.
+I looked the two of them over.
 
 ‘Their first impressions aren’t bad.’
 
 First, the mage Ashid.
 
-Although we haven’t exchanged many words, he seems competent.
+Although we hadn’t exchanged many words yet, he seemed competent.
 
 Well, there aren’t any stupid mages anyway.
 
@@ -249,7 +248,7 @@ But social skills and intelligence are different things.
 
 Of course, this is partly thanks to Ashid.
 
-By emphasizing things like opportunities and the expedition leader, he imprinted on the old man that they are in a subordinate position.
+By emphasizing things like opportunity and the expedition leader, he made it clear to the old man that the two of them were in a subordinate position.
 
 “Then Mr. Schuiz, if you don’t mind, could you introduce the people behind you?”
 
@@ -263,7 +262,7 @@ When Erwin introduced herself, the two reacted with a startled expression and mu
 
 Still...
 
-‘They are curious about her, but do not ask unnecessary questions. That’s good’
+‘They’re curious about her, but they don’t ask unnecessary questions. That’s good.’
 
 It seemed my luck with teammates was holding up.
 
@@ -277,7 +276,7 @@ After we finished introductions, I invited them inside and led them to the table
 
 “Before an important matter, it’s better to stay hungry.”
 
-So both of them haven’t eaten yet.
+So neither of them had eaten yet.
 
 “I haven’t prepared much, but eat as much as you like. If there’s anything you want to say, we can talk while eating.”
 
@@ -293,19 +292,19 @@ I seated everyone at the dining table, and we began to eat and chat.
 
 Ashid and Erwin’s conversation made the atmosphere even more pleasant.
 
-I just quietly ate my food.
+I quietly ate my food.
 
-Because all the dishes were bought from a restaurant.
+After all, every dish had come from a restaurant.
 
-I went out in the morning, bought them myself, put them on plates, and set them on the table, so saying we prepared them isn’t entirely a lie.
+I had gone out that morning, bought everything myself, plated it, and set it on the table, so saying we had prepared the meal wasn’t entirely a lie.
 
-‘If it were Misha, she would’ve insisted on cooking herself from the morning...’
+‘If it were Misha, she would’ve insisted on cooking everything herself since morning...’
 
 I suddenly thought of Misha, but I didn’t intend to belittle Erwin’s efforts.
 
 I always preferred to go out and buy food because I didn’t like seeing her go through unnecessary trouble.
 
-But Misha always insisted though.
+But Misha always insisted on doing it herself, though.
 
 ‘I wonder if she’s doing well...’
 
@@ -317,9 +316,9 @@ Amelia poked me in the waist.
 
 “Nothing. We were talking about careers, right?”
 
-After momentarily letting my thoughts wander, I actively joined the conversation and began gathering information about my new colleagues.
+After letting my thoughts wander for a moment, I rejoined the conversation and began gathering information about my new teammates.
 
-There wasn’t much difference from what I had heard from the Marquis.
+What they told me wasn’t much different from what I had heard from the Marquis.
 
 “The last time I entered the labyrinth was seven years ago. After the clan I was with for about five years disbanded, I’ve been focusing on research activities at the Mage Tower.”
 
@@ -337,13 +336,13 @@ That’s a lot more credible than a bunch of weird beliefs.
 
 “For a mage in the labyrinth, it’s more important what they can’t do than what they can.”
 
-With a sly smile at my question, Ashid shared his own cards.
+Ashid gave a sly smile at my question and laid his cards on the table.
 
-“I can only use Level 5 or higher curse magic in a very limited way. Support and auxiliary spells up to Level 5. Other than that, I can do everything except for the unique spells of other schools. Oh, and I have quite extensive knowledge about gathering and materials in the labyrinth, which can be considered an advantage.”
+“I can only use Level 5 or higher curse magic in a very limited way. I can use support and auxiliary spells up to Level 5. Other than that, I can do everything except for the unique spells of other schools. Oh, and I also have extensive knowledge of gathering and materials in the labyrinth, which you could consider an advantage.”
 
 Ashid was a kind of all-rounder.
 
-A bit lacking in curse and support magic but not enough to be problematic.
+He was a little weaker in curse and support magic, but not enough for it to be a real problem.
 
 “And if I had to name one specialty, it’d be offensive magic.”
 
@@ -359,19 +358,19 @@ Wow, he covers a wide range of attributes too?
 
 Wait, what? That’s an interesting twist—a curse specialist whose strength is in attack magic.
 
-“Anyway, if you’re done with me, perhaps Didi would like to share?”
+“Anyway, if you’re done with me, perhaps Didi can tell us about himself?”
 
 Just as I was debating whether to dig further, Ashid smoothly passed the spotlight to Didi.
 
 ‘...Did he plan that?’
 
-Even if he did, I don’t feel bad about it.
+Even if he did, I didn’t mind.
 
 I wasn’t going to ask anyway since it seemed to be a personal matter.
 
-“I am a healer.” Old Didi said.
+“I am a healer,” Old Didi said.
 
-A healer is a subcategory of a support type mage.
+A healer is one type of support-type mage.
 
 If they mimic a priest’s healing abilities, they’re called a healer.
 
@@ -379,15 +378,15 @@ If they can substitute a mage’s firepower, they’re called a sorcerer.
 
 If a sorcerer uses poison, they’re a poison sorcerer; if they use fire, they’re a flame sorcerer.
 
-If their main focus is buff, they’re a support shaman.
+If their main focus is buffing, they’re a support shaman.
 
-If the opposite is true, they’re a curse shaman.
+If their focus is debuffing instead, they’re a curse shaman.
 
-They are roughly classified in this way, and as one becomes a higher-level explorer, these classifications become more detailed and extensive.
+That’s the rough classification, and the higher an explorer’s level, the more detailed and specialized those categories become.
 
 Even for me, if I were to submit a resume to a guild, I’d have to write ‘Guardian’ instead of ‘Barbarian Warrior.’
 
-“A healer... that rounds out the team nicely,”
+“A healer... that rounds out the team nicely.”
 
 Ashid nodded repeatedly, seeming pleased with the composition of our team.
 
@@ -401,7 +400,7 @@ In other words, he also has buff-type support skills.
 
 Afterward, Old Didi explained to us the details of the essences he possessed and how he could utilize them, and then it was our turn.
 
-Of course, since we weren’t Support type like him, we didn’t need to explain all the details of our essences.
+Of course, since we weren’t support-types like him, we didn’t need to explain every detail of our essences.
 
 It was enough to outline each person’s role and a few unique abilities, like Amelia’s ‘Aura’ and ‘Self-Replication,’ and Erwin’s ‘Dark Spirit.’
 
@@ -411,7 +410,7 @@ It was enough to outline each person’s role and a few unique abilities, like A
 
 “Understood. Is there a training ground you regularly use?”
 
-“There was, but it recently shut down.”I added
+“There was, but it recently shut down,” I added.
 
 “In that case, I’ll arrange for a place I know. Oh, and could everyone provide me with their addresses in case we need to coordinate by letter?”
 
@@ -419,7 +418,7 @@ It was enough to outline each person’s role and a few unique abilities, like A
 
 Is this what it’s like to have a competent butler?
 
-Ashid took on all the trivial organizational tasks for the team, making sure I didn’t have to worry about them. From the following day onward, we met at the training grounds daily to practice together.
+Ashid took on all the tedious organizational work for the team, making sure I didn’t have to worry about it. From the following day onward, we met at the training grounds every day to practice together.
 
 Time passed, and then...
 

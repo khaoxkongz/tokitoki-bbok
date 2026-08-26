@@ -127,7 +127,7 @@ One by one, I’ll take them down eventually.
 
 「The character is moving to Raphdonia」
 
-***
+---
 
 When I opened my eyes after returning from the Netherworld, the first thing I saw was fire.
 

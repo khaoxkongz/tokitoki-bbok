@@ -215,7 +215,8 @@ Even so, one question stuck with me.
 “...Why does Karui’s connection break outside the walls?”
 
 He’s one of the beings referred to as ‘gods’, isn’t this a bit strange?
-***
+
+---
 
 BOOOOM—!!
 

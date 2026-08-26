@@ -310,7 +310,7 @@ I asked casually. The woman pulled a rolled-up scroll out of her coat and unfold
 
 Hah, what kind of business is this in the middle of the night?
 
-***
+---
 
 The Rose Knight’s message was simple.
 

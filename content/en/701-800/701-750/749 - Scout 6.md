@@ -222,7 +222,7 @@ With a faint sense of relief, I tightened my grip on the shield.
 
 And then, Thunder struck the ground.
 
-***
+---
 
 I couldn’t see anything. The world simply turned into light. There was no sound, either.
 

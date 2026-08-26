@@ -62,7 +62,7 @@ I spoke slowly.
 
 It was time to return to my roots.
 
-***
+---
 
 Bzzzt—!
 
@@ -281,7 +281,7 @@ Tadak—
 
 He would find out in person.
 
-****
+---
 
 Have you ever hidden inside a wardrobe?
 

@@ -230,7 +230,7 @@ And of course, this man-child took the bait.
 
 And just like that, a match was set.
 
-***
+---
 
 After the duel was settled, everyone turned to one person:
 

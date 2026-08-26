@@ -138,7 +138,7 @@ A faint frown formed on Amelia’s face as she picked up on the emotions behind 
 
 There was something wrong with my head.
 
-***
+---
 
 Day 21 in the labyrinth, we ran into an incident upon reaching the sixth floor, but it was handled without issue, and we were finally able to board a ship and head out into the open sea. It was also where we parted ways with the Meiruta Clan.
 
@@ -218,7 +218,7 @@ That’s because I didn’t think our team would be the ones going in.
 
 Hah, maybe this was why people needed to think kindly of others.
 
-***
+---
 
 Day 29 of the Labyrinth.
 

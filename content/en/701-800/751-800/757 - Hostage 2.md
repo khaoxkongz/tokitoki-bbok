@@ -204,7 +204,7 @@ And then—
 
 He got what he wanted.
 
-****
+---
 
 With her eyes still closed, Aynar Pheneline had a thought.
 

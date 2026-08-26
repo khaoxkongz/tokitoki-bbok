@@ -175,7 +175,7 @@ And...
 
 The boring meeting continued.
 
-****
+---
 
 The meeting that started in the morning continued without stopping until evening.
 
@@ -347,7 +347,7 @@ No, it’s not like I don’t know the reason, but anyway.
 
 As I slowly forced my eyes open, I was met with a suffocating stillness, as though the world itself had stopped
 
-***
+---
 
 As time began flowing again, all eyes turned toward me in horror.
 

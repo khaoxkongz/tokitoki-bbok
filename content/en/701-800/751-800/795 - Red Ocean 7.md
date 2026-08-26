@@ -114,7 +114,7 @@ After obtaining the key, we quickly headed toward the center of the island. Rave
 
 I wondered what kind of face that ‘Golden Ghost’ guy would make when I showed up with the key.
 
-***
+---
 
 When we arrived at the cave entrance, it was almost empty, except for one team who appeared to be on lookout duty. They tilted their heads when they saw us approaching, but their expressions turned flustered when they realized we were heading straight for the entrance.
 
@@ -266,7 +266,7 @@ Although the main quest had been completed...
 
 ...the side-quest had failed.
 
-****
+---
 
 The cave entrance, formed from a giant skull, looked like something straight out of a Jurassic Park theme park.
 

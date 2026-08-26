@@ -90,7 +90,7 @@ I replied:
 
 Now, let’s get back to the diary.
 
-***
+---
 
 Shortly after I started reading, I realised that the gaps between the entries were very long.
 

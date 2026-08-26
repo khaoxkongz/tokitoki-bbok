@@ -132,7 +132,7 @@ He glanced around, then lowered his voice.
 
 What the hell is going on?
 
-***
+---
 
 Chief Kang’s words left me feeling confused.
 

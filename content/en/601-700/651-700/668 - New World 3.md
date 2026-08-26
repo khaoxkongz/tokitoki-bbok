@@ -181,7 +181,7 @@ Dailan swallowed hard, then blurted out something completely unexpected.
 
 ...Huh?
 
-***
+---
 
 His story was short and simple.
 

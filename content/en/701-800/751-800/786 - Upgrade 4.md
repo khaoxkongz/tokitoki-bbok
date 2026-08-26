@@ -138,7 +138,7 @@ After pressing him again, he finally revealed his true purpose.
 
 ......Has everyone been eating something wrong lately?
 
-***
+---
 
 Ilya Adnus
 

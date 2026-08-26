@@ -129,7 +129,7 @@ Watching him nod, I turned around and licked my lips.
 
 Why does this make me want to carve something myself?
 
-***
+---
 
 According to the Clown, the world outside the wall resembles the seventh floor of the labyrinth, the Dark Continent.
 
@@ -269,7 +269,7 @@ We were alike in many ways.
 
 Neither of us sided with the players, nor with the royal family, nor with Noark.
 
-***
+---
 
 And so, the next morning dawned.
 

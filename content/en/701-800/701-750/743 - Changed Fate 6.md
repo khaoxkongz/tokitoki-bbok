@@ -112,7 +112,7 @@ And in that instant, I realized.
 
 So A... was Rotmiller.
 
-***
+---
 
 The fight ended quickly. With each swing of my hammer, another head flew, and that was the end of it.
 

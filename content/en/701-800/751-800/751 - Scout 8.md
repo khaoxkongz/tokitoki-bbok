@@ -91,7 +91,7 @@ Wasn’t that barbarian exactly that type of person? A monster who, as long as t
 
 He would become the very same monster.
 
-***
+---
 
 Have you ever felt like fate was messing with you?
 

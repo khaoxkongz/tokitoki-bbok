@@ -144,7 +144,7 @@ The soldiers who had been clearing the debris shouted at me favorably.
 
 ...The Royal Army?
 
-***
+---
 
 We were traveling in a large military carriage with enough space for more than twelve people if used efficiently.
 

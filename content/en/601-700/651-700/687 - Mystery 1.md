@@ -196,7 +196,7 @@ The whole reason we circled the entire Tomb of Stars was to look for anything su
 
 Let’s just go in.
 
-***
+---
 
 At first, I thought it was a dungeon. There was bound to be some gimmick I didn’t understand and just as many unseen traps that could easily kill us.
 

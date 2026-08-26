@@ -70,7 +70,8 @@ I just barely managed to swallow a third exclamation and asked one final questio
 
 Right. Of course not...
 
-***
+---
+
 In the end, I chose to accept the guild master’s proposal. After having Amelia verify it, it turned out that the guild truly possessed a Dragon’s Heart.
 
 Even so, I still didn’t feel entirely comfortable bringing someone I barely knew into the labyrinth...
@@ -263,7 +264,7 @@ By the way, those two...
 
 Had they got really close recently?
 
-****
+---
 
 After announcing the teams, we spent some time sharing a meal. I figured it would help us grow closer before entering the labyrinth, but I hadn’t expected the guild master to stay and join us for dinner as well.
 

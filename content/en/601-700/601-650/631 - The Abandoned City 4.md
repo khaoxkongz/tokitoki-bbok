@@ -70,7 +70,7 @@ What else could I do if the landlord was kicking us out?
 
 We had to pack up quickly, taking only what was necessary.
 
-***
+---
 
 As expected, there’s definitely something about Bifron that I don’t know.
 
@@ -334,7 +334,7 @@ By the time everything was done...
 
 The checkpoint gates opened right on schedule.
 
-***
+---
 
 Squeak, squeak, squeak-!
 

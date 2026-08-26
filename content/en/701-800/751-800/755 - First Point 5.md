@@ -35,7 +35,9 @@ In simple terms, there was a strong chance their trap preparations weren’t fin
 I need to hurry.
 
 Time was short.
-***
+
+---
+
 Opposite the Alminas Central Bank stood the former headquarters of Alminas Business. Although it was once a center of activity, it had long since been looted and reduced to little more than ruins.
 
 Inside that ruined building, a woman was quietly hiding.
@@ -182,7 +184,7 @@ Crack!
 
 That was Auyen Auyen Roklov’s last memory.
 
-***
+---
 
 Greed Brings Ruin
 

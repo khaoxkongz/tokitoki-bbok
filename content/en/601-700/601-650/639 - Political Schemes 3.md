@@ -110,7 +110,7 @@ Typical mage.
 
 Even now, that’s what she’s curious about.
 
-***
+---
 
 After I explained the hidden piece in the 9th-floor rift, Raven shared what she’d learned about Ramansis’s passive skill.
 
@@ -244,7 +244,7 @@ Not wanting to bring up the topic of marriage and stir up trouble unnecessarily,
 
 I didn’t feel like arranging a room at an inn, either.
 
-***
+---
 
 I drifted off on the roughly spread bedding.
 

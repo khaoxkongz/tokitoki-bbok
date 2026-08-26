@@ -70,7 +70,7 @@ Reading the story with mild disinterest, my eyes suddenly sharpened. Although th
 
 Seriously...?
 
-***
+---
 
 Not long ago, I had come across a portrait of a woman in the Marquis’s hidden room whom I suspected was Ragna’s mother.
 

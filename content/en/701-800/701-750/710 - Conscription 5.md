@@ -72,7 +72,8 @@ At those words, a “ding!” notification seemed to go off in my head.
 
 Fine. So all I have to do is clear this.
 
-***
+---
+
 When playing games, there are moments like this.
 
 A restricted area you cannot normally enter, blocked off by warning signs, until you complete a certain quest and it opens up.

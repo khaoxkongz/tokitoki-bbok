@@ -115,7 +115,7 @@ What else could it be? If I leave, we’ll be separated.
 
 We need someone to lead while I’m gone.
 
-***
+---
 
 The vice-captain position had remained vacant since the clan was founded.
 

@@ -264,7 +264,7 @@ Sven Parab no longer questioned himself.
 
 「Sven Parab has cast [Blade of Condemnation].」
 
-***
+---
 
 “—Huff... huff... huff...”
 

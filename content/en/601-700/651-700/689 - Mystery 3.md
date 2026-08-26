@@ -218,7 +218,8 @@ He froze in place and let out a startled exclamation. I stepped forward to see w
 
 Beyond the stone door, there was nothing left to explore.
 
-***
+---
+
 The clearing sequence for the ‘Golden Ruins’ is very simple.
 
 It starts in a dense forest. After completing a few missions, a temple appears. Upon entering the temple, the staircase section that we had just been in becomes visible.

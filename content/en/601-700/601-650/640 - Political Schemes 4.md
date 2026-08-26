@@ -137,7 +137,7 @@ Perhaps because the count himself knew this from the start, he seemed content to
 
 Anyway, like that, my first racial meeting began.
 
-***
+---
 
 At first, it was not what I had expected.
 

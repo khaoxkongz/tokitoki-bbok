@@ -156,7 +156,7 @@ This was not that.
 
 It seemed more like a tribute, a final prayer made with the last bit of hope he still clung to.
 
-****
+---
 
 “Alright. I promise. As long as it doesn’t interfere with my priorities, I’ll do my best.”
 

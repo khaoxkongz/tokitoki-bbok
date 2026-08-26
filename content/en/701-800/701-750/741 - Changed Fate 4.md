@@ -122,7 +122,7 @@ Rottmiller raised his weapon, ready to fight.
 
 Just like those Barbarians shouting the names of their ancestors before battle. To protect something precious.
 
-***
+---
 
 ‘What do I do? What do I do? What do I do?’
 
@@ -200,7 +200,7 @@ Thud.
 
 He closed the wardrobe door.
 
-***
+---
 
 The start of the battle was unremarkable.
 

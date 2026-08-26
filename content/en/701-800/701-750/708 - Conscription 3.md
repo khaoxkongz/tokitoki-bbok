@@ -90,7 +90,7 @@ There was no need to hear more.
 
 That eased my mind a little.
 
-***
+---
 
 After roughly sorting out our plans, we finally left the sewers and entered the city.
 

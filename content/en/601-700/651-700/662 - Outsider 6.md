@@ -275,7 +275,7 @@ Hmph. There’s something familiar about his face.
 
 Well, if fate allows, we’ll meet again someday.
 
-***
+---
 
 The return journey was the same as before, but in the opposite direction.
 

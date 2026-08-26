@@ -102,7 +102,7 @@ At that moment, Amelia nodded in agreement.
 
 ...Good thing I kept my mouth shut.
 
-***
+---
 
 Administrative Secretary-General: Shabin Emur.
 
@@ -329,7 +329,8 @@ Ah, that part wasn’t really up to me.
 I picked up a letter.
 
 “This one. The Melbes regular assembly.”
-***
+
+---
 
 Having returned to the city after so long, there was an overwhelming amount of work ahead.
 

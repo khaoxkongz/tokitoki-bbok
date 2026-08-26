@@ -46,7 +46,7 @@ Based on this, my hypothesis is that Lee Baek-ho was the one who summoned the Fl
 
 Backed into a corner, he tried to shake up the situation by gambling on a desperate move—
 
-***
+---
 
 “Its power is terrifying, no matter how many times I see it...”
 
@@ -214,7 +214,7 @@ The downpour continued and meteors still fell from the sky occasionally.
 
 And so, time passed quickly.
 
-***
+---
 
 The 9th Floor, Star Grave.
 

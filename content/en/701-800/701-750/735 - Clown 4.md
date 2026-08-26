@@ -76,7 +76,7 @@ I grinned as I kept up my pace.
 
 A Barbarian never gives up.
 
-***
+---
 
 Have you ever played tag?
 
@@ -128,13 +128,11 @@ He had the corpses swing their rotten claws at the barbarian to distract him.
 
 Completely unaware of the barbarian’s satisfied grin behind him.
 
-***
+---
 
 Time passed.
 
-1 minute.
-2.
-3.
+1 minute. 2. 3.
 4...
 
 40...
@@ -253,7 +251,7 @@ The barbarian let out a laugh of pure mockery.
 
 “Psssit.”
 
-***
+---
 
 The chase finally ended. It took about an hour.
 

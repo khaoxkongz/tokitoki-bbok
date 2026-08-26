@@ -112,7 +112,7 @@ Having heard the desired answer, the Lord seemed in a much better mood than befo
 
 Realizing that his boss’s mood had lightened, the subordinate began to talk with a more relaxed heart.
 
-***
+---
 
 Auen Rockrobe.
 
@@ -188,7 +188,8 @@ After hearing the request, it took a long time before Auyen could respond with a
 
 He couldn’t understand it at all.
 
-***
+---
+
 Waiting might appear passive at first glance, but its meaning changed depending on how one perceived it.
 
 Just look at the dictionary.

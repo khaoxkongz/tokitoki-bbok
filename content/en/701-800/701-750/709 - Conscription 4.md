@@ -194,7 +194,7 @@ If what I’d just thought was true...
 
 Isn’t this... the most dangerous situation for our clan?
 
-***
+---
 
 The third command center was set up by taking over one of the largest buildings near District Seven’s city wall.
 

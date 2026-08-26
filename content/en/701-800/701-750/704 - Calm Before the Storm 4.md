@@ -123,7 +123,7 @@ Unfortunately, that feeling didn’t last long.
 
 Whew, that was close.
 
-***
+---
 
 My other allies began waking up one after another, starting with Erwin, so I paused my conversation with Amelia.
 
@@ -242,7 +242,7 @@ Sharing, exchanging, saving, and reusing.
 
 That is the spirit of our clan.
 
-***
+---
 
 The loot distribution took longer than I expected, because most of what I had obtained this time were items.
 

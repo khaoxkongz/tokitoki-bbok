@@ -128,7 +128,7 @@ However, the conversation we had kept swirling in my head.
 
 There really are all kinds of lives in this world.
 
-***
+---
 
 BOOOOOOM!
 

@@ -94,7 +94,7 @@ In the end, it was both disappointing and fortunate that I never had the chance 
 
 Because Raven had arrived.
 
-***
+---
 
 From what I heard, Raven seemed to have been doing quite well, even if she felt a bit stifled and uncomfortable. Well, considering the circumstances, I wasn’t much different. In a time of war, this level of luxury probably put us in the top tier of comfort across the entire city.
 
@@ -216,7 +216,7 @@ After encountering fragments of the Records Stone, traveling into the past, and 
 
 It had been decided since the Ice Rock Expedition.
 
-****
+---
 
 My first thought upon leaving the Palace of Immortality was how ridiculous it was.
 

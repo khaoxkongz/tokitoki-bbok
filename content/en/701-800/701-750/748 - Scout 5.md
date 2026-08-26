@@ -188,7 +188,7 @@ Ah, come on. What the hell is this now?
 
 Way to make things unsettling.
 
-***
+---
 
 A vast stone chamber bathed in bright light. Under it lay a heap of bodies piled like a mountain.
 
@@ -280,7 +280,7 @@ He asked calmly, and the man nodded in response.
 
 It was time.
 
-****
+---
 
 Everything has signs.
 

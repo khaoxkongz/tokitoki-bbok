@@ -202,7 +202,7 @@ After reading his diary, I realized something. The Marquis loves his daughter ve
 
 Well, I’d have to make some preparations for his arrival.
 
-****
+---
 
 The plan was very simple, especially since it was being carried out by a barbarian.
 

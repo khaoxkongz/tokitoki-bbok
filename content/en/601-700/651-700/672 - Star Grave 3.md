@@ -100,7 +100,7 @@ That was exactly why an optimistic warrior like him was essential to any party. 
 
 ...Let’s go.
 
-***
+---
 
 From now on, there’s only one thing we must do.
 

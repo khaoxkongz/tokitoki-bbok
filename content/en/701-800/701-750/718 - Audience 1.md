@@ -188,7 +188,8 @@ Whirrr.
 
 And the elevator doors opened.
 
-***
+---
+
 Raven didn’t give much thought to the nature of this mechanical device.
 
 Only two things struck her as strange.

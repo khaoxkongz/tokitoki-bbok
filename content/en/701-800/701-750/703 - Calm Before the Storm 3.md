@@ -137,7 +137,8 @@ The Ruin Scholar shifted his gaze.
 “Those who have nothing to lose merely become ruthless, but...” he said, his eyes on Baekho’s back, who seemed too lost in thought to notice their conversation. “But those who have many things to protect are the ones who truly grow stronger.”
 
 It was a truth he’d learned over a long life.
-***
+
+---
 
 When I opened my eyes, I saw a tree. An enormous tree soaring so high it seemed to touch the sky. The night sky peeking through the gaps in its canopy shimmered with stars, spreading out like a painted galaxy.
 

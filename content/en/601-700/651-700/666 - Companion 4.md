@@ -91,7 +91,8 @@ There was nothing confusing about it anymore.
 “...a bastard whose skull I’ll crush someday.”
 
 Lee Baek-ho is an enemy.
-***
+
+---
 
 “Is that all you were curious about?”
 
@@ -226,7 +227,8 @@ The ground had been smoothed and flattened, making it easier to walk on. Log-bui
 “Oh, didn’t I mention it? This is where the Noarkans settled.”
 
 This was the Noark settlement.
-***
+
+---
 
 While the GM and I looked around in awe, Baek-ho shrugged and began to explain.
 

@@ -123,7 +123,7 @@ The audience chamber.
 
 The place I had never once been able to reach, even after thousands of tries.
 
-***
+---
 
 The throne was placed atop an elevated step.
 
@@ -237,7 +237,7 @@ An uncomfortable silence followed Raven’s explanation. It was only after some 
 
 ...What?
 
-***
+---
 
 A sudden command from the King.
 

@@ -32,7 +32,8 @@ No matter how much he talked about these things, in the end, it was all just a p
 
 Because this world was a prison.
 
-***
+---
+
 A man stood quietly, staring at his reflection in the mirror.
 
 Ba-dump.
@@ -179,7 +180,7 @@ Boom!
 
 Moments later, the entire city shook.
 
-***
+---
 
 Rumble—!
 

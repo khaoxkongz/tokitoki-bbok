@@ -137,7 +137,8 @@ No way, you’ve got to be kidding.
 “Are you certain?!”
 
 ......He survived that?
-***
+
+---
 
 Sometimes in the movies, you see scenes like that. Just when you think, ‘Did I get him?’, the enemy you thought was dead gets back up and enters a second phase.
 

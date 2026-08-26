@@ -81,7 +81,8 @@ He nodded with a kind smile.
 “That is all for today.”
 
 ...As expected, you can’t ignore age and experience.
-***
+
+---
 
 After the marriage talk ended, a servant came in with tea, almost like they had been waiting for that moment, and we moved on to other topics while sipping our drinks.
 

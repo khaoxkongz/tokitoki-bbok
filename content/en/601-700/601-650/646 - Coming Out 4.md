@@ -106,7 +106,8 @@ Well, wouldn’t it be ridiculous to just say OK here?
 
 It seemed I had managed to get through it for now.
 
-****
+---
+
 To be honest, I had never planned to make such a declaration of lifelong bachelorhood.
 
 But the decision not to marry anyone. I did not make this choice out of fear of conflict with the Marquis.

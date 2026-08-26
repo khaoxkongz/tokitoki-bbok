@@ -90,7 +90,7 @@ The more I hear about the outside world, the more I feel like I’ve gone back t
 
 ...This makes it feel like we’re taking a bus or something.
 
-***
+---
 
 In [Dungeon & Stone], ‘time’ is very important.
 

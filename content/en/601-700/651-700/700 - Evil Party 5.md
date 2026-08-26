@@ -257,7 +257,8 @@ Whether it’s a street fight, a ring fight, a jungle, an ocean, or another worl
 “BETHEL—RAAAAAAAAAAAH!!”
 
 In the end, the one left standing wins.
-****
+
+---
 
 1 minute, 2 minutes, 3 minutes...
 

@@ -218,7 +218,7 @@ Ah. I see.
 
 Yeah, I’m done for.
 
-***
+---
 
 White. Everything white.
 
@@ -300,7 +300,7 @@ All the memories and experiences I gained in Raphdonia tell me that this situati
 
 Is no one trying to kill me?
 
-***
+---
 
 A world where one misstep meant death.
 

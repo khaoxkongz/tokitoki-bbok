@@ -155,7 +155,7 @@ The usually silent and blunt knight hesitated, glancing at me before carefully o
 
 “Two members of the Anabada Clan have died.”
 
-***
+---
 
 When I came to, I was running down the main street of the imperial capital, Karnon. I was using abilities that were strictly forbidden within the city, especially in the capital.
 

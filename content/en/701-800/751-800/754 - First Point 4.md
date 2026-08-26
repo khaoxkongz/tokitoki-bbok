@@ -108,7 +108,7 @@ He continued in a voice tinged with deep regret.
 
 Of course, that future no longer existed.
 
-***
+---
 
 To me, it felt like I’d only blinked once.
 

@@ -68,7 +68,7 @@ The flames shifted strangely.
 
 They were dying down.
 
-***
+---
 
 Fire dying out wasn’t a good sign.
 

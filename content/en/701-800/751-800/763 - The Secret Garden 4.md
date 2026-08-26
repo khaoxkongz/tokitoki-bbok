@@ -190,7 +190,7 @@ After the brief greeting ended, Harin returned to the main topic and looked at m
 
 And so we entered the villa.
 
-***
+---
 
 The interior of the villa was quite humble.
 

@@ -70,7 +70,7 @@ Just what kind of guy is he?
 
 Well, I’d find out when I met him.
 
-***
+---
 
 Opinions among later generations about the Great Navigator Pikma were sharply divided. Some argued that, contrary to the tales, he hadn’t uncovered the secrets of every island and had merely visited them to complete a map of the Great Ocean.
 
@@ -158,7 +158,7 @@ Dozens of presences appeared behind us, and Amelia, our human radar, spoke at th
 
 I didn’t need her to tell me.
 
-***
+---
 
 Even though we were surrounded by ninety explorers, I only hesitated for a brief moment.
 

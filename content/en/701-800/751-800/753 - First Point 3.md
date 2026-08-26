@@ -254,7 +254,7 @@ That wagon would continue on the right path.
 
 Toward those high, high walls.
 
-***
+---
 
 It felt like waking up from a deep sleep.
 

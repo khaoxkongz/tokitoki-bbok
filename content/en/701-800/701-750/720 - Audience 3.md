@@ -84,7 +84,7 @@ The King of the New World asked quietly.
 
 Son of a bitch.
 
-****
+---
 
 My head throbbed.
 

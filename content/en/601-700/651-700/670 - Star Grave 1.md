@@ -286,7 +286,7 @@ The rest is up to the damage dealers.
 
 ...Just as I thought that, an incident occurred.
 
-***
+---
 
 What is the most important class in [Dungeon & Stone]?
 

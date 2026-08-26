@@ -131,7 +131,7 @@ The theme is...
 
 Somehow, I drew the theme that was farthest from me.
 
-***
+---
 
 The total construction time for the contest is 3 days.
 

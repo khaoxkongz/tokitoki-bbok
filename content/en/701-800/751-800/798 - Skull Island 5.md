@@ -242,7 +242,7 @@ I feel a bit wronged.
 
 I simply cherish my allies.
 
-***
+---
 
 After Amelia left to keep watch on the Golden Tree Clan, we resumed the exploration that had been briefly interrupted, starting by moving away from the strange place where we had ended up while catching the rat. Thankfully, the actual entrance was nearby.
 

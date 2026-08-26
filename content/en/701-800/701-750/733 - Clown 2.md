@@ -278,7 +278,7 @@ Sure, the process might be a little boring—but he could pass the time by torme
 
 Until he saw a barbarian casually looking around at the surroundings.
 
-***
+---
 
 「The character has used [Aegis Barrier].」
 

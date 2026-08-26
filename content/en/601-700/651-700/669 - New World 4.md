@@ -230,7 +230,8 @@ As I waited silently, watching him, he eventually looked away and shrugged.
 
 Well, you should have said that from the start.
 
-***
+---
+
 Calling it a “power struggle” would be an exaggeration — our little dispute ended rather peacefully.
 
 But as we started moving again, I could hear whispers behind me.

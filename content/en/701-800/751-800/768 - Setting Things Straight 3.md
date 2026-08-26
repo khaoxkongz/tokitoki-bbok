@@ -112,7 +112,7 @@ I urged him on, and the Marquis dropped a bombshell right from the start.
 
 ...What did I just hear?
 
-****
+---
 
 The story of the King of the New World was well known.
 

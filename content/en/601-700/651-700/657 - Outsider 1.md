@@ -41,7 +41,7 @@ The moment I tilted my head, Baek-ho disappeared right before my eyes.
 
 Ha... I really need to hurry up and get stronger.
 
-***
+---
 
 A few days after I returned from the Marquis’s house, the reconstruction of the Seventh District officially began.
 

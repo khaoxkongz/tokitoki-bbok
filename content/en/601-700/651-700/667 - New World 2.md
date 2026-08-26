@@ -268,7 +268,8 @@ I hesitated for a moment, reluctant to be honest. Lee Baek-ho answered with a sl
 
 Hah. This is why I can’t stand the brats who came from the game.
 
-***
+---
+
 Unfortunately, Lee Baek-ho’s rambling didn’t end there.
 
 “Man... so that’s how you did it? Fascinating.”

@@ -168,7 +168,7 @@ And...
 
 Without saying a single word, I succeeded in communicating my intent to everyone.
 
-***
+---
 
 Boom! Boom!
 

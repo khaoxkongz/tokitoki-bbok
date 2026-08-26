@@ -275,7 +275,7 @@ It certainly made it feel more like a dream.
 
 But damn... it felt awful.
 
-***
+---
 
 A small, studio-sized dorm room whose name I couldn’t even remember.
 

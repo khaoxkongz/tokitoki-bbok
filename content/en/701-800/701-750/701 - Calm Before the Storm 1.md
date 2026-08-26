@@ -200,7 +200,7 @@ No matter how many times I emphasize it, it’s not enough.
 
 Zero and one are always different.
 
-****
+---
 
 Baekho’s team was now the one at a disadvantage. Even then, I never once believed I could kill him in this situation.
 

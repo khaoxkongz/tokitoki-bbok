@@ -64,7 +64,7 @@ Aures watched from the side and swallowed down the emotion rising in his throat.
 
 Still, for some reason, he felt a little sorry for Baron Jandel.
 
-***
+---
 
 Watching changes in a person’s expression is always enjoyable.
 

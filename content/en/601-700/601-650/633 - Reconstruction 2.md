@@ -126,7 +126,7 @@ Whatever the royal family’s plan had been—
 
 Something had clearly gone wrong.
 
-***
+---
 
 The Last Fortress: Rapdonia
 

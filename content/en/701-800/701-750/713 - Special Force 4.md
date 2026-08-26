@@ -207,7 +207,8 @@ So it wasn’t just me. Knight Gramps sounded just as caught off guard as I was.
 The vice-captain repeated himself in the same flat tone.
 
 ...It was a completely unexpected development.
-***
+
+---
 
 The Orcules special unit had clearly infiltrated this place with some purpose.
 

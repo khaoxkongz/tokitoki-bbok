@@ -124,7 +124,7 @@ The young shaman hesitated, then carefully spoke.
 
 ...I’d have been better off not hearing it.
 
-***
+---
 
 In a way, this was a type of quest.
 

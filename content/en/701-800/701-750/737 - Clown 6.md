@@ -186,7 +186,7 @@ Since he was clearly talking, I moved straight to the important questions.
 
 This utterly unexpected and shocking motive for murder left me momentarily speechless.
 
-***
+---
 
 Silence hung between us for a moment, and Necrapeto seemed oddly amused.
 

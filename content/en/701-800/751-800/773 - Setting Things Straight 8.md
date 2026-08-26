@@ -108,7 +108,7 @@ But one thing was absolutely clear.
 
 My relationship with this guy is now beyond repair.
 
-***
+---
 
 When I opened my eyes, the memory of a blinding flash still seared through my mind. I found myself lying at the center of a massive crater.
 
@@ -244,7 +244,7 @@ Well... halfway, at least.
 
 ...To be precise, it was a ceasefire.
 
-***
+---
 
 Ceasefire.
 

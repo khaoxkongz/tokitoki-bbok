@@ -118,7 +118,8 @@ The moment he saw those eyes looking down at him, he accepted it.
 
 The Lion Mask he had idolized was Bjorn Jandel.
 
-***
+---
+
 His expression was exactly what I expected.
 
 First denial.

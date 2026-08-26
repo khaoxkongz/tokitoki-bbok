@@ -180,7 +180,7 @@ And the fairy, said to be loved by all spirits—
 
 I don’t think I’ll lose now.
 
-***
+---
 
 When you think about it—
 

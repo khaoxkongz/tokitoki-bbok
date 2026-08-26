@@ -150,7 +150,7 @@ It’s precisely that system—the one even Koreans, who are very interested in 
 
 Even Koreans interested in real estate debated whether this was good or bad. It was time to explain the benefits of the jeonse system.
 
-***
+---
 
 My plan was simple.
 

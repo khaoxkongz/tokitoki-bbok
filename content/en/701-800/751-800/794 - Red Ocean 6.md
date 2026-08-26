@@ -182,7 +182,7 @@ With a single slash, an ice wall rose up in front of the group as they turned to
 
 Misha had snapped.
 
-***
+---
 
 The chill from the ice wall brushed against my skin with the wind.
 

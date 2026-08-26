@@ -110,7 +110,8 @@ I mean it, not just as a courtesy.
 
 Thanks to him, I think I now know what to do.
 
-***
+---
+
 “What about Rabien?”
 
 “Well, that child hasn’t been coming to the sanctuary much lately. Actually, I don’t really know where she is or what she’s doing.”

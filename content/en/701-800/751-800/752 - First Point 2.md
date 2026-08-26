@@ -168,7 +168,7 @@ A powerful gust of wind swirled up before him. The cloth covering the cart tore 
 
 There was no one in this city who didn’t recognize his face.
 
-***
+---
 
 With the help of the bear that suddenly appeared, Parav managed to escape onto the street.
 

@@ -154,7 +154,7 @@ Yeah.
 
 To never discuss this kind of crap with these destiny freaks again.
 
-***
+---
 
 Silence stretched between us, tangible even amid the black smoke and scalding heat.
 
@@ -216,7 +216,7 @@ The sanctuary or District 7.
 
 Toward the destination I had chosen after my long deliberation.
 
-***
+---
 
 Even though his body had long since begun to cramp, Sven Parav remained tucked inside the cramped but comforting wardrobe. He’d already decided that, even if he soiled himself, he wouldn’t come out until everything was over.
 

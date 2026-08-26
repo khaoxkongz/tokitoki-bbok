@@ -166,7 +166,7 @@ No, to be precise, the Ancient Monster possessing his body.
 
 It was the Village Chief.
 
-***
+---
 
 This wasn’t some public hangout, so why was everyone showing up to see me today? The third guest turned out to be the village chief.
 

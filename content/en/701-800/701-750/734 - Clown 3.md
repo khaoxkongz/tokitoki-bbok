@@ -364,7 +364,7 @@ Thump!
 
 Things had already gone horribly, horribly wrong.
 
-***
+---
 
 Under a green-tinted sky, I was running across a barren plain.
 

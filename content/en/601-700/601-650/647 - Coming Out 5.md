@@ -172,7 +172,7 @@ But......
 
 How should I break this to her......?
 
-***
+---
 
 To cut to the chase, I couldn’t bring myself to tell her.
 
@@ -260,7 +260,7 @@ Dangerous, huh...
 
 After that, Hyeon-byeol disappeared into the alley first, and I quickly left the area and headed to the holy site.
 
-***
+---
 
 And a few days later.
 
@@ -290,7 +290,7 @@ Characters that no Raphdonia resident could decipher appeared on the blank paper
 
 ......I want to die.
 
-***
+---
 
 Several days had passed since the royal council ended, but surprisingly, no major events had occurred.
 

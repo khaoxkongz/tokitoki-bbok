@@ -166,7 +166,7 @@ Because—
 
 After all, the best defence is a good offence, right?
 
-****
+---
 
 [Reflects accumulated damage]
 

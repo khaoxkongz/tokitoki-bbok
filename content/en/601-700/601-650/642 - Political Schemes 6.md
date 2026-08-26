@@ -251,7 +251,8 @@ After receiving a look from the fairy representative, he joined his group. I was
 ‘Beleg Shushia di Tersia...’
 
 Why do I keep feeling like I’ve seen him somewhere before.
-***
+
+---
 
 The inter-racial meeting was less substantial than I thought it would be.
 

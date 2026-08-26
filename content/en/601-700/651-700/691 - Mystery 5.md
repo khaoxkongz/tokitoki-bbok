@@ -200,7 +200,7 @@ His lips parted slowly.
 
 For some reason, I could already smell blood in the air.
 
-***
+---
 
 Noark is planning to kill the King.
 

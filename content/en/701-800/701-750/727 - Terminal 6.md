@@ -256,7 +256,7 @@ Such a despicable line that even I felt my head go blank while chasing him.
 
 Vivian kept shouting furious obscenities at him, but the corpse collector never turned his chimera around.
 
-***
+---
 
 Should I keep chasing the corpse collector? Or should I make sure to secure at least this one?
 

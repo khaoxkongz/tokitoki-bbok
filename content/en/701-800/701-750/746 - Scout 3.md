@@ -186,7 +186,7 @@ Like wishing on a shooting star, he muttered:
 
 He was no different from the others.
 
-***
+---
 
 A total of fifteen clans, including Anabada Clan, were stationed in the barbarian sanctuary. Aside from the rank seven explorers assigned to special roles, every clan also had members ranked six or higher. Altogether, their number came to 207.
 
@@ -278,7 +278,7 @@ This was a merciless world where you couldn’t survive without fighting.
 
 I took the first step.
 
-***
+---
 
 Finally, we entered District 7.
 

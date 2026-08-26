@@ -204,7 +204,7 @@ He laughed aloud, but soon his smile faded into a bitter expression.
 
 “...If only I could think that simply too, I’d be truly happy.”
 
-***
+---
 
 The day after my heartfelt talk with the GM.
 

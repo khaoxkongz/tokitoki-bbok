@@ -204,7 +204,7 @@ His words were a bit unsettling, but I didn’t want to talk to him any longer.
 
 ...Is there anyone in the world more irritating than him?
 
-***
+---
 
 Lee Baek-ho didn’t warn me not to follow him or anything like that.
 
@@ -287,7 +287,7 @@ What his last words meant.
 
 I had been tricked.
 
-***
+---
 
 I had been tricked, an intense rage surged from deep within my chest.
 

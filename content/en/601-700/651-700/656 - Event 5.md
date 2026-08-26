@@ -165,7 +165,7 @@ After making my decision, I gave him the full explanation. Surprisingly, it only
 
 Yes. That day, saving the Marquis had been a mistake.
 
-***
+---
 
 Of course, Baek-ho didn’t easily believe my words.
 

@@ -179,7 +179,7 @@ Just as a caterpillar needs to eat leaves to survive, an explorer needs to explo
 
 [You have entered the 1st Floor: Crystal Cave.]
 
-****
+---
 
 The crystal cave shimmered with radiant light.
 

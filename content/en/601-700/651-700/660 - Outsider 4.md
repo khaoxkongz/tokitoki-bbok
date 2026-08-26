@@ -66,7 +66,7 @@ After Versil left, saying she would try to talk to the Magitech Engineer, about 
 
 I got an appointment.
 
-***
+---
 
 The meeting with the Magitech Engineer was conducted very cautiously and secretly. It felt like being a Cold War-era spy or something.
 
@@ -239,7 +239,7 @@ And......
 
 With those words, he left and returned exactly one hour later.
 
-***
+---
 
 Travelling to Noark alone with GM wasn’t a problem.
 

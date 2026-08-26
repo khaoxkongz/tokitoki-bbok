@@ -166,7 +166,7 @@ My heart raced.
 
 It was obviously a poisoned chalice.
 
-****
+---
 
 Carefully thrown dice rolled across the board. Not figuratively, but literally.
 

@@ -189,7 +189,8 @@ Even though I was the one who ordered the marquis’s mansion torn apart under t
 ‘What the hell? Why are these bastards here?’
 
 This actually worked?
-***
+
+---
 
 The standoff eased slightly with my appearance.
 

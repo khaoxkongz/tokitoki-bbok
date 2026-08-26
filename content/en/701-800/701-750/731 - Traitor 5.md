@@ -258,7 +258,7 @@ Paradoxically, because of that, I felt overwhelmed for the first time while talk
 
 Huh. I never thought he’d have such a macho side to him.
 
-***
+---
 
 With those final words, the radio contact with the Marquis ended.
 

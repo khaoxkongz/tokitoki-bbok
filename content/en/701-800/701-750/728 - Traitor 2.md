@@ -134,7 +134,7 @@ She knew the reason all too well.
 
 「All Essence skills are sealed.」
 
-***
+---
 
 Traitor.
 

@@ -238,7 +238,7 @@ Let’s make a real mess of this.
 
 A mess big enough to draw in anyone and everyone.
 
-***
+---
 
 I had seen a burning city only twice in my life.
 

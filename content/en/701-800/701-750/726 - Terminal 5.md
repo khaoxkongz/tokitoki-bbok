@@ -184,7 +184,7 @@ But it turned out to be unnecessary.
 
 In terms of stats, I had grown strong enough that I could not lose to a poison necromancer, even if I tried.
 
-***
+---
 
 Before taking the military lift to District Nine, I asked Astarota for several things essential to my plan, and he agreed despite how excessive the requests were.
 

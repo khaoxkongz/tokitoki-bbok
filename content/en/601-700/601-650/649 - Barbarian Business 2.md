@@ -78,7 +78,7 @@ As I said that and patted the shoulder of the guy who’d been through a lot, mo
 
 ...People in this world are so naive.
 
-***
+---
 
 We kept talking afterwards. Although the Dwarf had become a businessman, he was still a former explorer and kept asking me about Basement Floor 1.
 
@@ -206,7 +206,8 @@ I turned my back awkwardly.
 
 “...Don’t thank me yet. I still have plenty left to settle.”
 
-***
+---
+
 As expected, it didn’t take long for the Council Leader of Melbes to contact me.
 
 About four days?

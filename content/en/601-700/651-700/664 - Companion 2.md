@@ -180,7 +180,7 @@ That means.
 
 We now have to stay outside the city walls until the restoration is complete, whether we like it or not.
 
-***
+---
 
 “It doesn’t seem like we can get anything more here. How about we return to the previous place first? I’d like to check the magic circle myself as well.”
 
@@ -246,7 +246,7 @@ At Lee Baek-ho’s nonchalant words, the GM tilted his head, and the Ruin Schola
 
 Wait—what?
 
-***
+---
 
 Monsters outside the city walls.
 

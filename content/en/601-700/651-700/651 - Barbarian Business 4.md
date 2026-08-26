@@ -104,7 +104,7 @@ Even without this, I had a mountain of work to do.
 
 Hah... When would I ever finish all this?
 
-***
+---
 
 Raphdonia was a brutal city that disregarded human life, yet in other ways it was surprisingly modern.
 
@@ -282,7 +282,7 @@ And with that, I practically fled the office.
 
 No matter how I looked at it, I wasn’t in any position to meddle in someone else’s love life.
 
-***
+---
 
 Time always flies.
 

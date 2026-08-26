@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "oxlint",
     "format": "oxfmt --write \"**/*.{ts,tsx}\"",
+    "format:md": "oxfmt --write \"**/*.{md,mdx}\"",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

@@ -274,7 +274,7 @@ I smirked and threw a hand axe.
 
 With his perfect entrance spoiled, the man gave the order to begin the fight.
 
-***
+---
 
 To want to be special.
 

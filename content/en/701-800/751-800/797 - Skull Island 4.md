@@ -191,7 +191,7 @@ I didn’t ignore the inexplicable uneasy feeling and made my way back up the ca
 
 The area in front of the cave was completely empty.
 
-***
+---
 
 “What will you do?”
 

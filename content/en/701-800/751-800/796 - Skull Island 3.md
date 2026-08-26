@@ -180,7 +180,8 @@ At last, our dungeon crawl brought us to the entrance of the boss room. I quickl
 ‘It’s over 300, so one of the conditions has been met.’
 
 Without wasting another second, we began our battle against the gatekeeper.
-***
+
+---
 
 The fight against the mid-boss was rather troublesome. If killing it were our only goal, we could have simply had Erwin fire a fully charged arrow, but that would only cause problems later in the next stage.
 
@@ -282,7 +283,7 @@ And at the same time—
 
 Three phases were skipped in an instant.
 
-***
+---
 
 The official strategy for clearing the Skeleton King was fairly complicated. As the raid dragged on, the soul orb it carried, which served as its HP gauge, would gradually lose power.
 

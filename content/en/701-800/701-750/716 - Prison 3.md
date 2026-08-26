@@ -341,7 +341,7 @@ BOOOOM!
 
 The ceiling finally began to crumble above us.
 
-***
+---
 
 A large fragment from the collapsing ceiling hit my shoulder.
 

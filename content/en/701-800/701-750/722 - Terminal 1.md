@@ -132,7 +132,7 @@ She would survive and return alive.
 
 With as many people as possible.
 
-***
+---
 
 The screen spanned the entire wall.
 

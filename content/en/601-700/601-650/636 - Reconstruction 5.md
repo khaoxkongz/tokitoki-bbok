@@ -300,7 +300,7 @@ Hearing my question, the Leader let out a hearty laugh and answered immediately 
 
 This old man is more extreme than I thought.
 
-***
+---
 
 The Council Leader, having revealed his extreme and radical tendencies, proposed several things to me.
 

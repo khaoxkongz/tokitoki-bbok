@@ -162,7 +162,7 @@ What saves the living isn’t a stone like that.
 
 It’s something much warmer.
 
-***
+---
 
 It only took three days for Beleg’s membership to be formally processed.
 
@@ -268,7 +268,7 @@ I grinned.
 
 At last, I had gathered everything I needed.
 
-***
+---
 
 Stage 8 of the spirit imprint required fifteen materials, but most of them could be easily found in the city and purchased with money.
 

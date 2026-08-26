@@ -182,7 +182,7 @@ Even though things had moved past that point and no longer fit the same scenario
 
 I never imagined someone would turn it into a construction challenge.
 
-***
+---
 
 When I returned to the sanctuary after speaking with the Marquis, our Chief Administrative Officer was still working late with the lights on.
 

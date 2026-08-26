@@ -104,7 +104,8 @@ I ended my thoughts there and headed back to where the others were gathered.
 “Huh? Mister, where did you go?”
 
 Yeah, let’s call it a day for today.
-***
+
+---
 
 The welcome party lasted late into the night, and soon the next day arrived.
 

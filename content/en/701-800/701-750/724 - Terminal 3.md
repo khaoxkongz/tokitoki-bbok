@@ -137,7 +137,7 @@ The machinery began to whirr, and the strange liquid bubbled up in a violent chu
 
 Thus, my brief yet strangely long audience with the King of the New World finally came to an end.
 
-***
+---
 
 “Follow me.”
 
@@ -266,7 +266,8 @@ And that reason was—
 “Bring Raven here first.”
 
 Knowing her personality, her heart must be in her mouth by now.
-***
+
+---
 
 Ricardo Lühensprache.
 

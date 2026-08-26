@@ -120,7 +120,7 @@ After the marquis, the mastermind behind the plot, collapsed, the trap using the
 
 How did he know to come here?
 
-***
+---
 
 The Royal Army, which had remained silent and focused solely on defending the Imperial Capital even as Ravigion and Commelby were destroyed, finally began to move.
 

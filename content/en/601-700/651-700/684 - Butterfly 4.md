@@ -321,7 +321,8 @@ At least for today—
 ‘Enemies with more than 90% HP take double damage.」
 
 I am the main damage dealer.
-***
+
+---
 
 1 minute, 2 minutes, 3 minutes...
 

@@ -252,7 +252,7 @@ As I approached cautiously, shielding my upper body with my shield, I froze when
 
 Inside the coffin was nothing but a snow-white skeleton arranged in a proper funerary posture.
 
-***
+---
 
 As I stared down at it blankly, Baek-ho called Ruin Gramps.
 

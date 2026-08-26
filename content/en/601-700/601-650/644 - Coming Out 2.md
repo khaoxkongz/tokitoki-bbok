@@ -110,7 +110,7 @@ To counter it, I had no choice but to prepare an even stronger move.
 
 For the first time in a long while, I wished tomorrow would never come.
 
-***
+---
 
 The next morning, an hour before the royal council meeting.
 

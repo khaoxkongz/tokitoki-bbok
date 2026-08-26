@@ -252,7 +252,7 @@ A four-story building with a whopping 24 units.
 
 In simpler terms, it was a studio complex apartment.
 
-***
+---
 
 After explaining the concept of Happiness Housing, I started promoting its benefits.
 
@@ -342,7 +342,7 @@ I felt no anxiety whatsoever, experiencing a state of near-perfect serenity.
 
 ...Son of a bitch.
 
-***
+---
 
 Second Place Has Its Own Value
 

@@ -82,7 +82,7 @@ She stared straight at me, eyes unfathomably deep.
 
 That was the last thing I remembered.
 
-***
+---
 
 Like someone just pulled from the water, I gasped for air the moment I jerked upright.
 

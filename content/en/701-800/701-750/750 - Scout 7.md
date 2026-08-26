@@ -509,7 +509,7 @@ But one thing was certain.
 
 ...I’m saved.
 
-***
+---
 
 「Abman Urichfrit has cast [Super-Strengthen]
 
@@ -533,7 +533,8 @@ But one thing was certain.
 
 [...]
 
-***
+---
+
 He didn’t speak to himself. Most self-talk tended to carry gloomy thoughts, and saying such things changed nothing in reality. If anything, it only made a person darker and more depressed.
 
 So he did not speak to himself.

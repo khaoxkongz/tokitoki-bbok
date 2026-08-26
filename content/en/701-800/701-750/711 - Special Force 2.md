@@ -100,7 +100,7 @@ But still—
 
 However, knowing that the law was far away and the barbarian was close, they only muttered their displeasure among themselves. History
 
-***
+---
 
 “Um... Baron Jandel, what brings you here...?”
 

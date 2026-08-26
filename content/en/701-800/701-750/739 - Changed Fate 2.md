@@ -181,7 +181,7 @@ Versyl, however, simply shrugged. She might be a mage and a ranged damage dealer
 
 If you want to protect something truly precious, you have to know how to strike back.
 
-***
+---
 
 The Chief adminstrative Officer of the Barbarian tribe, Shabin Emure.
 
@@ -247,7 +247,7 @@ With that, Rotmiller left the room, leaving Shabin Emure with flushed cheeks.
 
 Even as she sipped the fragrant tea, her heart refused to stop racing.
 
-***
+---
 
 Sir Lion
 

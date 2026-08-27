@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   cacheComponents: true,
   partialPrefetching: true,
-  allowedDevOrigins: ["192.168.97.16"],
+  allowedDevOrigins: ["192.168.97.16", "192.168.20.132"],
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
   experimental: {},
 }
